@@ -1,0 +1,92 @@
+{
+  "chainId": "534352",
+  "version": "0",
+  "list": {
+    "0x40375c92d9faf44d2f9db9bd9ba41a3317a2404f": {
+      "chainId": 534352,
+      "decimals": 18,
+      "name": "IceCream",
+      "address": "0x40375c92d9faf44d2f9db9bd9ba41a3317a2404f",
+      "symbol": "ICE",
+      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/534352/0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f.png",
+      "assetGroup": "ICE"
+    },
+    "0xc0e49f8c615d3d4c245970f6dc528e4a47d69a44": {
+      "chainId": 534352,
+      "decimals": 18,
+      "name": "Tether USD",
+      "address": "0xc0e49f8c615d3d4c245970f6dc528e4a47d69a44",
+      "symbol": "USDT",
+      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/534352/0xc0E49f8C615d3d4c245970F6Dc528E4A47d69a44.png",
+      "assetGroup": "USDT"
+    },
+    "0x5300000000000000000000000000000000000004": {
+      "chainId": 534352,
+      "decimals": 18,
+      "name": "Wrapped Ether",
+      "address": "0x5300000000000000000000000000000000000004",
+      "symbol": "WETH",
+      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/534352/0x5300000000000000000000000000000000000004.png",
+      "assetGroup": "WETH"
+    },
+    "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4": {
+      "chainId": 534352,
+      "decimals": 6,
+      "name": "USD Coin",
+      "address": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
+      "symbol": "USDC",
+      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/534352/0x06eFdBFf2a14a7c8E15944D1F4A48F9F95F663A4.png",
+      "assetGroup": "USDC"
+    },
+    "0xf55bec9cafdbe8730f096aa55dad6d22d44099df": {
+      "chainId": 534352,
+      "decimals": 6,
+      "name": "Tether USD",
+      "address": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
+      "symbol": "USDT",
+      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/534352/0xf55BEC9cafDbE8730f096Aa55dad6D22d44099Df.png",
+      "assetGroup": "USDT"
+    },
+    "0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1": {
+      "chainId": 534352,
+      "decimals": 8,
+      "name": "Wrapped BTC",
+      "address": "0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1",
+      "symbol": "WBTC",
+      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/534352/0x3C1BCa5a656e69edCD0D4E36BEbb3FcDAcA60Cf1.png",
+      "assetGroup": "WBTC"
+    },
+    "0xca77eb3fefe3725dc33bccb54edefc3d9f764f97": {
+      "chainId": 534352,
+      "decimals": 18,
+      "name": "Dai Stablecoin",
+      "address": "0xca77eb3fefe3725dc33bccb54edefc3d9f764f97",
+      "symbol": "DAI",
+      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/534352/0xcA77eB3fEFe3725Dc33bccB54eDEFc3D9f764f97.png",
+      "assetGroup": "DAI"
+    },
+    "0xf610a9dfb7c89644979b4a0f27063e9e7d7cda32": {
+      "chainId": 534352,
+      "decimals": 18,
+      "name": "Wrapped liquid staked Ether 2.0",
+      "address": "0xf610a9dfb7c89644979b4a0f27063e9e7d7cda32",
+      "symbol": "wstETH",
+      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/534352/0xf610A9dfB7C89644979b4A0f27063E9e7d7Cda32.png",
+      "assetGroup": "WSTETH"
+    }
+  },
+  "mainTokens": [
+    "0xc0e49f8c615d3d4c245970f6dc528e4a47d69a44",
+    "0x5300000000000000000000000000000000000004",
+    "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
+    "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
+    "0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1"
+  ],
+  "bridgeTokens": [
+    "0xc0e49f8c615d3d4c245970f6dc528e4a47d69a44",
+    "0x5300000000000000000000000000000000000004",
+    "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
+    "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
+    "0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1"
+  ]
+}

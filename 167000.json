@@ -1,0 +1,264 @@
+{
+  "chainId": "167000",
+  "version": "0",
+  "list": {
+    "0xa51894664a773981c6c112c43ce576f315d5b1b6": {
+      "chainId": 167000,
+      "decimals": 18,
+      "name": "Wrapped Ether",
+      "address": "0xa51894664a773981c6c112c43ce576f315d5b1b6",
+      "symbol": "WETH",
+      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/167000/0xA51894664A773981C6C112C43ce576f315d5b1B6.png",
+      "assetGroup": "WETH"
+    },
+    "0x07d83526730c7438048d55a4fc0b850e2aab6f0b": {
+      "chainId": 167000,
+      "decimals": 6,
+      "name": "USD Coin",
+      "address": "0x07d83526730c7438048d55a4fc0b850e2aab6f0b",
+      "symbol": "USDC",
+      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/167000/0x07d83526730c7438048D55A4fc0b850e2aaB6f0b.png",
+      "assetGroup": "USDC"
+    },
+    "0x19e26b0638bf63aa9fa4d14c6baf8d52ebe86c5c": {
+      "chainId": 167000,
+      "decimals": 6,
+      "name": "Bridged USDC (Stargate)",
+      "address": "0x19e26b0638bf63aa9fa4d14c6baf8d52ebe86c5c",
+      "symbol": "USDC.e",
+      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/167000/0x19e26B0638bf63aa9fa4d14c6baF8D52eBE86C5C.png",
+      "assetGroup": "USDC_E"
+    },
+    "0x9c2dc7377717603eb92b2655c5f2e7997a4945bd": {
+      "chainId": 167000,
+      "decimals": 6,
+      "name": "Tether USD",
+      "address": "0x9c2dc7377717603eb92b2655c5f2e7997a4945bd",
+      "symbol": "USDT",
+      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/167000/0x9c2dc7377717603eB92b2655c5f2E7997a4945BD.png",
+      "assetGroup": "USDT"
+    },
+    "0x2def195713cf4a606b49d07e520e22c17899a736": {
+      "chainId": 167000,
+      "decimals": 6,
+      "name": "Tether USD",
+      "address": "0x2def195713cf4a606b49d07e520e22c17899a736",
+      "symbol": "USDT",
+      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/167000/0x2DEF195713CF4a606B49D07E520e22C17899a736.png",
+      "assetGroup": "USDT"
+    },
+    "0xc4c410459fbaf8f7f86b6cee52b4fa1282ff9704": {
+      "chainId": 167000,
+      "decimals": 8,
+      "name": "Wrapped BTC",
+      "address": "0xc4c410459fbaf8f7f86b6cee52b4fa1282ff9704",
+      "symbol": "WBTC",
+      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/167000/0xc4C410459fbaF8f7F86b6cEE52b4fA1282FF9704.png",
+      "assetGroup": "WBTC"
+    },
+    "0xa9d23408b9ba935c230493c40c73824df71a0975": {
+      "chainId": 167000,
+      "decimals": 18,
+      "name": "Taiko Token",
+      "address": "0xa9d23408b9ba935c230493c40c73824df71a0975",
+      "symbol": "TAIKO",
+      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/167000/0xA9d23408b9bA935c230493c40C73824Df71A0975.png",
+      "assetGroup": "TAIKO"
+    },
+    "0x7e91f29f8a213c8311712a8fc8c61219fb9477cb": {
+      "chainId": 167000,
+      "decimals": 18,
+      "name": "Kodo Token",
+      "address": "0x7e91f29f8a213c8311712a8fc8c61219fb9477cb",
+      "symbol": "KODO",
+      "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/kodo.svg",
+      "assetGroup": "KODO"
+    },
+    "0xd347949f8c85d9f3d6b06bfc4f8c2e07c161f064": {
+      "chainId": 167000,
+      "decimals": 18,
+      "name": "LoopringCoin V2",
+      "address": "0xd347949f8c85d9f3d6b06bfc4f8c2e07c161f064",
+      "symbol": "LRC",
+      "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/lrc.png",
+      "assetGroup": "LRC"
+    },
+    "0x473c58b748156d3249ca31baa3cad9781eb6d97e": {
+      "chainId": 167000,
+      "decimals": 18,
+      "name": "Rocket Pool ETH",
+      "address": "0x473c58b748156d3249ca31baa3cad9781eb6d97e",
+      "symbol": "rETH",
+      "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/reth.svg",
+      "assetGroup": "RETH"
+    },
+    "0xf9a06e3afaadbccccc8824a1255a88d648ca0ef6": {
+      "chainId": 167000,
+      "decimals": 18,
+      "name": "TaikoSwap",
+      "address": "0xf9a06e3afaadbccccc8824a1255a88d648ca0ef6",
+      "symbol": "TKOSWAP",
+      "logoURI": "https://assets.coingecko.com/coins/images/38471/standard/taikoswap.jpeg?1717647381",
+      "assetGroup": "TKOSWAP"
+    },
+    "0x2d9e1da77f086c50f93db46e554974b71536a9ee": {
+      "chainId": 167000,
+      "decimals": 18,
+      "name": "MAGA",
+      "address": "0x2d9e1da77f086c50f93db46e554974b71536a9ee",
+      "symbol": "MAGA",
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/maga.png",
+      "assetGroup": "MAGA"
+    },
+    "0x5217c8f3b7fb8b6501c8ff2a4c09b14b4b08c9f9": {
+      "chainId": 167000,
+      "decimals": 18,
+      "name": "Affine ultraETHs 2.0",
+      "address": "0x5217c8f3b7fb8b6501c8ff2a4c09b14b4b08c9f9",
+      "symbol": "ultraETHs",
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/ultraeths.png",
+      "assetGroup": "ULTRAETHS"
+    },
+    "0xa2fba3fde6c9e7386716b577e1258577cb9b5bf7": {
+      "chainId": 167000,
+      "decimals": 18,
+      "name": "izumi Token",
+      "address": "0xa2fba3fde6c9e7386716b577e1258577cb9b5bf7",
+      "symbol": "iZi",
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg",
+      "assetGroup": "IZI"
+    },
+    "0xda9a0fbce1b8b11fcbd8114354ec266594c0ff5a": {
+      "chainId": 167000,
+      "decimals": 18,
+      "name": "Wrapped sxETH",
+      "address": "0xda9a0fbce1b8b11fcbd8114354ec266594c0ff5a",
+      "symbol": "wsxETH",
+      "logoURI": "https://panko.finance/images/token-image/wsxeth.png",
+      "assetGroup": "WSXETH"
+    },
+    "0x541fd749419ca806a8bc7da8ac23d346f2df8b77": {
+      "chainId": 167000,
+      "decimals": 18,
+      "name": "Solv BTC",
+      "address": "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
+      "symbol": "SolvBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/36800/standard/solvBTC.png?1719810684",
+      "assetGroup": "SOLVBTC"
+    },
+    "0xcc0966d8418d412c599a6421b760a847eb169a8c": {
+      "chainId": 167000,
+      "decimals": 18,
+      "name": "SolvBTC Babylon",
+      "address": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
+      "symbol": "SolvBTC.BBN",
+      "logoURI": "https://assets.coingecko.com/coins/images/39384/standard/unnamed.png?1721961640",
+      "assetGroup": "SOLVBTC_BBN"
+    },
+    "0xf7fb2df9280eb0a76427dc3b34761db8b1441a49": {
+      "chainId": 167000,
+      "decimals": 18,
+      "name": "Merlin BTC",
+      "address": "0xf7fb2df9280eb0a76427dc3b34761db8b1441a49",
+      "symbol": "M-BTC",
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mbtc.svg",
+      "assetGroup": "M_BTC"
+    },
+    "0x93919784c523f39cacaa98ee0a9d96c3f32b593e": {
+      "chainId": 167000,
+      "decimals": 8,
+      "name": "uniBTC",
+      "address": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
+      "symbol": "uniBTC",
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/unibtc.png",
+      "assetGroup": "UNIBTC"
+    },
+    "0x6a9a65b84843f5fd4ac9a0471c4fc11afffbce4a": {
+      "chainId": 167000,
+      "decimals": 8,
+      "name": "Lorenzo Wrapped Bitcoin",
+      "address": "0x6a9a65b84843f5fd4ac9a0471c4fc11afffbce4a",
+      "symbol": "enzoBTC",
+      "logoURI": "https://images.dodoex.io/X1B1iHAvXAuHar8VBt_U476tCJvXBp8UTZYg-6UZFzs/rs:fit:24:24:0/g:no/aHR0cHM6Ly90b2tlbi1pbWcuZG9kb2V4LmlvLzE2NzAwMC8weDZhOWE2NWI4NDg0M2Y1ZmQ0YWM5YTA0NzFjNGZjMTFhZmZmYmNlNGE.webp",
+      "assetGroup": "ENZOBTC"
+    },
+    "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3": {
+      "chainId": 167000,
+      "decimals": 18,
+      "name": "Lorenzo stBTC",
+      "address": "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3",
+      "symbol": "stBTC",
+      "logoURI": "https://images.dodoex.io/E-WU2fRJHfKzaCUpRHZ0KmIljGWeEpYmVxt8wEIWeKY/rs:fit:24:24:0/g:no/aHR0cHM6Ly90b2tlbi1pbWcuZG9kb2V4LmlvLzE2NzAwMC8weGY2NzE4YjI3MDFkNGE2NDk4ZWY3N2Q3YzE1MmIyMTM3YWIyOGI4YTM.webp",
+      "assetGroup": "STBTC"
+    },
+    "0xe3c0ff176ef92fc225096c6d1788ccb818808b35": {
+      "chainId": 167000,
+      "decimals": 8,
+      "name": "Obelisk BTC",
+      "address": "0xe3c0ff176ef92fc225096c6d1788ccb818808b35",
+      "symbol": "oBTC",
+      "logoURI": "https://images.dodoex.io/yj_L45Yvz01b54avWCNl7pKoEyr7F0e6xmj8ChYcdLA/rs:fit:36:36:0/g:no/aHR0cHM6Ly90b2tlbi1pbWcuZG9kb2V4LmlvLzE2NzAwMC8weGUzYzBmZjE3NmVmOTJmYzIyNTA5NmM2ZDE3ODhjY2I4MTg4MDhiMzU.webp",
+      "assetGroup": "OBTC"
+    },
+    "0x36bfe1f1b36cfdb4fe75cc592ff5dc6200ad3e0f": {
+      "chainId": 167000,
+      "decimals": 18,
+      "name": "Swapsicle SLUSH Token",
+      "address": "0x36bfe1f1b36cfdb4fe75cc592ff5dc6200ad3e0f",
+      "symbol": "SLUSH",
+      "logoURI": "https://app.swapsicle.io/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2Fswapsicledex%2Fswapsicle-token-list%2Fmaster%2Flogos%2Fmantle%2F0x950570d7b3cec2d93b506d2d4eb53f38cbd130b0%2Flogo.png&w=32&q=75",
+      "assetGroup": "SLUSH"
+    },
+    "0xc8f4518ed4bab9a972808a493107926ce8237068": {
+      "chainId": 167000,
+      "decimals": 18,
+      "name": "Curve.Fi USD Stablecoin",
+      "address": "0xc8f4518ed4bab9a972808a493107926ce8237068",
+      "symbol": "crvUSD",
+      "logoURI": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets-taiko/0xc8f4518ed4bab9a972808a493107926ce8237068.png",
+      "assetGroup": "CRVUSD"
+    },
+    "0x09413312b263fd252c16e592a45f4689f26cb79d": {
+      "chainId": 167000,
+      "decimals": 18,
+      "name": "Curve DAO Token",
+      "address": "0x09413312b263fd252c16e592a45f4689f26cb79d",
+      "symbol": "CRV",
+      "logoURI": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets-taiko/0x09413312b263fd252c16e592a45f4689f26cb79d.png",
+      "assetGroup": "CRV"
+    }
+  },
+  "mainTokens": [
+    "0xa51894664a773981c6c112c43ce576f315d5b1b6",
+    "0xa9d23408b9ba935c230493c40c73824df71a0975",
+    "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
+    "0x6a9a65b84843f5fd4ac9a0471c4fc11afffbce4a",
+    "0xc8f4518ed4bab9a972808a493107926ce8237068",
+    "0x09413312b263fd252c16e592a45f4689f26cb79d",
+    "0x07d83526730c7438048d55a4fc0b850e2aab6f0b",
+    "0xe3c0ff176ef92fc225096c6d1788ccb818808b35",
+    "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3",
+    "0xc4c410459fbaf8f7f86b6cee52b4fa1282ff9704",
+    "0x19e26b0638bf63aa9fa4d14c6baf8d52ebe86c5c",
+    "0x2def195713cf4a606b49d07e520e22c17899a736",
+    "0x7e91f29f8a213c8311712a8fc8c61219fb9477cb",
+    "0x473c58b748156d3249ca31baa3cad9781eb6d97e",
+    "0xf7fb2df9280eb0a76427dc3b34761db8b1441a49",
+    "0x36bfe1f1b36cfdb4fe75cc592ff5dc6200ad3e0f",
+    "0x2d9e1da77f086c50f93db46e554974b71536a9ee",
+    "0x5217c8f3b7fb8b6501c8ff2a4c09b14b4b08c9f9",
+    "0xa2fba3fde6c9e7386716b577e1258577cb9b5bf7",
+    "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
+    "0xda9a0fbce1b8b11fcbd8114354ec266594c0ff5a",
+    "0xcc0966d8418d412c599a6421b760a847eb169a8c",
+    "0x9c2dc7377717603eb92b2655c5f2e7997a4945bd"
+  ],
+  "bridgeTokens": [
+    "0xa51894664a773981c6c112c43ce576f315d5b1b6",
+    "0x07d83526730c7438048d55a4fc0b850e2aab6f0b",
+    "0x19e26b0638bf63aa9fa4d14c6baf8d52ebe86c5c",
+    "0x2def195713cf4a606b49d07e520e22c17899a736",
+    "0x9c2dc7377717603eb92b2655c5f2e7997a4945bd",
+    "0xc4c410459fbaf8f7f86b6cee52b4fa1282ff9704"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "chainId": "42220",
+  "version": "0",
+  "list": {
+    "0x471ece3750da237f93b8e339c536989b8978a438": {
+      "chainId": 42220,
+      "decimals": 18,
+      "name": "Celo",
+      "address": "0x471ece3750da237f93b8e339c536989b8978a438",
+      "symbol": "CELO",
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_CELO.png",
+      "assetGroup": "CELO"
+    },
+    "0x2def4285787d58a2f811af24755a8150622f4361": {
+      "chainId": 42220,
+      "decimals": 18,
+      "name": "Wrapped Ether",
+      "address": "0x2def4285787d58a2f811af24755a8150622f4361",
+      "symbol": "WETH",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "assetGroup": "WETH"
+    },
+    "0xd629eb00deced2a080b7ec630ef6ac117e614f1b": {
+      "chainId": 42220,
+      "decimals": 18,
+      "name": "Wrapped Bitcoin",
+      "address": "0xd629eb00deced2a080b7ec630ef6ac117e614f1b",
+      "symbol": "BTC",
+      "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WBTC.png",
+      "assetGroup": "BTC"
+    },
+    "0xceba9300f2b948710d2653dd7b07f33a8b32118c": {
+      "chainId": 42220,
+      "decimals": 6,
+      "name": "USDCoin",
+      "address": "0xceba9300f2b948710d2653dd7b07f33a8b32118c",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+      "assetGroup": "USDC"
+    },
+    "0x48065fbbe25f71c9282ddf5e1cd6d6a887483d5e": {
+      "chainId": 42220,
+      "decimals": 6,
+      "name": "Tether USD",
+      "address": "0x48065fbbe25f71c9282ddf5e1cd6d6a887483d5e",
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+      "assetGroup": "USDT"
+    }
+  },
+  "mainTokens": [
+    "0x2def4285787d58a2f811af24755a8150622f4361",
+    "0xceba9300f2b948710d2653dd7b07f33a8b32118c",
+    "0x48065fbbe25f71c9282ddf5e1cd6d6a887483d5e"
+  ],
+  "bridgeTokens": [
+    "0x2def4285787d58a2f811af24755a8150622f4361",
+    "0xceba9300f2b948710d2653dd7b07f33a8b32118c",
+    "0x48065fbbe25f71c9282ddf5e1cd6d6a887483d5e"
+  ]
+}

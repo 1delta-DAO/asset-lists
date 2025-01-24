@@ -1,0 +1,44 @@
+{
+  "chainId": "40",
+  "version": "0",
+  "list": {
+    "0xb25cb6a275a8d6a613228fb161eb3627b50eb696": {
+      "chainId": 40,
+      "decimals": 18,
+      "name": "IceCream",
+      "address": "0xb25cb6a275a8d6a613228fb161eb3627b50eb696",
+      "symbol": "ICE",
+      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/40/0xB25cB6a275a8D6a613228FB161eB3627b50EB696.png",
+      "assetGroup": "ICE"
+    },
+    "0xc57f0eb99363e747d637b17bbdb4e1ab85e60631": {
+      "chainId": 40,
+      "decimals": 18,
+      "name": "Tether USD (ICE Bridge)",
+      "address": "0xc57f0eb99363e747d637b17bbdb4e1ab85e60631",
+      "symbol": "USDT",
+      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/40/0xc57F0eb99363e747D637B17BBdB4e1AB85e60631.png",
+      "assetGroup": "USDT"
+    },
+    "0xb4b01216a5bc8f1c8a33cd990a1239030e60c905": {
+      "chainId": 40,
+      "decimals": 18,
+      "name": "Staked TLOS",
+      "address": "0xb4b01216a5bc8f1c8a33cd990a1239030e60c905",
+      "symbol": "STLOS",
+      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/40/0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905.png",
+      "assetGroup": "STLOS"
+    },
+    "0xdc2393dc10734bf153153038943a5deb42b209cd": {
+      "chainId": 40,
+      "decimals": 18,
+      "name": "Wrapped TLOS",
+      "address": "0xdc2393dc10734bf153153038943a5deb42b209cd",
+      "symbol": "WTLOS",
+      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/40/0xDC2393dc10734BF153153038943a5deB42b209cd.png",
+      "assetGroup": "WTLOS"
+    }
+  },
+  "mainTokens": ["0xc57f0eb99363e747d637b17bbdb4e1ab85e60631"],
+  "bridgeTokens": ["0xc57f0eb99363e747d637b17bbdb4e1ab85e60631"]
+}

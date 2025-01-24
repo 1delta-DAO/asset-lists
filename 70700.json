@@ -1,0 +1,26 @@
+{
+  "chainId": "70700",
+  "version": "0",
+  "list": {
+    "0x77684a04145a5924efce0d92a7c4a2a2e8c359de": {
+      "chainId": 70700,
+      "decimals": 18,
+      "name": "WETH",
+      "address": "0x77684a04145a5924efce0d92a7c4a2a2e8c359de",
+      "symbol": "WETH",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/eth.svg",
+      "assetGroup": "WETH"
+    },
+    "0xd7f991cf407c877dc91b2c6acade45643925cf7a": {
+      "chainId": 70700,
+      "decimals": 6,
+      "name": "USD Coin",
+      "address": "0xd7f991cf407c877dc91b2c6acade45643925cf7a",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdc.svg",
+      "assetGroup": "USDC"
+    }
+  },
+  "mainTokens": ["0x77684a04145a5924efce0d92a7c4a2a2e8c359de", "0xd7f991cf407c877dc91b2c6acade45643925cf7a"],
+  "bridgeTokens": ["0x77684a04145a5924efce0d92a7c4a2a2e8c359de", "0xd7f991cf407c877dc91b2c6acade45643925cf7a"]
+}
