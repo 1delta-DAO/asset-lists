@@ -1409,11 +1409,11 @@
     "0x2791bca1f2de4661ed88a30c99a7a9449aa84174": {
       "chainId": 137,
       "decimals": 6,
-      "name": "USDCoin",
+      "name": "Bridged USDC",
       "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
-      "symbol": "USDC",
+      "symbol": "USDC.e",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
-      "assetGroup": "USDC"
+      "assetGroup": "USDC_E"
     },
     "0xc2132d05d31c914a87c6611c10748aeb04b58e8f": {
       "chainId": 137,
@@ -1531,15 +1531,6 @@
       "symbol": "agEUR",
       "logoURI": "https://assets.coingecko.com/coins/images/19479/standard/agEUR.png?1696518915",
       "assetGroup": "AGEUR"
-    },
-    "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359": {
-      "chainId": 137,
-      "decimals": 6,
-      "name": "USDCoin",
-      "address": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
-      "symbol": "USDC",
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
-      "assetGroup": "USDC"
     },
     "0x8de5b80a0c1b02fe4976851d030b36122dbb8624": {
       "chainId": 137,
@@ -3738,14 +3729,6 @@
       "symbol": "VUFIS",
       "assetGroup": "VUFIS"
     },
-    "0x345df42b1e4963d70909e09935b9a1f7ef832114": {
-      "chainId": 137,
-      "decimals": 0,
-      "name": "Degen$ Farm Bags",
-      "address": "0x345df42b1e4963d70909e09935b9a1f7ef832114",
-      "symbol": "BAGZ",
-      "assetGroup": "BAGZ"
-    },
     "0x2f911f789d9d599b34d403a2cfc0c5b3f7e8ce7a": {
       "chainId": 137,
       "decimals": 18,
@@ -4735,14 +4718,6 @@
       "symbol": "QUARTZ",
       "assetGroup": "QUARTZ"
     },
-    "0xca8c6dea40a6de9be3b4c73a1aefaafdb4754f73": {
-      "chainId": 137,
-      "decimals": 0,
-      "name": "PIXA Token",
-      "address": "0xca8c6dea40a6de9be3b4c73a1aefaafdb4754f73",
-      "symbol": "PIXA",
-      "assetGroup": "PIXA"
-    },
     "0x6bd9da80d6a7aa03d739353096df36ec18738c99": {
       "chainId": 137,
       "decimals": 18,
@@ -4970,14 +4945,6 @@
       "symbol": "EJS",
       "logoURI": "https://assets.coingecko.com/coins/images/18732/large/l-R1nYA0_400x400.jpg?1633297242",
       "assetGroup": "EJS"
-    },
-    "0x6393c0a63712601e3dda577dc5bfaf0189e89169": {
-      "chainId": 137,
-      "decimals": 0,
-      "name": "Bored Banana Token",
-      "address": "0x6393c0a63712601e3dda577dc5bfaf0189e89169",
-      "symbol": "$BANANA",
-      "assetGroup": "$BANANA"
     },
     "0x1659ffb2d40dfb1671ac226a0d9dcc95a774521a": {
       "chainId": 137,
@@ -5295,14 +5262,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/12916/large/qrx_logo.png?1603550478",
       "assetGroup": "QRX"
     },
-    "0xba19a5b5029aea6fe018742e6efc5a204a58c14d": {
-      "chainId": 137,
-      "decimals": 0,
-      "name": "Ino Coin",
-      "address": "0xba19a5b5029aea6fe018742e6efc5a204a58c14d",
-      "symbol": "INO",
-      "assetGroup": "INO"
-    },
     "0xd8a805447b1ce5bae810f029df5536a57f71b91c": {
       "chainId": 137,
       "decimals": 18,
@@ -5546,15 +5505,6 @@
       "address": "0x49b1be61a8ca3f9a9f178d6550e41e00d9162159",
       "symbol": "GGTK",
       "assetGroup": "GGTK"
-    },
-    "0xd871b40646e1a6dbded6290b6b696459a69c68a0": {
-      "chainId": 137,
-      "decimals": 8,
-      "name": "Compound USD Coin",
-      "address": "0xd871b40646e1a6dbded6290b6b696459a69c68a0",
-      "symbol": "cUSDC",
-      "logoURI": "https://assets.coingecko.com/coins/images/9442/large/Compound_USDC.png?1567581577",
-      "assetGroup": "CUSDC"
     },
     "0x25b3a129907b675e19ce6dd3f2a6db50023ecf80": {
       "chainId": 137,
@@ -7788,14 +7738,6 @@
       "symbol": "MEL",
       "assetGroup": "MEL"
     },
-    "0xc87dc7474db6cdb9d37cc38a227dcd7b12289f22": {
-      "chainId": 137,
-      "decimals": 0,
-      "name": "VNDC",
-      "address": "0xc87dc7474db6cdb9d37cc38a227dcd7b12289f22",
-      "symbol": "VNDC",
-      "assetGroup": "VNDC"
-    },
     "0x598e49f01befeb1753737934a5b11fea9119c796": {
       "chainId": 137,
       "decimals": 11,
@@ -7819,30 +7761,6 @@
       "address": "0x0921fe2ad25266df4c078c051f7ad1c2298e89fc",
       "symbol": "ITF",
       "assetGroup": "ITF"
-    },
-    "0x1997fc07b67e7962cddd6e4db84e3c7315bf4eb0": {
-      "chainId": 137,
-      "decimals": 8,
-      "name": "OT Compound Dai 29DEC2022",
-      "address": "0x1997fc07b67e7962cddd6e4db84e3c7315bf4eb0",
-      "symbol": "OT-cDAI-29DEC2022",
-      "assetGroup": "OT_CDAI_29DEC2022"
-    },
-    "0x778ba5c85c48c695228af7e4ce3e8ea96a50870c": {
-      "chainId": 137,
-      "decimals": 6,
-      "name": "'OT Aave interest bearing USDC 29DEC2022",
-      "address": "0x778ba5c85c48c695228af7e4ce3e8ea96a50870c",
-      "symbol": "OT-aUSDC-29DEC2022",
-      "assetGroup": "OT_AUSDC_29DEC2022"
-    },
-    "0xb91c05cf30a973a58295c8db9248d0911cf091e5": {
-      "chainId": 137,
-      "decimals": 0,
-      "name": "Valencoin",
-      "address": "0xb91c05cf30a973a58295c8db9248d0911cf091e5",
-      "symbol": "VALOU",
-      "assetGroup": "VALOU"
     },
     "0xa0715b961daabafcb7a8a2bc1146541a21aa56c1": {
       "chainId": 137,
@@ -8674,15 +8592,6 @@
       "symbol": "PIZZA",
       "assetGroup": "PIZZA"
     },
-    "0xae64d44aa6bd7536005e663c48197d9631d4b3eb": {
-      "chainId": 137,
-      "decimals": 0,
-      "name": "UBX",
-      "address": "0xae64d44aa6bd7536005e663c48197d9631d4b3eb",
-      "symbol": "UBX",
-      "logoURI": "https://assets.coingecko.com/coins/images/13000/large/1.png?1674822617",
-      "assetGroup": "UBX"
-    },
     "0x0191297c4bf40b31031152c06fe804ba5af5fec1": {
       "chainId": 137,
       "decimals": 8,
@@ -8945,14 +8854,6 @@
       "symbol": "ALAN",
       "assetGroup": "ALAN"
     },
-    "0xebd0e6b73a0e0d231da8c91bdd60c09c9c0875c3": {
-      "chainId": 137,
-      "decimals": 0,
-      "name": "BracebridgeGolfClub",
-      "address": "0xebd0e6b73a0e0d231da8c91bdd60c09c9c0875c3",
-      "symbol": "BGC",
-      "assetGroup": "BGC"
-    },
     "0x6f7362ad5656beb11d94f4e608f2045e2fad9dc2": {
       "chainId": 137,
       "decimals": 18,
@@ -9189,14 +9090,6 @@
       "address": "0x6863bd30c9e313b264657b107352ba246f8af8e0",
       "symbol": "BPT",
       "assetGroup": "BPT"
-    },
-    "0x11cc08d7831f50a1359ff5f30e4cb7d309272e48": {
-      "chainId": 137,
-      "decimals": 0,
-      "name": "BCLTjack",
-      "address": "0x11cc08d7831f50a1359ff5f30e4cb7d309272e48",
-      "symbol": "jack",
-      "assetGroup": "JACK"
     },
     "0x147ee2488d2ede60b2443b22b245f6b4825f020f": {
       "chainId": 137,
@@ -10239,14 +10132,6 @@
       "symbol": "KIMCHI",
       "assetGroup": "KIMCHI"
     },
-    "0xd762d38220751f84ae5dc3fb67c8d971c08a638a": {
-      "chainId": 137,
-      "decimals": 0,
-      "name": "Silver Fifty Token",
-      "address": "0xd762d38220751f84ae5dc3fb67c8d971c08a638a",
-      "symbol": "SLX",
-      "assetGroup": "SLX"
-    },
     "0x98113e216578359b8c0eb3a9fddd64285e91120a": {
       "chainId": 137,
       "decimals": 18,
@@ -10296,14 +10181,6 @@
       "address": "0x4ba47b10ea8f544f8969ba61df3e5be67692a122",
       "symbol": "iFUND",
       "assetGroup": "IFUND"
-    },
-    "0xe8b3d257202a9dfe00ec396b8a8a45fced1f5798": {
-      "chainId": 137,
-      "decimals": 18,
-      "name": "IdleUSDC v4 [Best yield]",
-      "address": "0xe8b3d257202a9dfe00ec396b8a8a45fced1f5798",
-      "symbol": "idleUSDCYield",
-      "assetGroup": "IDLEUSDCYIELD"
     },
     "0x17d342b29f054030a455b4191f977c3b0aa62fd9": {
       "chainId": 137,
@@ -10977,14 +10854,6 @@
       "symbol": "mDAI",
       "assetGroup": "MDAI"
     },
-    "0x6e5bcf069213676e4e3c75aeb60eaab0c41ff1ce": {
-      "chainId": 137,
-      "decimals": 18,
-      "name": "\"mushrooming Curve.fi DAI/USDC/USDT",
-      "address": "0x6e5bcf069213676e4e3c75aeb60eaab0c41ff1ce",
-      "symbol": "m3Crv",
-      "assetGroup": "M3CRV"
-    },
     "0xdc0f3c12df89593357985491bdacc5fd789ca4b2": {
       "chainId": 137,
       "decimals": 18,
@@ -11387,14 +11256,6 @@
       "symbol": "BASv2",
       "assetGroup": "BASV2"
     },
-    "0xa6d996afdbc613a5c5fc92bbaefbc7b827419e8f": {
-      "chainId": 137,
-      "decimals": 0,
-      "name": "CehhCoin",
-      "address": "0xa6d996afdbc613a5c5fc92bbaefbc7b827419e8f",
-      "symbol": "CEHH",
-      "assetGroup": "CEHH"
-    },
     "0x365ae1c67b3efa55c624c9705ad1df2072d3d254": {
       "chainId": 137,
       "decimals": 18,
@@ -11755,14 +11616,6 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8909.png",
       "assetGroup": "STR"
     },
-    "0x0ab8b5304c07bb29514dad43adba7a44c67b0506": {
-      "chainId": 137,
-      "decimals": 0,
-      "name": "santa.investments",
-      "address": "0x0ab8b5304c07bb29514dad43adba7a44c67b0506",
-      "symbol": "SANTA",
-      "assetGroup": "SANTA"
-    },
     "0x5de4005155933c0e1612ce808f12b4cd8daabc82": {
       "chainId": 137,
       "decimals": 18,
@@ -11956,14 +11809,6 @@
       "symbol": "GREEN",
       "assetGroup": "GREEN"
     },
-    "0x03bb597efd7bb986222afda80858f05a3bc4a2e9": {
-      "chainId": 137,
-      "decimals": 0,
-      "name": "KEY Token",
-      "address": "0x03bb597efd7bb986222afda80858f05a3bc4a2e9",
-      "symbol": "KEY",
-      "assetGroup": "KEY"
-    },
     "0xe8f157e041df3b28151b667364e9c90789da7923": {
       "chainId": 137,
       "decimals": 18,
@@ -12146,14 +11991,6 @@
       "address": "0xfbdb45075fb73ca4cc8b83fd6fdb4f9b696b1ba1",
       "symbol": "sdeursCRV",
       "assetGroup": "SDEURSCRV"
-    },
-    "0x87f0bfee4435ce2b8643b221d0c1cad21f5328b4": {
-      "chainId": 137,
-      "decimals": 18,
-      "name": "stake dao Curve.fi DAI/USDC/USDT",
-      "address": "0x87f0bfee4435ce2b8643b221d0c1cad21f5328b4",
-      "symbol": "sd3Crv",
-      "assetGroup": "SD3CRV"
     },
     "0x07cc1cc3628cc1615120df781ef9fc8ec2feae09": {
       "chainId": 137,
@@ -12591,15 +12428,6 @@
       "symbol": "XFT",
       "assetGroup": "XFT"
     },
-    "0xfed16c746cb5bfed009730f9e3e6a673006105c7": {
-      "chainId": 137,
-      "decimals": 0,
-      "name": "Digital Reserve Currency",
-      "address": "0xfed16c746cb5bfed009730f9e3e6a673006105c7",
-      "symbol": "DRC",
-      "logoURI": "https://assets.coingecko.com/coins/images/12802/large/DRC_Logo.jpg?1654229818",
-      "assetGroup": "DRC"
-    },
     "0xe47dbe919c8ab0c1a1c1e97a1eefc2b946253924": {
       "chainId": 137,
       "decimals": 18,
@@ -12890,14 +12718,6 @@
       "symbol": "FTHR",
       "assetGroup": "FTHR"
     },
-    "0xc8c511fe3edba60bc1049a88060468c2ea2d6358": {
-      "chainId": 137,
-      "decimals": 0,
-      "name": "Hands Of Steel",
-      "address": "0xc8c511fe3edba60bc1049a88060468c2ea2d6358",
-      "symbol": "STEEL",
-      "assetGroup": "STEEL"
-    },
     "0xbe319a08ebe5da37c5a8ce8a0d8463ff6750e53b": {
       "chainId": 137,
       "decimals": 18,
@@ -13153,15 +12973,6 @@
       "address": "0xd6c914bb2fca4bcb6644d01c4cf690c34a166e13",
       "symbol": "ViFi",
       "assetGroup": "VIFI"
-    },
-    "0xb140665dde25c644c6b418e417c930de8a8a6ac9": {
-      "chainId": 137,
-      "decimals": 0,
-      "name": "AtariToken",
-      "address": "0xb140665dde25c644c6b418e417c930de8a8a6ac9",
-      "symbol": "ATRI",
-      "logoURI": "https://assets.coingecko.com/coins/images/12992/large/AtariLogoPS_200x200_%281%29.png?1643189483",
-      "assetGroup": "ATRI"
     },
     "0x6c222361b1407c196f740c1bffc17d1770bfd55c": {
       "chainId": 137,
@@ -13535,14 +13346,6 @@
       "symbol": "MCB",
       "logoURI": "https://assets.coingecko.com/coins/images/11796/large/mux.jpg?1660125796",
       "assetGroup": "MCB"
-    },
-    "0xc10aacff41af60bfcfaba3a03099c4aedb113e15": {
-      "chainId": 137,
-      "decimals": 0,
-      "name": "Galactican Founders Token",
-      "address": "0xc10aacff41af60bfcfaba3a03099c4aedb113e15",
-      "symbol": "GFT",
-      "assetGroup": "GFT"
     },
     "0x462d8d82c2b2d2ddabf7f8a93928de09d47a5807": {
       "chainId": 137,
@@ -15121,14 +14924,6 @@
       "symbol": "TECHT",
       "assetGroup": "TECHT"
     },
-    "0x24f172d764149f9f4feaecbcd49a9725ff878233": {
-      "chainId": 137,
-      "decimals": 6,
-      "name": "Bridged USDC",
-      "address": "0x24f172d764149f9f4feaecbcd49a9725ff878233",
-      "symbol": "USDC",
-      "assetGroup": "USDC"
-    },
     "0x572cf3b35dcb8feafddd0fa314e83257e5b7d426": {
       "chainId": 137,
       "decimals": 18,
@@ -16491,14 +16286,6 @@
       "address": "0x1ab2bfb59de8092928d333c0a6863ba7cf6b248b",
       "symbol": "RBC",
       "assetGroup": "RBC"
-    },
-    "0x97340953ba41b21cce22f483f48a7eeabee77069": {
-      "chainId": 137,
-      "decimals": 6,
-      "name": "ShapeShift DAO Convertible Bond",
-      "address": "0x97340953ba41b21cce22f483f48a7eeabee77069",
-      "symbol": "!FOX CONVERT 2023-12-21 0.16C USDC",
-      "assetGroup": "EFOX_CONVERT_2023_12_21_0_16C_USDC"
     },
     "0x18ec0a6e18e5bc3784fdd3a3634b31245ab704f6": {
       "chainId": 137,
@@ -19320,14 +19107,6 @@
       "symbol": "SPRB",
       "assetGroup": "SPRB"
     },
-    "0x4224c379901444172cae578b5ea2eee8689c0b7a": {
-      "chainId": 137,
-      "decimals": 0,
-      "name": "Balance token",
-      "address": "0x4224c379901444172cae578b5ea2eee8689c0b7a",
-      "symbol": "BAL",
-      "assetGroup": "BAL"
-    },
     "0x12c5453d02fc1f5447d46bf0522c5c15f5bc1c91": {
       "chainId": 137,
       "decimals": 18,
@@ -19495,14 +19274,6 @@
       "address": "0xe61b839e87ffe2addd41b33f1b048f40fbb6a7f6",
       "symbol": "ODOGE",
       "assetGroup": "ODOGE"
-    },
-    "0x40e2210d41b65d9964852b44ea1c6669aac5496f": {
-      "chainId": 137,
-      "decimals": 6,
-      "name": "USD Coin",
-      "address": "0x40e2210d41b65d9964852b44ea1c6669aac5496f",
-      "symbol": "USDC",
-      "assetGroup": "USDC"
     },
     "0xfe6959adff20d71f350d878b6ad988efc34bcf06": {
       "chainId": 137,
@@ -19679,14 +19450,6 @@
       "address": "0x7dee38dbf31cf6f2866aaf92bfe495de9984e5fa",
       "symbol": "IMT",
       "assetGroup": "IMT"
-    },
-    "0x8dd34e59870fc6b669e52eaa4cd7d98184281ed2": {
-      "chainId": 137,
-      "decimals": 6,
-      "name": "USD Coin",
-      "address": "0x8dd34e59870fc6b669e52eaa4cd7d98184281ed2",
-      "symbol": "USDC",
-      "assetGroup": "USDC"
     },
     "0x973b5bd321ad6044ebc4e40e1c9af163d17170ca": {
       "chainId": 137,
@@ -21024,15 +20787,6 @@
       "logoURI": "https://arena.cryptocolosseum.com/images/icons/prestige.svg",
       "assetGroup": "WPTG"
     },
-    "0x2ff07791f125bf6ce120d938f862d0385cf4c835": {
-      "chainId": 137,
-      "decimals": 18,
-      "name": "USDC AMBO Ichi LP",
-      "address": "0x2ff07791f125bf6ce120d938f862d0385cf4c835",
-      "symbol": "USDC-AMBO",
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AMBO.svg",
-      "assetGroup": "USDC_AMBO"
-    },
     "0xe6828d65bf5023ae1851d90d8783cc821ba7eee1": {
       "chainId": 137,
       "decimals": 18,
@@ -21276,15 +21030,6 @@
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/IXT.png",
       "assetGroup": "IXT_USDT"
     },
-    "0xb2b6d423e535b57aad06e9866803b95fb66152ea": {
-      "chainId": 137,
-      "decimals": 18,
-      "name": "ORBS-USDC QuickSwap LP",
-      "address": "0xb2b6d423e535b57aad06e9866803b95fb66152ea",
-      "symbol": "ORBS-USDC",
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ORBS.png",
-      "assetGroup": "ORBS_USDC"
-    },
     "0x7f7c12acec546cdceb028cc5b57f7aa2d91f0887": {
       "chainId": 137,
       "decimals": 18,
@@ -21293,24 +21038,6 @@
       "symbol": "ETH-KNIGHT",
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KNIGHT.png",
       "assetGroup": "ETH_KNIGHT"
-    },
-    "0x9ff7ef52f423e06edb23859006372974a9692f9c": {
-      "chainId": 137,
-      "decimals": 18,
-      "name": "BOM-USDC QuickSwap LP",
-      "address": "0x9ff7ef52f423e06edb23859006372974a9692f9c",
-      "symbol": "BOM-USDC",
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BOM.png",
-      "assetGroup": "BOM_USDC"
-    },
-    "0x3b480d50b9ed88b4891e066681467a73f78d8c22": {
-      "chainId": 137,
-      "decimals": 18,
-      "name": "BLANK-USDC QuickSwap LP",
-      "address": "0x3b480d50b9ed88b4891e066681467a73f78d8c22",
-      "symbol": "BLANK-USDC",
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BLANK.png",
-      "assetGroup": "BLANK_USDC"
     },
     "0x690a87ed8972e451e755b8f2dc1fc2b28e3c6566": {
       "chainId": 137,
@@ -21329,15 +21056,6 @@
       "symbol": "A51",
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/A51.png",
       "assetGroup": "A51"
-    },
-    "0x89470e8d8bb8655a94678d801e0089c4646f5e84": {
-      "chainId": 137,
-      "decimals": 18,
-      "name": "fxA3A-USDC QuickSwap LP",
-      "address": "0x89470e8d8bb8655a94678d801e0089c4646f5e84",
-      "symbol": "fxA3A-USDC",
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FXA3A.png",
-      "assetGroup": "FXA3A_USDC"
     },
     "0x9f95e17b2668afe01f8fbd157068b0a4405cc08d": {
       "chainId": 137,
@@ -21374,15 +21092,6 @@
       "symbol": "UBU",
       "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/UBU.png",
       "assetGroup": "UBU"
-    },
-    "0x19ed9003513fd3a3eb3856b31831dd8f19f9454a": {
-      "chainId": 137,
-      "decimals": 18,
-      "name": "UBU-USDC QuickSwap LP",
-      "address": "0x19ed9003513fd3a3eb3856b31831dd8f19f9454a",
-      "symbol": "UBU-USDC",
-      "logoURI": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/UBU.png",
-      "assetGroup": "UBU_USDC"
     },
     "0xc6920888988caceea7acca0c96f2d65b05ee22ba": {
       "chainId": 137,
@@ -22106,7 +21815,8 @@
     "0x690a87ed8972e451e755b8f2dc1fc2b28e3c6566",
     "0x89470e8d8bb8655a94678d801e0089c4646f5e84",
     "0x19ed9003513fd3a3eb3856b31831dd8f19f9454a",
-    "0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b"
+    "0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b",
+    "0x0000000000000000000000000000000000001010"
   ],
   "bridgeTokens": [
     "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
@@ -22149,6 +21859,7 @@
     "0x690a87ed8972e451e755b8f2dc1fc2b28e3c6566",
     "0x89470e8d8bb8655a94678d801e0089c4646f5e84",
     "0x19ed9003513fd3a3eb3856b31831dd8f19f9454a",
-    "0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b"
+    "0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b",
+    "0x0000000000000000000000000000000000001010"
   ]
 }
