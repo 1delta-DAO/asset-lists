@@ -5410,6 +5410,150 @@
       "symbol": "O3",
       "logoURI": "https://token-list.camelot.exchange/assets/o3.png",
       "assetGroup": "O3"
+    },
+    "0xdbf31df14b66535af65aac99c32e9ea844e14501": {
+      "chainId": 42161,
+      "decimals": 8,
+      "name": "renBTC",
+      "address": "0xdbf31df14b66535af65aac99c32e9ea844e14501",
+      "symbol": "RENBTC",
+      "assetGroup": "RENBTC"
+    },
+    "0xcab86f6fb6d1c2cbeeb97854a0c023446a075fe3": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "deBridge Ether ",
+      "address": "0xcab86f6fb6d1c2cbeeb97854a0c023446a075fe3",
+      "symbol": "deETH",
+      "assetGroup": "DEETH"
+    },
+    "0x1ddcaa4ed761428ae348befc6718bcb12e63bfaa": {
+      "chainId": 42161,
+      "decimals": 6,
+      "name": "deBridge USD Coin",
+      "address": "0x1ddcaa4ed761428ae348befc6718bcb12e63bfaa",
+      "symbol": "deUSDC",
+      "assetGroup": "DEUSDC"
+    },
+    "0x9d2f299715d94d8a7e6f5eaa8e654e8c74a988a7": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "Frax Share",
+      "address": "0x9d2f299715d94d8a7e6f5eaa8e654e8c74a988a7",
+      "symbol": "FXS",
+      "assetGroup": "FXS"
+    },
+    "0xde903e2712288a1da82942dddf2c20529565ac30": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "Swapr",
+      "address": "0xde903e2712288a1da82942dddf2c20529565ac30",
+      "symbol": "SWPR",
+      "assetGroup": "SWPR"
+    },
+    "0xdb96f8efd6865644993505318cc08ff9c42fb9ac": {
+      "chainId": 42161,
+      "decimals": 9,
+      "name": "ZeroTwOhm",
+      "address": "0xdb96f8efd6865644993505318cc08ff9c42fb9ac",
+      "symbol": "Z2O",
+      "assetGroup": "Z2O"
+    },
+    "0x3cd1833ce959e087d0ef0cb45ed06bffe60f23ba": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "Land",
+      "address": "0x3cd1833ce959e087d0ef0cb45ed06bffe60f23ba",
+      "symbol": "LAND",
+      "assetGroup": "LAND"
+    },
+    "0x8fbd420956fdd301f4493500fd0bcaaa80f2389c": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "Amy Finance Token",
+      "address": "0x8fbd420956fdd301f4493500fd0bcaaa80f2389c",
+      "symbol": "AMY",
+      "assetGroup": "AMY"
+    },
+    "0x3509f19581afedeff07c53592bc0ca84e4855475": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "xDollar Stablecoin",
+      "address": "0x3509f19581afedeff07c53592bc0ca84e4855475",
+      "symbol": "XUSD",
+      "assetGroup": "XUSD"
+    },
+    "0xed3fb761414da74b74f33e5c5a1f78104b188dfc": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "ArbiNYAN",
+      "address": "0xed3fb761414da74b74f33e5c5a1f78104b188dfc",
+      "symbol": "NYAN",
+      "assetGroup": "NYAN"
+    },
+    "0x04cb2d263a7489f02d813eaab9ba1bb8466347f2": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "QIAN governance token",
+      "address": "0x04cb2d263a7489f02d813eaab9ba1bb8466347f2",
+      "symbol": "KUN",
+      "assetGroup": "KUN"
+    },
+    "0x10010078a54396f62c96df8532dc2b4847d47ed3": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "Hundred Finance",
+      "address": "0x10010078a54396f62c96df8532dc2b4847d47ed3",
+      "symbol": "HND",
+      "assetGroup": "HND"
+    },
+    "0xfa42da1bd08341537a44a4ca9d236d1c00a98b40": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "Carboncoin",
+      "address": "0xfa42da1bd08341537a44a4ca9d236d1c00a98b40",
+      "symbol": "CARBON",
+      "assetGroup": "CARBON"
+    },
+    "0x07aaa29e63ffeb2ebf59b33ee61437e1a91a3bb2": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": " QIAN second generation dollar",
+      "address": "0x07aaa29e63ffeb2ebf59b33ee61437e1a91a3bb2",
+      "symbol": "QSD",
+      "assetGroup": "QSD"
+    },
+    "0x995c235521820f2637303ca1970c7c044583df44": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "VISOR",
+      "address": "0x995c235521820f2637303ca1970c7c044583df44",
+      "symbol": "VISR",
+      "assetGroup": "VISR"
+    },
+    "0x9ef758ac000a354479e538b8b2f01b917b8e89e7": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "xDollar",
+      "address": "0x9ef758ac000a354479e538b8b2f01b917b8e89e7",
+      "symbol": "XDO",
+      "assetGroup": "XDO"
+    },
+    "0x0e15258734300290a651fdbae8deb039a8e7a2fa": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "Token Alch",
+      "address": "0x0e15258734300290a651fdbae8deb039a8e7a2fa",
+      "symbol": "ALCH",
+      "assetGroup": "ALCH"
+    },
+    "0x23a941036ae778ac51ab04cea08ed6e2fe103614": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "Graph Token",
+      "address": "0x23a941036ae778ac51ab04cea08ed6e2fe103614",
+      "symbol": "GRT",
+      "assetGroup": "GRT"
     }
   },
   "mainTokens": [
@@ -5612,7 +5756,8 @@
     "0x8579794b10f88ebbedd3605f2e5ff54f162d4788",
     "0xd3443ee1e91af28e5fb858fbd0d72a63ba8046e0",
     "0x4c9aaed3b8c443b4b634d1a189a5e25c604768de",
-    "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+    "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "0x1ddcaa4ed761428ae348befc6718bcb12e63bfaa"
   ],
   "bridgeTokens": [
     "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
@@ -5630,6 +5775,7 @@
     "0xa9004a5421372e1d83fb1f85b0fc986c912f91f3",
     "0xd3443ee1e91af28e5fb858fbd0d72a63ba8046e0",
     "0x4c9aaed3b8c443b4b634d1a189a5e25c604768de",
-    "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+    "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "0x1ddcaa4ed761428ae348befc6718bcb12e63bfaa"
   ]
 }

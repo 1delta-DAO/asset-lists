@@ -5833,6 +5833,846 @@
       "symbol": "OP",
       "logoURI": "https://tokens.pancakeswap.finance/images/0x170C84E3b1D282f9628229836086716141995200.png",
       "assetGroup": "OP"
+    },
+    "0x8ea5219a16c2dbf1d6335a6aa0c6bd45c50347c5": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "OpenOcean",
+      "address": "0x8ea5219a16c2dbf1d6335a6aa0c6bd45c50347c5",
+      "symbol": "OOE",
+      "assetGroup": "OOE"
+    },
+    "0x98936bde1cf1bff1e7a8012cee5e2583851f2067": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Annex Finance",
+      "address": "0x98936bde1cf1bff1e7a8012cee5e2583851f2067",
+      "symbol": "ANN",
+      "assetGroup": "ANN"
+    },
+    "0x14a9a94e555fdd54c21d7f7e328e61d7ebece54b": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Lootex",
+      "address": "0x14a9a94e555fdd54c21d7f7e328e61d7ebece54b",
+      "symbol": "LOOT",
+      "assetGroup": "LOOT"
+    },
+    "0x7465b49f83bfd74e8df8574d43bfff34edbc1758": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Ankr Reward-Earning Staked MATIC",
+      "address": "0x7465b49f83bfd74e8df8574d43bfff34edbc1758",
+      "symbol": "AMATICB",
+      "assetGroup": "AMATICB"
+    },
+    "0x53e562b9b7e5e94b81f10e96ee70ad06df3d2657": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "BabySwap",
+      "address": "0x53e562b9b7e5e94b81f10e96ee70ad06df3d2657",
+      "symbol": "BABY",
+      "assetGroup": "BABY"
+    },
+    "0x9c65ab58d8d978db963e63f2bfb7121627e3a739": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "MDX Token",
+      "address": "0x9c65ab58d8d978db963e63f2bfb7121627e3a739",
+      "symbol": "MDX",
+      "assetGroup": "MDX"
+    },
+    "0xfe56d5892bdffc7bf58f2e84be1b2c32d21c308b": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Kyber Network Crystal",
+      "address": "0xfe56d5892bdffc7bf58f2e84be1b2c32d21c308b",
+      "symbol": "KNC",
+      "assetGroup": "KNC"
+    },
+    "0xd23811058eb6e7967d9a00dc3886e75610c4abba": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "KnightSwap",
+      "address": "0xd23811058eb6e7967d9a00dc3886e75610c4abba",
+      "symbol": "KNIGHT",
+      "assetGroup": "KNIGHT"
+    },
+    "0x4a2c860cec6471b9f5f5a336eb4f38bb21683c98": {
+      "chainId": 56,
+      "decimals": 8,
+      "name": "Green Satoshi Token on BSC",
+      "address": "0x4a2c860cec6471b9f5f5a336eb4f38bb21683c98",
+      "symbol": "GST-BSC",
+      "assetGroup": "GST_BSC"
+    },
+    "0xd17479997f34dd9156deef8f95a52d81d265be9c": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "USDD",
+      "address": "0xd17479997f34dd9156deef8f95a52d81d265be9c",
+      "symbol": "USDD",
+      "assetGroup": "USDD"
+    },
+    "0x738d96caf7096659db4c1afbf1e1bdfd281f388c": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Ankr Staked MATIC",
+      "address": "0x738d96caf7096659db4c1afbf1e1bdfd281f388c",
+      "symbol": "ankrMATIC",
+      "assetGroup": "ANKRMATIC"
+    },
+    "0x1ddcaa4ed761428ae348befc6718bcb12e63bfaa": {
+      "chainId": 56,
+      "decimals": 6,
+      "name": "deBridge USD Coin",
+      "address": "0x1ddcaa4ed761428ae348befc6718bcb12e63bfaa",
+      "symbol": "deUSDC",
+      "assetGroup": "DEUSDC"
+    },
+    "0x0b079b33b6e72311c6be245f9f660cc385029fc3": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "ApeCoin",
+      "address": "0x0b079b33b6e72311c6be245f9f660cc385029fc3",
+      "symbol": "APE",
+      "assetGroup": "APE"
+    },
+    "0x26193c7fa4354ae49ec53ea2cebc513dc39a10aa": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "StarSharks SEA",
+      "address": "0x26193c7fa4354ae49ec53ea2cebc513dc39a10aa",
+      "symbol": "SEA",
+      "assetGroup": "SEA"
+    },
+    "0x0ecaf010fc192e2d5cbeb4dfb1fee20fbd733aa1": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Space Crypto",
+      "address": "0x0ecaf010fc192e2d5cbeb4dfb1fee20fbd733aa1",
+      "symbol": "SPG",
+      "assetGroup": "SPG"
+    },
+    "0x4803ac6b79f9582f69c4fa23c72cb76dd1e46d8d": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "TopManager",
+      "address": "0x4803ac6b79f9582f69c4fa23c72cb76dd1e46d8d",
+      "symbol": "TMT",
+      "assetGroup": "TMT"
+    },
+    "0x475bfaa1848591ae0e6ab69600f48d828f61a80e": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Everdome",
+      "address": "0x475bfaa1848591ae0e6ab69600f48d828f61a80e",
+      "symbol": "DOME",
+      "assetGroup": "DOME"
+    },
+    "0xf0a8ecbce8caadb7a07d1fcd0f87ae1bd688df43": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Cryptogodz",
+      "address": "0xf0a8ecbce8caadb7a07d1fcd0f87ae1bd688df43",
+      "symbol": "GODZ",
+      "assetGroup": "GODZ"
+    },
+    "0x9720ca160bbd4e7f3dd4bb3f8bd4227ca0342e63": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "GamesPad",
+      "address": "0x9720ca160bbd4e7f3dd4bb3f8bd4227ca0342e63",
+      "symbol": "GMPD",
+      "assetGroup": "GMPD"
+    },
+    "0x924d221c4fd599e5894706ac2e8f6a35a3cc981e": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Frontrow",
+      "address": "0x924d221c4fd599e5894706ac2e8f6a35a3cc981e",
+      "symbol": "FRR",
+      "assetGroup": "FRR"
+    },
+    "0xc9882def23bc42d53895b8361d0b1edc7570bc6a": {
+      "chainId": 56,
+      "decimals": 6,
+      "name": "FistToken",
+      "address": "0xc9882def23bc42d53895b8361d0b1edc7570bc6a",
+      "symbol": "FIST",
+      "assetGroup": "FIST"
+    },
+    "0x276b440fdb4c54631c882cac9e4317929e751ff8": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Revolution",
+      "address": "0x276b440fdb4c54631c882cac9e4317929e751ff8",
+      "symbol": "REV",
+      "assetGroup": "REV"
+    },
+    "0xbbca42c60b5290f2c48871a596492f93ff0ddc82": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Domi ",
+      "address": "0xbbca42c60b5290f2c48871a596492f93ff0ddc82",
+      "symbol": "DOMI",
+      "assetGroup": "DOMI"
+    },
+    "0x683fae4411249ca05243dfb919c20920f3f5bfe0": {
+      "chainId": 56,
+      "decimals": 9,
+      "name": "Galaxy Heroes Coin",
+      "address": "0x683fae4411249ca05243dfb919c20920f3f5bfe0",
+      "symbol": "GHC",
+      "assetGroup": "GHC"
+    },
+    "0xe2a59d5e33c6540e18aaa46bf98917ac3158db0d": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "PureFi Token ",
+      "address": "0xe2a59d5e33c6540e18aaa46bf98917ac3158db0d",
+      "symbol": "UFI",
+      "assetGroup": "UFI"
+    },
+    "0x4477b28e8b797ebaebd2539bb24290fdfcc27807": {
+      "chainId": 56,
+      "decimals": 9,
+      "name": "Refugees Token",
+      "address": "0x4477b28e8b797ebaebd2539bb24290fdfcc27807",
+      "symbol": "RFG",
+      "assetGroup": "RFG"
+    },
+    "0xd8047afecb86e44eff3add991b9f063ed4ca716b": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Good Games Guild",
+      "address": "0xd8047afecb86e44eff3add991b9f063ed4ca716b",
+      "symbol": "GGG",
+      "assetGroup": "GGG"
+    },
+    "0xf4ed363144981d3a65f42e7d0dc54ff9eef559a1": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "FaraLand",
+      "address": "0xf4ed363144981d3a65f42e7d0dc54ff9eef559a1",
+      "symbol": "FARA",
+      "assetGroup": "FARA"
+    },
+    "0x24ce3d571fbcfd9d81dc0e1a560504636a4d046d": {
+      "chainId": 56,
+      "decimals": 9,
+      "name": "MetaPets",
+      "address": "0x24ce3d571fbcfd9d81dc0e1a560504636a4d046d",
+      "symbol": "METAPETS",
+      "assetGroup": "METAPETS"
+    },
+    "0x4b8285ab433d8f69cb48d5ad62b415ed1a221e4f": {
+      "chainId": 56,
+      "decimals": 9,
+      "name": "MagicCraft ",
+      "address": "0x4b8285ab433d8f69cb48d5ad62b415ed1a221e4f",
+      "symbol": "MCRT",
+      "assetGroup": "MCRT"
+    },
+    "0xfd9faca15558eb243ac0012cf7acfbf480574668": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Meta MVRS ",
+      "address": "0xfd9faca15558eb243ac0012cf7acfbf480574668",
+      "symbol": "MVRS",
+      "assetGroup": "MVRS"
+    },
+    "0xd52efe1039d706722b3d696e74ad4095dc3d3860": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Power",
+      "address": "0xd52efe1039d706722b3d696e74ad4095dc3d3860",
+      "symbol": "PWR",
+      "assetGroup": "PWR"
+    },
+    "0x7ad7242a99f21aa543f9650a56d141c57e4f6081": {
+      "chainId": 56,
+      "decimals": 9,
+      "name": "JADE ",
+      "address": "0x7ad7242a99f21aa543f9650a56d141c57e4f6081",
+      "symbol": "JADE ",
+      "assetGroup": "JADE_"
+    },
+    "0xa3499dd7dbbbd93cb0f8303f8a8ace8d02508e73": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Lovelace",
+      "address": "0xa3499dd7dbbbd93cb0f8303f8a8ace8d02508e73",
+      "symbol": "LACE",
+      "assetGroup": "LACE"
+    },
+    "0x9c67638c4fa06fd47fb8900fc7f932f7eab589de": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "ARKER ",
+      "address": "0x9c67638c4fa06fd47fb8900fc7f932f7eab589de",
+      "symbol": "ARKER ",
+      "assetGroup": "ARKER_"
+    },
+    "0x5492ef6aeeba1a3896357359ef039a8b11621b45": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Chumbi Valley",
+      "address": "0x5492ef6aeeba1a3896357359ef039a8b11621b45",
+      "symbol": "CHMB",
+      "assetGroup": "CHMB"
+    },
+    "0xaff9084f2374585879e8b434c399e29e80cce635": {
+      "chainId": 56,
+      "decimals": 8,
+      "name": "Flux",
+      "address": "0xaff9084f2374585879e8b434c399e29e80cce635",
+      "symbol": "FLUX",
+      "assetGroup": "FLUX"
+    },
+    "0xf68c9df95a18b2a5a5fa1124d79eeeffbad0b6fa": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Anyswap",
+      "address": "0xf68c9df95a18b2a5a5fa1124d79eeeffbad0b6fa",
+      "symbol": "ANY",
+      "assetGroup": "ANY"
+    },
+    "0x04260673729c5f2b9894a467736f3d85f8d34fc8": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "CryptoPlanes",
+      "address": "0x04260673729c5f2b9894a467736f3d85f8d34fc8",
+      "symbol": "CPAN",
+      "assetGroup": "CPAN"
+    },
+    "0x50332bdca94673f33401776365b66cc4e81ac81d": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "CryptoCars",
+      "address": "0x50332bdca94673f33401776365b66cc4e81ac81d",
+      "symbol": "CCAR",
+      "assetGroup": "CCAR"
+    },
+    "0x1f39dd2bf5a27e2d4ed691dcf933077371777cb0": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "SnowCrash Token",
+      "address": "0x1f39dd2bf5a27e2d4ed691dcf933077371777cb0",
+      "symbol": "Nora",
+      "assetGroup": "NORA"
+    },
+    "0xb3a6381070b1a15169dea646166ec0699fdaea79": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "CyberDragon Gold ",
+      "address": "0xb3a6381070b1a15169dea646166ec0699fdaea79",
+      "symbol": "GOLD",
+      "assetGroup": "GOLD"
+    },
+    "0xd3c9609b6cbc6ef02390f33c230590c38f9e5f9d": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "ArmzLegends",
+      "address": "0xd3c9609b6cbc6ef02390f33c230590c38f9e5f9d",
+      "symbol": "PROT",
+      "assetGroup": "PROT"
+    },
+    "0x0e7beec376099429b85639eb3abe7cf22694ed49": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Bunicorn",
+      "address": "0x0e7beec376099429b85639eb3abe7cf22694ed49",
+      "symbol": "BUNI",
+      "assetGroup": "BUNI"
+    },
+    "0x7ffc1243232da3ac001994208e2002816b57c669": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "CryptoZoo",
+      "address": "0x7ffc1243232da3ac001994208e2002816b57c669",
+      "symbol": "ZOO",
+      "assetGroup": "ZOO"
+    },
+    "0x5e0691ba91e21f3fdc88a0550aa4f7304ed89b5c": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "DigiCol Token",
+      "address": "0x5e0691ba91e21f3fdc88a0550aa4f7304ed89b5c",
+      "symbol": "DGCL",
+      "assetGroup": "DGCL"
+    },
+    "0x02ff5065692783374947393723dba9599e59f591": {
+      "chainId": 56,
+      "decimals": 9,
+      "name": "YooShi",
+      "address": "0x02ff5065692783374947393723dba9599e59f591",
+      "symbol": "YOOSHI",
+      "assetGroup": "YOOSHI"
+    },
+    "0x8fff93e810a2edaafc326edee51071da9d398e83": {
+      "chainId": 56,
+      "decimals": 9,
+      "name": "Bitrise Token",
+      "address": "0x8fff93e810a2edaafc326edee51071da9d398e83",
+      "symbol": "BRISE",
+      "assetGroup": "BRISE"
+    },
+    "0x50e756a22ff5cee3559d18b9d9576bc38f09fa7c": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "MetaWars",
+      "address": "0x50e756a22ff5cee3559d18b9d9576bc38f09fa7c",
+      "symbol": "WARS",
+      "assetGroup": "WARS"
+    },
+    "0xfeea0bdd3d07eb6fe305938878c0cadbfa169042": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "8pay",
+      "address": "0xfeea0bdd3d07eb6fe305938878c0cadbfa169042",
+      "symbol": "8PAY",
+      "assetGroup": "EIGHT_PAY"
+    },
+    "0x4197c6ef3879a08cd51e5560da5064b773aa1d29": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "ACryptoS V1",
+      "address": "0x4197c6ef3879a08cd51e5560da5064b773aa1d29",
+      "symbol": "ACS V1",
+      "assetGroup": "ACS_V1"
+    },
+    "0xda5be69074afd12354173b4350ec9117e73e92e2": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "AQT",
+      "address": "0xda5be69074afd12354173b4350ec9117e73e92e2",
+      "symbol": "AQT",
+      "assetGroup": "AQT"
+    },
+    "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "ApeSwapFinance Banana",
+      "address": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
+      "symbol": "BANANA",
+      "assetGroup": "BANANA"
+    },
+    "0x8c851d1a123ff703bd1f9dabe631b69902df5f97": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "BinaryX",
+      "address": "0x8c851d1a123ff703bd1f9dabe631b69902df5f97",
+      "symbol": "BNX",
+      "assetGroup": "BNX"
+    },
+    "0x96058f8c3e16576d9bd68766f3836d9a33158f89": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Bondly Token",
+      "address": "0x96058f8c3e16576d9bd68766f3836d9a33158f89",
+      "symbol": "BONDLY",
+      "assetGroup": "BONDLY"
+    },
+    "0x92d7756c60dcfd4c689290e8a9f4d263b3b32241": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "BoringDAO Token",
+      "address": "0x92d7756c60dcfd4c689290e8a9f4d263b3b32241",
+      "symbol": "BOR",
+      "assetGroup": "BOR"
+    },
+    "0x790be81c3ca0e53974be2688cdb954732c9862e1": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "CafeSwap Token",
+      "address": "0x790be81c3ca0e53974be2688cdb954732c9862e1",
+      "symbol": "BREW",
+      "assetGroup": "BREW"
+    },
+    "0xd1102332a213e21faf78b69c03572031f3552c33": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Bat True Dollar",
+      "address": "0xd1102332a213e21faf78b69c03572031f3552c33",
+      "symbol": "BTD",
+      "assetGroup": "BTD"
+    },
+    "0xc2e1acef50ae55661855e8dcb72adb182a3cc259": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Bat True Share",
+      "address": "0xc2e1acef50ae55661855e8dcb72adb182a3cc259",
+      "symbol": "BTS",
+      "assetGroup": "BTS"
+    },
+    "0xf3e1449ddb6b218da2c9463d4594ceccc8934346": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "CELL",
+      "address": "0xf3e1449ddb6b218da2c9463d4594ceccc8934346",
+      "symbol": "CELL",
+      "assetGroup": "CELL"
+    },
+    "0x72f28c09be1342447fa01ebc76ef508473d08c5c": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "https://degen.trade/",
+      "address": "0x72f28c09be1342447fa01ebc76ef508473d08c5c",
+      "symbol": "DGN",
+      "assetGroup": "DGN"
+    },
+    "0x002d8563759f5e1eaf8784181f3973288f6856e4": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "DMOD",
+      "address": "0x002d8563759f5e1eaf8784181f3973288f6856e4",
+      "symbol": "DMOD",
+      "assetGroup": "DMOD"
+    },
+    "0xfb62ae373aca027177d1c18ee0862817f9080d08": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "My DeFi Pet Token",
+      "address": "0xfb62ae373aca027177d1c18ee0862817f9080d08",
+      "symbol": "DPET",
+      "assetGroup": "DPET"
+    },
+    "0xf952fc3ca7325cc27d15885d37117676d25bfda6": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Goose Golden Egg",
+      "address": "0xf952fc3ca7325cc27d15885d37117676d25bfda6",
+      "symbol": "EGG",
+      "assetGroup": "EGG"
+    },
+    "0x1ab6478b47270ff05af11a012ac17b098758e193": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Flux Protocol",
+      "address": "0x1ab6478b47270ff05af11a012ac17b098758e193",
+      "symbol": "bcFLUX",
+      "assetGroup": "BCFLUX"
+    },
+    "0xfd5af95c12446b60d23e16a4ea95690ce942e5dc": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "FREL",
+      "address": "0xfd5af95c12446b60d23e16a4ea95690ce942e5dc",
+      "symbol": "FREL",
+      "assetGroup": "FREL"
+    },
+    "0x32dffc3fe8e3ef3571bf8a72c0d0015c5373f41d": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "JULb",
+      "address": "0x32dffc3fe8e3ef3571bf8a72c0d0015c5373f41d",
+      "symbol": "JULb",
+      "assetGroup": "JULB"
+    },
+    "0x5a41f637c3f7553dba6ddc2d3ca92641096577ea": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "JulSwap",
+      "address": "0x5a41f637c3f7553dba6ddc2d3ca92641096577ea",
+      "symbol": "JulD",
+      "assetGroup": "JULD"
+    },
+    "0x7979f6c54eba05e18ded44c4f986f49a5de551c2": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Kebab Token",
+      "address": "0x7979f6c54eba05e18ded44c4f986f49a5de551c2",
+      "symbol": "KEBAB",
+      "assetGroup": "KEBAB"
+    },
+    "0xe6df05ce8c8301223373cf5b969afcb1498c5528": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "BNB48 Club Token",
+      "address": "0xe6df05ce8c8301223373cf5b969afcb1498c5528",
+      "symbol": "KOGE",
+      "assetGroup": "KOGE"
+    },
+    "0xbc194e6f748a222754c3e8b9946922c09e7d4e91": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "LEV",
+      "address": "0xbc194e6f748a222754c3e8b9946922c09e7d4e91",
+      "symbol": "LEV",
+      "assetGroup": "LEV"
+    },
+    "0x35e869b7456462b81cdb5e6e42434bd27f3f788c": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Midas Dollar",
+      "address": "0x35e869b7456462b81cdb5e6e42434bd27f3f788c",
+      "symbol": "MDO",
+      "assetGroup": "MDO"
+    },
+    "0x68e374f856bf25468d365e539b700b648bf94b67": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Mist",
+      "address": "0x68e374f856bf25468d365e539b700b648bf94b67",
+      "symbol": "MIST",
+      "assetGroup": "MIST"
+    },
+    "0xe4b22193d68f18f8e8eb3a26f4d64cb6d4573022": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "MOZ",
+      "address": "0xe4b22193d68f18f8e8eb3a26f4d64cb6d4573022",
+      "symbol": "MOZ",
+      "assetGroup": "MOZ"
+    },
+    "0xd7730681b1dc8f6f969166b29d8a5ea8568616a3": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Nafter",
+      "address": "0xd7730681b1dc8f6f969166b29d8a5ea8568616a3",
+      "symbol": "NAFT",
+      "assetGroup": "NAFT"
+    },
+    "0xde3dbbe30cfa9f437b293294d1fd64b26045c71a": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "NFTB",
+      "address": "0xde3dbbe30cfa9f437b293294d1fd64b26045c71a",
+      "symbol": "NFTB",
+      "assetGroup": "NFTB"
+    },
+    "0x076ddce096c93dcf5d51fe346062bf0ba9523493": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Paralink Network",
+      "address": "0x076ddce096c93dcf5d51fe346062bf0ba9523493",
+      "symbol": "PARA",
+      "assetGroup": "PARA"
+    },
+    "0x4d4e595d643dc61ea7fcbf12e4b1aaa39f9975b8": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Pet Token",
+      "address": "0x4d4e595d643dc61ea7fcbf12e4b1aaa39f9975b8",
+      "symbol": "PET",
+      "assetGroup": "PET"
+    },
+    "0x31471e0791fcdbe82fbf4c44943255e923f1b794": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Plant vs Undead Token",
+      "address": "0x31471e0791fcdbe82fbf4c44943255e923f1b794",
+      "symbol": "PVU",
+      "assetGroup": "PVU"
+    },
+    "0xedecfb4801c04f3eb394b89397c6aafa4adda15b": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Pyram Token",
+      "address": "0xedecfb4801c04f3eb394b89397c6aafa4adda15b",
+      "symbol": "PYRAM",
+      "assetGroup": "PYRAM"
+    },
+    "0xb8c540d00dd0bf76ea12e4b4b95efc90804f924e": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "QUSD Stablecoin",
+      "address": "0xb8c540d00dd0bf76ea12e4b4b95efc90804f924e",
+      "symbol": "QUSD",
+      "assetGroup": "QUSD"
+    },
+    "0x0829d2d5cc09d3d341e813c821b0cfae272d9fb2": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "ROCKS",
+      "address": "0x0829d2d5cc09d3d341e813c821b0cfae272d9fb2",
+      "symbol": "ROCKS",
+      "assetGroup": "ROCKS"
+    },
+    "0x2859e4544c4bb03966803b044a93563bd2d0dd4d": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "SHIBA INU",
+      "address": "0x2859e4544c4bb03966803b044a93563bd2d0dd4d",
+      "symbol": "SHIB",
+      "assetGroup": "SHIB"
+    },
+    "0x338d44d19c8d45ed9771b8d2b95d988f0e42187f": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "SOCCER",
+      "address": "0x338d44d19c8d45ed9771b8d2b95d988f0e42187f",
+      "symbol": "SOCCER",
+      "assetGroup": "SOCCER"
+    },
+    "0x31d0a7ada4d4c131eb612db48861211f63e57610": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "BSCstarter",
+      "address": "0x31d0a7ada4d4c131eb612db48861211f63e57610",
+      "symbol": "START",
+      "assetGroup": "START"
+    },
+    "0x0da6ed8b13214ff28e9ca979dd37439e8a88f6c4": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "StableX Token",
+      "address": "0x0da6ed8b13214ff28e9ca979dd37439e8a88f6c4",
+      "symbol": "STAX",
+      "assetGroup": "STAX"
+    },
+    "0xf7fb08c187e6cd1f2149e6c818d0b6d4d4ef1430": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "STN",
+      "address": "0xf7fb08c187e6cd1f2149e6c818d0b6d4d4ef1430",
+      "symbol": "STN",
+      "assetGroup": "STN"
+    },
+    "0xe40255c5d7fa7ceec5120408c78c787cecb4cfdb": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "SWGb",
+      "address": "0xe40255c5d7fa7ceec5120408c78c787cecb4cfdb",
+      "symbol": "SWGb",
+      "assetGroup": "SWGB"
+    },
+    "0x250b211ee44459dad5cd3bca803dd6a7ecb5d46c": {
+      "chainId": 56,
+      "decimals": 8,
+      "name": "Switcheo Token",
+      "address": "0x250b211ee44459dad5cd3bca803dd6a7ecb5d46c",
+      "symbol": "SWTH",
+      "assetGroup": "SWTH"
+    },
+    "0xfd799ddcca8ab5c1ad8a3d64a58d4e907c9d0b71": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "TAP",
+      "address": "0xfd799ddcca8ab5c1ad8a3d64a58d4e907c9d0b71",
+      "symbol": "TAP",
+      "assetGroup": "TAP"
+    },
+    "0x1311b352467d2b5c296881badea82850bcd8f886": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "TOOLS",
+      "address": "0x1311b352467d2b5c296881badea82850bcd8f886",
+      "symbol": "TOOLS",
+      "assetGroup": "TOOLS"
+    },
+    "0x270388e0ca29cfd7c7e73903d9d933a23d1bab39": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "TSX",
+      "address": "0x270388e0ca29cfd7c7e73903d9d933a23d1bab39",
+      "symbol": "TSX",
+      "assetGroup": "TSX"
+    },
+    "0x6ff2d9e5891a7a7c554b80e0d1b791483c78bce9": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Wault Finance",
+      "address": "0x6ff2d9e5891a7a7c554b80e0d1b791483c78bce9",
+      "symbol": "WAULT",
+      "assetGroup": "WAULT"
+    },
+    "0x443cab9583b83eaa7a712c9d64525e57e2a7eb3f": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Torum",
+      "address": "0x443cab9583b83eaa7a712c9d64525e57e2a7eb3f",
+      "symbol": "XTM",
+      "assetGroup": "XTM"
+    },
+    "0x9d173e6c594f479b4d47001f8e6a95a7adda42bc": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "CryptoZoon",
+      "address": "0x9d173e6c594f479b4d47001f8e6a95a7adda42bc",
+      "symbol": "ZOON",
+      "assetGroup": "ZOON"
+    },
+    "0x973616ff3b9d8f88411c5b4e6f928ee541e4d01f": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Ankr Eth2 Reward Bearing Bond",
+      "address": "0x973616ff3b9d8f88411c5b4e6f928ee541e4d01f",
+      "symbol": "aETH",
+      "assetGroup": "AETH"
+    },
+    "0x0d9319565be7f53cefe84ad201be3f40feae2740": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "bDollar Share",
+      "address": "0x0d9319565be7f53cefe84ad201be3f40feae2740",
+      "symbol": "sBDO",
+      "assetGroup": "SBDO"
+    },
+    "0x541e619858737031a1244a5d0cd47e5ef480342c": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Wrapped SOTE",
+      "address": "0x541e619858737031a1244a5d0cd47e5ef480342c",
+      "symbol": "wSOTE",
+      "assetGroup": "WSOTE"
+    },
+    "0x5cd50aae14e14b3fdf3ff13c7a40e8cf5ae8b0a5": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "zSeedToken",
+      "address": "0x5cd50aae14e14b3fdf3ff13c7a40e8cf5ae8b0a5",
+      "symbol": "zSEED",
+      "assetGroup": "ZSEED"
+    },
+    "0x5b17b4d5e4009b5c43e3e3d63a5229f794cba389": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "ACryptoSI",
+      "address": "0x5b17b4d5e4009b5c43e3e3d63a5229f794cba389",
+      "symbol": "ACSI",
+      "assetGroup": "ACSI"
+    },
+    "0x48dc0190df5ece990c649a7a07ba19d3650a9572": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Bounce Token",
+      "address": "0x48dc0190df5ece990c649a7a07ba19d3650a9572",
+      "symbol": "AUCTION",
+      "assetGroup": "AUCTION"
+    },
+    "0x8263cd1601fe73c066bf49cc09841f35348e3be0": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Altura",
+      "address": "0x8263cd1601fe73c066bf49cc09841f35348e3be0",
+      "symbol": "ALU",
+      "assetGroup": "ALU"
+    },
+    "0x293c3ee9abacb08bb8ced107987f00efd1539288": {
+      "chainId": 56,
+      "decimals": 9,
+      "name": "Empire Token",
+      "address": "0x293c3ee9abacb08bb8ced107987f00efd1539288",
+      "symbol": "EMPIRE",
+      "assetGroup": "EMPIRE"
+    },
+    "0xc864019047b864b6ab609a968ae2725dfaee808a": {
+      "chainId": 56,
+      "decimals": 9,
+      "name": "BIT TOKEN",
+      "address": "0xc864019047b864b6ab609a968ae2725dfaee808a",
+      "symbol": "BIT",
+      "assetGroup": "BIT"
+    },
+    "0xd3c325848d7c6e29b574cb0789998b2ff901f17e": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "ArtWallet ",
+      "address": "0xd3c325848d7c6e29b574cb0789998b2ff901f17e",
+      "symbol": "1ART",
+      "assetGroup": "ONE_ART"
     }
   },
   "mainTokens": [
@@ -5919,7 +6759,8 @@
     "0x4268b8f0b87b6eae5d897996e6b845ddbd99adf3",
     "0xc3cac4ae38ccf6985ef9039acc1abbc874ddcbb0",
     "0x524bc91dc82d6b90ef29f76a3ecaabafffd490bc",
-    "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
+    "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+    "0x1ddcaa4ed761428ae348befc6718bcb12e63bfaa"
   ],
   "bridgeTokens": [
     "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
@@ -5931,6 +6772,7 @@
     "0xcc42724c6683b7e57334c4e856f4c9965ed682bd",
     "0xc3cac4ae38ccf6985ef9039acc1abbc874ddcbb0",
     "0x524bc91dc82d6b90ef29f76a3ecaabafffd490bc",
-    "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
+    "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+    "0x1ddcaa4ed761428ae348befc6718bcb12e63bfaa"
   ]
 }

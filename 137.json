@@ -866,15 +866,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/11335/thumb/2020-05-19-token-200.png?1589940590",
       "assetGroup": "MATH"
     },
-    "0x0000000000000000000000000000000000001010": {
-      "chainId": 137,
-      "decimals": 18,
-      "name": "Polygon",
-      "address": "0x0000000000000000000000000000000000001010",
-      "symbol": "MATIC",
-      "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912",
-      "assetGroup": "MATIC"
-    },
     "0xaa7dbd1598251f856c12f63557a4c4397c253cea": {
       "chainId": 137,
       "decimals": 18,
@@ -21741,6 +21732,86 @@
       "symbol": "XGEM",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x02649C1Ff4296038De4b9bA8F491b42b940A8252/logo.png",
       "assetGroup": "XGEM"
+    },
+    "0x55555555a687343c6ce28c8e1f6641dc71659fad": {
+      "chainId": 137,
+      "decimals": 18,
+      "name": "XY Finance",
+      "address": "0x55555555a687343c6ce28c8e1f6641dc71659fad",
+      "symbol": "XY",
+      "assetGroup": "XY"
+    },
+    "0x9fb9a33956351cf4fa040f65a13b835a3c8764e3": {
+      "chainId": 137,
+      "decimals": 18,
+      "name": "Multichain",
+      "address": "0x9fb9a33956351cf4fa040f65a13b835a3c8764e3",
+      "symbol": "MULTI",
+      "assetGroup": "MULTI"
+    },
+    "0x82a0e6c02b91ec9f6ff943c0a933c03dbaa19689": {
+      "chainId": 137,
+      "decimals": 18,
+      "name": "Wicrypt",
+      "address": "0x82a0e6c02b91ec9f6ff943c0a933c03dbaa19689",
+      "symbol": "WNT",
+      "assetGroup": "WNT"
+    },
+    "0x82362ec182db3cf7829014bc61e9be8a2e82868a": {
+      "chainId": 137,
+      "decimals": 18,
+      "name": "Meshswap Protocol",
+      "address": "0x82362ec182db3cf7829014bc61e9be8a2e82868a",
+      "symbol": "MESH",
+      "assetGroup": "MESH"
+    },
+    "0x0e9b89007eee9c958c0eda24ef70723c2c93dd58": {
+      "chainId": 137,
+      "decimals": 18,
+      "name": "Ankr Staked MATIC",
+      "address": "0x0e9b89007eee9c958c0eda24ef70723c2c93dd58",
+      "symbol": "ankrMATIC",
+      "assetGroup": "ANKRMATIC"
+    },
+    "0x1ddcaa4ed761428ae348befc6718bcb12e63bfaa": {
+      "chainId": 137,
+      "decimals": 6,
+      "name": "deBridge USD Coin",
+      "address": "0x1ddcaa4ed761428ae348befc6718bcb12e63bfaa",
+      "symbol": "deUSDC",
+      "assetGroup": "DEUSDC"
+    },
+    "0xefb3009ddac87e8144803d78e235e7fb4cd36e61": {
+      "chainId": 137,
+      "decimals": 9,
+      "name": "PolyMoon",
+      "address": "0xefb3009ddac87e8144803d78e235e7fb4cd36e61",
+      "symbol": "PolyMoon",
+      "assetGroup": "POLYMOON"
+    },
+    "0x5f1657896b38c4761dbc5484473c7a7c845910b6": {
+      "chainId": 137,
+      "decimals": 18,
+      "name": "pSwampy",
+      "address": "0x5f1657896b38c4761dbc5484473c7a7c845910b6",
+      "symbol": "pSWAMP",
+      "assetGroup": "PSWAMP"
+    },
+    "0x3eb177a6693ec81d1e170136f8ad02fffbe172a7": {
+      "chainId": 137,
+      "decimals": 18,
+      "name": "AutoMatic Network",
+      "address": "0x3eb177a6693ec81d1e170136f8ad02fffbe172a7",
+      "symbol": "AUMI",
+      "assetGroup": "AUMI"
+    },
+    "0xd3c325848d7c6e29b574cb0789998b2ff901f17e": {
+      "chainId": 137,
+      "decimals": 18,
+      "name": "ArtWallet",
+      "address": "0xd3c325848d7c6e29b574cb0789998b2ff901f17e",
+      "symbol": "1ART",
+      "assetGroup": "ONE_ART"
     }
   },
   "mainTokens": [
@@ -21824,7 +21895,8 @@
     "0x690a87ed8972e451e755b8f2dc1fc2b28e3c6566",
     "0x89470e8d8bb8655a94678d801e0089c4646f5e84",
     "0x19ed9003513fd3a3eb3856b31831dd8f19f9454a",
-    "0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b"
+    "0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b",
+    "0x1ddcaa4ed761428ae348befc6718bcb12e63bfaa"
   ],
   "bridgeTokens": [
     "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
@@ -21866,6 +21938,7 @@
     "0x690a87ed8972e451e755b8f2dc1fc2b28e3c6566",
     "0x89470e8d8bb8655a94678d801e0089c4646f5e84",
     "0x19ed9003513fd3a3eb3856b31831dd8f19f9454a",
-    "0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b"
+    "0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b",
+    "0x1ddcaa4ed761428ae348befc6718bcb12e63bfaa"
   ]
 }
