@@ -1413,7 +1413,7 @@
       "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
       "symbol": "USDC.e",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
-      "assetGroup": "USDC_E"
+      "assetGroup": "USDC"
     },
     "0xc2132d05d31c914a87c6611c10748aeb04b58e8f": {
       "chainId": 137,
@@ -1531,6 +1531,15 @@
       "symbol": "agEUR",
       "logoURI": "https://assets.coingecko.com/coins/images/19479/standard/agEUR.png?1696518915",
       "assetGroup": "AGEUR"
+    },
+    "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359": {
+      "chainId": 137,
+      "decimals": 6,
+      "name": "USDCoin",
+      "address": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+      "assetGroup": "USDC"
     },
     "0x8de5b80a0c1b02fe4976851d030b36122dbb8624": {
       "chainId": 137,
@@ -3729,6 +3738,14 @@
       "symbol": "VUFIS",
       "assetGroup": "VUFIS"
     },
+    "0x345df42b1e4963d70909e09935b9a1f7ef832114": {
+      "chainId": 137,
+      "decimals": 0,
+      "name": "Degen$ Farm Bags",
+      "address": "0x345df42b1e4963d70909e09935b9a1f7ef832114",
+      "symbol": "BAGZ",
+      "assetGroup": "BAGZ"
+    },
     "0x2f911f789d9d599b34d403a2cfc0c5b3f7e8ce7a": {
       "chainId": 137,
       "decimals": 18,
@@ -4718,6 +4735,14 @@
       "symbol": "QUARTZ",
       "assetGroup": "QUARTZ"
     },
+    "0xca8c6dea40a6de9be3b4c73a1aefaafdb4754f73": {
+      "chainId": 137,
+      "decimals": 0,
+      "name": "PIXA Token",
+      "address": "0xca8c6dea40a6de9be3b4c73a1aefaafdb4754f73",
+      "symbol": "PIXA",
+      "assetGroup": "PIXA"
+    },
     "0x6bd9da80d6a7aa03d739353096df36ec18738c99": {
       "chainId": 137,
       "decimals": 18,
@@ -4945,6 +4970,14 @@
       "symbol": "EJS",
       "logoURI": "https://assets.coingecko.com/coins/images/18732/large/l-R1nYA0_400x400.jpg?1633297242",
       "assetGroup": "EJS"
+    },
+    "0x6393c0a63712601e3dda577dc5bfaf0189e89169": {
+      "chainId": 137,
+      "decimals": 0,
+      "name": "Bored Banana Token",
+      "address": "0x6393c0a63712601e3dda577dc5bfaf0189e89169",
+      "symbol": "$BANANA",
+      "assetGroup": "$BANANA"
     },
     "0x1659ffb2d40dfb1671ac226a0d9dcc95a774521a": {
       "chainId": 137,
@@ -5262,6 +5295,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/12916/large/qrx_logo.png?1603550478",
       "assetGroup": "QRX"
     },
+    "0xba19a5b5029aea6fe018742e6efc5a204a58c14d": {
+      "chainId": 137,
+      "decimals": 0,
+      "name": "Ino Coin",
+      "address": "0xba19a5b5029aea6fe018742e6efc5a204a58c14d",
+      "symbol": "INO",
+      "assetGroup": "INO"
+    },
     "0xd8a805447b1ce5bae810f029df5536a57f71b91c": {
       "chainId": 137,
       "decimals": 18,
@@ -5505,6 +5546,15 @@
       "address": "0x49b1be61a8ca3f9a9f178d6550e41e00d9162159",
       "symbol": "GGTK",
       "assetGroup": "GGTK"
+    },
+    "0xd871b40646e1a6dbded6290b6b696459a69c68a0": {
+      "chainId": 137,
+      "decimals": 8,
+      "name": "Compound USD Coin",
+      "address": "0xd871b40646e1a6dbded6290b6b696459a69c68a0",
+      "symbol": "cUSDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/9442/large/Compound_USDC.png?1567581577",
+      "assetGroup": "CUSDC"
     },
     "0x25b3a129907b675e19ce6dd3f2a6db50023ecf80": {
       "chainId": 137,
@@ -7738,6 +7788,14 @@
       "symbol": "MEL",
       "assetGroup": "MEL"
     },
+    "0xc87dc7474db6cdb9d37cc38a227dcd7b12289f22": {
+      "chainId": 137,
+      "decimals": 0,
+      "name": "VNDC",
+      "address": "0xc87dc7474db6cdb9d37cc38a227dcd7b12289f22",
+      "symbol": "VNDC",
+      "assetGroup": "VNDC"
+    },
     "0x598e49f01befeb1753737934a5b11fea9119c796": {
       "chainId": 137,
       "decimals": 11,
@@ -7761,6 +7819,14 @@
       "address": "0x0921fe2ad25266df4c078c051f7ad1c2298e89fc",
       "symbol": "ITF",
       "assetGroup": "ITF"
+    },
+    "0xb91c05cf30a973a58295c8db9248d0911cf091e5": {
+      "chainId": 137,
+      "decimals": 0,
+      "name": "Valencoin",
+      "address": "0xb91c05cf30a973a58295c8db9248d0911cf091e5",
+      "symbol": "VALOU",
+      "assetGroup": "VALOU"
     },
     "0xa0715b961daabafcb7a8a2bc1146541a21aa56c1": {
       "chainId": 137,
@@ -8592,6 +8658,15 @@
       "symbol": "PIZZA",
       "assetGroup": "PIZZA"
     },
+    "0xae64d44aa6bd7536005e663c48197d9631d4b3eb": {
+      "chainId": 137,
+      "decimals": 0,
+      "name": "UBX",
+      "address": "0xae64d44aa6bd7536005e663c48197d9631d4b3eb",
+      "symbol": "UBX",
+      "logoURI": "https://assets.coingecko.com/coins/images/13000/large/1.png?1674822617",
+      "assetGroup": "UBX"
+    },
     "0x0191297c4bf40b31031152c06fe804ba5af5fec1": {
       "chainId": 137,
       "decimals": 8,
@@ -8854,6 +8929,14 @@
       "symbol": "ALAN",
       "assetGroup": "ALAN"
     },
+    "0xebd0e6b73a0e0d231da8c91bdd60c09c9c0875c3": {
+      "chainId": 137,
+      "decimals": 0,
+      "name": "BracebridgeGolfClub",
+      "address": "0xebd0e6b73a0e0d231da8c91bdd60c09c9c0875c3",
+      "symbol": "BGC",
+      "assetGroup": "BGC"
+    },
     "0x6f7362ad5656beb11d94f4e608f2045e2fad9dc2": {
       "chainId": 137,
       "decimals": 18,
@@ -9090,6 +9173,14 @@
       "address": "0x6863bd30c9e313b264657b107352ba246f8af8e0",
       "symbol": "BPT",
       "assetGroup": "BPT"
+    },
+    "0x11cc08d7831f50a1359ff5f30e4cb7d309272e48": {
+      "chainId": 137,
+      "decimals": 0,
+      "name": "BCLTjack",
+      "address": "0x11cc08d7831f50a1359ff5f30e4cb7d309272e48",
+      "symbol": "jack",
+      "assetGroup": "JACK"
     },
     "0x147ee2488d2ede60b2443b22b245f6b4825f020f": {
       "chainId": 137,
@@ -10131,6 +10222,14 @@
       "address": "0xd62355546a93bfb0e891e905ff40b3b26ff5f2b1",
       "symbol": "KIMCHI",
       "assetGroup": "KIMCHI"
+    },
+    "0xd762d38220751f84ae5dc3fb67c8d971c08a638a": {
+      "chainId": 137,
+      "decimals": 0,
+      "name": "Silver Fifty Token",
+      "address": "0xd762d38220751f84ae5dc3fb67c8d971c08a638a",
+      "symbol": "SLX",
+      "assetGroup": "SLX"
     },
     "0x98113e216578359b8c0eb3a9fddd64285e91120a": {
       "chainId": 137,
@@ -11256,6 +11355,14 @@
       "symbol": "BASv2",
       "assetGroup": "BASV2"
     },
+    "0xa6d996afdbc613a5c5fc92bbaefbc7b827419e8f": {
+      "chainId": 137,
+      "decimals": 0,
+      "name": "CehhCoin",
+      "address": "0xa6d996afdbc613a5c5fc92bbaefbc7b827419e8f",
+      "symbol": "CEHH",
+      "assetGroup": "CEHH"
+    },
     "0x365ae1c67b3efa55c624c9705ad1df2072d3d254": {
       "chainId": 137,
       "decimals": 18,
@@ -11616,6 +11723,14 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/8909.png",
       "assetGroup": "STR"
     },
+    "0x0ab8b5304c07bb29514dad43adba7a44c67b0506": {
+      "chainId": 137,
+      "decimals": 0,
+      "name": "santa.investments",
+      "address": "0x0ab8b5304c07bb29514dad43adba7a44c67b0506",
+      "symbol": "SANTA",
+      "assetGroup": "SANTA"
+    },
     "0x5de4005155933c0e1612ce808f12b4cd8daabc82": {
       "chainId": 137,
       "decimals": 18,
@@ -11808,6 +11923,14 @@
       "address": "0x8a4001fd666be272605c56bb956d11a46200db81",
       "symbol": "GREEN",
       "assetGroup": "GREEN"
+    },
+    "0x03bb597efd7bb986222afda80858f05a3bc4a2e9": {
+      "chainId": 137,
+      "decimals": 0,
+      "name": "KEY Token",
+      "address": "0x03bb597efd7bb986222afda80858f05a3bc4a2e9",
+      "symbol": "KEY",
+      "assetGroup": "KEY"
     },
     "0xe8f157e041df3b28151b667364e9c90789da7923": {
       "chainId": 137,
@@ -21806,8 +21929,7 @@
     "0x690a87ed8972e451e755b8f2dc1fc2b28e3c6566",
     "0x89470e8d8bb8655a94678d801e0089c4646f5e84",
     "0x19ed9003513fd3a3eb3856b31831dd8f19f9454a",
-    "0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b",
-    "0x0000000000000000000000000000000000001010"
+    "0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b"
   ],
   "bridgeTokens": [
     "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
@@ -21849,7 +21971,6 @@
     "0x690a87ed8972e451e755b8f2dc1fc2b28e3c6566",
     "0x89470e8d8bb8655a94678d801e0089c4646f5e84",
     "0x19ed9003513fd3a3eb3856b31831dd8f19f9454a",
-    "0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b",
-    "0x0000000000000000000000000000000000001010"
+    "0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b"
   ]
 }

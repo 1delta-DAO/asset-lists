@@ -464,11 +464,11 @@
     "0x7f5c764cbc14f9669b88837ca1490cca17c31607": {
       "chainId": 10,
       "decimals": 6,
-      "name": "Bridged USD Coin",
+      "name": "USDCoin",
       "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
-      "symbol": "USDC.e",
+      "symbol": "USDC",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
-      "assetGroup": "USDC_E"
+      "assetGroup": "USDC"
     },
     "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58": {
       "chainId": 10,
@@ -1079,8 +1079,10 @@
     "0xcdB4bB51801A1F399d4402c61bC098a72c382E65",
     "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
     "0xfDeFFc7Ad816BF7867C642dF7eBC2CC5554ec265",
+    "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
     "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
-    "0x68f180fcce6836688e9084f035309e29bf0a2095"
+    "0x68f180fcce6836688e9084f035309e29bf0a2095",
+    "0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
   ],
   "bridgeTokens": [
     "0x4200000000000000000000000000000000000006",
