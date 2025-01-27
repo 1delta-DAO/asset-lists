@@ -2,6 +2,285 @@
   "chainId": "5000",
   "version": "0",
   "list": {
+    "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8": {
+      "chainId": 5000,
+      "decimals": 18,
+      "name": "Wrapped MNT",
+      "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
+      "symbol": "WMNT",
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x78c1b0C915c4FAA5FffA6CAbf0219DA63d7f4cb8/logo.png",
+      "assetGroup": "WMNT"
+    },
+    "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae": {
+      "chainId": 5000,
+      "decimals": 6,
+      "name": "Tether USD",
+      "address": "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae",
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x201EBa5CC46D216Ce6DC03F6a759e8E766e956aE/logo.png",
+      "assetGroup": "USDT"
+    },
+    "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9": {
+      "chainId": 5000,
+      "decimals": 6,
+      "name": "USD Coin",
+      "address": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x09Bc4E0D864854c6aFB6eB9A9cdF58aC190D0dF9/logo.png",
+      "assetGroup": "USDC"
+    },
+    "0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111": {
+      "chainId": 5000,
+      "decimals": 18,
+      "name": "Wrapped ETH",
+      "address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111",
+      "symbol": "WETH",
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111/logo.png",
+      "assetGroup": "WETH"
+    },
+    "0xcabae6f6ea1ecab08ad02fe02ce9a44f09aebfa2": {
+      "chainId": 5000,
+      "decimals": 8,
+      "name": "Wrapped BTC",
+      "address": "0xcabae6f6ea1ecab08ad02fe02ce9a44f09aebfa2",
+      "symbol": "WBTC",
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2/logo.png",
+      "assetGroup": "WBTC"
+    },
+    "0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9": {
+      "chainId": 5000,
+      "decimals": 18,
+      "name": "MerchantMoe Token",
+      "address": "0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9",
+      "symbol": "MOE",
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x4515A45337F461A11Ff0FE8aBF3c606AE5dC00c9/logo.png",
+      "assetGroup": "MOE"
+    },
+    "0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07": {
+      "chainId": 5000,
+      "decimals": 18,
+      "name": "Let's F***ing Joe",
+      "address": "0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07",
+      "symbol": "JOE",
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07/logo.png",
+      "assetGroup": "JOE"
+    },
+    "0xab575258d37eaa5c8956efabe71f4ee8f6397cf3": {
+      "chainId": 5000,
+      "decimals": 18,
+      "name": "Mantle USD",
+      "address": "0xab575258d37eaa5c8956efabe71f4ee8f6397cf3",
+      "symbol": "mUSD",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/moe-tokenlists/main/logos/0xab575258d37EaA5C8956EfABe71F4eE8F6397cF3/logo.png",
+      "assetGroup": "MUSD"
+    },
+    "0x5be26527e817998a7206475496fde1e68957c5a6": {
+      "chainId": 5000,
+      "decimals": 18,
+      "name": "Ondo USD Yield",
+      "address": "0x5be26527e817998a7206475496fde1e68957c5a6",
+      "symbol": "USDY",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/moe-tokenlists/main/logos/0x5bE26527e817998A7206475496fDE1E68957c5A6/logo.png",
+      "assetGroup": "USDY"
+    },
+    "0x25356aeca4210ef7553140edb9b8026089e49396": {
+      "chainId": 5000,
+      "decimals": 18,
+      "name": "Lendle Token",
+      "address": "0x25356aeca4210ef7553140edb9b8026089e49396",
+      "symbol": "LEND",
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x25356aeca4210eF7553140edb9b8026089E49396/logo.png",
+      "assetGroup": "LEND"
+    },
+    "0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed": {
+      "chainId": 5000,
+      "decimals": 18,
+      "name": "Mantle Inu",
+      "address": "0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed",
+      "symbol": "MINU",
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x51cfe5b1E764dC253F4c8C1f19a081fF4C3517eD/logo.png",
+      "assetGroup": "MINU"
+    },
+    "0x779f4e5fb773e17bc8e809f4ef1abb140861159a": {
+      "chainId": 5000,
+      "decimals": 18,
+      "name": "KTX Community Token",
+      "address": "0x779f4e5fb773e17bc8e809f4ef1abb140861159a",
+      "symbol": "KTC",
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x779f4E5fB773E17Bc8E809F4ef1aBb140861159a/logo.png",
+      "assetGroup": "KTC"
+    },
+    "0xcda86a272531e8640cd7f1a92c01839911b90bb0": {
+      "chainId": 5000,
+      "decimals": 18,
+      "name": "mETH",
+      "address": "0xcda86a272531e8640cd7f1a92c01839911b90bb0",
+      "symbol": "mETH",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/moe-tokenlists/main/logos/0xcDA86A272531e8640cD7F1a92c01839911B90bb0/logo.png",
+      "assetGroup": "METH"
+    },
+    "0x217b4382a1de262c0fba97c1b8378904b4a25e4d": {
+      "chainId": 5000,
+      "decimals": 18,
+      "name": "Mantle Dragon",
+      "address": "0x217b4382a1de262c0fba97c1b8378904b4a25e4d",
+      "symbol": "MDRAGON",
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x217B4382a1De262C0FBa97C1B8378904B4a25e4D/logo.png",
+      "assetGroup": "MDRAGON"
+    },
+    "0xd7782b99671dd23203ebd4584fc71cf2b3dbb111": {
+      "chainId": 5000,
+      "decimals": 18,
+      "name": "mShards",
+      "address": "0xd7782b99671dd23203ebd4584fc71cf2b3dbb111",
+      "symbol": "mShards",
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0xD7782b99671DD23203eBd4584FC71cf2B3dbB111/logo.png",
+      "assetGroup": "MSHARDS"
+    },
+    "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34": {
+      "chainId": 5000,
+      "decimals": 18,
+      "name": "USDe",
+      "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+      "symbol": "USDe",
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34/logo.png",
+      "assetGroup": "USDE"
+    },
+    "0x58538e6a46e07434d7e7375bc268d3cb839c0133": {
+      "chainId": 5000,
+      "decimals": 18,
+      "name": "Ethena",
+      "address": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
+      "symbol": "ENA",
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x58538e6A46E07434d7E7375Bc268D3cb839C0133/logo.png",
+      "assetGroup": "ENA"
+    },
+    "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140": {
+      "chainId": 5000,
+      "decimals": 18,
+      "name": "Puff",
+      "address": "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140",
+      "symbol": "PUFF",
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x26a6b0dcdCfb981362aFA56D581e4A7dBA3Be140/logo.png",
+      "assetGroup": "PUFF"
+    },
+    "0x8a3ed1f2d15b5015396f494cc1da977da38a6773": {
+      "chainId": 5000,
+      "decimals": 18,
+      "name": "Entangle",
+      "address": "0x8a3ed1f2d15b5015396f494cc1da977da38a6773",
+      "symbol": "NGL",
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x8A3ed1F2D15b5015396F494cc1Da977da38A6773/logo.png",
+      "assetGroup": "NGL"
+    },
+    "0x7f4db37d7beb31f445307782bc3da0f18df13696": {
+      "chainId": 5000,
+      "decimals": 18,
+      "name": "Yield Yak",
+      "address": "0x7f4db37d7beb31f445307782bc3da0f18df13696",
+      "symbol": "YAK",
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x7f4dB37D7bEb31F445307782Bc3Da0F18dF13696/logo.png",
+      "assetGroup": "YAK"
+    },
+    "0x74262b38609a4155eab4eecfdcd0e339da2cf1b2": {
+      "chainId": 5000,
+      "decimals": 18,
+      "name": "69",
+      "address": "0x74262b38609a4155eab4eecfdcd0e339da2cf1b2",
+      "symbol": "69",
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x74262b38609a4155EaB4eEcFDcD0E339Da2cF1b2/logo.png",
+      "assetGroup": "SIX_9"
+    },
+    "0x4b7f28397b4294277e7825f224172944f4f5a877": {
+      "chainId": 5000,
+      "decimals": 18,
+      "name": "IntentX Token",
+      "address": "0x4b7f28397b4294277e7825f224172944f4f5a877",
+      "symbol": "INTX",
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x4b7F28397B4294277E7825f224172944f4f5A877/logo.png",
+      "assetGroup": "INTX"
+    },
+    "0x420fca0121dc28039145009570975747295f2329": {
+      "chainId": 5000,
+      "decimals": 18,
+      "name": "COQINU",
+      "address": "0x420fca0121dc28039145009570975747295f2329",
+      "symbol": "COQ",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x420FcA0121DC28039145009570975747295f2329/logo.png",
+      "assetGroup": "COQ"
+    },
+    "0xc96de26018a54d51c097160568752c4e3bd6c364": {
+      "chainId": 5000,
+      "decimals": 8,
+      "name": "FBTC",
+      "address": "0xc96de26018a54d51c097160568752c4e3bd6c364",
+      "symbol": "FBTC",
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0xC96dE26018A54D51c097160568752c4E3BD6C364/logo.png",
+      "assetGroup": "FBTC"
+    },
+    "0xbe5acfd64358805616b5cbd5277b9a85011d7cf1": {
+      "chainId": 5000,
+      "decimals": 18,
+      "name": "Pichi",
+      "address": "0xbe5acfd64358805616b5cbd5277b9a85011d7cf1",
+      "symbol": "PCH",
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0xBE5ACfd64358805616b5cbD5277B9A85011d7Cf1/logo.png",
+      "assetGroup": "PCH"
+    },
+    "0x1bdd8878252daddd3af2ba30628813271294edc0": {
+      "chainId": 5000,
+      "decimals": 18,
+      "name": "Cati",
+      "address": "0x1bdd8878252daddd3af2ba30628813271294edc0",
+      "symbol": "Catizen",
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x1Bdd8878252DaddD3Af2ba30628813271294eDc0/logo.png",
+      "assetGroup": "CATIZEN"
+    },
+    "0x00000000efe302beaa2b3e6e1b18d08d69a9012a": {
+      "chainId": 5000,
+      "decimals": 6,
+      "name": "AUSD",
+      "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+      "symbol": "AUSD",
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a/logo.png",
+      "assetGroup": "AUSD"
+    },
+    "0x9f0c013016e8656bc256f948cd4b79ab25c7b94d": {
+      "chainId": 5000,
+      "decimals": 18,
+      "name": "COOK",
+      "address": "0x9f0c013016e8656bc256f948cd4b79ab25c7b94d",
+      "symbol": "COOK",
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x9f0c013016e8656bc256f948cd4b79ab25c7b94d/logo.png",
+      "assetGroup": "COOK"
+    },
+    "0xe6829d9a7ee3040e1276fa75293bde931859e8fa": {
+      "chainId": 5000,
+      "decimals": 18,
+      "name": "cmETH",
+      "address": "0xe6829d9a7ee3040e1276fa75293bde931859e8fa",
+      "symbol": "cmETH",
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0xE6829d9a7eE3040e1276Fa75293Bde931859e8fA/logo.png",
+      "assetGroup": "CMETH"
+    },
+    "0xd2b4c9b0d70e3da1fbdd98f469bd02e77e12fc79": {
+      "chainId": 5000,
+      "decimals": 18,
+      "name": "Aurelius USD",
+      "address": "0xd2b4c9b0d70e3da1fbdd98f469bd02e77e12fc79",
+      "symbol": "aUSD",
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0xD2B4C9B0d70e3Da1fBDD98f469bD02E77E12FC79/logo.png",
+      "assetGroup": "AUSD"
+    },
+    "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2": {
+      "chainId": 5000,
+      "decimals": 18,
+      "name": "Staked USDe",
+      "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+      "symbol": "sUSDe",
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2/logo.png",
+      "assetGroup": "SUSDE"
+    },
     "0x96630b0d78d29e7e8d87f8703de7c14b2d5ae413": {
       "chainId": 5000,
       "decimals": 18,
@@ -38,23 +317,14 @@
       "logoURI": "https://token-list.mantle.xyz/data/Bella/logo.svg",
       "assetGroup": "BEL"
     },
-    "0xe6829d9a7ee3040e1276fa75293bde931859e8fa": {
+    "0x52b7d8851d6ccbc6342ba0855be65f7b82a3f17f": {
       "chainId": 5000,
       "decimals": 18,
-      "name": "cmETH",
-      "address": "0xe6829d9a7ee3040e1276fa75293bde931859e8fa",
-      "symbol": "cmETH",
-      "logoURI": "https://token-list.mantle.xyz/data/cmETH/logo.svg",
-      "assetGroup": "CMETH"
-    },
-    "0x9f0c013016e8656bc256f948cd4b79ab25c7b94d": {
-      "chainId": 5000,
-      "decimals": 18,
-      "name": "COOK",
-      "address": "0x9f0c013016e8656bc256f948cd4b79ab25c7b94d",
-      "symbol": "COOK",
-      "logoURI": "https://token-list.mantle.xyz/data/COOK/logo.svg",
-      "assetGroup": "COOK"
+      "name": "Compound",
+      "address": "0x52b7d8851d6ccbc6342ba0855be65f7b82a3f17f",
+      "symbol": "COMP",
+      "logoURI": "https://token-list.mantle.xyz/data/COMP/logo.svg",
+      "assetGroup": "COMP"
     },
     "0xe265fc71d45fd791c9ebf3ee0a53fbb220eb8f75": {
       "chainId": 5000,
@@ -101,15 +371,6 @@
       "logoURI": "https://token-list.mantle.xyz/data/EMBER/logo.svg",
       "assetGroup": "EMBER"
     },
-    "0x58538e6a46e07434d7e7375bc268d3cb839c0133": {
-      "chainId": 5000,
-      "decimals": 18,
-      "name": "Ethena Token",
-      "address": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
-      "symbol": "ENA",
-      "logoURI": "https://token-list.mantle.xyz/data/ENA/logo.svg",
-      "assetGroup": "ENA"
-    },
     "0x9e1028f5f1d5ede59748ffcee5532509976840e0": {
       "chainId": 5000,
       "decimals": 18,
@@ -127,24 +388,6 @@
       "symbol": "EQB",
       "logoURI": "https://token-list.mantle.xyz/data/EQB/logo.svg",
       "assetGroup": "EQB"
-    },
-    "0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111": {
-      "chainId": 5000,
-      "decimals": 18,
-      "name": "Ether",
-      "address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111",
-      "symbol": "ETH",
-      "logoURI": "https://token-list.mantle.xyz/data/ETH/logo.svg",
-      "assetGroup": "ETH"
-    },
-    "0xc96de26018a54d51c097160568752c4e3bd6c364": {
-      "chainId": 5000,
-      "decimals": 8,
-      "name": "Ignition FBTC",
-      "address": "0xc96de26018a54d51c097160568752c4e3bd6c364",
-      "symbol": "FBTC",
-      "logoURI": "https://token-list.mantle.xyz/data/FBTC/logo.svg",
-      "assetGroup": "FBTC"
     },
     "0x6efff76acf1698a6a215eca7d632991678ec673b": {
       "chainId": 5000,
@@ -200,15 +443,6 @@
       "logoURI": "https://token-list.mantle.xyz/data/Mantle/logo.svg",
       "assetGroup": "MNT"
     },
-    "0xcda86a272531e8640cd7f1a92c01839911b90bb0": {
-      "chainId": 5000,
-      "decimals": 18,
-      "name": "mETH",
-      "address": "0xcda86a272531e8640cd7f1a92c01839911b90bb0",
-      "symbol": "mETH",
-      "logoURI": "https://token-list.mantle.xyz/data/mETH/logo.svg",
-      "assetGroup": "METH"
-    },
     "0xd27b18915e7acc8fd6ac75db6766a80f8d2f5729": {
       "chainId": 5000,
       "decimals": 18,
@@ -227,15 +461,6 @@
       "logoURI": "https://token-list.mantle.xyz/data/PEPE/logo.png",
       "assetGroup": "PEPE"
     },
-    "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140": {
-      "chainId": 5000,
-      "decimals": 18,
-      "name": "Puff",
-      "address": "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140",
-      "symbol": "PUFF",
-      "logoURI": "https://token-list.mantle.xyz/data/Puff/logo.png",
-      "assetGroup": "PUFF"
-    },
     "0x49397ac9cb061152b770b1d274a5682155f20099": {
       "chainId": 5000,
       "decimals": 18,
@@ -244,15 +469,6 @@
       "symbol": "SHIB",
       "logoURI": "https://token-list.mantle.xyz/data/SHIBA/logo.png",
       "assetGroup": "SHIB"
-    },
-    "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2": {
-      "chainId": 5000,
-      "decimals": 18,
-      "name": "sUSDe",
-      "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
-      "symbol": "sUSDe",
-      "logoURI": "https://token-list.mantle.xyz/data/SUSDE/logo.svg",
-      "assetGroup": "SUSDE"
     },
     "0x35d48a789904e9b15705977192e5d95e2af7f1d3": {
       "chainId": 5000,
@@ -272,24 +488,6 @@
       "logoURI": "https://token-list.mantle.xyz/data/UNI/logo.png",
       "assetGroup": "UNI"
     },
-    "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9": {
-      "chainId": 5000,
-      "decimals": 6,
-      "name": "USD Coin",
-      "address": "0x09bc4e0d864854c6afb6eb9a9cdf58ac190d0df9",
-      "symbol": "USDC",
-      "logoURI": "https://token-list.mantle.xyz/data/USDC/logo.png",
-      "assetGroup": "USDC"
-    },
-    "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34": {
-      "chainId": 5000,
-      "decimals": 18,
-      "name": "USDe",
-      "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
-      "symbol": "USDe",
-      "logoURI": "https://token-list.mantle.xyz/data/USDE/logo.svg",
-      "assetGroup": "USDE"
-    },
     "0x8fe7176f0bf63358ad9490fd24ac0bdb4dac33a8": {
       "chainId": 5000,
       "decimals": 6,
@@ -298,24 +496,6 @@
       "symbol": "USDLR",
       "logoURI": "https://token-list.mantle.xyz/data/USDLR/logo.png",
       "assetGroup": "USDLR"
-    },
-    "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae": {
-      "chainId": 5000,
-      "decimals": 6,
-      "name": "Tether USD",
-      "address": "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae",
-      "symbol": "USDT",
-      "logoURI": "https://token-list.mantle.xyz/data/USDT/logo.svg",
-      "assetGroup": "USDT"
-    },
-    "0xcabae6f6ea1ecab08ad02fe02ce9a44f09aebfa2": {
-      "chainId": 5000,
-      "decimals": 8,
-      "name": "Wrapped BTC",
-      "address": "0xcabae6f6ea1ecab08ad02fe02ce9a44f09aebfa2",
-      "symbol": "WBTC",
-      "logoURI": "https://token-list.mantle.xyz/data/WBTC/logo.svg",
-      "assetGroup": "WBTC"
     },
     "0x458ed78eb972a369799fb278c0243b25e5242a83": {
       "chainId": 5000,
@@ -326,132 +506,6 @@
       "logoURI": "https://token-list.mantle.xyz/data/wstETH/logo.svg",
       "assetGroup": "WSTETH"
     },
-    "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8": {
-      "chainId": 5000,
-      "decimals": 18,
-      "name": "Wrapped MNT",
-      "address": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
-      "symbol": "WMNT",
-      "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8.png",
-      "assetGroup": "WMNT"
-    },
-    "0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9": {
-      "chainId": 5000,
-      "decimals": 18,
-      "name": "Moe Token",
-      "address": "0x4515a45337f461a11ff0fe8abf3c606ae5dc00c9",
-      "symbol": "MOE",
-      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x4515A45337F461A11Ff0FE8aBF3c606AE5dC00c9/logo.png",
-      "assetGroup": "MOE"
-    },
-    "0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07": {
-      "chainId": 5000,
-      "decimals": 18,
-      "name": "Joe Token",
-      "address": "0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07",
-      "symbol": "JOE",
-      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07/logo.png",
-      "assetGroup": "JOE"
-    },
-    "0xab575258d37eaa5c8956efabe71f4ee8f6397cf3": {
-      "chainId": 5000,
-      "decimals": 18,
-      "name": "Mantle USD",
-      "address": "0xab575258d37eaa5c8956efabe71f4ee8f6397cf3",
-      "symbol": "mUSD",
-      "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0xab575258d37eaa5c8956efabe71f4ee8f6397cf3.png",
-      "assetGroup": "MUSD"
-    },
-    "0x5be26527e817998a7206475496fde1e68957c5a6": {
-      "chainId": 5000,
-      "decimals": 18,
-      "name": "Ondo U.S. Dollar Yield",
-      "address": "0x5be26527e817998a7206475496fde1e68957c5a6",
-      "symbol": "USDY",
-      "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x5be26527e817998a7206475496fde1e68957c5a6.png",
-      "assetGroup": "USDY"
-    },
-    "0x25356aeca4210ef7553140edb9b8026089e49396": {
-      "chainId": 5000,
-      "decimals": 18,
-      "name": "Lendle Protocol Token",
-      "address": "0x25356aeca4210ef7553140edb9b8026089e49396",
-      "symbol": "LEND",
-      "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x25356aeca4210ef7553140edb9b8026089e49396.png",
-      "assetGroup": "LEND"
-    },
-    "0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed": {
-      "chainId": 5000,
-      "decimals": 18,
-      "name": "Mantle Inu",
-      "address": "0x51cfe5b1e764dc253f4c8c1f19a081ff4c3517ed",
-      "symbol": "MINU",
-      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/minu.png",
-      "assetGroup": "MINU"
-    },
-    "0x779f4e5fb773e17bc8e809f4ef1abb140861159a": {
-      "chainId": 5000,
-      "decimals": 18,
-      "name": "KTX Community Token",
-      "address": "0x779f4e5fb773e17bc8e809f4ef1abb140861159a",
-      "symbol": "KTC",
-      "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x779f4e5fb773e17bc8e809f4ef1abb140861159a.png",
-      "assetGroup": "KTC"
-    },
-    "0x217b4382a1de262c0fba97c1b8378904b4a25e4d": {
-      "chainId": 5000,
-      "decimals": 18,
-      "name": "Mantle Dragon",
-      "address": "0x217b4382a1de262c0fba97c1b8378904b4a25e4d",
-      "symbol": "$MDragon",
-      "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x217b4382a1de262c0fba97c1b8378904b4a25e4d.png",
-      "assetGroup": "$MDRAGON"
-    },
-    "0xd7782b99671dd23203ebd4584fc71cf2b3dbb111": {
-      "chainId": 5000,
-      "decimals": 18,
-      "name": "mShards",
-      "address": "0xd7782b99671dd23203ebd4584fc71cf2b3dbb111",
-      "symbol": "mShards",
-      "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0xd7782b99671dd23203ebd4584fc71cf2b3dbb111.png",
-      "assetGroup": "MSHARDS"
-    },
-    "0x8a3ed1f2d15b5015396f494cc1da977da38a6773": {
-      "chainId": 5000,
-      "decimals": 18,
-      "name": "Entangle",
-      "address": "0x8a3ed1f2d15b5015396f494cc1da977da38a6773",
-      "symbol": "NGL",
-      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x8A3ed1F2D15b5015396F494cc1Da977da38A6773/logo.png",
-      "assetGroup": "NGL"
-    },
-    "0x7f4db37d7beb31f445307782bc3da0f18df13696": {
-      "chainId": 5000,
-      "decimals": 18,
-      "name": "Yield Yak",
-      "address": "0x7f4db37d7beb31f445307782bc3da0f18df13696",
-      "symbol": "YAK",
-      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x7f4dB37D7bEb31F445307782Bc3Da0F18dF13696/logo.png",
-      "assetGroup": "YAK"
-    },
-    "0x74262b38609a4155eab4eecfdcd0e339da2cf1b2": {
-      "chainId": 5000,
-      "decimals": 18,
-      "name": "69",
-      "address": "0x74262b38609a4155eab4eecfdcd0e339da2cf1b2",
-      "symbol": "69",
-      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x74262b38609a4155EaB4eEcFDcD0E339Da2cF1b2/logo.png",
-      "assetGroup": "SIX_9"
-    },
-    "0x4b7f28397b4294277e7825f224172944f4f5a877": {
-      "chainId": 5000,
-      "decimals": 18,
-      "name": "IntentX Token",
-      "address": "0x4b7f28397b4294277e7825f224172944f4f5a877",
-      "symbol": "INTX",
-      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x4b7F28397B4294277E7825f224172944f4f5A877/logo.png",
-      "assetGroup": "INTX"
-    },
     "0xa0d5ed78cd27ca1dd1f081bd980b786f55106249": {
       "chainId": 5000,
       "decimals": 18,
@@ -460,33 +514,6 @@
       "symbol": "COQ",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x420FcA0121DC28039145009570975747295f2329/logo.png",
       "assetGroup": "COQ"
-    },
-    "0xbe5acfd64358805616b5cbd5277b9a85011d7cf1": {
-      "chainId": 5000,
-      "decimals": 18,
-      "name": "Pichi",
-      "address": "0xbe5acfd64358805616b5cbd5277b9a85011d7cf1",
-      "symbol": "PCH",
-      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0xBE5ACfd64358805616b5cbD5277B9A85011d7Cf1/logo.png",
-      "assetGroup": "PCH"
-    },
-    "0x1bdd8878252daddd3af2ba30628813271294edc0": {
-      "chainId": 5000,
-      "decimals": 18,
-      "name": "Cati",
-      "address": "0x1bdd8878252daddd3af2ba30628813271294edc0",
-      "symbol": "Catizen",
-      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x1Bdd8878252DaddD3Af2ba30628813271294eDc0/logo.png",
-      "assetGroup": "CATIZEN"
-    },
-    "0x00000000efe302beaa2b3e6e1b18d08d69a9012a": {
-      "chainId": 5000,
-      "decimals": 6,
-      "name": "AUSD",
-      "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
-      "symbol": "AUSD",
-      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a/logo.png",
-      "assetGroup": "AUSD"
     },
     "0xe449bf38e417b32245dc27552d8de8a733e830d5": {
       "chainId": 5000,
@@ -658,15 +685,6 @@
       "logoURI": "https://app.swapsicle.io/_next/image?url=%2Fimages%2Fslush.png&w=32&q=75",
       "assetGroup": "SLUSH"
     },
-    "0xd2b4c9b0d70e3da1fbdd98f469bd02e77e12fc79": {
-      "chainId": 5000,
-      "decimals": 18,
-      "name": "Aurelius USD",
-      "address": "0xd2b4c9b0d70e3da1fbdd98f469bd02e77e12fc79",
-      "symbol": "aUSD",
-      "logoURI": "https://cleopatra.exchange/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2FRamsesExchange%2Framses-assets%2Fmain%2Fblockchains%2Fmantle%2Fassets%2F0xD2B4C9B0d70e3Da1fBDD98f469bD02E77E12FC79%2Flogo.png&w=32&q=75",
-      "assetGroup": "AUSD"
-    },
     "0x894134a25a5fac1c2c26f1d8fbf05111a3cb9487": {
       "chainId": 5000,
       "decimals": 18,
@@ -770,6 +788,7 @@
     "0x201EBa5CC46D216Ce6DC03F6a759e8E766e956aE",
     "0x09Bc4E0D864854c6aFB6eB9A9cdF58aC190D0dF9",
     "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+    "0x52b7d8851d6ccbc6342ba0855be65f7b82a3f17f",
     "0xdEAddEaDdeadDEadDEADDEAddEADDEAddead1111",
     "0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2",
     "0x6968f3F16C3e64003F02E121cf0D5CCBf5625a42",
