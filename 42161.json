@@ -4565,15 +4565,6 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/anon.png",
       "assetGroup": "ANON"
     },
-    "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
-      "chainId": 42161,
-      "decimals": 18,
-      "name": "Wrapped ETH",
-      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-      "symbol": "WETH",
-      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/weth.svg",
-      "assetGroup": "WETH"
-    },
     "0xd22a58f79e9481d1a88e00c343885a588b34b68b": {
       "chainId": 42161,
       "decimals": 2,
@@ -5417,6 +5408,7 @@
       "name": "renBTC",
       "address": "0xdbf31df14b66535af65aac99c32e9ea844e14501",
       "symbol": "RENBTC",
+      "logoURI": "https://s3.openocean.finance/token_logos/logos/1661151044584_6641692875412855.png",
       "assetGroup": "RENBTC"
     },
     "0xcab86f6fb6d1c2cbeeb97854a0c023446a075fe3": {
@@ -5425,6 +5417,7 @@
       "name": "deBridge Ether ",
       "address": "0xcab86f6fb6d1c2cbeeb97854a0c023446a075fe3",
       "symbol": "deETH",
+      "logoURI": "https://s3.openocean.finance/token_logos/logos/1650029215738_15732322915186336.png",
       "assetGroup": "DEETH"
     },
     "0x1ddcaa4ed761428ae348befc6718bcb12e63bfaa": {
@@ -5433,6 +5426,7 @@
       "name": "deBridge USD Coin",
       "address": "0x1ddcaa4ed761428ae348befc6718bcb12e63bfaa",
       "symbol": "deUSDC",
+      "logoURI": "https://s3.openocean.finance/token_logos/logos/1650029132289_12499390331785354.png",
       "assetGroup": "DEUSDC"
     },
     "0x9d2f299715d94d8a7e6f5eaa8e654e8c74a988a7": {
@@ -5441,6 +5435,7 @@
       "name": "Frax Share",
       "address": "0x9d2f299715d94d8a7e6f5eaa8e654e8c74a988a7",
       "symbol": "FXS",
+      "logoURI": "https://s3.openocean.finance/token_logos/logos/1648904710979_811680259074864.png",
       "assetGroup": "FXS"
     },
     "0xde903e2712288a1da82942dddf2c20529565ac30": {
@@ -5449,6 +5444,7 @@
       "name": "Swapr",
       "address": "0xde903e2712288a1da82942dddf2c20529565ac30",
       "symbol": "SWPR",
+      "logoURI": "https://s3.openocean.finance/token_logos/logos/1637928358592_16756241018483786.png",
       "assetGroup": "SWPR"
     },
     "0xdb96f8efd6865644993505318cc08ff9c42fb9ac": {
@@ -5457,6 +5453,7 @@
       "name": "ZeroTwOhm",
       "address": "0xdb96f8efd6865644993505318cc08ff9c42fb9ac",
       "symbol": "Z2O",
+      "logoURI": "https://s3.openocean.finance/token_logos/logos/1637928264168_1276740912855694.png",
       "assetGroup": "Z2O"
     },
     "0x3cd1833ce959e087d0ef0cb45ed06bffe60f23ba": {
@@ -5465,6 +5462,7 @@
       "name": "Land",
       "address": "0x3cd1833ce959e087d0ef0cb45ed06bffe60f23ba",
       "symbol": "LAND",
+      "logoURI": "https://s3.openocean.finance/token_logos/logos/1637927281150_2452152542772339.png",
       "assetGroup": "LAND"
     },
     "0x8fbd420956fdd301f4493500fd0bcaaa80f2389c": {
@@ -5473,6 +5471,7 @@
       "name": "Amy Finance Token",
       "address": "0x8fbd420956fdd301f4493500fd0bcaaa80f2389c",
       "symbol": "AMY",
+      "logoURI": "https://s3.openocean.finance/token_logos/logos/1637893005424_2740901520185888.png",
       "assetGroup": "AMY"
     },
     "0x3509f19581afedeff07c53592bc0ca84e4855475": {
@@ -5481,6 +5480,7 @@
       "name": "xDollar Stablecoin",
       "address": "0x3509f19581afedeff07c53592bc0ca84e4855475",
       "symbol": "XUSD",
+      "logoURI": "https://s3.openocean.finance/token_logos/logos/1637892796159_3482286577377456.png",
       "assetGroup": "XUSD"
     },
     "0xed3fb761414da74b74f33e5c5a1f78104b188dfc": {
@@ -5489,6 +5489,7 @@
       "name": "ArbiNYAN",
       "address": "0xed3fb761414da74b74f33e5c5a1f78104b188dfc",
       "symbol": "NYAN",
+      "logoURI": "https://s3.openocean.finance/token_logos/logos/1638170899569_12235125291982096.png",
       "assetGroup": "NYAN"
     },
     "0x04cb2d263a7489f02d813eaab9ba1bb8466347f2": {
@@ -5497,6 +5498,7 @@
       "name": "QIAN governance token",
       "address": "0x04cb2d263a7489f02d813eaab9ba1bb8466347f2",
       "symbol": "KUN",
+      "logoURI": "https://s3.openocean.finance/token_logos/logos/1637892437310_4683331777430453.png",
       "assetGroup": "KUN"
     },
     "0x10010078a54396f62c96df8532dc2b4847d47ed3": {
@@ -5505,6 +5507,7 @@
       "name": "Hundred Finance",
       "address": "0x10010078a54396f62c96df8532dc2b4847d47ed3",
       "symbol": "HND",
+      "logoURI": "https://s3.openocean.finance/token_logos/logos/1637892347363_6124669428880605.png",
       "assetGroup": "HND"
     },
     "0xfa42da1bd08341537a44a4ca9d236d1c00a98b40": {
@@ -5513,6 +5516,7 @@
       "name": "Carboncoin",
       "address": "0xfa42da1bd08341537a44a4ca9d236d1c00a98b40",
       "symbol": "CARBON",
+      "logoURI": "https://s3.openocean.finance/token_logos/logos/1637832686338_7422730180325647.png",
       "assetGroup": "CARBON"
     },
     "0x07aaa29e63ffeb2ebf59b33ee61437e1a91a3bb2": {
@@ -5521,6 +5525,7 @@
       "name": " QIAN second generation dollar",
       "address": "0x07aaa29e63ffeb2ebf59b33ee61437e1a91a3bb2",
       "symbol": "QSD",
+      "logoURI": "https://s3.openocean.finance/token_logos/logos/1637832211908_8528681646600584.png",
       "assetGroup": "QSD"
     },
     "0x995c235521820f2637303ca1970c7c044583df44": {
@@ -5529,6 +5534,7 @@
       "name": "VISOR",
       "address": "0x995c235521820f2637303ca1970c7c044583df44",
       "symbol": "VISR",
+      "logoURI": "https://s3.openocean.finance/token_logos/logos/1637831805273_9047524471699071.png",
       "assetGroup": "VISR"
     },
     "0x9ef758ac000a354479e538b8b2f01b917b8e89e7": {
@@ -5537,6 +5543,7 @@
       "name": "xDollar",
       "address": "0x9ef758ac000a354479e538b8b2f01b917b8e89e7",
       "symbol": "XDO",
+      "logoURI": "https://s3.openocean.finance/token_logos/logos/1637831645816_6024340081244819.png",
       "assetGroup": "XDO"
     },
     "0x0e15258734300290a651fdbae8deb039a8e7a2fa": {
@@ -5545,6 +5552,7 @@
       "name": "Token Alch",
       "address": "0x0e15258734300290a651fdbae8deb039a8e7a2fa",
       "symbol": "ALCH",
+      "logoURI": "https://s3.openocean.finance/token_logos/logos/1638170458309_14655151279728496.png",
       "assetGroup": "ALCH"
     },
     "0x23a941036ae778ac51ab04cea08ed6e2fe103614": {
@@ -5553,6 +5561,7 @@
       "name": "Graph Token",
       "address": "0x23a941036ae778ac51ab04cea08ed6e2fe103614",
       "symbol": "GRT",
+      "logoURI": "https://s3.openocean.finance/token_logos/logos/1637749726435_5769394092149096.png",
       "assetGroup": "GRT"
     }
   },
