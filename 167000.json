@@ -53,7 +53,8 @@
       "name": "Wrapped BTC",
       "address": "0xc4c410459fbaf8f7f86b6cee52b4fa1282ff9704",
       "symbol": "WBTC",
-      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/167000/0xc4C410459fbaF8f7F86b6cEE52b4fA1282FF9704.png"
+      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/167000/0xc4C410459fbaF8f7F86b6cEE52b4fA1282FF9704.png",
+      "assetGroup": "WBTC (Wrapped BTC)"
     },
     "0xa9d23408b9ba935c230493c40c73824df71a0975": {
       "chainId": 167000,
@@ -61,7 +62,8 @@
       "name": "Taiko Token",
       "address": "0xa9d23408b9ba935c230493c40c73824df71a0975",
       "symbol": "TAIKO",
-      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/167000/0xA9d23408b9bA935c230493c40C73824Df71A0975.png"
+      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/167000/0xA9d23408b9bA935c230493c40C73824Df71A0975.png",
+      "assetGroup": "TAIKO (Taiko Token)"
     },
     "0x7e91f29f8a213c8311712a8fc8c61219fb9477cb": {
       "chainId": 167000,
@@ -69,7 +71,8 @@
       "name": "Kodo Token",
       "address": "0x7e91f29f8a213c8311712a8fc8c61219fb9477cb",
       "symbol": "KODO",
-      "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/kodo.svg"
+      "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/kodo.svg",
+      "assetGroup": "KODO (Kodo Token)"
     },
     "0xd347949f8c85d9f3d6b06bfc4f8c2e07c161f064": {
       "chainId": 167000,
@@ -77,7 +80,8 @@
       "name": "LoopringCoin V2",
       "address": "0xd347949f8c85d9f3d6b06bfc4f8c2e07c161f064",
       "symbol": "LRC",
-      "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/lrc.png"
+      "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/lrc.png",
+      "assetGroup": "LRC (LoopringCoin V2)"
     },
     "0x473c58b748156d3249ca31baa3cad9781eb6d97e": {
       "chainId": 167000,
@@ -85,7 +89,8 @@
       "name": "Rocket Pool ETH",
       "address": "0x473c58b748156d3249ca31baa3cad9781eb6d97e",
       "symbol": "rETH",
-      "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/reth.svg"
+      "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/reth.svg",
+      "assetGroup": "rETH (Rocket Pool ETH)"
     },
     "0xf9a06e3afaadbccccc8824a1255a88d648ca0ef6": {
       "chainId": 167000,
@@ -93,7 +98,8 @@
       "name": "TaikoSwap",
       "address": "0xf9a06e3afaadbccccc8824a1255a88d648ca0ef6",
       "symbol": "TKOSWAP",
-      "logoURI": "https://assets.coingecko.com/coins/images/38471/standard/taikoswap.jpeg?1717647381"
+      "logoURI": "https://assets.coingecko.com/coins/images/38471/standard/taikoswap.jpeg?1717647381",
+      "assetGroup": "TKOSWAP (TaikoSwap)"
     },
     "0x2d9e1da77f086c50f93db46e554974b71536a9ee": {
       "chainId": 167000,
@@ -101,7 +107,8 @@
       "name": "MAGA",
       "address": "0x2d9e1da77f086c50f93db46e554974b71536a9ee",
       "symbol": "MAGA",
-      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/maga.png"
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/maga.png",
+      "assetGroup": "MAGA (MAGA)"
     },
     "0x5217c8f3b7fb8b6501c8ff2a4c09b14b4b08c9f9": {
       "chainId": 167000,
@@ -109,7 +116,8 @@
       "name": "Affine ultraETHs 2.0",
       "address": "0x5217c8f3b7fb8b6501c8ff2a4c09b14b4b08c9f9",
       "symbol": "ultraETHs",
-      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/ultraeths.png"
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/ultraeths.png",
+      "assetGroup": "ultraETHs (Affine ultraETHs 2.0)"
     },
     "0xa2fba3fde6c9e7386716b577e1258577cb9b5bf7": {
       "chainId": 167000,
@@ -117,7 +125,8 @@
       "name": "izumi Token",
       "address": "0xa2fba3fde6c9e7386716b577e1258577cb9b5bf7",
       "symbol": "iZi",
-      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg"
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg",
+      "assetGroup": "iZi (izumi Token)"
     },
     "0xda9a0fbce1b8b11fcbd8114354ec266594c0ff5a": {
       "chainId": 167000,
@@ -125,7 +134,8 @@
       "name": "Wrapped sxETH",
       "address": "0xda9a0fbce1b8b11fcbd8114354ec266594c0ff5a",
       "symbol": "wsxETH",
-      "logoURI": "https://panko.finance/images/token-image/wsxeth.png"
+      "logoURI": "https://panko.finance/images/token-image/wsxeth.png",
+      "assetGroup": "wsxETH (Wrapped sxETH)"
     },
     "0x541fd749419ca806a8bc7da8ac23d346f2df8b77": {
       "chainId": 167000,
@@ -169,7 +179,8 @@
       "name": "Lorenzo Wrapped Bitcoin",
       "address": "0x6a9a65b84843f5fd4ac9a0471c4fc11afffbce4a",
       "symbol": "enzoBTC",
-      "logoURI": "https://images.dodoex.io/X1B1iHAvXAuHar8VBt_U476tCJvXBp8UTZYg-6UZFzs/rs:fit:24:24:0/g:no/aHR0cHM6Ly90b2tlbi1pbWcuZG9kb2V4LmlvLzE2NzAwMC8weDZhOWE2NWI4NDg0M2Y1ZmQ0YWM5YTA0NzFjNGZjMTFhZmZmYmNlNGE.webp"
+      "logoURI": "https://images.dodoex.io/X1B1iHAvXAuHar8VBt_U476tCJvXBp8UTZYg-6UZFzs/rs:fit:24:24:0/g:no/aHR0cHM6Ly90b2tlbi1pbWcuZG9kb2V4LmlvLzE2NzAwMC8weDZhOWE2NWI4NDg0M2Y1ZmQ0YWM5YTA0NzFjNGZjMTFhZmZmYmNlNGE.webp",
+      "assetGroup": "enzoBTC (Lorenzo Wrapped Bitcoin)"
     },
     "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3": {
       "chainId": 167000,
@@ -186,7 +197,8 @@
       "name": "Obelisk BTC",
       "address": "0xe3c0ff176ef92fc225096c6d1788ccb818808b35",
       "symbol": "oBTC",
-      "logoURI": "https://images.dodoex.io/yj_L45Yvz01b54avWCNl7pKoEyr7F0e6xmj8ChYcdLA/rs:fit:36:36:0/g:no/aHR0cHM6Ly90b2tlbi1pbWcuZG9kb2V4LmlvLzE2NzAwMC8weGUzYzBmZjE3NmVmOTJmYzIyNTA5NmM2ZDE3ODhjY2I4MTg4MDhiMzU.webp"
+      "logoURI": "https://images.dodoex.io/yj_L45Yvz01b54avWCNl7pKoEyr7F0e6xmj8ChYcdLA/rs:fit:36:36:0/g:no/aHR0cHM6Ly90b2tlbi1pbWcuZG9kb2V4LmlvLzE2NzAwMC8weGUzYzBmZjE3NmVmOTJmYzIyNTA5NmM2ZDE3ODhjY2I4MTg4MDhiMzU.webp",
+      "assetGroup": "oBTC (Obelisk BTC)"
     },
     "0x36bfe1f1b36cfdb4fe75cc592ff5dc6200ad3e0f": {
       "chainId": 167000,
@@ -194,7 +206,8 @@
       "name": "Swapsicle SLUSH Token",
       "address": "0x36bfe1f1b36cfdb4fe75cc592ff5dc6200ad3e0f",
       "symbol": "SLUSH",
-      "logoURI": "https://app.swapsicle.io/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2Fswapsicledex%2Fswapsicle-token-list%2Fmaster%2Flogos%2Fmantle%2F0x950570d7b3cec2d93b506d2d4eb53f38cbd130b0%2Flogo.png&w=32&q=75"
+      "logoURI": "https://app.swapsicle.io/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2Fswapsicledex%2Fswapsicle-token-list%2Fmaster%2Flogos%2Fmantle%2F0x950570d7b3cec2d93b506d2d4eb53f38cbd130b0%2Flogo.png&w=32&q=75",
+      "assetGroup": "SLUSH (Swapsicle SLUSH Token)"
     },
     "0xc8f4518ed4bab9a972808a493107926ce8237068": {
       "chainId": 167000,
@@ -202,7 +215,8 @@
       "name": "Curve.Fi USD Stablecoin",
       "address": "0xc8f4518ed4bab9a972808a493107926ce8237068",
       "symbol": "crvUSD",
-      "logoURI": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets-taiko/0xc8f4518ed4bab9a972808a493107926ce8237068.png"
+      "logoURI": "https://cdn.jsdelivr.net/gh/curvefi/curve-assets/images/assets-taiko/0xc8f4518ed4bab9a972808a493107926ce8237068.png",
+      "assetGroup": "crvUSD (Curve.Fi USD Stablecoin)"
     },
     "0x09413312b263fd252c16e592a45f4689f26cb79d": {
       "chainId": 167000,

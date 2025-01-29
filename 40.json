@@ -26,7 +26,8 @@
       "name": "Staked TLOS",
       "address": "0xb4b01216a5bc8f1c8a33cd990a1239030e60c905",
       "symbol": "STLOS",
-      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/40/0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905.png"
+      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/40/0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905.png",
+      "assetGroup": "STLOS (Staked TLOS)"
     },
     "0xdc2393dc10734bf153153038943a5deb42b209cd": {
       "chainId": 40,
@@ -34,7 +35,8 @@
       "name": "Wrapped TLOS",
       "address": "0xdc2393dc10734bf153153038943a5deb42b209cd",
       "symbol": "WTLOS",
-      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/40/0xDC2393dc10734BF153153038943a5deB42b209cd.png"
+      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/40/0xDC2393dc10734BF153153038943a5deB42b209cd.png",
+      "assetGroup": "WTLOS (Wrapped TLOS)"
     }
   },
   "mainTokens": ["0xc57f0eb99363e747d637b17bbdb4e1ab85e60631"],

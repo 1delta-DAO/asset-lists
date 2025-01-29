@@ -8,7 +8,8 @@
       "name": "Wrapped BTC",
       "address": "0x729ed87bbe7b7e4b7f09bcb9c668580818d98bb9",
       "symbol": "WBTC",
-      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1625/0x729ed87bbE7B7e4B7F09BCb9c668580818d98BB9.png"
+      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1625/0x729ed87bbE7B7e4B7F09BCb9c668580818d98BB9.png",
+      "assetGroup": "WBTC (Wrapped BTC)"
     },
     "0xbfbbc4da47508e85ac18dfc961fa182194e85f9a": {
       "chainId": 1625,
@@ -52,7 +53,8 @@
       "name": "Wrapped G",
       "address": "0xbb859e225ac8fb6be1c7e38d87b767e95fef0ebd",
       "symbol": "wG",
-      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1625/0xBB859E225ac8Fb6BE1C7e38D87b767e95Fef0EbD.png"
+      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1625/0xBB859E225ac8Fb6BE1C7e38D87b767e95Fef0EbD.png",
+      "assetGroup": "wG (Wrapped G)"
     },
     "0xc314b8637b05a294ae9d9c29300d5f667c748bad": {
       "chainId": 1625,
@@ -60,7 +62,8 @@
       "name": "Latch staked ETH",
       "address": "0xc314b8637b05a294ae9d9c29300d5f667c748bad",
       "symbol": "atETH",
-      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/ateth.svg"
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/ateth.svg",
+      "assetGroup": "atETH (Latch staked ETH)"
     },
     "0xc4af68dd5b96f0a544c4417407773fefdc97f58d": {
       "chainId": 1625,
@@ -68,7 +71,8 @@
       "name": "Latch staked USD",
       "address": "0xc4af68dd5b96f0a544c4417407773fefdc97f58d",
       "symbol": "atUSD",
-      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/atusd.svg"
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/atusd.svg",
+      "assetGroup": "atUSD (Latch staked USD)"
     }
   },
   "mainTokens": [
