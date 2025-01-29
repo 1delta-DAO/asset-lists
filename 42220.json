@@ -9,7 +9,8 @@
       "address": "0x471ece3750da237f93b8e339c536989b8978a438",
       "symbol": "CELO",
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_CELO.png",
-      "assetGroup": "CELO (Celo)"
+      "assetGroup": "CELO (Celo)",
+      "tags": ["Coingecko"]
     },
     "0x2def4285787d58a2f811af24755a8150622f4361": {
       "chainId": 42220,
@@ -18,7 +19,8 @@
       "address": "0x2def4285787d58a2f811af24755a8150622f4361",
       "symbol": "WETH",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
-      "assetGroup": "WETH"
+      "assetGroup": "WETH",
+      "tags": ["Coingecko"]
     },
     "0xd629eb00deced2a080b7ec630ef6ac117e614f1b": {
       "chainId": 42220,
@@ -27,7 +29,8 @@
       "address": "0xd629eb00deced2a080b7ec630ef6ac117e614f1b",
       "symbol": "WBTC",
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_WBTC.png",
-      "assetGroup": "WBTC"
+      "assetGroup": "WBTC",
+      "tags": ["Coingecko"]
     },
     "0xceba9300f2b948710d2653dd7b07f33a8b32118c": {
       "chainId": 42220,
@@ -36,7 +39,8 @@
       "address": "0xceba9300f2b948710d2653dd7b07f33a8b32118c",
       "symbol": "USDC",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
-      "assetGroup": "USDC"
+      "assetGroup": "USDC",
+      "tags": ["Coingecko"]
     },
     "0x48065fbbe25f71c9282ddf5e1cd6d6a887483d5e": {
       "chainId": 42220,
@@ -45,7 +49,8 @@
       "address": "0x48065fbbe25f71c9282ddf5e1cd6d6a887483d5e",
       "symbol": "USDT",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
-      "assetGroup": "USDT"
+      "assetGroup": "USDT",
+      "tags": ["Coingecko"]
     },
     "0x9802d866fde4563d088a6619f7cef82c0b991a55": {
       "chainId": 42220,
@@ -54,7 +59,8 @@
       "address": "0x9802d866fde4563d088a6619f7cef82c0b991a55",
       "symbol": "MCREAL",
       "logoURI": "https://assets.coingecko.com/coins/images/26214/thumb/asset_mcREAL.png?1696525299",
-      "assetGroup": "MCREAL (Moola interest bearing CREAL)"
+      "assetGroup": "MCREAL (Moola interest bearing CREAL)",
+      "tags": ["Coingecko"]
     },
     "0x71e26d0e519d14591b9de9a0fe9513a398101490": {
       "chainId": 42220,
@@ -63,7 +69,8 @@
       "address": "0x71e26d0e519d14591b9de9a0fe9513a398101490",
       "symbol": "UBE",
       "logoURI": "https://assets.coingecko.com/coins/images/36950/thumb/ubeswap.png?1712898123",
-      "assetGroup": "UBE (Ubeswap)"
+      "assetGroup": "UBE (Ubeswap)",
+      "tags": ["Coingecko"]
     },
     "0x66803fb87abd4aac3cbb3fad7c3aa01f6f3fb207": {
       "chainId": 42220,
@@ -72,7 +79,8 @@
       "address": "0x66803fb87abd4aac3cbb3fad7c3aa01f6f3fb207",
       "symbol": "WETH",
       "logoURI": "https://assets.coingecko.com/coins/images/39887/thumb/weth.png?1724683172",
-      "assetGroup": "WETH"
+      "assetGroup": "WETH",
+      "tags": ["wormhole", "bridged", "Coingecko"]
     },
     "0x2b9018ceb303d540bbf08de8e7de64fddd63396c": {
       "chainId": 42220,
@@ -81,7 +89,8 @@
       "address": "0x2b9018ceb303d540bbf08de8e7de64fddd63396c",
       "symbol": "PACT",
       "logoURI": "https://assets.coingecko.com/coins/images/38805/thumb/pact.jpg?1735619390",
-      "assetGroup": "PACT (PACT)"
+      "assetGroup": "PACT (PACT)",
+      "tags": ["Coingecko"]
     },
     "0x7d00cd74ff385c955ea3d79e47bf06bd7386387d": {
       "chainId": 42220,
@@ -90,7 +99,8 @@
       "address": "0x7d00cd74ff385c955ea3d79e47bf06bd7386387d",
       "symbol": "MCELO",
       "logoURI": "https://assets.coingecko.com/coins/images/22346/thumb/1OY4GRnl_400x400_%281%29.jpg?1696521689",
-      "assetGroup": "MCELO (mCELO)"
+      "assetGroup": "MCELO (mCELO)",
+      "tags": ["Coingecko"]
     },
     "0x918146359264c492bd6934071c6bd31c854edbc3": {
       "chainId": 42220,
@@ -99,7 +109,8 @@
       "address": "0x918146359264c492bd6934071c6bd31c854edbc3",
       "symbol": "MCUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/22380/thumb/McUSD_Blue_128x128_Square.jpg?1696521724",
-      "assetGroup": "MCUSD (Moola Celo Dollars)"
+      "assetGroup": "MCUSD (Moola Celo Dollars)",
+      "tags": ["Coingecko"]
     },
     "0x17700282592d6917f6a73d0bf8accf4d578c131e": {
       "chainId": 42220,
@@ -108,7 +119,8 @@
       "address": "0x17700282592d6917f6a73d0bf8accf4d578c131e",
       "symbol": "MOO",
       "logoURI": "https://assets.coingecko.com/coins/images/17719/thumb/MOO_Logo_blue.png?1696517246",
-      "assetGroup": "MOO (Moola Market)"
+      "assetGroup": "MOO (Moola Market)",
+      "tags": ["Coingecko"]
     },
     "0x73a210637f6f6b7005512677ba6b3c96bb4aa44b": {
       "chainId": 42220,
@@ -117,7 +129,8 @@
       "address": "0x73a210637f6f6b7005512677ba6b3c96bb4aa44b",
       "symbol": "MOBI",
       "logoURI": "https://assets.coingecko.com/coins/images/18467/thumb/MOBI-200.png?1696517953",
-      "assetGroup": "MOBI (Mobius Money)"
+      "assetGroup": "MOBI (Mobius Money)",
+      "tags": ["Coingecko"]
     },
     "0xae978582de8ca83a53eb1d8f879ba854895f96b1": {
       "chainId": 42220,
@@ -126,7 +139,8 @@
       "address": "0xae978582de8ca83a53eb1d8f879ba854895f96b1",
       "symbol": "TGS",
       "logoURI": "https://assets.coingecko.com/coins/images/29576/thumb/tgs.png?1696528515",
-      "assetGroup": "TGS (Tegisto)"
+      "assetGroup": "TGS (Tegisto)",
+      "tags": ["Coingecko"]
     },
     "0x456a3d042c0dbd3db53d5489e98dfb038553b0d0": {
       "chainId": 42220,
@@ -135,7 +149,8 @@
       "address": "0x456a3d042c0dbd3db53d5489e98dfb038553b0d0",
       "symbol": "CKES",
       "logoURI": "https://assets.coingecko.com/coins/images/38052/thumb/cKES_200x200.png?1716403445",
-      "assetGroup": "CKES (Celo Kenyan Shilling)"
+      "assetGroup": "CKES (Celo Kenyan Shilling)",
+      "tags": ["Coingecko"]
     },
     "0x105d4a9306d2e55a71d2eb95b81553ae1dc20d7b": {
       "chainId": 42220,
@@ -144,7 +159,8 @@
       "address": "0x105d4a9306d2e55a71d2eb95b81553ae1dc20d7b",
       "symbol": "PUSO",
       "logoURI": "https://assets.coingecko.com/coins/images/50608/thumb/PUSO_transparent.png?1728473971",
-      "assetGroup": "PUSO (PUSO)"
+      "assetGroup": "PUSO (PUSO)",
+      "tags": ["Coingecko"]
     },
     "0xe8537a3d056da446677b9e9d6c5db704eaab4787": {
       "chainId": 42220,
@@ -153,7 +169,8 @@
       "address": "0xe8537a3d056da446677b9e9d6c5db704eaab4787",
       "symbol": "CREAL",
       "logoURI": "https://assets.coingecko.com/coins/images/27205/thumb/creal.png?1696526254",
-      "assetGroup": "CREAL (Celo Real  cREAL )"
+      "assetGroup": "CREAL (Celo Real  cREAL )",
+      "tags": ["Coingecko"]
     },
     "0x46c9757c5497c5b1f2eb73ae79b6b67d119b0b58": {
       "chainId": 42220,
@@ -162,7 +179,8 @@
       "address": "0x46c9757c5497c5b1f2eb73ae79b6b67d119b0b58",
       "symbol": "PACT",
       "logoURI": "https://assets.coingecko.com/coins/images/21907/thumb/PACT_Token_Ticker_Blue_2x.png?1696521258",
-      "assetGroup": "PACT (impactMarket  OLD )"
+      "assetGroup": "PACT (impactMarket  OLD )",
+      "tags": ["Coingecko"]
     },
     "0xe273ad7ee11dcfaa87383ad5977ee1504ac07568": {
       "chainId": 42220,
@@ -171,7 +189,8 @@
       "address": "0xe273ad7ee11dcfaa87383ad5977ee1504ac07568",
       "symbol": "MCEUR",
       "logoURI": "https://assets.coingecko.com/coins/images/22345/thumb/1OY4GRnl_400x400.jpg?1696521688",
-      "assetGroup": "MCEUR (mcEUR)"
+      "assetGroup": "MCEUR (mcEUR)",
+      "tags": ["Coingecko"]
     },
     "0x7ff62f59e3e89ea34163ea1458eebcc81177cfb6": {
       "chainId": 42220,
@@ -180,7 +199,8 @@
       "address": "0x7ff62f59e3e89ea34163ea1458eebcc81177cfb6",
       "symbol": "MENTO",
       "logoURI": "https://assets.coingecko.com/coins/images/38958/thumb/MENTO_TOKEN_icon_200.png?1719691251",
-      "assetGroup": "MENTO (MENTO)"
+      "assetGroup": "MENTO (MENTO)",
+      "tags": ["Coingecko"]
     },
     "0xd8763cba276a3738e6de85b4b3bf5fded6d6ca73": {
       "chainId": 42220,
@@ -189,7 +209,8 @@
       "address": "0xd8763cba276a3738e6de85b4b3bf5fded6d6ca73",
       "symbol": "CEUR",
       "logoURI": "https://assets.coingecko.com/coins/images/16756/thumb/CEUR.png?1696516329",
-      "assetGroup": "CEUR (Celo Euro)"
+      "assetGroup": "CEUR (Celo Euro)",
+      "tags": ["Coingecko"]
     },
     "0x00be915b9dcf56a3cbe739d9b9c202ca692409ec": {
       "chainId": 42220,
@@ -198,7 +219,8 @@
       "address": "0x00be915b9dcf56a3cbe739d9b9c202ca692409ec",
       "symbol": "UBE",
       "logoURI": "https://assets.coingecko.com/coins/images/15317/thumb/ubeswap.png?1696514966",
-      "assetGroup": "UBE (Ubeswap  OLD )"
+      "assetGroup": "UBE (Ubeswap  OLD )",
+      "tags": ["Coingecko"]
     },
     "0x74c0c58b99b68cf16a717279ac2d056a34ba2bfe": {
       "chainId": 42220,
@@ -207,7 +229,8 @@
       "address": "0x74c0c58b99b68cf16a717279ac2d056a34ba2bfe",
       "symbol": "SOURCE",
       "logoURI": "https://assets.coingecko.com/coins/images/20740/thumb/source.png?1696520138",
-      "assetGroup": "SOURCE (ReSource Protocol)"
+      "assetGroup": "SOURCE (ReSource Protocol)",
+      "tags": ["Coingecko"]
     },
     "0xe685d21b7b0fc7a248a6a8e03b8db22d013aa2ee": {
       "chainId": 42220,
@@ -216,7 +239,8 @@
       "address": "0xe685d21b7b0fc7a248a6a8e03b8db22d013aa2ee",
       "symbol": "IMMO",
       "logoURI": "https://assets.coingecko.com/coins/images/22189/thumb/immortal_logo.png?1696521533",
-      "assetGroup": "IMMO (ImmortalDAO)"
+      "assetGroup": "IMMO (ImmortalDAO)",
+      "tags": ["Coingecko"]
     },
     "0x27cd006548df7c8c8e9fdc4a67fa05c2e3ca5cf9": {
       "chainId": 42220,
@@ -225,7 +249,8 @@
       "address": "0x27cd006548df7c8c8e9fdc4a67fa05c2e3ca5cf9",
       "symbol": "PLASTIK",
       "logoURI": "https://assets.coingecko.com/coins/images/21212/thumb/plastik.png?1696520587",
-      "assetGroup": "PLASTIK (Plastiks)"
+      "assetGroup": "PLASTIK (Plastiks)",
+      "tags": ["Coingecko"]
     },
     "0x765de816845861e75a25fca122bb6898b8b1282a": {
       "chainId": 42220,
@@ -234,7 +259,8 @@
       "address": "0x765de816845861e75a25fca122bb6898b8b1282a",
       "symbol": "CUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/13161/thumb/icon-celo-dollar-color-1000-circle-cropped.png?1696512945",
-      "assetGroup": "CUSD (Celo Dollar)"
+      "assetGroup": "CUSD (Celo Dollar)",
+      "tags": ["Coingecko"]
     },
     "0xfecb3f7c54e2caae9dc6ac9060a822d47e053760": {
       "chainId": 42220,
@@ -243,7 +269,8 @@
       "address": "0xfecb3f7c54e2caae9dc6ac9060a822d47e053760",
       "symbol": "BRLA",
       "logoURI": "https://assets.coingecko.com/coins/images/40062/thumb/IconGreen400.png?1725459580",
-      "assetGroup": "BRLA (BRLA Digital BRLA)"
+      "assetGroup": "BRLA (BRLA Digital BRLA)",
+      "tags": ["Coingecko"]
     },
     "0x1d18d0386f51ab03e7e84e71bda1681eba865f1f": {
       "chainId": 42220,
@@ -252,7 +279,8 @@
       "address": "0x1d18d0386f51ab03e7e84e71bda1681eba865f1f",
       "symbol": "JMPT",
       "logoURI": "https://assets.coingecko.com/coins/images/22603/thumb/200x200.png?1696521919",
-      "assetGroup": "JMPT (JumpToken)"
+      "assetGroup": "JMPT (JumpToken)",
+      "tags": ["Coingecko"]
     },
     "0x62b8b11039fcfe5ab0c56e502b1c372a3d2a9c7a": {
       "chainId": 42220,
@@ -261,7 +289,8 @@
       "address": "0x62b8b11039fcfe5ab0c56e502b1c372a3d2a9c7a",
       "symbol": "G",
       "logoURI": "https://assets.coingecko.com/coins/images/14782/thumb/G__Coin_%281%29.png?1696514451",
-      "assetGroup": "G (GoodDollar)"
+      "assetGroup": "G (GoodDollar)",
+      "tags": ["Coingecko"]
     },
     "0x37f750b7cc259a2f741af45294f6a16572cf5cad": {
       "chainId": 42220,
@@ -270,7 +299,8 @@
       "address": "0x37f750b7cc259a2f741af45294f6a16572cf5cad",
       "symbol": "USDCET",
       "logoURI": "https://assets.coingecko.com/coins/images/23019/thumb/USDCet_wh_small.png?1696522314",
-      "assetGroup": "USDC"
+      "assetGroup": "USDC",
+      "tags": ["wormhole", "bridged", "Coingecko"]
     },
     "0x50e85c754929840b58614f48e29c64bc78c58345": {
       "chainId": 42220,
@@ -279,7 +309,8 @@
       "address": "0x50e85c754929840b58614f48e29c64bc78c58345",
       "symbol": "CHAR",
       "logoURI": "https://assets.coingecko.com/coins/images/38094/thumb/char_logo_toucan.png?1716488453",
-      "assetGroup": "CHAR (Biochar)"
+      "assetGroup": "CHAR (Biochar)",
+      "tags": ["Coingecko"]
     },
     "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3": {
       "chainId": 42220,
@@ -288,7 +319,8 @@
       "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
       "symbol": "USDGLO",
       "logoURI": "https://assets.coingecko.com/coins/images/29319/thumb/GLO_logo_pine_on_cyan_1_3.png?1716971065",
-      "assetGroup": "USDGLO (Glo Dollar)"
+      "assetGroup": "USDGLO (Glo Dollar)",
+      "tags": ["Coingecko"]
     },
     "0xd15ec721c2a896512ad29c671997dd68f9593226": {
       "chainId": 42220,
@@ -297,7 +329,8 @@
       "address": "0xd15ec721c2a896512ad29c671997dd68f9593226",
       "symbol": "SUSHI",
       "logoURI": "https://assets.coingecko.com/coins/images/12271/thumb/512x512_Logo_no_chop.png?1696512101",
-      "assetGroup": "SUSHI"
+      "assetGroup": "SUSHI",
+      "tags": ["Coingecko"]
     },
     "0xeb466342c4d449bc9f53a865d5cb90586f405215": {
       "chainId": 42220,
@@ -306,7 +339,8 @@
       "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
       "symbol": "AXLUSDC",
       "logoURI": "https://assets.coingecko.com/coins/images/26476/thumb/uausdc_D_3x.png?1696525548",
-      "assetGroup": "USDC"
+      "assetGroup": "USDC",
+      "tags": ["axelar", "bridged", "Coingecko"]
     },
     "0xbdd31effb9e9f7509feaac5b4091b31645a47e4b": {
       "chainId": 42220,
@@ -315,7 +349,8 @@
       "address": "0xbdd31effb9e9f7509feaac5b4091b31645a47e4b",
       "symbol": "TFBX",
       "logoURI": "https://assets.coingecko.com/coins/images/8842/thumb/5rd7a55q_400x400.png?1696508994",
-      "assetGroup": "TFBX (Truefeedback)"
+      "assetGroup": "TFBX (Truefeedback)",
+      "tags": ["Coingecko"]
     },
     "0xc16b81af351ba9e64c1a069e3ab18c244a1e3049": {
       "chainId": 42220,
@@ -324,7 +359,8 @@
       "address": "0xc16b81af351ba9e64c1a069e3ab18c244a1e3049",
       "symbol": "EURA",
       "logoURI": "https://assets.coingecko.com/coins/images/19479/thumb/agEUR-4.png?1710726218",
-      "assetGroup": "EURA (EURA)"
+      "assetGroup": "EURA (EURA)",
+      "tags": ["Coingecko"]
     },
     "0xd252e98c5b6ea1e29a7e2789a9ec0493707a60b9": {
       "chainId": 42220,
@@ -333,7 +369,8 @@
       "address": "0xd252e98c5b6ea1e29a7e2789a9ec0493707a60b9",
       "symbol": "KRW",
       "logoURI": "https://assets.coingecko.com/coins/images/16530/thumb/KRW_token_logo_200x200.png?1696516093",
-      "assetGroup": "KRW (KROWN)"
+      "assetGroup": "KRW (KROWN)",
+      "tags": ["Coingecko"]
     },
     "0x9995cc8f20db5896943afc8ee0ba463259c931ed": {
       "chainId": 42220,
@@ -342,7 +379,8 @@
       "address": "0x9995cc8f20db5896943afc8ee0ba463259c931ed",
       "symbol": "ETHIX",
       "logoURI": "https://assets.coingecko.com/coins/images/3031/thumb/ETHIX_icon_256x256-256.png?1696503766",
-      "assetGroup": "ETHIX (Ethix)"
+      "assetGroup": "ETHIX (Ethix)",
+      "tags": ["Coingecko"]
     },
     "0x6e512bfc33be36f2666754e996ff103ad1680cc9": {
       "chainId": 42220,
@@ -351,7 +389,8 @@
       "address": "0x6e512bfc33be36f2666754e996ff103ad1680cc9",
       "symbol": "ABR",
       "logoURI": "https://assets.coingecko.com/coins/images/18690/thumb/logo.png?1701737985",
-      "assetGroup": "ABR (Allbridge)"
+      "assetGroup": "ABR (Allbridge)",
+      "tags": ["Coingecko"]
     },
     "0xb9c8f0d3254007ee4b98970b94544e473cd610ec": {
       "chainId": 42220,
@@ -360,7 +399,8 @@
       "address": "0xb9c8f0d3254007ee4b98970b94544e473cd610ec",
       "symbol": "MIMATIC",
       "logoURI": "https://assets.coingecko.com/coins/images/15264/thumb/mimatic-red.png?1696514916",
-      "assetGroup": "MIMATIC (MAI)"
+      "assetGroup": "MIMATIC (MAI)",
+      "tags": ["Coingecko"]
     }
   },
   "mainTokens": [

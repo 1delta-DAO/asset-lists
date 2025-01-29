@@ -90,7 +90,8 @@
       "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
       "symbol": "DAI",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
-      "assetGroup": "DAI"
+      "assetGroup": "DAI",
+      "tags": ["OpenOcean"]
     },
     "0x9e5aac1ba1a2e6aed6b32689dfcf62a509ca96f3": {
       "chainId": 10,
@@ -207,7 +208,8 @@
       "address": "0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6",
       "symbol": "LINK",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png",
-      "assetGroup": "LINK"
+      "assetGroup": "LINK",
+      "tags": ["OpenOcean"]
     },
     "0xfeaa9194f9f8c1b65429e31341a103071464907e": {
       "chainId": 10,
@@ -270,7 +272,8 @@
       "address": "0x4200000000000000000000000000000000000042",
       "symbol": "OP",
       "logoURI": "https://ethereum-optimism.github.io/data/OP/logo.png",
-      "assetGroup": "OP"
+      "assetGroup": "OP",
+      "tags": ["OpenOcean"]
     },
     "0x6af3cb766d6cd37449bfd321d961a61b0515c1bc": {
       "chainId": 10,
@@ -306,7 +309,8 @@
       "address": "0x9e1028f5f1d5ede59748ffcee5532509976840e0",
       "symbol": "PERP",
       "logoURI": "https://assets.coingecko.com/coins/images/12381/thumb/60d18e06844a844ad75901a9_mark_only_03.png?1628674771",
-      "assetGroup": "PERP"
+      "assetGroup": "PERP",
+      "tags": ["OpenOcean"]
     },
     "0x395ae52bb17aef68c2888d941736a71dc6d4e125": {
       "chainId": 10,
@@ -360,7 +364,8 @@
       "address": "0xb548f63d4405466b36c0c0ac3318a22fdcec711a",
       "symbol": "RGT",
       "logoURI": "https://assets.coingecko.com/coins/images/12900/thumb/Rari_Logo_Transparent.png?1613978014",
-      "assetGroup": "RGT (Rari Governance Token)"
+      "assetGroup": "RGT (Rari Governance Token)",
+      "tags": ["OpenOcean"]
     },
     "0xc81d1f0eb955b0c020e5d5b264e1ff72c14d1401": {
       "chainId": 10,
@@ -405,7 +410,8 @@
       "address": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4",
       "symbol": "SNX",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo.png",
-      "assetGroup": "SNX (Synthetix Network Token)"
+      "assetGroup": "SNX (Synthetix Network Token)",
+      "tags": ["OpenOcean"]
     },
     "0xcfd1d50ce23c46d3cf6407487b2f8934e96dc8f9": {
       "chainId": 10,
@@ -468,7 +474,8 @@
       "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
       "symbol": "USDC.e",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
-      "assetGroup": "USDC"
+      "assetGroup": "USDC",
+      "tags": ["bridged", "OpenOcean"]
     },
     "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58": {
       "chainId": 10,
@@ -477,7 +484,8 @@
       "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
       "symbol": "USDT",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
-      "assetGroup": "USDT"
+      "assetGroup": "USDT",
+      "tags": ["OpenOcean"]
     },
     "0x7d14206c937e70e19e3a5b94011faf0d5b3928e2": {
       "chainId": 10,
@@ -495,7 +503,8 @@
       "address": "0x68f180fcce6836688e9084f035309e29bf0a2095",
       "symbol": "WBTC",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
-      "assetGroup": "WBTC"
+      "assetGroup": "WBTC",
+      "tags": ["OpenOcean"]
     },
     "0x4200000000000000000000000000000000000006": {
       "chainId": 10,
@@ -504,7 +513,8 @@
       "address": "0x4200000000000000000000000000000000000006",
       "symbol": "WETH",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
-      "assetGroup": "WETH"
+      "assetGroup": "WETH",
+      "tags": ["OpenOcean"]
     },
     "0x1f32b1c2345538c0c6f582fcb022739c4a194ebb": {
       "chainId": 10,
@@ -513,7 +523,8 @@
       "address": "0x1f32b1c2345538c0c6f582fcb022739c4a194ebb",
       "symbol": "WSTETH",
       "logoURI": "https://assets.coingecko.com/coins/images/18834/large/wstETH.png?1633565443",
-      "assetGroup": "WSTETH"
+      "assetGroup": "WSTETH",
+      "tags": ["OpenOcean"]
     },
     "0x3e5d9d8a63cc8a88748f229999cf59487e90721e": {
       "chainId": 10,
@@ -585,7 +596,8 @@
       "address": "0x9b88d293b7a791e40d36a39765ffd5a1b9b5c349",
       "symbol": "CELO",
       "logoURI": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/celo_wh.png",
-      "assetGroup": "CELO (Celo native asset (Wormhole))"
+      "assetGroup": "CELO (Celo native asset (Wormhole))",
+      "tags": ["wormhole", "bridged"]
     },
     "0xec6adef5e1006bb305bb1975333e8fc4071295bf": {
       "chainId": 10,
@@ -621,7 +633,8 @@
       "address": "0x2e3d870790dc77a83dd1d18184acc7439a53f475",
       "symbol": "FRAX",
       "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/frax_logo.png?1608476506",
-      "assetGroup": "FRAX"
+      "assetGroup": "FRAX",
+      "tags": ["OpenOcean"]
     },
     "0x67ccea5bb16181e7b4109c9c2143c24a1c2205be": {
       "chainId": 10,
@@ -693,7 +706,8 @@
       "address": "0xba1cf949c382a32a09a17b2adf3587fc7fa664f1",
       "symbol": "SOL",
       "logoURI": "https://assets.coingecko.com/coins/images/22876/thumb/SOL_wh_small.png?1644224316",
-      "assetGroup": "SOL"
+      "assetGroup": "SOL",
+      "tags": ["wormhole", "bridged"]
     },
     "0xef6301da234fc7b0545c6e877d3359fe0b9e50a4": {
       "chainId": 10,
@@ -711,7 +725,8 @@
       "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
       "symbol": "sUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/5013/thumb/sUSD.png?1616150765",
-      "assetGroup": "sUSD (Synth sUSD)"
+      "assetGroup": "sUSD (Synth sUSD)",
+      "tags": ["OpenOcean"]
     },
     "0x3eaeb77b03dbc0f6321ae1b72b2e9adb0f60112b": {
       "chainId": 10,
@@ -756,7 +771,8 @@
       "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
       "symbol": "VELO",
       "logoURI": "https://assets.coingecko.com/coins/images/12538/standard/Logo_200x_200.png?1696512350",
-      "assetGroup": "VELO (Velodrome Finance)"
+      "assetGroup": "VELO (Velodrome Finance)",
+      "tags": ["OpenOcean"]
     },
     "0x871f2f2ff935fd1ed867842ff2a7bfd051a5e527": {
       "chainId": 10,
@@ -837,7 +853,8 @@
       "address": "0x296f55f8fb28e498b858d0bcda06d955b2cb3f97",
       "symbol": "STG",
       "logoURI": "https://assets.smold.app/api/token/10/0x296F55F8Fb28E498B858d0BcDA06D955B2Cb3f97/logo-128.png",
-      "assetGroup": "STG (StargateToken)"
+      "assetGroup": "STG (StargateToken)",
+      "tags": ["stargate", "bridged", "OpenOcean"]
     },
     "0x323665443cef804a3b5206103304bd4872ea4253": {
       "chainId": 10,
@@ -873,7 +890,8 @@
       "address": "0x61baadcf22d2565b0f471b291c475db5555e0b76",
       "symbol": "AELIN",
       "logoURI": "https://assets.smold.app/api/token/10/0x61BAADcF22d2565B0F471b291C475db5555e0b76/logo-128.png",
-      "assetGroup": "AELIN (Aelin Token)"
+      "assetGroup": "AELIN (Aelin Token)",
+      "tags": ["OpenOcean"]
     },
     "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40": {
       "chainId": 10,
@@ -936,7 +954,8 @@
       "address": "0xe405de8f52ba7559f9df3c368500b6e6ae6cee49",
       "symbol": "sETH",
       "logoURI": "https://assets.smold.app/api/token/10/0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49/logo-128.png",
-      "assetGroup": "sETH (Synth sETH)"
+      "assetGroup": "sETH (Synth sETH)",
+      "tags": ["OpenOcean"]
     },
     "0xc55e93c62874d8100dbd2dfe307edc1036ad5434": {
       "chainId": 10,
@@ -954,7 +973,8 @@
       "address": "0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
       "symbol": "MAI",
       "logoURI": "https://assets.smold.app/api/token/10/0xdFA46478F9e5EA86d57387849598dbFB2e964b02/logo-128.png",
-      "assetGroup": "MAI (Mai Stablecoin)"
+      "assetGroup": "MAI (Mai Stablecoin)",
+      "tags": ["OpenOcean"]
     },
     "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee": {
       "chainId": 10,
@@ -1008,7 +1028,8 @@
       "address": "0xcdb4bb51801a1f399d4402c61bc098a72c382e65",
       "symbol": "OPX",
       "logoURI": "https://tokens.1inch.io/0xcdb4bb51801a1f399d4402c61bc098a72c382e65.png",
-      "assetGroup": "OPX (OPX)"
+      "assetGroup": "OPX (OPX)",
+      "tags": ["OpenOcean"]
     },
     "0xfdeffc7ad816bf7867c642df7ebc2cc5554ec265": {
       "chainId": 10,
@@ -1035,7 +1056,8 @@
       "address": "0x298b9b95708152ff6968aafd889c6586e9169f1d",
       "symbol": "sBTC",
       "logoURI": "https://s3.openocean.finance/token_logos/logos/1638173081277_6785575667049477.png",
-      "assetGroup": "sBTC (Synth sBTC)"
+      "assetGroup": "sBTC (Synth sBTC)",
+      "tags": ["OpenOcean"]
     }
   },
   "mainTokens": [
