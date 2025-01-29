@@ -8166,9 +8166,9 @@
       "decimals": 18,
       "name": "SolvBTC Ethena",
       "address": "0xafafd68afe3fe65d376eec9eab1802616cfaccb8",
-      "symbol": "SolvBTC.NA",
+      "symbol": "SolvBTC.ENA",
       "logoURI": "https://assets.coingecko.com/coins/images/38931/thumb/BTC_ena.png?1719562313",
-      "assetGroup": "SOLVBTC.ENA"
+      "assetGroup": "SOLVBTCENA"
     },
     "0x71b3a0566f4bf80331d115d8026a7022bf670cce": {
       "chainId": 42161,
@@ -10572,6 +10572,42 @@
       "symbol": "HOODD",
       "logoURI": "https://assets.coingecko.com/coins/images/54054/thumb/d-token-200.png?1738103671",
       "assetGroup": "HOODD (Dinari HOOD)"
+    },
+    "0x96e1951c8fcecc43e7366261f7e342a06047da8e": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "Dinari V",
+      "address": "0x96e1951c8fcecc43e7366261f7e342a06047da8e",
+      "symbol": "VD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54081/thumb/d-token-200.png?1738176162",
+      "assetGroup": "VD (Dinari V)"
+    },
+    "0x808167ea744e02c6fec3f56636d19f3448b72981": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "Dinari HUT",
+      "address": "0x808167ea744e02c6fec3f56636d19f3448b72981",
+      "symbol": "HUTD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54079/thumb/d-token-200.png?1738175759",
+      "assetGroup": "HUTD (Dinari HUT)"
+    },
+    "0x1bed98b79f8a5e32031b0d735022fc006db47d37": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "Dinari VWO",
+      "address": "0x1bed98b79f8a5e32031b0d735022fc006db47d37",
+      "symbol": "VWOD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54082/thumb/d-token-200.png?1738176178",
+      "assetGroup": "VWOD (Dinari VWO)"
+    },
+    "0x39bce681d72720f80424914800a78c63fdfaf645": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "Dinari IAU",
+      "address": "0x39bce681d72720f80424914800a78c63fdfaf645",
+      "symbol": "IAUD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54080/thumb/d-token-200.png?1738175780",
+      "assetGroup": "IAUD (Dinari IAU)"
     }
   },
   "mainTokens": [
