@@ -3592,8 +3592,8 @@
       "address": "0x1bc71130a0e39942a7658878169764bbd8a45993",
       "symbol": "rsETH",
       "logoURI": "https://assets.coingecko.com/coins/images/39547/thumb/rseth.png?1722850260",
-      "assetGroup": "RSETH (KelpDAO Bridged rsETH Base)",
-      "tags": ["bridged", "coingecko"]
+      "assetGroup": "RSETH",
+      "tags": ["coingecko"]
     },
     "0x029c58a909fbe3d4be85a24f414dda923a3fde0f": {
       "chainId": 8453,
@@ -13532,6 +13532,16 @@
       "symbol": "VWOD",
       "logoURI": "https://assets.coingecko.com/coins/images/54082/thumb/d-token-200.png?1738176178",
       "assetGroup": "VWOD (Dinari VWO)",
+      "tags": ["coingecko"]
+    },
+    "0xa001dcc9a7974dae133a11d2800a7abf7b8f5f3c": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Do Your Own Research",
+      "address": "0xa001dcc9a7974dae133a11d2800a7abf7b8f5f3c",
+      "symbol": "DYOR",
+      "logoURI": "https://assets.coingecko.com/coins/images/54086/thumb/token_icon_200x200.png?1738187326",
+      "assetGroup": "DYOR (Do Your Own Research)",
       "tags": ["coingecko"]
     }
   },
