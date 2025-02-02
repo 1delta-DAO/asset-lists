@@ -2,55 +2,35 @@
   "chainId": "4200",
   "version": "0",
   "list": {
-    "0x09401c470a76ec07512eeddef5477be74bac2338": {
+    "0x4fd67c2d9e8c4fdd9c66954bafe124ca50fc1819": {
       "chainId": 4200,
       "decimals": 18,
-      "name": "Merlin Starter",
-      "address": "0x09401c470a76ec07512eeddef5477be74bac2338",
-      "symbol": "MSTAR",
-      "logoURI": "https://assets.coingecko.com/coins/images/37120/thumb/merlin_starter.jpeg?1713365857",
-      "assetGroup": "MSTAR (Merlin Starter)",
+      "name": "Mner Club",
+      "address": "0x4fd67c2d9e8c4fdd9c66954bafe124ca50fc1819",
+      "symbol": "RMNER",
+      "logoURI": "https://assets.coingecko.com/coins/images/52094/thumb/rmner.png?1732549755",
+      "assetGroup": "RMNER (Mner Club)",
       "tags": ["coingecko"]
     },
-    "0x6b4ecada640f1b30dbdb68f77821a03a5f282ebe": {
-      "chainId": 4200,
-      "decimals": 6,
-      "name": "Merlin s Seal USDC",
-      "address": "0x6b4ecada640f1b30dbdb68f77821a03a5f282ebe",
-      "symbol": "M-USDC",
-      "logoURI": "https://assets.coingecko.com/coins/images/37380/thumb/usdc.jpeg?1714215042",
-      "assetGroup": "M-USDC (Merlin s Seal USDC)",
-      "tags": ["coingecko"]
-    },
-    "0x07884346a65f95276c2b0e56b17165b191ab2c49": {
+    "0xb880fd278198bd590252621d4cd071b1842e9bcd": {
       "chainId": 4200,
       "decimals": 18,
-      "name": "Influpia",
-      "address": "0x07884346a65f95276c2b0e56b17165b191ab2c49",
-      "symbol": "ING",
-      "logoURI": "https://assets.coingecko.com/coins/images/36685/thumb/Logo-200px.png?1712071213",
-      "assetGroup": "ING (Influpia)",
+      "name": "Merlin s Seal BTC",
+      "address": "0xb880fd278198bd590252621d4cd071b1842e9bcd",
+      "symbol": "M-BTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/36566/thumb/photo_2024-03-25_22-04-42.jpg?1711936162",
+      "assetGroup": "M-BTC (Merlin s Seal BTC)",
       "tags": ["coingecko"]
     },
-    "0x4d9882a3bb13cc086367d0ae964367e6b7ea246f": {
+    "0x825e2cfbb71a92e09ef73d9e96d15ce2e0f63e9f": {
       "chainId": 4200,
       "decimals": 18,
-      "name": "Party",
-      "address": "0x4d9882a3bb13cc086367d0ae964367e6b7ea246f",
-      "symbol": "PARTY",
-      "logoURI": "https://assets.coingecko.com/coins/images/52810/thumb/photo_2024-12-08_23.14.26.jpeg?1734363293",
-      "assetGroup": "PARTY (Party)",
+      "name": "Mage",
+      "address": "0x825e2cfbb71a92e09ef73d9e96d15ce2e0f63e9f",
+      "symbol": "MAGE",
+      "logoURI": "https://assets.coingecko.com/coins/images/37996/thumb/MAGE_LOGO.png?1716225926",
+      "assetGroup": "MAGE (Mage)",
       "tags": ["coingecko"]
-    },
-    "0x9458ea21932515dd0e82543891068f065b88a98a": {
-      "chainId": 4200,
-      "decimals": 8,
-      "name": "Bridged LOBO THE WOLF PUP  Merlin Chain",
-      "address": "0x9458ea21932515dd0e82543891068f065b88a98a",
-      "symbol": "LOBOTHEWOLFPUP",
-      "logoURI": "https://assets.coingecko.com/coins/images/37381/thumb/lobo.png?1714215459",
-      "assetGroup": "LOBOTHEWOLFPUP (Bridged LOBO THE WOLF PUP  Merlin Chain)",
-      "tags": ["bridged", "coingecko"]
     },
     "0x8aed42735027aa6d97023d8196b084ecfba701af": {
       "chainId": 4200,
@@ -72,44 +52,14 @@
       "assetGroup": "M-USDT (Merlin s Seal USDT)",
       "tags": ["coingecko"]
     },
-    "0x825e2cfbb71a92e09ef73d9e96d15ce2e0f63e9f": {
+    "0x6b4ecada640f1b30dbdb68f77821a03a5f282ebe": {
       "chainId": 4200,
-      "decimals": 18,
-      "name": "Mage",
-      "address": "0x825e2cfbb71a92e09ef73d9e96d15ce2e0f63e9f",
-      "symbol": "MAGE",
-      "logoURI": "https://assets.coingecko.com/coins/images/37996/thumb/MAGE_LOGO.png?1716225926",
-      "assetGroup": "MAGE (Mage)",
-      "tags": ["coingecko"]
-    },
-    "0x4fd67c2d9e8c4fdd9c66954bafe124ca50fc1819": {
-      "chainId": 4200,
-      "decimals": 18,
-      "name": "Mner Club",
-      "address": "0x4fd67c2d9e8c4fdd9c66954bafe124ca50fc1819",
-      "symbol": "RMNER",
-      "logoURI": "https://assets.coingecko.com/coins/images/52094/thumb/rmner.png?1732549755",
-      "assetGroup": "RMNER (Mner Club)",
-      "tags": ["coingecko"]
-    },
-    "0x7a677e59dc2c8a42d6af3a62748c5595034a008b": {
-      "chainId": 4200,
-      "decimals": 18,
-      "name": "Huhu Cat",
-      "address": "0x7a677e59dc2c8a42d6af3a62748c5595034a008b",
-      "symbol": "HUHU",
-      "logoURI": "https://assets.coingecko.com/coins/images/35438/thumb/huhu.jpeg?1708590616",
-      "assetGroup": "HUHU (Huhu Cat)",
-      "tags": ["coingecko"]
-    },
-    "0xb880fd278198bd590252621d4cd071b1842e9bcd": {
-      "chainId": 4200,
-      "decimals": 18,
-      "name": "Merlin s Seal BTC",
-      "address": "0xb880fd278198bd590252621d4cd071b1842e9bcd",
-      "symbol": "M-BTC",
-      "logoURI": "https://assets.coingecko.com/coins/images/36566/thumb/photo_2024-03-25_22-04-42.jpg?1711936162",
-      "assetGroup": "M-BTC (Merlin s Seal BTC)",
+      "decimals": 6,
+      "name": "Merlin s Seal USDC",
+      "address": "0x6b4ecada640f1b30dbdb68f77821a03a5f282ebe",
+      "symbol": "M-USDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/37380/thumb/usdc.jpeg?1714215042",
+      "assetGroup": "M-USDC (Merlin s Seal USDC)",
       "tags": ["coingecko"]
     },
     "0x5c46bff4b38dc1eae09c5bac65872a1d8bc87378": {
@@ -122,6 +72,26 @@
       "assetGroup": "MERL (Merlin Chain)",
       "tags": ["coingecko"]
     },
+    "0x7a677e59dc2c8a42d6af3a62748c5595034a008b": {
+      "chainId": 4200,
+      "decimals": 18,
+      "name": "Huhu Cat",
+      "address": "0x7a677e59dc2c8a42d6af3a62748c5595034a008b",
+      "symbol": "HUHU",
+      "logoURI": "https://assets.coingecko.com/coins/images/35438/thumb/huhu.jpeg?1708590616",
+      "assetGroup": "HUHU (Huhu Cat)",
+      "tags": ["coingecko"]
+    },
+    "0x07884346a65f95276c2b0e56b17165b191ab2c49": {
+      "chainId": 4200,
+      "decimals": 18,
+      "name": "Influpia",
+      "address": "0x07884346a65f95276c2b0e56b17165b191ab2c49",
+      "symbol": "ING",
+      "logoURI": "https://assets.coingecko.com/coins/images/36685/thumb/Logo-200px.png?1712071213",
+      "assetGroup": "ING (Influpia)",
+      "tags": ["coingecko"]
+    },
     "0x7717d5bd6b20b817d6b0ff7078460fd620d3fda9": {
       "chainId": 4200,
       "decimals": 18,
@@ -132,15 +102,35 @@
       "assetGroup": "EGG (MerlinUniverse Egg)",
       "tags": ["coingecko"]
     },
-    "0xf6d226f9dc15d9bb51182815b320d3fbe324e1ba": {
+    "0x9458ea21932515dd0e82543891068f065b88a98a": {
+      "chainId": 4200,
+      "decimals": 8,
+      "name": "Bridged LOBO THE WOLF PUP  Merlin Chain",
+      "address": "0x9458ea21932515dd0e82543891068f065b88a98a",
+      "symbol": "LOBOTHEWOLFPUP",
+      "logoURI": "https://assets.coingecko.com/coins/images/37381/thumb/lobo.png?1714215459",
+      "assetGroup": "LOBOTHEWOLFPUP (Bridged LOBO THE WOLF PUP  Merlin Chain)",
+      "tags": ["bridged", "coingecko"]
+    },
+    "0x09401c470a76ec07512eeddef5477be74bac2338": {
       "chainId": 4200,
       "decimals": 18,
-      "name": "Merlin Chain Bridged Wrapped BTC  Merli",
-      "address": "0xf6d226f9dc15d9bb51182815b320d3fbe324e1ba",
-      "symbol": "WBTC",
-      "logoURI": "https://assets.coingecko.com/coins/images/35437/thumb/wbtc.png?1708590308",
-      "assetGroup": "WBTC",
-      "tags": ["bridged", "coingecko"]
+      "name": "Merlin Starter",
+      "address": "0x09401c470a76ec07512eeddef5477be74bac2338",
+      "symbol": "MSTAR",
+      "logoURI": "https://assets.coingecko.com/coins/images/37120/thumb/merlin_starter.jpeg?1713365857",
+      "assetGroup": "MSTAR (Merlin Starter)",
+      "tags": ["coingecko"]
+    },
+    "0x4d9882a3bb13cc086367d0ae964367e6b7ea246f": {
+      "chainId": 4200,
+      "decimals": 18,
+      "name": "Party",
+      "address": "0x4d9882a3bb13cc086367d0ae964367e6b7ea246f",
+      "symbol": "PARTY",
+      "logoURI": "https://assets.coingecko.com/coins/images/52810/thumb/photo_2024-12-08_23.14.26.jpeg?1734363293",
+      "assetGroup": "PARTY (Party)",
+      "tags": ["coingecko"]
     },
     "0x32a4b8b10222f85301874837f27f4c416117b811": {
       "chainId": 4200,
@@ -150,6 +140,16 @@
       "symbol": "DOGGOTOTHEMOON",
       "logoURI": "https://assets.coingecko.com/coins/images/37383/thumb/dog.png?1714215910",
       "assetGroup": "DOGGOTOTHEMOON (Bridged DOG GO TO THE MOON  Merlin Chai)",
+      "tags": ["bridged", "coingecko"]
+    },
+    "0xf6d226f9dc15d9bb51182815b320d3fbe324e1ba": {
+      "chainId": 4200,
+      "decimals": 18,
+      "name": "Merlin Chain Bridged Wrapped BTC  Merli",
+      "address": "0xf6d226f9dc15d9bb51182815b320d3fbe324e1ba",
+      "symbol": "WBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/35437/thumb/wbtc.png?1708590308",
+      "assetGroup": "WBTC",
       "tags": ["bridged", "coingecko"]
     },
     "0x480e158395cc5b41e5584347c495584ca2caf78d": {
@@ -170,6 +170,16 @@
       "symbol": "MP",
       "logoURI": "https://assets.coingecko.com/coins/images/36519/thumb/merlinswap.png?1711695544",
       "assetGroup": "MP (MerlinSwap)",
+      "tags": ["coingecko"]
+    },
+    "0x916addd975718d307868b814e0a9bbbedbd7ab17": {
+      "chainId": 4200,
+      "decimals": 18,
+      "name": "Avalon",
+      "address": "0x916addd975718d307868b814e0a9bbbedbd7ab17",
+      "symbol": "AVL",
+      "logoURI": "https://assets.coingecko.com/coins/images/54119/thumb/AV.png?1738314011",
+      "assetGroup": "AVL (Avalon)",
       "tags": ["coingecko"]
     },
     "0x858d1dbd14a023a905535823a77925082507d38b": {
@@ -244,13 +254,13 @@
     }
   },
   "mainTokens": [
-    "0x6b4ecada640f1b30dbdb68f77821a03a5f282ebe",
     "0x967aec3276b63c5e2262da9641db9dbebb07dc0d",
+    "0x6b4ecada640f1b30dbdb68f77821a03a5f282ebe",
     "0xf6d226f9dc15d9bb51182815b320d3fbe324e1ba"
   ],
   "bridgeTokens": [
-    "0x6b4ecada640f1b30dbdb68f77821a03a5f282ebe",
     "0x967aec3276b63c5e2262da9641db9dbebb07dc0d",
+    "0x6b4ecada640f1b30dbdb68f77821a03a5f282ebe",
     "0xf6d226f9dc15d9bb51182815b320d3fbe324e1ba"
   ]
 }

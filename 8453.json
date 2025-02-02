@@ -18,7 +18,8 @@
       "address": "0xc0e49f8c615d3d4c245970f6dc528e4a47d69a44",
       "symbol": "USDT",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/8453/0xc0E49f8C615d3d4c245970F6Dc528E4A47d69a44.png",
-      "assetGroup": "USDT"
+      "assetGroup": "USDT",
+      "tags": ["ice bridge", "bridged"]
     },
     "0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca": {
       "chainId": 8453,
@@ -2142,8 +2143,7 @@
       "address": "0x4b6f82a4ed0b9e3767f53309b87819a78d041a7f",
       "symbol": "JSP",
       "logoURI": "https://assets.coingecko.com/coins/images/38262/thumb/JB_token.png?1717686707",
-      "assetGroup": "JSP (Juicybet)",
-      "tags": ["coingecko"]
+      "assetGroup": "JSP (Juicybet)"
     },
     "0x99298c6be0e8ec9e56b7a2be5850abe1fc109d94": {
       "chainId": 8453,
@@ -11341,8 +11341,7 @@
       "address": "0xb5c457ddb4ce3312a6c5a2b056a1652bd542a208",
       "symbol": "O404",
       "logoURI": "https://assets.coingecko.com/coins/images/35196/thumb/O404.jpg?1707839531",
-      "assetGroup": "O404 (OMNI404)",
-      "tags": ["coingecko"]
+      "assetGroup": "O404 (OMNI404)"
     },
     "0x9a54ed8d4343e8d89477285a5a0ca06be4051dda": {
       "chainId": 8453,
@@ -13542,6 +13541,166 @@
       "symbol": "DYOR",
       "logoURI": "https://assets.coingecko.com/coins/images/54086/thumb/token_icon_200x200.png?1738187326",
       "assetGroup": "DYOR (Do Your Own Research)",
+      "tags": ["coingecko"]
+    },
+    "0x194f360d130f2393a5e9f3117a6a1b78abea1624": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Summer",
+      "address": "0x194f360d130f2393a5e9f3117a6a1b78abea1624",
+      "symbol": "SUMR",
+      "logoURI": "https://assets.coingecko.com/coins/images/54144/thumb/Group_427320880.png?1738399205",
+      "assetGroup": "SUMR (Summer)",
+      "tags": ["coingecko"]
+    },
+    "0xb22a793a81ff5b6ad37f40d5fe1e0ac4184d52f3": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Big Tony",
+      "address": "0xb22a793a81ff5b6ad37f40d5fe1e0ac4184d52f3",
+      "symbol": "TONY",
+      "logoURI": "https://assets.coingecko.com/coins/images/54091/thumb/logo-128.png?1738220780",
+      "assetGroup": "TONY (Big Tony)",
+      "tags": ["coingecko"]
+    },
+    "0x4398c398e5ac747e6d51bf1db1dac346ca90fee0": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Wolf of Dumb Street",
+      "address": "0x4398c398e5ac747e6d51bf1db1dac346ca90fee0",
+      "symbol": "WODS",
+      "logoURI": "https://assets.coingecko.com/coins/images/54163/thumb/WODSLOGO.png?1738482779",
+      "assetGroup": "WODS (Wolf of Dumb Street)",
+      "tags": ["coingecko"]
+    },
+    "0xf587b7116879a529353cc71ee959cd69fd5cae48": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "cgETH Hashkey Cloud",
+      "address": "0xf587b7116879a529353cc71ee959cd69fd5cae48",
+      "symbol": "CGETHHASHKEY",
+      "logoURI": "https://assets.coingecko.com/coins/images/54162/thumb/Cgeth_Hashkey.png?1738482570",
+      "assetGroup": "CGETHHASHKEY (cgETH Hashkey Cloud)",
+      "tags": ["coingecko"]
+    },
+    "0x8d2757ea27aabf172da4cca4e5474c76016e3dc5": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "clBTC",
+      "address": "0x8d2757ea27aabf172da4cca4e5474c76016e3dc5",
+      "symbol": "CLBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/54164/thumb/clBTC.png?1738482999",
+      "assetGroup": "CLBTC (clBTC)",
+      "tags": ["coingecko"]
+    },
+    "0xc3d64ee7056cfd33c8382679773f8d6277e5c2c9": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "IAMAI",
+      "address": "0xc3d64ee7056cfd33c8382679773f8d6277e5c2c9",
+      "symbol": "IAMAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/54161/thumb/xZkO4l5M_400x400_%281%29.jpg?1738482411",
+      "assetGroup": "IAMAI (IAMAI)",
+      "tags": ["coingecko"]
+    },
+    "0x4674f73545f1db4036250ff8c33a39ad1678d864": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Degenerate SQuiD",
+      "address": "0x4674f73545f1db4036250ff8c33a39ad1678d864",
+      "symbol": "SQDGN",
+      "logoURI": "https://assets.coingecko.com/coins/images/54165/thumb/pepe_200_by_200.png?1738486688",
+      "assetGroup": "SQDGN (Degenerate SQuiD)",
+      "tags": ["coingecko"]
+    },
+    "0x4e99472385a2522aa292b008da294a78f420a367": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "TCAP",
+      "address": "0x4e99472385a2522aa292b008da294a78f420a367",
+      "symbol": "TCAP",
+      "logoURI": "https://assets.coingecko.com/coins/images/54107/thumb/9678.png?1738306892",
+      "assetGroup": "TCAP (TCAP)",
+      "tags": ["coingecko"]
+    },
+    "0x5ae84075f0e34946821a8015dab5299a00992721": {
+      "chainId": 8453,
+      "decimals": 6,
+      "name": "Wrapped Cygnus USD",
+      "address": "0x5ae84075f0e34946821a8015dab5299a00992721",
+      "symbol": "WCGUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54136/thumb/wcgUSD.png?1738395298",
+      "assetGroup": "WCGUSD (Wrapped Cygnus USD)",
+      "tags": ["coingecko"]
+    },
+    "0x4b6104755afb5da4581b81c552da3a25608c73b8": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": " SKITTEN",
+      "address": "0x4b6104755afb5da4581b81c552da3a25608c73b8",
+      "symbol": "SKITTEN",
+      "logoURI": "https://assets.coingecko.com/coins/images/54128/thumb/rug_skitten.jpg?1738393460",
+      "assetGroup": "SKITTEN ( SKITTEN)",
+      "tags": ["coingecko"]
+    },
+    "0x88e9822965e39882839098eef2e972e2dd9ce56d": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Gameme Fi",
+      "address": "0x88e9822965e39882839098eef2e972e2dd9ce56d",
+      "symbol": "GMMF",
+      "logoURI": "https://assets.coingecko.com/coins/images/54142/thumb/Rikka_Takanashi.jpg?1738398538",
+      "assetGroup": "GMMF (Gameme Fi)",
+      "tags": ["coingecko"]
+    },
+    "0xf1a7000000950c7ad8aff13118bb7ab561a448ee": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Flayer",
+      "address": "0xf1a7000000950c7ad8aff13118bb7ab561a448ee",
+      "symbol": "FLAY",
+      "logoURI": "https://assets.coingecko.com/coins/images/50377/thumb/flay.jpg?1727401416",
+      "assetGroup": "FLAY (Flayer)",
+      "tags": ["coingecko"]
+    },
+    "0x76e118fa6839ddad531411b8cc7a9dcdfd7d4fb0": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Balanced",
+      "address": "0x76e118fa6839ddad531411b8cc7a9dcdfd7d4fb0",
+      "symbol": "BALN",
+      "logoURI": "https://assets.coingecko.com/coins/images/15303/thumb/balance_tokens.png?1696514953",
+      "assetGroup": "BALN (Balanced)",
+      "tags": ["coingecko"]
+    },
+    "0x686015ebf044a1b8a4be750346be00293a996071": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Minds",
+      "address": "0x686015ebf044a1b8a4be750346be00293a996071",
+      "symbol": "MINDS",
+      "logoURI": "https://assets.coingecko.com/coins/images/11517/thumb/Minds.png?1696511420",
+      "assetGroup": "MINDS (Minds)",
+      "tags": ["coingecko"]
+    },
+    "0xc1c37473079884cbfcf4905a97de361fed414b2b": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Satori Network",
+      "address": "0xc1c37473079884cbfcf4905a97de361fed414b2b",
+      "symbol": "SATORI",
+      "logoURI": "https://assets.coingecko.com/coins/images/51759/thumb/satori-light-outlined-256x256_1_.png?1737993320",
+      "assetGroup": "SATORI (Satori Network)",
+      "tags": ["coingecko"]
+    },
+    "0x084382d1cc4f4dfd1769b1cc1ac2a9b1f8365e90": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Mode",
+      "address": "0x084382d1cc4f4dfd1769b1cc1ac2a9b1f8365e90",
+      "symbol": "MODE",
+      "logoURI": "https://assets.coingecko.com/coins/images/34979/thumb/MODE.jpg?1714561871",
+      "assetGroup": "MODE (Mode)",
       "tags": ["coingecko"]
     }
   },
