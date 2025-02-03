@@ -601,15 +601,6 @@
       "assetGroup": "LIQUIFY (Liquify Network)",
       "tags": ["coingecko"]
     },
-    "0x5c44d3d2312aba4d5f2406a98bf374bc76455092": {
-      "chainId": 1116,
-      "decimals": 18,
-      "name": "Moondogs",
-      "address": "0x5c44d3d2312aba4d5f2406a98bf374bc76455092",
-      "symbol": "WOOF",
-      "logoURI": "https://assets.coingecko.com/coins/images/29467/thumb/woof.png?1696528412",
-      "assetGroup": "WOOF (Moondogs)"
-    },
     "0x42020c7962ce072f5048120cedeb36c020062af4": {
       "chainId": 1116,
       "decimals": 18,
@@ -688,6 +679,16 @@
       "symbol": "AGUS",
       "logoURI": "https://assets.coingecko.com/coins/images/37094/thumb/0x04513ADaAc27ed0324549E15f52c051e64F81DAB.png?1713271473",
       "assetGroup": "AGUS (AGUS)",
+      "tags": ["coingecko"]
+    },
+    "0x5c44d3d2312aba4d5f2406a98bf374bc76455092": {
+      "chainId": 1116,
+      "decimals": 18,
+      "name": "Moondogs",
+      "address": "0x5c44d3d2312aba4d5f2406a98bf374bc76455092",
+      "symbol": "WOOF",
+      "logoURI": "https://assets.coingecko.com/coins/images/29467/thumb/woof.png?1696528412",
+      "assetGroup": "WOOF (Moondogs)",
       "tags": ["coingecko"]
     }
   },

@@ -157,7 +157,7 @@
       "address": "0x637afeff75ca669ff92e4570b14d6399a658902f",
       "symbol": "COOK",
       "logoURI": "https://assets.coingecko.com/coins/images/14603/large/logo-200x200.jpg?1622448330",
-      "assetGroup": "COOK",
+      "assetGroup": "COOK (Poly-Peg COOK)",
       "tags": ["coingecko"]
     },
     "0x6b289cceaa8639e3831095d75a3e43520fabf552": {
@@ -5055,7 +5055,7 @@
       "address": "0xe684f692bdf5b3b0db7e8e31a276de8a2e9f0025",
       "symbol": "rBTC.b",
       "logoURI": "https://assets.coingecko.com/coins/images/54156/thumb/rBTC.b_token_logo.png?1738479841",
-      "assetGroup": "RBTCB (Restaked BTC.b)",
+      "assetGroup": "rBTC.b (Restaked BTC.b)",
       "tags": ["coingecko"]
     },
     "0x542245f2b93b30994a4670121541b38226f1208c": {
@@ -5067,6 +5067,15 @@
       "logoURI": "https://assets.coingecko.com/coins/images/15303/thumb/balance_tokens.png?1696514953",
       "assetGroup": "BALN (Balanced)",
       "tags": ["coingecko"]
+    },
+    "0x73831e7c5577859fb0583af97c9c68f96a43fcb6": {
+      "chainId": 43114,
+      "decimals": 18,
+      "name": "AIGG",
+      "address": "0x73831e7c5577859fb0583af97c9c68f96a43fcb6",
+      "symbol": "$AIGG",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x73831E7c5577859FB0583aF97C9C68F96A43fcB6/logo.png",
+      "assetGroup": "$AIGG (AIGG)"
     }
   },
   "mainTokens": [
