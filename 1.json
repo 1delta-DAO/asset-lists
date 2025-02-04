@@ -10375,7 +10375,7 @@
       "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
       "symbol": "WSTETH",
       "logoURI": "https://assets.coingecko.com/coins/images/18834/large/wstETH.png?1633565443",
-      "assetGroup": "WSTETH",
+      "assetGroup": "WSTETH (Wrapped stETH)",
       "tags": ["mantlelist", "openocean", "coingecko"]
     },
     "0x77e06c9eccf2e797fd462a92b6d7642ef85b0a44": {
@@ -22981,8 +22981,7 @@
       "address": "0xf0dc9fc0669f068e04ad79f7d70618d3f9aad439",
       "symbol": "OASIS",
       "logoURI": "https://assets.coingecko.com/coins/images/32703/thumb/oasis_200x200_loogo.png?1698985354",
-      "assetGroup": "OASIS (Oasis Metaverse)",
-      "tags": ["coingecko"]
+      "assetGroup": "OASIS (Oasis Metaverse)"
     },
     "0x4fabf135bcf8111671870d4399af739683198f96": {
       "chainId": 1,
@@ -57245,6 +57244,16 @@
       "symbol": "ATAI",
       "logoURI": "https://assets.coingecko.com/coins/images/34452/thumb/black_logo_big.png?1704931121",
       "assetGroup": "ATAI (ArtemisAI)",
+      "tags": ["coingecko"]
+    },
+    "0x53cce6d10e43d1b3d11872ad22ec2acd8d2537b8": {
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Smolcoin",
+      "address": "0x53cce6d10e43d1b3d11872ad22ec2acd8d2537b8",
+      "symbol": "SMOL",
+      "logoURI": "https://assets.coingecko.com/coins/images/54182/thumb/smolcoin_%281%29.png?1738667346",
+      "assetGroup": "SMOL (Smolcoin)",
       "tags": ["coingecko"]
     }
   },
