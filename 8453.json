@@ -491,7 +491,8 @@
       "address": "0x63706e401c06ac8513145b7687a14804d17f814b",
       "symbol": "AAVE",
       "logoURI": "https://assets.coingecko.com/coins/images/12645/thumb/AAVE.png?1601374110",
-      "assetGroup": "AAVE"
+      "assetGroup": "AAVE",
+      "tags": ["coingecko"]
     },
     "0xe2a8ccb00e328a0ec2204cb0c736309d7c1fa556": {
       "chainId": 8453,
@@ -4322,8 +4323,7 @@
       "address": "0xb97008ca4f8d72c81489d6728c0036c0c4187ce8",
       "symbol": "BXT",
       "logoURI": "https://assets.coingecko.com/coins/images/38757/thumb/BaseX_Logo_%28500_x_500%29.png?1718736505",
-      "assetGroup": "BXT (BaseX Token)",
-      "tags": ["coingecko"]
+      "assetGroup": "BXT (BaseX Token)"
     },
     "0xf5bc3439f53a45607ccad667abc7daf5a583633f": {
       "chainId": 8453,
@@ -13741,6 +13741,136 @@
       "symbol": "EMP",
       "logoURI": "https://assets.coingecko.com/coins/images/31374/thumb/logomainblacktransparent.png?1719953450",
       "assetGroup": "EMP (Empyreal)",
+      "tags": ["coingecko"]
+    },
+    "0x2bd8880e7424dfb94597429de7253de73694de01": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Gia by DexFi",
+      "address": "0x2bd8880e7424dfb94597429de7253de73694de01",
+      "symbol": "GIA",
+      "logoURI": "https://assets.coingecko.com/coins/images/54203/thumb/Gia_Token_Icon.png?1738761416",
+      "assetGroup": "GIA (Gia by DexFi)",
+      "tags": ["coingecko"]
+    },
+    "0xbc7755a153e852cf76cccddb4c2e7c368f6259d8": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Hestia",
+      "address": "0xbc7755a153e852cf76cccddb4c2e7c368f6259d8",
+      "symbol": "HESTIA",
+      "logoURI": "https://assets.coingecko.com/coins/images/54202/thumb/logo.png?1738750723",
+      "assetGroup": "HESTIA (Hestia)",
+      "tags": ["coingecko"]
+    },
+    "0xdc5eb0fc6d3f64689290595ebe8943155ed4a73a": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Klink Finance",
+      "address": "0xdc5eb0fc6d3f64689290595ebe8943155ed4a73a",
+      "symbol": "KLINK",
+      "logoURI": "https://assets.coingecko.com/coins/images/54192/thumb/CMC_Logo.png?1738722266",
+      "assetGroup": "KLINK (Klink Finance)",
+      "tags": ["coingecko"]
+    },
+    "0xb27e7b18aba8d6ef2467b93486be600860a1395e": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "5TARS",
+      "address": "0xb27e7b18aba8d6ef2467b93486be600860a1395e",
+      "symbol": "5TARS",
+      "logoURI": "https://assets.coingecko.com/coins/images/54199/thumb/5tars_token_S.png?1738749419",
+      "assetGroup": "5TARS (5TARS)",
+      "tags": ["coingecko"]
+    },
+    "0x687838649383f180024435b96fe014b351854a2d": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Dinari JPM",
+      "address": "0x687838649383f180024435b96fe014b351854a2d",
+      "symbol": "JPMD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54184/thumb/d-token-200.png?1738682276",
+      "assetGroup": "JPMD (Dinari JPM)",
+      "tags": ["coingecko"]
+    },
+    "0x000804047791c8e0fbd04f1a9f4567114130b9a7": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Dinari KO",
+      "address": "0x000804047791c8e0fbd04f1a9f4567114130b9a7",
+      "symbol": "KOD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54185/thumb/d-token-200.png?1738682465",
+      "assetGroup": "KOD (Dinari KO)",
+      "tags": ["coingecko"]
+    },
+    "0xcc69d36075d563d010d829db7a9caa50b3487bb0": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Dinari PHO",
+      "address": "0xcc69d36075d563d010d829db7a9caa50b3487bb0",
+      "symbol": "PHOD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54187/thumb/d-token-200.png?1738682583",
+      "assetGroup": "PHOD (Dinari PHO)",
+      "tags": ["coingecko"]
+    },
+    "0x48a0ea70c2c7d025cc95672b9ebe6ad026129b44": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Dinari YUM",
+      "address": "0x48a0ea70c2c7d025cc95672b9ebe6ad026129b44",
+      "symbol": "YUMD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54188/thumb/d-token-200.png?1738682602",
+      "assetGroup": "YUMD (Dinari YUM)",
+      "tags": ["coingecko"]
+    },
+    "0x84054a6b72dd5c58da8106e410e62658083a80e4": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "believe in something",
+      "address": "0x84054a6b72dd5c58da8106e410e62658083a80e4",
+      "symbol": "DTF",
+      "logoURI": "https://assets.coingecko.com/coins/images/51561/thumb/Chad_Franklin_200x200.jpeg?1735373619",
+      "assetGroup": "DTF (believe in something)",
+      "tags": ["coingecko"]
+    },
+    "0xc4d137def384ee0f8857887f5950669ba04984ec": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "BonzAI DePIN",
+      "address": "0xc4d137def384ee0f8857887f5950669ba04984ec",
+      "symbol": "BONZAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/36032/thumb/bonzai.jpeg?1710394145",
+      "assetGroup": "BONZAI (BonzAI DePIN)",
+      "tags": ["coingecko"]
+    },
+    "0x53cb59d32a8d08fc6d3f81454f150946a028a44d": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "DexFi Governance",
+      "address": "0x53cb59d32a8d08fc6d3f81454f150946a028a44d",
+      "symbol": "GDEX",
+      "logoURI": "https://assets.coingecko.com/coins/images/30671/thumb/gDEX-Icon.png?1738702041",
+      "assetGroup": "GDEX (DexFi Governance)",
+      "tags": ["coingecko"]
+    },
+    "0xef73611f98da6e57e0776317957af61b59e09ed7": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Kendu Inu",
+      "address": "0xef73611f98da6e57e0776317957af61b59e09ed7",
+      "symbol": "KENDU",
+      "logoURI": "https://assets.coingecko.com/coins/images/35722/thumb/photo_2024-03-05_01-23-59_%281%29.jpg?1709632285",
+      "assetGroup": "KENDU (Kendu Inu)",
+      "tags": ["coingecko"]
+    },
+    "0x78bb8ff6baa486c31ce0ef1a157798f7a606565c": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Dinari XOM",
+      "address": "0x78bb8ff6baa486c31ce0ef1a157798f7a606565c",
+      "symbol": "XOMD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54189/thumb/d-token-200.png?1738682617",
+      "assetGroup": "XOMD (Dinari XOM)",
       "tags": ["coingecko"]
     }
   },

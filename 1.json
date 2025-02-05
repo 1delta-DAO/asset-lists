@@ -18464,8 +18464,7 @@
       "address": "0x185ece9bc75164f9fc0fbe44738e8dd1863f8464",
       "symbol": "UNDX",
       "logoURI": "https://assets.coingecko.com/coins/images/34115/thumb/UNODEX_LOGO_PNG_200X200.png?1704020683",
-      "assetGroup": "UNDX (UNODEX)",
-      "tags": ["coingecko"]
+      "assetGroup": "UNDX (UNODEX)"
     },
     "0xe59d2ff6995a926a574390824a657eed36801e55": {
       "chainId": 1,
@@ -28322,8 +28321,7 @@
       "address": "0x718dab2c7bbd2d9503dc1ce1dbc215abc41a3545",
       "symbol": "XAIGROK",
       "logoURI": "https://assets.coingecko.com/coins/images/33584/thumb/20231207_155741.jpg?1702465158",
-      "assetGroup": "XAIGROK (XAIGROK)",
-      "tags": ["coingecko"]
+      "assetGroup": "XAIGROK (XAIGROK)"
     },
     "0x049e9f5369358786a1ce6483d668d062cfe547ec": {
       "chainId": 1,
@@ -34989,8 +34987,7 @@
       "address": "0xdf21d69bce43f819cb92b8c23e2a001f91157653",
       "symbol": "ETR",
       "logoURI": "https://assets.coingecko.com/coins/images/37077/thumb/Ava.jpg?1713248892",
-      "assetGroup": "ETR (EtheRunes)",
-      "tags": ["coingecko"]
+      "assetGroup": "ETR (EtheRunes)"
     },
     "0xe90ce7764d8401d19ed3733a211bd3b06c631bc0": {
       "chainId": 1,
@@ -35998,8 +35995,7 @@
       "address": "0x078c4adf3fee52eb77f6018d9805dfc69e911d39",
       "symbol": "GLORY",
       "logoURI": "https://assets.coingecko.com/coins/images/34903/thumb/glory-200x200.png?1706594822",
-      "assetGroup": "GLORY (Eternity GLORY Token)",
-      "tags": ["coingecko"]
+      "assetGroup": "GLORY (Eternity GLORY Token)"
     },
     "0xf857c938829c2a53557fb3fbb1c85d10a5227e03": {
       "chainId": 1,
@@ -43250,8 +43246,7 @@
       "address": "0xf2c5780e2dda407781c0c5eccc9320d5988ea0a6",
       "symbol": "DCE",
       "logoURI": "https://assets.coingecko.com/coins/images/35499/thumb/dce_logo.png?1722188122",
-      "assetGroup": "DCE (Decentra Ecosystem)",
-      "tags": ["coingecko"]
+      "assetGroup": "DCE (Decentra Ecosystem)"
     },
     "0x24fcfc492c1393274b6bcd568ac9e225bec93584": {
       "chainId": 1,
@@ -57224,7 +57219,8 @@
       "address": "0x8c62ac3b71db8c81a764b84ffbc2a8d0bad7f111",
       "symbol": "PREME",
       "logoURI": "https://assets.coingecko.com/coins/images/36091/thumb/PREME_Token.png?1710477118",
-      "assetGroup": "PREME (PREME Token)"
+      "assetGroup": "PREME (PREME Token)",
+      "tags": ["coingecko"]
     },
     "0x0f719591e2bcb6fcc3e68b16d2a88c89c6ae0d42": {
       "chainId": 1,
@@ -57254,6 +57250,56 @@
       "symbol": "SMOL",
       "logoURI": "https://assets.coingecko.com/coins/images/54182/thumb/smolcoin_%281%29.png?1738667346",
       "assetGroup": "SMOL (Smolcoin)",
+      "tags": ["coingecko"]
+    },
+    "0x4026f916beda6ca2b347c44517a83f5efab3f569": {
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Dinari JPM",
+      "address": "0x4026f916beda6ca2b347c44517a83f5efab3f569",
+      "symbol": "JPMD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54184/thumb/d-token-200.png?1738682276",
+      "assetGroup": "JPMD (Dinari JPM)",
+      "tags": ["coingecko"]
+    },
+    "0x05fed61f7a3eca96dc7f9a41b38fa7c5f0e62158": {
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Dinari KO",
+      "address": "0x05fed61f7a3eca96dc7f9a41b38fa7c5f0e62158",
+      "symbol": "KOD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54185/thumb/d-token-200.png?1738682465",
+      "assetGroup": "KOD (Dinari KO)",
+      "tags": ["coingecko"]
+    },
+    "0x251530c7f24d6904a31425b9afa24b0e1e5aafde": {
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Dinari PHO",
+      "address": "0x251530c7f24d6904a31425b9afa24b0e1e5aafde",
+      "symbol": "PHOD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54187/thumb/d-token-200.png?1738682583",
+      "assetGroup": "PHOD (Dinari PHO)",
+      "tags": ["coingecko"]
+    },
+    "0x0af5b873df94efeba34c0b0a9fa34a8c13e078cd": {
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Dinari YUM",
+      "address": "0x0af5b873df94efeba34c0b0a9fa34a8c13e078cd",
+      "symbol": "YUMD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54188/thumb/d-token-200.png?1738682602",
+      "assetGroup": "YUMD (Dinari YUM)",
+      "tags": ["coingecko"]
+    },
+    "0x52926f7f983d3d7ddcbe644a809d67bbe4a9e785": {
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Dinari XOM",
+      "address": "0x52926f7f983d3d7ddcbe644a809d67bbe4a9e785",
+      "symbol": "XOMD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54189/thumb/d-token-200.png?1738682617",
+      "assetGroup": "XOMD (Dinari XOM)",
       "tags": ["coingecko"]
     }
   },
