@@ -7497,7 +7497,8 @@
       "address": "0xa38a5a8beeb08d95744bc7f58528073f4052b254def59eba20c99c202b5acaa3",
       "symbol": "WETH",
       "logoURI": "https://verified-assets.fuel.network/images/weth.svg",
-      "assetGroup": "WETH"
+      "assetGroup": "WETH",
+      "tags": ["bridged"]
     },
     "0x239ed6e12b7ce4089ee245244e3bf906999a6429c2a9a445a1e1faf56914a4ab": {
       "chainId": "fuel",
@@ -7524,7 +7525,7 @@
       "address": "0xf3f9a0ed0ce8eac5f89d6b83e41b3848212d5b5f56108c54a205bb228ca30c16",
       "symbol": "rETH",
       "logoURI": "https://verified-assets.fuel.network/images/reth.svg",
-      "assetGroup": "rETH (rETH)"
+      "assetGroup": "RETH"
     },
     "0x7843c74bef935e837f2bcf67b5d64ecb46dd53ff86375530b0caf3699e8ffafe": {
       "chainId": "fuel",
@@ -7623,7 +7624,7 @@
       "address": "0x642a5db59ec323c2f846d4d4cf3e58d78aff64accf4f8f6455ba0aa3ef000a3b",
       "symbol": "mETH",
       "logoURI": "https://verified-assets.fuel.network/images/mantle-meth.svg",
-      "assetGroup": "Mantle mETH (Mantle mETH)"
+      "assetGroup": "METH"
     },
     "0x9e46f919fbf978f3cad7cd34cca982d5613af63ff8aab6c379e4faa179552958": {
       "chainId": "fuel",
@@ -7686,7 +7687,7 @@
       "address": "0x1a7815cc9f75db5c24a5b0814bfb706bb9fe485333e98254015de8f48f84c67b",
       "symbol": "wstETH",
       "logoURI": "https://verified-assets.fuel.network/images/wsteth.svg",
-      "assetGroup": "wstETH (wstETH)"
+      "assetGroup": "WSTETH"
     },
     "0x91b3559edb2619cde8ffb2aa7b3c3be97efd794ea46700db7092abeee62281b0": {
       "chainId": "fuel",
@@ -7704,7 +7705,7 @@
       "address": "0x1493d4ec82124de8f9b625682de69dcccda79e882b89a55a8c737b12de67bd68",
       "symbol": "pzETH",
       "logoURI": "https://verified-assets.fuel.network/images/pzETH.webp",
-      "assetGroup": "pzETH (pzETH)"
+      "assetGroup": "pzETH (Renzo Restaked LST)"
     },
     "0xf2fc648c23a5db24610a1cf696acc4f0f6d9a7d6028dd9944964ab23f6e35995": {
       "chainId": "fuel",
