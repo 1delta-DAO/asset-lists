@@ -1010,6 +1010,56 @@
       "symbol": "BUSD",
       "assetGroup": "BUSD",
       "tags": ["bridged", "coingecko"]
+    },
+    "0x1a4f71b0ff3c22540887bcf83b50054a213c673d": {
+      "chainId": 100,
+      "decimals": 18,
+      "name": "Wrapped bMSTR",
+      "address": "0x1a4f71b0ff3c22540887bcf83b50054a213c673d",
+      "symbol": "WBMSTR",
+      "logoURI": "https://assets.coingecko.com/coins/images/54431/thumb/bMSTR_200x200.png?1739606375",
+      "assetGroup": "WBMSTR (Wrapped bMSTR)",
+      "tags": ["coingecko"]
+    },
+    "0x1f82284c1658ad71c576f7230e6c2dee7901c1fa": {
+      "chainId": 100,
+      "decimals": 18,
+      "name": "Wrapped bTSLA",
+      "address": "0x1f82284c1658ad71c576f7230e6c2dee7901c1fa",
+      "symbol": "WBTSLA",
+      "logoURI": "https://assets.coingecko.com/coins/images/54428/thumb/bTSLA_200x200.png?1739605965",
+      "assetGroup": "WBTSLA (Wrapped bTSLA)",
+      "tags": ["coingecko"]
+    },
+    "0xdec933e2392ad908263e70a386fbf34e703ffe8f": {
+      "chainId": 100,
+      "decimals": 18,
+      "name": "Wrapped bCOIN",
+      "address": "0xdec933e2392ad908263e70a386fbf34e703ffe8f",
+      "symbol": "WBCOIN",
+      "logoURI": "https://assets.coingecko.com/coins/images/54429/thumb/bCOIN_200x200.png?1739606057",
+      "assetGroup": "WBCOIN (Wrapped bCOIN)",
+      "tags": ["coingecko"]
+    },
+    "0x420ca0f9b9b604ce0fd9c18ef134c705e5fa3430": {
+      "chainId": 100,
+      "decimals": 18,
+      "name": "Monerium EUR emoney",
+      "address": "0x420ca0f9b9b604ce0fd9c18ef134c705e5fa3430",
+      "symbol": "EURE",
+      "logoURI": "https://assets.coingecko.com/coins/images/54303/thumb/eure.jpg?1739167959",
+      "assetGroup": "EURE (Monerium EUR emoney)",
+      "tags": ["coingecko"]
+    },
+    "0x7e8101a1c322d394b3961498c7d40d2dfa94c392": {
+      "chainId": 100,
+      "decimals": 18,
+      "name": "Wrapped bNVDA",
+      "address": "0x7e8101a1c322d394b3961498c7d40d2dfa94c392",
+      "symbol": "WBNVDA",
+      "logoURI": "https://assets.coingecko.com/coins/images/54430/thumb/bNVDA_200x200.png?1739606241",
+      "assetGroup": "WBNVDA (Wrapped bNVDA)",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [

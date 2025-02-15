@@ -1,6 +1,6 @@
 {
   "chainId": "5000",
-  "version": "1",
+  "version": "0",
   "list": {
     "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8": {
       "chainId": 5000,
@@ -90,7 +90,7 @@
       "symbol": "USDY",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/moe-tokenlists/main/logos/0x5bE26527e817998A7206475496fDE1E68957c5A6/logo.png",
       "assetGroup": "USDY",
-      "tags": ["coingecko"]
+      "tags": ["mantlelist", "coingecko"]
     },
     "0x25356aeca4210ef7553140edb9b8026089e49396": {
       "chainId": 5000,
@@ -657,7 +657,7 @@
       "symbol": "iZi",
       "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/izumi.svg",
       "assetGroup": "iZi (iZUMi Token)",
-      "tags": ["coingecko"]
+      "tags": ["mantlelist", "coingecko"]
     },
     "0x0a3bb08b3a15a19b4de82f8acfc862606fb69a2d": {
       "chainId": 5000,
@@ -666,7 +666,8 @@
       "address": "0x0a3bb08b3a15a19b4de82f8acfc862606fb69a2d",
       "symbol": "iUSD",
       "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/iusd.png",
-      "assetGroup": "iUSD (iZUMi Bond USD)"
+      "assetGroup": "iUSD (iZUMi Bond USD)",
+      "tags": ["mantlelist"]
     },
     "0x6a3b0eb5b57c9a4f5772fc900dae427e65f8c1a5": {
       "chainId": 5000,
@@ -685,7 +686,8 @@
       "address": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f",
       "symbol": "AXL",
       "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/axl.png",
-      "assetGroup": "AXL"
+      "assetGroup": "AXL",
+      "tags": ["mantlelist"]
     },
     "0x7cbf716aa9a6114281188867572ac87586e4abf2": {
       "chainId": 5000,

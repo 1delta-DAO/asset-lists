@@ -1,6 +1,6 @@
 {
   "chainId": "81457",
-  "version": "1",
+  "version": "0",
   "list": {
     "0x24cb308a4e2f3a4352f513681bd0c31a0bd3ba31": {
       "chainId": 81457,
@@ -402,8 +402,7 @@
       "address": "0x837fe561e9c5dfa73f607fda679295dbc2be5e40",
       "symbol": "MUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/37086/thumb/cmc_musd.png?1713254329",
-      "assetGroup": "MUSD (MonoSwap USD)",
-      "tags": ["coingecko"]
+      "assetGroup": "MUSD (MonoSwap USD)"
     },
     "0x15bd262ede6e8aa04b2361a1df697adf1cf40e75": {
       "chainId": 81457,
@@ -1482,6 +1481,336 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54189/thumb/d-token-200.png?1738682617",
       "assetGroup": "XOMD (Dinari XOM)",
       "tags": ["coingecko"]
+    },
+    "0xac402db779eeabcc6c88f0478bb381cd2d0e15f7": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari WALRF",
+      "address": "0xac402db779eeabcc6c88f0478bb381cd2d0e15f7",
+      "symbol": "WALRFD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54222/thumb/d-token-200.png?1738860922",
+      "assetGroup": "WALRFD (Dinari WALRF)",
+      "tags": ["coingecko"]
+    },
+    "0xe3fc0948bdcada331014590987cc624015403874": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari RBLX",
+      "address": "0xe3fc0948bdcada331014590987cc624015403874",
+      "symbol": "RBLXD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54223/thumb/d-token-200.png?1738860997",
+      "assetGroup": "RBLXD (Dinari RBLX)",
+      "tags": ["coingecko"]
+    },
+    "0x8ad2b97b7fca40af71bfef9857d10bc1bfe70175": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari PG",
+      "address": "0x8ad2b97b7fca40af71bfef9857d10bc1bfe70175",
+      "symbol": "PGD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54269/thumb/d-token-200.png?1738994720",
+      "assetGroup": "PGD (Dinari PG)",
+      "tags": ["coingecko"]
+    },
+    "0x56de5c6c56f92ecf2da286ea81a0fb74b25f9579": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari PALL",
+      "address": "0x56de5c6c56f92ecf2da286ea81a0fb74b25f9579",
+      "symbol": "PALLD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54270/thumb/d-token-200.png?1738994765",
+      "assetGroup": "PALLD (Dinari PALL)",
+      "tags": ["coingecko"]
+    },
+    "0xbffaea400b56da7b7085a27676d4b72361217e35": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari CCL",
+      "address": "0xbffaea400b56da7b7085a27676d4b72361217e35",
+      "symbol": "CCLD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54275/thumb/d-token-200.png?1738998063",
+      "assetGroup": "CCLD (Dinari CCL)",
+      "tags": ["coingecko"]
+    },
+    "0xfafda868581ce31b7ef7fe0b146a24dbb4717a5f": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari F",
+      "address": "0xfafda868581ce31b7ef7fe0b146a24dbb4717a5f",
+      "symbol": "FD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54276/thumb/d-token-200.png?1738998264",
+      "assetGroup": "FD (Dinari F)",
+      "tags": ["coingecko"]
+    },
+    "0x771952e0d7701f9d9eeeaf69c51bfdd57cbd6a6a": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari RKLB",
+      "address": "0x771952e0d7701f9d9eeeaf69c51bfdd57cbd6a6a",
+      "symbol": "RKLBD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54280/thumb/d-token-200.png?1738998854",
+      "assetGroup": "RKLBD (Dinari RKLB)",
+      "tags": ["coingecko"]
+    },
+    "0x8d7e838f2feaec8b6d7445bfa699f68fe8e97718": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari SIVR",
+      "address": "0x8d7e838f2feaec8b6d7445bfa699f68fe8e97718",
+      "symbol": "SIVRD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54224/thumb/d-token-200.png?1738861015",
+      "assetGroup": "SIVRD (Dinari SIVR)",
+      "tags": ["coingecko"]
+    },
+    "0xfecf117ce579acb96e89872af6cc9525980c397c": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari SONY",
+      "address": "0xfecf117ce579acb96e89872af6cc9525980c397c",
+      "symbol": "SONYD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54225/thumb/d-token-200.png?1738861032",
+      "assetGroup": "SONYD (Dinari SONY)",
+      "tags": ["coingecko"]
+    },
+    "0xfdc1901e40c708e72661af607a8a027740a08676": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari COST",
+      "address": "0xfdc1901e40c708e72661af607a8a027740a08676",
+      "symbol": "COSTD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54226/thumb/d-token-200.png?1738861053",
+      "assetGroup": "COSTD (Dinari COST)",
+      "tags": ["coingecko"]
+    },
+    "0x399351786afd19dc7524b6af87aad8339f641494": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari DAL",
+      "address": "0x399351786afd19dc7524b6af87aad8339f641494",
+      "symbol": "DALD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54227/thumb/d-token-200.png?1738861070",
+      "assetGroup": "DALD (Dinari DAL)",
+      "tags": ["coingecko"]
+    },
+    "0xbba2b55370753e326e2fb68161c240e328218bcf": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari GLD",
+      "address": "0xbba2b55370753e326e2fb68161c240e328218bcf",
+      "symbol": "GLDD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54228/thumb/d-token-200.png?1738861086",
+      "assetGroup": "GLDD (Dinari GLD)",
+      "tags": ["coingecko"]
+    },
+    "0x89d0a55a8c2d94c0d4a91c6e3de58dd131ad87fc": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari SQ",
+      "address": "0x89d0a55a8c2d94c0d4a91c6e3de58dd131ad87fc",
+      "symbol": "SQD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54229/thumb/d-token-200.png?1738861102",
+      "assetGroup": "SQD (Dinari SQ)",
+      "tags": ["coingecko"]
+    },
+    "0x688a880ae19e766c6ad4b749a315ec25034a0645": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari ERO",
+      "address": "0x688a880ae19e766c6ad4b749a315ec25034a0645",
+      "symbol": "EROD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54230/thumb/d-token-200.png?1738861119",
+      "assetGroup": "EROD (Dinari ERO)",
+      "tags": ["coingecko"]
+    },
+    "0x4040fe823164384d2b719546557f01136990395b": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari CSCO",
+      "address": "0x4040fe823164384d2b719546557f01136990395b",
+      "symbol": "CSCOD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54277/thumb/d-token-200.png?1738998301",
+      "assetGroup": "CSCOD (Dinari CSCO)",
+      "tags": ["coingecko"]
+    },
+    "0xbb4ca8935edcafba90dac55652bb938eb961cb36": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari ITA",
+      "address": "0xbb4ca8935edcafba90dac55652bb938eb961cb36",
+      "symbol": "ITAD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54278/thumb/d-token-200.png?1738998357",
+      "assetGroup": "ITAD (Dinari ITA)",
+      "tags": ["coingecko"]
+    },
+    "0x665b080affb4a7e0ceae3ce88ba0401c864635d8": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari EZBC",
+      "address": "0x665b080affb4a7e0ceae3ce88ba0401c864635d8",
+      "symbol": "EZBCD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54267/thumb/d-token-200.png?1738994496",
+      "assetGroup": "EZBCD (Dinari EZBC)",
+      "tags": ["coingecko"]
+    },
+    "0xd2c500a8dd36eee1082314d624a46b5ab37c426e": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari SBUX",
+      "address": "0xd2c500a8dd36eee1082314d624a46b5ab37c426e",
+      "symbol": "SBUXD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54364/thumb/d-token-200.png?1739401368",
+      "assetGroup": "SBUXD (Dinari SBUX)",
+      "tags": ["coingecko"]
+    },
+    "0x0e576b0c554fbaef9893a2cd7b866af516bab581": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari SPSK",
+      "address": "0x0e576b0c554fbaef9893a2cd7b866af516bab581",
+      "symbol": "SPSKD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54391/thumb/d-token-200.png?1739485728",
+      "assetGroup": "SPSKD (Dinari SPSK)",
+      "tags": ["coingecko"]
+    },
+    "0xe0ced15bc8ea1335bec573819f1813ffc5e38878": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari BOXX",
+      "address": "0xe0ced15bc8ea1335bec573819f1813ffc5e38878",
+      "symbol": "BOXXD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54359/thumb/d-token-200.png?1739401220",
+      "assetGroup": "BOXXD (Dinari BOXX)",
+      "tags": ["coingecko"]
+    },
+    "0xca838b9437eb20ada32703a8b912922088cf90b5": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari SPTE",
+      "address": "0xca838b9437eb20ada32703a8b912922088cf90b5",
+      "symbol": "SPTED",
+      "logoURI": "https://assets.coingecko.com/coins/images/54392/thumb/d-token-200.png?1739485749",
+      "assetGroup": "SPTED (Dinari SPTE)",
+      "tags": ["coingecko"]
+    },
+    "0xdd31c8b5c899c0f85fb4738accac44180e4d7390": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari SOXL",
+      "address": "0xdd31c8b5c899c0f85fb4738accac44180e4d7390",
+      "symbol": "SOXLD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54366/thumb/d-token-200.png?1739401385",
+      "assetGroup": "SOXLD (Dinari SOXL)",
+      "tags": ["coingecko"]
+    },
+    "0xa8ef52a9c4010e20f3811f0a8606c788fccc7a2a": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari CVX",
+      "address": "0xa8ef52a9c4010e20f3811f0a8606c788fccc7a2a",
+      "symbol": "CVXD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54360/thumb/d-token-200.png?1739401251",
+      "assetGroup": "CVXD (Dinari CVX)",
+      "tags": ["coingecko"]
+    },
+    "0xe99292ca55f6e01765b900dadd471c63136e6760": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari EEM",
+      "address": "0xe99292ca55f6e01765b900dadd471c63136e6760",
+      "symbol": "EEMD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54361/thumb/d-token-200.png?1739401272",
+      "assetGroup": "EEMD (Dinari EEM)",
+      "tags": ["coingecko"]
+    },
+    "0xf020a139d2346cdd2c0e1523395346756f42ad7e": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari HYMB",
+      "address": "0xf020a139d2346cdd2c0e1523395346756f42ad7e",
+      "symbol": "HYMBD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54362/thumb/d-token-200.png?1739401319",
+      "assetGroup": "HYMBD (Dinari HYMB)",
+      "tags": ["coingecko"]
+    },
+    "0x45907acf1c9f45450ded33e3f06f96dc298c5d70": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari MELI",
+      "address": "0x45907acf1c9f45450ded33e3f06f96dc298c5d70",
+      "symbol": "MELID",
+      "logoURI": "https://assets.coingecko.com/coins/images/54363/thumb/d-token-200.png?1739401339",
+      "assetGroup": "MELID (Dinari MELI)",
+      "tags": ["coingecko"]
+    },
+    "0xb127e5d53df0c2056cf337081ec56f01efd5c8bc": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari SNOW",
+      "address": "0xb127e5d53df0c2056cf337081ec56f01efd5c8bc",
+      "symbol": "SNOWD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54365/thumb/d-token-200.png?1739401375",
+      "assetGroup": "SNOWD (Dinari SNOW)",
+      "tags": ["coingecko"]
+    },
+    "0x5e9e14b2386a9cd3d2ed510285d3389b34d48640": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari SPUS",
+      "address": "0x5e9e14b2386a9cd3d2ed510285d3389b34d48640",
+      "symbol": "SPUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54393/thumb/d-token-200.png?1739485765",
+      "assetGroup": "SPUSD (Dinari SPUS)",
+      "tags": ["coingecko"]
+    },
+    "0x0e8c94ce5f658b52a8d4e30933520b2106a9397c": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari USHY",
+      "address": "0x0e8c94ce5f658b52a8d4e30933520b2106a9397c",
+      "symbol": "USHYD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54367/thumb/d-token-200.png?1739401403",
+      "assetGroup": "USHYD (Dinari USHY)",
+      "tags": ["coingecko"]
+    },
+    "0x09bc998f64d32b83d4a534bb2d5a4806a04c855d": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari SPWO",
+      "address": "0x09bc998f64d32b83d4a534bb2d5a4806a04c855d",
+      "symbol": "SPWOD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54394/thumb/d-token-200.png?1739485782",
+      "assetGroup": "SPWOD (Dinari SPWO)",
+      "tags": ["coingecko"]
+    },
+    "0x8f6a976b6c7fe18e31870eadfae09b3cb447541a": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari UFO",
+      "address": "0x8f6a976b6c7fe18e31870eadfae09b3cb447541a",
+      "symbol": "UFOD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54395/thumb/d-token-200.png?1739485800",
+      "assetGroup": "UFOD (Dinari UFO)",
+      "tags": ["coingecko"]
+    },
+    "0x32cbb8cdacd90dbec250f9b1e8b06232c6f3297b": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari VXX",
+      "address": "0x32cbb8cdacd90dbec250f9b1e8b06232c6f3297b",
+      "symbol": "VXXD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54396/thumb/d-token-200.png?1739485820",
+      "assetGroup": "VXXD (Dinari VXX)",
+      "tags": ["coingecko"]
+    },
+    "0x1b91eb087e128a0514b9eb8d0804b586641a0849": {
+      "chainId": 81457,
+      "decimals": 18,
+      "name": "Dinari TJX",
+      "address": "0x1b91eb087e128a0514b9eb8d0804b586641a0849",
+      "symbol": "TJXD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54397/thumb/d-token-200.png?1739485840",
+      "assetGroup": "TJXD (Dinari TJX)",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -1560,6 +1889,7 @@
   ],
   "bridgeTokens": [
     "0x4300000000000000000000000000000000000004",
-    "0xb1a5700fa2358173fe465e6ea4ff52e36e88e2ad"
+    "0xb1a5700fa2358173fe465e6ea4ff52e36e88e2ad",
+    "0x870a8f46b62b8bdeda4c02530c1750cddf2ed32e"
   ]
 }
