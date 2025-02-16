@@ -315,8 +315,18 @@
     "0x346e03f8cce9fe01dcb3d0da3e9d00dc2c0e08f0": {
       "chainId": 10,
       "decimals": 18,
-      "name": "Wrapped eETH",
+      "name": "OP Bridged Wrapped eETH",
       "address": "0x346e03f8cce9fe01dcb3d0da3e9d00dc2c0e08f0",
+      "symbol": "weETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/33033/thumb/weETH.png?1701438396",
+      "assetGroup": "WEETH",
+      "tags": ["coingecko"]
+    },
+    "0x5a7facb970d094b6c7ff1df0ea68d99e6e73cbff": {
+      "chainId": 10,
+      "decimals": 18,
+      "name": "Wrapped eETH",
+      "address": "0x5a7facb970d094b6c7ff1df0ea68d99e6e73cbff",
       "symbol": "weETH",
       "logoURI": "https://assets.coingecko.com/coins/images/33033/thumb/weETH.png?1701438396",
       "assetGroup": "WEETH",
