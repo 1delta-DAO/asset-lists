@@ -28,7 +28,7 @@
       "address": "0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca",
       "symbol": "USDbC",
       "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
-      "assetGroup": "USDbC (USD Base Coin)",
+      "assetGroup": "USDBC",
       "tags": ["coingecko"]
     },
     "0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22": {
@@ -38,7 +38,7 @@
       "address": "0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22",
       "symbol": "cbETH",
       "logoURI": "https://ethereum-optimism.github.io/data/cbETH/logo.svg",
-      "assetGroup": "cbETH (Coinbase Wrapped Staked ETH)",
+      "assetGroup": "CBETH",
       "tags": ["coingecko"]
     },
     "0xeb466342c4d449bc9f53a865d5cb90586f405215": {
@@ -471,7 +471,7 @@
       "address": "0xc1cba3fcea344f92d9239c08c0568f6f2f0ee452",
       "symbol": "wstETH",
       "logoURI": "https://assets.coingecko.com/coins/images/18834/large/wstETH.png?1633565443",
-      "assetGroup": "WSTETH (Wrapped stETH)",
+      "assetGroup": "WSTETH",
       "tags": ["coingecko"]
     },
     "0xc5fecc3a29fb57b5024eec8a2239d4621e111cbe": {
@@ -612,7 +612,7 @@
       "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
       "symbol": "cbBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/40143/standard/cbbtc.webp",
-      "assetGroup": "cbBTC (Coinbase Wrapped BTC)",
+      "assetGroup": "CBBTC",
       "tags": ["coingecko"]
     },
     "0x9e1028f5f1d5ede59748ffcee5532509976840e0": {
@@ -5197,8 +5197,7 @@
       "address": "0xc9e0dc5b3a89c1d55760cbee2b5973957fb9ca11",
       "symbol": "GEM",
       "logoURI": "https://assets.coingecko.com/coins/images/36849/thumb/white_logo.png?1712687544",
-      "assetGroup": "GEM (gembox)",
-      "tags": ["coingecko"]
+      "assetGroup": "GEM (gembox)"
     },
     "0x262a9f4e84efa2816d87a68606bb4c1ea3874bf1": {
       "chainId": 8453,
@@ -6016,9 +6015,9 @@
       "name": "Wrapped eETH",
       "address": "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
       "symbol": "weETH",
-      "logoURI": "https://assets.coingecko.com/coins/images/39950/thumb/WETH.PNG?1724902237",
-      "assetGroup": "WEETHBASE (ether fi Bridged weETH Base)",
-      "tags": ["bridged", "coingecko"]
+      "logoURI": "https://assets.coingecko.com/coins/images/33033/thumb/weETH.png?1701438396",
+      "assetGroup": "WEETH",
+      "tags": ["coingecko"]
     },
     "0xce74702e67e3127613f3465384282bad77757ca3": {
       "chainId": 8453,
@@ -14402,7 +14401,7 @@
       "address": "0x6bb7a212910682dcfdbd5bcbb3e28fb4e8da10ee",
       "symbol": "GHO",
       "logoURI": "https://assets.coingecko.com/coins/images/30663/thumb/gho-token-logo.png?1720517092",
-      "assetGroup": "GHO (GHO)",
+      "assetGroup": "GHO",
       "tags": ["coingecko"]
     },
     "0x25aa7b1ecf5d3fcd1b3b9f2445a4fa5597ffb189": {
@@ -14563,6 +14562,36 @@
       "symbol": "WBMSTR",
       "logoURI": "https://assets.coingecko.com/coins/images/54431/thumb/bMSTR_200x200.png?1739606375",
       "assetGroup": "WBMSTR (Wrapped bMSTR)",
+      "tags": ["coingecko"]
+    },
+    "0x739f93504a9e26d5973862dbc4a44178cc264852": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Locked Money",
+      "address": "0x739f93504a9e26d5973862dbc4a44178cc264852",
+      "symbol": "LMY",
+      "logoURI": "https://assets.coingecko.com/coins/images/54435/thumb/Locked_Money.png?1739707091",
+      "assetGroup": "LMY (Locked Money)",
+      "tags": ["coingecko"]
+    },
+    "0x9cfe02eb040c6f5718126128dbba0c1d364d9c07": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Shieldeum",
+      "address": "0x9cfe02eb040c6f5718126128dbba0c1d364d9c07",
+      "symbol": "SDM",
+      "logoURI": "https://assets.coingecko.com/coins/images/52254/thumb/Shieldeum_Coingecko.webp?1732834963",
+      "assetGroup": "SDM (Shieldeum)",
+      "tags": ["coingecko"]
+    },
+    "0x946f8b0ef009f3f5b1b35e6511a82a58b09d8d4e": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "DexKit",
+      "address": "0x946f8b0ef009f3f5b1b35e6511a82a58b09d8d4e",
+      "symbol": "KIT",
+      "logoURI": "https://assets.coingecko.com/coins/images/13187/thumb/7739.png?1696512969",
+      "assetGroup": "KIT (DexKit)",
       "tags": ["coingecko"]
     }
   },

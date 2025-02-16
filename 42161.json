@@ -370,7 +370,7 @@
       "address": "0x1debd73e752beaf79865fd6446b0c970eae7732f",
       "symbol": "cbETH",
       "logoURI": "https://assets.coingecko.com/coins/images/27008/large/cbeth.png",
-      "assetGroup": "cbETH (Coinbase Wrapped Staked ETH)",
+      "assetGroup": "CBETH",
       "tags": ["coingecko"]
     },
     "0x51f939a320d3c9144f7d486f0fec582ab2dd11a9": {
@@ -1818,7 +1818,7 @@
       "address": "0xa970af1a584579b618be4d69ad6f73459d112f95",
       "symbol": "sUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/5013/thumb/sUSD.png?1616150765",
-      "assetGroup": "sUSD (Synth sUSD)",
+      "assetGroup": "SUSD",
       "tags": ["openocean", "coingecko"]
     },
     "0xd4d42f0b6def4ce0383636770ef773390d85c61a": {
@@ -2209,7 +2209,7 @@
       "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
       "symbol": "cbBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/40143/large/cbbtc.webp",
-      "assetGroup": "cbBTC (Coinbase Wrapped BTC)",
+      "assetGroup": "CBBTC",
       "tags": ["coingecko"]
     },
     "0x4e51ac49bc5e2d87e0ef713e9e5ab2d71ef4f336": {
@@ -3984,8 +3984,7 @@
       "address": "0x000d636bd52bfc1b3a699165ef5aa340bea8939c",
       "symbol": "ODG",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/odg.svg",
-      "assetGroup": "ODG (Open Dollar Governance)",
-      "tags": ["coingecko"]
+      "assetGroup": "ODG (Open Dollar Governance)"
     },
     "0x43df266501dff4773f8f33179e3b96ab94dbc28d": {
       "chainId": 42161,

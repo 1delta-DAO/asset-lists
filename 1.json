@@ -1549,7 +1549,7 @@
       "address": "0xbe9895146f7af43049ca1c1ae358b0541ea49704",
       "symbol": "cbETH",
       "logoURI": "https://assets.coingecko.com/coins/images/27008/large/cbeth.png",
-      "assetGroup": "cbETH (Coinbase Wrapped Staked ETH)",
+      "assetGroup": "CBETH",
       "tags": ["openocean", "coingecko"]
     },
     "0x7d4b1d793239707445305d8d2456d2c735f6b25b": {
@@ -9016,7 +9016,7 @@
       "address": "0x57ab1ec28d129707052df4df418d58a2d46d5f51",
       "symbol": "sUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/5013/thumb/sUSD.png?1616150765",
-      "assetGroup": "sUSD (Synth sUSD)",
+      "assetGroup": "SUSD",
       "tags": ["openocean", "coingecko"]
     },
     "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2": {
@@ -10375,7 +10375,7 @@
       "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
       "symbol": "wstETH",
       "logoURI": "https://assets.coingecko.com/coins/images/18834/large/wstETH.png?1633565443",
-      "assetGroup": "WSTETH (Wrapped stETH)",
+      "assetGroup": "WSTETH",
       "tags": ["mantlelist", "openocean", "coingecko"]
     },
     "0x77e06c9eccf2e797fd462a92b6d7642ef85b0a44": {
@@ -11000,7 +11000,7 @@
       "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
       "symbol": "cbBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/40143/standard/cbbtc.webp",
-      "assetGroup": "cbBTC (Coinbase Wrapped BTC)",
+      "assetGroup": "CBBTC",
       "tags": ["coingecko"]
     },
     "0x3294395e62f4eb6af3f1fcf89f5602d90fb3ef69": {
@@ -32623,8 +32623,7 @@
       "address": "0xdefcafe7eac90d31bbba841038df365de3c4e207",
       "symbol": "CAFE",
       "logoURI": "https://assets.coingecko.com/coins/images/31738/thumb/200x200.png?1696530557",
-      "assetGroup": "CAFE (0xDEFCAFE)",
-      "tags": ["coingecko"]
+      "assetGroup": "CAFE (0xDEFCAFE)"
     },
     "0xf385905e56db4d8a208b20aa8a88dbb225f773d4": {
       "chainId": 1,
@@ -39705,8 +39704,7 @@
       "address": "0x03a9d7c8caf836de35666c5f7e317306b54fdd4e",
       "symbol": "JCC",
       "logoURI": "https://assets.coingecko.com/coins/images/36980/thumb/jc-coin200x200.png?1712939502",
-      "assetGroup": "JCC (JC Coin)",
-      "tags": ["coingecko"]
+      "assetGroup": "JCC (JC Coin)"
     },
     "0xebb1afb0a4ddc9b1f84d9aa72ff956cd1c1eb4be": {
       "chainId": 1,
@@ -42791,8 +42789,7 @@
       "address": "0xc7af7dc0a7a7e47e21eb50433a903d742370fffb",
       "symbol": "DOGE-1",
       "logoURI": "https://assets.coingecko.com/coins/images/39093/thumb/DOGE-1.jpg?1720504138",
-      "assetGroup": "DOGE-1 (DOGE 1)",
-      "tags": ["coingecko"]
+      "assetGroup": "DOGE-1 (DOGE 1)"
     },
     "0xf43f21384d03b5cbbddd58d2de64071e4ce76ab0": {
       "chainId": 1,
@@ -57889,6 +57886,16 @@
       "symbol": "USDD",
       "logoURI": "https://assets.coingecko.com/coins/images/25380/thumb/UUSD.jpg?1696524513",
       "assetGroup": "USDD",
+      "tags": ["coingecko"]
+    },
+    "0xae3013789c836345dfd63a9df713e3c23fb3a664": {
+      "chainId": 1,
+      "decimals": 18,
+      "name": "Geoff",
+      "address": "0xae3013789c836345dfd63a9df713e3c23fb3a664",
+      "symbol": "GEOFF",
+      "logoURI": "https://assets.coingecko.com/coins/images/54434/thumb/logo__%281%29.jpeg?1739706446",
+      "assetGroup": "GEOFF (Geoff)",
       "tags": ["coingecko"]
     }
   },
