@@ -2535,7 +2535,7 @@
       "symbol": "BFR",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1A5B0aaF478bf1FDA7b934c76E7692D722982a6D/logo.png",
       "assetGroup": "BFR (Buffer Finance)",
-      "tags": ["openocean"]
+      "tags": ["openocean", "coingecko"]
     },
     "0x0c4681e6c0235179ec3d4f4fc4df3d14fdd96017": {
       "chainId": 42161,
@@ -7118,7 +7118,8 @@
       "address": "0x8a66794e1aaebc7018a7b75f61f384e30ae3b159",
       "symbol": "BLS",
       "logoURI": "https://assets.coingecko.com/coins/images/30300/thumb/logo_BLS_200_bg.png?1696529204",
-      "assetGroup": "BLS (BlueSale)"
+      "assetGroup": "BLS (BlueSale)",
+      "tags": ["coingecko"]
     },
     "0x83e60b9f7f4db5cdb0877659b1740e73c662c55b": {
       "chainId": 42161,
@@ -8033,7 +8034,8 @@
       "address": "0xfa58c669b855b29f99374d0f160db286849d139b",
       "symbol": "MKC",
       "logoURI": "https://assets.coingecko.com/coins/images/36759/thumb/MonkeyCoin_Logo_256x256.png?1712247022",
-      "assetGroup": "MKC (MonkeyCoin)"
+      "assetGroup": "MKC (MonkeyCoin)",
+      "tags": ["coingecko"]
     },
     "0x4d01397994aa636bdcc65c9e8024bc497498c3bb": {
       "chainId": 42161,
@@ -12025,45 +12027,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/36291/thumb/blackrock.png?1711013223",
       "assetGroup": "BUIDL (BlackRock USD Institutional Digital Liq)",
       "tags": ["coingecko"]
-    },
-    "0xf4acde4d938844751f34659c67056f7e69dbe85a": {
-      "chainId": 42161,
-      "decimals": 18,
-      "name": "Clutch",
-      "address": "0xf4acde4d938844751f34659c67056f7e69dbe85a",
-      "symbol": "CLUTCH",
-      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/CLUTCH.png",
-      "assetGroup": "CLUTCH (Clutch)"
-    },
-    "0x46777c76dbbe40fabb2aab99e33ce20058e76c59": {
-      "chainId": 42161,
-      "decimals": 18,
-      "name": "Layer3",
-      "address": "0x46777c76dbbe40fabb2aab99e33ce20058e76c59",
-      "symbol": "L3",
-      "logoURI": "https://assets.coingecko.com/coins/images/37768/thumb/Square.png?1722045128",
-      "assetGroup": "L3 (Layer3)",
-      "tags": ["coingecko"]
-    },
-    "0x80eede496655fb9047dd39d9f418d5483ed600df": {
-      "chainId": 42161,
-      "decimals": 18,
-      "name": "Frax USD",
-      "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
-      "symbol": "FRXUSD",
-      "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154",
-      "assetGroup": "FRXUSD (Frax USD)",
-      "tags": ["coingecko"]
-    },
-    "0x5bff88ca1442c2496f7e475e9e7786383bc070c0": {
-      "chainId": 42161,
-      "decimals": 18,
-      "name": "Staked Frax USD",
-      "address": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
-      "symbol": "SFRXUSD",
-      "logoURI": "https://assets.coingecko.com/coins/images/53964/thumb/sfrxUSD.png?1737792232",
-      "assetGroup": "SFRXUSD (Staked Frax USD)",
-      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -12285,26 +12248,6 @@
     "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
     "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
     "0xeb466342c4d449bc9f53a865d5cb90586f405215",
-    "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
-    "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f",
-    "0x561877b6b3dd7651313794e5f2894b2f18be0766",
-    "0x4cfa50b7ce747e2d61724fcac57f24b748ff2b2a",
-    "0xa9004a5421372e1d83fb1f85b0fc986c912f91f3",
-    "0xe66998533a1992ece9ea99cdf47686f4fc8458e0",
-    "0xd3443ee1e91af28e5fb858fbd0d72a63ba8046e0",
-    "0x4c9aaed3b8c443b4b634d1a189a5e25c604768de",
-    "0x20865e63b111b2649ef829ec220536c82c58ad7b",
-    "0x8579794b10f88ebbedd3605f2e5ff54f162d4788",
-    "0x1ddcaa4ed761428ae348befc6718bcb12e63bfaa",
-    "0xe11508d3e0cf09e6fd6e94fdf41e83836d83ce50",
-    "0x625e7708f30ca75bfd92586e17077590c60eb4cd",
-    "0xecc68d0451e20292406967fe7c04280e5238ac7d",
-    "0x26d3c0d9f4cc4c130097b6afdebe4f5e497e6bdf",
-    "0x724dc807b04555b71ed48a6896b6f41593b8c637",
-    "0xb829b68f57cc546da7e5806a929e53be32a4625d",
-    "0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6",
-    "0x6ab707aca953edaefbc4fd23ba73294241490620",
-    "0xb1084db8d3c05cebd5fa9335df95ee4b8a0edc30",
-    "0x9cfb13e6c11054ac9fcb92ba89644f30775436e4"
+    "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f"
   ]
 }
