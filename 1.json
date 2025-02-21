@@ -8611,7 +8611,7 @@
       "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
       "symbol": "SNX",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F/logo.png",
-      "assetGroup": "SNX (Synthetix Network Token)",
+      "assetGroup": "SNX",
       "tags": ["openocean", "coingecko"]
     },
     "0x23b608675a2b2fb1890d3abbd85c5775c51691d5": {
@@ -53034,8 +53034,7 @@
       "address": "0x3797c46db697c24a983222c335f17ba28e8c5b69",
       "symbol": "UMINT",
       "logoURI": "https://assets.coingecko.com/coins/images/51913/thumb/%E5%9B%BE%E5%83%8F.png?1732678510",
-      "assetGroup": "UMINT (UBS USD Money Market Investment Fund To)",
-      "tags": ["coingecko"]
+      "assetGroup": "UMINT (UBS USD Money Market Investment Fund To)"
     },
     "0x5ac34c53a04b9aaa0bf047e7291fb4e8a48f2a18": {
       "chainId": 1,
@@ -58045,6 +58044,16 @@
       "symbol": "SOLVBTCENA",
       "logoURI": "https://assets.coingecko.com/coins/images/38931/thumb/BTC_ena.png?1719562313",
       "assetGroup": "SOLVBTCENA (Solv Protocol SolvBTC ENA)",
+      "tags": ["coingecko"]
+    },
+    "0x570f09ac53b96929e3868f71864e36ff6b1b67d7": {
+      "chainId": 1,
+      "decimals": 17,
+      "name": "Arcas",
+      "address": "0x570f09ac53b96929e3868f71864e36ff6b1b67d7",
+      "symbol": "ARCAS",
+      "logoURI": "https://assets.coingecko.com/coins/images/17404/thumb/Arcas_Logo.png?1737199437",
+      "assetGroup": "ARCAS (Arcas)",
       "tags": ["coingecko"]
     }
   },
