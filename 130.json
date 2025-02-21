@@ -2452,7 +2452,8 @@
       "address": "0x8f187aa05619a017077f5308904739877ce9ea21",
       "symbol": "UNI",
       "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg",
-      "assetGroup": "UNI"
+      "assetGroup": "UNI",
+      "tags": ["coingecko"]
     },
     "0x5eaff8fa6f3831bb86feeb701e6f98293e264d36": {
       "chainId": 130,
@@ -2689,6 +2690,16 @@
       "symbol": "UNICORN",
       "logoURI": "https://assets.coingecko.com/coins/images/54332/thumb/unicorn.jpg?1739325321",
       "assetGroup": "UNICORN (Unicorn)",
+      "tags": ["coingecko"]
+    },
+    "0x81908bbaad3f6fc74093540ab2e9b749bb62aa0d": {
+      "chainId": 130,
+      "decimals": 18,
+      "name": "Venus",
+      "address": "0x81908bbaad3f6fc74093540ab2e9b749bb62aa0d",
+      "symbol": "XVS",
+      "logoURI": "https://assets.coingecko.com/coins/images/12677/thumb/XVS_Token.jpg?1727454303",
+      "assetGroup": "XVS (Venus)",
       "tags": ["coingecko"]
     }
   },
