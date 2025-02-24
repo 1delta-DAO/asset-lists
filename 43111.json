@@ -1,0 +1,37 @@
+{
+  "chainId": "200901",
+  "version": "0",
+  "list": {
+    "0x4200000000000000000000000000000000000006": {
+      "address": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 43111
+    },
+    "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa": {
+      "address": "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa",
+      "name": "Bridged USDC (Stargate)",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "chainId": 43111
+    },
+    "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e": {
+      "address": "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 43111
+    }
+  },
+  "mainTokens": [
+    "0x4200000000000000000000000000000000000006",
+    "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa",
+    "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e"
+  ],
+  "bridgeTokens": [
+    "0x4200000000000000000000000000000000000006",
+    "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa",
+    "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e"
+  ]
+}
