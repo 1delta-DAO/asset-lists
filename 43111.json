@@ -1,27 +1,31 @@
 {
-  "chainId": "200901",
+  "chainId": "43111",
   "version": "0",
   "list": {
     "0x4200000000000000000000000000000000000006": {
-      "address": "0x4200000000000000000000000000000000000006",
-      "name": "Wrapped Ether",
-      "symbol": "WETH",
+      "chainId": 43111,
       "decimals": 18,
-      "chainId": 43111
+      "name": "Wrapped Ether",
+      "address": "0x4200000000000000000000000000000000000006",
+      "symbol": "WETH",
+      "assetGroup": "WETH"
     },
     "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa": {
-      "address": "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa",
-      "name": "Bridged USDC (Stargate)",
-      "symbol": "USDC.e",
+      "chainId": 43111,
       "decimals": 6,
-      "chainId": 43111
+      "name": "Bridged USDC (Stargate)",
+      "address": "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa",
+      "symbol": "USDC.e",
+      "assetGroup": "USDC",
+      "tags": ["stargate", "bridged"]
     },
     "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e": {
-      "address": "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e",
-      "name": "Tether USD",
-      "symbol": "USDT",
+      "chainId": 43111,
       "decimals": 6,
-      "chainId": 43111
+      "name": "Tether USD",
+      "address": "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e",
+      "symbol": "USDT",
+      "assetGroup": "USDT"
     }
   },
   "mainTokens": [

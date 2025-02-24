@@ -6868,8 +6868,7 @@
       "address": "0xa0eefbba9c18925fb6bab26281806772398cca1f",
       "symbol": "UBERD",
       "logoURI": "https://assets.coingecko.com/coins/images/39834/thumb/Dinari-token-icon.png?1724254647",
-      "assetGroup": "UBERD (Dinari UBER)",
-      "tags": ["coingecko"]
+      "assetGroup": "UBERD (Dinari UBER)"
     },
     "0xe3b3fe7bca19ca77ad877a5bebab186becfad906": {
       "chainId": 42161,
@@ -7874,8 +7873,7 @@
       "address": "0x51f6ee60108cbcb3b613093bd3f224cb49aa1610",
       "symbol": "BRI",
       "logoURI": "https://assets.coingecko.com/coins/images/36508/thumb/icon-BRI-negative.png?1714119505",
-      "assetGroup": "BRI (Brightpool)",
-      "tags": ["coingecko"]
+      "assetGroup": "BRI (Brightpool)"
     },
     "0xd3188e0df68559c0b63361f6160c57ad88b239d8": {
       "chainId": 42161,
@@ -8552,8 +8550,7 @@
       "address": "0x7f7d7806f4eb90d63b0b278daf32a2db2c2001bd",
       "symbol": "BONUS",
       "logoURI": "https://assets.coingecko.com/coins/images/36364/thumb/Coingecko_logo.png?1711336118",
-      "assetGroup": "BONUS (BonusBlock)",
-      "tags": ["coingecko"]
+      "assetGroup": "BONUS (BonusBlock)"
     },
     "0x4c4b907bd5c38d14a084aac4f511a9b46f7ec429": {
       "chainId": 42161,
@@ -12033,7 +12030,8 @@
       "address": "0xf4acde4d938844751f34659c67056f7e69dbe85a",
       "symbol": "CLUTCH",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/CLUTCH.png",
-      "assetGroup": "CLUTCH (Clutch)"
+      "assetGroup": "CLUTCH (Clutch)",
+      "tags": ["coingecko"]
     },
     "0x46777c76dbbe40fabb2aab99e33ce20058e76c59": {
       "chainId": 42161,
@@ -12064,6 +12062,150 @@
       "logoURI": "https://assets.coingecko.com/coins/images/53964/thumb/sfrxUSD.png?1737792232",
       "assetGroup": "SFRXUSD (Staked Frax USD)",
       "tags": ["coingecko"]
+    },
+    "0x3afed8bd3310d1a43d4a01b1571939fc9c1e6f8f": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "Redacted",
+      "address": "0x3afed8bd3310d1a43d4a01b1571939fc9c1e6f8f",
+      "symbol": "BTRFLY",
+      "logoURI": "https://assets.coingecko.com/coins/images/26745/large/redacted_v2.jpg?1660011507",
+      "assetGroup": "BTRFLY (Redacted)"
+    },
+    "0xb268607f31386975a89d44499f461bc58b4fb131": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "Chain Guardians",
+      "address": "0xb268607f31386975a89d44499f461bc58b4fb131",
+      "symbol": "CGG",
+      "logoURI": "https://assets.coingecko.com/coins/images/14326/large/cgg_logo.png?1615429976",
+      "assetGroup": "CGG"
+    },
+    "0xf93c36e14436a188cf9ca145e59007bb2910f4fa": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "DogeGF",
+      "address": "0xf93c36e14436a188cf9ca145e59007bb2910f4fa",
+      "symbol": "DOGEGF",
+      "logoURI": "https://assets.coingecko.com/coins/images/18651/large/dogf.png?1632758659",
+      "assetGroup": "DOGEGF (DogeGF)"
+    },
+    "0x2f26337576127efabeec1f62be79db1bca9148a4": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "Gearbox",
+      "address": "0x2f26337576127efabeec1f62be79db1bca9148a4",
+      "symbol": "GEAR",
+      "logoURI": "https://assets.coingecko.com/coins/images/21630/large/gear.png?1640330291",
+      "assetGroup": "GEAR (Gearbox)"
+    },
+    "0xe45801db88a2d7bf418ee892ee8f79eaa0613b04": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "Gelato",
+      "address": "0xe45801db88a2d7bf418ee892ee8f79eaa0613b04",
+      "symbol": "GEL",
+      "logoURI": "https://assets.coingecko.com/coins/images/15026/large/Gelato_Icon_Logo_1024x1024.png?1619491717",
+      "assetGroup": "GEL (Gelato)"
+    },
+    "0x90e266b0a74fcb02f62c60482ca3a60885139cb5": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "Hotbit",
+      "address": "0x90e266b0a74fcb02f62c60482ca3a60885139cb5",
+      "symbol": "HTB",
+      "logoURI": "https://assets.coingecko.com/coins/images/5990/large/hotbit-token.png?1547041932",
+      "assetGroup": "HTB"
+    },
+    "0xfd50237e40a287d8ef1cd4552980dd198d2c2678": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "Darwinia Commitment",
+      "address": "0xfd50237e40a287d8ef1cd4552980dd198d2c2678",
+      "symbol": "KTON",
+      "logoURI": "https://assets.coingecko.com/coins/images/11895/large/KTON.png?1615271813",
+      "assetGroup": "KTON (Darwinia Commitment)"
+    },
+    "0x3926af74eec4947a755266492d2c848924c93322": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "Launchpool",
+      "address": "0x3926af74eec4947a755266492d2c848924c93322",
+      "symbol": "LPOOL",
+      "logoURI": "https://assets.coingecko.com/coins/images/14041/large/dGUvV0HQ_400x400.jpg?1613976219",
+      "assetGroup": "LPOOL"
+    },
+    "0x1fa56414549bdccbb09916f61f0a5827f779a85c": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "Moon DAO",
+      "address": "0x1fa56414549bdccbb09916f61f0a5827f779a85c",
+      "symbol": "MOONEY",
+      "logoURI": "https://assets.coingecko.com/coins/images/22905/large/cVWTHdA.png?1645690722",
+      "assetGroup": "MOONEY (Moon DAO)"
+    },
+    "0xbc9b77aca82f6be43927076d71cd453b625165b8": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "Polychain Monsters",
+      "address": "0xbc9b77aca82f6be43927076d71cd453b625165b8",
+      "symbol": "PMON",
+      "logoURI": "https://assets.coingecko.com/coins/images/14604/large/polkamon.png?1617238350",
+      "assetGroup": "PMON"
+    },
+    "0x9aef5d778a7bfcd469e997adcda5629d9439c917": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "Polkamarkets",
+      "address": "0x9aef5d778a7bfcd469e997adcda5629d9439c917",
+      "symbol": "POLK",
+      "logoURI": "https://assets.coingecko.com/coins/images/14084/large/polkamarkets.jpg?1614179979",
+      "assetGroup": "POLK (Polkamarkets)"
+    },
+    "0xf69a9007dfb1907e71f949b2349963c93f1e0233": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "SharedStake Governance v2",
+      "address": "0xf69a9007dfb1907e71f949b2349963c93f1e0233",
+      "symbol": "SGTV2",
+      "logoURI": "https://assets.coingecko.com/coins/images/13948/large/sgt-png.png?1615189100",
+      "assetGroup": "SGTV2 (SharedStake Governance v2)"
+    },
+    "0x9d0bfe46891573c12021942c7d28f15ebb641988": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "SparkPoint",
+      "address": "0x9d0bfe46891573c12021942c7d28f15ebb641988",
+      "symbol": "SRK",
+      "logoURI": "https://assets.coingecko.com/coins/images/8371/large/SRK.png?1614675526",
+      "assetGroup": "SRK (SparkPoint)"
+    },
+    "0x425ac12bb19070901c0cde873fc5299cbd7f23d4": {
+      "chainId": 42161,
+      "decimals": 9,
+      "name": "Toncoin",
+      "address": "0x425ac12bb19070901c0cde873fc5299cbd7f23d4",
+      "symbol": "TON",
+      "logoURI": "https://assets.coingecko.com/coins/images/17980/large/ton_symbol.png?1670498136",
+      "assetGroup": "TON"
+    },
+    "0x8adc0e96198d8418f059a26d39d6a2233bdbcd4a": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "Tornado Cash",
+      "address": "0x8adc0e96198d8418f059a26d39d6a2233bdbcd4a",
+      "symbol": "TORN",
+      "logoURI": "https://assets.coingecko.com/coins/images/13496/large/ZINt8NSB_400x400.jpg?1609193407",
+      "assetGroup": "TORN"
+    },
+    "0xd269a0add23831603ceb1fc8192688b4148e4d5f": {
+      "chainId": 42161,
+      "decimals": 4,
+      "name": "WHALE",
+      "address": "0xd269a0add23831603ceb1fc8192688b4148e4d5f",
+      "symbol": "WHALE",
+      "logoURI": "https://assets.coingecko.com/coins/images/11797/large/WHALE.png?1595004706",
+      "assetGroup": "WHALE (WHALE)"
     }
   },
   "mainTokens": [
