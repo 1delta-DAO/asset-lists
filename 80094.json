@@ -198,7 +198,7 @@
       "address": "0xecac9c5f704e954931349da37f60e39f515c11c1",
       "symbol": "LBTC",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xecAc9C5F704e954931349Da37F60E39f515c11c1/logo.png",
-      "assetGroup": "LBTC (Lombard Staked BTC)"
+      "assetGroup": "LBTC"
     },
     "0xdcb3d91555385dae23e6b966b5626aa7a75be940": {
       "chainId": 80094,
@@ -392,6 +392,16 @@
       "symbol": "BBOT",
       "logoURI": "https://assets.coingecko.com/coins/images/54546/thumb/Berabot_Logo.png?1740220386",
       "assetGroup": "BBOT (Berabot)",
+      "tags": ["coingecko"]
+    },
+    "0x18878df23e2a36f81e820e4b47b4a40576d3159c": {
+      "chainId": 80094,
+      "decimals": 9,
+      "name": "Olympus",
+      "address": "0x18878df23e2a36f81e820e4b47b4a40576d3159c",
+      "symbol": "OHM",
+      "logoURI": "https://assets.coingecko.com/coins/images/14483/thumb/token_OHM_%281%29.png?1696514169",
+      "assetGroup": "OHM (Olympus)",
       "tags": ["coingecko"]
     }
   },

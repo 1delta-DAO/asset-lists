@@ -3719,8 +3719,7 @@
       "address": "0xf04d220b8136e2d3d4be08081dbb565c3c302ffd",
       "symbol": "FREYA",
       "logoURI": "https://assets.coingecko.com/coins/images/52325/thumb/FREYA_%281%29.png?1733079799",
-      "assetGroup": "FREYA (Freya by Virtuals)",
-      "tags": ["coingecko"]
+      "assetGroup": "FREYA (Freya by Virtuals)"
     },
     "0xc08cd26474722ce93f4d0c34d16201461c10aa8c": {
       "chainId": 8453,
@@ -4848,8 +4847,7 @@
       "address": "0xf64c15e068ade90794d8e0a8c614cafd7c9718d7",
       "symbol": "MTS",
       "logoURI": "https://assets.coingecko.com/coins/images/53761/thumb/_MTS.png?1737189967",
-      "assetGroup": "MTS (Metanopoly Tokenized Share)",
-      "tags": ["coingecko"]
+      "assetGroup": "MTS (Metanopoly Tokenized Share)"
     },
     "0x5d9c2457a10d455e0ad8e28e40cc28eacf27a06a": {
       "chainId": 8453,
@@ -6206,7 +6204,7 @@
       "address": "0x7fcd174e80f264448ebee8c88a7c4476aaf58ea6",
       "symbol": "wsuperOETHb",
       "logoURI": "https://assets.coingecko.com/coins/images/39829/thumb/Wrapped_Super_OETH.png?1724208632",
-      "assetGroup": "WSUPEROETHB (Wrapped Super OETH)",
+      "assetGroup": "WSUPEROETHB",
       "tags": ["coingecko"]
     },
     "0x543ba622733bc9a7bfadd1d07b6c35ae1f9659d9": {
@@ -8921,8 +8919,7 @@
       "address": "0x95017e6f16375e63e5cb4d3a5fbf3c40775b08f4",
       "symbol": "CATCH",
       "logoURI": "https://assets.coingecko.com/coins/images/38950/thumb/Catchcoin_logo.jpg?1719595926",
-      "assetGroup": "CATCH (Catchcoin)",
-      "tags": ["coingecko"]
+      "assetGroup": "CATCH (Catchcoin)"
     },
     "0x420b0fa3de2efcf2b2fd04152eb1df36a09717cd": {
       "chainId": 8453,
@@ -11350,7 +11347,7 @@
       "address": "0xecac9c5f704e954931349da37f60e39f515c11c1",
       "symbol": "LBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/39969/thumb/LBTC_Logo.png?1724959872",
-      "assetGroup": "LBTC (Lombard Staked BTC)",
+      "assetGroup": "LBTC",
       "tags": ["coingecko"]
     },
     "0x7f05a7a9af2f5a07d1e64877c8dc37a64a22508e": {
@@ -14898,6 +14895,96 @@
       "symbol": "NEUY",
       "logoURI": "https://assets.coingecko.com/coins/images/25870/thumb/logo200x200.png?1696524953",
       "assetGroup": "NEUY (NEUY)",
+      "tags": ["coingecko"]
+    },
+    "0x3c8cd0db9a01efa063a7760267b822a129bc7dca": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "FROC",
+      "address": "0x3c8cd0db9a01efa063a7760267b822a129bc7dca",
+      "symbol": "FROC",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/FROC.webp",
+      "assetGroup": "FROC (FROC)",
+      "tags": ["coingecko"]
+    },
+    "0xe8b46b116d3bdfa787ce9cf3f5acc78dc7ca380e": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "MarketVector Token Terminal Fundamental",
+      "address": "0xe8b46b116d3bdfa787ce9cf3f5acc78dc7ca380e",
+      "symbol": "MVTT10F",
+      "logoURI": "https://assets.coingecko.com/coins/images/54605/thumb/MV-logo.png?1740639926",
+      "assetGroup": "MVTT10F (MarketVector Token Terminal Fundamental)",
+      "tags": ["coingecko"]
+    },
+    "0xa344b6bcf28750fff890a5660b5d3ec8fd1079ea": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "EPAY",
+      "address": "0xa344b6bcf28750fff890a5660b5d3ec8fd1079ea",
+      "symbol": "EPAY",
+      "logoURI": "https://assets.coingecko.com/coins/images/54599/thumb/11111.png?1740637069",
+      "assetGroup": "EPAY (EPAY)",
+      "tags": ["coingecko"]
+    },
+    "0xc23e4352cdba6fc951398bf274619c4529eac867": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Terrace",
+      "address": "0xc23e4352cdba6fc951398bf274619c4529eac867",
+      "symbol": "TRC",
+      "logoURI": "https://assets.coingecko.com/coins/images/54577/thumb/200x200TerraceIcon.jpg?1740496502",
+      "assetGroup": "TRC (Terrace)",
+      "tags": ["coingecko"]
+    },
+    "0xd600e748c17ca237fcb5967fa13d688aff17be78": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "MarketVector Digital Assets 25 Index",
+      "address": "0xd600e748c17ca237fcb5967fa13d688aff17be78",
+      "symbol": "MVDA25",
+      "logoURI": "https://assets.coingecko.com/coins/images/54600/thumb/MV-logo.png?1740638035",
+      "assetGroup": "MVDA25 (MarketVector Digital Assets 25 Index)",
+      "tags": ["coingecko"]
+    },
+    "0xdfbe977fcb971d3c8b06e1b5cb416ea3d84fa6c2": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "MeFI",
+      "address": "0xdfbe977fcb971d3c8b06e1b5cb416ea3d84fa6c2",
+      "symbol": "MEFI",
+      "logoURI": "https://assets.coingecko.com/coins/images/53761/thumb/_MTS.png?1737189967",
+      "assetGroup": "MEFI (MeFI)",
+      "tags": ["coingecko"]
+    },
+    "0x23418de10d422ad71c9d5713a2b8991a9c586443": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Bloomberg Galaxy Crypto Index",
+      "address": "0x23418de10d422ad71c9d5713a2b8991a9c586443",
+      "symbol": "BGCI",
+      "logoURI": "https://assets.coingecko.com/coins/images/54578/thumb/images_%282%29.png?1740538343",
+      "assetGroup": "BGCI (Bloomberg Galaxy Crypto Index)",
+      "tags": ["coingecko"]
+    },
+    "0xa7e4509dcb46a67e73c18fe0d11dd9a337e52ac0": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Frencoin",
+      "address": "0xa7e4509dcb46a67e73c18fe0d11dd9a337e52ac0",
+      "symbol": "FREN",
+      "logoURI": "https://assets.coingecko.com/coins/images/54601/thumb/Coin_%282%29.png?1740638073",
+      "assetGroup": "FREN (Frencoin)",
+      "tags": ["coingecko"]
+    },
+    "0x624e2e7fdc8903165f64891672267ab0fcb98831": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "SoSoValue",
+      "address": "0x624e2e7fdc8903165f64891672267ab0fcb98831",
+      "symbol": "SOSO",
+      "logoURI": "https://assets.coingecko.com/coins/images/53919/thumb/soso.jpg?1737717378",
+      "assetGroup": "SOSO (SoSoValue)",
       "tags": ["coingecko"]
     }
   },
