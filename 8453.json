@@ -12740,12 +12740,11 @@
     "0x0a27e060c0406f8ab7b64e3bee036a37e5a62853": {
       "chainId": 8453,
       "decimals": 18,
-      "name": "ZAI Stablecoin",
+      "name": "ZAI Stablecoin (legacy)",
       "address": "0x0a27e060c0406f8ab7b64e3bee036a37e5a62853",
-      "symbol": "ZAI",
+      "symbol": "xUSDz",
       "logoURI": "https://assets.coingecko.com/coins/images/39733/thumb/Group_4.png?1723771588",
-      "assetGroup": "ZAI",
-      "tags": ["coingecko"]
+      "assetGroup": "xUSDz"
     },
     "0xa9f5031b54c44c3603b4300fde9b8f5cd18ad06f": {
       "chainId": 8453,
@@ -14986,6 +14985,76 @@
       "logoURI": "https://assets.coingecko.com/coins/images/53919/thumb/soso.jpg?1737717378",
       "assetGroup": "SOSO (SoSoValue)",
       "tags": ["coingecko"]
+    },
+    "0x1097dfe9539350cb466df9ca89a5e61195a520b0": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Staked xUSDz/USDC Pool ",
+      "address": "0x1097dfe9539350cb466df9ca89a5e61195a520b0",
+      "symbol": "sUSDZUSDC",
+      "assetGroup": "sUSDZUSDC (Staked xUSDz/USDC Pool)"
+    },
+    "0xdbfefd2e8460a6ee4955a68582f85708baea60a3": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Super OETH",
+      "address": "0xdbfefd2e8460a6ee4955a68582f85708baea60a3",
+      "symbol": "superOETHb",
+      "logoURI": "https://basescan.org/token/images/superoeth_base_32.png",
+      "assetGroup": "superOETHb (Super OETH)"
+    },
+    "0xf469fbd2abcd6b9de8e169d128226c0fc90a012e": {
+      "chainId": 8453,
+      "decimals": 8,
+      "name": "pumpBTC",
+      "address": "0xf469fbd2abcd6b9de8e169d128226c0fc90a012e",
+      "symbol": "pumpBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/39232/thumb/200pxPumpBTCLogo.png?1721227861",
+      "assetGroup": "PUMPBTC (pumpBTC)"
+    },
+    "0xe46c8ba948f8071b425a1f7ba45c0a65cbacea2e": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "PT Coinbase Wrapped Staked ETH 25DEC2025",
+      "address": "0xe46c8ba948f8071b425a1f7ba45c0a65cbacea2e",
+      "symbol": "PT-cbETH-25DEC2025",
+      "logoURI": "https://basescan.org/token/images/ptcbeth_32.svg",
+      "assetGroup": "PT-cbETH-25DEC2025 (PT Coinbase Wrapped Staked ETH 25DEC2025)"
+    },
+    "0x5d746848005507da0b1717c137a10c30ad9ee307": {
+      "chainId": 8453,
+      "decimals": 8,
+      "name": "PT Lombard LBTC 29MAY2025",
+      "address": "0x5d746848005507da0b1717c137a10c30ad9ee307",
+      "symbol": "PT-LBTC-29MAY2025",
+      "logoURI": "https://basescan.org/token/images/ptlbtc_32.svg",
+      "assetGroup": "PT-LBTC-29MAY2025 (PT Lombard LBTC 29MAY2025)"
+    },
+    "0x69000dfd5025e82f48eb28325a2b88a241182ced": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "ZAI Stablecoin",
+      "address": "0x69000dfd5025e82f48eb28325a2b88a241182ced",
+      "symbol": "ZAI",
+      "logoURI": "https://basescan.org/token/images/mahazaistablecoin_32.png",
+      "assetGroup": "ZAI (ZAI Stablecoin)"
+    },
+    "0x35e5db674d8e93a03d814fa0ada70731efe8a4b9": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Resolv USD",
+      "address": "0x35e5db674d8e93a03d814fa0ada70731efe8a4b9",
+      "symbol": "USR",
+      "logoURI": "https://zerolend.github.io/token-lists/src/tokens/usr.svg",
+      "assetGroup": "USR (Resolv USD)"
+    },
+    "0x6cdcb1c4a4d1c3c6d054b27ac5b77e89eafb971d": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Volatile AMM - USDC/AERO",
+      "address": "0x6cdcb1c4a4d1c3c6d054b27ac5b77e89eafb971d",
+      "symbol": "vAMM-USDC/AERO",
+      "assetGroup": "vAMM-USDC/AERO (Volatile AMM - USDC/AERO)"
     }
   },
   "mainTokens": [
@@ -15014,6 +15083,8 @@
     "0x6b4712ae9797c199edd44f897ca09bc57628a1cf",
     "0x0a074378461fb7ed3300ea638c6cc38246db4434",
     "0xb88a5ac00917a02d82c7cd6cebd73e2852d43574",
+    "0xf469fbd2abcd6b9de8e169d128226c0fc90a012e",
+    "0xdbfefd2e8460a6ee4955a68582f85708baea60a3",
     "0xb79dd08ea68a908a97220c76d19a6aa9cbde4376",
     "0x65a2508c429a6078a7bc2f7df81ab575bd9d9275",
     "0x4788de271f50ea6f5d5d2a5072b8d3c61d650326",
