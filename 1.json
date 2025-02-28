@@ -52919,7 +52919,7 @@
       "address": "0xf469fbd2abcd6b9de8e169d128226c0fc90a012e",
       "symbol": "pumpBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/39232/thumb/200pxPumpBTCLogo.png?1721227861",
-      "assetGroup": "PUMPBTC (pumpBTC)",
+      "assetGroup": "pumpBTC (pumpBTC)",
       "tags": ["coingecko"]
     },
     "0x9deb0fc809955b79c85e82918e8586d3b7d2695a": {
@@ -58189,6 +58189,16 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54592/thumb/mmev_logo.png?1740565795",
       "assetGroup": "MMEV (Midas mMEV)",
       "tags": ["coingecko"]
+    },
+    "0x81db1949d0e888557bc632f7c0f6698b1f8c9106": {
+      "chainId": 1,
+      "decimals": 9,
+      "name": "d acc",
+      "address": "0x81db1949d0e888557bc632f7c0f6698b1f8c9106",
+      "symbol": "D/ACC",
+      "logoURI": "https://assets.coingecko.com/coins/images/33313/thumb/dddd.png?1701412963",
+      "assetGroup": "D/ACC (d acc)",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -58503,7 +58513,8 @@
     "0x9d1089802ee608ba84c5c98211afe5f37f96b36c",
     "0x25ec98773d7b4ced4cafab96a2a1c0945f145e10",
     "0x25b24b3c47918b7962b3e49c4f468367f73cc0e0",
-    "0x85f138bfee4ef8e540890cfb48f620571d67eda3"
+    "0x85f138bfee4ef8e540890cfb48f620571d67eda3",
+    "0xd50b9bbf136d1bd5cd5ac6ed9b3f26c458a6d4a6"
   ],
   "bridgeTokens": [
     "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
@@ -58564,6 +58575,7 @@
     "0x9d1089802ee608ba84c5c98211afe5f37f96b36c",
     "0x25ec98773d7b4ced4cafab96a2a1c0945f145e10",
     "0x25b24b3c47918b7962b3e49c4f468367f73cc0e0",
-    "0x85f138bfee4ef8e540890cfb48f620571d67eda3"
+    "0x85f138bfee4ef8e540890cfb48f620571d67eda3",
+    "0xd50b9bbf136d1bd5cd5ac6ed9b3f26c458a6d4a6"
   ]
 }

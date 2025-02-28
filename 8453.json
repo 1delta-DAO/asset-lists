@@ -12744,7 +12744,8 @@
       "address": "0x0a27e060c0406f8ab7b64e3bee036a37e5a62853",
       "symbol": "xUSDz",
       "logoURI": "https://assets.coingecko.com/coins/images/39733/thumb/Group_4.png?1723771588",
-      "assetGroup": "xUSDz"
+      "assetGroup": "xUSDz (ZAI Stablecoin (legacy))",
+      "tags": ["coingecko"]
     },
     "0xa9f5031b54c44c3603b4300fde9b8f5cd18ad06f": {
       "chainId": 8453,
@@ -14036,11 +14037,11 @@
     "0x1c61629598e4a901136a81bc138e5828dc150d67": {
       "chainId": 8453,
       "decimals": 9,
-      "name": "Wormhole Bridged Wrapped SOL  Base ",
+      "name": "Wormhole Bridged Wrapped SOL",
       "address": "0x1c61629598e4a901136a81bc138e5828dc150d67",
       "symbol": "WSOL",
       "logoURI": "https://assets.coingecko.com/coins/images/54252/thumb/solana.jpg?1738911214",
-      "assetGroup": "WSOL (Wormhole Bridged Wrapped SOL  Base )",
+      "assetGroup": "WSOL (Wormhole Bridged Wrapped SOL)",
       "tags": ["wormhole", "bridged", "coingecko"]
     },
     "0x6967f0974d76d34e140cae27efea32cdf546b58e": {
@@ -14992,7 +14993,7 @@
       "name": "Staked xUSDz/USDC Pool ",
       "address": "0x1097dfe9539350cb466df9ca89a5e61195a520b0",
       "symbol": "sUSDZUSDC",
-      "assetGroup": "sUSDZUSDC (Staked xUSDz/USDC Pool)"
+      "assetGroup": "sUSDZUSDC (Staked xUSDz/USDC Pool )"
     },
     "0xdbfefd2e8460a6ee4955a68582f85708baea60a3": {
       "chainId": 8453,
@@ -15010,7 +15011,7 @@
       "address": "0xf469fbd2abcd6b9de8e169d128226c0fc90a012e",
       "symbol": "pumpBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/39232/thumb/200pxPumpBTCLogo.png?1721227861",
-      "assetGroup": "PUMPBTC (pumpBTC)"
+      "assetGroup": "pumpBTC (pumpBTC)"
     },
     "0xe46c8ba948f8071b425a1f7ba45c0a65cbacea2e": {
       "chainId": 8453,
@@ -15037,7 +15038,7 @@
       "address": "0x69000dfd5025e82f48eb28325a2b88a241182ced",
       "symbol": "ZAI",
       "logoURI": "https://basescan.org/token/images/mahazaistablecoin_32.png",
-      "assetGroup": "ZAI (ZAI Stablecoin)"
+      "assetGroup": "ZAI"
     },
     "0x35e5db674d8e93a03d814fa0ada70731efe8a4b9": {
       "chainId": 8453,
@@ -15125,7 +15126,8 @@
     "0xdb90a4e973b7663ce0ccc32b6fbd37ffb19bfa83",
     "0xa900a17a49bc4d442ba7f72c39fa2108865671f0",
     "0xecc68d0451e20292406967fe7c04280e5238ac7d",
-    "0x26d3c0d9f4cc4c130097b6afdebe4f5e497e6bdf"
+    "0x26d3c0d9f4cc4c130097b6afdebe4f5e497e6bdf",
+    "0x1097dfe9539350cb466df9ca89a5e61195a520b0"
   ],
   "bridgeTokens": [
     "0x4200000000000000000000000000000000000006",
