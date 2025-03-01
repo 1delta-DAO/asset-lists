@@ -15056,6 +15056,123 @@
       "address": "0x6cdcb1c4a4d1c3c6d054b27ac5b77e89eafb971d",
       "symbol": "vAMM-USDC/AERO",
       "assetGroup": "vAMM-USDC/AERO (Volatile AMM - USDC/AERO)"
+    },
+    "0x0000206329b97db379d5e1bf586bbdb969c63274": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "USDA",
+      "address": "0x0000206329b97db379d5e1bf586bbdb969c63274",
+      "symbol": "USDA",
+      "logoURI": "https://dynamic-assets.coinbase.com/68452cec7f8ca62c70489d21c945eba95432cf57d651984399d5e3dbeb0a2f694e333a67b01c28f6a4086df69643e42095de3aa073e52c7d61a6060a58119ef9/asset_icons/4a11e823872a4b420ca9e8463d09c075efd90082cb4394d08840704986231d96.png",
+      "assetGroup": "USR (USDA)"
+    },
+    "0xfdf73f61146b9050ffe4b755364b9cac670ea5b2": {
+      "chainId": 8453,
+      "decimals": 6,
+      "name": "WrappedWrappedFUSDC",
+      "address": "0xfdf73f61146b9050ffe4b755364b9cac670ea5b2",
+      "symbol": "WWFUSDC",
+      "assetGroup": "WWFUSDC (WrappedWrappedFUSDC)"
+    },
+    "0x2c28ac6aa2f17e8dfa3e2561338c6357ead53c32": {
+      "chainId": 8453,
+      "decimals": 6,
+      "name": "Fake USDC",
+      "address": "0x2c28ac6aa2f17e8dfa3e2561338c6357ead53c32",
+      "symbol": "FUSDC",
+      "assetGroup": "FUSDC (Fake USDC)"
+    },
+    "0xc484d83f667b779cc9907248101214235642258b": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Apostro Resolv USR",
+      "address": "0xc484d83f667b779cc9907248101214235642258b",
+      "symbol": "aprUSR",
+      "assetGroup": "aprUSR (Apostro Resolv USR)"
+    },
+    "0xa61beb4a3d02decb01039e378237032b351125b4": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "agEUR",
+      "address": "0xa61beb4a3d02decb01039e378237032b351125b4",
+      "symbol": "agEUR",
+      "logoURI": "https://basescan.org/token/images/ageur_32.png",
+      "assetGroup": "agEUR (agEUR)"
+    },
+    "0x004626a008b1acdc4c74ab51644093b155e59a23": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Staked agEUR",
+      "address": "0x004626a008b1acdc4c74ab51644093b155e59a23",
+      "symbol": "stEUR",
+      "logoURI": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fcoin-images.coingecko.com%2Fcoins%2Fimages%2F32036%2Flarge%2FstEUR-x4.png%3F1696530832&w=32&q=75",
+      "assetGroup": "stEUR (Staked agEUR)"
+    },
+    "0xd73f8115cac5b6817dcc143f3797a2dc3650181b": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Num Yield Bearing nTST",
+      "address": "0xd73f8115cac5b6817dcc143f3797a2dc3650181b",
+      "symbol": "snTST",
+      "assetGroup": "snTST (Num Yield Bearing nTST)"
+    },
+    "0xec7de4956a4569c2a1d171e4dd115a611c8e9ee5": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "ntUSDC",
+      "address": "0xec7de4956a4569c2a1d171e4dd115a611c8e9ee5",
+      "symbol": "ntUSDC",
+      "assetGroup": "ntUSDC (ntUSDC)"
+    },
+    "0x7ba6f01772924a82d9626c126347a28299e98c98": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Metronome Synth ETH",
+      "address": "0x7ba6f01772924a82d9626c126347a28299e98c98",
+      "symbol": "msETH",
+      "logoURI": "https://cdn.morpho.org/assets/logos/mseth.svg",
+      "assetGroup": "msETH (Metronome Synth ETH)"
+    },
+    "0xce827d203dc317cb8823098dcbe88fd3ae447482": {
+      "chainId": 8453,
+      "decimals": 0,
+      "name": "Wrapped 158 Nelson St",
+      "address": "0xce827d203dc317cb8823098dcbe88fd3ae447482",
+      "symbol": "WXRWA1",
+      "logoURI": "https://basescan.org/token/images/0xequity_32.png",
+      "assetGroup": "WXRWA1 (Wrapped 158 Nelson St)"
+    },
+    "0x59aaf835d34b1e3df2170e4872b785f11e2a964b": {
+      "chainId": 8453,
+      "decimals": 6,
+      "name": "Verified USDC",
+      "address": "0x59aaf835d34b1e3df2170e4872b785f11e2a964b",
+      "symbol": "verUSDC",
+      "assetGroup": "verUSDC (Verified USDC)"
+    },
+    "0xec443e7e0e745348e500084892c89218b3ba4683": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "PT Resolv USD 24APR2025",
+      "address": "0xec443e7e0e745348e500084892c89218b3ba4683",
+      "symbol": "PT-USR-24APR2025",
+      "assetGroup": "PT-USR-24APR2025 (PT Resolv USD 24APR2025)"
+    },
+    "0x9a52fcd13fb9927d884b7eae826697c0aa0659cc": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Wrapped Staked xUSDz/USDC Pool",
+      "address": "0x9a52fcd13fb9927d884b7eae826697c0aa0659cc",
+      "symbol": "RLP",
+      "assetGroup": "wsUSDZUSDC (Wrapped Staked xUSDz/USDC Pool)"
+    },
+    "0xc31389794ffac23331e0d9f611b7953f90aa5fdc": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Resolv Liquidity Provider Token",
+      "address": "0xc31389794ffac23331e0d9f611b7953f90aa5fdc",
+      "symbol": "wsUSDZUSDC",
+      "assetGroup": "RLP (Resolv Liquidity Provider Token)"
     }
   },
   "mainTokens": [
