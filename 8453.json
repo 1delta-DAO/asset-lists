@@ -15163,7 +15163,7 @@
       "decimals": 18,
       "name": "Wrapped Staked xUSDz/USDC Pool",
       "address": "0x9a52fcd13fb9927d884b7eae826697c0aa0659cc",
-      "symbol": "RLP",
+      "symbol": "wsUSDZUSDC",
       "assetGroup": "wsUSDZUSDC (Wrapped Staked xUSDz/USDC Pool)"
     },
     "0xc31389794ffac23331e0d9f611b7953f90aa5fdc": {
@@ -15171,8 +15171,26 @@
       "decimals": 18,
       "name": "Resolv Liquidity Provider Token",
       "address": "0xc31389794ffac23331e0d9f611b7953f90aa5fdc",
-      "symbol": "wsUSDZUSDC",
+      "symbol": "RLP",
       "assetGroup": "RLP (Resolv Liquidity Provider Token)"
+    },
+    "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Staked USDe",
+      "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+      "symbol": "sUSDe",
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2/logo.png",
+      "assetGroup": "SUSDE",
+      "tags": ["mantlelist"]
+    },
+    "0x6d2b49608a716e30bc7abcfe00181bf261bf6fc5": {
+      "chainId": 8453,
+      "decimals": 6,
+      "name": "Anemoy Liquid Treasury Fund 1",
+      "address": "0x6d2b49608a716e30bc7abcfe00181bf261bf6fc5",
+      "symbol": "LTF",
+      "assetGroup": "LTF (Anemoy Liquid Treasury Fund 1)"
     }
   },
   "mainTokens": [
