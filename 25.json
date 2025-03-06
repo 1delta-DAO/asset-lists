@@ -828,8 +828,7 @@
       "address": "0xf307a39752da29b1c1e45c2c1476976eab272686",
       "symbol": "STONKS",
       "logoURI": "https://assets.coingecko.com/coins/images/37879/thumb/STONKS.png?1715839646",
-      "assetGroup": "STONKS (STONKS)",
-      "tags": ["coingecko"]
+      "assetGroup": "STONKS (STONKS)"
     },
     "0xdcc261c03cd2f33ebea404318cdc1d9f8b78e1ad": {
       "chainId": 25,
@@ -1227,6 +1226,26 @@
       "symbol": "BUSD",
       "assetGroup": "BUSD",
       "tags": ["bridged", "coingecko"]
+    },
+    "0x9d8c68f185a04314ddc8b8216732455e8dbb7e45": {
+      "chainId": 25,
+      "decimals": 18,
+      "name": "Loaded Lions",
+      "address": "0x9d8c68f185a04314ddc8b8216732455e8dbb7e45",
+      "symbol": "LION",
+      "logoURI": "https://assets.coingecko.com/coins/images/54686/thumb/_LION_Token_Artwork.png?1741015702",
+      "assetGroup": "LION (Loaded Lions)",
+      "tags": ["coingecko"]
+    },
+    "0xd2ee4bd0d1be7e84160dc459006f6e0970f8313c": {
+      "chainId": 25,
+      "decimals": 18,
+      "name": "H2 Finance",
+      "address": "0xd2ee4bd0d1be7e84160dc459006f6e0970f8313c",
+      "symbol": "H2",
+      "logoURI": "https://assets.coingecko.com/coins/images/39766/thumb/H2_Finance.png?1724018149",
+      "assetGroup": "H2 (H2 Finance)",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [

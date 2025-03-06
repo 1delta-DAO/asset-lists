@@ -199,8 +199,7 @@
       "address": "0xfdf91d8289e30bbf9a34fb3e0246fd98d1914c2f",
       "symbol": "DCKUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/39966/thumb/dackie_usd_circle.png?1734941381",
-      "assetGroup": "DCKUSD (Dackie USD)",
-      "tags": ["coingecko"]
+      "assetGroup": "DCKUSD (Dackie USD)"
     },
     "0x80137510979822322193fc997d400d5a6c747bf7": {
       "chainId": 34443,
@@ -340,6 +339,36 @@
       "symbol": "SDUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/37909/thumb/image_%281%29.png?1715934988",
       "assetGroup": "SDUSD (Davos Protocol Staked DUSD)",
+      "tags": ["coingecko"]
+    },
+    "0xcfd1d50ce23c46d3cf6407487b2f8934e96dc8f9": {
+      "chainId": 34443,
+      "decimals": 18,
+      "name": "Autonolas",
+      "address": "0xcfd1d50ce23c46d3cf6407487b2f8934e96dc8f9",
+      "symbol": "OLAS",
+      "logoURI": "https://assets.coingecko.com/coins/images/31099/thumb/OLAS-token.png?1696529930",
+      "assetGroup": "OLAS (Autonolas)",
+      "tags": ["coingecko"]
+    },
+    "0x5bff88ca1442c2496f7e475e9e7786383bc070c0": {
+      "chainId": 34443,
+      "decimals": 18,
+      "name": "Staked Frax USD",
+      "address": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
+      "symbol": "SFRXUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/53964/thumb/sfrxUSD.png?1737792232",
+      "assetGroup": "SFRXUSD (Staked Frax USD)",
+      "tags": ["coingecko"]
+    },
+    "0x541fd749419ca806a8bc7da8ac23d346f2df8b77": {
+      "chainId": 34443,
+      "decimals": 18,
+      "name": "Solv Protocol SolvBTC",
+      "address": "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
+      "symbol": "SOLVBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/36800/thumb/solvBTC.png?1719810684",
+      "assetGroup": "SOLVBTC",
       "tags": ["coingecko"]
     }
   },

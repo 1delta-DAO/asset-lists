@@ -2599,7 +2599,7 @@
       "symbol": "VSO",
       "logoURI": "https://assets.coingecko.com/coins/images/15169/thumb/versa.PNG?1696514824",
       "assetGroup": "VSO (Verso)",
-      "tags": ["openocean", "coingecko"]
+      "tags": ["openocean"]
     },
     "0xb2a85c5ecea99187a977ac34303b80acbddfa208": {
       "chainId": 43114,
@@ -3234,8 +3234,7 @@
       "address": "0x33494c24d904b87b94a1cc9870d966780d56093c",
       "symbol": "KANA",
       "logoURI": "https://assets.coingecko.com/coins/images/17981/thumb/koa.PNG?1696517499",
-      "assetGroup": "KANA (Kanaloa Network)",
-      "tags": ["coingecko"]
+      "assetGroup": "KANA (Kanaloa Network)"
     },
     "0x2f5de51823e514de04475ba8db1eeba5b244ba84": {
       "chainId": 43114,
@@ -3274,8 +3273,7 @@
       "address": "0xad17cd0a550ef4ecbb73789626dec1326520b96d",
       "symbol": "NICK",
       "logoURI": "https://assets.coingecko.com/coins/images/34169/thumb/_NICK_N_WHITE_TRANSPARENT_BKGD_200x200.png?1704217386",
-      "assetGroup": "NICK (Hard Frog Nick)",
-      "tags": ["coingecko"]
+      "assetGroup": "NICK (Hard Frog Nick)"
     },
     "0x5085434227ab73151fad2de546210cbc8663df96": {
       "chainId": 43114,
@@ -5209,7 +5207,46 @@
       "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
       "symbol": "FRXUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154",
-      "assetGroup": "FRXUSD (Frax USD)",
+      "assetGroup": "FRXUSD (Frax USD)"
+    },
+    "0x08c4b51e6ca9eb89c255f0a5ab8afd721420e447": {
+      "chainId": 43114,
+      "decimals": 18,
+      "name": "Stargate Bridged Pearl  Avalanche ",
+      "address": "0x08c4b51e6ca9eb89c255f0a5ab8afd721420e447",
+      "symbol": "PEARL",
+      "logoURI": "https://assets.coingecko.com/coins/images/54681/thumb/pearl.jpg?1740987269",
+      "assetGroup": "PEARL (Stargate Bridged Pearl  Avalanche )",
+      "tags": ["stargate", "bridged", "coingecko"]
+    },
+    "0x0f669808d88b2b0b3d23214dcd2a1cc6a8b1b5cd": {
+      "chainId": 43114,
+      "decimals": 18,
+      "name": "Blub",
+      "address": "0x0f669808d88b2b0b3d23214dcd2a1cc6a8b1b5cd",
+      "symbol": "BLUB",
+      "logoURI": "https://assets.coingecko.com/coins/images/54739/thumb/u_5C-c5m_400x400.jpg?1741278200",
+      "assetGroup": "BLUB (Blub)",
+      "tags": ["coingecko"]
+    },
+    "0xad4cb79293322c07973ee83aed5df66a53214dc6": {
+      "chainId": 43114,
+      "decimals": 18,
+      "name": "Stargate Bridged Shell  Avalanche ",
+      "address": "0xad4cb79293322c07973ee83aed5df66a53214dc6",
+      "symbol": "SHELL",
+      "logoURI": "https://assets.coingecko.com/coins/images/54682/thumb/shell.jpg?1740987456",
+      "assetGroup": "SHELL (Stargate Bridged Shell  Avalanche )",
+      "tags": ["stargate", "bridged", "coingecko"]
+    },
+    "0xfec5906e8470ea7e2a2242b314a35f4ff42b19e1": {
+      "chainId": 43114,
+      "decimals": 18,
+      "name": "Lamina1",
+      "address": "0xfec5906e8470ea7e2a2242b314a35f4ff42b19e1",
+      "symbol": "L1",
+      "logoURI": "https://assets.coingecko.com/coins/images/52023/thumb/L1-symbol-200x200.png?1732353782",
+      "assetGroup": "L1 (Lamina1)",
       "tags": ["coingecko"]
     }
   },
