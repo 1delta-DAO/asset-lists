@@ -8,6 +8,7 @@
       "name": "Wrapped Ether",
       "address": "0x4200000000000000000000000000000000000006",
       "symbol": "WETH",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "assetGroup": "WETH"
     },
     "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa": {
@@ -17,6 +18,7 @@
       "address": "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa",
       "symbol": "USDC.e",
       "assetGroup": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdce.svg",
       "tags": ["stargate", "bridged"]
     },
     "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e": {
@@ -25,13 +27,47 @@
       "name": "Tether USD",
       "address": "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e",
       "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdt.png",
       "assetGroup": "USDT"
+    },
+    "0xaa40c0c7644e0b2b224509571e10ad20d9c4ef28": {
+      "chainId": 43111,
+      "decimals": 8,
+      "name": "Hemi Bitcoin",
+      "address": "0xaa40c0c7644e0b2b224509571e10ad20d9c4ef28",
+      "symbol": "hemiBTC",
+      "logoURI": "https://raw.githubusercontent.com/hemilabs/token-list/master/src/logos/hemibtc.svg"
+    },
+    "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3": {
+      "chainId": 43111,
+      "decimals": 8,
+      "name": "Wrapped BTC",
+      "address": "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
+      "symbol": "WBTC",
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2/logo.png"
+    },
+    "0x93919784c523f39cacaa98ee0a9d96c3f32b593e": {
+      "chainId": 43111,
+      "decimals": 8,
+      "name": "brBTC",
+      "address": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
+      "symbol": "brBTC"
+    },
+    "0x6a9a65b84843f5fd4ac9a0471c4fc11afffbce4a": {
+      "chainId": 43111,
+      "decimals": 8,
+      "name": "Lorenzo Wrapped Bitcoin",
+      "address": "0x6a9a65b84843f5fd4ac9a0471c4fc11afffbce4a",
+      "symbol": "enzoBTC",
+      "logoURI": "https://images.dodoex.io/X1B1iHAvXAuHar8VBt_U476tCJvXBp8UTZYg-6UZFzs/rs:fit:24:24:0/g:no/aHR0cHM6Ly90b2tlbi1pbWcuZG9kb2V4LmlvLzE2NzAwMC8weDZhOWE2NWI4NDg0M2Y1ZmQ0YWM5YTA0NzFjNGZjMTFhZmZmYmNlNGE.webp"
     }
   },
   "mainTokens": [
     "0x4200000000000000000000000000000000000006",
     "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa",
-    "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e"
+    "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e",
+    "0xaa40c0c7644e0b2b224509571e10ad20d9c4ef28",
+    "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3"
   ],
   "bridgeTokens": [
     "0x4200000000000000000000000000000000000006",
