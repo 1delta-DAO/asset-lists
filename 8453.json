@@ -2700,8 +2700,7 @@
       "address": "0x639c0d019c257966c4907bd4e68e3f349bb58109",
       "symbol": "QUACK",
       "logoURI": "https://assets.coingecko.com/coins/images/31436/thumb/0x639C0D019C257966C4907bD4E68E3F349bB58109.png?1696530251",
-      "assetGroup": "QUACK (Quack Token)",
-      "tags": ["coingecko"]
+      "assetGroup": "QUACK (Quack Token)"
     },
     "0x62ff28a01abd2484adb18c61f78f30fb2e4a6fdb": {
       "chainId": 8453,
@@ -15178,8 +15177,9 @@
       "name": "Subsquid",
       "address": "0xd4554bea546efa83c1e6b389ecac40ea999b3e78",
       "symbol": "SQD",
-      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/8453/0xd4554BEa546EFa83C1E6B389ecac40EA999B3E78.png",
-      "assetGroup": "SQD (Subsquid)"
+      "logoURI": "https://assets.coingecko.com/coins/images/37869/thumb/New_Logo_SQD_Icon.png?1720048443",
+      "assetGroup": "SQD (Subsquid)",
+      "tags": ["coingecko"]
     },
     "0xacbf16f82753f3d52a2c87e4eeda220c9a7a3762": {
       "chainId": 8453,
@@ -15579,6 +15579,126 @@
       "symbol": "DOLZ",
       "logoURI": "https://assets.coingecko.com/coins/images/33605/thumb/dolz_200.png?1702510960",
       "assetGroup": "DOLZ (DOLZ io)",
+      "tags": ["coingecko"]
+    },
+    "0x937a1cfaf0a3d9f5dc4d0927f72ee5e3e5f82a00": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Cocoro",
+      "address": "0x937a1cfaf0a3d9f5dc4d0927f72ee5e3e5f82a00",
+      "symbol": "COCORO",
+      "logoURI": "https://assets.coingecko.com/coins/images/54771/thumb/cocoro-logo.png?1741442335",
+      "assetGroup": "COCORO (Cocoro)",
+      "tags": ["coingecko"]
+    },
+    "0xd63aaeec20f9b74d49f8dd8e319b6edd564a7dd0": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Shogun",
+      "address": "0xd63aaeec20f9b74d49f8dd8e319b6edd564a7dd0",
+      "symbol": "SHOGUN",
+      "logoURI": "https://assets.coingecko.com/coins/images/54744/thumb/Shogun.png?1741326520",
+      "assetGroup": "SHOGUN (Shogun)",
+      "tags": ["coingecko"]
+    },
+    "0xbf82115918a88e2120c0f73d99ccd8f95c301b59": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Winkies",
+      "address": "0xbf82115918a88e2120c0f73d99ccd8f95c301b59",
+      "symbol": "WNK",
+      "logoURI": "https://assets.coingecko.com/coins/images/22260/thumb/wnk.png?1696521605",
+      "assetGroup": "WNK (Winkies)",
+      "tags": ["coingecko"]
+    },
+    "0x2e2cc4dfce60257f091980631e75f5c436b71c87": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Grokster",
+      "address": "0x2e2cc4dfce60257f091980631e75f5c436b71c87",
+      "symbol": "GRK",
+      "logoURI": "https://assets.coingecko.com/coins/images/54783/thumb/grokster.jpg?1741571880",
+      "assetGroup": "GRK (Grokster)",
+      "tags": ["coingecko"]
+    },
+    "0xff45161474c39cb00699070dd49582e417b57a7e": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Mint Token",
+      "address": "0xff45161474c39cb00699070dd49582e417b57a7e",
+      "symbol": "MT",
+      "logoURI": "https://assets.coingecko.com/coins/images/54790/thumb/mint-token.jpg?1741578876",
+      "assetGroup": "MT (Mint Token)",
+      "tags": ["coingecko"]
+    },
+    "0x3ec2156d4c0a9cbdab4a016633b7bcf6a8d68ea2": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "DebtReliefBot",
+      "address": "0x3ec2156d4c0a9cbdab4a016633b7bcf6a8d68ea2",
+      "symbol": "DRB",
+      "logoURI": "https://assets.coingecko.com/coins/images/54784/thumb/drb.jpg?1741572687",
+      "assetGroup": "DRB (DebtReliefBot)",
+      "tags": ["coingecko"]
+    },
+    "0xe231db5f348d709239ef1741ea30961b3b635a61": {
+      "chainId": 8453,
+      "decimals": 16,
+      "name": "ynETH MAX",
+      "address": "0xe231db5f348d709239ef1741ea30961b3b635a61",
+      "symbol": "YNETHX",
+      "logoURI": "https://assets.coingecko.com/coins/images/51623/thumb/ynETHx.png?1731659494",
+      "assetGroup": "YNETHX (ynETH MAX)",
+      "tags": ["coingecko"]
+    },
+    "0x83db73ef5192de4b6a4c92bd0141ba1a0dc87c65": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Compounding OpenDollar",
+      "address": "0x83db73ef5192de4b6a4c92bd0141ba1a0dc87c65",
+      "symbol": "CUSDO",
+      "logoURI": "https://assets.coingecko.com/coins/images/53751/thumb/cUSDO_logo_white.png?1737182014",
+      "assetGroup": "CUSDO (Compounding OpenDollar)",
+      "tags": ["coingecko"]
+    },
+    "0xe290816384416fb1db9225e176b716346db9f9fe": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "9mm",
+      "address": "0xe290816384416fb1db9225e176b716346db9f9fe",
+      "symbol": "9MM",
+      "logoURI": "https://assets.coingecko.com/coins/images/54791/thumb/9mm.jpg?1741590221",
+      "assetGroup": "9MM (9mm)",
+      "tags": ["coingecko"]
+    },
+    "0xdf49c226ed9cf05be0e38cdb86df4e8a945158b1": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Zentry",
+      "address": "0xdf49c226ed9cf05be0e38cdb86df4e8a945158b1",
+      "symbol": "ZENT",
+      "logoURI": "https://assets.coingecko.com/coins/images/36979/thumb/Zentry-rebrand-Primary_200px.png?1713743277",
+      "assetGroup": "ZENT (Zentry)",
+      "tags": ["coingecko"]
+    },
+    "0xf4fa93f76220414cdf6fd95a85e7a407e2dd3e3d": {
+      "chainId": 8453,
+      "decimals": 9,
+      "name": "Biaoqing",
+      "address": "0xf4fa93f76220414cdf6fd95a85e7a407e2dd3e3d",
+      "symbol": "BIAO",
+      "logoURI": "https://assets.coingecko.com/coins/images/38643/thumb/oPnGc4zJ_400x400.jpg?1718210024",
+      "assetGroup": "BIAO (Biaoqing)",
+      "tags": ["coingecko"]
+    },
+    "0x688aee022aa544f150678b8e5720b6b96a9e9a2f": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Maple Finance",
+      "address": "0x688aee022aa544f150678b8e5720b6b96a9e9a2f",
+      "symbol": "SYRUP",
+      "logoURI": "https://assets.coingecko.com/coins/images/51232/thumb/IMG_7420.png?1730831572",
+      "assetGroup": "SYRUP (Maple Finance)",
       "tags": ["coingecko"]
     }
   },

@@ -17,8 +17,8 @@
       "name": "Bridged USDC (Stargate)",
       "address": "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa",
       "symbol": "USDC.e",
-      "assetGroup": "USDC",
       "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdce.svg",
+      "assetGroup": "USDC",
       "tags": ["stargate", "bridged"]
     },
     "0x7a06c4aef988e7925575c50261297a946ad204a8": {
@@ -27,7 +27,8 @@
       "name": "VUSD",
       "address": "0x7a06c4aef988e7925575c50261297a946ad204a8",
       "symbol": "VUSD",
-      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/vusd.png"
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/vusd.png",
+      "assetGroup": "VUSD (VUSD)"
     },
     "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e": {
       "chainId": 43111,
@@ -44,7 +45,8 @@
       "name": "Hemi Bitcoin",
       "address": "0xaa40c0c7644e0b2b224509571e10ad20d9c4ef28",
       "symbol": "hemiBTC",
-      "logoURI": "https://raw.githubusercontent.com/hemilabs/token-list/master/src/logos/hemibtc.svg"
+      "logoURI": "https://raw.githubusercontent.com/hemilabs/token-list/master/src/logos/hemibtc.svg",
+      "assetGroup": "hemiBTC (Hemi Bitcoin)"
     },
     "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3": {
       "chainId": 43111,
@@ -52,14 +54,16 @@
       "name": "Wrapped BTC",
       "address": "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
       "symbol": "WBTC",
-      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2/logo.png",
+      "assetGroup": "WBTC"
     },
     "0x93919784c523f39cacaa98ee0a9d96c3f32b593e": {
       "chainId": 43111,
       "decimals": 8,
       "name": "brBTC",
       "address": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
-      "symbol": "brBTC"
+      "symbol": "brBTC",
+      "assetGroup": "brBTC (brBTC)"
     },
     "0x6a9a65b84843f5fd4ac9a0471c4fc11afffbce4a": {
       "chainId": 43111,
@@ -67,7 +71,8 @@
       "name": "Lorenzo Wrapped Bitcoin",
       "address": "0x6a9a65b84843f5fd4ac9a0471c4fc11afffbce4a",
       "symbol": "enzoBTC",
-      "logoURI": "https://images.dodoex.io/X1B1iHAvXAuHar8VBt_U476tCJvXBp8UTZYg-6UZFzs/rs:fit:24:24:0/g:no/aHR0cHM6Ly90b2tlbi1pbWcuZG9kb2V4LmlvLzE2NzAwMC8weDZhOWE2NWI4NDg0M2Y1ZmQ0YWM5YTA0NzFjNGZjMTFhZmZmYmNlNGE.webp"
+      "logoURI": "https://images.dodoex.io/X1B1iHAvXAuHar8VBt_U476tCJvXBp8UTZYg-6UZFzs/rs:fit:24:24:0/g:no/aHR0cHM6Ly90b2tlbi1pbWcuZG9kb2V4LmlvLzE2NzAwMC8weDZhOWE2NWI4NDg0M2Y1ZmQ0YWM5YTA0NzFjNGZjMTFhZmZmYmNlNGE.webp",
+      "assetGroup": "enzoBTC (Lorenzo Wrapped Bitcoin)"
     }
   },
   "mainTokens": [
