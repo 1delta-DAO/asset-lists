@@ -80,223 +80,254 @@
       "name": "PassDex",
       "address": "0x1b529b888d15711b4baeb5a3b12465dc3e2520a3",
       "symbol": "PASS",
-      "logoURI": "https://passdex.s3.ap-southeast-1.amazonaws.com/43111/0x1B529B888d15711b4baeb5A3B12465DC3E2520A3.png"
+      "logoURI": "https://passdex.s3.ap-southeast-1.amazonaws.com/43111/0x1B529B888d15711b4baeb5A3B12465DC3E2520A3.png",
+      "assetGroup": "PASS (PassDex)"
     },
     "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3": {
       "chainId": 43111,
       "decimals": 18,
-      "logoURI": "https://images.dodoex.io/E-WU2fRJHfKzaCUpRHZ0KmIljGWeEpYmVxt8wEIWeKY/rs:fit:24:24:0/g:no/aHR0cHM6Ly90b2tlbi1pbWcuZG9kb2V4LmlvLzE2NzAwMC8weGY2NzE4YjI3MDFkNGE2NDk4ZWY3N2Q3YzE1MmIyMTM3YWIyOGI4YTM.webp",
-      "symbol": "stBTC",
+      "name": "Lorenzo stBTC",
       "address": "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3",
-      "name": "Lorenzo stBTC"
+      "symbol": "stBTC",
+      "logoURI": "https://images.dodoex.io/E-WU2fRJHfKzaCUpRHZ0KmIljGWeEpYmVxt8wEIWeKY/rs:fit:24:24:0/g:no/aHR0cHM6Ly90b2tlbi1pbWcuZG9kb2V4LmlvLzE2NzAwMC8weGY2NzE4YjI3MDFkNGE2NDk4ZWY3N2Q3YzE1MmIyMTM3YWIyOGI4YTM.webp",
+      "assetGroup": "STBTC"
     },
     "0x8154aaf094c2f03ad550b6890e1d4264b5ddad9a": {
       "chainId": 43111,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/37289/thumb/dlcBTC_ico_200px.png?1713946623",
-      "symbol": "iBTC",
+      "name": "iBTC",
       "address": "0x8154aaf094c2f03ad550b6890e1d4264b5ddad9a",
-      "name": "iBTC"
+      "symbol": "iBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/37289/thumb/dlcBTC_ico_200px.png?1713946623",
+      "assetGroup": "iBTC (iBTC)"
     },
     "0xe3c0ff176ef92fc225096c6d1788ccb818808b35": {
       "chainId": 43111,
       "decimals": 8,
-      "logoURI": "https://images.dodoex.io/yj_L45Yvz01b54avWCNl7pKoEyr7F0e6xmj8ChYcdLA/rs:fit:36:36:0/g:no/aHR0cHM6Ly90b2tlbi1pbWcuZG9kb2V4LmlvLzE2NzAwMC8weGUzYzBmZjE3NmVmOTJmYzIyNTA5NmM2ZDE3ODhjY2I4MTg4MDhiMzU.webp",
-      "symbol": "oBTC",
+      "name": "Obelisk BTC",
       "address": "0xe3c0ff176ef92fc225096c6d1788ccb818808b35",
-      "name": "Obelisk BTC"
+      "symbol": "oBTC",
+      "logoURI": "https://images.dodoex.io/yj_L45Yvz01b54avWCNl7pKoEyr7F0e6xmj8ChYcdLA/rs:fit:36:36:0/g:no/aHR0cHM6Ly90b2tlbi1pbWcuZG9kb2V4LmlvLzE2NzAwMC8weGUzYzBmZjE3NmVmOTJmYzIyNTA5NmM2ZDE3ODhjY2I4MTg4MDhiMzU.webp",
+      "assetGroup": "oBTC (Obelisk BTC)"
     },
     "0x78e26e8b953c7c78a58d69d8b9a91745c2bbb258": {
       "chainId": 43111,
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/50252/thumb/UA-BTC_1.png?1726721793",
-      "symbol": "uBTC",
+      "name": "uBTC",
       "address": "0x78e26e8b953c7c78a58d69d8b9a91745c2bbb258",
-      "name": "uBTC"
+      "symbol": "uBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/50252/thumb/UA-BTC_1.png?1726721793",
+      "assetGroup": "uBTC (uBTC)"
     },
     "0x9bfa177621119e64cecbeabe184ab9993e2ef727": {
       "chainId": 43111,
       "decimals": 18,
-      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mbtc.svg",
-      "symbol": "M-BTC",
+      "name": "Merlin BTC",
       "address": "0x9bfa177621119e64cecbeabe184ab9993e2ef727",
-      "name": "Merlin BTC"
+      "symbol": "M-BTC",
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/mbtc.svg",
+      "assetGroup": "M-BTC"
     },
     "0xf469fbd2abcd6b9de8e169d128226c0fc90a012e": {
       "chainId": 43111,
       "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39232/thumb/200pxPumpBTCLogo.png?1721227861",
-      "symbol": "pumpBTC",
+      "name": "pumpBTC",
       "address": "0xf469fbd2abcd6b9de8e169d128226c0fc90a012e",
-      "name": "pumpBTC"
+      "symbol": "pumpBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/39232/thumb/200pxPumpBTCLogo.png?1721227861",
+      "assetGroup": "pumpBTC (pumpBTC)"
     },
     "0x12b6e6fc45f81cda81d2656b974e8190e4ab8d93": {
       "chainId": 43111,
       "decimals": 18,
-      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/60808/0xBBa2eF945D523C4e2608C9E1214C2Cc64D4fc2e2.png",
-      "symbol": "tBTC",
+      "name": "tBTC v2",
       "address": "0x12b6e6fc45f81cda81d2656b974e8190e4ab8d93",
-      "name": "tBTC v2"
+      "symbol": "tBTC",
+      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/60808/0xBBa2eF945D523C4e2608C9E1214C2Cc64D4fc2e2.png",
+      "assetGroup": "tBTC (tBTC v2)"
     },
     "0xf9775085d726e782e83585033b58606f7731ab18": {
       "chainId": 43111,
       "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455",
-      "symbol": "uniBTC",
+      "name": "uniBTC",
       "address": "0xf9775085d726e782e83585033b58606f7731ab18",
-      "name": "uniBTC"
+      "symbol": "uniBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455",
+      "assetGroup": "UNIBTC"
     },
     "0x0af3ec6f9592c193196bef220bc0ce4d9311527d": {
       "chainId": 43111,
       "decimals": 8,
-      "symbol": "Remote Bridged mBTC",
+      "name": "Liquid Staked BTC",
       "address": "0x0af3ec6f9592c193196bef220bc0ce4d9311527d",
-      "name": "Liquid Staked BTC"
+      "symbol": "Remote Bridged mBTC",
+      "assetGroup": "Remote Bridged mBTC (Liquid Staked BTC)"
     },
     "0xe85411c030fb32a9d8b14bbbc6cb19417391f711": {
       "chainId": 43111,
       "decimals": 18,
-      "symbol": "suBTC",
+      "name": "Sumerian BTC",
       "address": "0xe85411c030fb32a9d8b14bbbc6cb19417391f711",
-      "name": "Sumerian BTC"
+      "symbol": "suBTC",
+      "assetGroup": "suBTC (Sumerian BTC)"
     },
     "0xc93b7aae2802f57eb9d98e2b6a68217d75a0658c": {
       "chainId": 43111,
       "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/52630/thumb/NBTC-logo.png?1733837414",
-      "symbol": "NBTC",
+      "name": "NexusBTC",
       "address": "0xc93b7aae2802f57eb9d98e2b6a68217d75a0658c",
-      "name": "NexusBTC"
+      "symbol": "NBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/52630/thumb/NBTC-logo.png?1733837414",
+      "assetGroup": "NBTC (NexusBTC)"
     },
     "0xc3eacf0612346366db554c991d7858716db09f58": {
       "chainId": 43111,
       "decimals": 18,
-      "logoURI": "https://verified-assets.fuel.network/images/rsETH.webp",
-      "symbol": "rsETH",
+      "name": "KelpDao Restaked ETH",
       "address": "0xc3eacf0612346366db554c991d7858716db09f58",
-      "name": "KelpDao Restaked ETH"
+      "symbol": "rsETH",
+      "logoURI": "https://verified-assets.fuel.network/images/rsETH.webp",
+      "assetGroup": "RSETH"
     },
     "0x027a9d301fb747cd972cfb29a63f3bda551dfc5c": {
       "chainId": 43111,
       "decimals": 18,
-      "symbol": "Bridged egETH",
+      "name": "Bridged egETH",
       "address": "0x027a9d301fb747cd972cfb29a63f3bda551dfc5c",
-      "name": "Bridged egETH"
+      "symbol": "Bridged egETH",
+      "assetGroup": "Bridged egETH (Bridged egETH)",
+      "tags": ["bridged"]
     },
     "0x1c22531aa9747d76fff8f0a43b37954ca67d28e0": {
       "chainId": 43111,
       "decimals": 18,
-      "symbol": "suETH",
+      "name": "Sumerian ETH",
       "address": "0x1c22531aa9747d76fff8f0a43b37954ca67d28e0",
-      "name": "Sumerian ETH"
+      "symbol": "suETH",
+      "assetGroup": "suETH (Sumerian ETH)"
     },
     "0xb4818bb69478730ef4e33cc068dd94278e2766cb": {
       "chainId": 43111,
       "decimals": 18,
-      "logoURI": "https://app.satoshiprotocol.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FsatIcon.c7c91de1.png&w=32&q=75",
-      "symbol": "satUSD",
+      "name": "Satoshi Stablecoin V2",
       "address": "0xb4818bb69478730ef4e33cc068dd94278e2766cb",
-      "name": "Satoshi Stablecoin V2"
+      "symbol": "satUSD",
+      "logoURI": "https://app.satoshiprotocol.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FsatIcon.c7c91de1.png&w=32&q=75",
+      "assetGroup": "satUSD (Satoshi Stablecoin V2)"
     },
     "0x8bf591eae535f93a242d5a954d3cde648b48a5a8": {
       "chainId": 43111,
       "decimals": 18,
-      "logoURI": "https://cdn.coinranking.com/4b6XSzcE6/SUSS.PNG?size=48x48",
-      "symbol": "suUSD",
+      "name": "Sumerian USD",
       "address": "0x8bf591eae535f93a242d5a954d3cde648b48a5a8",
-      "name": "Sumerian USD"
+      "symbol": "suUSD",
+      "logoURI": "https://cdn.coinranking.com/4b6XSzcE6/SUSS.PNG?size=48x48",
+      "assetGroup": "suUSD (Sumerian USD)"
     },
     "0x6c851f501a3f24e29a8e39a29591cddf09369080": {
       "chainId": 43111,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
-      "symbol": "DAI",
+      "name": "Dai Stablecoin",
       "address": "0x6c851f501a3f24e29a8e39a29591cddf09369080",
-      "name": "Dai Stablecoin"
+      "symbol": "DAI",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+      "assetGroup": "DAI"
     },
     "0x54df33333c78c13b1448cb35a0e49f75c3d4347f": {
       "chainId": 43111,
       "decimals": 18,
-      "symbol": "MET",
+      "name": "Metronome2",
       "address": "0x54df33333c78c13b1448cb35a0e49f75c3d4347f",
-      "name": "Metronome2"
+      "symbol": "MET",
+      "assetGroup": "MET (Metronome2)"
     },
     "0xb2960608948c4d216f72f98c39eb3d0e775e3923": {
       "chainId": 43111,
       "decimals": 18,
-      "symbol": "AAVE",
+      "name": "Aave Token",
       "address": "0xb2960608948c4d216f72f98c39eb3d0e775e3923",
-      "name": "Aave Token"
+      "symbol": "AAVE",
+      "assetGroup": "AAVE"
     },
     "0x63d367531b460da78a9ebbaf6c1fbfc397e5d40a": {
       "chainId": 43111,
       "decimals": 18,
-      "symbol": "bwAJNA",
+      "name": "Burn Wrapped AJNA",
       "address": "0x63d367531b460da78a9ebbaf6c1fbfc397e5d40a",
-      "name": "Burn Wrapped AJNA"
+      "symbol": "bwAJNA",
+      "assetGroup": "bwAJNA (Burn Wrapped AJNA)"
     },
     "0x584666a5024b9fe9e6a9cacb834f42ccaa248d08": {
       "chainId": 43111,
       "decimals": 18,
-      "symbol": "LINK",
+      "name": "ChainLink Token",
       "address": "0x584666a5024b9fe9e6a9cacb834f42ccaa248d08",
-      "name": "ChainLink Token"
+      "symbol": "LINK",
+      "assetGroup": "LINK"
     },
     "0xc9fe18def46952bab59bd15fbac865346f621649": {
       "chainId": 43111,
       "decimals": 18,
-      "symbol": "COMP",
+      "name": "Compound",
       "address": "0xc9fe18def46952bab59bd15fbac865346f621649",
-      "name": "Compound"
+      "symbol": "COMP",
+      "assetGroup": "COMP"
     },
     "0xc4a20a608616f18aa631316eeda9fb62d089361e": {
       "chainId": 43111,
       "decimals": 18,
-      "symbol": "FRAX",
+      "name": "Frax",
       "address": "0xc4a20a608616f18aa631316eeda9fb62d089361e",
-      "name": "Frax"
+      "symbol": "FRAX",
+      "assetGroup": "FRAX"
     },
     "0xdf0e8f7b7fda30605ca5665161f9f3ddb489c870": {
       "chainId": 43111,
       "decimals": 18,
-      "symbol": "ZRO",
+      "name": "LayerZero",
       "address": "0xdf0e8f7b7fda30605ca5665161f9f3ddb489c870",
-      "name": "LayerZero"
+      "symbol": "ZRO",
+      "assetGroup": "ZRO"
     },
     "0x98d6e32f3092d39a6c0b36062cc9eb1e52ccc99d": {
       "chainId": 43111,
       "decimals": 8,
-      "symbol": "LMR",
+      "name": "Lumerin",
       "address": "0x98d6e32f3092d39a6c0b36062cc9eb1e52ccc99d",
-      "name": "Lumerin"
+      "symbol": "LMR",
+      "assetGroup": "LMR (Lumerin)"
     },
     "0x4f6a87566ebca017b147da84954d94b10d830727": {
       "chainId": 43111,
       "decimals": 18,
-      "symbol": "MKR",
+      "name": "Maker",
       "address": "0x4f6a87566ebca017b147da84954d94b10d830727",
-      "name": "Maker"
+      "symbol": "MKR",
+      "assetGroup": "MKR"
     },
     "0x1ebd781b9259822d00b0c5f4ca2f0838d72bbe9c": {
       "chainId": 43111,
       "decimals": 18,
-      "symbol": "SUSHI",
+      "name": "SushiToken",
       "address": "0x1ebd781b9259822d00b0c5f4ca2f0838d72bbe9c",
-      "name": "SushiToken"
+      "symbol": "SUSHI",
+      "assetGroup": "SUSHI"
     },
     "0x6fd31f56eb971113bea12c5883dec68337b3b7b5": {
       "chainId": 43111,
       "decimals": 18,
-      "symbol": "UNI",
+      "name": "Uniswap",
       "address": "0x6fd31f56eb971113bea12c5883dec68337b3b7b5",
-      "name": "Uniswap"
+      "symbol": "UNI",
+      "assetGroup": "UNI"
     },
     "0x21c1f6be5765d378add561edddd1127a65df3820": {
       "chainId": 43111,
       "decimals": 18,
-      "symbol": "VSP",
+      "name": "VesperToken",
       "address": "0x21c1f6be5765d378add561edddd1127a65df3820",
-      "name": "VesperToken"
+      "symbol": "VSP",
+      "assetGroup": "VSP (VesperToken)"
     }
   },
   "mainTokens": [
