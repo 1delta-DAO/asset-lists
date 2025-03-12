@@ -191,7 +191,8 @@
       "address": "0xc3827a4bc8224ee2d116637023b124ced6db6e90",
       "symbol": "uniBTC",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xC3827A4BC8224ee2D116637023b124CED6db6e90/logo.png",
-      "assetGroup": "UNIBTC"
+      "assetGroup": "UNIBTC",
+      "tags": ["coingecko"]
     },
     "0xecac9c5f704e954931349da37f60e39f515c11c1": {
       "chainId": 80094,
@@ -435,6 +436,26 @@
       "symbol": "HENLO",
       "logoURI": "https://assets.coingecko.com/coins/images/54719/thumb/Full_Circle_Logo_Large_%28YellowBlue%29_%281%29.png?1741193376",
       "assetGroup": "HENLO (Henlo)",
+      "tags": ["coingecko"]
+    },
+    "0xd77552d3849ab4d8c3b189a9582d0ba4c1f4f912": {
+      "chainId": 80094,
+      "decimals": 18,
+      "name": "Wrapped gBera",
+      "address": "0xd77552d3849ab4d8c3b189a9582d0ba4c1f4f912",
+      "symbol": "WGBERA",
+      "logoURI": "https://assets.coingecko.com/coins/images/54804/thumb/wgbera.jpg?1741743688",
+      "assetGroup": "WGBERA (Wrapped gBera)",
+      "tags": ["coingecko"]
+    },
+    "0x93919784c523f39cacaa98ee0a9d96c3f32b593e": {
+      "chainId": 80094,
+      "decimals": 8,
+      "name": "Bedrock BTC",
+      "address": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
+      "symbol": "BRBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/53039/thumb/brBTC_200.png?1735074374",
+      "assetGroup": "BRBTC (Bedrock BTC)",
       "tags": ["coingecko"]
     }
   },
