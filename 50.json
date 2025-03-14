@@ -136,18 +136,30 @@
       "symbol": "BBB",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/50/0xFa4dDcFa8E3d0475f544d0de469277CF6e0A6Fd1.png",
       "assetGroup": "BBB (Beny Bad Boy)"
+    },
+    "0x2a8e898b6242355c290e1f4fc966b8788729a4d4": {
+      "chainId": 50,
+      "decimals": 6,
+      "name": "Bridged USDC(XDC)",
+      "address": "0x2a8e898b6242355c290e1f4fc966b8788729a4d4",
+      "symbol": "USDC.e",
+      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/50/0x2A8E898b6242355c290E1f4Fc966b8788729A4D4.png",
+      "assetGroup": "USDC",
+      "tags": ["bridged"]
     }
   },
   "mainTokens": [
     "0x867f08a3ab824b42e8058a1b48e32e1df205b092",
     "0xdc2393dc10734bf153153038943a5deb42b209cd",
     "0xb25cb6a275a8d6a613228fb161eb3627b50eb696",
-    "0xc57f0eb99363e747d637b17bbdb4e1ab85e60631"
+    "0xc57f0eb99363e747d637b17bbdb4e1ab85e60631",
+    "0x2a8e898b6242355c290e1f4fc966b8788729a4d4"
   ],
   "bridgeTokens": [
     "0x867f08a3ab824b42e8058a1b48e32e1df205b092",
     "0xdc2393dc10734bf153153038943a5deb42b209cd",
     "0xb25cb6a275a8d6a613228fb161eb3627b50eb696",
-    "0xc57f0eb99363e747d637b17bbdb4e1ab85e60631"
+    "0xc57f0eb99363e747d637b17bbdb4e1ab85e60631",
+    "0x2a8e898b6242355c290e1f4fc966b8788729a4d4"
   ]
 }

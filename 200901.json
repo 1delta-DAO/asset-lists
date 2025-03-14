@@ -51,12 +51,28 @@
       "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455",
       "assetGroup": "UNIBTC (Universal BTC)",
       "tags": ["coingecko"]
+    },
+    "0xc65d8d96cdddb31328186efa113a460b0af9ec63": {
+      "chainId": 200901,
+      "decimals": 18,
+      "name": "Pell Network Token",
+      "address": "0xc65d8d96cdddb31328186efa113a460b0af9ec63",
+      "symbol": "PELL",
+      "logoURI": "https://assets.coingecko.com/coins/images/53967/thumb/logo-200*200.png?1737793038",
+      "assetGroup": "PELL (Pell Network Token)",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
     "0x4200000000000000000000000000000000000006",
     "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa",
-    "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e"
+    "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e",
+    "0x2729868df87d062020e4a4867ff507fb52ee697c",
+    "0xdfd0660032c2d0d38a9092a43d1669d6568caf71",
+    "0x3228995749610bea00b59c44f8d1df21c14027f1",
+    "0xd68458f51ce9feb238cdcf4cbcddf010eead01b4",
+    "0xc65d8d96cdddb31328186efa113a460b0af9ec63",
+    "0x93919784c523f39cacaa98ee0a9d96c3f32b593e"
   ],
   "bridgeTokens": [
     "0x4200000000000000000000000000000000000006",

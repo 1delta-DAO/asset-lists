@@ -15720,6 +15720,66 @@
       "logoURI": "https://assets.coingecko.com/coins/images/33929/thumb/ponke.jpeg?1738897723",
       "assetGroup": "PONKE (PONKE)",
       "tags": ["coingecko"]
+    },
+    "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189": {
+      "chainId": 8453,
+      "decimals": 6,
+      "name": "OpenUSDT",
+      "address": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+      "symbol": "OUSDT",
+      "logoURI": "https://assets.coingecko.com/coins/images/54815/thumb/ousdt.jpg?1741848258",
+      "assetGroup": "OUSDT (OpenUSDT)",
+      "tags": ["coingecko"]
+    },
+    "0x21cfcfc3d8f98fc728f48341d10ad8283f6eb7ab": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "TRUE",
+      "address": "0x21cfcfc3d8f98fc728f48341d10ad8283f6eb7ab",
+      "symbol": "TRUE",
+      "logoURI": "https://assets.coingecko.com/coins/images/54818/thumb/512x512.png?1741851363",
+      "assetGroup": "TRUE (TRUE)",
+      "tags": ["coingecko"]
+    },
+    "0x04175b1f982b8c8444f238ac0aae59f029e21099": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "BankrX",
+      "address": "0x04175b1f982b8c8444f238ac0aae59f029e21099",
+      "symbol": "BNXR",
+      "logoURI": "https://assets.coingecko.com/coins/images/54822/thumb/bnxr-logo.png?1741858158",
+      "assetGroup": "BNXR (BankrX)",
+      "tags": ["coingecko"]
+    },
+    "0xd71552d9e08e5351adb52163b3bbbc4d7de53ce1": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Solidus Ai Tech",
+      "address": "0xd71552d9e08e5351adb52163b3bbbc4d7de53ce1",
+      "symbol": "AITECH",
+      "logoURI": "https://assets.coingecko.com/coins/images/22114/thumb/CMC_Logo_200x200.png?1719949930",
+      "assetGroup": "AITECH (Solidus Ai Tech)",
+      "tags": ["coingecko"]
+    },
+    "0xd2563fc9fc787853229aab2bda7211484051c256": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "BetMore Casino",
+      "address": "0xd2563fc9fc787853229aab2bda7211484051c256",
+      "symbol": "BMR",
+      "logoURI": "https://assets.coingecko.com/coins/images/54711/thumb/0xdc300854b0ef52650057158e8a33afe703525539.png?1741179043",
+      "assetGroup": "BMR (BetMore Casino)",
+      "tags": ["coingecko"]
+    },
+    "0x5019fe1867d8ccfd76d8d5abd85db5efce548fba": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "InteNet",
+      "address": "0x5019fe1867d8ccfd76d8d5abd85db5efce548fba",
+      "symbol": "INT",
+      "logoURI": "https://assets.coingecko.com/coins/images/54832/thumb/dDZtouYf_400x400.jpg?1741957002",
+      "assetGroup": "INT (InteNet)",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -15791,7 +15851,14 @@
     "0xa900a17a49bc4d442ba7f72c39fa2108865671f0",
     "0xecc68d0451e20292406967fe7c04280e5238ac7d",
     "0x26d3c0d9f4cc4c130097b6afdebe4f5e497e6bdf",
-    "0x6cdcb1c4a4d1c3c6d054b27ac5b77e89eafb971d"
+    "0x6cdcb1c4a4d1c3c6d054b27ac5b77e89eafb971d",
+    "0x1097dfe9539350cb466df9ca89a5e61195a520b0",
+    "0xfdf73f61146b9050ffe4b755364b9cac670ea5b2",
+    "0x2c28ac6aa2f17e8dfa3e2561338c6357ead53c32",
+    "0xec7de4956a4569c2a1d171e4dd115a611c8e9ee5",
+    "0x59aaf835d34b1e3df2170e4872b785f11e2a964b",
+    "0x9a52fcd13fb9927d884b7eae826697c0aa0659cc",
+    "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189"
   ],
   "bridgeTokens": [
     "0x4200000000000000000000000000000000000006",
@@ -15810,6 +15877,7 @@
     "0xa900a17a49bc4d442ba7f72c39fa2108865671f0",
     "0xecc68d0451e20292406967fe7c04280e5238ac7d",
     "0x26d3c0d9f4cc4c130097b6afdebe4f5e497e6bdf",
-    "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f"
+    "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f",
+    "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189"
   ]
 }
