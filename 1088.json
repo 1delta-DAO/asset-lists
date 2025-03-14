@@ -54,7 +54,7 @@
     "0x420000000000000000000000000000000000000a": {
       "chainId": 1088,
       "decimals": 18,
-      "name": "Metis Bridged WETH  Metis Andromeda ",
+      "name": "Wrapped Ether",
       "address": "0x420000000000000000000000000000000000000a",
       "symbol": "WETH",
       "logoURI": "https://assets.coingecko.com/coins/images/39719/thumb/WETH.PNG?1723732336",
@@ -64,7 +64,7 @@
     "0xa5b55ab1daf0f8e1efc0eb1931a957fd89b918f4": {
       "chainId": 1088,
       "decimals": 8,
-      "name": "Metis Bridged WBTC  Metis Andromeda ",
+      "name": "Wrapped BTC",
       "address": "0xa5b55ab1daf0f8e1efc0eb1931a957fd89b918f4",
       "symbol": "WBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/39556/thumb/wbtc.png?1722898064",
@@ -106,7 +106,7 @@
       "decimals": 18,
       "name": "Staked Metis Token",
       "address": "0x2583a2538272f31e9a15dd12a432b8c96ab4821d",
-      "symbol": "ARTMETIS",
+      "symbol": "artMETIS",
       "logoURI": "https://assets.coingecko.com/coins/images/36629/thumb/artMETIS.png?1712021137",
       "assetGroup": "ARTMETIS (Staked Metis Token)",
       "tags": ["coingecko"]
@@ -235,7 +235,7 @@
       "decimals": 6,
       "name": "Bridged USDT",
       "address": "0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc",
-      "symbol": "USDT",
+      "symbol": "m.USDT",
       "logoURI": "https://assets.coingecko.com/coins/images/35001/thumb/logo.png?1706959346",
       "assetGroup": "USDT",
       "tags": ["bridged", "coingecko"]
@@ -405,7 +405,12 @@
     "0xa5b55ab1daf0f8e1efc0eb1931a957fd89b918f4",
     "0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc",
     "0xea32a96608495e54156ae48931a7c20f0dcc1a21",
-    "0x885c8aec5867571582545f894a5906971db9bf27"
+    "0x885c8aec5867571582545f894a5906971db9bf27",
+    "0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
+    "0xdf020cbd1897133978c7fcdf04b07e69d8934efc",
+    "0xa4ee142e34d0676edc2b760dd0016003d99a4cec",
+    "0x4aac94985cd83be30164dfe7e9af7c054d7d2121",
+    "0x2583a2538272f31e9a15dd12a432b8c96ab4821d"
   ],
   "bridgeTokens": [
     "0x420000000000000000000000000000000000000a",
