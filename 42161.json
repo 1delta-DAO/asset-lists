@@ -9660,7 +9660,7 @@
       "decimals": 18,
       "name": "Axelar Wrapped Ether",
       "address": "0xb829b68f57cc546da7e5806a929e53be32a4625d",
-      "symbol": "AXLETH",
+      "symbol": "axlETH",
       "logoURI": "https://assets.coingecko.com/coins/images/28171/thumb/weth-wei_D_3x.png?1696527174",
       "assetGroup": "ETH",
       "tags": ["axelar", "bridged", "coingecko"]
@@ -9678,9 +9678,9 @@
     "0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6": {
       "chainId": 42161,
       "decimals": 6,
-      "name": "Bridged Tether  Axelar ",
+      "name": "Axelar Bridged Tether",
       "address": "0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6",
-      "symbol": "AXLUSDT",
+      "symbol": "axlUSDT",
       "logoURI": "https://assets.coingecko.com/coins/images/31002/thumb/uusdt_D_3x.png?1696529840",
       "assetGroup": "USDT",
       "tags": ["axelar", "bridged", "coingecko"]
@@ -10516,11 +10516,11 @@
     "0x9cfb13e6c11054ac9fcb92ba89644f30775436e4": {
       "chainId": 42161,
       "decimals": 18,
-      "name": "Bridged Wrapped stETH  Axelar ",
+      "name": "Axelar Bridged Wrapped stETH",
       "address": "0x9cfb13e6c11054ac9fcb92ba89644f30775436e4",
-      "symbol": "AXL-WSTETH",
+      "symbol": "axl-wstETH",
       "logoURI": "https://assets.coingecko.com/coins/images/32223/thumb/steth-wei_D_3x.png?1696926841",
-      "assetGroup": "AXL-WSTETH (Bridged Wrapped stETH  Axelar )",
+      "assetGroup": "axl-wstETH (Bridged Wrapped stETH)",
       "tags": ["axelar", "bridged", "coingecko"]
     },
     "0x00e1724885473b63bce08a9f0a52f35b0979e35a": {
