@@ -16898,14 +16898,6 @@
       "assetGroup": "UERII (UERII)",
       "tags": ["debridge"]
     },
-    "0xb8a1d66f1bf5a16a53945ec560ad027166c0d303": {
-      "chainId": 137,
-      "decimals": 18,
-      "name": "Set Yield wBTC",
-      "address": "0xb8a1d66f1bf5a16a53945ec560ad027166c0d303",
-      "symbol": "SYBTC",
-      "assetGroup": "BTC"
-    },
     "0x5fb715320cd9037921337f7eb2a00825c636a446": {
       "chainId": 137,
       "decimals": 18,
@@ -27285,7 +27277,7 @@
       "address": "0x5d49c278340655b56609fdf8976eb0612af3a0c3",
       "symbol": "WBTC",
       "logoURI": "https://tokens.debridge.finance/Logo/137/0x5d49c278340655b56609fdf8976eb0612af3a0c3/small/token-logo.png",
-      "assetGroup": "WBTC",
+      "assetGroup": "WBTC (Wrapped BTC (Wormhole))",
       "tags": ["wormhole", "bridged", "debridge"]
     },
     "0x8eb270e296023e9d92081fdf967ddd7878724424": {
@@ -29456,6 +29448,25 @@
       "address": "0x8437d7c167dfb82ed4cb79cd44b7a32a1dd95c77",
       "symbol": "aPolAGEUR",
       "assetGroup": "aPolAGEUR (Aave v3 agEUR)",
+      "tags": ["debridge"]
+    },
+    "0xcddbd374a9df30bbbe4bc4c008fa229cb3587511": {
+      "chainId": 137,
+      "decimals": 18,
+      "name": "Deutsche Mark",
+      "address": "0xcddbd374a9df30bbbe4bc4c008fa229cb3587511",
+      "symbol": "DDM",
+      "logoURI": "https://tokens.debridge.finance/Logo/137/0xcddbd374a9df30bbbe4bc4c008fa229cb3587511/small/token-logo.png",
+      "assetGroup": "DDM (Deutsche Mark)",
+      "tags": ["debridge"]
+    },
+    "0x68f610f2220a6974eb69963bdaf5a0de0dc9bd8c": {
+      "chainId": 137,
+      "decimals": 18,
+      "name": "SMB Token",
+      "address": "0x68f610f2220a6974eb69963bdaf5a0de0dc9bd8c",
+      "symbol": "SMB",
+      "assetGroup": "SMB (SMB Token)",
       "tags": ["debridge"]
     }
   },

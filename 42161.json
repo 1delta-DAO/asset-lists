@@ -6788,7 +6788,7 @@
       "symbol": "GEM",
       "logoURI": "https://assets.coingecko.com/coins/images/32533/thumb/logogemdrop.png?1698461472",
       "assetGroup": "GEM (GemDrop)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x10ddf4850c43de1bcab504f53becdcd66a53d5c4": {
       "chainId": 42161,
@@ -12551,6 +12551,16 @@
       "symbol": "MXNB",
       "assetGroup": "MXNB (MXNB)",
       "tags": ["debridge"]
+    },
+    "0x5f8a7c646511a790c53f171891e5d469ca884ede": {
+      "chainId": 42161,
+      "decimals": 18,
+      "name": "Slingshot",
+      "address": "0x5f8a7c646511a790c53f171891e5d469ca884ede",
+      "symbol": "SLING",
+      "logoURI": "https://assets.coingecko.com/coins/images/54842/thumb/coingecko_%282%29.png?1742018280",
+      "assetGroup": "SLING (Slingshot)",
+      "tags": ["coingecko", "debridge"]
     }
   },
   "mainTokens": [

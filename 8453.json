@@ -1177,7 +1177,7 @@
       "address": "0x1a35ee4640b0a3b87705b0a4b45d227ba60ca2ad",
       "symbol": "axlWBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/28173/standard/wbtc-satoshi_D_3x.png?1696986732",
-      "assetGroup": "WBTC",
+      "assetGroup": "axlWBTC (Axelar Wrapped Bitcoin)",
       "tags": ["axelar", "bridged", "coingecko", "debridge"]
     },
     "0x37defbc399e5737d53dfb5533d9954572f5b19bf": {
@@ -5534,7 +5534,7 @@
       "address": "0x0c41f1fc9022feb69af6dc666abfe73c9ffda7ce",
       "symbol": "BTCB",
       "logoURI": "https://assets.coingecko.com/coins/images/38868/thumb/BTCB_Official_Logo_July_2024.png?1721753012",
-      "assetGroup": "BTCB",
+      "assetGroup": "BTCB (Bitcoin on Base)",
       "tags": ["coingecko", "debridge"]
     },
     "0x9c94e82d8751f16953f9c86e13ed9cd0414e6e97": {
@@ -8434,7 +8434,7 @@
       "symbol": "MEELAY",
       "logoURI": "https://assets.coingecko.com/coins/images/38122/thumb/Meelay200x200.jpeg?1716539518",
       "assetGroup": "MEELAY (Javor Meelay)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0xcbfe8e065534d0cc117bd71a11b0249a63e247f7": {
       "chainId": 8453,
@@ -12123,7 +12123,7 @@
       "symbol": "BWB",
       "logoURI": "https://assets.coingecko.com/coins/images/37767/thumb/bwb.png?1715480561",
       "assetGroup": "BWB (Bitget Wallet Token)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x24569d33653c404f90af10a2b98d6e0030d3d267": {
       "chainId": 8453,
@@ -16058,6 +16058,76 @@
       "symbol": "WUSD",
       "assetGroup": "WUSD (Worldwide USD)",
       "tags": ["debridge"]
+    },
+    "0xea87169699dabd028a78d4b91544b4298086baf6": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "The SWARM",
+      "address": "0xea87169699dabd028a78d4b91544b4298086baf6",
+      "symbol": "SWARM",
+      "logoURI": "https://assets.coingecko.com/coins/images/54841/thumb/SWARM.jpg?1742017845",
+      "assetGroup": "SWARM (The SWARM)",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x555fff48549c1a25a723bd8e7ed10870d82e8379": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "BIM",
+      "address": "0x555fff48549c1a25a723bd8e7ed10870d82e8379",
+      "symbol": "BIM",
+      "logoURI": "https://assets.coingecko.com/coins/images/54860/thumb/bim-fi.jpg?1742179842",
+      "assetGroup": "BIM (BIM)",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0xb887cac66cf5eaaa0bf0cdb5d76905e19bc391a5": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Sharp AI",
+      "address": "0xb887cac66cf5eaaa0bf0cdb5d76905e19bc391a5",
+      "symbol": "SHARP",
+      "logoURI": "https://assets.coingecko.com/coins/images/54859/thumb/sharp-ai.png?1742110692",
+      "assetGroup": "SHARP (Sharp AI)",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x290f057a2c59b95d8027aa4abf31782676502071": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "cliza",
+      "address": "0x290f057a2c59b95d8027aa4abf31782676502071",
+      "symbol": "CLIZA",
+      "logoURI": "https://assets.coingecko.com/coins/images/54846/thumb/GlrnRZOaIAAwvFx.jpeg?1742020067",
+      "assetGroup": "CLIZA (cliza)",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0xfe0c0b15798b8c9107cd4aa556a87eb031263e8b": {
+      "chainId": 8453,
+      "decimals": 8,
+      "name": "AetherX",
+      "address": "0xfe0c0b15798b8c9107cd4aa556a87eb031263e8b",
+      "symbol": "AETX",
+      "logoURI": "https://assets.coingecko.com/coins/images/54839/thumb/logomark_x200.png?1742016823",
+      "assetGroup": "AETX (AetherX)",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x12418783e860997eb99e8acf682df952f721cf62": {
+      "chainId": 8453,
+      "decimals": 8,
+      "name": "iBTC Network",
+      "address": "0x12418783e860997eb99e8acf682df952f721cf62",
+      "symbol": "IBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/37289/thumb/iBTC_main.png?1742022373",
+      "assetGroup": "IBTC (iBTC Network)",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x9e12735d77c72c5c3670636d428f2f3815d8a4cb": {
+      "chainId": 8453,
+      "decimals": 18,
+      "name": "Functionland",
+      "address": "0x9e12735d77c72c5c3670636d428f2f3815d8a4cb",
+      "symbol": "FULA",
+      "logoURI": "https://assets.coingecko.com/coins/images/24782/thumb/FULA_IconGRN_200.png?1742180793",
+      "assetGroup": "FULA (Functionland)",
+      "tags": ["coingecko", "debridge"]
     }
   },
   "mainTokens": [

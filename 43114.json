@@ -4099,7 +4099,7 @@
       "symbol": "BOBC",
       "logoURI": "https://assets.coingecko.com/coins/images/24264/thumb/bobc.png?1696523448",
       "assetGroup": "BOBC (Bobcoin)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x01c2086facfd7aa38f69a6bd8c91bef3bb5adfca": {
       "chainId": 43114,
@@ -5388,6 +5388,16 @@
       "symbol": "AIM",
       "assetGroup": "AIM (Meta Oasis)",
       "tags": ["debridge"]
+    },
+    "0x25be3edd820a8fce6b8e211f40c5b82ba176994c": {
+      "chainId": 43114,
+      "decimals": 8,
+      "name": "iBTC Network",
+      "address": "0x25be3edd820a8fce6b8e211f40c5b82ba176994c",
+      "symbol": "IBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/37289/thumb/iBTC_main.png?1742022373",
+      "assetGroup": "IBTC (iBTC Network)",
+      "tags": ["coingecko", "debridge"]
     }
   },
   "mainTokens": [
