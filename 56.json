@@ -34683,6 +34683,26 @@
       "symbol": "SDME",
       "assetGroup": "SDME (SDME)",
       "tags": ["debridge"]
+    },
+    "0x2ff8d8cae3a9633285c60150099bad25c9b4e5d9": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Artificial CZ",
+      "address": "0x2ff8d8cae3a9633285c60150099bad25c9b4e5d9",
+      "symbol": "AICZ",
+      "logoURI": "https://tokens.debridge.finance/Logo/56/0x2ff8d8cae3a9633285c60150099bad25c9b4e5d9/small/token-logo.png",
+      "assetGroup": "AICZ (Artificial CZ)",
+      "tags": ["debridge"]
+    },
+    "0x4341bb2200176f89eb90eac4fd6cfe958e206005": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Eafin",
+      "address": "0x4341bb2200176f89eb90eac4fd6cfe958e206005",
+      "symbol": "EAFIN",
+      "logoURI": "https://tokens.debridge.finance/Logo/56/0x4341bb2200176f89eb90eac4fd6cfe958e206005/small/token-logo.png",
+      "assetGroup": "EAFIN (Eafin)",
+      "tags": ["debridge"]
     }
   },
   "mainTokens": [
@@ -34779,7 +34799,11 @@
     "0x49d5cc521f75e13fa8eb4e89e9d381352c897c96",
     "0x26d3c0d9f4cc4c130097b6afdebe4f5e497e6bdf",
     "0x518960f5d12eb192f89a73c2ae9b2bd369c73d40",
-    "0x3e81aa8d6813ec9d7e6ddb4e523fb1601a0e86f3"
+    "0x3e81aa8d6813ec9d7e6ddb4e523fb1601a0e86f3",
+    "0x4aae823a6a0b376de6a78e74ecc5b079d38cbcf7",
+    "0x53e63a31fd1077f949204b94f431bcab98f72bce",
+    "0x1346b618dc92810ec74163e4c27004c921d446a5",
+    "0x38a001e57430f781404fff7a81de4bd67d1f6117"
   ],
   "bridgeTokens": [
     "0x2170ed0880ac9a755fd29b2688956bd959f933f8",

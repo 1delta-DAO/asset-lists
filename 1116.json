@@ -697,6 +697,15 @@
       "logoURI": "https://assets.coingecko.com/coins/images/53967/thumb/logo-200*200.png?1737793038",
       "assetGroup": "PELL (Pell Network Token)",
       "tags": ["coingecko"]
+    },
+    "0x892ccdd2624ef09ca5814661c566316253353820": {
+      "chainId": 1116,
+      "decimals": 18,
+      "name": "Bugs Bunny",
+      "address": "0x892ccdd2624ef09ca5814661c566316253353820",
+      "symbol": "BB",
+      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x892CCdD2624ef09Ca5814661c566316253353820.png",
+      "assetGroup": "BB (Bugs Bunny)"
     }
   },
   "mainTokens": [
@@ -713,7 +722,8 @@
     "0x9410e8052bc661041e5cb27fdf7d9e9e842af2aa",
     "0xc5cd3f4029269fe9f2d2d154594d02f13c9a5214",
     "0xf7a0b80681ec935d6dd9f3af9826e68b99897d6d",
-    "0x42020c7962ce072f5048120cedeb36c020062af4"
+    "0x42020c7962ce072f5048120cedeb36c020062af4",
+    "0x5b1fb849f1f76217246b8aaac053b5c7b15b7dc3"
   ],
   "bridgeTokens": [
     "0xdd5d49910c5d475c984ee891a928de6658d2042d",

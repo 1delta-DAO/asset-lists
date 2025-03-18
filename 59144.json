@@ -1013,6 +1013,24 @@
       "logoURI": "https://assets.coingecko.com/coins/images/35397/thumb/sln.jpeg?1708488815",
       "assetGroup": "SLN (Smart Layer Network)",
       "tags": ["coingecko", "debridge"]
+    },
+    "0x374d7860c4f2f604de0191298dd393703cce84f3": {
+      "chainId": 59144,
+      "decimals": 6,
+      "name": "Aave Linea USDC",
+      "address": "0x374d7860c4f2f604de0191298dd393703cce84f3",
+      "symbol": "aLinUSDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/14318/standard/aUSDC.e260d492.png",
+      "assetGroup": "aLinUSDC (Aave Linea USDC)"
+    },
+    "0x88231dfec71d4ff5c1e466d08c321944a7adc673": {
+      "chainId": 59144,
+      "decimals": 6,
+      "name": "Aave Linea USDT",
+      "address": "0x88231dfec71d4ff5c1e466d08c321944a7adc673",
+      "symbol": "aLinUSDT",
+      "logoURI": "https://assets.coingecko.com/coins/images/14243/standard/aUSDT.78f5faae.png",
+      "assetGroup": "aLinUSDT (Aave Linea USDT)"
     }
   },
   "mainTokens": [
@@ -1071,7 +1089,9 @@
     "0xeb466342c4d449bc9f53a865d5cb90586f405215",
     "0xecc68d0451e20292406967fe7c04280e5238ac7d",
     "0x265b25e22bcd7f10a5bd6e6410f10537cc7567e8",
-    "0x406cde76a3fd20e48bc1e0f60651e60ae204b040"
+    "0x406cde76a3fd20e48bc1e0f60651e60ae204b040",
+    "0x374d7860c4f2f604de0191298dd393703cce84f3",
+    "0x88231dfec71d4ff5c1e466d08c321944a7adc673"
   ],
   "bridgeTokens": [
     "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
@@ -1084,6 +1104,8 @@
     "0xeb466342c4d449bc9f53a865d5cb90586f405215",
     "0xecc68d0451e20292406967fe7c04280e5238ac7d",
     "0x265b25e22bcd7f10a5bd6e6410f10537cc7567e8",
-    "0x406cde76a3fd20e48bc1e0f60651e60ae204b040"
+    "0x406cde76a3fd20e48bc1e0f60651e60ae204b040",
+    "0x374d7860c4f2f604de0191298dd393703cce84f3",
+    "0x88231dfec71d4ff5c1e466d08c321944a7adc673"
   ]
 }
