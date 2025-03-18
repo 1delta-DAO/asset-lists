@@ -35,10 +35,10 @@
     "0x50c42deacd8fc9773493ed674b675be577f2634b": {
       "chainId": 146,
       "decimals": 18,
-      "name": "Wrapped Ether on Sonic",
+      "name": "Wrapped Ether",
       "address": "0x50c42deacd8fc9773493ed674b675be577f2634b",
       "symbol": "WETH",
-      "logoURI": "https://assets.coingecko.com/coins/images/53332/thumb/weth_2.jpg?1736149977",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "assetGroup": "WETH",
       "tags": ["coingecko"]
     },
@@ -85,11 +85,11 @@
     "0xddf26b42c1d903de8962d3f79a74a501420d5f19": {
       "chainId": 146,
       "decimals": 18,
-      "name": "Equalizer on Sonic",
+      "name": "Equalizer",
       "address": "0xddf26b42c1d903de8962d3f79a74a501420d5f19",
       "symbol": "EQUAL",
       "logoURI": "https://assets.coingecko.com/coins/images/53369/thumb/hq_png_icon_file.png?1736204170",
-      "assetGroup": "EQUAL (Equalizer on Sonic)",
+      "assetGroup": "EQUAL (Equalizer)",
       "tags": ["coingecko"]
     },
     "0x2d0e0814e62d80056181f5cd932274405966e4f0": {
@@ -605,10 +605,10 @@
     "0x541fd749419ca806a8bc7da8ac23d346f2df8b77": {
       "chainId": 146,
       "decimals": 18,
-      "name": "Solv Protocol SolvBTC",
+      "name": "Solv BTC",
       "address": "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
-      "symbol": "SOLVBTC",
-      "logoURI": "https://assets.coingecko.com/coins/images/36800/thumb/solvBTC.png?1719810684",
+      "symbol": "SolvBTC",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/SolvBTC.webp",
       "assetGroup": "SOLVBTC",
       "tags": ["coingecko"]
     },
@@ -645,11 +645,11 @@
     "0xcc0966d8418d412c599a6421b760a847eb169a8c": {
       "chainId": 146,
       "decimals": 18,
-      "name": "Solv Protocol SolvBTC BBN",
+      "name": "SolvBTC Babylon",
       "address": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
-      "symbol": "SOLVBTCBBN",
-      "logoURI": "https://assets.coingecko.com/coins/images/39384/thumb/unnamed.png?1721961640",
-      "assetGroup": "SOLVBTCBBN (Solv Protocol SolvBTC BBN)",
+      "symbol": "SolvBTC.BBN",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/SolvBTC.BBN.webp",
+      "assetGroup": "SOLVBTC.BBN",
       "tags": ["coingecko"]
     },
     "0xe4a4353cd8f008f1a70f1a564535990479e8ceb7": {
