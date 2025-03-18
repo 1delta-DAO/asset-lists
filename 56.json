@@ -6157,7 +6157,7 @@
       "address": "0x53e63a31fd1077f949204b94f431bcab98f72bce",
       "symbol": "SolvBTC.ENA",
       "logoURI": "https://tokens.pancakeswap.finance/images/0x53E63a31fD1077f949204b94F431bCaB98F72BCE.png",
-      "assetGroup": "SolvBTC.ENA (SolvBTC Ethena)",
+      "assetGroup": "SOLVBTC.ENA",
       "tags": ["debridge"]
     },
     "0x9f5d4479b783327b61718fa13b3a0583869a80c1": {
@@ -14713,7 +14713,7 @@
       "address": "0x38a001e57430f781404fff7a81de4bd67d1f6117",
       "symbol": "SolvBTC.JUP",
       "logoURI": "https://tokens.debridge.finance/Logo/56/0x38a001e57430f781404fff7a81de4bd67d1f6117/small/token-logo.png",
-      "assetGroup": "SolvBTC.JUP (Solv Protocol SolvBTC Jupiter)",
+      "assetGroup": "SOLVBTC.JUP",
       "tags": ["debridge"]
     },
     "0x01da6501d1083464f9a2c9a8cacf89f2dc160a97": {
@@ -34408,7 +34408,7 @@
       "name": "Merlin BTC",
       "address": "0x9bfa177621119e64cecbeabe184ab9993e2ef727",
       "symbol": "M-BTC",
-      "assetGroup": "M-BTC (Merlin BTC)",
+      "assetGroup": "M-BTC",
       "tags": ["debridge"]
     },
     "0x290c8431a800b40c4b7f1c31d1b771dc94b810b8": {
@@ -34703,6 +34703,26 @@
       "logoURI": "https://tokens.debridge.finance/Logo/56/0x4341bb2200176f89eb90eac4fd6cfe958e206005/small/token-logo.png",
       "assetGroup": "EAFIN (Eafin)",
       "tags": ["debridge"]
+    },
+    "0xbb1b031c591235408755ff4e0739cb88c5cf2507": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "PAAL AI",
+      "address": "0xbb1b031c591235408755ff4e0739cb88c5cf2507",
+      "symbol": "$PAAL",
+      "logoURI": "https://tokens.debridge.finance/Logo/56/0xbb1b031c591235408755ff4e0739cb88c5cf2507/small/token-logo.png",
+      "assetGroup": "$PAAL (PAAL AI)",
+      "tags": ["debridge"]
+    },
+    "0xc468acf451922712cf45af9801df89578b0418b4": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "DOODiPALS",
+      "address": "0xc468acf451922712cf45af9801df89578b0418b4",
+      "symbol": "DOODi",
+      "logoURI": "https://tokens.debridge.finance/Logo/56/0xc468acf451922712cf45af9801df89578b0418b4/small/token-logo.png",
+      "assetGroup": "DOODi (DOODiPALS)",
+      "tags": ["debridge"]
     }
   },
   "mainTokens": [
@@ -34803,7 +34823,8 @@
     "0x4aae823a6a0b376de6a78e74ecc5b079d38cbcf7",
     "0x53e63a31fd1077f949204b94f431bcab98f72bce",
     "0x1346b618dc92810ec74163e4c27004c921d446a5",
-    "0x38a001e57430f781404fff7a81de4bd67d1f6117"
+    "0x38a001e57430f781404fff7a81de4bd67d1f6117",
+    "0x9bfa177621119e64cecbeabe184ab9993e2ef727"
   ],
   "bridgeTokens": [
     "0x2170ed0880ac9a755fd29b2688956bd959f933f8",

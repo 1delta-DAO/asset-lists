@@ -199,8 +199,43 @@
       "symbol": "BANK",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/apebank.svg",
       "assetGroup": "BANK (ApeBank)"
+    },
+    "0xf4d9235269a96aadafc9adae454a0618ebe37949": {
+      "chainId": 33139,
+      "decimals": 18,
+      "name": "Wrapped Ether",
+      "address": "0xf4d9235269a96aadafc9adae454a0618ebe37949",
+      "symbol": "wETH",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/weth.svg",
+      "assetGroup": "WETH"
+    },
+    "0xf1815bd50389c46847f0bda824ec8da914045d14": {
+      "chainId": 33139,
+      "decimals": 6,
+      "name": "USDC",
+      "address": "0xf1815bd50389c46847f0bda824ec8da914045d14",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdc.svg",
+      "assetGroup": "USDC"
+    },
+    "0x674843c06ff83502ddb4d37c2e09c01cda38cbc8": {
+      "chainId": 33139,
+      "decimals": 6,
+      "name": "USDT",
+      "address": "0x674843c06ff83502ddb4d37c2e09c01cda38cbc8",
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdt.svg",
+      "assetGroup": "USDT"
     }
   },
-  "mainTokens": [],
-  "bridgeTokens": []
+  "mainTokens": [
+    "0xf4d9235269a96aadafc9adae454a0618ebe37949",
+    "0xf1815bd50389c46847f0bda824ec8da914045d14",
+    "0x674843c06ff83502ddb4d37c2e09c01cda38cbc8"
+  ],
+  "bridgeTokens": [
+    "0xf4d9235269a96aadafc9adae454a0618ebe37949",
+    "0xf1815bd50389c46847f0bda824ec8da914045d14",
+    "0x674843c06ff83502ddb4d37c2e09c01cda38cbc8"
+  ]
 }
