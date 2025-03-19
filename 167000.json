@@ -3,7 +3,7 @@
   "version": "0",
   "list": {
     "0xa51894664a773981c6c112c43ce576f315d5b1b6": {
-      "chainId": 167000,
+      "chainId": "167000",
       "decimals": 18,
       "name": "Wrapped Ether",
       "address": "0xa51894664a773981c6c112c43ce576f315d5b1b6",
@@ -12,7 +12,7 @@
       "assetGroup": "WETH"
     },
     "0x07d83526730c7438048d55a4fc0b850e2aab6f0b": {
-      "chainId": 167000,
+      "chainId": "167000",
       "decimals": 6,
       "name": "USD Coin",
       "address": "0x07d83526730c7438048d55a4fc0b850e2aab6f0b",
@@ -21,7 +21,7 @@
       "assetGroup": "USDC"
     },
     "0x19e26b0638bf63aa9fa4d14c6baf8d52ebe86c5c": {
-      "chainId": 167000,
+      "chainId": "167000",
       "decimals": 6,
       "name": "Bridged USDC (Stargate)",
       "address": "0x19e26b0638bf63aa9fa4d14c6baf8d52ebe86c5c",
@@ -31,7 +31,7 @@
       "tags": ["stargate", "bridged"]
     },
     "0x9c2dc7377717603eb92b2655c5f2e7997a4945bd": {
-      "chainId": 167000,
+      "chainId": "167000",
       "decimals": 6,
       "name": "Bridged Tether USD (Stargate)",
       "address": "0x9c2dc7377717603eb92b2655c5f2e7997a4945bd",
@@ -41,7 +41,7 @@
       "tags": ["stargate", "bridged"]
     },
     "0x2def195713cf4a606b49d07e520e22c17899a736": {
-      "chainId": 167000,
+      "chainId": "167000",
       "decimals": 6,
       "name": "Tether USD",
       "address": "0x2def195713cf4a606b49d07e520e22c17899a736",
@@ -50,7 +50,7 @@
       "assetGroup": "USDT"
     },
     "0xc4c410459fbaf8f7f86b6cee52b4fa1282ff9704": {
-      "chainId": 167000,
+      "chainId": "167000",
       "decimals": 8,
       "name": "Wrapped BTC",
       "address": "0xc4c410459fbaf8f7f86b6cee52b4fa1282ff9704",
@@ -59,7 +59,7 @@
       "assetGroup": "WBTC"
     },
     "0xa9d23408b9ba935c230493c40c73824df71a0975": {
-      "chainId": 167000,
+      "chainId": "167000",
       "decimals": 18,
       "name": "Taiko Token",
       "address": "0xa9d23408b9ba935c230493c40c73824df71a0975",
@@ -68,7 +68,7 @@
       "assetGroup": "TAIKO"
     },
     "0x7e91f29f8a213c8311712a8fc8c61219fb9477cb": {
-      "chainId": 167000,
+      "chainId": "167000",
       "decimals": 18,
       "name": "Kodo Token",
       "address": "0x7e91f29f8a213c8311712a8fc8c61219fb9477cb",
@@ -77,7 +77,7 @@
       "assetGroup": "KODO (Kodo Token)"
     },
     "0xd347949f8c85d9f3d6b06bfc4f8c2e07c161f064": {
-      "chainId": 167000,
+      "chainId": "167000",
       "decimals": 18,
       "name": "LoopringCoin V2",
       "address": "0xd347949f8c85d9f3d6b06bfc4f8c2e07c161f064",
@@ -86,7 +86,7 @@
       "assetGroup": "LRC (LoopringCoin V2)"
     },
     "0x473c58b748156d3249ca31baa3cad9781eb6d97e": {
-      "chainId": 167000,
+      "chainId": "167000",
       "decimals": 18,
       "name": "Rocket Pool ETH",
       "address": "0x473c58b748156d3249ca31baa3cad9781eb6d97e",
@@ -95,7 +95,7 @@
       "assetGroup": "RETH"
     },
     "0xf9a06e3afaadbccccc8824a1255a88d648ca0ef6": {
-      "chainId": 167000,
+      "chainId": "167000",
       "decimals": 18,
       "name": "TaikoSwap",
       "address": "0xf9a06e3afaadbccccc8824a1255a88d648ca0ef6",
@@ -104,7 +104,7 @@
       "assetGroup": "TKOSWAP (TaikoSwap)"
     },
     "0x2d9e1da77f086c50f93db46e554974b71536a9ee": {
-      "chainId": 167000,
+      "chainId": "167000",
       "decimals": 18,
       "name": "MAGA",
       "address": "0x2d9e1da77f086c50f93db46e554974b71536a9ee",
@@ -113,7 +113,7 @@
       "assetGroup": "MAGA (MAGA)"
     },
     "0x5217c8f3b7fb8b6501c8ff2a4c09b14b4b08c9f9": {
-      "chainId": 167000,
+      "chainId": "167000",
       "decimals": 18,
       "name": "Affine ultraETHs 2.0",
       "address": "0x5217c8f3b7fb8b6501c8ff2a4c09b14b4b08c9f9",
@@ -122,7 +122,7 @@
       "assetGroup": "ultraETHs (Affine ultraETHs 2.0)"
     },
     "0xa2fba3fde6c9e7386716b577e1258577cb9b5bf7": {
-      "chainId": 167000,
+      "chainId": "167000",
       "decimals": 18,
       "name": "izumi Token",
       "address": "0xa2fba3fde6c9e7386716b577e1258577cb9b5bf7",
@@ -131,7 +131,7 @@
       "assetGroup": "iZi (izumi Token)"
     },
     "0xda9a0fbce1b8b11fcbd8114354ec266594c0ff5a": {
-      "chainId": 167000,
+      "chainId": "167000",
       "decimals": 18,
       "name": "Wrapped sxETH",
       "address": "0xda9a0fbce1b8b11fcbd8114354ec266594c0ff5a",
@@ -140,7 +140,7 @@
       "assetGroup": "wsxETH (Wrapped sxETH)"
     },
     "0x541fd749419ca806a8bc7da8ac23d346f2df8b77": {
-      "chainId": 167000,
+      "chainId": "167000",
       "decimals": 18,
       "name": "Solv BTC",
       "address": "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
@@ -149,7 +149,7 @@
       "assetGroup": "SOLVBTC"
     },
     "0xcc0966d8418d412c599a6421b760a847eb169a8c": {
-      "chainId": 167000,
+      "chainId": "167000",
       "decimals": 18,
       "name": "SolvBTC Babylon",
       "address": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
@@ -158,7 +158,7 @@
       "assetGroup": "SOLVBTC.BBN"
     },
     "0xf7fb2df9280eb0a76427dc3b34761db8b1441a49": {
-      "chainId": 167000,
+      "chainId": "167000",
       "decimals": 18,
       "name": "Merlin BTC",
       "address": "0xf7fb2df9280eb0a76427dc3b34761db8b1441a49",
@@ -167,7 +167,7 @@
       "assetGroup": "M-BTC"
     },
     "0x93919784c523f39cacaa98ee0a9d96c3f32b593e": {
-      "chainId": 167000,
+      "chainId": "167000",
       "decimals": 8,
       "name": "uniBTC",
       "address": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
@@ -176,7 +176,7 @@
       "assetGroup": "UNIBTC"
     },
     "0x6a9a65b84843f5fd4ac9a0471c4fc11afffbce4a": {
-      "chainId": 167000,
+      "chainId": "167000",
       "decimals": 8,
       "name": "Lorenzo Wrapped Bitcoin",
       "address": "0x6a9a65b84843f5fd4ac9a0471c4fc11afffbce4a",
@@ -185,7 +185,7 @@
       "assetGroup": "enzoBTC (Lorenzo Wrapped Bitcoin)"
     },
     "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3": {
-      "chainId": 167000,
+      "chainId": "167000",
       "decimals": 18,
       "name": "Lorenzo stBTC",
       "address": "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3",
@@ -194,7 +194,7 @@
       "assetGroup": "STBTC"
     },
     "0xe3c0ff176ef92fc225096c6d1788ccb818808b35": {
-      "chainId": 167000,
+      "chainId": "167000",
       "decimals": 8,
       "name": "Obelisk BTC",
       "address": "0xe3c0ff176ef92fc225096c6d1788ccb818808b35",
@@ -203,7 +203,7 @@
       "assetGroup": "oBTC (Obelisk BTC)"
     },
     "0x36bfe1f1b36cfdb4fe75cc592ff5dc6200ad3e0f": {
-      "chainId": 167000,
+      "chainId": "167000",
       "decimals": 18,
       "name": "Swapsicle SLUSH Token",
       "address": "0x36bfe1f1b36cfdb4fe75cc592ff5dc6200ad3e0f",
@@ -212,7 +212,7 @@
       "assetGroup": "SLUSH (Swapsicle SLUSH Token)"
     },
     "0xc8f4518ed4bab9a972808a493107926ce8237068": {
-      "chainId": 167000,
+      "chainId": "167000",
       "decimals": 18,
       "name": "Curve.Fi USD Stablecoin",
       "address": "0xc8f4518ed4bab9a972808a493107926ce8237068",
@@ -221,7 +221,7 @@
       "assetGroup": "CRVUSD"
     },
     "0x09413312b263fd252c16e592a45f4689f26cb79d": {
-      "chainId": 167000,
+      "chainId": "167000",
       "decimals": 18,
       "name": "Curve DAO Token",
       "address": "0x09413312b263fd252c16e592a45f4689f26cb79d",
