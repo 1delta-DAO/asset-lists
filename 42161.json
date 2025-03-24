@@ -196,6 +196,14 @@
       "assetGroup": "ARB",
       "tags": ["coingecko", "debridge"]
     },
+    "0xe85411c030fb32a9d8b14bbbc6cb19417391f711": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Sumerian BTC",
+      "address": "0xe85411c030fb32a9d8b14bbbc6cb19417391f711",
+      "symbol": "suBTC",
+      "assetGroup": "suBTC (Sumerian BTC)"
+    },
     "0x61b79e67b96a63661c7e929dd1c0b10f0089d590": {
       "chainId": "42161",
       "decimals": 18,
@@ -12423,16 +12431,6 @@
       "symbol": "GNB",
       "logoURI": "https://tokens.debridge.finance/Logo/42161/0x439c0cf1038f8002a4cad489b427e217ba4b42ad/small/token-logo.png",
       "assetGroup": "GNB (GNB)",
-      "tags": ["debridge"]
-    },
-    "0xe85411c030fb32a9d8b14bbbc6cb19417391f711": {
-      "chainId": "42161",
-      "decimals": 18,
-      "name": "Sumer.Money suBTC",
-      "address": "0xe85411c030fb32a9d8b14bbbc6cb19417391f711",
-      "symbol": "SUBTC",
-      "logoURI": "https://tokens.debridge.finance/Logo/42161/0xe85411c030fb32a9d8b14bbbc6cb19417391f711/small/token-logo.png",
-      "assetGroup": "SUBTC (Sumer.Money suBTC)",
       "tags": ["debridge"]
     },
     "0x935a33e05ecbd424c1691623c99e501ae22400e6": {
