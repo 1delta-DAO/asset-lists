@@ -6655,7 +6655,7 @@
       "symbol": "BMONEY",
       "logoURI": "https://assets.coingecko.com/coins/images/35626/thumb/Brett_logo_480x480_%28200_x_200_px%29.png?1709291062",
       "assetGroup": "BMONEY (Brett Is Based)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x22dc834c3ff3e45f484bf24b9b07b851b981900f": {
       "chainId": "8453",
@@ -8044,7 +8044,7 @@
       "symbol": "EZ",
       "logoURI": "https://assets.coingecko.com/coins/images/36936/thumb/EZ_200X200.png?1712811096",
       "assetGroup": "EZ (EZ Pepe)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x67040bb0ad76236ddd5d156d23ec920a089d1eac": {
       "chainId": "8453",
@@ -9053,7 +9053,7 @@
       "symbol": "BEE",
       "logoURI": "https://assets.coingecko.com/coins/images/40003/thumb/logo.png?1725281733",
       "assetGroup": "BEE (BeeBase)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x9ef1139e6b420cc929dd912a5a7adeced6f12e91": {
       "chainId": "8453",
@@ -16047,7 +16047,8 @@
       "name": "Sumerian BTC",
       "address": "0xe85411c030fb32a9d8b14bbbc6cb19417391f711",
       "symbol": "suBTC",
-      "assetGroup": "suBTC (Sumerian BTC)"
+      "assetGroup": "SUBTC",
+      "tags": ["debridge"]
     },
     "0x890a40bfae3bf25a5e7c50a31505774ee7a5d33b": {
       "chainId": "8453",
@@ -16146,6 +16147,116 @@
       "symbol": "AHD",
       "logoURI": "https://assets.coingecko.com/coins/images/54888/thumb/IMG_3611.png?1742385756",
       "assetGroup": "AHD (Agent Humpty Dumpty)",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x1f94d6a61973edf53252b9e61c6250f303957b9d": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Parabol USD",
+      "address": "0x1f94d6a61973edf53252b9e61c6250f303957b9d",
+      "symbol": "PARAUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54918/thumb/logo.png?1742536896",
+      "assetGroup": "PARAUSD (Parabol USD)",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x3a43aec53490cb9fa922847385d82fe25d0e9de7": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Yield Optimizer ETH",
+      "address": "0x3a43aec53490cb9fa922847385d82fe25d0e9de7",
+      "symbol": "YOETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/54932/thumb/yoETH.png?1742627957",
+      "assetGroup": "YOETH (Yield Optimizer ETH)",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0xfdca15bd55f350a36e63c47661914d80411d2c22": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Wrapped Bittensor  Universal ",
+      "address": "0xfdca15bd55f350a36e63c47661914d80411d2c22",
+      "symbol": "UTAO",
+      "logoURI": "https://assets.coingecko.com/coins/images/54906/thumb/Untitled_%281%29.png?1742450295",
+      "assetGroup": "UTAO (Wrapped Bittensor  Universal )",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x991ab5d07f28232ec1677e2c13239fb9b4b9ccb7": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Agent Smith",
+      "address": "0x991ab5d07f28232ec1677e2c13239fb9b4b9ccb7",
+      "symbol": "SMITH",
+      "logoURI": "https://assets.coingecko.com/coins/images/54903/thumb/smith_portrait.jpg?1742449619",
+      "assetGroup": "SMITH (Agent Smith)",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x544f87a5aa41fcd725ef7c78a37cd9c1c4ba1650": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Wrapped Berachain  Universal ",
+      "address": "0x544f87a5aa41fcd725ef7c78a37cd9c1c4ba1650",
+      "symbol": "UBERA",
+      "logoURI": "https://assets.coingecko.com/coins/images/54905/thumb/Untitled.png?1742449920",
+      "assetGroup": "UBERA (Wrapped Berachain  Universal )",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x521ebb84ea82ee65154b68ecfe3a7292fb3779d6": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "iAgent Protocol",
+      "address": "0x521ebb84ea82ee65154b68ecfe3a7292fb3779d6",
+      "symbol": "AGNT",
+      "logoURI": "https://assets.coingecko.com/coins/images/39468/thumb/coingeckoAGNT.png?1742200816",
+      "assetGroup": "AGNT (iAgent Protocol)",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x17ce44b66dfd15c270dc24aca2e367adfed41620": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "BEMU",
+      "address": "0x17ce44b66dfd15c270dc24aca2e367adfed41620",
+      "symbol": "BEMU",
+      "logoURI": "https://assets.coingecko.com/coins/images/54936/thumb/jyTx7YWK_400x400.jpg?1742629118",
+      "assetGroup": "BEMU (BEMU)",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0xad55aebc9b8c03fc43cd9f62260391c13c23e7c0": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "OpenEden OpenDollar",
+      "address": "0xad55aebc9b8c03fc43cd9f62260391c13c23e7c0",
+      "symbol": "USDO",
+      "logoURI": "https://assets.coingecko.com/coins/images/53750/thumb/USDO_LOGO-white.png?1737181887",
+      "assetGroup": "USDO (OpenEden OpenDollar)",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x226a2fa2556c48245e57cd1cba4c6c9e67077dd2": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Bio Protocol",
+      "address": "0x226a2fa2556c48245e57cd1cba4c6c9e67077dd2",
+      "symbol": "BIO",
+      "logoURI": "https://assets.coingecko.com/coins/images/53022/thumb/bio.jpg?1735011002",
+      "assetGroup": "BIO (Bio Protocol)",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x55365c9e68e70122020184f4441b498e8bf06ac6": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Qawalla",
+      "address": "0x55365c9e68e70122020184f4441b498e8bf06ac6",
+      "symbol": "QWLA",
+      "logoURI": "https://assets.coingecko.com/coins/images/15242/thumb/qwla.png?1696514896",
+      "assetGroup": "QWLA (Qawalla)",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x915424ac489433130d92b04096f3b96c82e92a9d": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Prosper",
+      "address": "0x915424ac489433130d92b04096f3b96c82e92a9d",
+      "symbol": "PROS",
+      "logoURI": "https://assets.coingecko.com/coins/images/53917/thumb/Prosper_Token_LightMode_%281%29.png?1738143554",
+      "assetGroup": "PROS",
       "tags": ["coingecko", "debridge"]
     }
   },

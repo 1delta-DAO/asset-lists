@@ -116,7 +116,7 @@
       "symbol": "FXS",
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6953.png",
       "assetGroup": "FXS",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x42d4eb291c00a243c7cbc2759b47892ed1852a9d": {
       "chainId": "59144",
@@ -242,7 +242,7 @@
       "symbol": "MKR",
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1518.png",
       "assetGroup": "MKR",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x45dc7323e7357713d92edee756733dada5865fd5": {
       "chainId": "59144",
@@ -1031,6 +1031,16 @@
       "symbol": "aLinUSDT",
       "logoURI": "https://assets.coingecko.com/coins/images/14243/standard/aUSDT.78f5faae.png",
       "assetGroup": "aLinUSDT (Aave Linea USDT)"
+    },
+    "0x3ff47c5bf409c86533fe1f4907524d304062428d": {
+      "chainId": "59144",
+      "decimals": 18,
+      "name": "Monerium EUR emoney",
+      "address": "0x3ff47c5bf409c86533fe1f4907524d304062428d",
+      "symbol": "EURE",
+      "logoURI": "https://assets.coingecko.com/coins/images/54303/thumb/eure.jpg?1739167959",
+      "assetGroup": "EURE (Monerium EUR emoney)",
+      "tags": ["coingecko", "debridge"]
     }
   },
   "mainTokens": [

@@ -15235,7 +15235,7 @@
       "name": "Lorenzo Wrapped Bitcoin",
       "address": "0x6a9a65b84843f5fd4ac9a0471c4fc11afffbce4a",
       "symbol": "enzoBTC",
-      "assetGroup": "enzoBTC (Lorenzo Wrapped Bitcoin)",
+      "assetGroup": "ENZOBTC",
       "tags": ["debridge"]
     },
     "0xde6ed03f9706b0a49ff165a09853310c88d687c0": {
@@ -16347,6 +16347,7 @@
       "name": "GRABWAY",
       "address": "0x6d8058cdaa406ea4924d47b48f2ef5f18d35637c",
       "symbol": "GRAB",
+      "logoURI": "https://tokens.debridge.finance/Logo/56/0x6d8058cdaa406ea4924d47b48f2ef5f18d35637c/small/token-logo.png",
       "assetGroup": "GRAB (GRABWAY)",
       "tags": ["debridge"]
     },
@@ -34759,7 +34760,222 @@
       "name": "SyBTC",
       "address": "0xa67c48f86fc6d0176dca38883ca8153c76a532c7",
       "symbol": "syBTC",
+      "logoURI": "https://tokens.debridge.finance/Logo/56/0xa67c48f86fc6d0176dca38883ca8153c76a532c7/small/token-logo.png",
       "assetGroup": "BTC",
+      "tags": ["debridge"]
+    },
+    "0x5fdfafd107fc267bd6d6b1c08fcafb8d31394ba1": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Bink AI",
+      "address": "0x5fdfafd107fc267bd6d6b1c08fcafb8d31394ba1",
+      "symbol": "BINK",
+      "logoURI": "https://tokens.debridge.finance/Logo/56/0x5fdfafd107fc267bd6d6b1c08fcafb8d31394ba1/small/token-logo.png",
+      "assetGroup": "BINK (Bink AI)",
+      "tags": ["debridge"]
+    },
+    "0xd5369a3cac0f4448a9a96bb98af9c887c92fc37b": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Bubb",
+      "address": "0xd5369a3cac0f4448a9a96bb98af9c887c92fc37b",
+      "symbol": "BUBB",
+      "logoURI": "https://tokens.debridge.finance/Logo/56/0xd5369a3cac0f4448a9a96bb98af9c887c92fc37b/small/token-logo.png",
+      "assetGroup": "BUBB (Bubb)",
+      "tags": ["debridge"]
+    },
+    "0x996d1b997203a024e205069a304161ba618d1c61": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Tell A Tale",
+      "address": "0x996d1b997203a024e205069a304161ba618d1c61",
+      "symbol": "TAT",
+      "logoURI": "https://tokens.debridge.finance/Logo/56/0x996d1b997203a024e205069a304161ba618d1c61/small/token-logo.png",
+      "assetGroup": "TAT (Tell A Tale)",
+      "tags": ["debridge"]
+    },
+    "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Bedrock",
+      "address": "0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41",
+      "symbol": "BR",
+      "logoURI": "https://tokens.debridge.finance/Logo/56/0xff7d6a96ae471bbcd7713af9cb1feeb16cf56b41/small/token-logo.png",
+      "assetGroup": "BR (Bedrock)",
+      "tags": ["debridge"]
+    },
+    "0x59264f02d301281f3393e1385c0aefd446eb0f00": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Particle Network",
+      "address": "0x59264f02d301281f3393e1385c0aefd446eb0f00",
+      "symbol": "PARTI",
+      "assetGroup": "PARTI (Particle Network)",
+      "tags": ["debridge"]
+    },
+    "0xa0c56a8c0692bd10b3fa8f8ba79cf5332b7107f9": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Merlin Chain",
+      "address": "0xa0c56a8c0692bd10b3fa8f8ba79cf5332b7107f9",
+      "symbol": "MERL",
+      "logoURI": "https://tokens.debridge.finance/Logo/56/0xa0c56a8c0692bd10b3fa8f8ba79cf5332b7107f9/small/token-logo.png",
+      "assetGroup": "MERL (Merlin Chain)",
+      "tags": ["debridge"]
+    },
+    "0xeee352f77f28d31601eb20d3de09d7729ca2dc79": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Austin Capitals",
+      "address": "0xeee352f77f28d31601eb20d3de09d7729ca2dc79",
+      "symbol": "AUX",
+      "assetGroup": "AUX (Austin Capitals)",
+      "tags": ["debridge"]
+    },
+    "0xdc06717f367e57a16e06cce0c4761604460da8fc": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "BNB Card",
+      "address": "0xdc06717f367e57a16e06cce0c4761604460da8fc",
+      "symbol": "BNB Card",
+      "logoURI": "https://tokens.debridge.finance/Logo/56/0xdc06717f367e57a16e06cce0c4761604460da8fc/small/token-logo.png",
+      "assetGroup": "BNB Card (BNB Card)",
+      "tags": ["debridge"]
+    },
+    "0x342f7334e4c1732ea753a597722e9c3d04bdcce7": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Eid Mubarak",
+      "address": "0x342f7334e4c1732ea753a597722e9c3d04bdcce7",
+      "symbol": "EidMubarak",
+      "logoURI": "https://tokens.debridge.finance/Logo/56/0x342f7334e4c1732ea753a597722e9c3d04bdcce7/small/token-logo.png",
+      "assetGroup": "EidMubarak (Eid Mubarak)",
+      "tags": ["debridge"]
+    },
+    "0x1a2457016bee420da8bb40be029b76119847731d": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Trust Inspect",
+      "address": "0x1a2457016bee420da8bb40be029b76119847731d",
+      "symbol": "$TRUST",
+      "logoURI": "https://tokens.debridge.finance/Logo/56/0x1a2457016bee420da8bb40be029b76119847731d/small/token-logo.png",
+      "assetGroup": "$TRUST (Trust Inspect)",
+      "tags": ["debridge"]
+    },
+    "0xb20568b5de8abe668062710d785d292f686541e6": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Moongate Fun",
+      "address": "0xb20568b5de8abe668062710d785d292f686541e6",
+      "symbol": "MGTAI",
+      "logoURI": "https://tokens.debridge.finance/Logo/56/0xb20568b5de8abe668062710d785d292f686541e6/small/token-logo.png",
+      "assetGroup": "MGTAI (Moongate Fun)",
+      "tags": ["debridge"]
+    },
+    "0x5eac29ad69093281c6440e6ac196be4aab07c4de": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "NAVIX",
+      "address": "0x5eac29ad69093281c6440e6ac196be4aab07c4de",
+      "symbol": "NAVIX",
+      "assetGroup": "NAVIX (NAVIX)",
+      "tags": ["debridge"]
+    },
+    "0x6d99031eeff9e38f65f6e473897805992c9ca80d": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "BNC",
+      "address": "0x6d99031eeff9e38f65f6e473897805992c9ca80d",
+      "symbol": "BNC",
+      "logoURI": "https://tokens.debridge.finance/Logo/56/0x6d99031eeff9e38f65f6e473897805992c9ca80d/small/token-logo.png",
+      "assetGroup": "BNC (BNC)",
+      "tags": ["debridge"]
+    },
+    "0xbb5eacf97a545e22e3b96a8ae435567cc8718586": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Clancy",
+      "address": "0xbb5eacf97a545e22e3b96a8ae435567cc8718586",
+      "symbol": "CLANCY",
+      "logoURI": "https://tokens.debridge.finance/Logo/56/0xbb5eacf97a545e22e3b96a8ae435567cc8718586/small/token-logo.png",
+      "assetGroup": "CLANCY (Clancy)",
+      "tags": ["debridge"]
+    },
+    "0x46680028b950460f4f42446585051ddd232dfefe": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Frogo The Lord",
+      "address": "0x46680028b950460f4f42446585051ddd232dfefe",
+      "symbol": "FROGO",
+      "logoURI": "https://tokens.debridge.finance/Logo/56/0x46680028b950460f4f42446585051ddd232dfefe/small/token-logo.png",
+      "assetGroup": "FROGO (Frogo The Lord)",
+      "tags": ["debridge"]
+    },
+    "0x5b73a93b4e5e4f1fd27d8b3f8c97d69908b5e284": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Four",
+      "address": "0x5b73a93b4e5e4f1fd27d8b3f8c97d69908b5e284",
+      "symbol": "FORM",
+      "logoURI": "https://tokens.debridge.finance/Logo/56/0x5b73a93b4e5e4f1fd27d8b3f8c97d69908b5e284/small/token-logo.png",
+      "assetGroup": "FORM (Four)",
+      "tags": ["debridge"]
+    },
+    "0x4fa7c69a7b69f8bc48233024d546bc299d6b03bf": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Quq",
+      "address": "0x4fa7c69a7b69f8bc48233024d546bc299d6b03bf",
+      "symbol": "quq",
+      "logoURI": "https://tokens.debridge.finance/Logo/56/0x4fa7c69a7b69f8bc48233024d546bc299d6b03bf/small/token-logo.png",
+      "assetGroup": "quq (Quq)",
+      "tags": ["debridge"]
+    },
+    "0xfe7364b31c9a366407986d0cbdfa8a599757dda5": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "NimoAI",
+      "address": "0xfe7364b31c9a366407986d0cbdfa8a599757dda5",
+      "symbol": "NIMO",
+      "logoURI": "https://tokens.debridge.finance/Logo/56/0xfe7364b31c9a366407986d0cbdfa8a599757dda5/small/token-logo.png",
+      "assetGroup": "NIMO (NimoAI)",
+      "tags": ["debridge"]
+    },
+    "0x5fc6179fcf814fcd4344ee03376ba717a95992b6": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Victorum",
+      "address": "0x5fc6179fcf814fcd4344ee03376ba717a95992b6",
+      "symbol": "VCC",
+      "logoURI": "https://tokens.debridge.finance/Logo/56/0x5fc6179fcf814fcd4344ee03376ba717a95992b6/small/token-logo.png",
+      "assetGroup": "VCC (Victorum)",
+      "tags": ["debridge"]
+    },
+    "0x13ba349ecbe6d78590587f12ee19f50d8f8cd627": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Shibabitcoin",
+      "address": "0x13ba349ecbe6d78590587f12ee19f50d8f8cd627",
+      "symbol": "SBBTC",
+      "assetGroup": "SBBTC (Shibabitcoin)",
+      "tags": ["debridge"]
+    },
+    "0x59fbd938047ed48707c71f886bf053ce18c377f8": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "CAMEL",
+      "address": "0x59fbd938047ed48707c71f886bf053ce18c377f8",
+      "symbol": "CAMEL",
+      "assetGroup": "CAMEL (CAMEL)",
+      "tags": ["debridge"]
+    },
+    "0x972c42a6350b2f82cc532148eec8862843de94c2": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "OpenLM RevShare Token",
+      "address": "0x972c42a6350b2f82cc532148eec8862843de94c2",
+      "symbol": "OLM",
+      "assetGroup": "OLM (OpenLM RevShare Token)",
       "tags": ["debridge"]
     }
   },

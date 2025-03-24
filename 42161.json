@@ -202,7 +202,9 @@
       "name": "Sumerian BTC",
       "address": "0xe85411c030fb32a9d8b14bbbc6cb19417391f711",
       "symbol": "suBTC",
-      "assetGroup": "suBTC (Sumerian BTC)"
+      "logoURI": "https://tokens.debridge.finance/Logo/42161/0xe85411c030fb32a9d8b14bbbc6cb19417391f711/small/token-logo.png",
+      "assetGroup": "SUBTC",
+      "tags": ["debridge"]
     },
     "0x61b79e67b96a63661c7e929dd1c0b10f0089d590": {
       "chainId": "42161",
@@ -7386,7 +7388,7 @@
       "symbol": "MMT",
       "logoURI": "https://assets.coingecko.com/coins/images/29161/thumb/MMT_logo_Vert.png?1696528120",
       "assetGroup": "MMT (My MetaTrader)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x14a5f2872396802c3cc8942a39ab3e4118ee5038": {
       "chainId": "42161",
@@ -8065,7 +8067,7 @@
       "symbol": "MARK",
       "logoURI": "https://assets.coingecko.com/coins/images/37447/thumb/mchain.png?1714447037",
       "assetGroup": "MARK (Mchain Network)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0xf65247b6ed3e7fdbac313959b3f62475fbb5f8e4": {
       "chainId": "42161",
@@ -8355,7 +8357,7 @@
       "symbol": "BTORO",
       "logoURI": "https://assets.coingecko.com/coins/images/50334/thumb/bitoro-logo-highres.jpg?1727306095",
       "assetGroup": "BTORO (Bitoro)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x0b5ac0d7dcf6964609a12af4f6c6f3c257070193": {
       "chainId": "42161",
@@ -8425,7 +8427,7 @@
       "symbol": "7007",
       "logoURI": "https://assets.coingecko.com/coins/images/50293/thumb/token7007.png?1726931640",
       "assetGroup": "7007 (Token7007)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x1a0eeaa7bf60e01646eff96bfcaada850ed250ae": {
       "chainId": "42161",
@@ -12568,6 +12570,34 @@
       "symbol": "VEMP",
       "logoURI": "https://assets.coingecko.com/coins/images/18074/thumb/PFP.jpeg?1723649781",
       "assetGroup": "VEMP (VEMP Horizon)",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x5fbc42e75598b3367bbdccf99edf9989d1c0c7d4": {
+      "chainId": "42161",
+      "decimals": 8,
+      "name": "SOLVE",
+      "address": "0x5fbc42e75598b3367bbdccf99edf9989d1c0c7d4",
+      "symbol": "SOLVE",
+      "logoURI": "https://assets.coingecko.com/coins/images/1768/large/Solve.Token_logo_200_200_wiyhout_BG.png?1575869846",
+      "assetGroup": "SOLVE (SOLVE)"
+    },
+    "0x0419e8bfbbb2623728c3a6129090da4ff4e48113": {
+      "chainId": "42161",
+      "decimals": 2,
+      "name": "Telcoin",
+      "address": "0x0419e8bfbbb2623728c3a6129090da4ff4e48113",
+      "symbol": "TEL",
+      "logoURI": "https://assets.coingecko.com/coins/images/1899/large/tel.png?1547036203",
+      "assetGroup": "TEL (Telcoin)"
+    },
+    "0xef4a1d459d62dfd2ebb9c45b04f90f0a7ba1d56e": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Pepe Community",
+      "address": "0xef4a1d459d62dfd2ebb9c45b04f90f0a7ba1d56e",
+      "symbol": "PEPE",
+      "logoURI": "https://assets.coingecko.com/coins/images/31482/thumb/photo_2023-08-25_07-54-16.jpg?1696530294",
+      "assetGroup": "PEPE",
       "tags": ["coingecko", "debridge"]
     }
   },
