@@ -1989,7 +1989,7 @@
       "symbol": "USDT",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
       "assetGroup": "USDT",
-      "tags": ["openocean", "coingecko"]
+      "tags": ["openocean", "coingecko", "debridge"]
     },
     "0xcf6130de80de367597efc3fde07c22abd0698601": {
       "chainId": "42161",
@@ -6607,7 +6607,7 @@
       "address": "0x050c24dbf1eec17babe5fc585f06116a259cc77a",
       "symbol": "IBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/37289/thumb/dlcBTC_ico_200px.png?1713946623",
-      "assetGroup": "IBTC (iBTC)",
+      "assetGroup": "IBTC",
       "tags": ["coingecko", "debridge"]
     },
     "0x7c5fed5e0f8d05748cc12ffe1ca400b07de0f983": {
@@ -7887,7 +7887,7 @@
       "symbol": "ROSNET",
       "logoURI": "https://assets.coingecko.com/coins/images/35279/thumb/RosnetLogo200x200.png?1708054752",
       "assetGroup": "ROSNET (Rosnet)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x51f6ee60108cbcb3b613093bd3f224cb49aa1610": {
       "chainId": "42161",
@@ -12599,6 +12599,36 @@
       "logoURI": "https://assets.coingecko.com/coins/images/31482/thumb/photo_2023-08-25_07-54-16.jpg?1696530294",
       "assetGroup": "PEPE",
       "tags": ["coingecko", "debridge"]
+    },
+    "0xcded6b899edba762d793f44ed295248049440e1e": {
+      "chainId": "42161",
+      "decimals": 2,
+      "name": "Sygnum FIUSD Liquidity Fund",
+      "address": "0xcded6b899edba762d793f44ed295248049440e1e",
+      "symbol": "FIUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/50749/thumb/FIUDS_200x200px_%281%29.png?1728956878",
+      "assetGroup": "FIUSD (Sygnum FIUSD Liquidity Fund)",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x5829d6fe7528bc8e92c4e81cc8f20a528820b51a": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Overtime",
+      "address": "0x5829d6fe7528bc8e92c4e81cc8f20a528820b51a",
+      "symbol": "OVER",
+      "logoURI": "https://assets.coingecko.com/coins/images/54973/thumb/over.png?1742959291",
+      "assetGroup": "OVER (Overtime)",
+      "tags": ["coingecko"]
+    },
+    "0x1cb9bd2c6e7f4a7de3778547d46c8d4c22abc093": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Stobox",
+      "address": "0x1cb9bd2c6e7f4a7de3778547d46c8d4c22abc093",
+      "symbol": "STBU",
+      "logoURI": "https://assets.coingecko.com/coins/images/12637/thumb/123456826.png?1696512445",
+      "assetGroup": "STBU (Stobox)",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [

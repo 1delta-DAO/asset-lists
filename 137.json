@@ -21858,7 +21858,8 @@
       "address": "0x46d502fac9aea7c5bc7b13c8ec9d02378c33d36f",
       "symbol": "WSPP",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x46D502Fac9aEA7c5bC7B13C8Ec9D02378C33D36F/logo.png",
-      "assetGroup": "WSPP (WolfSafePoorPeople)"
+      "assetGroup": "WSPP (WolfSafePoorPeople)",
+      "tags": ["debridge"]
     },
     "0xe0ce60af0850bf54072635e66e79df17082a1109": {
       "chainId": "137",
@@ -29477,6 +29478,24 @@
       "address": "0x418a89b177b41e24fa50712a1822f6e6e8c629a1",
       "symbol": "iAI",
       "assetGroup": "iAI (iAI Token)",
+      "tags": ["debridge"]
+    },
+    "0x1a3c7d6cb66299f769040e6d4cf0c1945f6a2f32": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "KIATOKEN",
+      "address": "0x1a3c7d6cb66299f769040e6d4cf0c1945f6a2f32",
+      "symbol": "KIA",
+      "assetGroup": "KIA (KIATOKEN)",
+      "tags": ["debridge"]
+    },
+    "0x60f7dd499956ec8fcea8ed80e9d7eade4ccdc417": {
+      "chainId": "137",
+      "decimals": 6,
+      "name": "USD DWIN",
+      "address": "0x60f7dd499956ec8fcea8ed80e9d7eade4ccdc417",
+      "symbol": "USDW",
+      "assetGroup": "USDW (USD DWIN)",
       "tags": ["debridge"]
     }
   },

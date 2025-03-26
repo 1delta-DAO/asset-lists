@@ -14263,8 +14263,7 @@
       "address": "0x67343c29c0fd9827f33e675e0eb80773f9444444",
       "symbol": "ISTEP",
       "logoURI": "https://tokens.debridge.finance/Logo/56/0x67343c29c0fd9827f33e675e0eb80773f9444444/small/token-logo.png",
-      "assetGroup": "ISTEP (iSTEP)",
-      "tags": ["debridge"]
+      "assetGroup": "ISTEP (iSTEP)"
     },
     "0x56156fb7860d7eb0b4b1a5356c5354b295194a45": {
       "chainId": "56",
@@ -14654,7 +14653,7 @@
       "symbol": "USDTSO",
       "logoURI": "https://tokens.debridge.finance/Logo/56/0x49d5cc521f75e13fa8eb4e89e9d381352c897c96/small/token-logo.png",
       "assetGroup": "USDTSO (Tether USD (Wormhole))",
-      "tags": ["wormhole", "bridged", "debridge"]
+      "tags": ["wormhole", "bridged"]
     },
     "0x81aa4d3ad2a86e7a2cd44630c36ccaacd6b30568": {
       "chainId": "56",
@@ -34653,7 +34652,7 @@
       "name": "iBTC",
       "address": "0x25be3edd820a8fce6b8e211f40c5b82ba176994c",
       "symbol": "IBTC",
-      "assetGroup": "IBTC (iBTC Network)",
+      "assetGroup": "IBTC",
       "tags": ["debridge"]
     },
     "0x554b5daea72b2e2185147374954cb4721e20f4e1": {
@@ -34976,6 +34975,34 @@
       "address": "0x972c42a6350b2f82cc532148eec8862843de94c2",
       "symbol": "OLM",
       "assetGroup": "OLM (OpenLM RevShare Token)",
+      "tags": ["debridge"]
+    },
+    "0x8f49733210700d38098d7375c221c7d02f700cc8": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Pallapay",
+      "address": "0x8f49733210700d38098d7375c221c7d02f700cc8",
+      "symbol": "PALLA",
+      "logoURI": "https://tokens.debridge.finance/Logo/56/0x8f49733210700d38098d7375c221c7d02f700cc8/small/token-logo.png",
+      "assetGroup": "PALLA (Pallapay)",
+      "tags": ["debridge"]
+    },
+    "0xcab2d5a21c537865bdab4a3048e15f61ea2c1fa1": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "LoomSync",
+      "address": "0xcab2d5a21c537865bdab4a3048e15f61ea2c1fa1",
+      "symbol": "LOOM",
+      "assetGroup": "LOOM (LoomSync)",
+      "tags": ["debridge"]
+    },
+    "0x0348faf029abc241dc741e0bf8790b1d81d22bb3": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Gambly.io",
+      "address": "0x0348faf029abc241dc741e0bf8790b1d81d22bb3",
+      "symbol": "GMBLY",
+      "assetGroup": "GMBLY (Gambly.io)",
       "tags": ["debridge"]
     }
   },
