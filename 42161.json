@@ -7747,7 +7747,7 @@
       "symbol": "ODIN",
       "logoURI": "https://assets.coingecko.com/coins/images/29157/thumb/IMG_20230222_053621_351.jpg?1696528116",
       "assetGroup": "ODIN (AsgardX)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x493070ef5280e7a275a106a30b0414dbdb21febd": {
       "chainId": "42161",
@@ -9567,7 +9567,7 @@
       "symbol": "WALC",
       "logoURI": "https://assets.coingecko.com/coins/images/34332/thumb/WALC_-_Logo.png?1704668584",
       "assetGroup": "WALC (WALC)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x6e4cc0ab2b4d2edafa6723cfa1582229f1dd1be1": {
       "chainId": "42161",
@@ -12618,7 +12618,7 @@
       "symbol": "OVER",
       "logoURI": "https://assets.coingecko.com/coins/images/54973/thumb/over.png?1742959291",
       "assetGroup": "OVER (Overtime)",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "debridge"]
     },
     "0x1cb9bd2c6e7f4a7de3778547d46c8d4c22abc093": {
       "chainId": "42161",
@@ -12628,7 +12628,37 @@
       "symbol": "STBU",
       "logoURI": "https://assets.coingecko.com/coins/images/12637/thumb/123456826.png?1696512445",
       "assetGroup": "STBU (Stobox)",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "debridge"]
+    },
+    "0xcf6c2bb97a8978321c9e207afe8a2037fa9be45c": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Orbit Ether",
+      "address": "0xcf6c2bb97a8978321c9e207afe8a2037fa9be45c",
+      "symbol": "ORBETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/54981/thumb/orbETH-token_icon.png?1743026013",
+      "assetGroup": "ORBETH (Orbit Ether)",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x65d51305e969ff19d96954c4a75d8e9fde86ce07": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Helping Hearts International",
+      "address": "0x65d51305e969ff19d96954c4a75d8e9fde86ce07",
+      "symbol": "HHI",
+      "logoURI": "https://assets.coingecko.com/coins/images/54978/thumb/Helping_Hearts_International_1.png?1743001188",
+      "assetGroup": "HHI (Helping Hearts International)",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x1045971c168b5294acbc8727a4f1c9e1af99f6d0": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Fasttoken",
+      "address": "0x1045971c168b5294acbc8727a4f1c9e1af99f6d0",
+      "symbol": "FTN",
+      "logoURI": "https://assets.coingecko.com/coins/images/28478/thumb/lightenicon_200x200.png?1696527472",
+      "assetGroup": "FTN (Fasttoken)",
+      "tags": ["coingecko", "debridge"]
     }
   },
   "mainTokens": [

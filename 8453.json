@@ -255,7 +255,8 @@
       "address": "0x37f0c2915cecc7e977183b8543fc0864d03e064c",
       "symbol": "HUNT",
       "logoURI": "https://assets.coingecko.com/coins/images/7989/large/HUNT.png?1571024256",
-      "assetGroup": "HUNT (Hunt)"
+      "assetGroup": "HUNT (Hunt)",
+      "tags": ["coingecko"]
     },
     "0x18e692c03de43972fe81058f322fa542ae1a5e2c": {
       "chainId": "8453",
@@ -3590,7 +3591,7 @@
     "0x1bc71130a0e39942a7658878169764bbd8a45993": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "KelpDAO Restaked ETH Base",
+      "name": "KelpDAO Restaked ETH",
       "address": "0x1bc71130a0e39942a7658878169764bbd8a45993",
       "symbol": "rsETH",
       "logoURI": "https://assets.coingecko.com/coins/images/39547/thumb/rseth.png?1722850260",
@@ -8714,7 +8715,7 @@
       "symbol": "JADE",
       "logoURI": "https://assets.coingecko.com/coins/images/38926/thumb/Asset_2_3x.png?1719542614",
       "assetGroup": "JADE (Jaderoll)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0xc9b6ef062fab19d3f1eabc36b1f2e852af1acd18": {
       "chainId": "8453",
@@ -16368,6 +16369,66 @@
       "symbol": "STPT",
       "logoURI": "https://assets.coingecko.com/coins/images/8713/thumb/STP.png?1696508875",
       "assetGroup": "STPT (STP)",
+      "tags": ["coingecko"]
+    },
+    "0x5a4342f4268a731f4459cd0be22d4744a86d635d": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Reactor",
+      "address": "0x5a4342f4268a731f4459cd0be22d4744a86d635d",
+      "symbol": "ARC",
+      "logoURI": "https://assets.coingecko.com/coins/images/55001/thumb/reactor_icon.png?1743156040",
+      "assetGroup": "ARC (Reactor)",
+      "tags": ["coingecko"]
+    },
+    "0x4381bc7d5640bf514a508e2732ec522c650c414c": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Aura",
+      "address": "0x4381bc7d5640bf514a508e2732ec522c650c414c",
+      "symbol": "AURA",
+      "logoURI": "https://assets.coingecko.com/coins/images/54983/thumb/CMC_Logo.png?1743035811",
+      "assetGroup": "AURA (Aura)",
+      "tags": ["coingecko"]
+    },
+    "0x856d602e73545deaa1491a3726cf628d49f74f51": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "GRAM Ecosystem",
+      "address": "0x856d602e73545deaa1491a3726cf628d49f74f51",
+      "symbol": "GRAM",
+      "logoURI": "https://assets.coingecko.com/coins/images/54984/thumb/GRAM_200_%281%29.png?1743057342",
+      "assetGroup": "GRAM (GRAM Ecosystem)",
+      "tags": ["coingecko"]
+    },
+    "0x72e1868f8eb8f9fb86455c10e72aa4b24774a5a3": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Polytrade",
+      "address": "0x72e1868f8eb8f9fb86455c10e72aa4b24774a5a3",
+      "symbol": "TRADE",
+      "logoURI": "https://assets.coingecko.com/coins/images/16416/thumb/Logo_colored_200.png?1696516012",
+      "assetGroup": "TRADE",
+      "tags": ["coingecko"]
+    },
+    "0xe4c3461a20f50dad7b9e88ca0222a255c4126fc0": {
+      "chainId": "8453",
+      "decimals": 6,
+      "name": "XION",
+      "address": "0xe4c3461a20f50dad7b9e88ca0222a255c4126fc0",
+      "symbol": "XION",
+      "logoURI": "https://assets.coingecko.com/coins/images/39034/thumb/Burnt-Xion-Blaise-Logo-White-On-Black-Square.png?1720038410",
+      "assetGroup": "XION (XION)",
+      "tags": ["coingecko"]
+    },
+    "0x1045971c168b5294acbc8727a4f1c9e1af99f6d0": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Fasttoken",
+      "address": "0x1045971c168b5294acbc8727a4f1c9e1af99f6d0",
+      "symbol": "FTN",
+      "logoURI": "https://assets.coingecko.com/coins/images/28478/thumb/lightenicon_200x200.png?1696527472",
+      "assetGroup": "FTN (Fasttoken)",
       "tags": ["coingecko"]
     }
   },
