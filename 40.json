@@ -27,8 +27,9 @@
       "name": "Staked TLOS",
       "address": "0xb4b01216a5bc8f1c8a33cd990a1239030e60c905",
       "symbol": "STLOS",
-      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/40/0xB4B01216a5Bc8F1C8A33CD990A1239030E60C905.png",
-      "assetGroup": "STLOS (Staked TLOS)"
+      "logoURI": "https://assets.coingecko.com/coins/images/31359/thumb/tlos_png.png?1722391377",
+      "assetGroup": "STLOS (Staked TLOS)",
+      "tags": ["coingecko"]
     },
     "0xdc2393dc10734bf153153038943a5deb42b209cd": {
       "chainId": "40",
@@ -38,8 +39,125 @@
       "symbol": "WTLOS",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/40/0xDC2393dc10734BF153153038943a5deB42b209cd.png",
       "assetGroup": "WTLOS (Wrapped TLOS)"
+    },
+    "0x7c598c96d02398d89fbcb9d41eab3df0c16f227d": {
+      "chainId": "40",
+      "decimals": 18,
+      "name": "Multichain Bridged WAVAX  Telos ",
+      "address": "0x7c598c96d02398d89fbcb9d41eab3df0c16f227d",
+      "symbol": "WAVAX",
+      "logoURI": "https://assets.coingecko.com/coins/images/53095/thumb/multichain-bridged-wavax-telos.png?1735221405",
+      "assetGroup": "WAVAX",
+      "tags": ["multichain", "bridged", "coingecko"]
+    },
+    "0x2c78f1b70ccf63cdee49f9233e9faa99d43aa07e": {
+      "chainId": "40",
+      "decimals": 18,
+      "name": "Multichain Bridged WBNB  Telos ",
+      "address": "0x2c78f1b70ccf63cdee49f9233e9faa99d43aa07e",
+      "symbol": "WBNB",
+      "logoURI": "https://assets.coingecko.com/coins/images/53122/thumb/wbnb.png?1735250267",
+      "assetGroup": "WBNB",
+      "tags": ["multichain", "bridged", "coingecko"]
+    },
+    "0x7e1cfe10949a6086a28c38aa4a43fdeab34f198a": {
+      "chainId": "40",
+      "decimals": 4,
+      "name": "Destiny World",
+      "address": "0x7e1cfe10949a6086a28c38aa4a43fdeab34f198a",
+      "symbol": "DECO",
+      "logoURI": "https://assets.coingecko.com/coins/images/26034/thumb/20220322_005721.png?1696525110",
+      "assetGroup": "DECO (Destiny World)",
+      "tags": ["coingecko"]
+    },
+    "0xd102ce6a4db07d247fcc28f366a623df0938ca9e": {
+      "chainId": "40",
+      "decimals": 18,
+      "name": "Wrapped Telos",
+      "address": "0xd102ce6a4db07d247fcc28f366a623df0938ca9e",
+      "symbol": "WTLOS",
+      "logoURI": "https://assets.coingecko.com/coins/images/23952/thumb/tlos_png.png?1722391320",
+      "assetGroup": "WTLOS (Wrapped Telos)",
+      "tags": ["coingecko"]
+    },
+    "0x568524da340579887db50ecf602cd1ba8451b243": {
+      "chainId": "40",
+      "decimals": 18,
+      "name": "Meridian MST",
+      "address": "0x568524da340579887db50ecf602cd1ba8451b243",
+      "symbol": "MST",
+      "logoURI": "https://assets.coingecko.com/coins/images/34343/thumb/Meridian_Icon.png?1720634198",
+      "assetGroup": "MST (Meridian MST)",
+      "tags": ["coingecko"]
+    },
+    "0x667fd83e24ca1d935d36717d305d54fa0cac991c": {
+      "chainId": "40",
+      "decimals": 18,
+      "name": "ApeSwap",
+      "address": "0x667fd83e24ca1d935d36717d305d54fa0cac991c",
+      "symbol": "BANANA",
+      "logoURI": "https://assets.coingecko.com/coins/images/14870/thumb/banana.png?1696514534",
+      "assetGroup": "BANANA (ApeSwap)",
+      "tags": ["coingecko"]
+    },
+    "0x332730a4f6e03d9c55829435f10360e13cfa41ff": {
+      "chainId": "40",
+      "decimals": 18,
+      "name": "Wrapped POL",
+      "address": "0x332730a4f6e03d9c55829435f10360e13cfa41ff",
+      "symbol": "WPOL",
+      "logoURI": "https://assets.coingecko.com/coins/images/14073/thumb/matic.png?1696513797",
+      "assetGroup": "WPOL",
+      "tags": ["coingecko"]
+    },
+    "0xc1be9a4d5d45beeacae296a7bd5fadbfc14602c4": {
+      "chainId": "40",
+      "decimals": 18,
+      "name": "Wrapped Fantom",
+      "address": "0xc1be9a4d5d45beeacae296a7bd5fadbfc14602c4",
+      "symbol": "WFTM",
+      "logoURI": "https://assets.coingecko.com/coins/images/16036/thumb/Fantom.png?1696515646",
+      "assetGroup": "WFTM (Wrapped Fantom)",
+      "tags": ["coingecko"]
+    },
+    "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee": {
+      "chainId": "40",
+      "decimals": 18,
+      "name": "Elk Finance",
+      "address": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
+      "symbol": "ELK",
+      "logoURI": "https://assets.coingecko.com/coins/images/17813/thumb/elk.png?1696517333",
+      "assetGroup": "ELK (Elk Finance)",
+      "tags": ["coingecko"]
+    },
+    "0xdf020cbd1897133978c7fcdf04b07e69d8934efc": {
+      "chainId": "40",
+      "decimals": 18,
+      "name": "zkEra Finance",
+      "address": "0xdf020cbd1897133978c7fcdf04b07e69d8934efc",
+      "symbol": "ZKE",
+      "logoURI": "https://assets.coingecko.com/coins/images/33928/thumb/token_png.png?1715327053",
+      "assetGroup": "ZKE (zkEra Finance)",
+      "tags": ["coingecko"]
     }
   },
-  "mainTokens": ["0xc57f0eb99363e747d637b17bbdb4e1ab85e60631"],
-  "bridgeTokens": ["0xc57f0eb99363e747d637b17bbdb4e1ab85e60631"]
+  "mainTokens": [
+    "0xc57f0eb99363e747d637b17bbdb4e1ab85e60631",
+    "0x7c598c96d02398d89fbcb9d41eab3df0c16f227d",
+    "0x2c78f1b70ccf63cdee49f9233e9faa99d43aa07e",
+    "0xb4b01216a5bc8f1c8a33cd990a1239030e60c905",
+    "0x7e1cfe10949a6086a28c38aa4a43fdeab34f198a",
+    "0xd102ce6a4db07d247fcc28f366a623df0938ca9e",
+    "0x568524da340579887db50ecf602cd1ba8451b243",
+    "0x667fd83e24ca1d935d36717d305d54fa0cac991c",
+    "0x332730a4f6e03d9c55829435f10360e13cfa41ff",
+    "0xc1be9a4d5d45beeacae296a7bd5fadbfc14602c4",
+    "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
+    "0xdf020cbd1897133978c7fcdf04b07e69d8934efc"
+  ],
+  "bridgeTokens": [
+    "0xc57f0eb99363e747d637b17bbdb4e1ab85e60631",
+    "0x7c598c96d02398d89fbcb9d41eab3df0c16f227d",
+    "0x2c78f1b70ccf63cdee49f9233e9faa99d43aa07e"
+  ]
 }
