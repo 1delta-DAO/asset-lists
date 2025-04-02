@@ -6229,7 +6229,7 @@
       "symbol": "HAMI",
       "logoURI": "https://assets.coingecko.com/coins/images/28783/thumb/icon.png?1696527762",
       "assetGroup": "HAMI (Hamachi Finance)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x3404149e9ee6f17fb41db1ce593ee48fbdcd9506": {
       "chainId": "42161",
@@ -10317,7 +10317,7 @@
       "symbol": "NSWAP",
       "logoURI": "https://assets.coingecko.com/coins/images/30099/thumb/nswap-circ_%283%29.png?1696529023",
       "assetGroup": "NSWAP (Nulswap)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0xffa188493c15dfaf2c206c97d8633377847b6a52": {
       "chainId": "42161",
@@ -12659,6 +12659,26 @@
       "logoURI": "https://assets.coingecko.com/coins/images/28478/thumb/lightenicon_200x200.png?1696527472",
       "assetGroup": "FTN (Fasttoken)",
       "tags": ["coingecko", "debridge"]
+    },
+    "0xaedf7656fbb47c5b97dd529ac1d0e807e051f2dd": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Moonchain",
+      "address": "0xaedf7656fbb47c5b97dd529ac1d0e807e051f2dd",
+      "symbol": "MXC",
+      "logoURI": "https://assets.coingecko.com/coins/images/4604/thumb/M_1-modified.png?1712206949",
+      "assetGroup": "MXC (Moonchain)",
+      "tags": ["coingecko"]
+    },
+    "0x812f2d5ff6088ed7a655567dbcdf0d42cf07ca38": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Grix",
+      "address": "0x812f2d5ff6088ed7a655567dbcdf0d42cf07ca38",
+      "symbol": "GRIX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55060/thumb/grix_logo_black-background.png?1743524648",
+      "assetGroup": "GRIX (Grix)",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [

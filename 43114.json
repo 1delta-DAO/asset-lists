@@ -1586,7 +1586,7 @@
       "symbol": "XPOW",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x735D8f3B6A5d2c96D0405230c50Eaf96794FbB88/logo.png",
       "assetGroup": "XPOW (XPower)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x7f9c841feadddb4bdbb2a161ca40bebc4f215a9a": {
       "chainId": "43114",
@@ -1847,7 +1847,7 @@
       "address": "0x1fcca65fb6ae3b2758b9b2b394cb227eae404e1e",
       "symbol": "pumpBTC",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x1fCca65fb6Ae3b2758b9b2B394CB227eAE404e1E/logo.png",
-      "assetGroup": "pumpBTC (pumpBTC)"
+      "assetGroup": "PUMPBTC"
     },
     "0x1965a5f87e540aa29f9e68fb1f46350401e83657": {
       "chainId": "43114",
@@ -3089,7 +3089,7 @@
       "symbol": "ALPHA",
       "logoURI": "https://assets.coingecko.com/coins/images/28136/thumb/alpha.png?1696527143",
       "assetGroup": "ALPHA",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x5541d83efad1f281571b343977648b75d95cdac2": {
       "chainId": "43114",
@@ -5427,6 +5427,35 @@
       "symbol": "ERROR",
       "logoURI": "https://assets.coingecko.com/coins/images/55012/thumb/dex_pfp.jpg?1743162530",
       "assetGroup": "ERROR (AI404)",
+      "tags": ["coingecko"]
+    },
+    "0xfb98b335551a418cd0737375a2ea0ded62ea213b": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Pendle",
+      "address": "0xfb98b335551a418cd0737375a2ea0ded62ea213b",
+      "symbol": "PENDLE",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728",
+      "assetGroup": "PENDLE"
+    },
+    "0x97f2624d5f99a953ae5574ea57d3268785941de4": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Cointel",
+      "address": "0x97f2624d5f99a953ae5574ea57d3268785941de4",
+      "symbol": "COLS",
+      "logoURI": "https://assets.coingecko.com/coins/images/55044/thumb/MJQlzeE-_400x400.png?1743433037",
+      "assetGroup": "COLS (Cointel)",
+      "tags": ["coingecko"]
+    },
+    "0x59234b44214d88c57b7c54a6d2633334d95c5161": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "NUMINE Token",
+      "address": "0x59234b44214d88c57b7c54a6d2633334d95c5161",
+      "symbol": "NUMI",
+      "logoURI": "https://assets.coingecko.com/coins/images/55029/thumb/Token_Logo_NUMI_200.png?1743320367",
+      "assetGroup": "NUMI (NUMINE Token)",
       "tags": ["coingecko"]
     }
   },

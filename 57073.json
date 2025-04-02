@@ -1,0 +1,123 @@
+{
+  "chainId": "57073",
+  "version": "0",
+  "list": {
+    "0x20c69c12abf2b6f8d8ca33604dd25c700c7e70a5": {
+      "chainId": "57073",
+      "decimals": 18,
+      "name": "Cat Call Agent",
+      "address": "0x20c69c12abf2b6f8d8ca33604dd25c700c7e70a5",
+      "symbol": "CAT",
+      "logoURI": "https://assets.coingecko.com/coins/images/54745/thumb/DV_dS5E9_400x400_%282%29.png?1741326959",
+      "assetGroup": "CAT (Cat Call Agent)",
+      "tags": ["coingecko"]
+    },
+    "0xca5f2ccbd9c40b32657df57c716de44237f80f05": {
+      "chainId": "57073",
+      "decimals": 18,
+      "name": "Kraken",
+      "address": "0xca5f2ccbd9c40b32657df57c716de44237f80f05",
+      "symbol": "KRAKEN",
+      "logoURI": "https://assets.coingecko.com/coins/images/52919/thumb/kraken.jpg?1734685461",
+      "assetGroup": "KRAKEN (Kraken)",
+      "tags": ["coingecko"]
+    },
+    "0x0c5e2d1c98cd265c751e02f8f3293bc5764f9111": {
+      "chainId": "57073",
+      "decimals": 18,
+      "name": "Shroomy",
+      "address": "0x0c5e2d1c98cd265c751e02f8f3293bc5764f9111",
+      "symbol": "SHROOMY",
+      "logoURI": "https://assets.coingecko.com/coins/images/54002/thumb/1000000182.jpg?1737942213",
+      "assetGroup": "SHROOMY (Shroomy)",
+      "tags": ["coingecko"]
+    },
+    "0xf1815bd50389c46847f0bda824ec8da914045d14": {
+      "chainId": "57073",
+      "decimals": 6,
+      "name": "Stargate Bridged USDC  Ink ",
+      "address": "0xf1815bd50389c46847f0bda824ec8da914045d14",
+      "symbol": "USDCE",
+      "logoURI": "https://assets.coingecko.com/coins/images/53782/thumb/usdc.jpg?1737346127",
+      "assetGroup": "USDCE (Stargate Bridged USDC  Ink )",
+      "tags": ["stargate", "bridged", "coingecko"]
+    },
+    "0xbf0cafcbaaf0be8221ae8d630500984edc908861": {
+      "chainId": "57073",
+      "decimals": 18,
+      "name": "Squidswap",
+      "address": "0xbf0cafcbaaf0be8221ae8d630500984edc908861",
+      "symbol": "SQUIDS",
+      "logoURI": "https://assets.coingecko.com/coins/images/53494/thumb/squidswap.jpg?1736504228",
+      "assetGroup": "SQUIDS (Squidswap)",
+      "tags": ["coingecko"]
+    },
+    "0x0200c29006150606b650577bbe7b6248f58470c1": {
+      "chainId": "57073",
+      "decimals": 6,
+      "name": "USDT0",
+      "address": "0x0200c29006150606b650577bbe7b6248f58470c1",
+      "symbol": "USDT0",
+      "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183",
+      "assetGroup": "USDT0 (USDT0)",
+      "tags": ["coingecko"]
+    },
+    "0x4200000000000000000000000000000000000006": {
+      "chainId": "57073",
+      "decimals": 18,
+      "name": "Ink Bridged WETH  Ink ",
+      "address": "0x4200000000000000000000000000000000000006",
+      "symbol": "WETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/52918/thumb/weth_2.jpg?1734684690",
+      "assetGroup": "WETH",
+      "tags": ["bridged", "coingecko"]
+    },
+    "0xd642b49d10cc6e1bc1c6945725667c35e0875f22": {
+      "chainId": "57073",
+      "decimals": 18,
+      "name": "Purple",
+      "address": "0xd642b49d10cc6e1bc1c6945725667c35e0875f22",
+      "symbol": "PURPLE",
+      "logoURI": "https://assets.coingecko.com/coins/images/53880/thumb/ink_purple.png?1738227741",
+      "assetGroup": "PURPLE (Purple)",
+      "tags": ["coingecko"]
+    },
+    "0x53ad50d3b6fcacb8965d3a49cb722917c7dae1f3": {
+      "chainId": "57073",
+      "decimals": 6,
+      "name": "Apollo Diversified Credit Securitize Fu",
+      "address": "0x53ad50d3b6fcacb8965d3a49cb722917c7dae1f3",
+      "symbol": "ACRED",
+      "logoURI": "https://assets.coingecko.com/coins/images/54809/thumb/ACRED.png?1741801356",
+      "assetGroup": "ACRED (Apollo Diversified Credit Securitize Fu)",
+      "tags": ["coingecko"]
+    },
+    "0x73e0c0d45e048d25fc26fa3159b0aa04bfa4db98": {
+      "chainId": "57073",
+      "decimals": 8,
+      "name": "Kraken Wrapped BTC",
+      "address": "0x73e0c0d45e048d25fc26fa3159b0aa04bfa4db98",
+      "symbol": "KBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/50879/thumb/kBTC.png?1730321084",
+      "assetGroup": "KBTC (Kraken Wrapped BTC)",
+      "tags": ["coingecko"]
+    }
+  },
+  "mainTokens": [
+    "0x20c69c12abf2b6f8d8ca33604dd25c700c7e70a5",
+    "0xca5f2ccbd9c40b32657df57c716de44237f80f05",
+    "0x0c5e2d1c98cd265c751e02f8f3293bc5764f9111",
+    "0xf1815bd50389c46847f0bda824ec8da914045d14",
+    "0xbf0cafcbaaf0be8221ae8d630500984edc908861",
+    "0x0200c29006150606b650577bbe7b6248f58470c1",
+    "0x4200000000000000000000000000000000000006",
+    "0xd642b49d10cc6e1bc1c6945725667c35e0875f22",
+    "0x53ad50d3b6fcacb8965d3a49cb722917c7dae1f3",
+    "0x73e0c0d45e048d25fc26fa3159b0aa04bfa4db98"
+  ],
+  "bridgeTokens": [
+    "0xf1815bd50389c46847f0bda824ec8da914045d14",
+    "0x0200c29006150606b650577bbe7b6248f58470c1",
+    "0x4200000000000000000000000000000000000006"
+  ]
+}

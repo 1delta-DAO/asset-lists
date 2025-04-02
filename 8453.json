@@ -5806,7 +5806,7 @@
       "symbol": "ANON",
       "logoURI": "https://assets.coingecko.com/coins/images/50446/thumb/IMG_20240928_164632_277.png?1727771357",
       "assetGroup": "ANON (AnonFi)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x8c81b4c816d66d36c4bf348bdec01dbcbc70e987": {
       "chainId": "8453",
@@ -7516,7 +7516,7 @@
       "symbol": "POV",
       "logoURI": "https://assets.coingecko.com/coins/images/37032/thumb/pov_pp_200x200.png?1713158652",
       "assetGroup": "POV (Degen POV  OLD )",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x5ff986de80fc8502ea9293b8c06ef22b1e3f11e9": {
       "chainId": "8453",
@@ -7825,7 +7825,7 @@
       "symbol": "NOJEET",
       "logoURI": "https://assets.coingecko.com/coins/images/36895/thumb/nojeet_icon.png?1712674991",
       "assetGroup": "NOJEET (NOJEET)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x586e10db93630a4d2da6c6a34ba715305b556f04": {
       "chainId": "8453",
@@ -15031,7 +15031,7 @@
       "address": "0xf469fbd2abcd6b9de8e169d128226c0fc90a012e",
       "symbol": "pumpBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/39232/thumb/200pxPumpBTCLogo.png?1721227861",
-      "assetGroup": "pumpBTC (pumpBTC)"
+      "assetGroup": "PUMPBTC"
     },
     "0xe46c8ba948f8071b425a1f7ba45c0a65cbacea2e": {
       "chainId": "8453",
@@ -15117,7 +15117,8 @@
       "address": "0xa61beb4a3d02decb01039e378237032b351125b4",
       "symbol": "agEUR",
       "logoURI": "https://basescan.org/token/images/ageur_32.png",
-      "assetGroup": "AGEUR"
+      "assetGroup": "AGEUR",
+      "tags": ["coingecko"]
     },
     "0x004626a008b1acdc4c74ab51644093b155e59a23": {
       "chainId": "8453",
@@ -16430,6 +16431,106 @@
       "logoURI": "https://assets.coingecko.com/coins/images/28478/thumb/lightenicon_200x200.png?1696527472",
       "assetGroup": "FTN (Fasttoken)",
       "tags": ["coingecko"]
+    },
+    "0x1027d69d77567039f37bf2e4b2c5ccbafce100f2": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "VaultX",
+      "address": "0x1027d69d77567039f37bf2e4b2c5ccbafce100f2",
+      "symbol": "VAX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55036/thumb/vax-logo.png?1743327108",
+      "assetGroup": "VAX (VaultX)",
+      "tags": ["coingecko"]
+    },
+    "0x155979e71d5b781b546ab05b5bee313dbb2f6394": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "GPUs",
+      "address": "0x155979e71d5b781b546ab05b5bee313dbb2f6394",
+      "symbol": "GPUS",
+      "logoURI": "https://assets.coingecko.com/coins/images/55024/thumb/nov_ai.png?1743244016",
+      "assetGroup": "GPUS (GPUs)",
+      "tags": ["coingecko"]
+    },
+    "0x33ac788bc9ccb27e9ec558fb2bde79950a6b9d5b": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "glonkybot",
+      "address": "0x33ac788bc9ccb27e9ec558fb2bde79950a6b9d5b",
+      "symbol": "GLANKER",
+      "logoURI": "https://assets.coingecko.com/coins/images/55021/thumb/bw.jpg?1743324937",
+      "assetGroup": "GLANKER (glonkybot)",
+      "tags": ["coingecko"]
+    },
+    "0xed6e000def95780fb89734c07ee2ce9f6dcaf110": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Definitive",
+      "address": "0xed6e000def95780fb89734c07ee2ce9f6dcaf110",
+      "symbol": "EDGE",
+      "logoURI": "https://assets.coingecko.com/coins/images/55072/thumb/EDGE-120x120.png?1743598652",
+      "assetGroup": "EDGE (Definitive)",
+      "tags": ["coingecko"]
+    },
+    "0x758a3e0b1f842c9306b783f8a4078c6c8c03a270": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Usual USD",
+      "address": "0x758a3e0b1f842c9306b783f8a4078c6c8c03a270",
+      "symbol": "USD0",
+      "logoURI": "https://assets.coingecko.com/coins/images/38272/thumb/USD0LOGO.png?1716962811",
+      "assetGroup": "USD0 (Usual USD)",
+      "tags": ["coingecko"]
+    },
+    "0x88fb150bdc53a65fe94dea0c9ba0a6daf8c6e196": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Chainlink",
+      "address": "0x88fb150bdc53a65fe94dea0c9ba0a6daf8c6e196",
+      "symbol": "LINK",
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
+      "assetGroup": "LINK",
+      "tags": ["coingecko"]
+    },
+    "0xa0820613976b441e2c6a90e4877e2fb5f7d72552": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Polter",
+      "address": "0xa0820613976b441e2c6a90e4877e2fb5f7d72552",
+      "symbol": "POLTER",
+      "logoURI": "https://assets.coingecko.com/coins/images/35730/thumb/logo-200.png?1743249114",
+      "assetGroup": "POLTER (Polter)",
+      "tags": ["coingecko"]
+    },
+    "0x4acd4d03af6f9cc0fb7c5f0868b7b6287d7969c5": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Usual",
+      "address": "0x4acd4d03af6f9cc0fb7c5f0868b7b6287d7969c5",
+      "symbol": "USUAL",
+      "logoURI": "https://assets.coingecko.com/coins/images/51091/thumb/USUAL.jpg?1730035787",
+      "assetGroup": "USUAL (Usual)",
+      "tags": ["coingecko"]
+    },
+    "0x74299a718b2c44483a27325d7725f0b2646de3b1": {
+      "chainId": "8453",
+      "decimals": 8,
+      "name": "Constellation",
+      "address": "0x74299a718b2c44483a27325d7725f0b2646de3b1",
+      "symbol": "DAG",
+      "logoURI": "https://assets.coingecko.com/coins/images/4645/thumb/Constellation_Network_Logo.png?1696505213",
+      "assetGroup": "DAG (Constellation)",
+      "tags": ["coingecko"]
+    },
+    "0xfe9885baff18074846aaa2d5541581adf068731d": {
+      "chainId": "8453",
+      "decimals": 8,
+      "name": "Dor",
+      "address": "0xfe9885baff18074846aaa2d5541581adf068731d",
+      "symbol": "DOR",
+      "logoURI": "https://assets.coingecko.com/coins/images/33044/thumb/dortoken_red.png?1700429057",
+      "assetGroup": "DOR (Dor)",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -16502,7 +16603,15 @@
     "0xecc68d0451e20292406967fe7c04280e5238ac7d",
     "0x26d3c0d9f4cc4c130097b6afdebe4f5e497e6bdf",
     "0xc26c9099bd3789107888c35bb41178079b282561",
-    "0x3b86ad95859b6ab773f55f8d94b4b9d443ee931f"
+    "0x3b86ad95859b6ab773f55f8d94b4b9d443ee931f",
+    "0x1097dfe9539350cb466df9ca89a5e61195a520b0",
+    "0x6cdcb1c4a4d1c3c6d054b27ac5b77e89eafb971d",
+    "0xfdf73f61146b9050ffe4b755364b9cac670ea5b2",
+    "0x2c28ac6aa2f17e8dfa3e2561338c6357ead53c32",
+    "0xec7de4956a4569c2a1d171e4dd115a611c8e9ee5",
+    "0x59aaf835d34b1e3df2170e4872b785f11e2a964b",
+    "0x9a52fcd13fb9927d884b7eae826697c0aa0659cc",
+    "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189"
   ],
   "bridgeTokens": [
     "0x4200000000000000000000000000000000000006",
@@ -16521,6 +16630,7 @@
     "0xa900a17a49bc4d442ba7f72c39fa2108865671f0",
     "0xecc68d0451e20292406967fe7c04280e5238ac7d",
     "0x26d3c0d9f4cc4c130097b6afdebe4f5e497e6bdf",
-    "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f"
+    "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f",
+    "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189"
   ]
 }
