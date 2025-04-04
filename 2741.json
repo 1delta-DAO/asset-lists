@@ -101,6 +101,26 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54028/thumb/yup.jpg?1738036713",
       "assetGroup": "YUP (Yup)",
       "tags": ["coingecko"]
+    },
+    "0x0a2c776e4f9017ca0679e6064d2f99cf397b6457": {
+      "chainId": "2741",
+      "decimals": 18,
+      "name": "Thank You Abstract God",
+      "address": "0x0a2c776e4f9017ca0679e6064d2f99cf397b6457",
+      "symbol": "TYAG",
+      "logoURI": "https://assets.coingecko.com/coins/images/55098/thumb/photo_2568-04-02_21.50.03.jpeg?1743751377",
+      "assetGroup": "TYAG (Thank You Abstract God)",
+      "tags": ["coingecko"]
+    },
+    "0x853d7133c2674fc924511dd913c5a0a291822515": {
+      "chainId": "2741",
+      "decimals": 18,
+      "name": "MOP",
+      "address": "0x853d7133c2674fc924511dd913c5a0a291822515",
+      "symbol": "MOP",
+      "logoURI": "https://assets.coingecko.com/coins/images/55100/thumb/coingeckopfp.png?1743751885",
+      "assetGroup": "MOP (MOP)",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -113,7 +133,9 @@
     "0xd045e0686a784e272e651fc2c08324edabe7403a",
     "0x2c46ad181b8ed22c5bf53e21de2af87b11888ecb",
     "0x3439153eb7af838ad19d56e1571fbd09333c2809",
-    "0x8041fbc255d6e6330e92a61325da515656bfd2dd"
+    "0x8041fbc255d6e6330e92a61325da515656bfd2dd",
+    "0x0a2c776e4f9017ca0679e6064d2f99cf397b6457",
+    "0x853d7133c2674fc924511dd913c5a0a291822515"
   ],
   "bridgeTokens": ["0x84a71ccd554cc1b02749b35d22f684cc8ec987e1", "0x3439153eb7af838ad19d56e1571fbd09333c2809"]
 }

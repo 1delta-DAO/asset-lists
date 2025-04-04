@@ -1,0 +1,75 @@
+{
+  "chainId": "48900",
+  "version": "0",
+  "list": {
+    "0x58024021fe3ef613fa76e2f36a3da97eb1454c36": {
+      "chainId": "48900",
+      "decimals": 18,
+      "name": "Ocelex",
+      "address": "0x58024021fe3ef613fa76e2f36a3da97eb1454c36",
+      "symbol": "OCX",
+      "logoURI": "https://assets.coingecko.com/coins/images/54683/thumb/ocxLogo.png?1740994965",
+      "assetGroup": "OCX (Ocelex)",
+      "tags": ["coingecko"]
+    },
+    "0x4200000000000000000000000000000000000006": {
+      "chainId": "48900",
+      "decimals": 18,
+      "name": "Zircuit Bridged WETH  Zircuit ",
+      "address": "0x4200000000000000000000000000000000000006",
+      "symbol": "WETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/52628/thumb/wETH_32.png?1733823830",
+      "assetGroup": "WETH",
+      "tags": ["bridged", "coingecko"]
+    },
+    "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742": {
+      "chainId": "48900",
+      "decimals": 6,
+      "name": "Zircuit Bridged USDT  Zircuit ",
+      "address": "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
+      "symbol": "USDT",
+      "logoURI": "https://assets.coingecko.com/coins/images/52629/thumb/USDT.png?1733824032",
+      "assetGroup": "USDT",
+      "tags": ["bridged", "coingecko"]
+    },
+    "0xa608512bbc9934e4b1ddecf0f5fb38b6ad93308d": {
+      "chainId": "48900",
+      "decimals": 18,
+      "name": "Gud Tech",
+      "address": "0xa608512bbc9934e4b1ddecf0f5fb38b6ad93308d",
+      "symbol": "GUD",
+      "logoURI": "https://assets.coingecko.com/coins/images/53326/thumb/Logo.png?1736127749",
+      "assetGroup": "GUD (Gud Tech)",
+      "tags": ["coingecko"]
+    },
+    "0xfd418e42783382e86ae91e445406600ba144d162": {
+      "chainId": "48900",
+      "decimals": 18,
+      "name": "Zircuit",
+      "address": "0xfd418e42783382e86ae91e445406600ba144d162",
+      "symbol": "ZRC",
+      "logoURI": "https://assets.coingecko.com/coins/images/35960/thumb/zircuit_token_icon_2.png?1732502352",
+      "assetGroup": "ZRC (Zircuit)",
+      "tags": ["coingecko"]
+    },
+    "0x80137510979822322193fc997d400d5a6c747bf7": {
+      "chainId": "48900",
+      "decimals": 18,
+      "name": "StakeStone ETH",
+      "address": "0x80137510979822322193fc997d400d5a6c747bf7",
+      "symbol": "STONE",
+      "logoURI": "https://assets.coingecko.com/coins/images/33103/thumb/200_200.png?1702602672",
+      "assetGroup": "STONE",
+      "tags": ["coingecko"]
+    }
+  },
+  "mainTokens": [
+    "0x58024021fe3ef613fa76e2f36a3da97eb1454c36",
+    "0x4200000000000000000000000000000000000006",
+    "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
+    "0xa608512bbc9934e4b1ddecf0f5fb38b6ad93308d",
+    "0xfd418e42783382e86ae91e445406600ba144d162",
+    "0x80137510979822322193fc997d400d5a6c747bf7"
+  ],
+  "bridgeTokens": ["0x4200000000000000000000000000000000000006", "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742"]
+}

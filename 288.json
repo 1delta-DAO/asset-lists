@@ -8,8 +8,9 @@
       "name": "Boba Token",
       "address": "0xa18bf3994c0cc6e3b63ac420308e5383f53120d7",
       "symbol": "BOBA",
-      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/288/0xa18bF3994C0Cc6E3b63ac420308E5383f53120D7.png",
-      "assetGroup": "BOBA (Boba Token)"
+      "logoURI": "https://assets.coingecko.com/coins/images/20285/thumb/Boba-200x200---white.png?1696519690",
+      "assetGroup": "BOBA (Boba Token)",
+      "tags": ["coingecko"]
     },
     "0x5de1677344d3cb0d7d465c10b72a8f60699c062d": {
       "chainId": "288",
@@ -17,8 +18,9 @@
       "name": "Tether USD",
       "address": "0x5de1677344d3cb0d7d465c10b72a8f60699c062d",
       "symbol": "USDT",
-      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/288/0x5DE1677344D3Cb0D7D465c10b72A8f60699C062d.png",
-      "assetGroup": "USDT"
+      "logoURI": "https://assets.coingecko.com/coins/images/35001/thumb/logo.png?1706959346",
+      "assetGroup": "USDT",
+      "tags": ["coingecko"]
     },
     "0xdc0486f8bf31df57a952bcd3c1d3e166e3d9ec8b": {
       "chainId": "288",
@@ -26,8 +28,9 @@
       "name": "Wrapped BTC",
       "address": "0xdc0486f8bf31df57a952bcd3c1d3e166e3d9ec8b",
       "symbol": "WBTC",
-      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/288/0xdc0486f8bf31DF57a952bcd3c1d3e166e3d9eC8b.png",
-      "assetGroup": "WBTC"
+      "logoURI": "https://assets.coingecko.com/coins/images/39554/thumb/wbtc.png?1722897589",
+      "assetGroup": "WBTC",
+      "tags": ["coingecko"]
     },
     "0x66a2a913e447d6b4bf33efbec43aaef87890fbbc": {
       "chainId": "288",
@@ -35,8 +38,9 @@
       "name": "USD Coin",
       "address": "0x66a2a913e447d6b4bf33efbec43aaef87890fbbc",
       "symbol": "USDC",
-      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/288/0x66a2A913e447d6b4BF33EFbec43aAeF87890FBbc.png",
-      "assetGroup": "USDC"
+      "logoURI": "https://assets.coingecko.com/coins/images/35218/thumb/USDC_Icon.png?1707908537",
+      "assetGroup": "USDC",
+      "tags": ["coingecko"]
     },
     "0xd65ccecff339e5680b1a1e7821421932cc2b114f": {
       "chainId": "288",
@@ -98,8 +102,59 @@
       "name": "Wrapped Ether",
       "address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000",
       "symbol": "WETH",
-      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/288/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000.png",
-      "assetGroup": "WETH"
+      "logoURI": "https://assets.coingecko.com/coins/images/39717/thumb/WETH.PNG?1723732087",
+      "assetGroup": "WETH",
+      "tags": ["coingecko"]
+    },
+    "0x618cc6549ddf12de637d46cddadafc0c2951131c": {
+      "chainId": "288",
+      "decimals": 18,
+      "name": "K y ",
+      "address": "0x618cc6549ddf12de637d46cddadafc0c2951131c",
+      "symbol": "KYO",
+      "logoURI": "https://assets.coingecko.com/coins/images/25801/thumb/logo.png?1696524887",
+      "assetGroup": "KYO (K y )",
+      "tags": ["coingecko"]
+    },
+    "0x7562f525106f5d54e891e005867bf489b5988cd9": {
+      "chainId": "288",
+      "decimals": 18,
+      "name": "Frax",
+      "address": "0x7562f525106f5d54e891e005867bf489b5988cd9",
+      "symbol": "FRAX",
+      "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/FRAX_icon.png?1696513182",
+      "assetGroup": "FRAX",
+      "tags": ["coingecko"]
+    },
+    "0x96821b258955587069f680729cd77369c0892b40": {
+      "chainId": "288",
+      "decimals": 18,
+      "name": "Across Protocol",
+      "address": "0x96821b258955587069f680729cd77369c0892b40",
+      "symbol": "ACX",
+      "logoURI": "https://assets.coingecko.com/coins/images/28161/thumb/across-200x200.png?1696527165",
+      "assetGroup": "ACX",
+      "tags": ["coingecko"]
+    },
+    "0xe1e2ec9a85c607092668789581251115bcbd20de": {
+      "chainId": "288",
+      "decimals": 18,
+      "name": "OMG Network",
+      "address": "0xe1e2ec9a85c607092668789581251115bcbd20de",
+      "symbol": "OMG",
+      "logoURI": "https://assets.coingecko.com/coins/images/776/thumb/OMG_Network.jpg?1696501928",
+      "assetGroup": "OMG (OMG Network)",
+      "tags": ["coingecko"]
+    },
+    "0x3f56e0c36d275367b8c502090edf38289b3dea0d": {
+      "chainId": "288",
+      "decimals": 18,
+      "name": "MAI",
+      "address": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
+      "symbol": "MIMATIC",
+      "logoURI": "https://assets.coingecko.com/coins/images/15264/thumb/mimatic-red.png?1696514916",
+      "assetGroup": "MIMATIC (MAI)",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [

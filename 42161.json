@@ -4964,7 +4964,7 @@
       "symbol": "DXD",
       "logoURI": "https://assets.coingecko.com/coins/images/11148/large/dxdao.png?1607999331",
       "assetGroup": "DXD (DXdao)",
-      "tags": ["openocean", "coingecko", "debridge"]
+      "tags": ["openocean", "debridge"]
     },
     "0x92033148dc3cde04f1af26f6d39a0055015ef7ca": {
       "chainId": "42161",
@@ -12678,6 +12678,46 @@
       "symbol": "GRIX",
       "logoURI": "https://assets.coingecko.com/coins/images/55060/thumb/grix_logo_black-background.png?1743524648",
       "assetGroup": "GRIX (Grix)",
+      "tags": ["coingecko"]
+    },
+    "0xb1c3960aeeaf4c255a877da04b06487bba698386": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Beincom",
+      "address": "0xb1c3960aeeaf4c255a877da04b06487bba698386",
+      "symbol": "BIC",
+      "logoURI": "https://assets.coingecko.com/coins/images/55109/thumb/BIC_-_Violet_200x200.png?1743754248",
+      "assetGroup": "BIC (Beincom)",
+      "tags": ["coingecko"]
+    },
+    "0x5e85faf503621830ca857a5f38b982e0cc57d537": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Decentralized Euro",
+      "address": "0x5e85faf503621830ca857a5f38b982e0cc57d537",
+      "symbol": "DEURO",
+      "logoURI": "https://assets.coingecko.com/coins/images/55108/thumb/dEuro_CoinLogo_200px.png?1743753944",
+      "assetGroup": "DEURO (Decentralized Euro)",
+      "tags": ["coingecko"]
+    },
+    "0xbc33b4d48f76d17a1800afcb730e8a6aaada7fe5": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Voucher DOT",
+      "address": "0xbc33b4d48f76d17a1800afcb730e8a6aaada7fe5",
+      "symbol": "VDOT",
+      "logoURI": "https://assets.coingecko.com/coins/images/28875/thumb/vDOT.png?1696527852",
+      "assetGroup": "VDOT (Voucher DOT)",
+      "tags": ["coingecko"]
+    },
+    "0x440017a1b021006d556d7fc06a54c32e42eb745b": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Graphite Network",
+      "address": "0x440017a1b021006d556d7fc06a54c32e42eb745b",
+      "symbol": "G",
+      "logoURI": "https://assets.coingecko.com/coins/images/54587/thumb/Logo.jpg?1740555504",
+      "assetGroup": "G (Graphite Network)",
       "tags": ["coingecko"]
     }
   },
