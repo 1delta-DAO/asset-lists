@@ -29,7 +29,7 @@
       "address": "0x3228995749610bea00b59c44f8d1df21c14027f1",
       "symbol": "AVL",
       "logoURI": "https://tokens.debridge.finance/Logo/56/0x9beee89723ceec27d7c2834bec6834208ffdc202/small/token-logo.png",
-      "assetGroup": "AVL (Avalon)",
+      "assetGroup": "AVL",
       "tags": ["coingecko"]
     },
     "0xd68458f51ce9feb238cdcf4cbcddf010eead01b4": {
@@ -61,6 +61,16 @@
       "logoURI": "https://assets.coingecko.com/coins/images/53967/thumb/logo-200*200.png?1737793038",
       "assetGroup": "PELL (Pell Network Token)",
       "tags": ["coingecko"]
+    },
+    "0x0e4cf4affdb72b39ea91fa726d291781cbd020bf": {
+      "chainId": "200901",
+      "decimals": 18,
+      "name": "Bitlayer",
+      "address": "0x0e4cf4affdb72b39ea91fa726d291781cbd020bf",
+      "symbol": "BTR",
+      "logoURI": "https://assets.coingecko.com/coins/images/55177/thumb/App_Logo.png?1744368194",
+      "assetGroup": "BTR (Bitlayer)",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -72,7 +82,8 @@
     "0x3228995749610bea00b59c44f8d1df21c14027f1",
     "0xd68458f51ce9feb238cdcf4cbcddf010eead01b4",
     "0xc65d8d96cdddb31328186efa113a460b0af9ec63",
-    "0x93919784c523f39cacaa98ee0a9d96c3f32b593e"
+    "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
+    "0x0e4cf4affdb72b39ea91fa726d291781cbd020bf"
   ],
   "bridgeTokens": [
     "0x4200000000000000000000000000000000000006",

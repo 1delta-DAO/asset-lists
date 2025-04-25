@@ -963,7 +963,7 @@
       "symbol": "SMRTR",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6D923f688C7FF287dc3A5943CAeefc994F97b290/logo.png",
       "assetGroup": "SMRTR (SmarterCoin)",
-      "tags": ["openocean", "coingecko", "debridge"]
+      "tags": ["coingecko", "debridge"]
     },
     "0x9913ba363073ca3e9ea0cd296e36b75af9e40bef": {
       "chainId": "43114",
@@ -1586,7 +1586,7 @@
       "symbol": "XPOW",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x735D8f3B6A5d2c96D0405230c50Eaf96794FbB88/logo.png",
       "assetGroup": "XPOW (XPower)",
-      "tags": ["debridge"]
+      "tags": ["coingecko", "debridge"]
     },
     "0x7f9c841feadddb4bdbb2a161ca40bebc4f215a9a": {
       "chainId": "43114",
@@ -2038,8 +2038,7 @@
       "address": "0xc3344870d52688874b06d844e0c36cc39fc727f6",
       "symbol": "ankrAVAX",
       "logoURI": "https://s3.openocean.finance/token_logos/logos/1658311661542_9477867315587034.JPG",
-      "assetGroup": "ankrAVAX (Ankr Reward Bearing AVAX)",
-      "tags": ["openocean"]
+      "assetGroup": "ankrAVAX (Ankr Reward Bearing AVAX)"
     },
     "0xa32608e873f9ddef944b24798db69d80bbb4d1ed": {
       "chainId": "43114",
@@ -2179,7 +2178,7 @@
       "symbol": "axlUST",
       "logoURI": "https://s3.openocean.finance/token_logos/logos/1648112491796_24445859804930659.png",
       "assetGroup": "axlUST (Axelar Wrapped UST)",
-      "tags": ["axelar", "bridged", "openocean"]
+      "tags": ["axelar", "bridged"]
     },
     "0x0802d66f029c46e042b74d543fc43b6705ccb4ba": {
       "chainId": "43114",
@@ -2618,8 +2617,7 @@
       "address": "0xcc2f1d827b18321254223df4e84de399d9ff116c",
       "symbol": "SMRT",
       "logoURI": "https://s3.openocean.finance/token_logos/logos/1634806070088_48027228841072933.jpeg",
-      "assetGroup": "SMRT (Smartcoin)",
-      "tags": ["openocean"]
+      "assetGroup": "SMRT (Smartcoin)"
     },
     "0xb9a98894ffbfa98c73a818b5b044e5b1c8666f56": {
       "chainId": "43114",
@@ -4239,7 +4237,7 @@
       "symbol": "SOUL",
       "logoURI": "https://assets.coingecko.com/coins/images/18581/thumb/soul.jpg?1696518058",
       "assetGroup": "SOUL (Soul Swap)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x945ca41d03ec19b6a6ebf2ef0f4d0a50b23e4f2c": {
       "chainId": "43114",
@@ -4909,7 +4907,7 @@
       "symbol": "SPACE",
       "logoURI": "https://assets.coingecko.com/coins/images/20676/thumb/jYw3kgsY_400x400.png?1696520076",
       "assetGroup": "SPACE (Space Token)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0xbd100d061e120b2c67a24453cf6368e63f1be056": {
       "chainId": "43114",
@@ -5476,6 +5474,56 @@
       "symbol": "JACK",
       "logoURI": "https://assets.coingecko.com/coins/images/54835/thumb/200x200_token.png?1741969713",
       "assetGroup": "JACK (JACK)",
+      "tags": ["coingecko"]
+    },
+    "0x6b1ecf0c181afff3d7096b26c3d2bc31f55ceab9": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Muon",
+      "address": "0x6b1ecf0c181afff3d7096b26c3d2bc31f55ceab9",
+      "symbol": "MUON",
+      "logoURI": "https://assets.coingecko.com/coins/images/55232/thumb/_MUON.png?1744872447",
+      "assetGroup": "MUON (Muon)",
+      "tags": ["coingecko"]
+    },
+    "0x99f2bdf00acd067c65a79a0b6a3914c555196ea4": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Kula",
+      "address": "0x99f2bdf00acd067c65a79a0b6a3914c555196ea4",
+      "symbol": "KULA",
+      "logoURI": "https://assets.coingecko.com/coins/images/54208/thumb/Kula_Coin_Logo_200_px_x_200_px.png?1744725486",
+      "assetGroup": "KULA (Kula)",
+      "tags": ["coingecko"]
+    },
+    "0x00da149c4e01e4a391ab86deddaae66e906b6fb7": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Kibble",
+      "address": "0x00da149c4e01e4a391ab86deddaae66e906b6fb7",
+      "symbol": "KIB",
+      "logoURI": "https://assets.coingecko.com/coins/images/55159/thumb/Token200w.png?1744266173",
+      "assetGroup": "KIB (Kibble)",
+      "tags": ["coingecko"]
+    },
+    "0xfd91ed44fc13f7faff758fe6d339d5790c4a85ec": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Vertex",
+      "address": "0xfd91ed44fc13f7faff758fe6d339d5790c4a85ec",
+      "symbol": "VRTX",
+      "logoURI": "https://assets.coingecko.com/coins/images/27927/thumb/vrtx.png?1696526947",
+      "assetGroup": "VRTX (Vertex)",
+      "tags": ["coingecko"]
+    },
+    "0x841aef70237a88027ccb2d15c1bbaf88a669674a": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Space Token",
+      "address": "0x841aef70237a88027ccb2d15c1bbaf88a669674a",
+      "symbol": "SPACE",
+      "logoURI": "https://assets.coingecko.com/coins/images/20676/thumb/jYw3kgsY_400x400.png?1696520076",
+      "assetGroup": "SPACE (Space Token)",
       "tags": ["coingecko"]
     }
   },

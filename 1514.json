@@ -41,13 +41,24 @@
       "logoURI": "https://assets.coingecko.com/coins/images/53984/thumb/WhatsApp_Image_2025-01-22_at_23.29.41.jpeg?1737876448",
       "assetGroup": "LYRA (LYRA)",
       "tags": ["coingecko"]
+    },
+    "0x2460e95f24bbd21d1fba27a751970c2455e9d7e9": {
+      "chainId": "1514",
+      "decimals": 18,
+      "name": "IP Exchange",
+      "address": "0x2460e95f24bbd21d1fba27a751970c2455e9d7e9",
+      "symbol": "IPX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55242/thumb/IPX.png?1744877414",
+      "assetGroup": "IPX (IP Exchange)",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
     "0xf1815bd50389c46847f0bda824ec8da914045d14",
     "0x25f9c9715d1d700a50b2a9a06d80fe9f98ccb549",
     "0x1514000000000000000000000000000000000000",
-    "0xa4f5c615f72ddeb2220471694fff1c0c3de051e1"
+    "0xa4f5c615f72ddeb2220471694fff1c0c3de051e1",
+    "0x2460e95f24bbd21d1fba27a751970c2455e9d7e9"
   ],
   "bridgeTokens": ["0xf1815bd50389c46847f0bda824ec8da914045d14"]
 }

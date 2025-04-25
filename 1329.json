@@ -249,8 +249,7 @@
       "address": "0x69e48ce9cf965acc1de2ad5ad2fdbc3bdb51509b",
       "symbol": "COOK",
       "logoURI": "https://assets.coingecko.com/coins/images/34202/thumb/cook200.png?1704274918",
-      "assetGroup": "COOK",
-      "tags": ["coingecko"]
+      "assetGroup": "COOK"
     },
     "0x89aec21572f6637ccbd0d66861aaac46dd775ed1": {
       "chainId": "1329",
@@ -291,6 +290,26 @@
       "logoURI": "https://assets.coingecko.com/coins/images/33103/thumb/200_200.png?1702602672",
       "assetGroup": "STONE",
       "tags": ["coingecko"]
+    },
+    "0x9151434b16b9763660705744891fa906f660ecc5": {
+      "chainId": "1329",
+      "decimals": 6,
+      "name": "USDT0",
+      "address": "0x9151434b16b9763660705744891fa906f660ecc5",
+      "symbol": "USDT0",
+      "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183",
+      "assetGroup": "USDT0 (USDT0)",
+      "tags": ["coingecko"]
+    },
+    "0x5b8034f6346a81a1387ea21cdd36c48f6e05eb5f": {
+      "chainId": "1329",
+      "decimals": 18,
+      "name": "Vertex",
+      "address": "0x5b8034f6346a81a1387ea21cdd36c48f6e05eb5f",
+      "symbol": "VRTX",
+      "logoURI": "https://assets.coingecko.com/coins/images/27927/thumb/vrtx.png?1696526947",
+      "assetGroup": "VRTX (Vertex)",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -318,11 +337,13 @@
     "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
     "0x78e26e8b953c7c78a58d69d8b9a91745c2bbb258",
     "0x83c82f0f959ad3eff528ee513b43808aa53f4b37",
-    "0x69e48ce9cf965acc1de2ad5ad2fdbc3bdb51509b"
+    "0x69e48ce9cf965acc1de2ad5ad2fdbc3bdb51509b",
+    "0x9151434b16b9763660705744891fa906f660ecc5"
   ],
   "bridgeTokens": [
     "0x160345fc359604fc6e70e3c5facbde5f7a9342d8",
     "0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1",
-    "0xb75d0b03c06a926e488e2659df1a861f860bd3d1"
+    "0xb75d0b03c06a926e488e2659df1a861f860bd3d1",
+    "0x9151434b16b9763660705744891fa906f660ecc5"
   ]
 }

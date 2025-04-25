@@ -111,6 +111,16 @@
       "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831",
       "assetGroup": "WGC (Wild Goat Coin)",
       "tags": ["coingecko"]
+    },
+    "0x9ab96a4668456896d45c301bc3a15cee76aa7b8d": {
+      "chainId": "1923",
+      "decimals": 6,
+      "name": "Relend Network USDC",
+      "address": "0x9ab96a4668456896d45c301bc3a15cee76aa7b8d",
+      "symbol": "RUSDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/55341/thumb/rUSDC-_200x200.png?1745506753",
+      "assetGroup": "RUSDC (Relend Network USDC)",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -124,7 +134,8 @@
     "0xea34479f7d95341e5fd49b89936366d6da710824",
     "0xecac9c5f704e954931349da37f60e39f515c11c1",
     "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3",
-    "0x3d63825b0d8669307366e6c8202f656b9e91d368"
+    "0x3d63825b0d8669307366e6c8202f656b9e91d368",
+    "0x9ab96a4668456896d45c301bc3a15cee76aa7b8d"
   ],
-  "bridgeTokens": ["0x4200000000000000000000000000000000000006"]
+  "bridgeTokens": ["0x4200000000000000000000000000000000000006", "0x9ab96a4668456896d45c301bc3a15cee76aa7b8d"]
 }

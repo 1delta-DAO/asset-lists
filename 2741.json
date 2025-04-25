@@ -141,6 +141,56 @@
       "logoURI": "https://assets.coingecko.com/coins/images/36221/thumb/500x500.png?1714755244",
       "assetGroup": "GALAXIS (GALAXIS Token)",
       "tags": ["coingecko"]
+    },
+    "0x231d510746ed6977dd8d692168fc98cdc52d1e34": {
+      "chainId": "2741",
+      "decimals": 18,
+      "name": "BurnVault Cash",
+      "address": "0x231d510746ed6977dd8d692168fc98cdc52d1e34",
+      "symbol": "BURN",
+      "logoURI": "https://assets.coingecko.com/coins/images/55196/thumb/logo.png?1744613003",
+      "assetGroup": "BURN (BurnVault Cash)",
+      "tags": ["coingecko"]
+    },
+    "0x93ed1bab3f7efa93d2e2179b1ff6caccfa30a2e3": {
+      "chainId": "2741",
+      "decimals": 18,
+      "name": "Minetendo",
+      "address": "0x93ed1bab3f7efa93d2e2179b1ff6caccfa30a2e3",
+      "symbol": "MINE",
+      "logoURI": "https://assets.coingecko.com/coins/images/55192/thumb/Logo_Trans.png?1744523691",
+      "assetGroup": "MINE (Minetendo)",
+      "tags": ["coingecko"]
+    },
+    "0xdf70075737e9f96b078ab4461eee3e055e061223": {
+      "chainId": "2741",
+      "decimals": 18,
+      "name": "Bigcoin",
+      "address": "0xdf70075737e9f96b078ab4461eee3e055e061223",
+      "symbol": "BIG",
+      "logoURI": "https://assets.coingecko.com/coins/images/55214/thumb/bigcoinlogo.png?1744730708",
+      "assetGroup": "BIG (Bigcoin)",
+      "tags": ["coingecko"]
+    },
+    "0xe516db039440f3d7aeaf92ed52ab8c5a190083b0": {
+      "chainId": "2741",
+      "decimals": 18,
+      "name": "Frostic",
+      "address": "0xe516db039440f3d7aeaf92ed52ab8c5a190083b0",
+      "symbol": "FROST",
+      "logoURI": "https://assets.coingecko.com/coins/images/55276/thumb/FrosticLogoCG.png?1745145568",
+      "assetGroup": "FROST (Frostic)",
+      "tags": ["coingecko"]
+    },
+    "0x60ed5ce0d66554ac63edd35f4f91181f747ae8c6": {
+      "chainId": "2741",
+      "decimals": 18,
+      "name": "Pico",
+      "address": "0x60ed5ce0d66554ac63edd35f4f91181f747ae8c6",
+      "symbol": "PICO",
+      "logoURI": "https://assets.coingecko.com/coins/images/55335/thumb/IMG_4751.JPG?1745483007",
+      "assetGroup": "PICO (Pico)",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -156,7 +206,11 @@
     "0x8041fbc255d6e6330e92a61325da515656bfd2dd",
     "0x0a2c776e4f9017ca0679e6064d2f99cf397b6457",
     "0x853d7133c2674fc924511dd913c5a0a291822515",
-    "0xcefcffaa272c51a1962f0d73ea6ad9a9a8c64c1d"
+    "0xcefcffaa272c51a1962f0d73ea6ad9a9a8c64c1d",
+    "0x231d510746ed6977dd8d692168fc98cdc52d1e34",
+    "0x93ed1bab3f7efa93d2e2179b1ff6caccfa30a2e3",
+    "0xdf70075737e9f96b078ab4461eee3e055e061223",
+    "0xe516db039440f3d7aeaf92ed52ab8c5a190083b0"
   ],
   "bridgeTokens": ["0x84a71ccd554cc1b02749b35d22f684cc8ec987e1", "0x3439153eb7af838ad19d56e1571fbd09333c2809"]
 }

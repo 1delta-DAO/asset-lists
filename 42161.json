@@ -1329,7 +1329,7 @@
       "symbol": "OJA",
       "logoURI": "https://assets.coingecko.com/coins/images/18947/large/ojamu-icon-PNK.png?1634006741",
       "assetGroup": "OJA (Ojamu)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x989e8d292edd5b01d2ae518ebd9a8537fedd49e8": {
       "chainId": "42161",
@@ -3601,7 +3601,7 @@
       "symbol": "AURY",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/aury.png",
       "assetGroup": "AURY (Aury)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x05d35769a222affd6185e20f3f3676abde56c25f": {
       "chainId": "42161",
@@ -5065,8 +5065,7 @@
       "address": "0xbdef0e9ef12e689f366fe494a7a7d0dad25d9286",
       "symbol": "FUSE",
       "logoURI": "https://assets.coingecko.com/coins/images/10347/large/fuse.png?1675703585",
-      "assetGroup": "FUSE",
-      "tags": ["openocean"]
+      "assetGroup": "FUSE"
     },
     "0x5c1663ed38b3a0eaa5ab7a392ff149b06a13415e": {
       "chainId": "42161",
@@ -5718,8 +5717,7 @@
       "address": "0x3cd1833ce959e087d0ef0cb45ed06bffe60f23ba",
       "symbol": "LAND",
       "logoURI": "https://s3.openocean.finance/token_logos/logos/1637927281150_2452152542772339.png",
-      "assetGroup": "LAND (Land)",
-      "tags": ["openocean"]
+      "assetGroup": "LAND (Land)"
     },
     "0x8fbd420956fdd301f4493500fd0bcaaa80f2389c": {
       "chainId": "42161",
@@ -5769,7 +5767,7 @@
       "symbol": "HND",
       "logoURI": "https://assets.coingecko.com/coins/images/18445/thumb/hnd.PNG?1696517933",
       "assetGroup": "HND (Hundred Finance)",
-      "tags": ["openocean", "coingecko", "debridge"]
+      "tags": ["openocean", "debridge"]
     },
     "0xfa42da1bd08341537a44a4ca9d236d1c00a98b40": {
       "chainId": "42161",
@@ -5778,8 +5776,7 @@
       "address": "0xfa42da1bd08341537a44a4ca9d236d1c00a98b40",
       "symbol": "CARBON",
       "logoURI": "https://s3.openocean.finance/token_logos/logos/1637832686338_7422730180325647.png",
-      "assetGroup": "CARBON (Carboncoin)",
-      "tags": ["openocean"]
+      "assetGroup": "CARBON (Carboncoin)"
     },
     "0x07aaa29e63ffeb2ebf59b33ee61437e1a91a3bb2": {
       "chainId": "42161",
@@ -5818,8 +5815,7 @@
       "address": "0x0e15258734300290a651fdbae8deb039a8e7a2fa",
       "symbol": "ALCH",
       "logoURI": "https://s3.openocean.finance/token_logos/logos/1638170458309_14655151279728496.png",
-      "assetGroup": "ALCH (Token Alch)",
-      "tags": ["openocean"]
+      "assetGroup": "ALCH (Token Alch)"
     },
     "0x23a941036ae778ac51ab04cea08ed6e2fe103614": {
       "chainId": "42161",
@@ -6239,7 +6235,7 @@
       "symbol": "HDN",
       "logoURI": "https://assets.coingecko.com/coins/images/25177/thumb/HDXdarkblueInv.png?1696524322",
       "assetGroup": "HDN (Hydranet)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x93d504070ab0eede5449c89c5ea0f5e34d8103f8": {
       "chainId": "42161",
@@ -7218,7 +7214,7 @@
       "symbol": "FOX",
       "logoURI": "https://assets.coingecko.com/coins/images/32354/thumb/Foxify_200x200.png?1697475371",
       "assetGroup": "FOX (Foxify)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x1cd9a56c8c2ea913c70319a44da75e99255aa46f": {
       "chainId": "42161",
@@ -7278,7 +7274,7 @@
       "symbol": "S",
       "logoURI": "https://assets.coingecko.com/coins/images/50350/thumb/s.jpg?1727249471",
       "assetGroup": "S (S)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0xeeac5e75216571773c0064b3b591a86253791db6": {
       "chainId": "42161",
@@ -7977,7 +7973,7 @@
       "symbol": "SPINAQ",
       "logoURI": "https://assets.coingecko.com/coins/images/33626/thumb/SPINAQ_200x200.png?1702532970",
       "assetGroup": "SPINAQ (Spinaq)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0xe11508d3e0cf09e6fd6e94fdf41e83836d83ce50": {
       "chainId": "42161",
@@ -10857,7 +10853,7 @@
       "symbol": "EPOCH",
       "logoURI": "https://assets.coingecko.com/coins/images/33684/thumb/EpochLogo_200x200.png?1702731332",
       "assetGroup": "EPOCH (Epoch Island)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x9d5a383581882750ce27f84c72f017b378edb736": {
       "chainId": "42161",
@@ -12253,8 +12249,9 @@
       "name": "Treehouse ETH",
       "address": "0xd09acb80c1e8f2291862c4978a008791c9167003",
       "symbol": "tETH",
-      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/42161/0xd09ACb80C1E8f2291862c4978A008791c9167003.png",
-      "assetGroup": "tETH (Treehouse ETH)"
+      "logoURI": "https://assets.coingecko.com/coins/images/40155/thumb/tETH_logo_2_%281%29.png?1726079209",
+      "assetGroup": "tETH (Treehouse ETH)",
+      "tags": ["coingecko"]
     },
     "0xe367d4b1b9bb40e34adce448e1edb0141fc6a8ac": {
       "chainId": "42161",
@@ -12549,8 +12546,9 @@
       "name": "MXNB",
       "address": "0xf197ffc28c23e0309b5559e7a166f2c6164c80aa",
       "symbol": "MXNB",
+      "logoURI": "https://assets.coingecko.com/coins/images/39136/thumb/MXNB_FULL.png?1720686155",
       "assetGroup": "MXNB (MXNB)",
-      "tags": ["debridge"]
+      "tags": ["coingecko", "debridge"]
     },
     "0x5f8a7c646511a790c53f171891e5d469ca884ede": {
       "chainId": "42161",
@@ -12588,7 +12586,8 @@
       "address": "0x0419e8bfbbb2623728c3a6129090da4ff4e48113",
       "symbol": "TEL",
       "logoURI": "https://assets.coingecko.com/coins/images/1899/large/tel.png?1547036203",
-      "assetGroup": "TEL (Telcoin)"
+      "assetGroup": "TEL (Telcoin)",
+      "tags": ["coingecko"]
     },
     "0xef4a1d459d62dfd2ebb9c45b04f90f0a7ba1d56e": {
       "chainId": "42161",
@@ -12738,6 +12737,75 @@
       "symbol": "CADC",
       "logoURI": "https://assets.coingecko.com/coins/images/14149/thumb/cadc_2.png?1696513868",
       "assetGroup": "CADC (CAD Coin)",
+      "tags": ["coingecko"]
+    },
+    "0x010700ab046dd8e92b0e3587842080df36364ed3": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Kinto",
+      "address": "0x010700ab046dd8e92b0e3587842080df36364ed3",
+      "symbol": "K",
+      "logoURI": "https://assets.coingecko.com/coins/images/54964/standard/k200.png?1742894885",
+      "assetGroup": "K (Kinto)"
+    },
+    "0x374c5fb7979d5fdbaad2d95409e235e5cbdfd43c": {
+      "chainId": "42161",
+      "decimals": 8,
+      "name": "MiL.k",
+      "address": "0x374c5fb7979d5fdbaad2d95409e235e5cbdfd43c",
+      "symbol": "MLK",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/mlk.png",
+      "assetGroup": "MLK (MiL.k)",
+      "tags": ["coingecko"]
+    },
+    "0xb0f66bdb39acbb043308eb9dbe78f5bb47ea5430": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Hydranet",
+      "address": "0xb0f66bdb39acbb043308eb9dbe78f5bb47ea5430",
+      "symbol": "HDN",
+      "logoURI": "https://assets.coingecko.com/coins/images/25177/thumb/HDXdarkblueInv.png?1696524322",
+      "assetGroup": "HDN (Hydranet)",
+      "tags": ["coingecko"]
+    },
+    "0xc9d23ed2adb0f551369946bd377f8644ce1ca5c4": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Hyperlane",
+      "address": "0xc9d23ed2adb0f551369946bd377f8644ce1ca5c4",
+      "symbol": "HYPER",
+      "logoURI": "https://assets.coingecko.com/coins/images/55298/thumb/Hyperlane.png?1745248900",
+      "assetGroup": "HYPER (Hyperlane)",
+      "tags": ["coingecko"]
+    },
+    "0x723ce01b57dfd7148785b90d66275005aa2edd17": {
+      "chainId": "42161",
+      "decimals": 8,
+      "name": "LoungeM",
+      "address": "0x723ce01b57dfd7148785b90d66275005aa2edd17",
+      "symbol": "LZM",
+      "logoURI": "https://assets.coingecko.com/coins/images/29068/thumb/_LoungeM_Logo.png?1696528034",
+      "assetGroup": "LZM (LoungeM)",
+      "tags": ["coingecko"]
+    },
+    "0xf63b14f5ee5574e3f337b2796bbdf6dcfb4e2cb7": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "KIP",
+      "address": "0xf63b14f5ee5574e3f337b2796bbdf6dcfb4e2cb7",
+      "symbol": "KIP",
+      "logoURI": "https://assets.coingecko.com/coins/images/52585/thumb/200x200-kip.png?1733764030",
+      "assetGroup": "KIP (KIP)",
+      "tags": ["coingecko"]
+    },
+    "0x53985d52936e8052b87035084fda74d832ad3c00": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "PrimeFi",
+      "address": "0x53985d52936e8052b87035084fda74d832ad3c00",
+      "symbol": "PRFI",
+      "logoURI": "https://assets.coingecko.com/coins/images/55355/thumb/Prime_Numbers_Icon_%281%29.png?1745589445",
+      "assetGroup": "PRFI (PrimeFi)",
       "tags": ["coingecko"]
     }
   },
