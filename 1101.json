@@ -10,7 +10,7 @@
       "symbol": "WETH",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "assetGroup": "WETH",
-      "tags": ["openocean"]
+      "tags": ["openocean", "coingecko"]
     },
     "0x1e4a5963abfd975d8c9021ce480b42188849d41d": {
       "chainId": "1101",
@@ -18,9 +18,9 @@
       "name": "Tether USD",
       "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
       "symbol": "USDT",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/1685351028228_4911145618371793.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/35143/thumb/usdt_logo.png?1707467554",
       "assetGroup": "USDT",
-      "tags": ["openocean"]
+      "tags": ["openocean", "coingecko"]
     },
     "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035": {
       "chainId": "1101",
@@ -28,9 +28,9 @@
       "name": "USD Coin",
       "address": "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
       "symbol": "USDC",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/1683267143601_3312096156874389.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/35263/thumb/USDC_Icon.png?1708009475",
       "assetGroup": "USDC",
-      "tags": ["openocean"]
+      "tags": ["openocean", "coingecko"]
     },
     "0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1": {
       "chainId": "1101",
@@ -38,16 +38,249 @@
       "name": "Wrapped BTC",
       "address": "0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1",
       "symbol": "WBTC",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/1683267252607_5692863520977123.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/39593/thumb/wbtc.png?1723016350",
       "assetGroup": "WBTC",
-      "tags": ["openocean"]
+      "tags": ["openocean", "coingecko"]
+    },
+    "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Polygon zkEVM Bridged DAI  Polygon zkEV",
+      "address": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
+      "symbol": "DAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/39806/thumb/dai.png?1724126469",
+      "assetGroup": "DAI",
+      "tags": ["bridged", "coingecko"]
+    },
+    "0x696c0ba235444607a1c4b93e6b34ba14928c1b60": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "DoveSwap",
+      "address": "0x696c0ba235444607a1c4b93e6b34ba14928c1b60",
+      "symbol": "DOV",
+      "logoURI": "https://assets.coingecko.com/coins/images/31016/thumb/Group_572_%282%29.png?1696529853",
+      "assetGroup": "DOV",
+      "tags": ["coingecko"]
+    },
+    "0xd4e38eb4a9581e05de8aeb5f895916647b5933f1": {
+      "chainId": "1101",
+      "decimals": 6,
+      "name": "Forwards Rec BH 2024",
+      "address": "0xd4e38eb4a9581e05de8aeb5f895916647b5933f1",
+      "symbol": "FJLT-B24",
+      "logoURI": "https://assets.coingecko.com/coins/images/36305/thumb/Artboard_1fJLT-B24.png?1711090025",
+      "assetGroup": "FJLT-B24 (Forwards Rec BH 2024)",
+      "tags": ["coingecko"]
+    },
+    "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Gyroscope GYD",
+      "address": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8",
+      "symbol": "GYD",
+      "logoURI": "https://assets.coingecko.com/coins/images/33428/thumb/GYD-gradient_resized_transparent.png?1702316822",
+      "assetGroup": "GYD (Gyroscope GYD)",
+      "tags": ["coingecko"]
+    },
+    "0x83b874c1e09d316059d929da402dcb1a98e92082": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Lido Staked Matic",
+      "address": "0x83b874c1e09d316059d929da402dcb1a98e92082",
+      "symbol": "STMATIC",
+      "logoURI": "https://assets.coingecko.com/coins/images/24185/thumb/stMATIC.png?1696523373",
+      "assetGroup": "STMATIC",
+      "tags": ["coingecko"]
+    },
+    "0x7320b543a4ce46a691a2cf317f1157a0b5059d43": {
+      "chainId": "1101",
+      "decimals": 6,
+      "name": "BlockChainCoinX",
+      "address": "0x7320b543a4ce46a691a2cf317f1157a0b5059d43",
+      "symbol": "XCCX",
+      "logoURI": "https://assets.coingecko.com/coins/images/32276/thumb/xccxx.png?1697180263",
+      "assetGroup": "XCCX (BlockChainCoinX)",
+      "tags": ["coingecko"]
+    },
+    "0xddafb91475bbf6210a151fa911ac8fda7de46ec2": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Giveth",
+      "address": "0xddafb91475bbf6210a151fa911ac8fda7de46ec2",
+      "symbol": "GIV",
+      "logoURI": "https://assets.coingecko.com/coins/images/21792/thumb/GIVToken_200x200.png?1722577147",
+      "assetGroup": "GIV (Giveth)",
+      "tags": ["coingecko"]
+    },
+    "0xff8544fed5379d9ffa8d47a74ce6b91e632ac44d": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Frax",
+      "address": "0xff8544fed5379d9ffa8d47a74ce6b91e632ac44d",
+      "symbol": "FRAX",
+      "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/frax-logo.png?1739780303",
+      "assetGroup": "FRAX",
+      "tags": ["coingecko"]
+    },
+    "0x68286607a1d43602d880d349187c3c48c0fd05e6": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Quickswap",
+      "address": "0x68286607a1d43602d880d349187c3c48c0fd05e6",
+      "symbol": "QUICK",
+      "logoURI": "https://assets.coingecko.com/coins/images/25393/thumb/quickswap.png?1696524525",
+      "assetGroup": "QUICK (Quickswap)",
+      "tags": ["coingecko"]
+    },
+    "0x6b856a14cea1d7dcfaf80fa6936c0b75972ccace": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Frax Share",
+      "address": "0x6b856a14cea1d7dcfaf80fa6936c0b75972ccace",
+      "symbol": "FXS",
+      "logoURI": "https://assets.coingecko.com/coins/images/13423/thumb/Frax_Shares_icon.png?1696513183",
+      "assetGroup": "FXS",
+      "tags": ["coingecko"]
+    },
+    "0xcf7ecee185f19e2e970a301ee37f93536ed66179": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Frax Ether",
+      "address": "0xcf7ecee185f19e2e970a301ee37f93536ed66179",
+      "symbol": "FRXETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/28284/thumb/frxETH_icon.png?1696527284",
+      "assetGroup": "FRXETH (Frax Ether)",
+      "tags": ["coingecko"]
+    },
+    "0x40df0c3bbaae5ea3a509d8f2aa9e086776c98e6c": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Antfarm Token",
+      "address": "0x40df0c3bbaae5ea3a509d8f2aa9e086776c98e6c",
+      "symbol": "ATF",
+      "logoURI": "https://assets.coingecko.com/coins/images/28821/thumb/ATF.png?1696527797",
+      "assetGroup": "ATF (Antfarm Token)",
+      "tags": ["coingecko"]
+    },
+    "0xa2036f0538221a77a3937f1379699f44945018d0": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Wrapped POL",
+      "address": "0xa2036f0538221a77a3937f1379699f44945018d0",
+      "symbol": "WPOL",
+      "logoURI": "https://assets.coingecko.com/coins/images/14073/thumb/matic.png?1696513797",
+      "assetGroup": "WPOL",
+      "tags": ["coingecko"]
+    },
+    "0xdf474b7109b73b7d57926d43598d5934131136b2": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Ankr Network",
+      "address": "0xdf474b7109b73b7d57926d43598d5934131136b2",
+      "symbol": "ANKR",
+      "logoURI": "https://assets.coingecko.com/coins/images/4324/thumb/U85xTl2.png?1696504928",
+      "assetGroup": "ANKR",
+      "tags": ["coingecko"]
+    },
+    "0x3b6564b5da73a41d3a66e6558a98fd0e9e1e77ad": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Unitus",
+      "address": "0x3b6564b5da73a41d3a66e6558a98fd0e9e1e77ad",
+      "symbol": "UTS",
+      "logoURI": "https://assets.coingecko.com/coins/images/33178/thumb/IMG_0051.jpeg?1700924333",
+      "assetGroup": "UTS (Unitus)",
+      "tags": ["coingecko"]
+    },
+    "0x819d1daa794c1c46b841981b61cc978d95a17b8e": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Davos xyz USD",
+      "address": "0x819d1daa794c1c46b841981b61cc978d95a17b8e",
+      "symbol": "DUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/28775/thumb/dusd_logo_200x200.png?1696527754",
+      "assetGroup": "DUSD (Davos xyz USD)",
+      "tags": ["coingecko"]
+    },
+    "0x6a80a465409ce8d36c513129c0feea61bed579ba": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Kyber Network Crystal",
+      "address": "0x6a80a465409ce8d36c513129c0feea61bed579ba",
+      "symbol": "KNC",
+      "logoURI": "https://assets.coingecko.com/coins/images/14899/thumb/RwdVsGcw_400x400.jpg?1696514562",
+      "assetGroup": "KNC",
+      "tags": ["coingecko"]
+    },
+    "0x12d8ce035c5de3ce39b1fdd4c1d5a745eaba3b8c": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Ankr Staked ETH",
+      "address": "0x12d8ce035c5de3ce39b1fdd4c1d5a745eaba3b8c",
+      "symbol": "ANKRETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/13403/thumb/aETHc.png?1696513165",
+      "assetGroup": "ANKRETH",
+      "tags": ["coingecko"]
+    },
+    "0x120ef59b80774f02211563834d8e3b72cb1649d6": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Balancer",
+      "address": "0x120ef59b80774f02211563834d8e3b72cb1649d6",
+      "symbol": "BAL",
+      "logoURI": "https://assets.coingecko.com/coins/images/11683/thumb/Balancer.png?1696511572",
+      "assetGroup": "BAL",
+      "tags": ["coingecko"]
+    },
+    "0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Interport Token",
+      "address": "0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31",
+      "symbol": "ITP",
+      "logoURI": "https://assets.coingecko.com/coins/images/28338/thumb/ITP_Logo_200.png?1696527344",
+      "assetGroup": "ITP (Interport Token)",
+      "tags": ["coingecko"]
+    },
+    "0xd507361174a0fde521bf8c097ef19dd31ffca710": {
+      "chainId": "1101",
+      "decimals": 9,
+      "name": "Amulet Protocol",
+      "address": "0xd507361174a0fde521bf8c097ef19dd31ffca710",
+      "symbol": "AMU",
+      "logoURI": "https://assets.coingecko.com/coins/images/34716/thumb/AMT200x200.png?1705904544",
+      "assetGroup": "AMU (Amulet Protocol)",
+      "tags": ["coingecko"]
+    },
+    "0x0d1e753a25ebda689453309112904807625befbe": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "PancakeSwap",
+      "address": "0x0d1e753a25ebda689453309112904807625befbe",
+      "symbol": "CAKE",
+      "logoURI": "https://assets.coingecko.com/coins/images/12632/thumb/pancakeswap-cake-logo_%281%29.png?1696512440",
+      "assetGroup": "CAKE",
+      "tags": ["coingecko"]
+    },
+    "0x62e2ea221e8fe0233ccabc0297b542b16ef3e8fa": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Smart Layer Network",
+      "address": "0x62e2ea221e8fe0233ccabc0297b542b16ef3e8fa",
+      "symbol": "SLN",
+      "logoURI": "https://assets.coingecko.com/coins/images/35397/thumb/sln.jpeg?1708488815",
+      "assetGroup": "SLN (Smart Layer Network)",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
     "0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9",
     "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
     "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
-    "0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1"
+    "0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1",
+    "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
+    "0x696c0ba235444607a1c4b93e6b34ba14928c1b60",
+    "0xd4e38eb4a9581e05de8aeb5f895916647b5933f1"
   ],
   "bridgeTokens": [
     "0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9",

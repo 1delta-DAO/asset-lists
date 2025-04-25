@@ -398,7 +398,7 @@
       "symbol": "RELAY",
       "logoURI": "https://assets.coingecko.com/coins/images/17816/large/relay-logo-200.png?1629339288",
       "assetGroup": "RELAY",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0xc1d02e488a9ce2481bfdcd797d5373dd2e70a9c2": {
       "chainId": "43114",
@@ -2739,7 +2739,7 @@
       "symbol": "KIDEN",
       "logoURI": "https://assets.coingecko.com/coins/images/50519/thumb/kiden_2.png?1728549777",
       "assetGroup": "KIDEN (RoboKiden)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x449674b82f05d498e126dd6615a1057a9c088f2c": {
       "chainId": "43114",
@@ -3409,7 +3409,7 @@
       "symbol": "SUBAVA",
       "logoURI": "https://assets.coingecko.com/coins/images/34571/thumb/NritEgVAcO.png?1705408907",
       "assetGroup": "SUBAVA (Subava Token)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0xf5f3216e9fed36f8ccf08d310fec6fbf7f06200f": {
       "chainId": "43114",
@@ -4889,7 +4889,7 @@
       "symbol": "OOOOOO",
       "logoURI": "https://assets.coingecko.com/coins/images/38157/thumb/Goddog_logo_for_Coingecko_200x200.png?1716669510",
       "assetGroup": "OOOOOO (GODDOG)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0xea50f402653c41cadbafd1f788341db7b7f37816": {
       "chainId": "43114",
@@ -5456,6 +5456,26 @@
       "symbol": "NUMI",
       "logoURI": "https://assets.coingecko.com/coins/images/55029/thumb/Token_Logo_NUMI_200.png?1743320367",
       "assetGroup": "NUMI (NUMINE Token)",
+      "tags": ["coingecko"]
+    },
+    "0x26debd39d5ed069770406fca10a0e4f8d2c743eb": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Wrapped GUN",
+      "address": "0x26debd39d5ed069770406fca10a0e4f8d2c743eb",
+      "symbol": "WGUN",
+      "logoURI": "https://assets.coingecko.com/coins/images/55133/thumb/Ea90ZMxI_400x400.jpg?1744004695",
+      "assetGroup": "WGUN (Wrapped GUN)",
+      "tags": ["coingecko"]
+    },
+    "0x3fe4902b275caf603c46c81f3d921bb8515b5bc0": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "JACK",
+      "address": "0x3fe4902b275caf603c46c81f3d921bb8515b5bc0",
+      "symbol": "JACK",
+      "logoURI": "https://assets.coingecko.com/coins/images/54835/thumb/200x200_token.png?1741969713",
+      "assetGroup": "JACK (JACK)",
       "tags": ["coingecko"]
     }
   },

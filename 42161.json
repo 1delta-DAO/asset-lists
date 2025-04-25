@@ -3311,7 +3311,7 @@
       "symbol": "RELAY",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/relay.png",
       "assetGroup": "RELAY",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x9a592b4539e22eeb8b2a3df679d572c7712ef999": {
       "chainId": "42161",
@@ -7688,7 +7688,7 @@
       "symbol": "AEGGS",
       "logoURI": "https://assets.coingecko.com/coins/images/29520/thumb/aeggs.png?1696528463",
       "assetGroup": "AEGGS (aEGGS)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0xb4bbfe92702730ef7f1d28e4b9e42381182f48a5": {
       "chainId": "42161",
@@ -7767,7 +7767,7 @@
       "symbol": "CRC",
       "logoURI": "https://assets.coingecko.com/coins/images/33468/thumb/logo-no-background.png?1701943008",
       "assetGroup": "CRC (CrazyRabbit)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x5f320aae9b786a9f329a39e41a74e88e14783067": {
       "chainId": "42161",
@@ -11087,7 +11087,7 @@
       "symbol": "OOOOOO",
       "logoURI": "https://assets.coingecko.com/coins/images/38157/thumb/Goddog_logo_for_Coingecko_200x200.png?1716669510",
       "assetGroup": "OOOOOO (GODDOG)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0xd08c3f25862077056cb1b710937576af899a4959": {
       "chainId": "42161",
@@ -12718,6 +12718,26 @@
       "symbol": "G",
       "logoURI": "https://assets.coingecko.com/coins/images/54587/thumb/Logo.jpg?1740555504",
       "assetGroup": "G (Graphite Network)",
+      "tags": ["coingecko"]
+    },
+    "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf": {
+      "chainId": "42161",
+      "decimals": 6,
+      "name": "Wild Goat Coin",
+      "address": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+      "symbol": "WGC",
+      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831",
+      "assetGroup": "WGC (Wild Goat Coin)",
+      "tags": ["coingecko"]
+    },
+    "0x2b28e826b55e399f4d4699b85f68666ac51e6f70": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "CAD Coin",
+      "address": "0x2b28e826b55e399f4d4699b85f68666ac51e6f70",
+      "symbol": "CADC",
+      "logoURI": "https://assets.coingecko.com/coins/images/14149/thumb/cadc_2.png?1696513868",
+      "assetGroup": "CADC (CAD Coin)",
       "tags": ["coingecko"]
     }
   },

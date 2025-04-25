@@ -1,0 +1,68 @@
+{
+  "chainId": "255",
+  "version": "0",
+  "list": {
+    "0x0cf7c2a584988871b654bd79f96899e4cd6c41c0": {
+      "chainId": "255",
+      "decimals": 6,
+      "name": "Kroma Bridged USDT  Kroma ",
+      "address": "0x0cf7c2a584988871b654bd79f96899e4cd6c41c0",
+      "symbol": "USDT",
+      "logoURI": "https://assets.coingecko.com/coins/images/51431/thumb/logo.png?1731196133",
+      "assetGroup": "USDT",
+      "tags": ["bridged", "coingecko"]
+    },
+    "0x61e0d34b5206fa8005ec1de8000df9b9ddee23db": {
+      "chainId": "255",
+      "decimals": 18,
+      "name": "Kroma Staked ETH",
+      "address": "0x61e0d34b5206fa8005ec1de8000df9b9ddee23db",
+      "symbol": "SPETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/51522/thumb/ethereum-eth-logo.png?1731453780",
+      "assetGroup": "SPETH (Kroma Staked ETH)",
+      "tags": ["coingecko"]
+    },
+    "0x4200000000000000000000000000000000000001": {
+      "chainId": "255",
+      "decimals": 18,
+      "name": "Wrapped Ether  Kroma ",
+      "address": "0x4200000000000000000000000000000000000001",
+      "symbol": "WETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/51428/thumb/ethereum-eth-logo.png?1731194723",
+      "assetGroup": "WETH",
+      "tags": ["coingecko"]
+    },
+    "0x25500000d700bbe27104577cccce8eabcc96c8ad": {
+      "chainId": "255",
+      "decimals": 18,
+      "name": "Kroma",
+      "address": "0x25500000d700bbe27104577cccce8eabcc96c8ad",
+      "symbol": "KRO",
+      "logoURI": "https://assets.coingecko.com/coins/images/30830/thumb/Kroma-symbol.png?1696529683",
+      "assetGroup": "KRO (Kroma)",
+      "tags": ["coingecko"]
+    },
+    "0x0257e4d92c00c9efcca1d641b224d7d09cfa4522": {
+      "chainId": "255",
+      "decimals": 6,
+      "name": "Kroma Bridged USDC  Kroma ",
+      "address": "0x0257e4d92c00c9efcca1d641b224d7d09cfa4522",
+      "symbol": "USDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/51432/thumb/warpgreen.png?1731196370",
+      "assetGroup": "USDC",
+      "tags": ["bridged", "coingecko"]
+    }
+  },
+  "mainTokens": [
+    "0x0cf7c2a584988871b654bd79f96899e4cd6c41c0",
+    "0x61e0d34b5206fa8005ec1de8000df9b9ddee23db",
+    "0x4200000000000000000000000000000000000001",
+    "0x25500000d700bbe27104577cccce8eabcc96c8ad",
+    "0x0257e4d92c00c9efcca1d641b224d7d09cfa4522"
+  ],
+  "bridgeTokens": [
+    "0x0cf7c2a584988871b654bd79f96899e4cd6c41c0",
+    "0x4200000000000000000000000000000000000001",
+    "0x0257e4d92c00c9efcca1d641b224d7d09cfa4522"
+  ]
+}

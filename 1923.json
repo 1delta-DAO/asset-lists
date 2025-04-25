@@ -101,6 +101,16 @@
       "logoURI": "https://assets.coingecko.com/coins/images/50978/thumb/a.jpg?1730208372",
       "assetGroup": "STBTC",
       "tags": ["coingecko"]
+    },
+    "0x3d63825b0d8669307366e6c8202f656b9e91d368": {
+      "chainId": "1923",
+      "decimals": 6,
+      "name": "Wild Goat Coin",
+      "address": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
+      "symbol": "WGC",
+      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831",
+      "assetGroup": "WGC (Wild Goat Coin)",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -113,7 +123,8 @@
     "0x09341022ea237a4db1644de7ccf8fa0e489d85b7",
     "0xea34479f7d95341e5fd49b89936366d6da710824",
     "0xecac9c5f704e954931349da37f60e39f515c11c1",
-    "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3"
+    "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3",
+    "0x3d63825b0d8669307366e6c8202f656b9e91d368"
   ],
   "bridgeTokens": ["0x4200000000000000000000000000000000000006"]
 }

@@ -27,7 +27,8 @@
       "address": "0xf6f832466cd6c21967e0d954109403f36bc8ceaa",
       "symbol": "WETH",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/weth.svg",
-      "assetGroup": "WETH"
+      "assetGroup": "WETH",
+      "tags": ["coingecko"]
     },
     "0x816e810f9f787d669fb71932deabf6c83781cd48": {
       "chainId": "1625",
@@ -46,7 +47,7 @@
       "symbol": "USDC.e",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdc.svg",
       "assetGroup": "USDC",
-      "tags": ["stargate", "bridged"]
+      "tags": ["stargate", "bridged", "coingecko"]
     },
     "0xbb859e225ac8fb6be1c7e38d87b767e95fef0ebd": {
       "chainId": "1625",
@@ -55,7 +56,8 @@
       "address": "0xbb859e225ac8fb6be1c7e38d87b767e95fef0ebd",
       "symbol": "wG",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/g.png",
-      "assetGroup": "wG (Wrapped G)"
+      "assetGroup": "wG (Wrapped G)",
+      "tags": ["coingecko"]
     },
     "0xc314b8637b05a294ae9d9c29300d5f667c748bad": {
       "chainId": "1625",
@@ -64,7 +66,8 @@
       "address": "0xc314b8637b05a294ae9d9c29300d5f667c748bad",
       "symbol": "atETH",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/ateth.svg",
-      "assetGroup": "atETH (Latch staked ETH)"
+      "assetGroup": "atETH (Latch staked ETH)",
+      "tags": ["coingecko"]
     },
     "0xc4af68dd5b96f0a544c4417407773fefdc97f58d": {
       "chainId": "1625",
@@ -73,14 +76,17 @@
       "address": "0xc4af68dd5b96f0a544c4417407773fefdc97f58d",
       "symbol": "atUSD",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/atusd.svg",
-      "assetGroup": "atUSD (Latch staked USD)"
+      "assetGroup": "atUSD (Latch staked USD)",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
     "0x729ed87bbe7b7e4b7f09bcb9c668580818d98bb9",
     "0xf6f832466cd6c21967e0d954109403f36bc8ceaa",
     "0x816e810f9f787d669fb71932deabf6c83781cd48",
-    "0xfbda5f676cb37624f28265a144a48b0d6e87d3b6"
+    "0xfbda5f676cb37624f28265a144a48b0d6e87d3b6",
+    "0xc314b8637b05a294ae9d9c29300d5f667c748bad",
+    "0xc4af68dd5b96f0a544c4417407773fefdc97f58d"
   ],
   "bridgeTokens": [
     "0x729ed87bbe7b7e4b7f09bcb9c668580818d98bb9",

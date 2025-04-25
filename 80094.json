@@ -98,7 +98,8 @@
       "address": "0x28e0e3b9817012b356119df9e217c25932d609c2",
       "symbol": "NECT",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x28e0e3B9817012b356119dF9e217c25932D609c2/logo.png",
-      "assetGroup": "NECT (NECTAR)"
+      "assetGroup": "NECT (NECTAR)",
+      "tags": ["coingecko"]
     },
     "0xac03caba51e17c86c921e1f6cbfbdc91f8bb2e6b": {
       "chainId": "80094",
@@ -595,6 +596,26 @@
       "symbol": "USDBR",
       "logoURI": "https://assets.coingecko.com/coins/images/55096/thumb/USDbr.png?1743699568",
       "assetGroup": "USDBR (USDbr)",
+      "tags": ["coingecko"]
+    },
+    "0x009af46df68db0e76bfe9ea35663f6ed17877956": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "Ooga Booga",
+      "address": "0x009af46df68db0e76bfe9ea35663f6ed17877956",
+      "symbol": "OOGA",
+      "logoURI": "https://assets.coingecko.com/coins/images/55119/thumb/Ooga_Booga_Listing_Icon_200x200.png?1743839384",
+      "assetGroup": "OOGA (Ooga Booga)",
+      "tags": ["coingecko"]
+    },
+    "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf": {
+      "chainId": "80094",
+      "decimals": 6,
+      "name": "Wild Goat Coin",
+      "address": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+      "symbol": "WGC",
+      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831",
+      "assetGroup": "WGC (Wild Goat Coin)",
       "tags": ["coingecko"]
     }
   },

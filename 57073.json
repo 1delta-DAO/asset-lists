@@ -101,6 +101,16 @@
       "logoURI": "https://assets.coingecko.com/coins/images/50879/thumb/kBTC.png?1730321084",
       "assetGroup": "KBTC (Kraken Wrapped BTC)",
       "tags": ["coingecko"]
+    },
+    "0x3d63825b0d8669307366e6c8202f656b9e91d368": {
+      "chainId": "57073",
+      "decimals": 6,
+      "name": "Wild Goat Coin",
+      "address": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
+      "symbol": "WGC",
+      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831",
+      "assetGroup": "WGC (Wild Goat Coin)",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -113,7 +123,8 @@
     "0x4200000000000000000000000000000000000006",
     "0xd642b49d10cc6e1bc1c6945725667c35e0875f22",
     "0x53ad50d3b6fcacb8965d3a49cb722917c7dae1f3",
-    "0x73e0c0d45e048d25fc26fa3159b0aa04bfa4db98"
+    "0x73e0c0d45e048d25fc26fa3159b0aa04bfa4db98",
+    "0x3d63825b0d8669307366e6c8202f656b9e91d368"
   ],
   "bridgeTokens": [
     "0xf1815bd50389c46847f0bda824ec8da914045d14",

@@ -121,6 +121,26 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55100/thumb/coingeckopfp.png?1743751885",
       "assetGroup": "MOP (MOP)",
       "tags": ["coingecko"]
+    },
+    "0xcefcffaa272c51a1962f0d73ea6ad9a9a8c64c1d": {
+      "chainId": "2741",
+      "decimals": 18,
+      "name": "Absters Girl",
+      "address": "0xcefcffaa272c51a1962f0d73ea6ad9a9a8c64c1d",
+      "symbol": "ABBY",
+      "logoURI": "https://assets.coingecko.com/coins/images/55118/thumb/IMG_1636_%281%29.JPG?1743838988",
+      "assetGroup": "ABBY (Absters Girl)",
+      "tags": ["coingecko"]
+    },
+    "0xb1bd5afa0de1953246c81276550a464f7d545929": {
+      "chainId": "2741",
+      "decimals": 18,
+      "name": "GALAXIS Token",
+      "address": "0xb1bd5afa0de1953246c81276550a464f7d545929",
+      "symbol": "GALAXIS",
+      "logoURI": "https://assets.coingecko.com/coins/images/36221/thumb/500x500.png?1714755244",
+      "assetGroup": "GALAXIS (GALAXIS Token)",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -135,7 +155,8 @@
     "0x3439153eb7af838ad19d56e1571fbd09333c2809",
     "0x8041fbc255d6e6330e92a61325da515656bfd2dd",
     "0x0a2c776e4f9017ca0679e6064d2f99cf397b6457",
-    "0x853d7133c2674fc924511dd913c5a0a291822515"
+    "0x853d7133c2674fc924511dd913c5a0a291822515",
+    "0xcefcffaa272c51a1962f0d73ea6ad9a9a8c64c1d"
   ],
   "bridgeTokens": ["0x84a71ccd554cc1b02749b35d22f684cc8ec987e1", "0x3439153eb7af838ad19d56e1571fbd09333c2809"]
 }
