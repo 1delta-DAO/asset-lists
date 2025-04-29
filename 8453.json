@@ -7805,7 +7805,7 @@
       "symbol": "BANANAS",
       "logoURI": "https://assets.coingecko.com/coins/images/37036/thumb/logo-mp.png?1713160745",
       "assetGroup": "BANANAS (Monkey Peepo)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0xc36f19bccd51e3f1163eff07b5edf9d2850acec4": {
       "chainId": "8453",
@@ -7965,7 +7965,7 @@
       "symbol": "DILIGENT",
       "logoURI": "https://assets.coingecko.com/coins/images/37711/thumb/photo_2024-04-09_12-21-44.png?1715275436",
       "assetGroup": "DILIGENT (Diligent Pepe)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0xe6f47303032a09c8c0f8ebb713c00e6ed345e8c3": {
       "chainId": "8453",
@@ -16698,8 +16698,7 @@
       "address": "0x53985d52936e8052b87035084fda74d832ad3c00",
       "symbol": "PRFI",
       "logoURI": "https://assets.coingecko.com/coins/images/55355/thumb/Prime_Numbers_Icon_%281%29.png?1745589445",
-      "assetGroup": "PRFI (PrimeFi)",
-      "tags": ["coingecko"]
+      "assetGroup": "PRFI (PrimeFi)"
     },
     "0x39c5c62a0b098de643f20a6514ca5ef012fc4a94": {
       "chainId": "8453",
@@ -16889,6 +16888,66 @@
       "symbol": "ASK",
       "logoURI": "https://assets.coingecko.com/coins/images/12521/thumb/rjQjTU3c_400x400.jpg?1696512335",
       "assetGroup": "ASK (Permission Coin)",
+      "tags": ["coingecko"]
+    },
+    "0x7bbcf1b600565ae023a1806ef637af4739de3255": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "PrimeFi",
+      "address": "0x7bbcf1b600565ae023a1806ef637af4739de3255",
+      "symbol": "PRFI",
+      "logoURI": "https://assets.coingecko.com/coins/images/55355/thumb/Prime_Numbers_Icon_%281%29.png?1745589445",
+      "assetGroup": "PRFI (PrimeFi)",
+      "tags": ["coingecko"]
+    },
+    "0x0000000f2eb9f69274678c76222b35eec7588a65": {
+      "chainId": "8453",
+      "decimals": 6,
+      "name": "Yield Optimizer USD",
+      "address": "0x0000000f2eb9f69274678c76222b35eec7588a65",
+      "symbol": "YOUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/55386/thumb/yoUSD.png?1745708461",
+      "assetGroup": "YOUSD (Yield Optimizer USD)",
+      "tags": ["coingecko"]
+    },
+    "0x36692131ccc0a478e26b3a1ada6447d95f79df21": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Baby Pepe",
+      "address": "0x36692131ccc0a478e26b3a1ada6447d95f79df21",
+      "symbol": "BABYPEPE",
+      "logoURI": "https://assets.coingecko.com/coins/images/55369/thumb/200kb_200x200px.png?1745665423",
+      "assetGroup": "BABYPEPE (Baby Pepe)",
+      "tags": ["coingecko"]
+    },
+    "0x5a70be406ce7471a44f0183b8d7091f4ad751db5": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Sato The Dog",
+      "address": "0x5a70be406ce7471a44f0183b8d7091f4ad751db5",
+      "symbol": "SATO",
+      "logoURI": "https://assets.coingecko.com/coins/images/55378/thumb/IMG_3596.jpeg?1745667975",
+      "assetGroup": "SATO (Sato The Dog)",
+      "tags": ["coingecko"]
+    },
+    "0xc680eca227fc9ab21a9210e0eafeff9068a89327": {
+      "chainId": "8453",
+      "decimals": 9,
+      "name": "Kartel",
+      "address": "0xc680eca227fc9ab21a9210e0eafeff9068a89327",
+      "symbol": "KARTEL",
+      "logoURI": "https://assets.coingecko.com/coins/images/55415/thumb/kartellogo.jpeg?1745898909",
+      "assetGroup": "KARTEL (Kartel)",
+      "tags": ["coingecko"]
+    },
+    "0x0f1a9f3b8b971ac72a2d362cf2858f21fb799601": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "SUISSMA AI by Virtuals",
+      "address": "0x0f1a9f3b8b971ac72a2d362cf2858f21fb799601",
+      "symbol": "SUISS",
+      "logoURI": "https://assets.coingecko.com/coins/images/55383/thumb/_SUISS_Token_Logo.png?1745703247",
+      "assetGroup": "SUISS (SUISSMA AI by Virtuals)",
       "tags": ["coingecko"]
     }
   },

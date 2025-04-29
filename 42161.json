@@ -1989,7 +1989,7 @@
       "symbol": "USDT",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
       "assetGroup": "USDT",
-      "tags": ["openocean", "coingecko", "debridge"]
+      "tags": ["openocean", "coingecko"]
     },
     "0xcf6130de80de367597efc3fde07c22abd0698601": {
       "chainId": "42161",
@@ -4695,7 +4695,7 @@
       "address": "0xf3527ef8de265eaa3716fb312c12847bfba66cef",
       "symbol": "USDX",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdx.svg",
-      "assetGroup": "USDX (USDX)",
+      "assetGroup": "USDX",
       "tags": ["coingecko", "debridge"]
     },
     "0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92": {
@@ -4705,7 +4705,7 @@
       "address": "0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92",
       "symbol": "sUSDX",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/susdx.svg",
-      "assetGroup": "sUSDX (Staked USDX)",
+      "assetGroup": "SUSDX",
       "tags": ["coingecko", "debridge"]
     },
     "0xac75f0c46723432a2303f2a7c7769535a179ed56": {
@@ -5065,7 +5065,8 @@
       "address": "0xbdef0e9ef12e689f366fe494a7a7d0dad25d9286",
       "symbol": "FUSE",
       "logoURI": "https://assets.coingecko.com/coins/images/10347/large/fuse.png?1675703585",
-      "assetGroup": "FUSE"
+      "assetGroup": "FUSE",
+      "tags": ["openocean"]
     },
     "0x5c1663ed38b3a0eaa5ab7a392ff149b06a13415e": {
       "chainId": "42161",
@@ -5717,7 +5718,8 @@
       "address": "0x3cd1833ce959e087d0ef0cb45ed06bffe60f23ba",
       "symbol": "LAND",
       "logoURI": "https://s3.openocean.finance/token_logos/logos/1637927281150_2452152542772339.png",
-      "assetGroup": "LAND (Land)"
+      "assetGroup": "LAND (Land)",
+      "tags": ["openocean"]
     },
     "0x8fbd420956fdd301f4493500fd0bcaaa80f2389c": {
       "chainId": "42161",
@@ -5776,7 +5778,8 @@
       "address": "0xfa42da1bd08341537a44a4ca9d236d1c00a98b40",
       "symbol": "CARBON",
       "logoURI": "https://s3.openocean.finance/token_logos/logos/1637832686338_7422730180325647.png",
-      "assetGroup": "CARBON (Carboncoin)"
+      "assetGroup": "CARBON (Carboncoin)",
+      "tags": ["openocean"]
     },
     "0x07aaa29e63ffeb2ebf59b33ee61437e1a91a3bb2": {
       "chainId": "42161",
@@ -5815,7 +5818,8 @@
       "address": "0x0e15258734300290a651fdbae8deb039a8e7a2fa",
       "symbol": "ALCH",
       "logoURI": "https://s3.openocean.finance/token_logos/logos/1638170458309_14655151279728496.png",
-      "assetGroup": "ALCH (Token Alch)"
+      "assetGroup": "ALCH (Token Alch)",
+      "tags": ["openocean"]
     },
     "0x23a941036ae778ac51ab04cea08ed6e2fe103614": {
       "chainId": "42161",
@@ -7204,7 +7208,7 @@
       "symbol": "REUNI",
       "logoURI": "https://assets.coingecko.com/coins/images/29492/thumb/reunit_200.png?1696528436",
       "assetGroup": "REUNI (Reunit Wallet)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x6bcc14b02cd624ebe1a8a665cb6d4067aa097230": {
       "chainId": "42161",
@@ -10103,7 +10107,7 @@
       "symbol": "BRG",
       "logoURI": "https://assets.coingecko.com/coins/images/12512/thumb/brg.png?1696512327",
       "assetGroup": "BRG (Bridge Oracle)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x3405e88af759992937b84e58f2fe691ef0eea320": {
       "chainId": "42161",
@@ -12803,6 +12807,24 @@
       "decimals": 18,
       "name": "PrimeFi",
       "address": "0x53985d52936e8052b87035084fda74d832ad3c00",
+      "symbol": "PRFI",
+      "logoURI": "https://assets.coingecko.com/coins/images/55355/thumb/Prime_Numbers_Icon_%281%29.png?1745589445",
+      "assetGroup": "PRFI (PrimeFi)"
+    },
+    "0x05905af7933f89280ab258919f0dfa056ced8e43": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Clutch",
+      "address": "0x05905af7933f89280ab258919f0dfa056ced8e43",
+      "symbol": "CLUTCH",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/CLUTCH.png",
+      "assetGroup": "CLUTCH (Clutch)"
+    },
+    "0x7bbcf1b600565ae023a1806ef637af4739de3255": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "PrimeFi",
+      "address": "0x7bbcf1b600565ae023a1806ef637af4739de3255",
       "symbol": "PRFI",
       "logoURI": "https://assets.coingecko.com/coins/images/55355/thumb/Prime_Numbers_Icon_%281%29.png?1745589445",
       "assetGroup": "PRFI (PrimeFi)",

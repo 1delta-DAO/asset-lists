@@ -3397,7 +3397,8 @@
       "address": "0x1a2fb0af670d0234c2857fad35b789f8cb725584",
       "symbol": "KUN",
       "logoURI": "https://tokens.pancakeswap.finance/images/0x1A2fb0Af670D0234c2857FaD35b789F8Cb725584.png",
-      "assetGroup": "KUN (Qian Governance Token)"
+      "assetGroup": "KUN (Qian Governance Token)",
+      "tags": ["openocean"]
     },
     "0xc40c9a843e1c6d01b7578284a9028854f6683b1b": {
       "chainId": "56",
@@ -6841,7 +6842,7 @@
       "symbol": "ACS V1",
       "logoURI": "https://tokens.debridge.finance/Logo/56/0x4197c6ef3879a08cd51e5560da5064b773aa1d29/small/token-logo.png",
       "assetGroup": "ACS V1 (ACryptoS V1)",
-      "tags": ["debridge"]
+      "tags": ["openocean", "debridge"]
     },
     "0xda5be69074afd12354173b4350ec9117e73e92e2": {
       "chainId": "56",
@@ -9428,7 +9429,7 @@
       "address": "0xf3527ef8de265eaa3716fb312c12847bfba66cef",
       "symbol": "USDX",
       "logoURI": "https://tokens.debridge.finance/Logo/56/0xf3527ef8de265eaa3716fb312c12847bfba66cef/small/token-logo.png",
-      "assetGroup": "USDX (Stables Labs USDX)",
+      "assetGroup": "USDX",
       "tags": ["debridge"]
     },
     "0x9356086146be5158e98ad827e21b5cf944699894": {
@@ -17693,11 +17694,11 @@
     "0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92": {
       "chainId": "56",
       "decimals": 18,
-      "name": "Stables Labs Staked USDX",
+      "name": "Staked USDX",
       "address": "0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92",
       "symbol": "sUSDX",
       "logoURI": "https://tokens.debridge.finance/Logo/56/0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92/small/token-logo.png",
-      "assetGroup": "sUSDX (Stables Labs Staked USDX)",
+      "assetGroup": "SUSDX",
       "tags": ["debridge"]
     },
     "0x414f9e74ba3a9d0acce65182809492f41ac671e0": {
@@ -27504,7 +27505,7 @@
       "address": "0x23ae4fd8e7844cdbc97775496ebd0e8248656028",
       "symbol": "XAUM",
       "logoURI": "https://tokens.debridge.finance/Logo/56/0x23ae4fd8e7844cdbc97775496ebd0e8248656028/small/token-logo.png",
-      "assetGroup": "XAUM (Matrixdock Gold)",
+      "assetGroup": "XAUM",
       "tags": ["debridge"]
     },
     "0x6fa9c0ee8a1f237466bb9cac8466bfa2aa63a978": {

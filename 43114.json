@@ -963,7 +963,7 @@
       "symbol": "SMRTR",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x6D923f688C7FF287dc3A5943CAeefc994F97b290/logo.png",
       "assetGroup": "SMRTR (SmarterCoin)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["openocean", "coingecko", "debridge"]
     },
     "0x9913ba363073ca3e9ea0cd296e36b75af9e40bef": {
       "chainId": "43114",
@@ -2038,7 +2038,8 @@
       "address": "0xc3344870d52688874b06d844e0c36cc39fc727f6",
       "symbol": "ankrAVAX",
       "logoURI": "https://s3.openocean.finance/token_logos/logos/1658311661542_9477867315587034.JPG",
-      "assetGroup": "ankrAVAX (Ankr Reward Bearing AVAX)"
+      "assetGroup": "ankrAVAX (Ankr Reward Bearing AVAX)",
+      "tags": ["openocean"]
     },
     "0xa32608e873f9ddef944b24798db69d80bbb4d1ed": {
       "chainId": "43114",
@@ -2178,7 +2179,7 @@
       "symbol": "axlUST",
       "logoURI": "https://s3.openocean.finance/token_logos/logos/1648112491796_24445859804930659.png",
       "assetGroup": "axlUST (Axelar Wrapped UST)",
-      "tags": ["axelar", "bridged"]
+      "tags": ["axelar", "bridged", "openocean"]
     },
     "0x0802d66f029c46e042b74d543fc43b6705ccb4ba": {
       "chainId": "43114",
@@ -2617,7 +2618,8 @@
       "address": "0xcc2f1d827b18321254223df4e84de399d9ff116c",
       "symbol": "SMRT",
       "logoURI": "https://s3.openocean.finance/token_logos/logos/1634806070088_48027228841072933.jpeg",
-      "assetGroup": "SMRT (Smartcoin)"
+      "assetGroup": "SMRT (Smartcoin)",
+      "tags": ["openocean"]
     },
     "0xb9a98894ffbfa98c73a818b5b044e5b1c8666f56": {
       "chainId": "43114",
@@ -2747,7 +2749,7 @@
       "symbol": "LOST",
       "logoURI": "https://assets.coingecko.com/coins/images/24921/thumb/logo.png?1696524077",
       "assetGroup": "LOST (Lost World)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x1c7c53aa86b49a28c627b6450091998e447a42f9": {
       "chainId": "43114",
@@ -4227,7 +4229,7 @@
       "symbol": "REUNI",
       "logoURI": "https://assets.coingecko.com/coins/images/29492/thumb/reunit_200.png?1696528436",
       "assetGroup": "REUNI (Reunit Wallet)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x11d6dd25c1695764e64f439e32cc7746f3945543": {
       "chainId": "43114",
@@ -4347,7 +4349,7 @@
       "symbol": "UFARM",
       "logoURI": "https://assets.coingecko.com/coins/images/15247/thumb/ufarm.jpeg?1696514900",
       "assetGroup": "UFARM (UniFarm)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0xdebb1d6a2196f2335ad51fbde7ca587205889360": {
       "chainId": "43114",
@@ -5524,6 +5526,26 @@
       "symbol": "SPACE",
       "logoURI": "https://assets.coingecko.com/coins/images/20676/thumb/jYw3kgsY_400x400.png?1696520076",
       "assetGroup": "SPACE (Space Token)",
+      "tags": ["coingecko"]
+    },
+    "0x22bc1c924a6174eb9b2c98035f8d2f20e8bc4a1e": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Supcoin",
+      "address": "0x22bc1c924a6174eb9b2c98035f8d2f20e8bc4a1e",
+      "symbol": "SUP",
+      "logoURI": "https://assets.coingecko.com/coins/images/55387/thumb/supcoin.jpg?1745740153",
+      "assetGroup": "SUP (Supcoin)",
+      "tags": ["coingecko"]
+    },
+    "0xacc95afa65768aa74044e6f6e267ad6417cd3e55": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Boi the Bear",
+      "address": "0xacc95afa65768aa74044e6f6e267ad6417cd3e55",
+      "symbol": "BOI",
+      "logoURI": "https://assets.coingecko.com/coins/images/55397/thumb/Boi_the_Bear.jpg?1745825057",
+      "assetGroup": "BOI (Boi the Bear)",
       "tags": ["coingecko"]
     }
   },
