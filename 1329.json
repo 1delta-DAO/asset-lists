@@ -310,6 +310,26 @@
       "logoURI": "https://assets.coingecko.com/coins/images/27927/thumb/vrtx.png?1696526947",
       "assetGroup": "VRTX (Vertex)",
       "tags": ["coingecko"]
+    },
+    "0x93919784c523f39cacaa98ee0a9d96c3f32b593e": {
+      "chainId": "1329",
+      "decimals": 8,
+      "name": "Bedrock BTC",
+      "address": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
+      "symbol": "BRBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/53039/thumb/brBTC_200.png?1735074374",
+      "assetGroup": "BRBTC (Bedrock BTC)",
+      "tags": ["coingecko"]
+    },
+    "0x9bfa177621119e64cecbeabe184ab9993e2ef727": {
+      "chainId": "1329",
+      "decimals": 18,
+      "name": "Merlin BTC",
+      "address": "0x9bfa177621119e64cecbeabe184ab9993e2ef727",
+      "symbol": "M-BTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/36566/thumb/photo_2024-03-25_22-04-42.jpg?1711936162",
+      "assetGroup": "M-BTC",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -338,7 +358,9 @@
     "0x78e26e8b953c7c78a58d69d8b9a91745c2bbb258",
     "0x83c82f0f959ad3eff528ee513b43808aa53f4b37",
     "0x69e48ce9cf965acc1de2ad5ad2fdbc3bdb51509b",
-    "0x9151434b16b9763660705744891fa906f660ecc5"
+    "0x9151434b16b9763660705744891fa906f660ecc5",
+    "0x9bfa177621119e64cecbeabe184ab9993e2ef727",
+    "0x93919784c523f39cacaa98ee0a9d96c3f32b593e"
   ],
   "bridgeTokens": [
     "0x160345fc359604fc6e70e3c5facbde5f7a9342d8",

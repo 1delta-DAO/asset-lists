@@ -4603,7 +4603,8 @@
       "address": "0x1b2c29e3897b8f9170c98440a483e90e715c879d",
       "symbol": "sUSDz",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/susdz.svg",
-      "assetGroup": "sUSDz (Anzen Staked USDz)"
+      "assetGroup": "sUSDz (Anzen Staked USDz)",
+      "tags": ["coingecko"]
     },
     "0xf1a88250532a4a66a2420a8cbb434da82e1e2ca1": {
       "chainId": "42161",
@@ -5929,7 +5930,7 @@
       "symbol": "WRT",
       "logoURI": "https://assets.coingecko.com/coins/images/37270/thumb/wrt.jpg?1713888102",
       "assetGroup": "WRT (WorkoutApp)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x1b8d516e2146d7a32aca0fcbf9482db85fd42c3a": {
       "chainId": "42161",
@@ -6049,7 +6050,7 @@
       "symbol": "NUON",
       "logoURI": "https://assets.coingecko.com/coins/images/29739/thumb/Nuon_image.jpg?1696528669",
       "assetGroup": "NUON (Nuon)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x45940000009600102a1c002f0097c4a500fa00ab": {
       "chainId": "42161",
@@ -7288,7 +7289,7 @@
       "symbol": "ELM",
       "logoURI": "https://assets.coingecko.com/coins/images/28153/thumb/elm.png?1696527158",
       "assetGroup": "ELM (ELLERIUM)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x1bd013bd089c2b6b2d30a0e0b545810a5844e761": {
       "chainId": "42161",
@@ -8176,8 +8177,7 @@
       "address": "0x8b21e9b7daf2c4325bf3d18c1beb79a347fe902a",
       "symbol": "COLLAB",
       "logoURI": "https://assets.coingecko.com/coins/images/29098/thumb/collab.png?1696528061",
-      "assetGroup": "COLLAB (Collab Land)",
-      "tags": ["coingecko"]
+      "assetGroup": "COLLAB (Collab Land)"
     },
     "0xef04804e1e474d3f9b73184d7ef5d786f3fce930": {
       "chainId": "42161",
@@ -8477,7 +8477,7 @@
       "symbol": "RCGE",
       "logoURI": "https://assets.coingecko.com/coins/images/51366/thumb/1000233806.png?1730910977",
       "assetGroup": "RCGE (RCGE)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x6533afac2e7bccb20dca161449a13a32d391fb00": {
       "chainId": "42161",
@@ -10657,7 +10657,7 @@
       "symbol": "EGOLD",
       "logoURI": "https://assets.coingecko.com/coins/images/50815/thumb/eGOLD.png?1729238938",
       "assetGroup": "EGOLD (Aryze s Digital Gold)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x2598c30330d5771ae9f983979209486ae26de875": {
       "chainId": "42161",
@@ -12829,6 +12829,595 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55355/thumb/Prime_Numbers_Icon_%281%29.png?1745589445",
       "assetGroup": "PRFI (PrimeFi)",
       "tags": ["coingecko"]
+    },
+    "0x9c1a1c7ba9c2602123fd7ef3eb41a769edf6c53a": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Mantle",
+      "address": "0x9c1a1c7ba9c2602123fd7ef3eb41a769edf6c53a",
+      "symbol": "MNT",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/30980/large/Mantle-Logo-mark.png?1739213200",
+      "assetGroup": "MNT"
+    },
+    "0xc845b2894dbddd03858fd2d643b4ef725fe0849d": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "NVIDIA xStock",
+      "address": "0xc845b2894dbddd03858fd2d643b4ef725fe0849d",
+      "symbol": "NVDAX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55633/thumb/Ticker_NVDA__Company_Name_NVIDIA_Corp__size_200x200_2x.png?1746862704",
+      "assetGroup": "NVDAX (NVIDIA xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x38bac69cbbd28156796e4163b2b6dcb81e336565": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Broadcom xStock",
+      "address": "0x38bac69cbbd28156796e4163b2b6dcb81e336565",
+      "symbol": "AVGOX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55592/thumb/Ticker_AVGO__Company_Name_Broadcom_Inc.__size_200x200_2x.png?1746809042",
+      "assetGroup": "AVGOX (Broadcom xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x766b0cd6ed6d90b5d49d2c36a3761e9728501ba9": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Home Depot xStock",
+      "address": "0x766b0cd6ed6d90b5d49d2c36a3761e9728501ba9",
+      "symbol": "HDX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55612/thumb/Ticker_HD__Company_Name_Home_Depot__size_200x200_2x.png?1746858853",
+      "assetGroup": "HDX (Home Depot xStock)",
+      "tags": ["coingecko"]
+    },
+    "0xd9fc3e075d45254a1d834fea18af8041207dea0a": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "JPMorgan Chase xStock",
+      "address": "0xd9fc3e075d45254a1d834fea18af8041207dea0a",
+      "symbol": "JPMX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55621/thumb/Ticker_JPM__Company_Name_JPMorganChase__size_200x200_2x.png?1746861978",
+      "assetGroup": "JPMX (JPMorgan Chase xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x96702be57cd9777f835117a809c7124fe4ec989a": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Meta xStock",
+      "address": "0x96702be57cd9777f835117a809c7124fe4ec989a",
+      "symbol": "METAX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55628/thumb/Ticker_META__Company_Name_Meta_Platforms_Inc.__size_200x200_2x.png?1746862467",
+      "assetGroup": "METAX (Meta xStock)",
+      "tags": ["coingecko"]
+    },
+    "0xe5f6d3b2405abdfe6f660e63202b25d23763160d": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Gamestop xStock",
+      "address": "0xe5f6d3b2405abdfe6f660e63202b25d23763160d",
+      "symbol": "GMEX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55607/thumb/Ticker_GME__Company_Name_gamestop__size_200x200_2x.png?1746858467",
+      "assetGroup": "GMEX (Gamestop xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x5621737f42dae558b81269fcb9e9e70c19aa6b35": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Microsoft xStock",
+      "address": "0x5621737f42dae558b81269fcb9e9e70c19aa6b35",
+      "symbol": "MSFTX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55630/thumb/Ticker_MSFT__Company_Name_Microsoft_Inc.__size_200x200_2x.png?1746862508",
+      "assetGroup": "MSFTX (Microsoft xStock)",
+      "tags": ["coingecko"]
+    },
+    "0xaf072f109a2c173d822a4fe9af311a1b18f83d19": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Thermo Fisher xStock",
+      "address": "0xaf072f109a2c173d822a4fe9af311a1b18f83d19",
+      "symbol": "TMOX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55639/thumb/Ticker_TMO__Company_Name_Thermo_Fisher_Scientific__size_200x200_2x.png?1746863322",
+      "assetGroup": "TMOX (Thermo Fisher xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x4a4073f2eaf299a1be22254dcd2c41727f6f54a2": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Salesforce xStock",
+      "address": "0x4a4073f2eaf299a1be22254dcd2c41727f6f54a2",
+      "symbol": "CRMX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55647/thumb/Ticker_CRM__Company_Name_SP500__size_200x200_2x.png?1746864230",
+      "assetGroup": "CRMX (Salesforce xStock)",
+      "tags": ["coingecko"]
+    },
+    "0xeedb0273c5af792745180e9ff568cd01550ffa13": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Exxon Mobil xStock",
+      "address": "0xeedb0273c5af792745180e9ff568cd01550ffa13",
+      "symbol": "XOMX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55644/thumb/Ticker_XOM__Company_Name_ExxonMobil__size_200x200_2x.png?1746863917",
+      "assetGroup": "XOMX (Exxon Mobil xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x02a6c1789c3b4fdb1a7a3dfa39f90e5d3c94f4f9": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Philip Morris xStock",
+      "address": "0x02a6c1789c3b4fdb1a7a3dfa39f90e5d3c94f4f9",
+      "symbol": "PMX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55637/thumb/Ticker_PM__Company_Name_philip_morris__size_200x200_2x.png?1746863284",
+      "assetGroup": "PMX (Philip Morris xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x1ac765b5bea23184802c7d2d497f7c33f1444a9e": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Pfizer xStock",
+      "address": "0x1ac765b5bea23184802c7d2d497f7c33f1444a9e",
+      "symbol": "PFEX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55635/thumb/Ticker_PFE__Company_Name_pfizer__size_200x200_2x.png?1746863254",
+      "assetGroup": "PFEX (Pfizer xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x167a6375da1efc4a5be0f470e73ecefd66245048": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "UnitedHealth xStock",
+      "address": "0x167a6375da1efc4a5be0f470e73ecefd66245048",
+      "symbol": "UNHX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55640/thumb/Ticker_UNH__Company_Name_United_Health__size_200x200_2x.png?1746863336",
+      "assetGroup": "UNHX (UnitedHealth xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x7aefc9965699fbea943e03264d96e50cd4a97b21": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Walmart xStock",
+      "address": "0x7aefc9965699fbea943e03264d96e50cd4a97b21",
+      "symbol": "WMTX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55643/thumb/Ticker_WMT__Company_Name_Walmart__size_200x200_2x.png?1746863900",
+      "assetGroup": "WMTX (Walmart xStock)",
+      "tags": ["coingecko"]
+    },
+    "0xdb0482cfad4789798623e64b15eeba01b16e917c": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Johnson   Johnson xStock",
+      "address": "0xdb0482cfad4789798623e64b15eeba01b16e917c",
+      "symbol": "JNJX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55620/thumb/Ticker_JNJ__Company_Name_johnson-johnson__size_200x200_2x.png?1746861691",
+      "assetGroup": "JNJX (Johnson   Johnson xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x5d642505fe1a28897eb3baba665f454755d8daa2": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "AstraZeneca xStock",
+      "address": "0x5d642505fe1a28897eb3baba665f454755d8daa2",
+      "symbol": "AZNX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55594/thumb/Ticker_AZN__Company_Name_astrazeneca__size_200x200_2x.png?1746809263",
+      "assetGroup": "AZNX (AstraZeneca xStock)",
+      "tags": ["coingecko"]
+    },
+    "0xe1385fdd5ffb10081cd52c56584f25efa9084015": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Robinhood xStock",
+      "address": "0xe1385fdd5ffb10081cd52c56584f25efa9084015",
+      "symbol": "HOODX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55613/thumb/Ticker_HOOD__Company_Name_Robinhood__size_200x200_2x.png?1746858880",
+      "assetGroup": "HOODX (Robinhood xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x03183ce31b1656b72a55fa6056e287f50c35bbeb": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Accenture xStock",
+      "address": "0x03183ce31b1656b72a55fa6056e287f50c35bbeb",
+      "symbol": "ACNX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55589/thumb/Ticker_ACN__Company_Name_accenture__size_200x200_2x.png?1746808986",
+      "assetGroup": "ACNX (Accenture xStock)",
+      "tags": ["coingecko"]
+    },
+    "0xdba228936f4079daf9aa906fd48a87f2300405f4": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Danaher xStock",
+      "address": "0xdba228936f4079daf9aa906fd48a87f2300405f4",
+      "symbol": "DHRX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55648/thumb/Ticker_DHR__Company_Name_SP500__size_200x200_2x.png?1746864250",
+      "assetGroup": "DHRX (Danaher xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x214151022c2a5e380ab80cdac31f23ae554a7345": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "CrowdStrike xStock",
+      "address": "0x214151022c2a5e380ab80cdac31f23ae554a7345",
+      "symbol": "CRWDX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55603/thumb/Ticker_CRWD__Company_Name_Crowdstrike__size_200x200_2x.png?1746858221",
+      "assetGroup": "CRWDX (CrowdStrike xStock)",
+      "tags": ["coingecko"]
+    },
+    "0xfbf2398df672cee4afcc2a4a733222331c742a6a": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "AbbVie xStock",
+      "address": "0xfbf2398df672cee4afcc2a4a733222331c742a6a",
+      "symbol": "ABBVX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55646/thumb/Ticker_ABBV__Company_Name_SP500__size_200x200_2x.png?1746864179",
+      "assetGroup": "ABBVX (AbbVie xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x89233399708c18ac6887f90a2b4cd8ba5fedd06e": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Abbott xStock",
+      "address": "0x89233399708c18ac6887f90a2b4cd8ba5fedd06e",
+      "symbol": "ABTX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55587/thumb/Ticker_ABT__Company_Name_Abbot__size_200x200_2x.png?1746807223",
+      "assetGroup": "ABTX (Abbott xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x314938c596f5ce31c3f75307d2979338c346d7f2": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Bank of America xStock",
+      "address": "0x314938c596f5ce31c3f75307d2979338c346d7f2",
+      "symbol": "BACX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55595/thumb/Ticker_BAC__Company_Name_Bank_of_America_Corporation__size_200x200_2x.png?1746809283",
+      "assetGroup": "BACX (Bank of America xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x8a23fa9ca68226a1ea9fb2df42b9e87a1728381e": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "aZen",
+      "address": "0x8a23fa9ca68226a1ea9fb2df42b9e87a1728381e",
+      "symbol": "AZEN",
+      "logoURI": "https://assets.coingecko.com/coins/images/55584/thumb/conventional.png?1746806863",
+      "assetGroup": "AZEN (aZen)",
+      "tags": ["coingecko"]
+    },
+    "0xdcc1a2699441079da889b1f49e12b69cc791129b": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Coca Cola xStock",
+      "address": "0xdcc1a2699441079da889b1f49e12b69cc791129b",
+      "symbol": "KOX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55622/thumb/Ticker_KO__Company_Name_CokeCola__size_200x200_2x.png?1746861996",
+      "assetGroup": "KOX (Coca Cola xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x2363fd1235c1b6d3a5088ddf8df3a0b3a30c5293": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Visa xStock",
+      "address": "0x2363fd1235c1b6d3a5088ddf8df3a0b3a30c5293",
+      "symbol": "VX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55642/thumb/Ticker_V__Company_Name_Visa__size_200x200_2x.png?1746863879",
+      "assetGroup": "VX (Visa xStock)",
+      "tags": ["coingecko"]
+    },
+    "0xe92f673ca36c5e2efd2de7628f815f84807e803f": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Alphabet xStock",
+      "address": "0xe92f673ca36c5e2efd2de7628f815f84807e803f",
+      "symbol": "GOOGLX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55610/thumb/Ticker_GOOG__Company_Name_Alphabet_Inc.__size_200x200_2x.png?1746858803",
+      "assetGroup": "GOOGLX (Alphabet xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x548308e91ec9f285c7bff05295badbd56a6e4971": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Oracle xStock",
+      "address": "0x548308e91ec9f285c7bff05295badbd56a6e4971",
+      "symbol": "ORCLX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55653/thumb/Ticker_ORCL__Company_Name_SP500__size_200x200_2x.png?1746864334",
+      "assetGroup": "ORCLX (Oracle xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x12992613fdd35abe95dec5a4964331b1ee23b50d": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Berkshire Hathaway xStock",
+      "address": "0x12992613fdd35abe95dec5a4964331b1ee23b50d",
+      "symbol": "BRKBX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55599/thumb/Ticker_BRK.B__Company_Name_berkshire-hathaway__size_200x200_2x.png?1746857982",
+      "assetGroup": "BRKBX (Berkshire Hathaway xStock)",
+      "tags": ["coingecko"]
+    },
+    "0xad5cdc3340904285b8159089974a99a1a09eb4c0": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Chevron xStock",
+      "address": "0xad5cdc3340904285b8159089974a99a1a09eb4c0",
+      "symbol": "CVXX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55606/thumb/Ticker_CVX__Company_Name_chevron__size_200x200_2x.png?1746858451",
+      "assetGroup": "CVXX (Chevron xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x3ee7e9b3a992fd23cd1c363b0e296856b04ab149": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Goldman Sachs xStock",
+      "address": "0x3ee7e9b3a992fd23cd1c363b0e296856b04ab149",
+      "symbol": "GSX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55611/thumb/Ticker_GS__Company_Name_Goldman_Sachs__size_200x200_2x.png?1746858834",
+      "assetGroup": "GSX (Goldman Sachs xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x053c784cd87b74f42e0c089f98643e79c1a3ff16": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Cisco xStock",
+      "address": "0x053c784cd87b74f42e0c089f98643e79c1a3ff16",
+      "symbol": "CSCOX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55604/thumb/Ticker_CSCO__Company_Name_Cisco_Systems_Inc.__size_200x200_2x.png?1746858247",
+      "assetGroup": "CSCOX (Cisco xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x0588e851ec0418d660bee81230d6c678daf21d46": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Medtronic xStock",
+      "address": "0x0588e851ec0418d660bee81230d6c678daf21d46",
+      "symbol": "MDTX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55627/thumb/Ticker_MDT__Company_Name_Medtronic__size_200x200_2x.png?1746862451",
+      "assetGroup": "MDTX (Medtronic xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x6d482cec5f9dd1f05ccee9fd3ff79b246170f8e2": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Palantir xStock",
+      "address": "0x6d482cec5f9dd1f05ccee9fd3ff79b246170f8e2",
+      "symbol": "PLTRX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55654/thumb/Ticker_PLTR__Company_Name_SP500__size_200x200_2x.png?1746864347",
+      "assetGroup": "PLTRX (Palantir xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x364f210f430ec2448fc68a49203040f6124096f0": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Coinbase xStock",
+      "address": "0x364f210f430ec2448fc68a49203040f6124096f0",
+      "symbol": "COINX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55602/thumb/Ticker_COIN__Company_Name_Coinbase__size_200x200_2x.png?1746858187",
+      "assetGroup": "COINX (Coinbase xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x62a48560861b0b451654bfffdb5be6e47aa8ff1b": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Honeywell xStock",
+      "address": "0x62a48560861b0b451654bfffdb5be6e47aa8ff1b",
+      "symbol": "HONX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55649/thumb/Ticker_HON__Company_Name_SP500__size_200x200_2x.png?1746864269",
+      "assetGroup": "HONX (Honeywell xStock)",
+      "tags": ["coingecko"]
+    },
+    "0xeaad46f4146ded5a47b55aa7f6c48c191deaec88": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Marvell xStock",
+      "address": "0xeaad46f4146ded5a47b55aa7f6c48c191deaec88",
+      "symbol": "MRVLX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55650/thumb/Ticker_MRVL__Company_Name_SP500__size_200x200_2x.png?1746864281",
+      "assetGroup": "MRVLX (Marvell xStock)",
+      "tags": ["coingecko"]
+    },
+    "0xbc7170a1280be28513b4e940c681537eb25e39f4": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Comcast xStock",
+      "address": "0xbc7170a1280be28513b4e940c681537eb25e39f4",
+      "symbol": "CMCSAX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55601/thumb/Ticker_CMCSA__Company_Name_Comcast__size_200x200_2x.png?1746858138",
+      "assetGroup": "CMCSAX (Comcast xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x3557ba345b01efa20a1bddc61f573bfd87195081": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Amazon xStock",
+      "address": "0x3557ba345b01efa20a1bddc61f573bfd87195081",
+      "symbol": "AMZNX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55590/thumb/Ticker_AMZN__Company_Name_Amazon.com_Inc.__size_200x200_2x.png?1746809003",
+      "assetGroup": "AMZNX (Amazon xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x15059c599c16fd8f70b633ade165502d6402cd49": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Linde xStock",
+      "address": "0x15059c599c16fd8f70b633ade165502d6402cd49",
+      "symbol": "LINX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55651/thumb/Ticker_LIN__Company_Name_SP500__size_200x200_2x.png?1746864301",
+      "assetGroup": "LINX (Linde xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x50a1291f69d9d3853def8209cfb1af0b46927be1": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "AppLovin xStock",
+      "address": "0x50a1291f69d9d3853def8209cfb1af0b46927be1",
+      "symbol": "APPX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55591/thumb/Ticker_APP__Company_Name_app_lovin__size_200x200_2x.png?1746809021",
+      "assetGroup": "APPX (AppLovin xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x80a77a372c1e12accda84299492f404902e2da67": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "McDonald s xStock",
+      "address": "0x80a77a372c1e12accda84299492f404902e2da67",
+      "symbol": "MCDX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55625/thumb/Ticker_MCD__Company_Name_McDonalds__size_200x200_2x.png?1746862066",
+      "assetGroup": "MCDX (McDonald s xStock)",
+      "tags": ["coingecko"]
+    },
+    "0xf9523e369c5f55ad72dbaa75b0a9b92b3d8b147e": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Novo Nordisk xStock",
+      "address": "0xf9523e369c5f55ad72dbaa75b0a9b92b3d8b147e",
+      "symbol": "NVOX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55652/thumb/Ticker_NOVO_B__Company_Name_SP500__size_200x200_2x.png?1746864314",
+      "assetGroup": "NVOX (Novo Nordisk xStock)",
+      "tags": ["coingecko"]
+    },
+    "0xae2f842ef90c0d5213259ab82639d5bbf649b08e": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "MicroStrategy xStock",
+      "address": "0xae2f842ef90c0d5213259ab82639d5bbf649b08e",
+      "symbol": "MSTRX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55631/thumb/Ticker_MSTR__Company_Name_MicroStrategy__size_200x200_2x.png?1746862528",
+      "assetGroup": "MSTRX (MicroStrategy xStock)",
+      "tags": ["coingecko"]
+    },
+    "0xa90424d5d3e770e8644103ab503ed775dd1318fd": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Procter&Gamble xStock",
+      "address": "0xa90424d5d3e770e8644103ab503ed775dd1318fd",
+      "symbol": "PGX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55636/thumb/Ticker_PG__Company_Name_Proctor___Gamble__size_200x200_2x.png?1746863267",
+      "assetGroup": "PGX (Procter&Gamble xStock)",
+      "tags": ["coingecko"]
+    },
+    "0xd9913208647671fe0f48f7f260076b2c6f310aac": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "International Business Machines xStock",
+      "address": "0xd9913208647671fe0f48f7f260076b2c6f310aac",
+      "symbol": "IBMX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55614/thumb/Ticker_IBM__Company_Name_IBM__size_200x200_2x.png?1746858898",
+      "assetGroup": "IBMX (International Business Machines xStock)",
+      "tags": ["coingecko"]
+    },
+    "0xb365cd2588065f522d379ad19e903304f6b622c6": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Mastercard xStock",
+      "address": "0xb365cd2588065f522d379ad19e903304f6b622c6",
+      "symbol": "MAX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55624/thumb/Ticker_MA__Company_Name_Mastercard__size_200x200_2x.png?1746862053",
+      "assetGroup": "MAX (Mastercard xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x19c41ea77b34bbdee61c3a87a75d1abda2ed0be4": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Eli Lilly xStock",
+      "address": "0x19c41ea77b34bbdee61c3a87a75d1abda2ed0be4",
+      "symbol": "LLYX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55623/thumb/Ticker_LLY__Company_Name_Lilly__size_200x200_2x.png?1746862036",
+      "assetGroup": "LLYX (Eli Lilly xStock)",
+      "tags": ["coingecko"]
+    },
+    "0xf8a80d1cb9cfd70d03d655d9df42339846f3b3c8": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Intel xStock",
+      "address": "0xf8a80d1cb9cfd70d03d655d9df42339846f3b3c8",
+      "symbol": "INTCX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55615/thumb/Ticker_INTC__Company_Name_Intel_Corp__size_200x200_2x.png?1746858925",
+      "assetGroup": "INTCX (Intel xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x8ad3c73f833d3f9a523ab01476625f269aeb7cf0": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Tesla xStock",
+      "address": "0x8ad3c73f833d3f9a523ab01476625f269aeb7cf0",
+      "symbol": "TSLAX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55638/thumb/Ticker_TSLA__Company_Name_Tesla_Inc.__size_200x200_2x.png?1746863299",
+      "assetGroup": "TSLAX (Tesla xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x9d275685dc284c8eb1c79f6aba7a63dc75ec890a": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Apple xStock",
+      "address": "0x9d275685dc284c8eb1c79f6aba7a63dc75ec890a",
+      "symbol": "AAPLX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55586/thumb/Ticker_AAPL__Company_Name_Apple_Inc.__size_200x200_2x.png?1746807196",
+      "assetGroup": "AAPLX (Apple xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x17d8186ed8f68059124190d147174d0f6697dc40": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Merck xStock",
+      "address": "0x17d8186ed8f68059124190d147174d0f6697dc40",
+      "symbol": "MRKX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55629/thumb/Ticker_MRK__Company_Name_Merck__size_200x200_2x.png?1746862482",
+      "assetGroup": "MRKX (Merck xStock)",
+      "tags": ["coingecko"]
+    },
+    "0xa6a65ac27e76cd53cb790473e4345c46e5ebf961": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Netflix xStock",
+      "address": "0xa6a65ac27e76cd53cb790473e4345c46e5ebf961",
+      "symbol": "NFLXX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55632/thumb/Ticker_NFLX__Company_Name_Netflix_Inc.__size_200x200_2x.png?1746862692",
+      "assetGroup": "NFLXX (Netflix xStock)",
+      "tags": ["coingecko"]
+    },
+    "0x36c424a6ec0e264b1616102ad63ed2ad7857413e": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "PepsiCo xStock",
+      "address": "0x36c424a6ec0e264b1616102ad63ed2ad7857413e",
+      "symbol": "PEPX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55634/thumb/Ticker_PEP__Company_Name_Pepsico__size_200x200_2x.png?1746862740",
+      "assetGroup": "PEPX (PepsiCo xStock)",
+      "tags": ["coingecko"]
+    },
+    "0xe72fe64840f4ef80e3ec73a1c749491b5c938cb9": {
+      "chainId": "42161",
+      "decimals": 6,
+      "name": "Nest Treasury Vault",
+      "address": "0xe72fe64840f4ef80e3ec73a1c749491b5c938cb9",
+      "symbol": "NTBILL",
+      "logoURI": "https://assets.coingecko.com/coins/images/55513/thumb/nTBILL-token.png?1746437745",
+      "assetGroup": "NTBILL (Nest Treasury Vault)",
+      "tags": ["coingecko"]
+    },
+    "0x2e412435928efe43b156caa8f4b1068729fee275": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "King Protocol",
+      "address": "0x2e412435928efe43b156caa8f4b1068729fee275",
+      "symbol": "KING",
+      "logoURI": "https://assets.coingecko.com/coins/images/51041/thumb/crown-circle.png?1738143389",
+      "assetGroup": "KING (King Protocol)",
+      "tags": ["coingecko"]
+    },
+    "0x774b9dd3977a7556bf16cc22b74b2991e4511e13": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "SecureChain AI",
+      "address": "0x774b9dd3977a7556bf16cc22b74b2991e4511e13",
+      "symbol": "SCAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/55524/thumb/SecureChainAI.jpg?1746500907",
+      "assetGroup": "SCAI (SecureChain AI)",
+      "tags": ["coingecko"]
+    },
+    "0x09f569af991c730cae05a392bae6490558ef2214": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Silo Finance",
+      "address": "0x09f569af991c730cae05a392bae6490558ef2214",
+      "symbol": "SILO",
+      "logoURI": "https://assets.coingecko.com/coins/images/55596/thumb/silo.png?1746815000",
+      "assetGroup": "SILO (Silo Finance)",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -13045,7 +13634,8 @@
     "0x9cfb13e6c11054ac9fcb92ba89644f30775436e4",
     "0xafafd68afe3fe65d376eec9eab1802616cfaccb8",
     "0x346c574c56e1a4aaa8dc88cda8f7eb12b39947ab",
-    "0x3647c54c4c2c65bc7a2d63c0da2809b399dbbdc0"
+    "0x3647c54c4c2c65bc7a2d63c0da2809b399dbbdc0",
+    "0x9c1a1c7ba9c2602123fd7ef3eb41a769edf6c53a"
   ],
   "bridgeTokens": [
     "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
@@ -13073,6 +13663,7 @@
     "0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6",
     "0x6ab707aca953edaefbc4fd23ba73294241490620",
     "0xb1084db8d3c05cebd5fa9335df95ee4b8a0edc30",
-    "0x9cfb13e6c11054ac9fcb92ba89644f30775436e4"
+    "0x9cfb13e6c11054ac9fcb92ba89644f30775436e4",
+    "0x9c1a1c7ba9c2602123fd7ef3eb41a769edf6c53a"
   ]
 }

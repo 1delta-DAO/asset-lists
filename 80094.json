@@ -138,7 +138,8 @@
       "address": "0xec901da9c68e90798bbbb74c11406a32a70652c3",
       "symbol": "STONE",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xEc901DA9c68E90798BbBb74c11406A32A70652C3/logo.png",
-      "assetGroup": "STONE"
+      "assetGroup": "STONE",
+      "tags": ["coingecko"]
     },
     "0xff12470a969dd362eb6595ffb44c82c959fe9acc": {
       "chainId": "80094",
@@ -656,6 +657,26 @@
       "symbol": "LAIR",
       "logoURI": "https://assets.coingecko.com/coins/images/55181/thumb/Lair_token.png?1744616096",
       "assetGroup": "LAIR (Lair)",
+      "tags": ["coingecko"]
+    },
+    "0xd352dc6e5f0c45e2f2b38eb5565eb286a1ea4087": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "Bedrock",
+      "address": "0xd352dc6e5f0c45e2f2b38eb5565eb286a1ea4087",
+      "symbol": "BR",
+      "logoURI": "https://assets.coingecko.com/coins/images/54908/thumb/BR_200px.png?1742453499",
+      "assetGroup": "BR (Bedrock)",
+      "tags": ["coingecko"]
+    },
+    "0x6b26f778bfae56cfb4bf9b62c678d9d40e725227": {
+      "chainId": "80094",
+      "decimals": 8,
+      "name": "HarryPotterObamaSonic10Inu  ETH ",
+      "address": "0x6b26f778bfae56cfb4bf9b62c678d9d40e725227",
+      "symbol": "BITCOIN",
+      "logoURI": "https://assets.coingecko.com/coins/images/30323/thumb/hpos10i_logo_casino_night-dexview.png?1696529224",
+      "assetGroup": "BITCOIN (HarryPotterObamaSonic10Inu  ETH )",
       "tags": ["coingecko"]
     }
   },

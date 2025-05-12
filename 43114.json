@@ -1527,7 +1527,7 @@
       "symbol": "JIGEN",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x25f11e22D5079c2970496d592579bF4902d09d76/logo.png",
       "assetGroup": "JIGEN (Jigen)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x46b9144771cb3195d66e4eda643a7493fadcaf9d": {
       "chainId": "43114",
@@ -4639,7 +4639,7 @@
       "symbol": "INK",
       "logoURI": "https://assets.coingecko.com/coins/images/23511/thumb/v3INKLogo-03.png?1696522720",
       "assetGroup": "INK (Ink Fantom)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x8888888888f004100c0353d657be6300587a6ccd": {
       "chainId": "43114",
@@ -5546,6 +5546,46 @@
       "symbol": "BOI",
       "logoURI": "https://assets.coingecko.com/coins/images/55397/thumb/Boi_the_Bear.jpg?1745825057",
       "assetGroup": "BOI (Boi the Bear)",
+      "tags": ["coingecko"]
+    },
+    "0x1bfa7fd90de1285deb09a734112ab6bcd935fc6a": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "H4SHFund",
+      "address": "0x1bfa7fd90de1285deb09a734112ab6bcd935fc6a",
+      "symbol": "H4SH",
+      "logoURI": "https://assets.coingecko.com/coins/images/55490/thumb/H4SH_logo.png?1746347187",
+      "assetGroup": "H4SH (H4SHFund)",
+      "tags": ["coingecko"]
+    },
+    "0xa813d175675c7f19bb7fd541f5ad1bcaf2117fe7": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "PEON",
+      "address": "0xa813d175675c7f19bb7fd541f5ad1bcaf2117fe7",
+      "symbol": "PEON",
+      "logoURI": "https://assets.coingecko.com/coins/images/55486/thumb/Peon_pfp_%281%29.png?1746262199",
+      "assetGroup": "PEON (PEON)",
+      "tags": ["coingecko"]
+    },
+    "0xcac4904e1db1589aa17a2ec742f5a6bcf4c4d037": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Erol Musk",
+      "address": "0xcac4904e1db1589aa17a2ec742f5a6bcf4c4d037",
+      "symbol": "EROL",
+      "logoURI": "https://assets.coingecko.com/coins/images/55617/thumb/LOGO_1_V2.png_1_ku%CC%88c%CC%A7u%CC%88k_200x200.png?1746859253",
+      "assetGroup": "EROL (Erol Musk)",
+      "tags": ["coingecko"]
+    },
+    "0xc09a033927f9fd558c92cf7aeabe34b71ce4b31e": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "PLYR L1",
+      "address": "0xc09a033927f9fd558c92cf7aeabe34b71ce4b31e",
+      "symbol": "PLYR",
+      "logoURI": "https://assets.coingecko.com/coins/images/50507/thumb/logo_exchange.png?1728008614",
+      "assetGroup": "PLYR (PLYR L1)",
       "tags": ["coingecko"]
     }
   },

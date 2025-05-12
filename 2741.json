@@ -191,6 +191,36 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55335/thumb/IMG_4751.JPG?1745483007",
       "assetGroup": "PICO (Pico)",
       "tags": ["coingecko"]
+    },
+    "0x3520fc294a76c119c8924072c37992e39a626f85": {
+      "chainId": "2741",
+      "decimals": 18,
+      "name": "GORF",
+      "address": "0x3520fc294a76c119c8924072c37992e39a626f85",
+      "symbol": "GORF",
+      "logoURI": "https://assets.coingecko.com/coins/images/55495/thumb/green.png?1746351672",
+      "assetGroup": "GORF (GORF)",
+      "tags": ["coingecko"]
+    },
+    "0xa9053dc939d74222f7aa0b3a2be407abbfd56c6a": {
+      "chainId": "2741",
+      "decimals": 18,
+      "name": "Yield Guild Games",
+      "address": "0xa9053dc939d74222f7aa0b3a2be407abbfd56c6a",
+      "symbol": "YGG",
+      "logoURI": "https://assets.coingecko.com/coins/images/17358/thumb/Shield_Mark_-_Colored_-_Iridescent.png?1696516909",
+      "assetGroup": "YGG (Yield Guild Games)",
+      "tags": ["coingecko"]
+    },
+    "0xab38dbeac4554ede9e8c1bbdaa0b40a487b1cef1": {
+      "chainId": "2741",
+      "decimals": 18,
+      "name": "Based Lambow",
+      "address": "0xab38dbeac4554ede9e8c1bbdaa0b40a487b1cef1",
+      "symbol": "LAMBOW",
+      "logoURI": "https://assets.coingecko.com/coins/images/38690/thumb/lambow-green.jpeg?1747042568",
+      "assetGroup": "LAMBOW (Based Lambow)",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -210,7 +240,8 @@
     "0x231d510746ed6977dd8d692168fc98cdc52d1e34",
     "0x93ed1bab3f7efa93d2e2179b1ff6caccfa30a2e3",
     "0xdf70075737e9f96b078ab4461eee3e055e061223",
-    "0xe516db039440f3d7aeaf92ed52ab8c5a190083b0"
+    "0xe516db039440f3d7aeaf92ed52ab8c5a190083b0",
+    "0x3520fc294a76c119c8924072c37992e39a626f85"
   ],
   "bridgeTokens": ["0x84a71ccd554cc1b02749b35d22f684cc8ec987e1", "0x3439153eb7af838ad19d56e1571fbd09333c2809"]
 }

@@ -972,7 +972,7 @@
       "symbol": "EGOLD",
       "logoURI": "https://assets.coingecko.com/coins/images/50815/thumb/eGOLD.png?1729238938",
       "assetGroup": "EGOLD (Aryze s Digital Gold)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0xb7f8f05825f3e37dfa68e1f3df8b6d4b5829bc78": {
       "chainId": "59144",
@@ -1070,6 +1070,16 @@
       "logoURI": "https://assets.coingecko.com/coins/images/21401/thumb/SIDUS_coin_logo.png?1696520765",
       "assetGroup": "SIDUS (Sidus)",
       "tags": ["coingecko"]
+    },
+    "0xcc0966d8418d412c599a6421b760a847eb169a8c": {
+      "chainId": "59144",
+      "decimals": 18,
+      "name": "Solv Protocol Staked BTC",
+      "address": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
+      "symbol": "XSOLVBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/39384/thumb/xSolvBTC.png?1744170824",
+      "assetGroup": "XSOLVBTC (Solv Protocol Staked BTC)",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -1131,7 +1141,8 @@
     "0x406cde76a3fd20e48bc1e0f60651e60ae204b040",
     "0x374d7860c4f2f604de0191298dd393703cce84f3",
     "0x88231dfec71d4ff5c1e466d08c321944a7adc673",
-    "0xe4d584ae9b753e549cae66200a6475d2f00705f7"
+    "0xe4d584ae9b753e549cae66200a6475d2f00705f7",
+    "0xcc0966d8418d412c599a6421b760a847eb169a8c"
   ],
   "bridgeTokens": [
     "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",

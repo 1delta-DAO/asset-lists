@@ -405,11 +405,11 @@
     "0x284d81e48fbc782aa9186a03a226690aea5cbe0e": {
       "chainId": "146",
       "decimals": 18,
-      "name": "Atoll ETH  Sonic ",
+      "name": "Atoll ETH",
       "address": "0x284d81e48fbc782aa9186a03a226690aea5cbe0e",
       "symbol": "ATETH",
       "logoURI": "https://assets.coingecko.com/coins/images/53797/thumb/IMG_7045.jpeg?1737477230",
-      "assetGroup": "ATETH (Atoll ETH  Sonic )",
+      "assetGroup": "ATETH (Atoll ETH)",
       "tags": ["coingecko"]
     },
     "0xe5da20f15420ad15de0fa650600afc998bbe3955": {
@@ -849,6 +849,56 @@
       "symbol": "MCLB",
       "logoURI": "https://assets.coingecko.com/coins/images/55426/thumb/MCLB.jpg?1745946696",
       "assetGroup": "MCLB (Millennium Club)",
+      "tags": ["coingecko"]
+    },
+    "0x578ee1ca3a8e1b54554da1bf7c583506c4cd11c6": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "Aave USDC",
+      "address": "0x578ee1ca3a8e1b54554da1bf7c583506c4cd11c6",
+      "symbol": "ASONUSDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/55659/thumb/aSonUSDC_200x200.png?1746866473",
+      "assetGroup": "ASONUSDC (Aave USDC)",
+      "tags": ["coingecko"]
+    },
+    "0x614914b028a7d1fd4fab1e5a53a3e2df000bcb0e": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "dTRINITY S",
+      "address": "0x614914b028a7d1fd4fab1e5a53a3e2df000bcb0e",
+      "symbol": "DS",
+      "logoURI": "https://assets.coingecko.com/coins/images/55573/thumb/dS.png?1746774377",
+      "assetGroup": "DS (dTRINITY S)",
+      "tags": ["coingecko"]
+    },
+    "0xe8c962493104b71f1bf22bc415e02ed3ef685c26": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Wrapped SAFU",
+      "address": "0xe8c962493104b71f1bf22bc415e02ed3ef685c26",
+      "symbol": "WSAFU",
+      "logoURI": "https://assets.coingecko.com/coins/images/55496/thumb/Frame_1116602414.png?1746352304",
+      "assetGroup": "WSAFU (Wrapped SAFU)",
+      "tags": ["coingecko"]
+    },
+    "0x53a6abb52b2f968fa80df6a894e4f1b1020da975": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "dTRINITY USD",
+      "address": "0x53a6abb52b2f968fa80df6a894e4f1b1020da975",
+      "symbol": "DUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/53290/thumb/dUSD_Logo.png?1735997462",
+      "assetGroup": "DUSD (dTRINITY USD)",
+      "tags": ["coingecko"]
+    },
+    "0xb098afc30fce67f1926e735db6fdadfe433e61db": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Silo Finance",
+      "address": "0xb098afc30fce67f1926e735db6fdadfe433e61db",
+      "symbol": "SILO",
+      "logoURI": "https://assets.coingecko.com/coins/images/55596/thumb/silo.png?1746815000",
+      "assetGroup": "SILO (Silo Finance)",
       "tags": ["coingecko"]
     }
   },
