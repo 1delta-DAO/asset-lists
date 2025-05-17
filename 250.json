@@ -1325,11 +1325,11 @@
     "0xaa798bf5ec09b6e3bc059ea4d36d4ca53e063ef7": {
       "chainId": "250",
       "decimals": 18,
-      "name": "Bridged Curve Fi USD Stablecoin  Starga",
+      "name": "Bridged Curve Fi USD Stablecoin (Stargate)",
       "address": "0xaa798bf5ec09b6e3bc059ea4d36d4ca53e063ef7",
-      "symbol": "CRVUSD",
+      "symbol": "crvUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/31181/thumb/CurveFi_32.png?1696530009",
-      "assetGroup": "CRVUSD (Bridged Curve Fi USD Stablecoin  Starga)",
+      "assetGroup": "CRVUSD (Bridged Curve Fi USD Stablecoin)",
       "tags": ["bridged", "coingecko", "debridge"]
     },
     "0x9bd0611610a0f5133e4dd1bfdd71c5479ee77f37": {
@@ -2118,7 +2118,7 @@
       "name": "Axelar Wrapped Ether",
       "address": "0xfe7eda5f2c56160d406869a8aa4b2f365d544c7b",
       "symbol": "axlETH",
-      "logoURI": "https://assets.coingecko.com/coins/images/28171/thumb/weth-wei_D_3x.png?1696527174",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/axlETH.webp",
       "assetGroup": "ETH",
       "tags": ["axelar", "bridged", "coingecko", "debridge"]
     },
