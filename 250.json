@@ -1329,8 +1329,8 @@
       "address": "0xaa798bf5ec09b6e3bc059ea4d36d4ca53e063ef7",
       "symbol": "crvUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/31181/thumb/CurveFi_32.png?1696530009",
-      "assetGroup": "CRVUSD (Bridged Curve Fi USD Stablecoin)",
-      "tags": ["bridged", "coingecko", "debridge"]
+      "assetGroup": "crvUSD (Bridged Curve Fi USD Stablecoin (Stargate))",
+      "tags": ["stargate", "bridged", "coingecko", "debridge"]
     },
     "0x9bd0611610a0f5133e4dd1bfdd71c5479ee77f37": {
       "chainId": "250",
@@ -1640,7 +1640,7 @@
       "symbol": "PAPER",
       "logoURI": "https://assets.coingecko.com/coins/images/23510/thumb/v3PAPERLogo-01.png?1696522719",
       "assetGroup": "PAPER",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x90e892fed501ae00596448aecf998c88816e5c0f": {
       "chainId": "250",
@@ -2600,7 +2600,7 @@
       "symbol": "XY",
       "logoURI": "https://assets.coingecko.com/coins/images/21541/thumb/xy.png?1696520900",
       "assetGroup": "XY",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x89d5e71e275b4be094df9551627bcf4e3b24ce22": {
       "chainId": "250",

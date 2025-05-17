@@ -21859,7 +21859,8 @@
       "address": "0x46d502fac9aea7c5bc7b13c8ec9d02378c33d36f",
       "symbol": "WSPP",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x46D502Fac9aEA7c5bC7B13C8Ec9D02378C33D36F/logo.png",
-      "assetGroup": "WSPP (WolfSafePoorPeople)"
+      "assetGroup": "WSPP (WolfSafePoorPeople)",
+      "tags": ["debridge"]
     },
     "0xe0ce60af0850bf54072635e66e79df17082a1109": {
       "chainId": "137",
@@ -29499,6 +29500,15 @@
       "symbol": "USDW",
       "assetGroup": "USDW (USD DWIN)",
       "tags": ["debridge"]
+    },
+    "0x9d60947d49911e3c262c108f97fe07cde209f9a7": {
+      "chainId": "137",
+      "decimals": 6,
+      "name": "sACRED",
+      "address": "0x9d60947d49911e3c262c108f97fe07cde209f9a7",
+      "symbol": "sACRED",
+      "logoURI": "https://cdn.morpho.org/assets/logos/sacred.svg",
+      "assetGroup": "sACRED (sACRED)"
     }
   },
   "mainTokens": [

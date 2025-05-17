@@ -6196,7 +6196,7 @@
       "symbol": "AIGPU",
       "logoURI": "https://assets.coingecko.com/coins/images/38080/thumb/AiGPUlogo_200x200.png?1716474972",
       "assetGroup": "AIGPU (AIGPU Token)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0xac27fa800955849d6d17cc8952ba9dd6eaa66187": {
       "chainId": "8453",
@@ -7456,7 +7456,7 @@
       "symbol": "MOON",
       "logoURI": "https://assets.coingecko.com/coins/images/37316/thumb/logo-moon-high_%284%29.png?1713972944",
       "assetGroup": "MOON (Moon on Base)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x63f844a81571588536614b3fa9260bec3e897126": {
       "chainId": "8453",
@@ -12982,7 +12982,7 @@
       "symbol": "RGUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/38146/thumb/rgusd%28200_x_200_px%29.png?1716654569",
       "assetGroup": "RGUSD (Revenue Generating USD)",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["debridge"]
     },
     "0x72e72193ea14ac3b469f881989d18a2ba021b4c6": {
       "chainId": "8453",
@@ -17419,6 +17419,145 @@
       "symbol": "RWAI",
       "logoURI": "https://assets.coingecko.com/coins/images/54108/thumb/Picture1.png?1738307034",
       "assetGroup": "RWAI (RWAI by Virtuals)",
+      "tags": ["coingecko"]
+    },
+    "0x0d98f4d0807a4d80f178d4545558eb9360d31fdb": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "NOCT",
+      "address": "0x0d98f4d0807a4d80f178d4545558eb9360d31fdb",
+      "symbol": "NOCT",
+      "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/NOCT.webp",
+      "assetGroup": "NOCT (NOCT)"
+    },
+    "0xf42c45e5b79c9564c95a9b8641518a58b0d089de": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "FRENCHIE",
+      "address": "0xf42c45e5b79c9564c95a9b8641518a58b0d089de",
+      "symbol": "FREN",
+      "logoURI": "https://assets.coingecko.com/coins/images/55740/thumb/Frenchie_LOGO_tracing.png?1747286881",
+      "assetGroup": "FREN (FRENCHIE)",
+      "tags": ["coingecko"]
+    },
+    "0x047157cffb8841a64db93fd4e29fa3796b78466c": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Scout Protocol Token",
+      "address": "0x047157cffb8841a64db93fd4e29fa3796b78466c",
+      "symbol": "DEV",
+      "logoURI": "https://assets.coingecko.com/coins/images/55726/thumb/dev_token_icon_256.png?1747239363",
+      "assetGroup": "DEV (Scout Protocol Token)",
+      "tags": ["coingecko"]
+    },
+    "0xb9f986d125dcb622ddfae1dc2df857ce84dc7deb": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Happy Acid",
+      "address": "0xb9f986d125dcb622ddfae1dc2df857ce84dc7deb",
+      "symbol": "ACID",
+      "logoURI": "https://assets.coingecko.com/coins/images/55847/thumb/photo_2568-05-14_22.37.16.jpeg?1747408506",
+      "assetGroup": "ACID (Happy Acid)",
+      "tags": ["coingecko"]
+    },
+    "0xd3f68c6e8aee820569d58adf8d85d94489315192": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Redacted",
+      "address": "0xd3f68c6e8aee820569d58adf8d85d94489315192",
+      "symbol": "RDAC",
+      "logoURI": "https://assets.coingecko.com/coins/images/55498/thumb/cg.png?1746353177",
+      "assetGroup": "RDAC (Redacted)",
+      "tags": ["coingecko"]
+    },
+    "0x33479a07983561ab5e27ad435399fc88159eea8b": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Kolwaii by Virtuals",
+      "address": "0x33479a07983561ab5e27ad435399fc88159eea8b",
+      "symbol": "VIBES",
+      "logoURI": "https://assets.coingecko.com/coins/images/53986/thumb/vibes.png?1747114714",
+      "assetGroup": "VIBES (Kolwaii by Virtuals)",
+      "tags": ["coingecko"]
+    },
+    "0x129966d7d25775b57e3c5b13b2e1c2045fbc4926": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "NIYOKO by Virtuals",
+      "address": "0x129966d7d25775b57e3c5b13b2e1c2045fbc4926",
+      "symbol": "NYKO",
+      "logoURI": "https://assets.coingecko.com/coins/images/55828/thumb/nykologo.png?1747384833",
+      "assetGroup": "NYKO (NIYOKO by Virtuals)",
+      "tags": ["coingecko"]
+    },
+    "0xdcaa5e062b2be18e52ea6ed7ba232538621ddc10": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Aurra by Virtuals",
+      "address": "0xdcaa5e062b2be18e52ea6ed7ba232538621ddc10",
+      "symbol": "AURA",
+      "logoURI": "https://assets.coingecko.com/coins/images/55744/thumb/black_icon.png?1747287977",
+      "assetGroup": "AURA (Aurra by Virtuals)",
+      "tags": ["coingecko"]
+    },
+    "0x7cea5b9548a4b48cf9551813ef9e73de916e41e0": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "MIA",
+      "address": "0x7cea5b9548a4b48cf9551813ef9e73de916e41e0",
+      "symbol": "MIA",
+      "logoURI": "https://assets.coingecko.com/coins/images/55833/thumb/IMG_20250516_091022_579.jpg?1747396842",
+      "assetGroup": "MIA (MIA)",
+      "tags": ["coingecko"]
+    },
+    "0x1cfc22860fe46a622e3c2d1c9b036412467ef4c9": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Hana by Virtuals",
+      "address": "0x1cfc22860fe46a622e3c2d1c9b036412467ef4c9",
+      "symbol": "HANA",
+      "logoURI": "https://assets.coingecko.com/coins/images/55844/thumb/Hana_token_symbol.png?1747406855",
+      "assetGroup": "HANA (Hana by Virtuals)",
+      "tags": ["coingecko"]
+    },
+    "0xd46e2edc7314ee5cb69f86ab7b0e84e349971efb": {
+      "chainId": "8453",
+      "decimals": 9,
+      "name": "Ape Man",
+      "address": "0xd46e2edc7314ee5cb69f86ab7b0e84e349971efb",
+      "symbol": "APEMAN",
+      "logoURI": "https://assets.coingecko.com/coins/images/53603/thumb/2025-01-14_09.43.33.jpg?1736852368",
+      "assetGroup": "APEMAN (Ape Man)",
+      "tags": ["coingecko"]
+    },
+    "0x1b5f7fa46ed0f487f049c42f374ca4827d65a264": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Decentralized Euro",
+      "address": "0x1b5f7fa46ed0f487f049c42f374ca4827d65a264",
+      "symbol": "DEURO",
+      "logoURI": "https://assets.coingecko.com/coins/images/55108/thumb/dEuro_CoinLogo_200px.png?1743753944",
+      "assetGroup": "DEURO (Decentralized Euro)",
+      "tags": ["coingecko"]
+    },
+    "0x05fc76666676f3afa90504e2ebc820612287a82f": {
+      "chainId": "8453",
+      "decimals": 6,
+      "name": "Mavryk Network",
+      "address": "0x05fc76666676f3afa90504e2ebc820612287a82f",
+      "symbol": "MVRK",
+      "logoURI": "https://assets.coingecko.com/coins/images/55736/thumb/Logo_%281%29.png?1747244634",
+      "assetGroup": "MVRK (Mavryk Network)",
+      "tags": ["coingecko"]
+    },
+    "0x61e030a56d33e8260fdd81f03b162a79fe3449cd": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Fluid",
+      "address": "0x61e030a56d33e8260fdd81f03b162a79fe3449cd",
+      "symbol": "FLUID",
+      "logoURI": "https://assets.coingecko.com/coins/images/14688/thumb/Logo_1_%28brighter%29.png?1734430693",
+      "assetGroup": "FLUID (Fluid)",
       "tags": ["coingecko"]
     }
   },

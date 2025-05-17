@@ -1121,8 +1121,7 @@
       "address": "0x1affbc17938a25d245e1b7ec6f2fc949df8e9760",
       "symbol": "PAPER",
       "logoURI": "https://assets.coingecko.com/coins/images/23510/thumb/v3PAPERLogo-01.png?1696522719",
-      "assetGroup": "PAPER",
-      "tags": ["coingecko"]
+      "assetGroup": "PAPER"
     },
     "0x32975907733f93305be28e2bfd123666b7a9c863": {
       "chainId": "25",
@@ -1260,6 +1259,16 @@
       "symbol": "PRIDE",
       "logoURI": "https://assets.coingecko.com/coins/images/55453/thumb/pride_logo_200x.png?1746086993",
       "assetGroup": "PRIDE (The Pride)",
+      "tags": ["coingecko"]
+    },
+    "0x025f1575908d85815198390b2e5366fe754f8207": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "InoAi",
+      "address": "0x025f1575908d85815198390b2e5366fe754f8207",
+      "symbol": "INO",
+      "logoURI": "https://assets.coingecko.com/coins/images/55757/thumb/InoAi-logo-200px.png?1747301005",
+      "assetGroup": "INO (InoAi)",
       "tags": ["coingecko"]
     }
   },
