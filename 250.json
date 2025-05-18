@@ -922,7 +922,7 @@
       "address": "0x2130d2a1e51112d349ccf78d2a1ee65843ba36e0",
       "symbol": "UNIDX",
       "logoURI": "https://s3.openocean.finance/token_logos/logos/1670483392181_19004822750623385.png",
-      "assetGroup": "UniDex::UNIDX",
+      "assetGroup": "UNIDX",
       "currencyId": "UniDex::UNIDX",
       "tags": ["openocean"]
     },
@@ -1670,7 +1670,7 @@
       "address": "0x39551b1c26ce03714e4661833b0fa730174bd7e9",
       "symbol": "PLUS",
       "logoURI": "https://assets.coingecko.com/coins/images/37511/thumb/cmc-cg.png?1714620294",
-      "assetGroup": "Plus Bet::PLUS",
+      "assetGroup": "PLUS",
       "currencyId": "Plus Bet::PLUS",
       "tags": ["debridge"]
     },
@@ -1846,7 +1846,7 @@
       "address": "0x479673391b3818f5e3ed2fa69a58e13d685becf6",
       "symbol": "THC",
       "logoURI": "https://assets.coingecko.com/coins/images/35911/thumb/photo_2024-01-16_17-31-36-removebg-preview.png?1710180825",
-      "assetGroup": "TinHatCat::THC",
+      "assetGroup": "THC",
       "currencyId": "TinHatCat::THC",
       "tags": ["debridge"]
     },
@@ -1868,7 +1868,7 @@
       "address": "0xd702993613686ab0f706ef07883870a97d36fdcf",
       "symbol": "SNS",
       "logoURI": "https://assets.coingecko.com/coins/images/51377/thumb/ua-dexifCHbOtcGHHcvE.jpg?1730964998",
-      "assetGroup": "Sonic Name Service::SNS",
+      "assetGroup": "SNS",
       "currencyId": "Sonic Name Service::SNS",
       "tags": ["debridge"]
     },
@@ -1945,7 +1945,7 @@
       "address": "0x90152f061f6697ab623e258aa6e8fbb177041371",
       "symbol": "ZOO",
       "logoURI": "https://assets.coingecko.com/coins/images/31230/thumb/ZOO.png?1696530056",
-      "assetGroup": "ZooCoin::ZOO",
+      "assetGroup": "ZOO",
       "currencyId": "ZooCoin::ZOO",
       "tags": ["coingecko", "debridge"]
     },
@@ -1956,7 +1956,7 @@
       "address": "0x0483a76d80d0afec6bd2afd12c1ad865b9df1471",
       "symbol": "UNIDX",
       "logoURI": "https://assets.coingecko.com/coins/images/13178/thumb/unidx.png?1696512961",
-      "assetGroup": "UniDex::UNIDX::250",
+      "assetGroup": "UniDex::UNIDX",
       "currencyId": "UniDex::UNIDX",
       "tags": ["coingecko", "debridge"]
     },
@@ -1989,7 +1989,7 @@
       "address": "0xb1f795776cb9ddac6e7e162f31c7419dd3d48297",
       "symbol": "WAGMI",
       "logoURI": "https://assets.coingecko.com/coins/images/31887/thumb/wagmi_token_logo.png?1696530698",
-      "assetGroup": "Wagmi::WAGMI",
+      "assetGroup": "WAGMI",
       "currencyId": "Wagmi::WAGMI",
       "tags": ["coingecko", "debridge"]
     },
@@ -2044,8 +2044,8 @@
       "address": "0x9e73f99ee061c8807f69f9c6ccc44ea3d8c373ee",
       "symbol": "frxETH",
       "logoURI": "https://assets.coingecko.com/coins/images/28284/thumb/frxETH_icon.png?1696527284",
-      "assetGroup": "Frax Ether::FRXETH",
-      "currencyId": "Frax Ether::FRXETH",
+      "assetGroup": "FRXETH",
+      "currencyId": "Frax Ether::frxETH",
       "tags": ["coingecko", "debridge"]
     },
     "0x8063115941e612021692f28748ab1ff56c23e4c6": {
@@ -2088,8 +2088,8 @@
       "address": "0xb90ccd563918ff900928dc529aa01046795ccb4a",
       "symbol": "sfrxETH",
       "logoURI": "https://assets.coingecko.com/coins/images/28285/thumb/sfrxETH_icon.png?1696527285",
-      "assetGroup": "Staked Frax Ether::SFRXETH",
-      "currencyId": "Staked Frax Ether::SFRXETH",
+      "assetGroup": "SFRXETH",
+      "currencyId": "Staked Frax Ether::sfrxETH",
       "tags": ["coingecko", "debridge"]
     },
     "0x02838746d9e1413e07ee064fcbada57055417f21": {
@@ -2363,7 +2363,7 @@
       "address": "0x667c856f1a624baefe89fc4909c8701296c86c98",
       "symbol": "ONI",
       "logoURI": "https://assets.coingecko.com/coins/images/9405/thumb/Oni_Round.png?1696509502",
-      "assetGroup": "ONINO::ONI",
+      "assetGroup": "ONI",
       "currencyId": "ONINO::ONI",
       "tags": ["coingecko", "debridge"]
     },
@@ -2451,7 +2451,7 @@
       "address": "0x7a10f506e4c7658e6ad15fdf0443d450b7fa80d7",
       "symbol": "EYWA",
       "logoURI": "https://assets.coingecko.com/coins/images/51242/thumb/Eywa.png?1730449129",
-      "assetGroup": "EYWA::EYWA",
+      "assetGroup": "EYWA",
       "currencyId": "EYWA::EYWA",
       "tags": ["coingecko", "debridge"]
     },
@@ -2836,7 +2836,7 @@
       "address": "0xddc0385169797937066bbd8ef409b5b3c0dfeb52",
       "symbol": "WMEMO",
       "logoURI": "https://assets.coingecko.com/coins/images/22392/thumb/wMEMO.png?1696521735",
-      "assetGroup": "Wonderful Memories::WMEMO",
+      "assetGroup": "WMEMO",
       "currencyId": "Wonderful Memories::WMEMO",
       "tags": ["coingecko", "debridge"]
     },
@@ -2913,7 +2913,7 @@
       "address": "0xc17c30e98541188614df99239cabd40280810ca3",
       "symbol": "RISE",
       "logoURI": "https://assets.coingecko.com/coins/images/16367/thumb/Logo_EverRise_Icon_logo.png?1696515966",
-      "assetGroup": "EverRise::RISE",
+      "assetGroup": "RISE",
       "currencyId": "EverRise::RISE",
       "tags": ["coingecko", "debridge"]
     },
@@ -3089,7 +3089,7 @@
       "address": "0xb715f8dce2f0e9b894c753711bd55ee3c04dca4e",
       "symbol": "CONK",
       "logoURI": "https://tokens.debridge.finance/Logo/250/0xb715f8dce2f0e9b894c753711bd55ee3c04dca4e/small/token-logo.png",
-      "assetGroup": "ShibaPoconk::CONK",
+      "assetGroup": "CONK",
       "currencyId": "ShibaPoconk::CONK",
       "tags": ["debridge"]
     },
@@ -3144,7 +3144,7 @@
       "address": "0x6496994241804d7fe2b032901931e03bcd82301f",
       "symbol": "MODA",
       "logoURI": "https://tokens.debridge.finance/Logo/250/0x6496994241804d7fe2b032901931e03bcd82301f/small/token-logo.png",
-      "assetGroup": "MODA DAO::MODA",
+      "assetGroup": "MODA",
       "currencyId": "MODA DAO::MODA",
       "tags": ["debridge"]
     },

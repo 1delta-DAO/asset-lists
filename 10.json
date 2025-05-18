@@ -571,7 +571,7 @@
       "address": "0xbb586ed34974b15049a876fd5366a4c2d1203115",
       "symbol": "UBI",
       "logoURI": "https://assets.coingecko.com/coins/images/15269/large/ubi.png?1620287853",
-      "assetGroup": "Universal Basic Income::UBI",
+      "assetGroup": "UBI",
       "currencyId": "Universal Basic Income::UBI"
     },
     "0xc709c9116dbf29da9c25041b13a07a0e68ac5d2d": {
@@ -581,7 +581,7 @@
       "address": "0xc709c9116dbf29da9c25041b13a07a0e68ac5d2d",
       "symbol": "UDT",
       "logoURI": "https://assets.coingecko.com/coins/images/14545/large/unlock.jpg?1616948136",
-      "assetGroup": "Unlock Protocol::UDT",
+      "assetGroup": "UDT",
       "currencyId": "Unlock Protocol::UDT"
     },
     "0xe7798f023fc62146e8aa1b36da45fb70855a77ea": {
@@ -591,7 +591,7 @@
       "address": "0xe7798f023fc62146e8aa1b36da45fb70855a77ea",
       "symbol": "UMA",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828/logo.png",
-      "assetGroup": "UMA Voting Token v1::UMA",
+      "assetGroup": "UMA",
       "currencyId": "UMA Voting Token v1::UMA"
     },
     "0x6fd9d7ad17242c41f7131d257212c54a0e816691": {
@@ -1005,7 +1005,7 @@
       "address": "0xd1917629b3e6a72e6772aab5dbe58eb7fa3c2f33",
       "symbol": "ZRX",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png",
-      "assetGroup": "0x Protocol Token::ZRX",
+      "assetGroup": "ZRX",
       "currencyId": "0x Protocol Token::ZRX"
     },
     "0x00a35fd824c717879bf370e70ac6868b95870dfb": {
@@ -1136,7 +1136,7 @@
       "address": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
       "symbol": "BOB",
       "logoURI": "https://assets.smold.app/api/token/10/0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B/logo-128.png",
-      "assetGroup": "BOB::BOB",
+      "assetGroup": "BOB",
       "currencyId": "BOB::BOB",
       "tags": ["debridge"]
     },
@@ -1358,7 +1358,7 @@
       "address": "0xdc6ff44d5d932cbd77b52e5612ba0529dc6226f1",
       "symbol": "WLD",
       "logoURI": "https://coin-images.coingecko.com/coins/images/31069/large/worldcoin.jpeg?1696529903",
-      "assetGroup": "Worldcoin::WLD",
+      "assetGroup": "WLD",
       "currencyId": "Worldcoin::WLD",
       "tags": ["debridge"]
     },
@@ -1401,7 +1401,7 @@
       "address": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7",
       "symbol": "WAGMI",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xaf20f5f19698f1d19351028cd7103b63d30de7d7/small/token-logo.png",
-      "assetGroup": "Wagmi::WAGMI",
+      "assetGroup": "WAGMI",
       "currencyId": "Wagmi::WAGMI",
       "tags": ["debridge"]
     },
@@ -1531,7 +1531,7 @@
       "address": "0x6806411765af15bddd26f8f544a34cc40cb9838b",
       "symbol": "frxETH",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x6806411765af15bddd26f8f544a34cc40cb9838b/small/token-logo.png",
-      "assetGroup": "Frax Ether::frxETH",
+      "assetGroup": "FRXETH",
       "currencyId": "Frax Ether::frxETH",
       "tags": ["debridge"]
     },
@@ -1788,7 +1788,7 @@
       "address": "0xecc68d0451e20292406967fe7c04280e5238ac7d",
       "symbol": "frxETH",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xecc68d0451e20292406967fe7c04280e5238ac7d/small/token-logo.png",
-      "assetGroup": "Bridged Frax Ether (Axelar)::frxETH",
+      "assetGroup": "FRXETH",
       "currencyId": "Bridged Frax Ether (Axelar)::frxETH",
       "tags": ["axelar", "bridged", "debridge"]
     },
@@ -1831,7 +1831,7 @@
       "address": "0x484c2d6e3cdd945a8b2df735e079178c1036578c",
       "symbol": "sfrxETH",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x484c2d6e3cdd945a8b2df735e079178c1036578c/small/token-logo.png",
-      "assetGroup": "Staked Frax Ether::sfrxETH",
+      "assetGroup": "SFRXETH",
       "currencyId": "Staked Frax Ether::sfrxETH",
       "tags": ["debridge"]
     },
@@ -2047,7 +2047,7 @@
       "address": "0x0000206329b97db379d5e1bf586bbdb969c63274",
       "symbol": "USDA",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x0000206329b97db379d5e1bf586bbdb969c63274/small/token-logo.png",
-      "assetGroup": "USDA::USDA",
+      "assetGroup": "USDA",
       "currencyId": "USDA::USDA",
       "tags": ["debridge"]
     },
@@ -2069,7 +2069,7 @@
       "address": "0x28b42698caf46b4b012cf38b6c75867e0762186d",
       "symbol": "UNIDX",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x28b42698caf46b4b012cf38b6c75867e0762186d/small/token-logo.png",
-      "assetGroup": "UniDex::UNIDX",
+      "assetGroup": "UNIDX",
       "currencyId": "UniDex::UNIDX",
       "tags": ["debridge"]
     },
@@ -2263,7 +2263,7 @@
       "name": "sGYD",
       "address": "0xea50f402653c41cadbafd1f788341db7b7f37816",
       "symbol": "sGYD",
-      "assetGroup": "sGYD::sGYD",
+      "assetGroup": "SGYD",
       "currencyId": "sGYD::sGYD",
       "tags": ["debridge"]
     },
@@ -2333,7 +2333,7 @@
       "name": "clBTC",
       "address": "0x1792865d493fe4dfdd504010d3c0f6da11e8046d",
       "symbol": "clBTC",
-      "assetGroup": "clBTC::clBTC",
+      "assetGroup": "CLBTC",
       "currencyId": "clBTC::clBTC",
       "tags": ["debridge"]
     },
@@ -2386,7 +2386,7 @@
       "address": "0xe3c332a5dce0e1d9bc2cc72a68437790570c28a4",
       "symbol": "VEE",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xe3c332a5dce0e1d9bc2cc72a68437790570c28a4/small/token-logo.png",
-      "assetGroup": "BLOCKv::VEE",
+      "assetGroup": "VEE",
       "currencyId": "BLOCKv::VEE",
       "tags": ["debridge"]
     },
@@ -2514,7 +2514,7 @@
       "address": "0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979",
       "symbol": "fBOMB",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979/small/token-logo.png",
-      "assetGroup": "Fantom Bomb::fBOMB",
+      "assetGroup": "FBOMB",
       "currencyId": "Fantom Bomb::fBOMB",
       "tags": ["debridge"]
     },
@@ -2524,7 +2524,7 @@
       "name": "Penpie",
       "address": "0xc4a65a93dd6cd9717551ebe827e8baee025d1d7e",
       "symbol": "PNP",
-      "assetGroup": "Penpie::PNP",
+      "assetGroup": "PNP",
       "currencyId": "Penpie::PNP",
       "tags": ["debridge"]
     },
@@ -2545,7 +2545,7 @@
       "name": "Spectra",
       "address": "0x248f43b622ce2f35a14db3fc528284730b619cd5",
       "symbol": "SPECTRA",
-      "assetGroup": "Spectra::SPECTRA",
+      "assetGroup": "SPECTRA",
       "currencyId": "Spectra::SPECTRA",
       "tags": ["debridge"]
     },
@@ -2577,7 +2577,7 @@
       "address": "0x9a601c5bb360811d96a23689066af316a30c3027",
       "symbol": "PIKA",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x9a601c5bb360811d96a23689066af316a30c3027/small/token-logo.png",
-      "assetGroup": "Pika Protocol::PIKA",
+      "assetGroup": "PIKA",
       "currencyId": "Pika Protocol::PIKA",
       "tags": ["debridge"]
     },
@@ -2619,7 +2619,7 @@
       "name": "Balanced",
       "address": "0xd336c74b840f9962cf2c666f8666d6d61ec24440",
       "symbol": "BALN",
-      "assetGroup": "Balanced::BALN",
+      "assetGroup": "BALN",
       "currencyId": "Balanced::BALN",
       "tags": ["debridge"]
     },
@@ -2705,7 +2705,7 @@
       "address": "0xbc404429558292ee2d769e57d57d6e74bbd2792d",
       "symbol": "sUSX",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xbc404429558292ee2d769e57d57d6e74bbd2792d/small/token-logo.png",
-      "assetGroup": "Savings USX::sUSX",
+      "assetGroup": "SUSX",
       "currencyId": "Savings USX::sUSX",
       "tags": ["debridge"]
     },
@@ -2716,7 +2716,7 @@
       "address": "0xb962150760f9a3bb00e3e9cf48297ee20ada4a33",
       "symbol": "xZOOMER",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xb962150760f9a3bb00e3e9cf48297ee20ada4a33/small/token-logo.png",
-      "assetGroup": "Zoomer::xZOOMER",
+      "assetGroup": "XZOOMER",
       "currencyId": "Zoomer::xZOOMER",
       "tags": ["debridge"]
     },
@@ -2782,7 +2782,7 @@
       "address": "0x887d1c6a4f3548279c2a8a9d0fa61b5d458d14fc",
       "symbol": "ION",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x887d1c6a4f3548279c2a8a9d0fa61b5d458d14fc/small/token-logo.png",
-      "assetGroup": "Ionic Protocol::ION",
+      "assetGroup": "ION",
       "currencyId": "Ionic Protocol::ION",
       "tags": ["debridge"]
     },
@@ -2913,7 +2913,7 @@
       "address": "0xd08c3f25862077056cb1b710937576af899a4959",
       "symbol": "InstETH",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xd08c3f25862077056cb1b710937576af899a4959/small/token-logo.png",
-      "assetGroup": "Inception stETH::InstETH",
+      "assetGroup": "INSTETH",
       "currencyId": "Inception stETH::InstETH",
       "tags": ["debridge"]
     },
@@ -3222,7 +3222,7 @@
       "name": "Overtime",
       "address": "0xedf38688b27036816a50185caa430d5479e1c63e",
       "symbol": "OVER",
-      "assetGroup": "Overtime::OVER",
+      "assetGroup": "OVER",
       "currencyId": "Overtime::OVER",
       "tags": ["debridge"]
     },

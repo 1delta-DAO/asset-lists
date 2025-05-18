@@ -9,7 +9,7 @@
       "address": "0x40375c92d9faf44d2f9db9bd9ba41a3317a2404f",
       "symbol": "ICE",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/8453/0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f.png",
-      "assetGroup": "IceCream::ICE",
+      "assetGroup": "ICE",
       "currencyId": "IceCream::ICE"
     },
     "0xc0e49f8c615d3d4c245970f6dc528e4a47d69a44": {
@@ -501,7 +501,7 @@
       "address": "0xd7ea82d19f1f59ff1ae95f1945ee6e6d86a25b96",
       "symbol": "UDT",
       "logoURI": "https://assets.coingecko.com/coins/images/14545/large/unlock.jpg?1616948136",
-      "assetGroup": "Unlock Protocol::UDT",
+      "assetGroup": "UDT",
       "currencyId": "Unlock Protocol::UDT"
     },
     "0x490a4b510d0ea9f835d2df29eb73b4fca5071937": {
@@ -605,7 +605,7 @@
       "address": "0xb358489d5d92641edb4d8ee8063f8005964346ba",
       "symbol": "AMP",
       "logoURI": "https://assets.coingecko.com/coins/images/12409/thumb/amp-200x200.png?1599625397",
-      "assetGroup": "AMP",
+      "assetGroup": "Amp::AMP",
       "currencyId": "Amp::AMP"
     },
     "0x7a2c5e7788e55ec0a7ba4aeec5b3da322718fb5e": {
@@ -1176,7 +1176,7 @@
       "address": "0x3bb4445d30ac020a84c1b5a8a2c6248ebc9779d0",
       "symbol": "ZRX",
       "logoURI": "https://ethereum-optimism.github.io/data/ZRX/logo.png",
-      "assetGroup": "0x Protocol Token::ZRX",
+      "assetGroup": "ZRX",
       "currencyId": "0x Protocol Token::ZRX"
     },
     "0xe4750593d1fc8e74b31549212899a72162f315fa": {
@@ -1448,7 +1448,7 @@
       "address": "0x1f55a02a049033e3419a8e2975cf3f572f4e6e9a",
       "symbol": "sfrxETH",
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/86f05b4e5856203169dba64b26e6165e1be8dfa9/images/sfrxETH.svg",
-      "assetGroup": "Staked Frax Ether::sfrxETH",
+      "assetGroup": "SFRXETH",
       "currencyId": "Staked Frax Ether::sfrxETH"
     },
     "0x21eceaf3bf88ef0797e3927d855ca5bb569a47fc": {
@@ -2435,7 +2435,7 @@
       "address": "0x88faea256f789f8dd50de54f9c807eef24f71b16",
       "symbol": "WOLF",
       "logoURI": "https://assets.coingecko.com/coins/images/36803/thumb/IMG_8678.jpeg?1712469842",
-      "assetGroup": "Landwolf::WOLF",
+      "assetGroup": "WOLF",
       "currencyId": "Landwolf::WOLF",
       "tags": ["coingecko", "debridge"]
     },
@@ -2853,7 +2853,7 @@
       "address": "0x64fcc3a02eeeba05ef701b7eed066c6ebd5d4e51",
       "symbol": "SPECTRA",
       "logoURI": "https://assets.coingecko.com/coins/images/52854/thumb/spectra.jpg?1734517434",
-      "assetGroup": "Spectra::SPECTRA",
+      "assetGroup": "SPECTRA",
       "currencyId": "Spectra::SPECTRA",
       "tags": ["coingecko", "debridge"]
     },
@@ -3755,7 +3755,7 @@
       "address": "0x2f3b1a07e3efb1fcc64bd09b86bd0fa885d93552",
       "symbol": "MST",
       "logoURI": "https://assets.coingecko.com/coins/images/34343/thumb/Meridian_Icon.png?1720634198",
-      "assetGroup": "Meridian MST::MST",
+      "assetGroup": "MST",
       "currencyId": "Meridian MST::MST",
       "tags": ["debridge"]
     },
@@ -5426,7 +5426,7 @@
       "address": "0xc1512b7023a97d54f8dd757b1f84e132297ca0d7",
       "symbol": "BALL",
       "logoURI": "https://assets.coingecko.com/coins/images/52858/thumb/TOKEN_BALL_%281%29.png?1734539332",
-      "assetGroup": "Ballies::BALL",
+      "assetGroup": "BALL",
       "currencyId": "Ballies::BALL",
       "tags": ["coingecko", "debridge"]
     },
@@ -5646,7 +5646,7 @@
       "address": "0xa7296cefae8477a81e23230ca5d3a3d6f49d3764",
       "symbol": "FIT",
       "logoURI": "https://assets.coingecko.com/coins/images/50358/thumb/fitclub-logo_%281%29.png?1727285353",
-      "assetGroup": "Fit::FIT",
+      "assetGroup": "FIT",
       "currencyId": "Fit::FIT",
       "tags": ["coingecko", "debridge"]
     },
@@ -5866,7 +5866,7 @@
       "address": "0x82967568a57625675b260ebab1294038c9accc6e",
       "symbol": "NOVA",
       "logoURI": "https://assets.coingecko.com/coins/images/34464/thumb/200x200_nova.png?1704965570",
-      "assetGroup": "Nova DAO::NOVA",
+      "assetGroup": "NOVA",
       "currencyId": "Nova DAO::NOVA"
     },
     "0xe3cf8dbcbdc9b220ddead0bd6342e245daff934d": {
@@ -6481,7 +6481,7 @@
       "address": "0x2659631cfbe9b1b6dcbc1384a3864509356e7b4d",
       "symbol": "RDX",
       "logoURI": "https://assets.coingecko.com/coins/images/52766/thumb/Icon_removed_BG.png?1734268221",
-      "assetGroup": "RandomDEX::RDX",
+      "assetGroup": "RDX",
       "currencyId": "RandomDEX::RDX",
       "tags": ["coingecko", "debridge"]
     },
@@ -7152,7 +7152,7 @@
       "address": "0xc1d5892e28ea1c5ecd9fac7771b9d06802f321e0",
       "symbol": "FUNDED",
       "logoURI": "https://assets.coingecko.com/coins/images/50661/thumb/funded.jpg?1728643546",
-      "assetGroup": "Funded::FUNDED",
+      "assetGroup": "FUNDED",
       "currencyId": "Funded::FUNDED",
       "tags": ["debridge"]
     },
@@ -8559,7 +8559,7 @@
       "address": "0x988a17d9ef5683dc125de54ae4cd217c4c26454f",
       "symbol": "APED",
       "logoURI": "https://assets.coingecko.com/coins/images/37802/thumb/aped.jpeg?1715590971",
-      "assetGroup": "Aped::APED",
+      "assetGroup": "APED",
       "currencyId": "Aped::APED",
       "tags": ["coingecko", "debridge"]
     },
@@ -9911,7 +9911,7 @@
       "address": "0x7771450ece9c61430953d2646f995e33a06c91f5",
       "symbol": "MONKE",
       "logoURI": "https://assets.coingecko.com/coins/images/38573/thumb/XYqp9v6F_400x400_%281%29_%281%29.png?1718009279",
-      "assetGroup": "Monke::MONKE",
+      "assetGroup": "MONKE",
       "currencyId": "Monke::MONKE",
       "tags": ["coingecko", "debridge"]
     },
@@ -11517,7 +11517,7 @@
       "address": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7",
       "symbol": "WAGMI",
       "logoURI": "https://assets.coingecko.com/coins/images/31887/thumb/wagmi_token_logo.png?1696530698",
-      "assetGroup": "Wagmi::WAGMI",
+      "assetGroup": "WAGMI",
       "currencyId": "Wagmi::WAGMI",
       "tags": ["coingecko", "debridge"]
     },
@@ -11693,7 +11693,7 @@
       "address": "0x8bf591eae535f93a242d5a954d3cde648b48a5a8",
       "symbol": "SUUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/33266/thumb/Sumer_Money_Logo.jpg?1701321416",
-      "assetGroup": "Sumerian USD::SUUSD",
+      "assetGroup": "SUUSD",
       "currencyId": "Sumerian USD::SUUSD",
       "tags": ["coingecko", "debridge"]
     },
@@ -11704,7 +11704,7 @@
       "address": "0x0808bf94d57c905f1236212654268ef82e1e594e",
       "symbol": "RITE",
       "logoURI": "https://assets.coingecko.com/coins/images/24130/thumb/rite.png?1696523321",
-      "assetGroup": "ritestream::RITE",
+      "assetGroup": "RITE",
       "currencyId": "ritestream::RITE",
       "tags": ["coingecko", "debridge"]
     },
@@ -11770,7 +11770,7 @@
       "address": "0xecc68d0451e20292406967fe7c04280e5238ac7d",
       "symbol": "AXLFRXETH",
       "logoURI": "https://assets.coingecko.com/coins/images/38976/thumb/Screen_Shot_2024-06-18_at_12.55.54_PM_2.png?1719714886",
-      "assetGroup": "Bridged Frax Ether (Axelar)::AXLFRXETH",
+      "assetGroup": "FRXETH",
       "currencyId": "Bridged Frax Ether (Axelar)::AXLFRXETH",
       "tags": ["axelar", "bridged", "coingecko", "debridge"]
     },
@@ -11781,7 +11781,7 @@
       "address": "0x3ee5e23eee121094f1cfc0ccc79d6c809ebd22e5",
       "symbol": "ION",
       "logoURI": "https://assets.coingecko.com/coins/images/36713/thumb/Ionic-icon-green.png?1712127547",
-      "assetGroup": "Ionic Protocol::ION",
+      "assetGroup": "ION",
       "currencyId": "Ionic Protocol::ION",
       "tags": ["coingecko", "debridge"]
     },
@@ -11792,7 +11792,7 @@
       "address": "0xade6057fcafa57d6d51ffa341c64ce4814995995",
       "symbol": "BZPR1",
       "logoURI": "https://assets.coingecko.com/coins/images/32867/thumb/b-ZPR1-200x200.png?1699671603",
-      "assetGroup": "Backed ZPR1 $ 1-3 Month T-Bill::BZPR1",
+      "assetGroup": "BZPR1",
       "currencyId": "Backed ZPR1 $ 1-3 Month T-Bill::BZPR1",
       "tags": ["coingecko", "debridge"]
     },
@@ -11836,7 +11836,7 @@
       "address": "0xca30c93b02514f86d5c86a6e375e3a330b435fb5",
       "symbol": "BIB01",
       "logoURI": "https://assets.coingecko.com/coins/images/31755/thumb/b-IB01-200x200.png?1696530574",
-      "assetGroup": "Backed IB01 $ Treasury Bond 0-1yr::BIB01",
+      "assetGroup": "BIB01",
       "currencyId": "Backed IB01 $ Treasury Bond 0-1yr::BIB01",
       "tags": ["coingecko", "debridge"]
     },
@@ -11902,7 +11902,7 @@
       "address": "0xc7dcca0a3e69bd762c8db257f868f76be36c8514",
       "symbol": "KIBSHI",
       "logoURI": "https://assets.coingecko.com/coins/images/29335/thumb/foto_no_exif_%2811%29%282%29_%281%29.png?1696528285",
-      "assetGroup": "KiboShib::KIBSHI",
+      "assetGroup": "KIBSHI",
       "currencyId": "KiboShib::KIBSHI",
       "tags": ["coingecko", "debridge"]
     },
@@ -12056,7 +12056,7 @@
       "address": "0x7cea109fc3516ed1248ae9aa67b5a352cf74075e",
       "symbol": "NOVA",
       "logoURI": "https://assets.coingecko.com/coins/images/34464/thumb/200x200_nova.png?1704965570",
-      "assetGroup": "Nova DAO::NOVA::8453",
+      "assetGroup": "Nova DAO::NOVA",
       "currencyId": "Nova DAO::NOVA",
       "tags": ["debridge"]
     },
@@ -12419,7 +12419,7 @@
       "address": "0x06d998a2c64caf9feb2caf3ca8872740ef013122",
       "symbol": "DCB",
       "logoURI": "https://assets.coingecko.com/coins/images/16909/thumb/Logo-Decubate_200x200.png?1696516480",
-      "assetGroup": "Decubate::DCB",
+      "assetGroup": "DCB",
       "currencyId": "Decubate::DCB",
       "tags": ["coingecko", "debridge"]
     },
@@ -13067,7 +13067,7 @@
       "address": "0x1c22531aa9747d76fff8f0a43b37954ca67d28e0",
       "symbol": "SUETH",
       "logoURI": "https://assets.coingecko.com/coins/images/33265/thumb/Sumer_Money_Logo.jpg?1701321407",
-      "assetGroup": "SUETH",
+      "assetGroup": "Sumerian suETH::SUETH",
       "currencyId": "Sumerian suETH::SUETH",
       "tags": ["coingecko", "debridge"]
     },
@@ -13166,7 +13166,7 @@
       "address": "0x61ca70b867a48265e553a7fbb81bfe44fada7ae6",
       "symbol": "ARC",
       "logoURI": "https://assets.coingecko.com/coins/images/24235/thumb/ARC_Token_Logo_200x200.png?1729562245",
-      "assetGroup": "ARC",
+      "assetGroup": "Arc::ARC",
       "currencyId": "Arc::ARC",
       "tags": ["coingecko", "debridge"]
     },
@@ -13364,7 +13364,7 @@
       "address": "0xac12f930318be4f9d37f602cbf89cd33e99aa9d4",
       "symbol": "WEXO",
       "logoURI": "https://assets.coingecko.com/coins/images/33801/thumb/wexo_token_200x200.png?1702991908",
-      "assetGroup": "Wexo::WEXO",
+      "assetGroup": "WEXO",
       "currencyId": "Wexo::WEXO",
       "tags": ["coingecko", "debridge"]
     },
@@ -13375,7 +13375,7 @@
       "address": "0x3124678d62d2aa1f615b54525310fbfda6dcf7ae",
       "symbol": "SNSY",
       "logoURI": "https://assets.coingecko.com/coins/images/36121/thumb/sensay.jpeg?1710495398",
-      "assetGroup": "Sensay::SNSY",
+      "assetGroup": "SNSY",
       "currencyId": "Sensay::SNSY",
       "tags": ["coingecko", "debridge"]
     },
@@ -13485,7 +13485,7 @@
       "address": "0xe8876189a80b2079d8c0a7867e46c50361d972c1",
       "symbol": "ARC",
       "logoURI": "https://assets.coingecko.com/coins/images/37308/thumb/arc-logo-circle-200.png?1713952763",
-      "assetGroup": "Archly Finance::ARC",
+      "assetGroup": "ARC",
       "currencyId": "Archly Finance::ARC",
       "tags": ["coingecko", "debridge"]
     },
@@ -13672,7 +13672,7 @@
       "address": "0x3e31966d4f81c72d2a55310a6365a56a4393e98d",
       "symbol": "WMTX",
       "logoURI": "https://assets.coingecko.com/coins/images/17333/thumb/1000097112.png?1727698144",
-      "assetGroup": "World Mobile Token::WMTX",
+      "assetGroup": "WMTX",
       "currencyId": "World Mobile Token::WMTX",
       "tags": ["coingecko", "debridge"]
     },
@@ -13684,7 +13684,7 @@
       "symbol": "ALEPH",
       "logoURI": "https://assets.coingecko.com/coins/images/11676/thumb/Aleph-Logo-BW.png?1696511566",
       "assetGroup": "ALEPH",
-      "currencyId": "Aleph.im v2::ALEPH",
+      "currencyId": "aleph.im v2::ALEPH",
       "tags": ["coingecko", "debridge"]
     },
     "0x0bbbead62f7647ae8323d2cb243a0db74b7c2b80": {
@@ -13771,7 +13771,7 @@
       "address": "0xbc404429558292ee2d769e57d57d6e74bbd2792d",
       "symbol": "SUSX",
       "logoURI": "https://assets.coingecko.com/coins/images/39895/thumb/IMG_7024.png?1724724019",
-      "assetGroup": "Savings USX::SUSX",
+      "assetGroup": "SUSX",
       "currencyId": "Savings USX::SUSX",
       "tags": ["coingecko", "debridge"]
     },
@@ -13903,7 +13903,7 @@
       "address": "0x1e2c4fb7ede391d116e6b41cd0608260e8801d59",
       "symbol": "BCSPX",
       "logoURI": "https://assets.coingecko.com/coins/images/31891/thumb/b-CSPX-200x200.png?1696530702",
-      "assetGroup": "Backed CSPX Core S&P 500::BCSPX",
+      "assetGroup": "BCSPX",
       "currencyId": "Backed CSPX Core S&P 500::BCSPX"
     },
     "0xd8b95b1987741849ca7e71e976aeb535fd2e55a2": {
@@ -13957,7 +13957,7 @@
       "address": "0x2f123cf3f37ce3328cc9b5b8415f9ec5109b45e7",
       "symbol": "BC3M",
       "logoURI": "https://assets.coingecko.com/coins/images/31870/thumb/b-C3-M-200x200.png?1696530682",
-      "assetGroup": "Backed GOVIES 0-6 months EURO investment grade::BC3M",
+      "assetGroup": "BC3M",
       "currencyId": "Backed GOVIES 0-6 months EURO investment grade::BC3M",
       "tags": ["coingecko", "debridge"]
     },
@@ -14287,7 +14287,7 @@
       "address": "0x8e5e9df4f0ea39ae5270e79bbabfcc34203a3470",
       "symbol": "RGUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/38146/thumb/rgusd%28200_x_200_px%29.png?1716654569",
-      "assetGroup": "Revenue Generating USD::RGUSD",
+      "assetGroup": "RGUSD",
       "currencyId": "Revenue Generating USD::RGUSD",
       "tags": ["debridge"]
     },
@@ -14386,7 +14386,7 @@
       "address": "0x0f76d32cdccdcbd602a55af23eaf58fd1ee17245",
       "symbol": "BERNA",
       "logoURI": "https://assets.coingecko.com/coins/images/36757/thumb/b-ERNA-200x200.png?1712245846",
-      "assetGroup": "Backed ERNA $ Bond::BERNA",
+      "assetGroup": "BERNA",
       "currencyId": "Backed ERNA $ Bond::BERNA",
       "tags": ["coingecko", "debridge"]
     },
@@ -14430,7 +14430,7 @@
       "address": "0xd7b675cd5c84a13d1d0f84509345530f6421b57c",
       "symbol": "OOOI",
       "logoURI": "https://assets.coingecko.com/coins/images/36057/thumb/corridor-logo-without-text-8bit.jpg?1710404509",
-      "assetGroup": "Corridor Finance::OOOI",
+      "assetGroup": "OOOI",
       "currencyId": "Corridor Finance::OOOI",
       "tags": ["coingecko", "debridge"]
     },
@@ -14595,7 +14595,7 @@
       "address": "0xf20c96fffbda91b07f78592c1c887ba922ce9b7f",
       "symbol": "ADBED",
       "logoURI": "https://assets.coingecko.com/coins/images/53861/thumb/d-token-200.png?1737614564",
-      "assetGroup": "Dinari ADBE::ADBED",
+      "assetGroup": "ADBED",
       "currencyId": "Dinari ADBE::ADBED",
       "tags": ["coingecko", "debridge"]
     },
@@ -14650,7 +14650,7 @@
       "address": "0xd0ca17153cbe8dd5f7b96f9a2c9e608faad7e904",
       "symbol": "GBTCD",
       "logoURI": "https://assets.coingecko.com/coins/images/53867/thumb/d-token-200.png?1737615504",
-      "assetGroup": "Dinari GBTC::GBTCD",
+      "assetGroup": "GBTCD",
       "currencyId": "Dinari GBTC::GBTCD",
       "tags": ["coingecko", "debridge"]
     },
@@ -14672,7 +14672,7 @@
       "address": "0xb8ebc0fc2453a1be3ab48db2de6237ce56e00c48",
       "symbol": "WOODD",
       "logoURI": "https://assets.coingecko.com/coins/images/53871/thumb/d-token-200.png?1737616705",
-      "assetGroup": "Dinari WOOD::WOODD",
+      "assetGroup": "WOODD",
       "currencyId": "Dinari WOOD::WOODD",
       "tags": ["coingecko", "debridge"]
     },
@@ -14683,7 +14683,7 @@
       "address": "0x53ca87b939cfdbc90b6f28751e164e77165ae7d4",
       "symbol": "WEATD",
       "logoURI": "https://assets.coingecko.com/coins/images/53872/thumb/d-token-200.png?1737617091",
-      "assetGroup": "Dinari WEAT::WEATD",
+      "assetGroup": "WEATD",
       "currencyId": "Dinari WEAT::WEATD"
     },
     "0x0d794e3778fc6f5f0351c77a5c77bd21d26887f9": {
@@ -14693,7 +14693,7 @@
       "address": "0x0d794e3778fc6f5f0351c77a5c77bd21d26887f9",
       "symbol": "SLXD",
       "logoURI": "https://assets.coingecko.com/coins/images/53874/thumb/d-token-200.png?1737617906",
-      "assetGroup": "Dinari SLX::SLXD",
+      "assetGroup": "SLXD",
       "currencyId": "Dinari SLX::SLXD",
       "tags": ["coingecko", "debridge"]
     },
@@ -14759,7 +14759,7 @@
       "address": "0x69bd04ab9290d2919f228b87f9dccf728e2675cd",
       "symbol": "BTCOD",
       "logoURI": "https://assets.coingecko.com/coins/images/54048/thumb/d-token-200.png?1738103322",
-      "assetGroup": "Dinari BTCO::BTCOD",
+      "assetGroup": "BTCOD",
       "currencyId": "Dinari BTCO::BTCOD",
       "tags": ["coingecko", "debridge"]
     },
@@ -14770,7 +14770,7 @@
       "address": "0x408e16d4e07812a963189dc15fa61806eb8a4e9d",
       "symbol": "BACD",
       "logoURI": "https://assets.coingecko.com/coins/images/54049/thumb/d-token-200.png?1738103338",
-      "assetGroup": "Dinari BAC::BACD",
+      "assetGroup": "BACD",
       "currencyId": "Dinari BAC::BACD",
       "tags": ["coingecko", "debridge"]
     },
@@ -14781,7 +14781,7 @@
       "address": "0xe1338b131647a4d6123b6af912f295954067a766",
       "symbol": "BTCWD",
       "logoURI": "https://assets.coingecko.com/coins/images/54050/thumb/d-token-200.png?1738103595",
-      "assetGroup": "Dinari BTCW::BTCWD",
+      "assetGroup": "BTCWD",
       "currencyId": "Dinari BTCW::BTCWD",
       "tags": ["coingecko", "debridge"]
     },
@@ -14792,7 +14792,7 @@
       "address": "0x903ce8c6196a78e5b6df62897a864951e71b6b34",
       "symbol": "CATD",
       "logoURI": "https://assets.coingecko.com/coins/images/54051/thumb/d-token-200.png?1738103623",
-      "assetGroup": "Dinari CAT::CATD",
+      "assetGroup": "CATD",
       "currencyId": "Dinari CAT::CATD",
       "tags": ["coingecko", "debridge"]
     },
@@ -14803,7 +14803,7 @@
       "address": "0xac21cd6fe43240d90741d25858d0ff0940b11cc7",
       "symbol": "DEFID",
       "logoURI": "https://assets.coingecko.com/coins/images/54052/thumb/d-token-200.png?1738103629",
-      "assetGroup": "Dinari DEFI::DEFID",
+      "assetGroup": "DEFID",
       "currencyId": "Dinari DEFI::DEFID",
       "tags": ["coingecko", "debridge"]
     },
@@ -14814,7 +14814,7 @@
       "address": "0x842d4a6d10e41eaae03b4df87e575be53b296fc6",
       "symbol": "HODLD",
       "logoURI": "https://assets.coingecko.com/coins/images/54053/thumb/d-token-200.png?1738103664",
-      "assetGroup": "Dinari HODL::HODLD",
+      "assetGroup": "HODLD",
       "currencyId": "Dinari HODL::HODLD",
       "tags": ["coingecko", "debridge"]
     },
@@ -14825,7 +14825,7 @@
       "address": "0x0c9b4fbff1971b5b1d7b50b1f3483cc5007c4621",
       "symbol": "HOODD",
       "logoURI": "https://assets.coingecko.com/coins/images/54054/thumb/d-token-200.png?1738103671",
-      "assetGroup": "Dinari HOOD::HOODD",
+      "assetGroup": "HOODD",
       "currencyId": "Dinari HOOD::HOODD",
       "tags": ["coingecko", "debridge"]
     },
@@ -14858,7 +14858,7 @@
       "address": "0x0400373ea12d84f578b8ab2c21556645333cc312",
       "symbol": "HUTD",
       "logoURI": "https://assets.coingecko.com/coins/images/54079/thumb/d-token-200.png?1738175759",
-      "assetGroup": "Dinari HUT::HUTD",
+      "assetGroup": "HUTD",
       "currencyId": "Dinari HUT::HUTD",
       "tags": ["coingecko", "debridge"]
     },
@@ -14869,7 +14869,7 @@
       "address": "0xe6cf0d54079bfb0e441c1ef37e69a234e9e4e4c0",
       "symbol": "IAUD",
       "logoURI": "https://assets.coingecko.com/coins/images/54080/thumb/d-token-200.png?1738175780",
-      "assetGroup": "Dinari IAU::IAUD",
+      "assetGroup": "IAUD",
       "currencyId": "Dinari IAU::IAUD",
       "tags": ["coingecko", "debridge"]
     },
@@ -14946,7 +14946,7 @@
       "address": "0xf587b7116879a529353cc71ee959cd69fd5cae48",
       "symbol": "CGETHHASHKEY",
       "logoURI": "https://assets.coingecko.com/coins/images/54162/thumb/Cgeth_Hashkey.png?1738482570",
-      "assetGroup": "cgETH Hashkey Cloud::CGETHHASHKEY",
+      "assetGroup": "CGETHHASHKEY",
       "currencyId": "cgETH Hashkey Cloud::CGETHHASHKEY",
       "tags": ["coingecko", "debridge"]
     },
@@ -14957,7 +14957,7 @@
       "address": "0x8d2757ea27aabf172da4cca4e5474c76016e3dc5",
       "symbol": "CLBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/54164/thumb/clBTC.png?1738482999",
-      "assetGroup": "clBTC::CLBTC",
+      "assetGroup": "CLBTC",
       "currencyId": "clBTC::CLBTC",
       "tags": ["coingecko", "debridge"]
     },
@@ -15045,7 +15045,7 @@
       "address": "0x76e118fa6839ddad531411b8cc7a9dcdfd7d4fb0",
       "symbol": "BALN",
       "logoURI": "https://assets.coingecko.com/coins/images/15303/thumb/balance_tokens.png?1696514953",
-      "assetGroup": "Balanced::BALN",
+      "assetGroup": "BALN",
       "currencyId": "Balanced::BALN",
       "tags": ["coingecko", "debridge"]
     },
@@ -15232,7 +15232,7 @@
       "address": "0xc4d137def384ee0f8857887f5950669ba04984ec",
       "symbol": "BONZAI",
       "logoURI": "https://assets.coingecko.com/coins/images/36032/thumb/bonzai.jpeg?1710394145",
-      "assetGroup": "BonzAI DePIN::BONZAI",
+      "assetGroup": "BONZAI",
       "currencyId": "BonzAI DePIN::BONZAI",
       "tags": ["coingecko", "debridge"]
     },
@@ -15451,7 +15451,7 @@
       "address": "0x88558259ceda5d8e681fedb55c50070fbd3da8f9",
       "symbol": "MST",
       "logoURI": "https://assets.coingecko.com/coins/images/34343/thumb/Meridian_Icon.png?1720634198",
-      "assetGroup": "Meridian MST::MST::8453",
+      "assetGroup": "Meridian MST::MST",
       "currencyId": "Meridian MST::MST",
       "tags": ["coingecko", "debridge"]
     },
@@ -15484,7 +15484,7 @@
       "address": "0x6967f0974d76d34e140cae27efea32cdf546b58e",
       "symbol": "GMRT",
       "logoURI": "https://assets.coingecko.com/coins/images/54343/thumb/Token-transparent.png?1739354572",
-      "assetGroup": "Gamer Tag::GMRT",
+      "assetGroup": "GMRT",
       "currencyId": "Gamer Tag::GMRT",
       "tags": ["coingecko", "debridge"]
     },
@@ -15528,7 +15528,7 @@
       "address": "0xacacc8241a57a23106af94f2fffda000384cb4d2",
       "symbol": "WALRFD",
       "logoURI": "https://assets.coingecko.com/coins/images/54222/thumb/d-token-200.png?1738860922",
-      "assetGroup": "Dinari WALRF::WALRFD",
+      "assetGroup": "WALRFD",
       "currencyId": "Dinari WALRF::WALRFD",
       "tags": ["coingecko", "debridge"]
     },
@@ -15539,7 +15539,7 @@
       "address": "0xf598797d9c160aef2a14712c20b7731cbe5861da",
       "symbol": "PERC",
       "logoURI": "https://assets.coingecko.com/coins/images/23302/thumb/PERC.png?1696522520",
-      "assetGroup": "Perion::PERC",
+      "assetGroup": "PERC",
       "currencyId": "Perion::PERC",
       "tags": ["coingecko", "debridge"]
     },
@@ -15550,7 +15550,7 @@
       "address": "0xb51c78989fb8d1bf2c957dd0522235c92d0443a5",
       "symbol": "RBLXD",
       "logoURI": "https://assets.coingecko.com/coins/images/54223/thumb/d-token-200.png?1738860997",
-      "assetGroup": "Dinari RBLX::RBLXD",
+      "assetGroup": "RBLXD",
       "currencyId": "Dinari RBLX::RBLXD",
       "tags": ["coingecko", "debridge"]
     },
@@ -15583,7 +15583,7 @@
       "address": "0x437b5acc7d6f0eacb97431e649c61e98badb3f92",
       "symbol": "PGD",
       "logoURI": "https://assets.coingecko.com/coins/images/54269/thumb/d-token-200.png?1738994720",
-      "assetGroup": "Dinari PG::PGD",
+      "assetGroup": "PGD",
       "currencyId": "Dinari PG::PGD",
       "tags": ["coingecko", "debridge"]
     },
@@ -15594,7 +15594,7 @@
       "address": "0x314936e9cdc0df06941d2e84949a58e0f5f82e6a",
       "symbol": "PALLD",
       "logoURI": "https://assets.coingecko.com/coins/images/54270/thumb/d-token-200.png?1738994765",
-      "assetGroup": "Dinari PALL::PALLD",
+      "assetGroup": "PALLD",
       "currencyId": "Dinari PALL::PALLD",
       "tags": ["coingecko", "debridge"]
     },
@@ -15605,7 +15605,7 @@
       "address": "0xd5e8dc8ba0c459a97a79d8ee2b4fec186e4af078",
       "symbol": "CCLD",
       "logoURI": "https://assets.coingecko.com/coins/images/54275/thumb/d-token-200.png?1738998063",
-      "assetGroup": "Dinari CCL::CCLD",
+      "assetGroup": "CCLD",
       "currencyId": "Dinari CCL::CCLD",
       "tags": ["coingecko", "debridge"]
     },
@@ -15616,7 +15616,7 @@
       "address": "0xb9c229a7aac1c67c7468baf37ef056a91d7df118",
       "symbol": "FD",
       "logoURI": "https://assets.coingecko.com/coins/images/54276/thumb/d-token-200.png?1738998264",
-      "assetGroup": "Dinari F::FD",
+      "assetGroup": "FD",
       "currencyId": "Dinari F::FD",
       "tags": ["coingecko", "debridge"]
     },
@@ -15627,7 +15627,7 @@
       "address": "0xa26a3903cbba4e6c2c757d7601fbc569efc479ef",
       "symbol": "RKLBD",
       "logoURI": "https://assets.coingecko.com/coins/images/54280/thumb/d-token-200.png?1738998854",
-      "assetGroup": "Dinari RKLB::RKLBD",
+      "assetGroup": "RKLBD",
       "currencyId": "Dinari RKLB::RKLBD",
       "tags": ["coingecko", "debridge"]
     },
@@ -15638,7 +15638,7 @@
       "address": "0x2b98ba07619c3ee14854983a83fe1f0aecff19c8",
       "symbol": "SIVRD",
       "logoURI": "https://assets.coingecko.com/coins/images/54224/thumb/d-token-200.png?1738861015",
-      "assetGroup": "Dinari SIVR::SIVRD",
+      "assetGroup": "SIVRD",
       "currencyId": "Dinari SIVR::SIVRD",
       "tags": ["coingecko", "debridge"]
     },
@@ -15649,7 +15649,7 @@
       "address": "0x62cc07128dec1451ca55d20465cca80dbc24ca6d",
       "symbol": "SONYD",
       "logoURI": "https://assets.coingecko.com/coins/images/54225/thumb/d-token-200.png?1738861032",
-      "assetGroup": "Dinari SONY::SONYD",
+      "assetGroup": "SONYD",
       "currencyId": "Dinari SONY::SONYD",
       "tags": ["coingecko", "debridge"]
     },
@@ -15660,7 +15660,7 @@
       "address": "0x70e97cac0d4eb845872cd41ae848e47d070ef45c",
       "symbol": "COSTD",
       "logoURI": "https://assets.coingecko.com/coins/images/54226/thumb/d-token-200.png?1738861053",
-      "assetGroup": "Dinari COST::COSTD",
+      "assetGroup": "COSTD",
       "currencyId": "Dinari COST::COSTD",
       "tags": ["coingecko", "debridge"]
     },
@@ -15671,7 +15671,7 @@
       "address": "0xd021ad9bc28dcbcb04801638937351f6b9045f33",
       "symbol": "DALD",
       "logoURI": "https://assets.coingecko.com/coins/images/54227/thumb/d-token-200.png?1738861070",
-      "assetGroup": "Dinari DAL::DALD",
+      "assetGroup": "DALD",
       "currencyId": "Dinari DAL::DALD",
       "tags": ["coingecko", "debridge"]
     },
@@ -15682,7 +15682,7 @@
       "address": "0xf3ec90ea681561ce77120976bcfe985f83d182d8",
       "symbol": "GLDD",
       "logoURI": "https://assets.coingecko.com/coins/images/54228/thumb/d-token-200.png?1738861086",
-      "assetGroup": "Dinari GLD::GLDD",
+      "assetGroup": "GLDD",
       "currencyId": "Dinari GLD::GLDD",
       "tags": ["coingecko", "debridge"]
     },
@@ -15693,7 +15693,7 @@
       "address": "0xd5eab2d9e01442bfca720f6f15451555dd003f40",
       "symbol": "SQD",
       "logoURI": "https://assets.coingecko.com/coins/images/54229/thumb/d-token-200.png?1738861102",
-      "assetGroup": "Dinari SQ::SQD",
+      "assetGroup": "SQD",
       "currencyId": "Dinari SQ::SQD",
       "tags": ["coingecko", "debridge"]
     },
@@ -15704,7 +15704,7 @@
       "address": "0xba921e840fb60adb0f92b2a977427fe8e5dd208c",
       "symbol": "EROD",
       "logoURI": "https://assets.coingecko.com/coins/images/54230/thumb/d-token-200.png?1738861119",
-      "assetGroup": "Dinari ERO::EROD",
+      "assetGroup": "EROD",
       "currencyId": "Dinari ERO::EROD",
       "tags": ["coingecko", "debridge"]
     },
@@ -15715,7 +15715,7 @@
       "address": "0x341c9b4e5566a2ae22a337c84e3c006064731925",
       "symbol": "CSCOD",
       "logoURI": "https://assets.coingecko.com/coins/images/54277/thumb/d-token-200.png?1738998301",
-      "assetGroup": "Dinari CSCO::CSCOD",
+      "assetGroup": "CSCOD",
       "currencyId": "Dinari CSCO::CSCOD",
       "tags": ["coingecko", "debridge"]
     },
@@ -15726,7 +15726,7 @@
       "address": "0x116b3ad9ba8f4e6fb83a5bcad8ba2e97114f9568",
       "symbol": "ITAD",
       "logoURI": "https://assets.coingecko.com/coins/images/54278/thumb/d-token-200.png?1738998357",
-      "assetGroup": "Dinari ITA::ITAD",
+      "assetGroup": "ITAD",
       "currencyId": "Dinari ITA::ITAD",
       "tags": ["coingecko", "debridge"]
     },
@@ -15737,7 +15737,7 @@
       "address": "0x11a2021368f518fa390d20308076b25c57292e83",
       "symbol": "HSAI",
       "logoURI": "https://assets.coingecko.com/coins/images/51384/thumb/logo-200.jpg?1730967315",
-      "assetGroup": "HealthSci AI::HSAI",
+      "assetGroup": "HSAI",
       "currencyId": "HealthSci AI::HSAI",
       "tags": ["coingecko", "debridge"]
     },
@@ -15748,7 +15748,7 @@
       "address": "0xd45a01a729a0d4ccbe1523e58eb4ff8bdc3607d7",
       "symbol": "EZBCD",
       "logoURI": "https://assets.coingecko.com/coins/images/54267/thumb/d-token-200.png?1738994496",
-      "assetGroup": "Dinari EZBC::EZBCD",
+      "assetGroup": "EZBCD",
       "currencyId": "Dinari EZBC::EZBCD",
       "tags": ["coingecko", "debridge"]
     },
@@ -15759,7 +15759,7 @@
       "address": "0x9b42e4afcc2046070fa00ff8213d59eef6e4264e",
       "symbol": "SBUXD",
       "logoURI": "https://assets.coingecko.com/coins/images/54364/thumb/d-token-200.png?1739401368",
-      "assetGroup": "Dinari SBUX::SBUXD",
+      "assetGroup": "SBUXD",
       "currencyId": "Dinari SBUX::SBUXD",
       "tags": ["coingecko", "debridge"]
     },
@@ -15781,7 +15781,7 @@
       "address": "0x9fd7bc3de3c1dd6041efbcbac43250da7b718a43",
       "symbol": "SPSKD",
       "logoURI": "https://assets.coingecko.com/coins/images/54391/thumb/d-token-200.png?1739485728",
-      "assetGroup": "Dinari SPSK::SPSKD",
+      "assetGroup": "SPSKD",
       "currencyId": "Dinari SPSK::SPSKD",
       "tags": ["coingecko", "debridge"]
     },
@@ -15836,7 +15836,7 @@
       "address": "0xc3ce78b037dda1b966d31ec7979d3f3a38571a8e",
       "symbol": "BCSPX",
       "logoURI": "https://assets.coingecko.com/coins/images/31891/thumb/b-CSPX-200x200.png?1696530702",
-      "assetGroup": "Backed CSPX Core S&P 500::BCSPX::8453",
+      "assetGroup": "Backed CSPX Core S&P 500::BCSPX",
       "currencyId": "Backed CSPX Core S&P 500::BCSPX",
       "tags": ["coingecko", "debridge"]
     },
@@ -15990,7 +15990,7 @@
       "address": "0x1f82284c1658ad71c576f7230e6c2dee7901c1fa",
       "symbol": "WBTSLA",
       "logoURI": "https://assets.coingecko.com/coins/images/54428/thumb/bTSLA_200x200.png?1739605965",
-      "assetGroup": "Wrapped bTSLA::WBTSLA",
+      "assetGroup": "WBTSLA",
       "currencyId": "Wrapped bTSLA::WBTSLA",
       "tags": ["coingecko", "debridge"]
     },
@@ -16287,7 +16287,7 @@
       "address": "0xc6bbaf4d804327d84931310e49c863e63a2bd868",
       "symbol": "WEATD",
       "logoURI": "https://assets.coingecko.com/coins/images/53872/thumb/d-token-200.png?1737617091",
-      "assetGroup": "Dinari WEAT::WEATD::8453",
+      "assetGroup": "Dinari WEAT::WEATD",
       "currencyId": "Dinari WEAT::WEATD",
       "tags": ["coingecko", "debridge"]
     },
@@ -16390,7 +16390,7 @@
       "address": "0xac611438ae5f3953dedb47c2ea8d6650d601c1b4",
       "symbol": "AMP",
       "logoURI": "https://assets.coingecko.com/coins/images/37421/thumb/AmpedLogoTrans-200.png?1714377313",
-      "assetGroup": "Amped Finance::AMP",
+      "assetGroup": "AMP",
       "currencyId": "Amped Finance::AMP",
       "tags": ["coingecko", "debridge"]
     },
@@ -16572,7 +16572,7 @@
       "address": "0x69000dfd5025e82f48eb28325a2b88a241182ced",
       "symbol": "ZAI",
       "logoURI": "https://basescan.org/token/images/mahazaistablecoin_32.png",
-      "assetGroup": "ZAI",
+      "assetGroup": "ZAI Stablecoin::ZAI",
       "currencyId": "ZAI Stablecoin::ZAI"
     },
     "0x35e5db674d8e93a03d814fa0ada70731efe8a4b9": {
@@ -16601,7 +16601,7 @@
       "address": "0x0000206329b97db379d5e1bf586bbdb969c63274",
       "symbol": "USDA",
       "logoURI": "https://dynamic-assets.coinbase.com/68452cec7f8ca62c70489d21c945eba95432cf57d651984399d5e3dbeb0a2f694e333a67b01c28f6a4086df69643e42095de3aa073e52c7d61a6060a58119ef9/asset_icons/4a11e823872a4b420ca9e8463d09c075efd90082cb4394d08840704986231d96.png",
-      "assetGroup": "USDA::USDA",
+      "assetGroup": "USDA",
       "currencyId": "USDA::USDA"
     },
     "0xfdf73f61146b9050ffe4b755364b9cac670ea5b2": {
@@ -17285,7 +17285,7 @@
       "address": "0xe290816384416fb1db9225e176b716346db9f9fe",
       "symbol": "9MM",
       "logoURI": "https://assets.coingecko.com/coins/images/54791/thumb/9mm.jpg?1741590221",
-      "assetGroup": "9mm::9MM",
+      "assetGroup": "9MM",
       "currencyId": "9mm::9MM",
       "tags": ["coingecko", "debridge"]
     },
@@ -17757,7 +17757,7 @@
       "address": "0x9e12735d77c72c5c3670636d428f2f3815d8a4cb",
       "symbol": "FULA",
       "logoURI": "https://assets.coingecko.com/coins/images/24782/thumb/FULA_IconGRN_200.png?1742180793",
-      "assetGroup": "Functionland::FULA",
+      "assetGroup": "FULA",
       "currencyId": "Functionland::FULA",
       "tags": ["coingecko", "debridge"]
     },
@@ -17999,7 +17999,7 @@
       "address": "0x7750c092e284e2c7366f50c8306f43c7eb2e82a2",
       "symbol": "OVER",
       "logoURI": "https://assets.coingecko.com/coins/images/54973/thumb/over.png?1742959291",
-      "assetGroup": "Overtime::OVER",
+      "assetGroup": "OVER",
       "currencyId": "Overtime::OVER",
       "tags": ["coingecko"]
     },
@@ -18164,7 +18164,7 @@
       "address": "0xa0820613976b441e2c6a90e4877e2fb5f7d72552",
       "symbol": "POLTER",
       "logoURI": "https://assets.coingecko.com/coins/images/35730/thumb/logo-200.png?1743249114",
-      "assetGroup": "Polter::POLTER",
+      "assetGroup": "POLTER",
       "currencyId": "Polter::POLTER",
       "tags": ["coingecko"]
     },
@@ -18537,7 +18537,7 @@
       "address": "0x8c7568cc28ddac01ab6779daa4f6be66b1201dd0",
       "symbol": "OWCT",
       "logoURI": "https://assets.coingecko.com/coins/images/38585/thumb/1000123546.png?1718088756",
-      "assetGroup": "One World Chain::OWCT",
+      "assetGroup": "OWCT",
       "currencyId": "One World Chain::OWCT",
       "tags": ["coingecko"]
     },

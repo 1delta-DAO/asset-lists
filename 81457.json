@@ -41,7 +41,7 @@
       "address": "0xd810a437e334b9c3660c18b38fb3c01000b91dd3",
       "symbol": "ICE",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/81457/0xD810A437e334B9C3660C18b38fB3C01000B91DD3.png",
-      "assetGroup": "IceCream::ICE",
+      "assetGroup": "ICE",
       "currencyId": "IceCream::ICE"
     },
     "0xbd78ffeb305c1e1bc8047ffe1266350c21da1113": {
@@ -264,7 +264,7 @@
       "symbol": "USD+",
       "logoURI": "https://assets.coingecko.com/coins/images/39627/thumb/usd_plus.png?1723181444",
       "assetGroup": "USD+",
-      "currencyId": "Overnight.fi USD::USD+",
+      "currencyId": "Overnight.fi USD+::USD+",
       "tags": ["coingecko"]
     },
     "0x963eec23618bbc8e1766661d5f263f18094ae4d5": {
@@ -274,7 +274,7 @@
       "address": "0x963eec23618bbc8e1766661d5f263f18094ae4d5",
       "symbol": "CYBRO",
       "logoURI": "https://assets.coingecko.com/coins/images/36941/thumb/3xhsAKWd_400x400.jpg?1712853902",
-      "assetGroup": "CYBRO::CYBRO",
+      "assetGroup": "CYBRO",
       "currencyId": "CYBRO::CYBRO",
       "tags": ["coingecko"]
     },
@@ -1098,7 +1098,7 @@
       "address": "0x68449870eea84453044bd430822827e21fd8f101",
       "symbol": "ZAI",
       "logoURI": "https://assets.coingecko.com/coins/images/35781/thumb/zai.jpeg?1709795384",
-      "assetGroup": "Zaibot::ZAI",
+      "assetGroup": "ZAI",
       "currencyId": "Zaibot::ZAI",
       "tags": ["coingecko"]
     },
@@ -1120,7 +1120,7 @@
       "address": "0x58e6489eca0e55a16adee6f37301638470738ce6",
       "symbol": "ZAI",
       "logoURI": "https://assets.coingecko.com/coins/images/39733/thumb/Group_4.png?1723771588",
-      "assetGroup": "ZAI",
+      "assetGroup": "ZAI Stablecoin::ZAI",
       "currencyId": "ZAI Stablecoin::ZAI",
       "tags": ["coingecko"]
     },
@@ -1173,7 +1173,7 @@
       "address": "0x3fada70ea1251bec1e87c2ff9cd5bb72a818c350",
       "symbol": "ADBED",
       "logoURI": "https://assets.coingecko.com/coins/images/53861/thumb/d-token-200.png?1737614564",
-      "assetGroup": "Dinari ADBE::ADBED",
+      "assetGroup": "ADBED",
       "currencyId": "Dinari ADBE::ADBED",
       "tags": ["coingecko"]
     },
@@ -1239,7 +1239,7 @@
       "address": "0x9558e1217e0cb47ade9b5f63cc5aca8d47691ab7",
       "symbol": "GBTCD",
       "logoURI": "https://assets.coingecko.com/coins/images/53867/thumb/d-token-200.png?1737615504",
-      "assetGroup": "Dinari GBTC::GBTCD",
+      "assetGroup": "GBTCD",
       "currencyId": "Dinari GBTC::GBTCD",
       "tags": ["coingecko"]
     },
@@ -1261,7 +1261,7 @@
       "address": "0x42e4981de9bc8fd4726775f62066cabbe78deab8",
       "symbol": "WOODD",
       "logoURI": "https://assets.coingecko.com/coins/images/53871/thumb/d-token-200.png?1737616705",
-      "assetGroup": "Dinari WOOD::WOODD",
+      "assetGroup": "WOODD",
       "currencyId": "Dinari WOOD::WOODD",
       "tags": ["coingecko"]
     },
@@ -1272,7 +1272,7 @@
       "address": "0xc6bbaf4d804327d84931310e49c863e63a2bd868",
       "symbol": "WEATD",
       "logoURI": "https://assets.coingecko.com/coins/images/53872/thumb/d-token-200.png?1737617091",
-      "assetGroup": "Dinari WEAT::WEATD",
+      "assetGroup": "WEATD",
       "currencyId": "Dinari WEAT::WEATD"
     },
     "0x6c627b1e04ede1a6e0619727c70f69cb259d06f8": {
@@ -1282,7 +1282,7 @@
       "address": "0x6c627b1e04ede1a6e0619727c70f69cb259d06f8",
       "symbol": "SLXD",
       "logoURI": "https://assets.coingecko.com/coins/images/53874/thumb/d-token-200.png?1737617906",
-      "assetGroup": "Dinari SLX::SLXD",
+      "assetGroup": "SLXD",
       "currencyId": "Dinari SLX::SLXD",
       "tags": ["coingecko"]
     },
@@ -1436,7 +1436,7 @@
       "address": "0xbf286a9c026f02dd4d2e3fc3887e77e425d15a11",
       "symbol": "BTCOD",
       "logoURI": "https://assets.coingecko.com/coins/images/54048/thumb/d-token-200.png?1738103322",
-      "assetGroup": "Dinari BTCO::BTCOD",
+      "assetGroup": "BTCOD",
       "currencyId": "Dinari BTCO::BTCOD",
       "tags": ["coingecko"]
     },
@@ -1447,7 +1447,7 @@
       "address": "0xc6561ff3100d8b3c33898dfbfeb6e695134e6957",
       "symbol": "BACD",
       "logoURI": "https://assets.coingecko.com/coins/images/54049/thumb/d-token-200.png?1738103338",
-      "assetGroup": "Dinari BAC::BACD",
+      "assetGroup": "BACD",
       "currencyId": "Dinari BAC::BACD",
       "tags": ["coingecko"]
     },
@@ -1458,7 +1458,7 @@
       "address": "0xbe2019c75ebf9ead0ab3513fd3c1733f2eb490e7",
       "symbol": "BTCWD",
       "logoURI": "https://assets.coingecko.com/coins/images/54050/thumb/d-token-200.png?1738103595",
-      "assetGroup": "Dinari BTCW::BTCWD",
+      "assetGroup": "BTCWD",
       "currencyId": "Dinari BTCW::BTCWD",
       "tags": ["coingecko"]
     },
@@ -1469,7 +1469,7 @@
       "address": "0x8ce131c8c8b8d46ffe2a72aadc8ebb3d5686613a",
       "symbol": "CATD",
       "logoURI": "https://assets.coingecko.com/coins/images/54051/thumb/d-token-200.png?1738103623",
-      "assetGroup": "Dinari CAT::CATD",
+      "assetGroup": "CATD",
       "currencyId": "Dinari CAT::CATD",
       "tags": ["coingecko"]
     },
@@ -1480,7 +1480,7 @@
       "address": "0x64931990e69b55ff7acaf0f20416d29b20855be6",
       "symbol": "DEFID",
       "logoURI": "https://assets.coingecko.com/coins/images/54052/thumb/d-token-200.png?1738103629",
-      "assetGroup": "Dinari DEFI::DEFID",
+      "assetGroup": "DEFID",
       "currencyId": "Dinari DEFI::DEFID",
       "tags": ["coingecko"]
     },
@@ -1491,7 +1491,7 @@
       "address": "0x01e8bd212f5f319e7126b62aa020831b92e19cd9",
       "symbol": "HODLD",
       "logoURI": "https://assets.coingecko.com/coins/images/54053/thumb/d-token-200.png?1738103664",
-      "assetGroup": "Dinari HODL::HODLD",
+      "assetGroup": "HODLD",
       "currencyId": "Dinari HODL::HODLD",
       "tags": ["coingecko"]
     },
@@ -1502,7 +1502,7 @@
       "address": "0xddcd99775b70bee3b1d06399b69e45465dea010c",
       "symbol": "HOODD",
       "logoURI": "https://assets.coingecko.com/coins/images/54054/thumb/d-token-200.png?1738103671",
-      "assetGroup": "Dinari HOOD::HOODD",
+      "assetGroup": "HOODD",
       "currencyId": "Dinari HOOD::HOODD",
       "tags": ["coingecko"]
     },
@@ -1513,7 +1513,7 @@
       "address": "0x08a51d066c12f5b020c3b34817feb6f200aa3ed1",
       "symbol": "HUTD",
       "logoURI": "https://assets.coingecko.com/coins/images/54079/thumb/d-token-200.png?1738175759",
-      "assetGroup": "Dinari HUT::HUTD",
+      "assetGroup": "HUTD",
       "currencyId": "Dinari HUT::HUTD",
       "tags": ["coingecko"]
     },
@@ -1524,7 +1524,7 @@
       "address": "0xa5d7512c6a3b87ad7bf2f597b93845950f738fdd",
       "symbol": "IAUD",
       "logoURI": "https://assets.coingecko.com/coins/images/54080/thumb/d-token-200.png?1738175780",
-      "assetGroup": "Dinari IAU::IAUD",
+      "assetGroup": "IAUD",
       "currencyId": "Dinari IAU::IAUD",
       "tags": ["coingecko"]
     },
@@ -1623,7 +1623,7 @@
       "address": "0xac402db779eeabcc6c88f0478bb381cd2d0e15f7",
       "symbol": "WALRFD",
       "logoURI": "https://assets.coingecko.com/coins/images/54222/thumb/d-token-200.png?1738860922",
-      "assetGroup": "Dinari WALRF::WALRFD",
+      "assetGroup": "WALRFD",
       "currencyId": "Dinari WALRF::WALRFD",
       "tags": ["coingecko"]
     },
@@ -1634,7 +1634,7 @@
       "address": "0xe3fc0948bdcada331014590987cc624015403874",
       "symbol": "RBLXD",
       "logoURI": "https://assets.coingecko.com/coins/images/54223/thumb/d-token-200.png?1738860997",
-      "assetGroup": "Dinari RBLX::RBLXD",
+      "assetGroup": "RBLXD",
       "currencyId": "Dinari RBLX::RBLXD",
       "tags": ["coingecko"]
     },
@@ -1645,7 +1645,7 @@
       "address": "0x8ad2b97b7fca40af71bfef9857d10bc1bfe70175",
       "symbol": "PGD",
       "logoURI": "https://assets.coingecko.com/coins/images/54269/thumb/d-token-200.png?1738994720",
-      "assetGroup": "Dinari PG::PGD",
+      "assetGroup": "PGD",
       "currencyId": "Dinari PG::PGD",
       "tags": ["coingecko"]
     },
@@ -1656,7 +1656,7 @@
       "address": "0x56de5c6c56f92ecf2da286ea81a0fb74b25f9579",
       "symbol": "PALLD",
       "logoURI": "https://assets.coingecko.com/coins/images/54270/thumb/d-token-200.png?1738994765",
-      "assetGroup": "Dinari PALL::PALLD",
+      "assetGroup": "PALLD",
       "currencyId": "Dinari PALL::PALLD",
       "tags": ["coingecko"]
     },
@@ -1667,7 +1667,7 @@
       "address": "0xbffaea400b56da7b7085a27676d4b72361217e35",
       "symbol": "CCLD",
       "logoURI": "https://assets.coingecko.com/coins/images/54275/thumb/d-token-200.png?1738998063",
-      "assetGroup": "Dinari CCL::CCLD",
+      "assetGroup": "CCLD",
       "currencyId": "Dinari CCL::CCLD",
       "tags": ["coingecko"]
     },
@@ -1678,7 +1678,7 @@
       "address": "0xfafda868581ce31b7ef7fe0b146a24dbb4717a5f",
       "symbol": "FD",
       "logoURI": "https://assets.coingecko.com/coins/images/54276/thumb/d-token-200.png?1738998264",
-      "assetGroup": "Dinari F::FD",
+      "assetGroup": "FD",
       "currencyId": "Dinari F::FD",
       "tags": ["coingecko"]
     },
@@ -1689,7 +1689,7 @@
       "address": "0x771952e0d7701f9d9eeeaf69c51bfdd57cbd6a6a",
       "symbol": "RKLBD",
       "logoURI": "https://assets.coingecko.com/coins/images/54280/thumb/d-token-200.png?1738998854",
-      "assetGroup": "Dinari RKLB::RKLBD",
+      "assetGroup": "RKLBD",
       "currencyId": "Dinari RKLB::RKLBD",
       "tags": ["coingecko"]
     },
@@ -1700,7 +1700,7 @@
       "address": "0x8d7e838f2feaec8b6d7445bfa699f68fe8e97718",
       "symbol": "SIVRD",
       "logoURI": "https://assets.coingecko.com/coins/images/54224/thumb/d-token-200.png?1738861015",
-      "assetGroup": "Dinari SIVR::SIVRD",
+      "assetGroup": "SIVRD",
       "currencyId": "Dinari SIVR::SIVRD",
       "tags": ["coingecko"]
     },
@@ -1711,7 +1711,7 @@
       "address": "0xfecf117ce579acb96e89872af6cc9525980c397c",
       "symbol": "SONYD",
       "logoURI": "https://assets.coingecko.com/coins/images/54225/thumb/d-token-200.png?1738861032",
-      "assetGroup": "Dinari SONY::SONYD",
+      "assetGroup": "SONYD",
       "currencyId": "Dinari SONY::SONYD",
       "tags": ["coingecko"]
     },
@@ -1722,7 +1722,7 @@
       "address": "0xfdc1901e40c708e72661af607a8a027740a08676",
       "symbol": "COSTD",
       "logoURI": "https://assets.coingecko.com/coins/images/54226/thumb/d-token-200.png?1738861053",
-      "assetGroup": "Dinari COST::COSTD",
+      "assetGroup": "COSTD",
       "currencyId": "Dinari COST::COSTD",
       "tags": ["coingecko"]
     },
@@ -1733,7 +1733,7 @@
       "address": "0x399351786afd19dc7524b6af87aad8339f641494",
       "symbol": "DALD",
       "logoURI": "https://assets.coingecko.com/coins/images/54227/thumb/d-token-200.png?1738861070",
-      "assetGroup": "Dinari DAL::DALD",
+      "assetGroup": "DALD",
       "currencyId": "Dinari DAL::DALD",
       "tags": ["coingecko"]
     },
@@ -1744,7 +1744,7 @@
       "address": "0xbba2b55370753e326e2fb68161c240e328218bcf",
       "symbol": "GLDD",
       "logoURI": "https://assets.coingecko.com/coins/images/54228/thumb/d-token-200.png?1738861086",
-      "assetGroup": "Dinari GLD::GLDD",
+      "assetGroup": "GLDD",
       "currencyId": "Dinari GLD::GLDD",
       "tags": ["coingecko"]
     },
@@ -1755,7 +1755,7 @@
       "address": "0x89d0a55a8c2d94c0d4a91c6e3de58dd131ad87fc",
       "symbol": "SQD",
       "logoURI": "https://assets.coingecko.com/coins/images/54229/thumb/d-token-200.png?1738861102",
-      "assetGroup": "Dinari SQ::SQD",
+      "assetGroup": "SQD",
       "currencyId": "Dinari SQ::SQD",
       "tags": ["coingecko"]
     },
@@ -1766,7 +1766,7 @@
       "address": "0x688a880ae19e766c6ad4b749a315ec25034a0645",
       "symbol": "EROD",
       "logoURI": "https://assets.coingecko.com/coins/images/54230/thumb/d-token-200.png?1738861119",
-      "assetGroup": "Dinari ERO::EROD",
+      "assetGroup": "EROD",
       "currencyId": "Dinari ERO::EROD",
       "tags": ["coingecko"]
     },
@@ -1777,7 +1777,7 @@
       "address": "0x4040fe823164384d2b719546557f01136990395b",
       "symbol": "CSCOD",
       "logoURI": "https://assets.coingecko.com/coins/images/54277/thumb/d-token-200.png?1738998301",
-      "assetGroup": "Dinari CSCO::CSCOD",
+      "assetGroup": "CSCOD",
       "currencyId": "Dinari CSCO::CSCOD",
       "tags": ["coingecko"]
     },
@@ -1788,7 +1788,7 @@
       "address": "0xbb4ca8935edcafba90dac55652bb938eb961cb36",
       "symbol": "ITAD",
       "logoURI": "https://assets.coingecko.com/coins/images/54278/thumb/d-token-200.png?1738998357",
-      "assetGroup": "Dinari ITA::ITAD",
+      "assetGroup": "ITAD",
       "currencyId": "Dinari ITA::ITAD",
       "tags": ["coingecko"]
     },
@@ -1799,7 +1799,7 @@
       "address": "0x665b080affb4a7e0ceae3ce88ba0401c864635d8",
       "symbol": "EZBCD",
       "logoURI": "https://assets.coingecko.com/coins/images/54267/thumb/d-token-200.png?1738994496",
-      "assetGroup": "Dinari EZBC::EZBCD",
+      "assetGroup": "EZBCD",
       "currencyId": "Dinari EZBC::EZBCD",
       "tags": ["coingecko"]
     },
@@ -1810,7 +1810,7 @@
       "address": "0xd2c500a8dd36eee1082314d624a46b5ab37c426e",
       "symbol": "SBUXD",
       "logoURI": "https://assets.coingecko.com/coins/images/54364/thumb/d-token-200.png?1739401368",
-      "assetGroup": "Dinari SBUX::SBUXD",
+      "assetGroup": "SBUXD",
       "currencyId": "Dinari SBUX::SBUXD",
       "tags": ["coingecko"]
     },
@@ -1821,7 +1821,7 @@
       "address": "0x0e576b0c554fbaef9893a2cd7b866af516bab581",
       "symbol": "SPSKD",
       "logoURI": "https://assets.coingecko.com/coins/images/54391/thumb/d-token-200.png?1739485728",
-      "assetGroup": "Dinari SPSK::SPSKD",
+      "assetGroup": "SPSKD",
       "currencyId": "Dinari SPSK::SPSKD",
       "tags": ["coingecko"]
     },
@@ -1986,7 +1986,7 @@
       "address": "0x53ca87b939cfdbc90b6f28751e164e77165ae7d4",
       "symbol": "WEATD",
       "logoURI": "https://assets.coingecko.com/coins/images/53872/thumb/d-token-200.png?1737617091",
-      "assetGroup": "Dinari WEAT::WEATD::81457",
+      "assetGroup": "Dinari WEAT::WEATD",
       "currencyId": "Dinari WEAT::WEATD"
     },
     "0xe231db5f348d709239ef1741ea30961b3b635a61": {
