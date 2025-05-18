@@ -9,7 +9,7 @@
       "address": "0xcdd475325d6f564d27247d1dddbb0dac6fa0a5cf",
       "symbol": "WBTC",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
-      "assetGroup": "WBTC (Wrapped WBTC)",
+      "assetGroup": "Wrapped WBTC::WBTC",
       "tags": ["coingecko"]
     },
     "0xdfc7c877a950e49d2610114102175a06c2e3167a": {
@@ -29,7 +29,7 @@
       "address": "0x6863fb62ed27a9ddf458105b507c15b5d741d62e",
       "symbol": "KIM",
       "logoURI": "https://assets.coingecko.com/coins/images/37504/thumb/kim.jpg?1714579040",
-      "assetGroup": "KIM (KIM Token)",
+      "assetGroup": "KIM Token::KIM",
       "tags": ["coingecko"]
     },
     "0x18470019bf0e94611f15852f7e93cf5d65bc34ca": {
@@ -39,7 +39,7 @@
       "address": "0x18470019bf0e94611f15852f7e93cf5d65bc34ca",
       "symbol": "ION",
       "logoURI": "https://assets.coingecko.com/coins/images/36713/thumb/Ionic-icon-green.png?1712127547",
-      "assetGroup": "ION (Ionic Protocol)",
+      "assetGroup": "Ionic Protocol::ION",
       "tags": ["coingecko"]
     },
     "0xa70266c8f8cf33647dcfee763961aff418d9e1e4": {
@@ -49,7 +49,7 @@
       "address": "0xa70266c8f8cf33647dcfee763961aff418d9e1e4",
       "symbol": "IUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/50841/thumb/iUSD.png?1729295402",
-      "assetGroup": "IUSD (Ironclad USD)",
+      "assetGroup": "Ironclad USD::IUSD",
       "tags": ["coingecko"]
     },
     "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2": {
@@ -69,7 +69,7 @@
       "address": "0xcda802a5bffaa02b842651266969a5bba0c66d3e",
       "symbol": "MOCHAD",
       "logoURI": "https://assets.coingecko.com/coins/images/36867/thumb/photo_2024-04-07_21.22.11.png?1712644758",
-      "assetGroup": "MOCHAD (MoChadCoin)"
+      "assetGroup": "MoChadCoin::MOCHAD"
     },
     "0xfda619b6d20975be80a10332cd39b9a4b0faa8bb": {
       "chainId": "34443",
@@ -78,7 +78,7 @@
       "address": "0xfda619b6d20975be80a10332cd39b9a4b0faa8bb",
       "symbol": "SMD",
       "logoURI": "https://assets.coingecko.com/coins/images/36014/thumb/SMDPNG.png?1710326417",
-      "assetGroup": "SMD (SwapMode)",
+      "assetGroup": "SwapMode::SMD",
       "tags": ["coingecko"]
     },
     "0x95177295a394f2b9b04545fff58f4af0673e839d": {
@@ -88,7 +88,7 @@
       "address": "0x95177295a394f2b9b04545fff58f4af0673e839d",
       "symbol": "ICL",
       "logoURI": "https://assets.coingecko.com/coins/images/39300/thumb/Ironclad_LogoMark_v2_YellowBoxed.png?1721628721",
-      "assetGroup": "ICL (Ironclad Token)",
+      "assetGroup": "Ironclad Token::ICL",
       "tags": ["coingecko"]
     },
     "0x4186bfc76e2e237523cbc30fd220fe055156b41f": {
@@ -118,7 +118,7 @@
       "address": "0xf0f161fda2712db8b566946122a5af183995e2ed",
       "symbol": "USDT",
       "logoURI": "https://assets.coingecko.com/coins/images/35808/thumb/usdt_%281%29.png?1709866389",
-      "assetGroup": "USDT",
+      "assetGroup": "Tether USD::USDT",
       "tags": ["coingecko"]
     },
     "0xc53edeafb6d502daec5a7015d67936cea0cd0f52": {
@@ -138,7 +138,7 @@
       "address": "0x3120b4907851cc9d780eef9af88ae4d5360175fd",
       "symbol": "IONUSDT",
       "logoURI": "https://assets.coingecko.com/coins/images/39225/thumb/ionUSDT.png?1721184701",
-      "assetGroup": "IONUSDT (Ionic Tether USD)",
+      "assetGroup": "Ionic Tether USD::IONUSDT",
       "tags": ["coingecko"]
     },
     "0x8b2eea0999876aab1e7955fe01a5d261b570452c": {
@@ -148,7 +148,7 @@
       "address": "0x8b2eea0999876aab1e7955fe01a5d261b570452c",
       "symbol": "WMLT",
       "logoURI": "https://assets.coingecko.com/coins/images/39465/thumb/wmlt.png?1722399984",
-      "assetGroup": "WMLT (BMX  Wrapped Mode Liquidity Token)",
+      "assetGroup": "BMX  Wrapped Mode Liquidity Token::WMLT",
       "tags": ["coingecko"]
     },
     "0x4200000000000000000000000000000000000006": {
@@ -178,7 +178,7 @@
       "address": "0x02f92800f57bcd74066f5709f1daa1a4302df875",
       "symbol": "PEAS",
       "logoURI": "https://assets.coingecko.com/coins/images/33711/thumb/NAzHgbTW_400x400.png?1702856653",
-      "assetGroup": "PEAS (Peapods Finance)",
+      "assetGroup": "Peapods Finance::PEAS",
       "tags": ["coingecko"]
     },
     "0x80eede496655fb9047dd39d9f418d5483ed600df": {
@@ -198,7 +198,7 @@
       "address": "0xfdf91d8289e30bbf9a34fb3e0246fd98d1914c2f",
       "symbol": "DCKUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/39966/thumb/dackie_usd_circle.png?1734941381",
-      "assetGroup": "DCKUSD (Dackie USD)"
+      "assetGroup": "Dackie USD::DCKUSD"
     },
     "0x80137510979822322193fc997d400d5a6c747bf7": {
       "chainId": "34443",
@@ -207,7 +207,7 @@
       "address": "0x80137510979822322193fc997d400d5a6c747bf7",
       "symbol": "STONE",
       "logoURI": "https://assets.coingecko.com/coins/images/33103/thumb/200_200.png?1702602672",
-      "assetGroup": "STONE (StakeStone ETH)",
+      "assetGroup": "STONE",
       "tags": ["coingecko"]
     },
     "0x66eed5ff1701e6ed8470dc391f05e27b1d0657eb": {
@@ -257,7 +257,7 @@
       "address": "0xdfd0660032c2d0d38a9092a43d1669d6568caf71",
       "symbol": "ALEX",
       "logoURI": "https://assets.coingecko.com/coins/images/25837/thumb/ALEX_Token.png?1696524922",
-      "assetGroup": "ALEX (ALEX Lab)",
+      "assetGroup": "ALEX Lab::ALEX",
       "tags": ["coingecko"]
     },
     "0xd2ecb0cb0a65479d18b291c3c0f18130e7973c35": {
@@ -267,7 +267,7 @@
       "address": "0xd2ecb0cb0a65479d18b291c3c0f18130e7973c35",
       "symbol": "QUACK",
       "logoURI": "https://assets.coingecko.com/coins/images/31436/thumb/0x639C0D019C257966C4907bD4E68E3F349bB58109.png?1696530251",
-      "assetGroup": "QUACK (Quack Token)"
+      "assetGroup": "Quack Token::QUACK"
     },
     "0xf15578bcdb3ccba8585c563af9aae200c1413bca": {
       "chainId": "34443",
@@ -276,7 +276,7 @@
       "address": "0xf15578bcdb3ccba8585c563af9aae200c1413bca",
       "symbol": "DACKIE",
       "logoURI": "https://assets.coingecko.com/coins/images/30752/thumb/dackieswap_large.png?1707290196",
-      "assetGroup": "DACKIE (DackieSwap (OLD))",
+      "assetGroup": "DackieSwap (OLD)::DACKIE",
       "tags": ["coingecko"]
     },
     "0x59889b7021243db5b1e065385f918316cd90d46c": {
@@ -296,7 +296,7 @@
       "address": "0x819d1daa794c1c46b841981b61cc978d95a17b8e",
       "symbol": "DUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/28775/thumb/dusd_logo_200x200.png?1696527754",
-      "assetGroup": "DUSD (Davos xyz USD)",
+      "assetGroup": "Davos xyz USD::DUSD",
       "tags": ["coingecko"]
     },
     "0xdf474b7109b73b7d57926d43598d5934131136b2": {
@@ -336,7 +336,7 @@
       "address": "0xd678b48dc9b92626b5c406c3f07a153fb9f23687",
       "symbol": "SDUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/37909/thumb/image_%281%29.png?1715934988",
-      "assetGroup": "SDUSD (Davos Protocol Staked DUSD)",
+      "assetGroup": "Davos Protocol Staked DUSD::SDUSD",
       "tags": ["coingecko"]
     },
     "0xcfd1d50ce23c46d3cf6407487b2f8934e96dc8f9": {
@@ -346,7 +346,7 @@
       "address": "0xcfd1d50ce23c46d3cf6407487b2f8934e96dc8f9",
       "symbol": "OLAS",
       "logoURI": "https://assets.coingecko.com/coins/images/31099/thumb/OLAS-token.png?1696529930",
-      "assetGroup": "OLAS (Autonolas)",
+      "assetGroup": "Autonolas::OLAS",
       "tags": ["coingecko"]
     },
     "0x5bff88ca1442c2496f7e475e9e7786383bc070c0": {
@@ -356,7 +356,7 @@
       "address": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
       "symbol": "SFRXUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/53964/thumb/sfrxUSD.png?1737792232",
-      "assetGroup": "SFRXUSD (Staked Frax USD)",
+      "assetGroup": "Staked Frax USD::SFRXUSD",
       "tags": ["coingecko"]
     },
     "0x541fd749419ca806a8bc7da8ac23d346f2df8b77": {
@@ -376,7 +376,7 @@
       "address": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
       "symbol": "OUSDT",
       "logoURI": "https://assets.coingecko.com/coins/images/54815/thumb/ousdt.jpg?1741848258",
-      "assetGroup": "OUSDT (OpenUSDT)",
+      "assetGroup": "OpenUSDT::OUSDT",
       "tags": ["coingecko"]
     },
     "0x3d63825b0d8669307366e6c8202f656b9e91d368": {
@@ -386,7 +386,7 @@
       "address": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
       "symbol": "WGC",
       "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831",
-      "assetGroup": "WGC (Wild Goat Coin)",
+      "assetGroup": "Wild Goat Coin::WGC",
       "tags": ["coingecko"]
     }
   },

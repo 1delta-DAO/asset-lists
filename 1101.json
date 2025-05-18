@@ -19,7 +19,7 @@
       "address": "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
       "symbol": "USDT",
       "logoURI": "https://assets.coingecko.com/coins/images/35143/thumb/usdt_logo.png?1707467554",
-      "assetGroup": "USDT",
+      "assetGroup": "Tether USD::USDT",
       "tags": ["openocean", "coingecko"]
     },
     "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035": {
@@ -68,7 +68,7 @@
       "address": "0xd4e38eb4a9581e05de8aeb5f895916647b5933f1",
       "symbol": "FJLT-B24",
       "logoURI": "https://assets.coingecko.com/coins/images/36305/thumb/Artboard_1fJLT-B24.png?1711090025",
-      "assetGroup": "FJLT-B24 (Forwards Rec BH 2024)",
+      "assetGroup": "Forwards Rec BH 2024::FJLT-B24",
       "tags": ["coingecko"]
     },
     "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8": {
@@ -78,7 +78,7 @@
       "address": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8",
       "symbol": "GYD",
       "logoURI": "https://assets.coingecko.com/coins/images/33428/thumb/GYD-gradient_resized_transparent.png?1702316822",
-      "assetGroup": "GYD (Gyroscope GYD)",
+      "assetGroup": "Gyroscope GYD::GYD",
       "tags": ["coingecko"]
     },
     "0x83b874c1e09d316059d929da402dcb1a98e92082": {
@@ -98,7 +98,7 @@
       "address": "0x7320b543a4ce46a691a2cf317f1157a0b5059d43",
       "symbol": "XCCX",
       "logoURI": "https://assets.coingecko.com/coins/images/32276/thumb/xccxx.png?1697180263",
-      "assetGroup": "XCCX (BlockChainCoinX)",
+      "assetGroup": "BlockChainCoinX::XCCX",
       "tags": ["coingecko"]
     },
     "0xddafb91475bbf6210a151fa911ac8fda7de46ec2": {
@@ -108,7 +108,7 @@
       "address": "0xddafb91475bbf6210a151fa911ac8fda7de46ec2",
       "symbol": "GIV",
       "logoURI": "https://assets.coingecko.com/coins/images/21792/thumb/GIVToken_200x200.png?1722577147",
-      "assetGroup": "GIV (Giveth)",
+      "assetGroup": "Giveth::GIV",
       "tags": ["coingecko"]
     },
     "0xff8544fed5379d9ffa8d47a74ce6b91e632ac44d": {
@@ -128,7 +128,7 @@
       "address": "0x68286607a1d43602d880d349187c3c48c0fd05e6",
       "symbol": "QUICK",
       "logoURI": "https://assets.coingecko.com/coins/images/25393/thumb/quickswap.png?1696524525",
-      "assetGroup": "QUICK (Quickswap)",
+      "assetGroup": "Quickswap::QUICK",
       "tags": ["coingecko"]
     },
     "0x6b856a14cea1d7dcfaf80fa6936c0b75972ccace": {
@@ -148,7 +148,7 @@
       "address": "0xcf7ecee185f19e2e970a301ee37f93536ed66179",
       "symbol": "FRXETH",
       "logoURI": "https://assets.coingecko.com/coins/images/28284/thumb/frxETH_icon.png?1696527284",
-      "assetGroup": "FRXETH (Frax Ether)",
+      "assetGroup": "Frax Ether::FRXETH",
       "tags": ["coingecko"]
     },
     "0x40df0c3bbaae5ea3a509d8f2aa9e086776c98e6c": {
@@ -158,7 +158,7 @@
       "address": "0x40df0c3bbaae5ea3a509d8f2aa9e086776c98e6c",
       "symbol": "ATF",
       "logoURI": "https://assets.coingecko.com/coins/images/28821/thumb/ATF.png?1696527797",
-      "assetGroup": "ATF (Antfarm Token)",
+      "assetGroup": "Antfarm Token::ATF",
       "tags": ["coingecko"]
     },
     "0xa2036f0538221a77a3937f1379699f44945018d0": {
@@ -188,7 +188,7 @@
       "address": "0x3b6564b5da73a41d3a66e6558a98fd0e9e1e77ad",
       "symbol": "UTS",
       "logoURI": "https://assets.coingecko.com/coins/images/33178/thumb/IMG_0051.jpeg?1700924333",
-      "assetGroup": "UTS (Unitus)",
+      "assetGroup": "Unitus::UTS",
       "tags": ["coingecko"]
     },
     "0x819d1daa794c1c46b841981b61cc978d95a17b8e": {
@@ -198,7 +198,7 @@
       "address": "0x819d1daa794c1c46b841981b61cc978d95a17b8e",
       "symbol": "DUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/28775/thumb/dusd_logo_200x200.png?1696527754",
-      "assetGroup": "DUSD (Davos xyz USD)",
+      "assetGroup": "Davos xyz USD::DUSD",
       "tags": ["coingecko"]
     },
     "0x6a80a465409ce8d36c513129c0feea61bed579ba": {
@@ -238,7 +238,7 @@
       "address": "0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31",
       "symbol": "ITP",
       "logoURI": "https://assets.coingecko.com/coins/images/28338/thumb/ITP_Logo_200.png?1696527344",
-      "assetGroup": "ITP (Interport Token)",
+      "assetGroup": "Interport Token::ITP",
       "tags": ["coingecko"]
     },
     "0xd507361174a0fde521bf8c097ef19dd31ffca710": {
@@ -248,7 +248,7 @@
       "address": "0xd507361174a0fde521bf8c097ef19dd31ffca710",
       "symbol": "AMU",
       "logoURI": "https://assets.coingecko.com/coins/images/34716/thumb/AMT200x200.png?1705904544",
-      "assetGroup": "AMU (Amulet Protocol)",
+      "assetGroup": "Amulet Protocol::AMU",
       "tags": ["coingecko"]
     },
     "0x0d1e753a25ebda689453309112904807625befbe": {
@@ -268,7 +268,7 @@
       "address": "0x62e2ea221e8fe0233ccabc0297b542b16ef3e8fa",
       "symbol": "SLN",
       "logoURI": "https://assets.coingecko.com/coins/images/35397/thumb/sln.jpeg?1708488815",
-      "assetGroup": "SLN (Smart Layer Network)",
+      "assetGroup": "Smart Layer Network::SLN",
       "tags": ["coingecko"]
     }
   },

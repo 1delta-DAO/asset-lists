@@ -9,7 +9,7 @@
       "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
       "symbol": "Anon",
       "logoURI": "https://assets.coingecko.com/coins/images/52961/thumb/AAI__ANON_SQ_Wb_250x250.png?1740500195",
-      "assetGroup": "Anon (HeyAnon)",
+      "assetGroup": "HeyAnon::Anon",
       "tags": ["coingecko"]
     },
     "0x71e99522ead5e21cf57f1f542dc4ad2e841f7321": {
@@ -19,7 +19,7 @@
       "address": "0x71e99522ead5e21cf57f1f542dc4ad2e841f7321",
       "symbol": "METRO",
       "logoURI": "https://assets.coingecko.com/coins/images/54040/thumb/metropolis_logo_square.png?1738076053",
-      "assetGroup": "METRO (Metropolis Token)",
+      "assetGroup": "Metropolis Token::METRO",
       "tags": ["coingecko"]
     },
     "0x29219dd400f2bf60e5a23d13be72b486d4038894": {
@@ -49,7 +49,7 @@
       "address": "0xe51ee9868c1f0d6cd968a8b8c8376dc2991bfe44",
       "symbol": "BRUSH",
       "logoURI": "https://assets.coingecko.com/coins/images/18579/thumb/ps-cmc-200x200.png?1707862125",
-      "assetGroup": "BRUSH (PaintSwap)",
+      "assetGroup": "PaintSwap::BRUSH",
       "tags": ["coingecko"]
     },
     "0x6881b80ea7c858e4aeef63893e18a8a36f3682f3": {
@@ -59,7 +59,7 @@
       "address": "0x6881b80ea7c858e4aeef63893e18a8a36f3682f3",
       "symbol": "NAVI",
       "logoURI": "https://assets.coingecko.com/coins/images/28547/thumb/navi.jpg?1736302094",
-      "assetGroup": "NAVI (NAVI)",
+      "assetGroup": "NAVI::NAVI",
       "tags": ["coingecko"]
     },
     "0x7a08bf5304094ca4c7b4132ef62b5edc4a3478b7": {
@@ -69,7 +69,7 @@
       "address": "0x7a08bf5304094ca4c7b4132ef62b5edc4a3478b7",
       "symbol": "ECO",
       "logoURI": "https://assets.coingecko.com/coins/images/53346/thumb/eco_logo_100x100_0xb8a32897016c1b2ee0797090162eafe58f032795.png?1736163012",
-      "assetGroup": "ECO (SonicEco)",
+      "assetGroup": "SonicEco::ECO",
       "tags": ["coingecko"]
     },
     "0x0e0ce4d450c705f8a0b6dd9d5123e3df2787d16b": {
@@ -79,7 +79,7 @@
       "address": "0x0e0ce4d450c705f8a0b6dd9d5123e3df2787d16b",
       "symbol": "WAGMI",
       "logoURI": "https://assets.coingecko.com/coins/images/31887/thumb/wagmi_token_logo.png?1696530698",
-      "assetGroup": "WAGMI (Wagmi)",
+      "assetGroup": "Wagmi::WAGMI",
       "tags": ["coingecko"]
     },
     "0xddf26b42c1d903de8962d3f79a74a501420d5f19": {
@@ -89,7 +89,7 @@
       "address": "0xddf26b42c1d903de8962d3f79a74a501420d5f19",
       "symbol": "EQUAL",
       "logoURI": "https://assets.coingecko.com/coins/images/53369/thumb/hq_png_icon_file.png?1736204170",
-      "assetGroup": "EQUAL (Equalizer on Sonic)",
+      "assetGroup": "Equalizer on Sonic::EQUAL",
       "tags": ["coingecko"]
     },
     "0x2d0e0814e62d80056181f5cd932274405966e4f0": {
@@ -99,7 +99,7 @@
       "address": "0x2d0e0814e62d80056181f5cd932274405966e4f0",
       "symbol": "BEETS",
       "logoURI": "https://assets.coingecko.com/coins/images/53249/thumb/beets.png?1735873104",
-      "assetGroup": "BEETS (Beets)",
+      "assetGroup": "Beets::BEETS",
       "tags": ["coingecko"]
     },
     "0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38": {
@@ -109,7 +109,7 @@
       "address": "0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38",
       "symbol": "wS",
       "logoURI": "https://assets.coingecko.com/coins/images/52857/thumb/wrapped_sonic.png?1734536585",
-      "assetGroup": "wS (Wrapped Sonic)",
+      "assetGroup": "Wrapped Sonic::wS",
       "tags": ["coingecko"]
     },
     "0xb0695ce12c56aae40894235e2d1888d0b62dd110": {
@@ -119,7 +119,7 @@
       "address": "0xb0695ce12c56aae40894235e2d1888d0b62dd110",
       "symbol": "FIVE",
       "logoURI": "https://assets.coingecko.com/coins/images/53201/thumb/DeFive_White.png?1740824001",
-      "assetGroup": "FIVE (DeFive)",
+      "assetGroup": "DeFive::FIVE",
       "tags": ["coingecko"]
     },
     "0xe715cba7b5ccb33790cebff1436809d36cb17e57": {
@@ -129,7 +129,7 @@
       "address": "0xe715cba7b5ccb33790cebff1436809d36cb17e57",
       "symbol": "EURC.e",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/146/0xe715cbA7B5cCb33790ceBFF1436809d36cb17E57.png",
-      "assetGroup": "EURC.e (Bridged EURC (Sonic Labs))",
+      "assetGroup": "Bridged EURC (Sonic Labs)::EURC.e",
       "tags": ["bridged"]
     },
     "0x6fb9897896fe5d05025eb43306675727887d0b7c": {
@@ -139,7 +139,7 @@
       "address": "0x6fb9897896fe5d05025eb43306675727887d0b7c",
       "symbol": "HEDGY",
       "logoURI": "https://assets.coingecko.com/coins/images/51742/thumb/cVKJGU_W_400x400.jpg?1731923818",
-      "assetGroup": "HEDGY (HEDGY the hedgehog)",
+      "assetGroup": "HEDGY the hedgehog::HEDGY",
       "tags": ["coingecko"]
     },
     "0x7b0a41f0c17474e41a0c36c0bf33b9aed06ee9f5": {
@@ -149,7 +149,7 @@
       "address": "0x7b0a41f0c17474e41a0c36c0bf33b9aed06ee9f5",
       "symbol": "SNS",
       "logoURI": "https://assets.coingecko.com/coins/images/51377/thumb/ua-dexifCHbOtcGHHcvE.jpg?1730964998",
-      "assetGroup": "SNS (Sonic Name Service)",
+      "assetGroup": "Sonic Name Service::SNS",
       "tags": ["coingecko"]
     },
     "0xc0da8629599b364eb0a8921a477fb80440a68bd4": {
@@ -159,7 +159,7 @@
       "address": "0xc0da8629599b364eb0a8921a477fb80440a68bd4",
       "symbol": "LUMOS",
       "logoURI": "https://assets.coingecko.com/coins/images/39362/thumb/Lumos.png?1740321762",
-      "assetGroup": "LUMOS (Lumos)",
+      "assetGroup": "Lumos::LUMOS",
       "tags": ["coingecko"]
     },
     "0x9fdbc3f8abc05fa8f3ad3c17d2f806c1230c4564": {
@@ -169,7 +169,7 @@
       "address": "0x9fdbc3f8abc05fa8f3ad3c17d2f806c1230c4564",
       "symbol": "GOGLZ",
       "logoURI": "https://assets.coingecko.com/coins/images/53257/thumb/goglz_2.png?1735902919",
-      "assetGroup": "GOGLZ (GOGGLES)",
+      "assetGroup": "GOGGLES::GOGLZ",
       "tags": ["coingecko"]
     },
     "0xbf5899166ac476370b3117c9256b7fc45624f4ea": {
@@ -179,7 +179,7 @@
       "address": "0xbf5899166ac476370b3117c9256b7fc45624f4ea",
       "symbol": "GFI",
       "logoURI": "https://assets.coingecko.com/coins/images/53375/thumb/gfi.jpg?1736225444",
-      "assetGroup": "GFI (Gravity Finance)",
+      "assetGroup": "Gravity Finance::GFI",
       "tags": ["coingecko"]
     },
     "0x3333111a391cc08fa51353e9195526a70b333333": {
@@ -189,7 +189,7 @@
       "address": "0x3333111a391cc08fa51353e9195526a70b333333",
       "symbol": "X33",
       "logoURI": "https://assets.coingecko.com/coins/images/54526/thumb/shadow_liquid_staking_token17400.jpg?1740148577",
-      "assetGroup": "X33 (Shadow Liquid Staking Token)",
+      "assetGroup": "Shadow Liquid Staking Token::X33",
       "tags": ["coingecko"]
     },
     "0xbc0d0650412ef353d672c0bbd12efff90591b251": {
@@ -199,7 +199,7 @@
       "address": "0xbc0d0650412ef353d672c0bbd12efff90591b251",
       "symbol": "FS",
       "logoURI": "https://assets.coingecko.com/coins/images/19821/thumb/13237.png?1696519240",
-      "assetGroup": "FS (FutureStarter)",
+      "assetGroup": "FutureStarter::FS",
       "tags": ["coingecko"]
     },
     "0x59524d5667b299c0813ba3c99a11c038a3908fbc": {
@@ -209,7 +209,7 @@
       "address": "0x59524d5667b299c0813ba3c99a11c038a3908fbc",
       "symbol": "YOKO",
       "logoURI": "https://assets.coingecko.com/coins/images/54014/thumb/YOKOLOGO_9.png?1737974364",
-      "assetGroup": "YOKO (Yoko)",
+      "assetGroup": "Yoko::YOKO",
       "tags": ["coingecko"]
     },
     "0x8ad39144b37741573f85aa03d6c3e817a0054161": {
@@ -219,7 +219,7 @@
       "address": "0x8ad39144b37741573f85aa03d6c3e817a0054161",
       "symbol": "FA",
       "logoURI": "https://assets.coingecko.com/coins/images/54414/thumb/_Final__Token_Symbol_200.png?1739555103",
-      "assetGroup": "FA (Fate Adventure)",
+      "assetGroup": "Fate Adventure::FA",
       "tags": ["coingecko"]
     },
     "0xf26ff70573ddc8a90bd7865af8d7d70b8ff019bc": {
@@ -229,7 +229,7 @@
       "address": "0xf26ff70573ddc8a90bd7865af8d7d70b8ff019bc",
       "symbol": "EGGS",
       "logoURI": "https://assets.coingecko.com/coins/images/54477/thumb/eggs-logo200px.png?1739954642",
-      "assetGroup": "EGGS (Eggs Finance)",
+      "assetGroup": "Eggs Finance::EGGS",
       "tags": ["coingecko"]
     },
     "0x78a76316f66224cbaca6e70acb24d5ee5b2bd2c7": {
@@ -239,7 +239,7 @@
       "address": "0x78a76316f66224cbaca6e70acb24d5ee5b2bd2c7",
       "symbol": "STBL",
       "logoURI": "https://assets.coingecko.com/coins/images/54772/thumb/STBL_Logo_%281%29.png?1741445415",
-      "assetGroup": "STBL (Stability)",
+      "assetGroup": "Stability::STBL",
       "tags": ["coingecko"]
     },
     "0x446649f0727621bdbb76644b1910be2163b62a11": {
@@ -249,7 +249,7 @@
       "address": "0x446649f0727621bdbb76644b1910be2163b62a11",
       "symbol": "SONIC",
       "logoURI": "https://assets.coingecko.com/coins/images/53254/thumb/sonic-dyorswap.jpg?1735896701",
-      "assetGroup": "SONIC (Sonic)",
+      "assetGroup": "Sonic::SONIC",
       "tags": ["coingecko"]
     },
     "0x63a522f6e7d5b96f7aebb74d2648545e9e14078d": {
@@ -259,7 +259,7 @@
       "address": "0x63a522f6e7d5b96f7aebb74d2648545e9e14078d",
       "symbol": "CONK",
       "logoURI": "https://assets.coingecko.com/coins/images/29080/thumb/conk.png?1696528045",
-      "assetGroup": "CONK (ShibaPoconk)",
+      "assetGroup": "ShibaPoconk::CONK",
       "tags": ["coingecko"]
     },
     "0x7f883da3b0d77978075f7c9c03e1b9f461ca1b8d": {
@@ -269,7 +269,7 @@
       "address": "0x7f883da3b0d77978075f7c9c03e1b9f461ca1b8d",
       "symbol": "WOOF",
       "logoURI": "https://assets.coingecko.com/coins/images/54318/thumb/muttski.jpg?1739233507",
-      "assetGroup": "WOOF (Muttski)",
+      "assetGroup": "Muttski::WOOF",
       "tags": ["coingecko"]
     },
     "0x3333b97138d4b086720b5ae8a7844b1345a33333": {
@@ -279,7 +279,7 @@
       "address": "0x3333b97138d4b086720b5ae8a7844b1345a33333",
       "symbol": "SHADOW",
       "logoURI": "https://assets.coingecko.com/coins/images/53747/thumb/tokenbg.png?1737180639",
-      "assetGroup": "SHADOW (Shadow)",
+      "assetGroup": "Shadow::SHADOW",
       "tags": ["coingecko"]
     },
     "0xb1e25689d55734fd3fffc939c4c3eb52dff8a794": {
@@ -289,7 +289,7 @@
       "address": "0xb1e25689d55734fd3fffc939c4c3eb52dff8a794",
       "symbol": "OS",
       "logoURI": "https://assets.coingecko.com/coins/images/53773/thumb/os-256x256.png?1737271726",
-      "assetGroup": "OS (Origin Sonic)",
+      "assetGroup": "Origin Sonic::OS",
       "tags": ["coingecko"]
     },
     "0x131f5ae1cbfefe8efbdf93da23fa4d39f14a817c": {
@@ -299,7 +299,7 @@
       "address": "0x131f5ae1cbfefe8efbdf93da23fa4d39f14a817c",
       "symbol": "FROQ",
       "logoURI": "https://assets.coingecko.com/coins/images/52976/thumb/frogcoin-export_256.png?1734885112",
-      "assetGroup": "FROQ (FROQ)",
+      "assetGroup": "FROQ::FROQ",
       "tags": ["coingecko"]
     },
     "0x41211648c51acb9a5f39a93c657e894a0bdb88e4": {
@@ -309,7 +309,7 @@
       "address": "0x41211648c51acb9a5f39a93c657e894a0bdb88e4",
       "symbol": "TAILS",
       "logoURI": "https://assets.coingecko.com/coins/images/53277/thumb/new_logo.png?1735923559",
-      "assetGroup": "TAILS (Tails)",
+      "assetGroup": "Tails::TAILS",
       "tags": ["coingecko"]
     },
     "0xa04bc7140c26fc9bb1f36b1a604c7a5a88fb0e70": {
@@ -319,7 +319,7 @@
       "address": "0xa04bc7140c26fc9bb1f36b1a604c7a5a88fb0e70",
       "symbol": "SWPX",
       "logoURI": "https://assets.coingecko.com/coins/images/53530/thumb/IMG_6986.jpeg?1736579863",
-      "assetGroup": "SWPX (SwapX)",
+      "assetGroup": "SwapX::SWPX",
       "tags": ["coingecko"]
     },
     "0x005851f943ee2957b1748957f26319e4f9edebc1": {
@@ -329,7 +329,7 @@
       "address": "0x005851f943ee2957b1748957f26319e4f9edebc1",
       "symbol": "AG",
       "logoURI": "https://assets.coingecko.com/coins/images/52967/thumb/SS_logo.png?1734881325",
-      "assetGroup": "AG (Silver)",
+      "assetGroup": "Silver::AG",
       "tags": ["coingecko"]
     },
     "0x674a430f531847a6f8976a900f8ace765f896a1b": {
@@ -339,7 +339,7 @@
       "address": "0x674a430f531847a6f8976a900f8ace765f896a1b",
       "symbol": "GSNAKE",
       "logoURI": "https://assets.coingecko.com/coins/images/54749/thumb/gsnake_logo.png?1741335570",
-      "assetGroup": "GSNAKE (gSNAKE)",
+      "assetGroup": "gSNAKE::GSNAKE",
       "tags": ["coingecko"]
     },
     "0x89f0462e56930cfea4a481c1b9a0d26fa8bd94e6": {
@@ -349,7 +349,7 @@
       "address": "0x89f0462e56930cfea4a481c1b9a0d26fa8bd94e6",
       "symbol": "BRNX",
       "logoURI": "https://assets.coingecko.com/coins/images/54670/thumb/_7fb37859-d9ab-499f-ae08-76b52afec310.jpeg?1740935217",
-      "assetGroup": "BRNX (BurnX)",
+      "assetGroup": "BurnX::BRNX",
       "tags": ["coingecko"]
     },
     "0x9f0df7799f6fdad409300080cff680f5a23df4b1": {
@@ -359,7 +359,7 @@
       "address": "0x9f0df7799f6fdad409300080cff680f5a23df4b1",
       "symbol": "WOS",
       "logoURI": "https://assets.coingecko.com/coins/images/53774/thumb/wos-256x256.png?1737271865",
-      "assetGroup": "WOS (Wrapped Origin Sonic)",
+      "assetGroup": "Wrapped Origin Sonic::WOS",
       "tags": ["coingecko"]
     },
     "0x3bce5cb273f0f148010bbea2470e7b5df84c7812": {
@@ -369,7 +369,7 @@
       "address": "0x3bce5cb273f0f148010bbea2470e7b5df84c7812",
       "symbol": "SCETH",
       "logoURI": "https://assets.coingecko.com/coins/images/54461/thumb/sceth.png?1739847097",
-      "assetGroup": "SCETH (Rings scETH)",
+      "assetGroup": "Rings scETH::SCETH",
       "tags": ["coingecko"]
     },
     "0xe6cc4d855b4fd4a9d02f46b9adae4c5efb1764b5": {
@@ -379,7 +379,7 @@
       "address": "0xe6cc4d855b4fd4a9d02f46b9adae4c5efb1764b5",
       "symbol": "LUDWIG",
       "logoURI": "https://assets.coingecko.com/coins/images/54544/thumb/Ludwig_Wif_Goggles_Logo_200x200.png?1740219187",
-      "assetGroup": "LUDWIG (LUDWIG)",
+      "assetGroup": "LUDWIG::LUDWIG",
       "tags": ["coingecko"]
     },
     "0x5fd9cd00c975ccedb4298a562d132fb2683164d9": {
@@ -389,7 +389,7 @@
       "address": "0x5fd9cd00c975ccedb4298a562d132fb2683164d9",
       "symbol": "SPINDASH",
       "logoURI": "https://assets.coingecko.com/coins/images/54769/thumb/AA.png?1742108440",
-      "assetGroup": "SPINDASH (SpinDash)",
+      "assetGroup": "SpinDash::SPINDASH",
       "tags": ["coingecko"]
     },
     "0x3a516e01f82c1e18916ed69a81dd498ef64bb157": {
@@ -399,7 +399,7 @@
       "address": "0x3a516e01f82c1e18916ed69a81dd498ef64bb157",
       "symbol": "SNAKE",
       "logoURI": "https://assets.coingecko.com/coins/images/54855/thumb/logo192.png?1742106374",
-      "assetGroup": "SNAKE (SNAKE)",
+      "assetGroup": "SNAKE::SNAKE",
       "tags": ["coingecko"]
     },
     "0x284d81e48fbc782aa9186a03a226690aea5cbe0e": {
@@ -409,7 +409,7 @@
       "address": "0x284d81e48fbc782aa9186a03a226690aea5cbe0e",
       "symbol": "ATETH",
       "logoURI": "https://assets.coingecko.com/coins/images/53797/thumb/IMG_7045.jpeg?1737477230",
-      "assetGroup": "ATETH (Atoll ETH)",
+      "assetGroup": "Atoll ETH::ATETH",
       "tags": ["coingecko"]
     },
     "0xe5da20f15420ad15de0fa650600afc998bbe3955": {
@@ -419,7 +419,7 @@
       "address": "0xe5da20f15420ad15de0fa650600afc998bbe3955",
       "symbol": "STS",
       "logoURI": "https://assets.coingecko.com/coins/images/52937/thumb/token-beets-staked-sonic.png?1734712659",
-      "assetGroup": "STS (Beets Staked Sonic)",
+      "assetGroup": "Beets Staked Sonic::STS",
       "tags": ["coingecko"]
     },
     "0x068e9e009fda970fa953e1f6a43d982ca991f4ba": {
@@ -429,7 +429,7 @@
       "address": "0x068e9e009fda970fa953e1f6a43d982ca991f4ba",
       "symbol": "WHALE",
       "logoURI": "https://assets.coingecko.com/coins/images/53500/thumb/2b3a9148-f517-4e6a-8fd2-968b296f1187.JPG?1736515208",
-      "assetGroup": "WHALE (Whale Ecosystem)",
+      "assetGroup": "Whale Ecosystem::WHALE",
       "tags": ["coingecko"]
     },
     "0x4eec869d847a6d13b0f6d1733c5dec0d1e741b4f": {
@@ -439,7 +439,7 @@
       "address": "0x4eec869d847a6d13b0f6d1733c5dec0d1e741b4f",
       "symbol": "INDI",
       "logoURI": "https://assets.coingecko.com/coins/images/52926/thumb/photo_2024-12-12_12-50-37.jpg?1734706774",
-      "assetGroup": "INDI (Indi)",
+      "assetGroup": "Indi::INDI",
       "tags": ["coingecko"]
     },
     "0xe920d1da9a4d59126dc35996ea242d60efca1304": {
@@ -449,7 +449,7 @@
       "address": "0xe920d1da9a4d59126dc35996ea242d60efca1304",
       "symbol": "DERP",
       "logoURI": "https://assets.coingecko.com/coins/images/53307/thumb/DERP_TOKEN.png?1736066460",
-      "assetGroup": "DERP (Derp)",
+      "assetGroup": "Derp::DERP",
       "tags": ["coingecko"]
     },
     "0x486b6fa0419b33a0c7a6e4698c231d7e2f2d5299": {
@@ -459,7 +459,7 @@
       "address": "0x486b6fa0419b33a0c7a6e4698c231d7e2f2d5299",
       "symbol": "MOON",
       "logoURI": "https://assets.coingecko.com/coins/images/53021/thumb/moonbay.png?1735003620",
-      "assetGroup": "MOON (Moon Bay)",
+      "assetGroup": "Moon Bay::MOON",
       "tags": ["coingecko"]
     },
     "0x7ad5935ea295c4e743e4f2f5b4cda951f41223c2": {
@@ -469,7 +469,7 @@
       "address": "0x7ad5935ea295c4e743e4f2f5b4cda951f41223c2",
       "symbol": "SACRA",
       "logoURI": "https://assets.coingecko.com/coins/images/53465/thumb/sacra_red-and-white-1200px.png?1736452758",
-      "assetGroup": "SACRA (SACRA)",
+      "assetGroup": "SACRA::SACRA",
       "tags": ["coingecko"]
     },
     "0x05e31a691405d06708a355c029599c12d5da8b28": {
@@ -479,7 +479,7 @@
       "address": "0x05e31a691405d06708a355c029599c12d5da8b28",
       "symbol": "FSONIC",
       "logoURI": "https://assets.coingecko.com/coins/images/53278/thumb/VaSB8Eil_400x400.jpg?1735953637",
-      "assetGroup": "FSONIC (Fantomsonicinu)",
+      "assetGroup": "Fantomsonicinu::FSONIC",
       "tags": ["coingecko"]
     },
     "0xf4f9c50455c698834bb645089dbaa89093b93838": {
@@ -489,7 +489,7 @@
       "address": "0xf4f9c50455c698834bb645089dbaa89093b93838",
       "symbol": "TOONA",
       "logoURI": "https://assets.coingecko.com/coins/images/52036/thumb/pfpp.jpg?1732381221",
-      "assetGroup": "TOONA (toona)",
+      "assetGroup": "toona::TOONA",
       "tags": ["coingecko"]
     },
     "0x65a3e654790a2b7ed80afca646caaebaa84db4df": {
@@ -509,7 +509,7 @@
       "address": "0x17af1df44444ab9091622e4aa66db5bb34e51ad5",
       "symbol": "THC",
       "logoURI": "https://assets.coingecko.com/coins/images/35911/thumb/photo_2024-01-16_17-31-36-removebg-preview.png?1710180825",
-      "assetGroup": "THC (TinHatCat)",
+      "assetGroup": "TinHatCat::THC",
       "tags": ["coingecko"]
     },
     "0xcbfe13919530cb054b9cabbf9cda1dd1d811e3e6": {
@@ -519,7 +519,7 @@
       "address": "0xcbfe13919530cb054b9cabbf9cda1dd1d811e3e6",
       "symbol": "COAL",
       "logoURI": "https://assets.coingecko.com/coins/images/54831/thumb/Transparent_Logo.png?1741953527",
-      "assetGroup": "COAL (Coal)",
+      "assetGroup": "Coal::COAL",
       "tags": ["coingecko"]
     },
     "0xc97d74d05eff009027bee8514c310a0b1e2d1c3c": {
@@ -529,7 +529,7 @@
       "address": "0xc97d74d05eff009027bee8514c310a0b1e2d1c3c",
       "symbol": "TRIBE",
       "logoURI": "https://assets.coingecko.com/coins/images/54556/thumb/tribe_logo.png?1740312061",
-      "assetGroup": "TRIBE (Tribe)",
+      "assetGroup": "Tribe::TRIBE",
       "tags": ["coingecko"]
     },
     "0xe53afa646d48e9ef68fcd559f2a598880a3f1370": {
@@ -539,7 +539,7 @@
       "address": "0xe53afa646d48e9ef68fcd559f2a598880a3f1370",
       "symbol": "PLUS",
       "logoURI": "https://assets.coingecko.com/coins/images/37511/thumb/cmc-cg.png?1714620294",
-      "assetGroup": "PLUS (Plus Bet)"
+      "assetGroup": "Plus Bet::PLUS"
     },
     "0x1e2c4fb7ede391d116e6b41cd0608260e8801d59": {
       "chainId": "146",
@@ -548,7 +548,7 @@
       "address": "0x1e2c4fb7ede391d116e6b41cd0608260e8801d59",
       "symbol": "BCSPX",
       "logoURI": "https://assets.coingecko.com/coins/images/31891/thumb/bCSPX_200p.png?1740041074",
-      "assetGroup": "BCSPX (Backed CSPX Core S P 500)",
+      "assetGroup": "Backed CSPX Core S P 500::BCSPX",
       "tags": ["coingecko"]
     },
     "0x949185d3be66775ea648f4a306740ea9eff9c567": {
@@ -558,7 +558,7 @@
       "address": "0x949185d3be66775ea648f4a306740ea9eff9c567",
       "symbol": "YEL",
       "logoURI": "https://assets.coingecko.com/coins/images/17429/thumb/Logo200.png?1696516976",
-      "assetGroup": "YEL (Yel Finance)",
+      "assetGroup": "Yel Finance::YEL",
       "tags": ["coingecko"]
     },
     "0x841aef70237a88027ccb2d15c1bbaf88a669674a": {
@@ -568,7 +568,7 @@
       "address": "0x841aef70237a88027ccb2d15c1bbaf88a669674a",
       "symbol": "SPACE",
       "logoURI": "https://assets.coingecko.com/coins/images/20676/thumb/jYw3kgsY_400x400.png?1696520076",
-      "assetGroup": "SPACE (Space Token)",
+      "assetGroup": "Space Token::SPACE",
       "tags": ["coingecko"]
     },
     "0x61647882acf21792e577a963d320d51e2c8f6194": {
@@ -578,7 +578,7 @@
       "address": "0x61647882acf21792e577a963d320d51e2c8f6194",
       "symbol": "OGN",
       "logoURI": "https://assets.coingecko.com/coins/images/3296/thumb/op.jpg?1696504006",
-      "assetGroup": "OGN (Origin Token)",
+      "assetGroup": "Origin Token::OGN",
       "tags": ["coingecko"]
     },
     "0x70e7f1d907e30efb18fe1dd8a1d75c09a98177d3": {
@@ -588,7 +588,7 @@
       "address": "0x70e7f1d907e30efb18fe1dd8a1d75c09a98177d3",
       "symbol": "JEFE",
       "logoURI": "https://assets.coingecko.com/coins/images/25336/thumb/JEFE_200.png?1696524470",
-      "assetGroup": "JEFE (Jefe)",
+      "assetGroup": "Jefe::JEFE",
       "tags": ["coingecko"]
     },
     "0xac611438ae5f3953dedb47c2ea8d6650d601c1b4": {
@@ -598,7 +598,7 @@
       "address": "0xac611438ae5f3953dedb47c2ea8d6650d601c1b4",
       "symbol": "AMP",
       "logoURI": "https://assets.coingecko.com/coins/images/37421/thumb/AmpedLogoTrans-200.png?1714377313",
-      "assetGroup": "AMP (Amped Finance)",
+      "assetGroup": "Amped Finance::AMP",
       "tags": ["coingecko"]
     },
     "0x541fd749419ca806a8bc7da8ac23d346f2df8b77": {
@@ -618,7 +618,7 @@
       "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
       "symbol": "frxUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154",
-      "assetGroup": "frxUSD (Frax USD)",
+      "assetGroup": "FRXUSD",
       "tags": ["coingecko"]
     },
     "0xd3dce716f3ef535c5ff8d041c1a41c3bd89b97ae": {
@@ -628,7 +628,7 @@
       "address": "0xd3dce716f3ef535c5ff8d041c1a41c3bd89b97ae",
       "symbol": "SCUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/53456/thumb/scusd_%281%29.png?1736404738",
-      "assetGroup": "SCUSD (Rings scUSD)",
+      "assetGroup": "Rings scUSD::SCUSD",
       "tags": ["coingecko"]
     },
     "0x5bff88ca1442c2496f7e475e9e7786383bc070c0": {
@@ -638,7 +638,7 @@
       "address": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
       "symbol": "SFRXUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/53964/thumb/sfrxUSD.png?1737792232",
-      "assetGroup": "SFRXUSD (Staked Frax USD)",
+      "assetGroup": "Staked Frax USD::SFRXUSD",
       "tags": ["coingecko"]
     },
     "0xcc0966d8418d412c599a6421b760a847eb169a8c": {
@@ -658,7 +658,7 @@
       "address": "0xe4a4353cd8f008f1a70f1a564535990479e8ceb7",
       "symbol": "PAL",
       "logoURI": "https://assets.coingecko.com/coins/images/24558/thumb/PAL-Token-dark_%281%29.png?1735661952",
-      "assetGroup": "PAL (Paladin)",
+      "assetGroup": "Paladin::PAL",
       "tags": ["coingecko"]
     },
     "0xf1ef7d2d4c0c881cd634481e0586ed5d2871a74b": {
@@ -678,7 +678,7 @@
       "address": "0xc5cb0b67d24d72b9d86059344c88fb3ce93bf37c",
       "symbol": "9MM",
       "logoURI": "https://assets.coingecko.com/coins/images/54791/thumb/9mm.jpg?1741590221",
-      "assetGroup": "9MM (9mm)",
+      "assetGroup": "9mm::9MM",
       "tags": ["coingecko"]
     },
     "0xecac9c5f704e954931349da37f60e39f515c11c1": {
@@ -708,7 +708,7 @@
       "address": "0x7a5c61047ad8fa4a743c75eb46a01300c7c9dada",
       "symbol": "DAWAE",
       "logoURI": "https://assets.coingecko.com/coins/images/54403/thumb/IMG_0775.png?1739519972",
-      "assetGroup": "DAWAE (Dawae)",
+      "assetGroup": "Dawae::DAWAE",
       "tags": ["coingecko"]
     },
     "0xd4a5c68a1ed1fc2bb06cba2d90d6adeee7503671": {
@@ -718,7 +718,7 @@
       "address": "0xd4a5c68a1ed1fc2bb06cba2d90d6adeee7503671",
       "symbol": "HOOPS",
       "logoURI": "https://assets.coingecko.com/coins/images/54907/thumb/hoops.jpg?1742450884",
-      "assetGroup": "HOOPS (HOOPS the Squirrel)",
+      "assetGroup": "HOOPS the Squirrel::HOOPS",
       "tags": ["coingecko"]
     },
     "0x56192e94434c4fd3278b4fa53039293fb00de3db": {
@@ -728,7 +728,7 @@
       "address": "0x56192e94434c4fd3278b4fa53039293fb00de3db",
       "symbol": "TYSG",
       "logoURI": "https://assets.coingecko.com/coins/images/54902/thumb/IMG_8944.jpeg?1742449301",
-      "assetGroup": "TYSG (ThankYouSonicGod)",
+      "assetGroup": "ThankYouSonicGod::TYSG",
       "tags": ["coingecko"]
     },
     "0xcc17dbc9eb1c29f90388fa197b983714fdaada46": {
@@ -738,7 +738,7 @@
       "address": "0xcc17dbc9eb1c29f90388fa197b983714fdaada46",
       "symbol": "BOOM",
       "logoURI": "https://assets.coingecko.com/coins/images/54917/thumb/photo_2025-03-18_17-49-49.jpg?1742498260",
-      "assetGroup": "BOOM (Boom Token)",
+      "assetGroup": "Boom Token::BOOM",
       "tags": ["coingecko"]
     },
     "0xbb30e76d9bb2cc9631f7fc5eb8e87b5aff32bfbd": {
@@ -748,7 +748,7 @@
       "address": "0xbb30e76d9bb2cc9631f7fc5eb8e87b5aff32bfbd",
       "symbol": "SCBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/54997/thumb/scBTC_32.png?1743095543",
-      "assetGroup": "SCBTC (Rings scBTC)",
+      "assetGroup": "Rings scBTC::SCBTC",
       "tags": ["coingecko"]
     },
     "0x0e899da2ad0817ed850ce68f7f489688e4d42d9d": {
@@ -758,7 +758,7 @@
       "address": "0x0e899da2ad0817ed850ce68f7f489688e4d42d9d",
       "symbol": "GHOG",
       "logoURI": "https://assets.coingecko.com/coins/images/55034/thumb/GHOD_LOGO.png?1743322844",
-      "assetGroup": "GHOG (GHOG)",
+      "assetGroup": "GHOG::GHOG",
       "tags": ["coingecko"]
     },
     "0x44bd4f79a95cf04505f2dc5c8e2e4043f67c7b07": {
@@ -768,7 +768,7 @@
       "address": "0x44bd4f79a95cf04505f2dc5c8e2e4043f67c7b07",
       "symbol": "POLTER",
       "logoURI": "https://assets.coingecko.com/coins/images/35730/thumb/logo-200.png?1743249114",
-      "assetGroup": "POLTER (Polter)",
+      "assetGroup": "Polter::POLTER",
       "tags": ["coingecko"]
     },
     "0x9d549c39e5e1a0e7ef41d4b7d74c49f976102e36": {
@@ -778,7 +778,7 @@
       "address": "0x9d549c39e5e1a0e7ef41d4b7d74c49f976102e36",
       "symbol": "JACK",
       "logoURI": "https://assets.coingecko.com/coins/images/54835/thumb/200x200_token.png?1741969713",
-      "assetGroup": "JACK (JACK)",
+      "assetGroup": "JACK::JACK",
       "tags": ["coingecko"]
     },
     "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf": {
@@ -788,7 +788,7 @@
       "address": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
       "symbol": "WGC",
       "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831",
-      "assetGroup": "WGC (Wild Goat Coin)",
+      "assetGroup": "Wild Goat Coin::WGC",
       "tags": ["coingecko"]
     },
     "0x888852d1c63c7b333efeb1c4c5c79e36ce918888": {
@@ -798,7 +798,7 @@
       "address": "0x888852d1c63c7b333efeb1c4c5c79e36ce918888",
       "symbol": "8",
       "logoURI": "https://assets.coingecko.com/coins/images/55338/thumb/Logo_%281%29.png?1745490504",
-      "assetGroup": "8 (Infinity)",
+      "assetGroup": "Infinity::8",
       "tags": ["coingecko"]
     },
     "0x871a101dcf22fe4fe37be7b654098c801cba1c88": {
@@ -808,7 +808,7 @@
       "address": "0x871a101dcf22fe4fe37be7b654098c801cba1c88",
       "symbol": "BES",
       "logoURI": "https://assets.coingecko.com/coins/images/55186/thumb/beS.png?1744440042",
-      "assetGroup": "BES (Beefy escrowed Sonic)",
+      "assetGroup": "Beefy escrowed Sonic::BES",
       "tags": ["coingecko"]
     },
     "0xf61ccfc0ec470b2595fa08132c0102968b36cabc": {
@@ -818,7 +818,7 @@
       "address": "0xf61ccfc0ec470b2595fa08132c0102968b36cabc",
       "symbol": "SONAR",
       "logoURI": "https://assets.coingecko.com/coins/images/55268/thumb/SONAR.JPG?1745113491",
-      "assetGroup": "SONAR (SONAR)",
+      "assetGroup": "SONAR::SONAR",
       "tags": ["coingecko"]
     },
     "0x777ecd9a05d4640133f6112f3aa777f1ed5acace": {
@@ -828,7 +828,7 @@
       "address": "0x777ecd9a05d4640133f6112f3aa777f1ed5acace",
       "symbol": "SPIN",
       "logoURI": "https://assets.coingecko.com/coins/images/55154/thumb/logospin.png?1744230889",
-      "assetGroup": "SPIN (Spin It)",
+      "assetGroup": "Spin It::SPIN",
       "tags": ["coingecko"]
     },
     "0xad747e3cf4e31b8897b96c81c6c74152de52f614": {
@@ -838,7 +838,7 @@
       "address": "0xad747e3cf4e31b8897b96c81c6c74152de52f614",
       "symbol": "VRTX",
       "logoURI": "https://assets.coingecko.com/coins/images/27927/thumb/vrtx.png?1696526947",
-      "assetGroup": "VRTX (Vertex)",
+      "assetGroup": "Vertex::VRTX",
       "tags": ["coingecko"]
     },
     "0x44e23b1f3f4511b3a7e81077fd9f2858df1b7579": {
@@ -848,7 +848,7 @@
       "address": "0x44e23b1f3f4511b3a7e81077fd9f2858df1b7579",
       "symbol": "MCLB",
       "logoURI": "https://assets.coingecko.com/coins/images/55426/thumb/MCLB.jpg?1745946696",
-      "assetGroup": "MCLB (Millennium Club)",
+      "assetGroup": "Millennium Club::MCLB",
       "tags": ["coingecko"]
     },
     "0x578ee1ca3a8e1b54554da1bf7c583506c4cd11c6": {
@@ -858,7 +858,7 @@
       "address": "0x578ee1ca3a8e1b54554da1bf7c583506c4cd11c6",
       "symbol": "ASONUSDC",
       "logoURI": "https://assets.coingecko.com/coins/images/55659/thumb/aSonUSDC_200x200.png?1746866473",
-      "assetGroup": "ASONUSDC (Aave USDC)",
+      "assetGroup": "Aave USDC::ASONUSDC",
       "tags": ["coingecko"]
     },
     "0x614914b028a7d1fd4fab1e5a53a3e2df000bcb0e": {
@@ -868,7 +868,7 @@
       "address": "0x614914b028a7d1fd4fab1e5a53a3e2df000bcb0e",
       "symbol": "DS",
       "logoURI": "https://assets.coingecko.com/coins/images/55573/thumb/dS.png?1746774377",
-      "assetGroup": "DS (dTRINITY S)",
+      "assetGroup": "dTRINITY S::DS",
       "tags": ["coingecko"]
     },
     "0xe8c962493104b71f1bf22bc415e02ed3ef685c26": {
@@ -878,7 +878,7 @@
       "address": "0xe8c962493104b71f1bf22bc415e02ed3ef685c26",
       "symbol": "WSAFU",
       "logoURI": "https://assets.coingecko.com/coins/images/55496/thumb/Frame_1116602414.png?1746352304",
-      "assetGroup": "WSAFU (Wrapped SAFU)",
+      "assetGroup": "Wrapped SAFU::WSAFU",
       "tags": ["coingecko"]
     },
     "0x53a6abb52b2f968fa80df6a894e4f1b1020da975": {
@@ -888,7 +888,7 @@
       "address": "0x53a6abb52b2f968fa80df6a894e4f1b1020da975",
       "symbol": "DUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/53290/thumb/dUSD_Logo.png?1735997462",
-      "assetGroup": "DUSD (dTRINITY USD)",
+      "assetGroup": "dTRINITY USD::DUSD",
       "tags": ["coingecko"]
     },
     "0xb098afc30fce67f1926e735db6fdadfe433e61db": {
@@ -908,7 +908,7 @@
       "address": "0x02f92800f57bcd74066f5709f1daa1a4302df875",
       "symbol": "PEAS",
       "logoURI": "https://assets.coingecko.com/coins/images/33711/thumb/NAzHgbTW_400x400.png?1702856653",
-      "assetGroup": "PEAS (Peapods Finance)",
+      "assetGroup": "Peapods Finance::PEAS",
       "tags": ["coingecko"]
     }
   },

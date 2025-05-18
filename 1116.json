@@ -9,7 +9,7 @@
       "address": "0xa20b3b97df3a02f9185175760300a06b4e0a2c05",
       "symbol": "SCORE",
       "logoURI": "https://assets.coingecko.com/coins/images/29469/thumb/score.png?1696528414",
-      "assetGroup": "SCORE (StakedCore)"
+      "assetGroup": "StakedCore::SCORE"
     },
     "0xa5c4cd9ad4beda2ef1befece1ee16511ebcc41ad": {
       "chainId": "1116",
@@ -18,7 +18,7 @@
       "address": "0xa5c4cd9ad4beda2ef1befece1ee16511ebcc41ad",
       "symbol": "JUC",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0xA5C4cD9AD4BeDA2EF1bEfECE1eE16511EBCc41aD.png",
-      "assetGroup": "JUC (Just Use Core)"
+      "assetGroup": "Just Use Core::JUC"
     },
     "0xc0e49f8c615d3d4c245970f6dc528e4a47d69a44": {
       "chainId": "1116",
@@ -27,7 +27,7 @@
       "address": "0xc0e49f8c615d3d4c245970f6dc528e4a47d69a44",
       "symbol": "ICE",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0xc0E49f8C615d3d4c245970F6Dc528E4A47d69a44.png",
-      "assetGroup": "ICE (IceCream)"
+      "assetGroup": "IceCream::ICE"
     },
     "0xdd5d49910c5d475c984ee891a928de6658d2042d": {
       "chainId": "1116",
@@ -36,7 +36,7 @@
       "address": "0xdd5d49910c5d475c984ee891a928de6658d2042d",
       "symbol": "MAXL",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0xDd5d49910c5D475c984EE891A928De6658d2042d.png",
-      "assetGroup": "MAXL (Maxi Protocol)"
+      "assetGroup": "Maxi Protocol::MAXL"
     },
     "0x165290c62126083e31345ebd74606eb562cddd66": {
       "chainId": "1116",
@@ -45,7 +45,7 @@
       "address": "0x165290c62126083e31345ebd74606eb562cddd66",
       "symbol": "Bcore",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x165290C62126083E31345Ebd74606eB562cDdD66.png",
-      "assetGroup": "Bcore (BigCore)"
+      "assetGroup": "BigCore::Bcore"
     },
     "0x2898ad472234c27163b99191d8d77bfc8bb7356d": {
       "chainId": "1116",
@@ -54,7 +54,7 @@
       "address": "0x2898ad472234c27163b99191d8d77bfc8bb7356d",
       "symbol": "FCD",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x2898aD472234C27163b99191d8D77bfC8bB7356D.png",
-      "assetGroup": "FCD (FreeCoreDaoCom)"
+      "assetGroup": "FreeCoreDaoCom::FCD"
     },
     "0xecf2addc7267d65fba77a8cfb23a9160b435fa31": {
       "chainId": "1116",
@@ -63,7 +63,7 @@
       "address": "0xecf2addc7267d65fba77a8cfb23a9160b435fa31",
       "symbol": "HICE",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0xEcf2AdDc7267D65fBa77A8cFB23a9160B435fa31.png",
-      "assetGroup": "HICE (HOLD ICE TOKEN)"
+      "assetGroup": "HOLD ICE TOKEN::HICE"
     },
     "0x3034802fc4c9a278d0886ed77fd3f79fd789c898": {
       "chainId": "1116",
@@ -72,7 +72,7 @@
       "address": "0x3034802fc4c9a278d0886ed77fd3f79fd789c898",
       "symbol": "PIPI",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x3034802fc4C9A278D0886eD77fd3F79fd789c898.png",
-      "assetGroup": "PIPI (PIPI_LOL)"
+      "assetGroup": "PIPI_LOL::PIPI"
     },
     "0x78811f796e3f5933ed2657d3caf39d4e22ca8ade": {
       "chainId": "1116",
@@ -81,7 +81,7 @@
       "address": "0x78811f796e3f5933ed2657d3caf39d4e22ca8ade",
       "symbol": "CCDN",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x78811f796E3F5933eD2657D3caf39d4e22cA8AdE.png",
-      "assetGroup": "CCDN (Core Custodian)"
+      "assetGroup": "Core Custodian::CCDN"
     },
     "0xd698320cd0b571b62e57826d470c2b8d2ff1d04e": {
       "chainId": "1116",
@@ -90,7 +90,7 @@
       "address": "0xd698320cd0b571b62e57826d470c2b8d2ff1d04e",
       "symbol": "$HAY",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0xd698320cD0b571b62e57826d470C2B8D2FF1d04E.png",
-      "assetGroup": "$HAY (HAY)"
+      "assetGroup": "HAY::$HAY"
     },
     "0x12aa82525deff84777fa78578a68ceb854a85f43": {
       "chainId": "1116",
@@ -159,7 +159,7 @@
       "address": "0x6e35ff7ac8eeb825ddb155515ef612adcd66bcbc",
       "symbol": "Coreinu",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x6E35fF7aC8eEB825DdB155515eF612ADcD66BCbC.png",
-      "assetGroup": "Coreinu (Coreinu)"
+      "assetGroup": "Coreinu::Coreinu"
     },
     "0x9410e8052bc661041e5cb27fdf7d9e9e842af2aa": {
       "chainId": "1116",
@@ -168,7 +168,7 @@
       "address": "0x9410e8052bc661041e5cb27fdf7d9e9e842af2aa",
       "symbol": "SolvBTC.CORE",
       "logoURI": "https://assets.coingecko.com/coins/images/50781/thumb/20241016-213746.jpeg?1729143995",
-      "assetGroup": "SolvBTC.CORE (SolvBTC Core)",
+      "assetGroup": "SolvBTC Core::SolvBTC.CORE",
       "tags": ["coingecko"]
     },
     "0xe8b0df74192cca9c4de66f23653476f6e6cd1d98": {
@@ -178,7 +178,7 @@
       "address": "0xe8b0df74192cca9c4de66f23653476f6e6cd1d98",
       "symbol": "LUNG",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0xE8b0dF74192CCA9C4de66F23653476f6e6CD1d98.png",
-      "assetGroup": "LUNG (LunaGens)"
+      "assetGroup": "LunaGens::LUNG"
     },
     "0x40375c92d9faf44d2f9db9bd9ba41a3317a2404f": {
       "chainId": "1116",
@@ -187,7 +187,7 @@
       "address": "0x40375c92d9faf44d2f9db9bd9ba41a3317a2404f",
       "symbol": "WCORE_OLD",
       "logoURI": "https://assets.coingecko.com/coins/images/29276/thumb/wcore.png?1696528228",
-      "assetGroup": "WCORE_OLD (Wrapped CORE Old)",
+      "assetGroup": "Wrapped CORE Old::WCORE_OLD",
       "tags": ["coingecko"]
     },
     "0xe56016187c0fb36f76c33d0d0b36b47648a42d0a": {
@@ -197,7 +197,7 @@
       "address": "0xe56016187c0fb36f76c33d0d0b36b47648a42d0a",
       "symbol": "ABR",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0xe56016187C0fb36f76c33d0D0B36b47648A42D0A.png",
-      "assetGroup": "ABR (AIBRA)"
+      "assetGroup": "AIBRA::ABR"
     },
     "0x979a34f98b9a1bf2b38fd18f5c038423e4902db9": {
       "chainId": "1116",
@@ -206,7 +206,7 @@
       "address": "0x979a34f98b9a1bf2b38fd18f5c038423e4902db9",
       "symbol": "$3DC",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x979A34f98b9a1bF2B38fD18f5c038423e4902db9.png",
-      "assetGroup": "$3DC (3D City)"
+      "assetGroup": "3D City::$3DC"
     },
     "0xddba66c1eba873e26ac0215ca44892a07d83adf5": {
       "chainId": "1116",
@@ -215,7 +215,7 @@
       "address": "0xddba66c1eba873e26ac0215ca44892a07d83adf5",
       "symbol": "SHDW",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0xddBa66C1eBA873e26Ac0215Ca44892a07d83aDF5.png",
-      "assetGroup": "SHDW (ShadowSwap Token)"
+      "assetGroup": "ShadowSwap Token::SHDW"
     },
     "0xf7a0b80681ec935d6dd9f3af9826e68b99897d6d": {
       "chainId": "1116",
@@ -224,7 +224,7 @@
       "address": "0xf7a0b80681ec935d6dd9f3af9826e68b99897d6d",
       "symbol": "LFG",
       "logoURI": "https://assets.coingecko.com/coins/images/29280/thumb/lfg.png?1696528233",
-      "assetGroup": "LFG (LFG)",
+      "assetGroup": "LFG::LFG",
       "tags": ["coingecko"]
     },
     "0xa4151b2b3e269645181dccf2d426ce75fcbdeca9": {
@@ -244,7 +244,7 @@
       "address": "0xcfd38184c30832917a2871695f91e5e61bbd41ff",
       "symbol": "Miidas",
       "logoURI": "https://assets.coingecko.com/coins/images/26286/thumb/logo_miidas_round_500.png?1696525369",
-      "assetGroup": "Miidas (Miidas NFT)",
+      "assetGroup": "Miidas NFT::Miidas",
       "tags": ["coingecko"]
     },
     "0x1a639e150d2210a4be4a5f0857a9151b241e7ae4": {
@@ -254,7 +254,7 @@
       "address": "0x1a639e150d2210a4be4a5f0857a9151b241e7ae4",
       "symbol": "BOW",
       "logoURI": "https://assets.coingecko.com/coins/images/29458/thumb/bow200x200.png?1696528405",
-      "assetGroup": "BOW (ArcherSwap Token)",
+      "assetGroup": "ArcherSwap Token::BOW",
       "tags": ["coingecko"]
     },
     "0x000000000e1d682cc39abe9b32285fdea1255374": {
@@ -264,7 +264,7 @@
       "address": "0x000000000e1d682cc39abe9b32285fdea1255374",
       "symbol": "CID",
       "logoURI": "https://assets.coingecko.com/coins/images/29425/thumb/cid.png?1696528374",
-      "assetGroup": "CID (CORE ID Token)",
+      "assetGroup": "CORE ID Token::CID",
       "tags": ["coingecko"]
     },
     "0x900101d06a7426441ae63e9ab3b9b0f63be145f1": {
@@ -274,7 +274,7 @@
       "address": "0x900101d06a7426441ae63e9ab3b9b0f63be145f1",
       "symbol": "USDT",
       "logoURI": "https://assets.coingecko.com/coins/images/34424/thumb/usdt_logo.png?1704857706",
-      "assetGroup": "USDT",
+      "assetGroup": "Tether USD::USDT",
       "tags": ["coingecko"]
     },
     "0x81bcea03678d1cef4830942227720d542aa15817": {
@@ -284,7 +284,7 @@
       "address": "0x81bcea03678d1cef4830942227720d542aa15817",
       "symbol": "USDTi",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x81bCEa03678D1CEF4830942227720D542Aa15817.png",
-      "assetGroup": "USDTi (Bridged USDT (ICE Bridge))",
+      "assetGroup": "Bridged USDT (ICE Bridge)::USDTi",
       "tags": ["bridged", "ice bridge"]
     },
     "0xd2683b22287e63d22928cbe4514003a92507f474": {
@@ -294,7 +294,7 @@
       "address": "0xd2683b22287e63d22928cbe4514003a92507f474",
       "symbol": "USDCi",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0xD2683b22287E63D22928CBe4514003a92507f474.png",
-      "assetGroup": "USDCi (Bridged USDC (ICE Bridge))",
+      "assetGroup": "Bridged USDC (ICE Bridge)::USDCi",
       "tags": ["bridged", "ice bridge"]
     },
     "0x140910dc81f3b8029b32678e0e32c6292fcacbcb": {
@@ -304,7 +304,7 @@
       "address": "0x140910dc81f3b8029b32678e0e32c6292fcacbcb",
       "symbol": "ERB",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x140910dC81F3b8029b32678E0E32c6292FcaCbCB.png",
-      "assetGroup": "ERB (European Rabbit)"
+      "assetGroup": "European Rabbit::ERB"
     },
     "0x204e2d49b7cda6d93301bcf667a2da28fb0e5780": {
       "chainId": "1116",
@@ -313,7 +313,7 @@
       "address": "0x204e2d49b7cda6d93301bcf667a2da28fb0e5780",
       "symbol": "ARS",
       "logoURI": "https://assets.coingecko.com/coins/images/31445/thumb/logo-200x200.png?1696530259",
-      "assetGroup": "ARS (Aquarius)",
+      "assetGroup": "Aquarius::ARS",
       "tags": ["coingecko"]
     },
     "0x4225a3c57b2622f270d32c12e8135a095ed2daf6": {
@@ -323,7 +323,7 @@
       "address": "0x4225a3c57b2622f270d32c12e8135a095ed2daf6",
       "symbol": "CTS",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x4225A3C57B2622f270D32C12e8135a095ED2dAf6.png",
-      "assetGroup": "CTS (Coretoshis)"
+      "assetGroup": "Coretoshis::CTS"
     },
     "0xb0788b601c0d712702bc829b52771199ad8e33ff": {
       "chainId": "1116",
@@ -342,7 +342,7 @@
       "address": "0xf15fba1e7112d680055962fb85a0c04550f24097",
       "symbol": "YPC",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0xf15fBa1E7112d680055962fB85a0C04550f24097.png",
-      "assetGroup": "YPC (YoungParrot)"
+      "assetGroup": "YoungParrot::YPC"
     },
     "0xfa9975c36ae3d983ee44c02ff7bb4aee1a4493ac": {
       "chainId": "1116",
@@ -351,7 +351,7 @@
       "address": "0xfa9975c36ae3d983ee44c02ff7bb4aee1a4493ac",
       "symbol": "cETH",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0xfA9975c36Ae3D983EE44c02fF7bB4AEe1A4493ac.png",
-      "assetGroup": "cETH (CoretoshisETH)"
+      "assetGroup": "CoretoshisETH::cETH"
     },
     "0xb28b43209d9de61306172af0320f4f55e50e2f29": {
       "chainId": "1116",
@@ -360,7 +360,7 @@
       "address": "0xb28b43209d9de61306172af0320f4f55e50e2f29",
       "symbol": "ASX",
       "logoURI": "https://assets.coingecko.com/coins/images/34993/thumb/AXVII_007_500px_Black_Background.png?1706950900",
-      "assetGroup": "ASX (ASX)",
+      "assetGroup": "ASX::ASX",
       "tags": ["coingecko"]
     },
     "0x2297aebd383787a160dd0d9f71508148769342e3": {
@@ -370,7 +370,7 @@
       "address": "0x2297aebd383787a160dd0d9f71508148769342e3",
       "symbol": "BTC.b",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x2297aEbD383787A160DD0d9F71508148769342E3.png",
-      "assetGroup": "BTC.b (Bitcoin)"
+      "assetGroup": "Bitcoin::BTC.b"
     },
     "0x42077e348702f13ea80ce6a6a38b8b60fbb37b5d": {
       "chainId": "1116",
@@ -379,7 +379,7 @@
       "address": "0x42077e348702f13ea80ce6a6a38b8b60fbb37b5d",
       "symbol": "cDAO",
       "logoURI": "https://assets.coingecko.com/coins/images/33125/thumb/LmgRwWp9_400x400.jpg?1700795014",
-      "assetGroup": "cDAO (cDAO)",
+      "assetGroup": "cDAO::cDAO",
       "tags": ["coingecko"]
     },
     "0x54e89d1c0d7b246ecaed450ef6d1d8c7b45ec3b6": {
@@ -389,7 +389,7 @@
       "address": "0x54e89d1c0d7b246ecaed450ef6d1d8c7b45ec3b6",
       "symbol": "3RPL",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x54e89D1C0D7B246ecaED450eF6d1d8C7B45EC3B6.png",
-      "assetGroup": "3RPL (3RIPLE COIN)"
+      "assetGroup": "3RIPLE COIN::3RPL"
     },
     "0x811af333e431f4a6283bfbb1e0cd244715fd9c54": {
       "chainId": "1116",
@@ -398,7 +398,7 @@
       "address": "0x811af333e431f4a6283bfbb1e0cd244715fd9c54",
       "symbol": "CCTR",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x811af333E431f4a6283bFbB1E0cD244715FD9C54.png",
-      "assetGroup": "CCTR (Corecuties Refection)"
+      "assetGroup": "Corecuties Refection::CCTR"
     },
     "0xad2084ba43eb8888fa77443cee5232383e6d5ea1": {
       "chainId": "1116",
@@ -407,7 +407,7 @@
       "address": "0xad2084ba43eb8888fa77443cee5232383e6d5ea1",
       "symbol": "TICE",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0xaD2084bA43EB8888FA77443CEe5232383e6d5Ea1.png",
-      "assetGroup": "TICE (TRUMP ICECREAM)"
+      "assetGroup": "TRUMP ICECREAM::TICE"
     },
     "0xb3a8f0f0da9ffc65318aa39e55079796093029ad": {
       "chainId": "1116",
@@ -416,7 +416,7 @@
       "address": "0xb3a8f0f0da9ffc65318aa39e55079796093029ad",
       "symbol": "stCORE",
       "logoURI": "https://assets.coingecko.com/coins/images/39945/thumb/stcore.png?1724886271",
-      "assetGroup": "stCORE (Liquid staked CORE)",
+      "assetGroup": "Liquid staked CORE::stCORE",
       "tags": ["coingecko"]
     },
     "0x7bb0996354ab99fadd6a9fd0bf6ac40fa7e54b6f": {
@@ -426,7 +426,7 @@
       "address": "0x7bb0996354ab99fadd6a9fd0bf6ac40fa7e54b6f",
       "symbol": "TRUMPMEME",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x7bb0996354aB99faDd6a9Fd0bF6aC40Fa7e54b6F.png",
-      "assetGroup": "TRUMPMEME (Trump2024Meme)"
+      "assetGroup": "Trump2024Meme::TRUMPMEME"
     },
     "0x1483a469ef2c5b7dd2cb1b9174b01545c9a7fb69": {
       "chainId": "1116",
@@ -435,7 +435,7 @@
       "address": "0x1483a469ef2c5b7dd2cb1b9174b01545c9a7fb69",
       "symbol": "PUMP",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x1483A469EF2C5B7DD2cb1B9174b01545C9a7fb69.png",
-      "assetGroup": "PUMP (Pumpkin Cat)"
+      "assetGroup": "Pumpkin Cat::PUMP"
     },
     "0xad52f7099eed91ddaa4614292f9090920af00936": {
       "chainId": "1116",
@@ -444,7 +444,7 @@
       "address": "0xad52f7099eed91ddaa4614292f9090920af00936",
       "symbol": "LAUGH",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0xAd52f7099EeD91ddaA4614292f9090920aF00936.png",
-      "assetGroup": "LAUGH (LAUGH KOIN)"
+      "assetGroup": "LAUGH KOIN::LAUGH"
     },
     "0x3c18c0be00c516d5c08d94a118fb185b99afa601": {
       "chainId": "1116",
@@ -453,7 +453,7 @@
       "address": "0x3c18c0be00c516d5c08d94a118fb185b99afa601",
       "symbol": "COREVIP",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x3C18C0BE00c516D5c08d94a118fB185B99afA601.png",
-      "assetGroup": "COREVIP (COREDAOVIP)"
+      "assetGroup": "COREDAOVIP::COREVIP"
     },
     "0xb4a452e975c006619559e30069804f873475f111": {
       "chainId": "1116",
@@ -462,7 +462,7 @@
       "address": "0xb4a452e975c006619559e30069804f873475f111",
       "symbol": "COME",
       "logoURI": "https://assets.coingecko.com/coins/images/38042/thumb/COME.jpg?1716337137",
-      "assetGroup": "COME (Call of Memes Token)"
+      "assetGroup": "Call of Memes Token::COME"
     },
     "0xc0e5f8e2a9a2f1fbf34ab4d5fbf417ffd02fdb79": {
       "chainId": "1116",
@@ -480,7 +480,7 @@
       "address": "0x8034ab88c3512246bf7894f57c834dddbd1de01f",
       "symbol": "COREBTC",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x8034aB88C3512246Bf7894f57C834DdDBd1De01F.png",
-      "assetGroup": "COREBTC (Core Wrapped BTC Token)"
+      "assetGroup": "Core Wrapped BTC Token::COREBTC"
     },
     "0x7a6888c85edba8e38f6c7e0485212da602761c08": {
       "chainId": "1116",
@@ -489,7 +489,7 @@
       "address": "0x7a6888c85edba8e38f6c7e0485212da602761c08",
       "symbol": "BTCB",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x7A6888c85eDBA8E38F6C7E0485212da602761C08.png",
-      "assetGroup": "BTCB (BTCB)"
+      "assetGroup": "BTCB::BTCB"
     },
     "0x5b1fb849f1f76217246b8aaac053b5c7b15b7dc3": {
       "chainId": "1116",
@@ -498,7 +498,7 @@
       "address": "0x5b1fb849f1f76217246b8aaac053b5c7b15b7dc3",
       "symbol": "SolvBTC.b",
       "logoURI": "https://assets.coingecko.com/coins/images/36800/standard/solvBTC.png?1719810684",
-      "assetGroup": "SolvBTC.b (Bridged SolvBTC.b (Free))",
+      "assetGroup": "Bridged SolvBTC.b (Free)::SolvBTC.b",
       "tags": ["bridged", "coingecko"]
     },
     "0x9a9bc340103c462365db54e423f95784c664d3df": {
@@ -508,7 +508,7 @@
       "address": "0x9a9bc340103c462365db54e423f95784c664d3df",
       "symbol": "CPM",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x9A9bc340103C462365Db54E423f95784C664d3Df.png",
-      "assetGroup": "CPM (CORPUM)"
+      "assetGroup": "CORPUM::CPM"
     },
     "0xe04d21d999faedf1e72ade6629e20a11a1ed14fa": {
       "chainId": "1116",
@@ -527,7 +527,7 @@
       "address": "0x068a8819bd526c0480c190d1f902f1e0a5bbb139",
       "symbol": "pCORE",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x068a8819bd526c0480c190d1F902F1E0A5BBB139.png",
-      "assetGroup": "pCORE (PumpCore)"
+      "assetGroup": "PumpCore::pCORE"
     },
     "0x962d45c91e2e4f29ddc96c626976ece600908ba6": {
       "chainId": "1116",
@@ -536,7 +536,7 @@
       "address": "0x962d45c91e2e4f29ddc96c626976ece600908ba6",
       "symbol": "HUNT",
       "logoURI": "https://assets.coingecko.com/coins/images/29649/thumb/hunt.png?1696528585",
-      "assetGroup": "HUNT (ArcherSwap Hunter)",
+      "assetGroup": "ArcherSwap Hunter::HUNT",
       "tags": ["coingecko"]
     },
     "0x74c7b589209ce095a219f8bdf941de117656cbd6": {
@@ -555,7 +555,7 @@
       "address": "0xfd843e2eb0e5f7e652fb864477d57510a469b332",
       "symbol": "OEX",
       "logoURI": "https://assets.coingecko.com/coins/images/36770/thumb/oex-r-200.png?1712285533",
-      "assetGroup": "OEX (OpenEX Network Token)",
+      "assetGroup": "OpenEX Network Token::OEX",
       "tags": ["coingecko"]
     },
     "0x30a540b05468a250fcc17da2d9d4aaa84b358ea7": {
@@ -565,7 +565,7 @@
       "address": "0x30a540b05468a250fcc17da2d9d4aaa84b358ea7",
       "symbol": "CLND",
       "logoURI": "https://assets.coingecko.com/coins/images/51445/thumb/CLND_200.png?1731238732",
-      "assetGroup": "CLND (Colend)",
+      "assetGroup": "Colend::CLND",
       "tags": ["coingecko"]
     },
     "0xc5cd3f4029269fe9f2d2d154594d02f13c9a5214": {
@@ -575,7 +575,7 @@
       "address": "0xc5cd3f4029269fe9f2d2d154594d02f13c9a5214",
       "symbol": "COKE",
       "logoURI": "https://assets.coingecko.com/coins/images/37848/thumb/corekeeper-2.png?1715758831",
-      "assetGroup": "COKE (Core Keeper)",
+      "assetGroup": "Core Keeper::COKE",
       "tags": ["coingecko"]
     },
     "0xe0d829e913618a7d2e2ba27a5fc8c274a8c525cf": {
@@ -585,7 +585,7 @@
       "address": "0xe0d829e913618a7d2e2ba27a5fc8c274a8c525cf",
       "symbol": "GEMS",
       "logoURI": "https://assets.coingecko.com/coins/images/29542/thumb/photo_2023-03-16_19-06-39.jpg?1696528483",
-      "assetGroup": "GEMS (Gemholic)",
+      "assetGroup": "Gemholic::GEMS",
       "tags": ["coingecko"]
     },
     "0xe9aece1ba8bbd429a1ed33349c61280441ac8f99": {
@@ -595,7 +595,7 @@
       "address": "0xe9aece1ba8bbd429a1ed33349c61280441ac8f99",
       "symbol": "LIQUIFY",
       "logoURI": "https://assets.coingecko.com/coins/images/29401/thumb/full_logo.png?1696528351",
-      "assetGroup": "LIQUIFY (Liquify Network)",
+      "assetGroup": "Liquify Network::LIQUIFY",
       "tags": ["coingecko"]
     },
     "0x42020c7962ce072f5048120cedeb36c020062af4": {
@@ -605,7 +605,7 @@
       "address": "0x42020c7962ce072f5048120cedeb36c020062af4",
       "symbol": "CRUST",
       "logoURI": "https://assets.coingecko.com/coins/images/29537/thumb/photo_2023-03-21_00-12-46.jpg?1696528479",
-      "assetGroup": "CRUST (Crust Exchange)",
+      "assetGroup": "Crust Exchange::CRUST",
       "tags": ["coingecko"]
     },
     "0xf3cabeb4a292996a451f8094e14f4806d22604d4": {
@@ -615,7 +615,7 @@
       "address": "0xf3cabeb4a292996a451f8094e14f4806d22604d4",
       "symbol": "OST",
       "logoURI": "https://assets.coingecko.com/coins/images/37087/thumb/0xF3CABeb4A292996a451f8094E14F4806d22604d4.png?1715046928",
-      "assetGroup": "OST (OreSwap)",
+      "assetGroup": "OreSwap::OST",
       "tags": ["coingecko"]
     },
     "0xb555a396446570ac2f4a62fffb64b4b0d43f5b74": {
@@ -625,7 +625,7 @@
       "address": "0xb555a396446570ac2f4a62fffb64b4b0d43f5b74",
       "symbol": "CDAO",
       "logoURI": "https://assets.coingecko.com/coins/images/29582/thumb/200200wIR5I0em_400x400.jpg?1696528522",
-      "assetGroup": "CDAO (CoreDaoSwap)",
+      "assetGroup": "CoreDaoSwap::CDAO",
       "tags": ["coingecko"]
     },
     "0x98564e70c7fcc6d947ffe6d9efed5ba68b306f2e": {
@@ -635,7 +635,7 @@
       "address": "0x98564e70c7fcc6d947ffe6d9efed5ba68b306f2e",
       "symbol": "4TOKEN",
       "logoURI": "https://assets.coingecko.com/coins/images/29626/thumb/200x200.png?1696528562",
-      "assetGroup": "4TOKEN (Ignore Fud)",
+      "assetGroup": "Ignore Fud::4TOKEN",
       "tags": ["coingecko"]
     },
     "0x70727228db8c7491bf0ad42c180dbf8d95b257e2": {
@@ -655,7 +655,7 @@
       "address": "0xf6f46bd1f85ebf00c6d7490678ad020bc73969a7",
       "symbol": "PZP",
       "logoURI": "https://assets.coingecko.com/coins/images/24727/thumb/200X200-111.png?1696523890",
-      "assetGroup": "PZP (PlayZap)",
+      "assetGroup": "PlayZap::PZP",
       "tags": ["coingecko"]
     },
     "0x8bb97a618211695f5a6a889fac3546d1a573ea77": {
@@ -665,7 +665,7 @@
       "address": "0x8bb97a618211695f5a6a889fac3546d1a573ea77",
       "symbol": "NBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/52630/thumb/NBTC-logo.png?1733837414",
-      "assetGroup": "NBTC (NexusBTC)",
+      "assetGroup": "NexusBTC::NBTC",
       "tags": ["coingecko"]
     },
     "0x01065d48363713fa32c6ca51387e0803023c872c": {
@@ -675,7 +675,7 @@
       "address": "0x01065d48363713fa32c6ca51387e0803023c872c",
       "symbol": "AGUS",
       "logoURI": "https://assets.coingecko.com/coins/images/37094/thumb/0x04513ADaAc27ed0324549E15f52c051e64F81DAB.png?1713271473",
-      "assetGroup": "AGUS (AGUS)",
+      "assetGroup": "AGUS::AGUS",
       "tags": ["coingecko"]
     },
     "0x5c44d3d2312aba4d5f2406a98bf374bc76455092": {
@@ -685,7 +685,7 @@
       "address": "0x5c44d3d2312aba4d5f2406a98bf374bc76455092",
       "symbol": "WOOF",
       "logoURI": "https://assets.coingecko.com/coins/images/29467/thumb/woof.png?1696528412",
-      "assetGroup": "WOOF (Moondogs)"
+      "assetGroup": "Moondogs::WOOF"
     },
     "0xc65d8d96cdddb31328186efa113a460b0af9ec63": {
       "chainId": "1116",
@@ -694,7 +694,7 @@
       "address": "0xc65d8d96cdddb31328186efa113a460b0af9ec63",
       "symbol": "PELL",
       "logoURI": "https://assets.coingecko.com/coins/images/53967/thumb/logo-200*200.png?1737793038",
-      "assetGroup": "PELL (Pell Network Token)",
+      "assetGroup": "Pell Network Token::PELL",
       "tags": ["coingecko"]
     },
     "0x892ccdd2624ef09ca5814661c566316253353820": {
@@ -704,7 +704,7 @@
       "address": "0x892ccdd2624ef09ca5814661c566316253353820",
       "symbol": "BB",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x892CCdD2624ef09Ca5814661c566316253353820.png",
-      "assetGroup": "BB (Bugs Bunny)"
+      "assetGroup": "Bugs Bunny::BB"
     },
     "0xbb4a26a053b217bb28766a4ed4b062c3b4de58ce": {
       "chainId": "1116",
@@ -713,7 +713,7 @@
       "address": "0xbb4a26a053b217bb28766a4ed4b062c3b4de58ce",
       "symbol": "UBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/55079/thumb/uBTC.png?1743613297",
-      "assetGroup": "UBTC (uBTC)",
+      "assetGroup": "uBTC::UBTC",
       "tags": ["coingecko"]
     },
     "0xd60d60b168360dbd3496ec0ed0afe4a7498de3ce": {
@@ -723,7 +723,7 @@
       "address": "0xd60d60b168360dbd3496ec0ed0afe4a7498de3ce",
       "symbol": "PT-DUALBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/55385/thumb/b14g_logo_%281%29.png?1745708331",
-      "assetGroup": "PT-DUALBTC (b14g dualBTC Principal)",
+      "assetGroup": "b14g dualBTC Principal::PT-DUALBTC",
       "tags": ["coingecko"]
     },
     "0xc5555ea27e63cd89f8b227dece2a3916800c0f4f": {
@@ -733,7 +733,7 @@
       "address": "0xc5555ea27e63cd89f8b227dece2a3916800c0f4f",
       "symbol": "DUALCORE",
       "logoURI": "https://assets.coingecko.com/coins/images/55488/thumb/dualCORE.png?1746263021",
-      "assetGroup": "DUALCORE (b14g dualCORE)",
+      "assetGroup": "b14g dualCORE::DUALCORE",
       "tags": ["coingecko"]
     },
     "0x0fd98374ee05d059885ba70988ea2d072f6fd981": {
@@ -743,7 +743,7 @@
       "address": "0x0fd98374ee05d059885ba70988ea2d072f6fd981",
       "symbol": "COCO",
       "logoURI": "https://assets.coingecko.com/coins/images/55580/thumb/_COCO_Community_Token_Project_Lo_II.png?1746781518",
-      "assetGroup": "COCO (COCO Community)",
+      "assetGroup": "COCO Community::COCO",
       "tags": ["coingecko"]
     }
   },

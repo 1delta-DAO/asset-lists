@@ -48,7 +48,7 @@
       "address": "0x29faf5905bff9cfcc7cf56a5ed91e0f091f8664b",
       "symbol": "BANK",
       "logoURI": "https://assets.coingecko.com/coins/images/15227/large/j4WEJrwU.png?1622615796",
-      "assetGroup": "BANK (Bankless Token)",
+      "assetGroup": "Bankless Token::BANK",
       "tags": ["debridge"]
     },
     "0x5029c236320b8f15ef0a657054b84d90bfbeded3": {
@@ -77,7 +77,7 @@
       "address": "0x9c9e5fd8bbc25984b178fdce6117defa39d2db39",
       "symbol": "BUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/9576/thumb/BUSD.png?1568947766",
-      "assetGroup": "BUSD (Binance USD)",
+      "assetGroup": "Binance USD::BUSD",
       "tags": ["debridge"]
     },
     "0x57f5e098cad7a3d1eed53991d4d66c45c9af7812": {
@@ -250,7 +250,7 @@
       "address": "0xfeaa9194f9f8c1b65429e31341a103071464907e",
       "symbol": "LRC",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD/logo.png",
-      "assetGroup": "LRC (LoopringCoin V2)"
+      "assetGroup": "LoopringCoin V2::LRC"
     },
     "0xc40f949f8a4e094d1b49a23ea9241d289b7b2819": {
       "chainId": "10",
@@ -297,7 +297,7 @@
       "address": "0x929b939f8524c3be977af57a4a0ad3fb1e374b50",
       "symbol": "MTA",
       "logoURI": "https://assets.coingecko.com/coins/images/11846/large/mStable.png?1594950533",
-      "assetGroup": "MTA (mStable Governance  Meta)",
+      "assetGroup": "mStable Governance  Meta::MTA",
       "tags": ["debridge"]
     },
     "0x4200000000000000000000000000000000000042": {
@@ -317,7 +317,7 @@
       "address": "0x6af3cb766d6cd37449bfd321d961a61b0515c1bc",
       "symbol": "OS",
       "logoURI": "https://assets.coingecko.com/coins/images/19592/large/soon.jpg?1681377764",
-      "assetGroup": "OS (Ethereans)",
+      "assetGroup": "Ethereans::OS",
       "tags": ["debridge"]
     },
     "0x87eee96d50fb761ad85b1c982d28a042169d61b1": {
@@ -394,7 +394,7 @@
       "address": "0x395ae52bb17aef68c2888d941736a71dc6d4e125",
       "symbol": "POOL",
       "logoURI": "https://assets.coingecko.com/coins/images/14003/large/PoolTogether.png?1613585632",
-      "assetGroup": "POOL (PoolTogether)",
+      "assetGroup": "PoolTogether::POOL",
       "tags": ["debridge"]
     },
     "0xd3594e879b358f430e20f82bea61e83562d49d48": {
@@ -414,7 +414,7 @@
       "address": "0x7fb688ccf682d58f86d7e38e03f9d22e7705448b",
       "symbol": "RAI",
       "logoURI": "https://assets.coingecko.com/coins/images/14004/thumb/RAI-logo-coin.png?1613592334",
-      "assetGroup": "RAI (Rai Reflex Index)",
+      "assetGroup": "Rai Reflex Index::RAI",
       "tags": ["debridge"]
     },
     "0xf8397db1eedb800fdbce9e62ad83a28059cbb068": {
@@ -443,7 +443,7 @@
       "address": "0xb548f63d4405466b36c0c0ac3318a22fdcec711a",
       "symbol": "RGT",
       "logoURI": "https://assets.coingecko.com/coins/images/12900/thumb/Rari_Logo_Transparent.png?1613978014",
-      "assetGroup": "RGT (Rari Governance Token)",
+      "assetGroup": "Rari Governance Token::RGT",
       "tags": ["openocean"]
     },
     "0xc81d1f0eb955b0c020e5d5b264e1ff72c14d1401": {
@@ -453,7 +453,7 @@
       "address": "0xc81d1f0eb955b0c020e5d5b264e1ff72c14d1401",
       "symbol": "RPL",
       "logoURI": "https://assets.coingecko.com/coins/images/2090/large/rocket_pool_%28RPL%29.png?1637662441",
-      "assetGroup": "RPL (Rocket Pool)"
+      "assetGroup": "Rocket Pool::RPL"
     },
     "0x7c6b91d9be155a6db01f749217d76ff02a7227f2": {
       "chainId": "10",
@@ -462,7 +462,7 @@
       "address": "0x7c6b91d9be155a6db01f749217d76ff02a7227f2",
       "symbol": "SARCO",
       "logoURI": "https://assets.coingecko.com/coins/images/15091/large/E2S2-CcUcAAyNxD.jpeg?1622519884",
-      "assetGroup": "SARCO (Sarcophagus)"
+      "assetGroup": "Sarcophagus::SARCO"
     },
     "0xb94944669f7967e16588e55ac41be0d5ef399dcd": {
       "chainId": "10",
@@ -471,7 +471,7 @@
       "address": "0xb94944669f7967e16588e55ac41be0d5ef399dcd",
       "symbol": "SIPHER",
       "logoURI": "https://assets.coingecko.com/coins/images/21070/large/SipherToken.png?1638312272",
-      "assetGroup": "SIPHER (Sipher)"
+      "assetGroup": "Sipher::SIPHER"
     },
     "0x8eb99a441b04576282e9069977f6de6053ef6a97": {
       "chainId": "10",
@@ -499,7 +499,7 @@
       "address": "0xcfd1d50ce23c46d3cf6407487b2f8934e96dc8f9",
       "symbol": "SPANK",
       "logoURI": "https://assets.coingecko.com/coins/images/1226/large/spankchain.png?1548610811",
-      "assetGroup": "SPANK (SpankChain)"
+      "assetGroup": "SpankChain::SPANK"
     },
     "0xcb59a0a753fdb7491d5f3d794316f1ade197b21e": {
       "chainId": "10",
@@ -518,7 +518,7 @@
       "address": "0xbb586ed34974b15049a876fd5366a4c2d1203115",
       "symbol": "UBI",
       "logoURI": "https://assets.coingecko.com/coins/images/15269/large/ubi.png?1620287853",
-      "assetGroup": "UBI (Universal Basic Income)"
+      "assetGroup": "Universal Basic Income::UBI"
     },
     "0xc709c9116dbf29da9c25041b13a07a0e68ac5d2d": {
       "chainId": "10",
@@ -527,7 +527,7 @@
       "address": "0xc709c9116dbf29da9c25041b13a07a0e68ac5d2d",
       "symbol": "UDT",
       "logoURI": "https://assets.coingecko.com/coins/images/14545/large/unlock.jpg?1616948136",
-      "assetGroup": "UDT (Unlock Protocol)"
+      "assetGroup": "Unlock Protocol::UDT"
     },
     "0xe7798f023fc62146e8aa1b36da45fb70855a77ea": {
       "chainId": "10",
@@ -536,7 +536,7 @@
       "address": "0xe7798f023fc62146e8aa1b36da45fb70855a77ea",
       "symbol": "UMA",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828/logo.png",
-      "assetGroup": "UMA (UMA Voting Token v1)"
+      "assetGroup": "UMA Voting Token v1::UMA"
     },
     "0x6fd9d7ad17242c41f7131d257212c54a0e816691": {
       "chainId": "10",
@@ -565,7 +565,7 @@
       "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
       "symbol": "USDT",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
-      "assetGroup": "USDT",
+      "assetGroup": "Tether USD::USDT",
       "tags": ["openocean", "debridge"]
     },
     "0x7d14206c937e70e19e3a5b94011faf0d5b3928e2": {
@@ -575,7 +575,7 @@
       "address": "0x7d14206c937e70e19e3a5b94011faf0d5b3928e2",
       "symbol": "VITA",
       "logoURI": "https://assets.coingecko.com/coins/images/16580/large/QmRjwywiAfpzSfQTuWM3zCTghSHN7G6ohQaar7Ht6WANUp.png?1624506420",
-      "assetGroup": "VITA (VitaDAO)"
+      "assetGroup": "VitaDAO::VITA"
     },
     "0x68f180fcce6836688e9084f035309e29bf0a2095": {
       "chainId": "10",
@@ -652,7 +652,7 @@
       "address": "0x07ad578ff86b135be19a12759064b802cb88854d",
       "symbol": "BOBA",
       "logoURI": "https://assets.coingecko.com/coins/images/20285/thumb/BOBA.png?1636811576",
-      "assetGroup": "BOBA (Boba Network)"
+      "assetGroup": "Boba Network::BOBA"
     },
     "0xed50ace88bd42b45cb0f49be15395021e141254e": {
       "chainId": "10",
@@ -661,7 +661,7 @@
       "address": "0xed50ace88bd42b45cb0f49be15395021e141254e",
       "symbol": "BTRST",
       "logoURI": "https://assets.coingecko.com/coins/images/18100/thumb/braintrust.PNG?1630475394",
-      "assetGroup": "BTRST (Braintrust)"
+      "assetGroup": "Braintrust::BTRST"
     },
     "0xaddb6a0412de1ba0f936dcaeb8aaa24578dcf3b2": {
       "chainId": "10",
@@ -680,7 +680,7 @@
       "address": "0x9b88d293b7a791e40d36a39765ffd5a1b9b5c349",
       "symbol": "CELO",
       "logoURI": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/celo_wh.png",
-      "assetGroup": "CELO (Celo native asset (Wormhole))",
+      "assetGroup": "Celo native asset (Wormhole)::CELO",
       "tags": ["wormhole", "bridged", "debridge"]
     },
     "0xec6adef5e1006bb305bb1975333e8fc4071295bf": {
@@ -805,7 +805,7 @@
       "address": "0xef6301da234fc7b0545c6e877d3359fe0b9e50a4",
       "symbol": "SUKU",
       "logoURI": "https://assets.coingecko.com/coins/images/11969/thumb/UmfW5S6f_400x400.jpg?1596602238",
-      "assetGroup": "SUKU (SUKU)"
+      "assetGroup": "SUKU::SUKU"
     },
     "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9": {
       "chainId": "10",
@@ -833,7 +833,7 @@
       "address": "0x747e42eb0591547a0ab429b3627816208c734ea7",
       "symbol": "T",
       "logoURI": "https://assets.coingecko.com/coins/images/22228/thumb/nFPNiSbL_400x400.jpg?1641220340",
-      "assetGroup": "T (Threshold Network)",
+      "assetGroup": "Threshold Network::T",
       "tags": ["debridge"]
     },
     "0xaf8ca653fa2772d58f4368b0a71980e9e3ceb888": {
@@ -843,7 +843,7 @@
       "address": "0xaf8ca653fa2772d58f4368b0a71980e9e3ceb888",
       "symbol": "TRB",
       "logoURI": "https://assets.coingecko.com/coins/images/9644/thumb/Blk_icon_current.png?1584980686",
-      "assetGroup": "TRB (Tellor)",
+      "assetGroup": "Tellor::TRB",
       "tags": ["debridge"]
     },
     "0x0b2c639c533813f4aa9d7837caf62653d097ff85": {
@@ -863,7 +863,7 @@
       "address": "0x9560e827af36c94d2ac33a39bce1fe78631088db",
       "symbol": "VELO",
       "logoURI": "https://assets.coingecko.com/coins/images/12538/standard/Logo_200x_200.png?1696512350",
-      "assetGroup": "VELO (Velodrome Finance)",
+      "assetGroup": "Velodrome Finance::VELO",
       "tags": ["openocean", "debridge"]
     },
     "0x871f2f2ff935fd1ed867842ff2a7bfd051a5e527": {
@@ -882,7 +882,7 @@
       "address": "0x9db118d43069b73b8a252bf0be49d50edbd81fc8",
       "symbol": "XYO",
       "logoURI": "https://assets.coingecko.com/coins/images/4519/thumb/XYO_Network-logo.png?1547039819",
-      "assetGroup": "XYO (XYO Network)"
+      "assetGroup": "XYO Network::XYO"
     },
     "0x9046d36440290ffde54fe0dd84db8b1cfee9107b": {
       "chainId": "10",
@@ -891,7 +891,7 @@
       "address": "0x9046d36440290ffde54fe0dd84db8b1cfee9107b",
       "symbol": "YFI",
       "logoURI": "https://assets.coingecko.com/coins/images/11849/thumb/yfi-192x192.png?1598325330",
-      "assetGroup": "YFI (yearn finance)",
+      "assetGroup": "yearn finance::YFI",
       "tags": ["debridge"]
     },
     "0x6985884c4392d348587b19cb9eaaf157f13271cd": {
@@ -911,7 +911,7 @@
       "address": "0xd1917629b3e6a72e6772aab5dbe58eb7fa3c2f33",
       "symbol": "ZRX",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png",
-      "assetGroup": "ZRX (0x Protocol Token)"
+      "assetGroup": "0x Protocol Token::ZRX"
     },
     "0x00a35fd824c717879bf370e70ac6868b95870dfb": {
       "chainId": "10",
@@ -920,7 +920,7 @@
       "address": "0x00a35fd824c717879bf370e70ac6868b95870dfb",
       "symbol": "IB",
       "logoURI": "https://assets.smold.app/api/token/10/0x00a35FD824c717879BF370E70AC6868b95870Dfb/logo-128.png",
-      "assetGroup": "IB (IronBank)",
+      "assetGroup": "IronBank::IB",
       "tags": ["debridge"]
     },
     "0x1e925de1c68ef83bd98ee3e130ef14a50309c01b": {
@@ -930,7 +930,7 @@
       "address": "0x1e925de1c68ef83bd98ee3e130ef14a50309c01b",
       "symbol": "EXA",
       "logoURI": "https://assets.smold.app/api/token/10/0x1e925De1c68ef83bD98eE3E130eF14a50309C01B/logo-128.png",
-      "assetGroup": "EXA (exactly)",
+      "assetGroup": "exactly::EXA",
       "tags": ["debridge"]
     },
     "0x217d47011b23bb961eb6d93ca9945b7501a5bb11": {
@@ -940,7 +940,7 @@
       "address": "0x217d47011b23bb961eb6d93ca9945b7501a5bb11",
       "symbol": "THALES",
       "logoURI": "https://assets.smold.app/api/token/10/0x217D47011b23BB961eB6D93cA9945B7501a5BB11/logo-128.png",
-      "assetGroup": "THALES (Thales DAO Token)",
+      "assetGroup": "Thales DAO Token::THALES",
       "tags": ["debridge"]
     },
     "0x296f55f8fb28e498b858d0bcda06d955b2cb3f97": {
@@ -950,7 +950,7 @@
       "address": "0x296f55f8fb28e498b858d0bcda06d955b2cb3f97",
       "symbol": "STG",
       "logoURI": "https://assets.smold.app/api/token/10/0x296F55F8Fb28E498B858d0BcDA06D955B2Cb3f97/logo-128.png",
-      "assetGroup": "STG (StargateToken)",
+      "assetGroup": "StargateToken::STG",
       "tags": ["stargate", "bridged", "openocean", "debridge"]
     },
     "0x323665443cef804a3b5206103304bd4872ea4253": {
@@ -970,7 +970,7 @@
       "address": "0x3e29d3a9316dab217754d13b28646b76607c5f04",
       "symbol": "alETH",
       "logoURI": "https://assets.smold.app/api/token/10/0x3E29D3A9316dAB217754d13b28646B76607c5f04/logo-128.png",
-      "assetGroup": "alETH (Alchemix ETH)",
+      "assetGroup": "Alchemix ETH::alETH",
       "tags": ["debridge"]
     },
     "0x528cdc92eab044e1e39fe43b9514bfdab4412b98": {
@@ -980,7 +980,7 @@
       "address": "0x528cdc92eab044e1e39fe43b9514bfdab4412b98",
       "symbol": "GIV",
       "logoURI": "https://assets.smold.app/api/token/10/0x528CDc92eAB044E1E39FE43B9514bfdAB4412B98/logo-128.png",
-      "assetGroup": "GIV (Giveth Token)",
+      "assetGroup": "Giveth Token::GIV",
       "tags": ["debridge"]
     },
     "0x61baadcf22d2565b0f471b291c475db5555e0b76": {
@@ -990,7 +990,7 @@
       "address": "0x61baadcf22d2565b0f471b291c475db5555e0b76",
       "symbol": "AELIN",
       "logoURI": "https://assets.smold.app/api/token/10/0x61BAADcF22d2565B0F471b291C475db5555e0b76/logo-128.png",
-      "assetGroup": "AELIN (Aelin Token)",
+      "assetGroup": "Aelin Token::AELIN",
       "tags": ["openocean", "debridge"]
     },
     "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40": {
@@ -1000,7 +1000,7 @@
       "address": "0x6c84a8f1c29108f47a79964b5fe888d4f4d0de40",
       "symbol": "tBTC",
       "logoURI": "https://assets.smold.app/api/token/10/0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40/logo-128.png",
-      "assetGroup": "tBTC (Optimism tBTC v2)",
+      "assetGroup": "Optimism tBTC v2::tBTC",
       "tags": ["debridge"]
     },
     "0x73cb180bf0521828d8849bc8cf2b920918e23032": {
@@ -1010,7 +1010,7 @@
       "address": "0x73cb180bf0521828d8849bc8cf2b920918e23032",
       "symbol": "USD+",
       "logoURI": "https://assets.smold.app/api/token/10/0x73cb180bf0521828d8849bc8CF2B920918e23032/logo-128.png",
-      "assetGroup": "USD+ (USD+)",
+      "assetGroup": "USD+::USD+",
       "tags": ["debridge"]
     },
     "0x920cf626a271321c151d027030d5d08af699456b": {
@@ -1020,7 +1020,7 @@
       "address": "0x920cf626a271321c151d027030d5d08af699456b",
       "symbol": "KWENTA",
       "logoURI": "https://assets.smold.app/api/token/10/0x920Cf626a271321C151D027030D5d08aF699456b/logo-128.png",
-      "assetGroup": "KWENTA (Kwenta)",
+      "assetGroup": "Kwenta::KWENTA",
       "tags": ["debridge"]
     },
     "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b": {
@@ -1030,7 +1030,7 @@
       "address": "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b",
       "symbol": "BOB",
       "logoURI": "https://assets.smold.app/api/token/10/0xB0B195aEFA3650A6908f15CdaC7D92F8a5791B0B/logo-128.png",
-      "assetGroup": "BOB (BOB)",
+      "assetGroup": "BOB::BOB",
       "tags": ["debridge"]
     },
     "0xbc7b1ff1c6989f006a1185318ed4e7b5796e66e1": {
@@ -1050,7 +1050,7 @@
       "address": "0xcb8fa9a76b8e203d8c3797bf438d8fb81ea3326a",
       "symbol": "alUSD",
       "logoURI": "https://assets.smold.app/api/token/10/0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A/logo-128.png",
-      "assetGroup": "alUSD (Alchemix USD)",
+      "assetGroup": "Alchemix USD::alUSD",
       "tags": ["debridge"]
     },
     "0xe405de8f52ba7559f9df3c368500b6e6ae6cee49": {
@@ -1060,7 +1060,7 @@
       "address": "0xe405de8f52ba7559f9df3c368500b6e6ae6cee49",
       "symbol": "sETH",
       "logoURI": "https://assets.smold.app/api/token/10/0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49/logo-128.png",
-      "assetGroup": "sETH (Synth sETH)",
+      "assetGroup": "Synth sETH::sETH",
       "tags": ["openocean", "debridge"]
     },
     "0xc55e93c62874d8100dbd2dfe307edc1036ad5434": {
@@ -1070,7 +1070,7 @@
       "address": "0xc55e93c62874d8100dbd2dfe307edc1036ad5434",
       "symbol": "mooBIFI",
       "logoURI": "https://assets.smold.app/api/token/10/0xc55E93C62874D8100dBd2DfE307EDc1036ad5434/logo-128.png",
-      "assetGroup": "mooBIFI (Moo BIFI)",
+      "assetGroup": "Moo BIFI::mooBIFI",
       "tags": ["debridge"]
     },
     "0xdfa46478f9e5ea86d57387849598dbfb2e964b02": {
@@ -1090,7 +1090,7 @@
       "address": "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee",
       "symbol": "ELK",
       "logoURI": "https://tokens.1inch.io/0xeeeeeb57642040be42185f49c52f7e9b38f8eeee.png",
-      "assetGroup": "ELK (Elk)"
+      "assetGroup": "Elk::ELK"
     },
     "0x3c8b650257cfb5f272f799f5e2b4e65093a11a05": {
       "chainId": "10",
@@ -1099,7 +1099,7 @@
       "address": "0x3c8b650257cfb5f272f799f5e2b4e65093a11a05",
       "symbol": "VELO",
       "logoURI": "https://optimistic.etherscan.io/token/images/velodrome_32.png",
-      "assetGroup": "VELO (Velodrome)"
+      "assetGroup": "Velodrome::VELO"
     },
     "0x47536f17f4ff30e64a96a7555826b8f9e66ec468": {
       "chainId": "10",
@@ -1108,7 +1108,7 @@
       "address": "0x47536f17f4ff30e64a96a7555826b8f9e66ec468",
       "symbol": "MMY",
       "logoURI": "https://tokens.1inch.io/0x47536f17f4ff30e64a96a7555826b8f9e66ec468.png",
-      "assetGroup": "MMY (MUMMY)",
+      "assetGroup": "MUMMY::MMY",
       "tags": ["debridge"]
     },
     "0x4e720dd3ac5cfe1e1fbde4935f386bb1c66f4642": {
@@ -1118,7 +1118,7 @@
       "address": "0x4e720dd3ac5cfe1e1fbde4935f386bb1c66f4642",
       "symbol": "BIFI",
       "logoURI": "https://tokens.1inch.io/0x4e720dd3ac5cfe1e1fbde4935f386bb1c66f4642.png",
-      "assetGroup": "BIFI (beefy.finance)"
+      "assetGroup": "beefy.finance::BIFI"
     },
     "0xae31207ac34423c41576ff59bfb4e036150f9cf7": {
       "chainId": "10",
@@ -1127,7 +1127,7 @@
       "address": "0xae31207ac34423c41576ff59bfb4e036150f9cf7",
       "symbol": "SDL",
       "logoURI": "https://tokens.1inch.io/0xae31207ac34423c41576ff59bfb4e036150f9cf7.png",
-      "assetGroup": "SDL (Saddle DAO)"
+      "assetGroup": "Saddle DAO::SDL"
     },
     "0xcdb4bb51801a1f399d4402c61bc098a72c382e65": {
       "chainId": "10",
@@ -1136,7 +1136,7 @@
       "address": "0xcdb4bb51801a1f399d4402c61bc098a72c382e65",
       "symbol": "OPX",
       "logoURI": "https://tokens.1inch.io/0xcdb4bb51801a1f399d4402c61bc098a72c382e65.png",
-      "assetGroup": "OPX (OPX)",
+      "assetGroup": "OPX::OPX",
       "tags": ["openocean"]
     },
     "0xfdeffc7ad816bf7867c642df7ebc2cc5554ec265": {
@@ -1146,7 +1146,7 @@
       "address": "0xfdeffc7ad816bf7867c642df7ebc2cc5554ec265",
       "symbol": "BeVELO",
       "logoURI": "https://tokens.1inch.io/0xfdeffc7ad816bf7867c642df7ebc2cc5554ec265.png",
-      "assetGroup": "BeVELO (Beefy Velo)"
+      "assetGroup": "Beefy Velo::BeVELO"
     },
     "0xb4bc46bc6cb217b59ea8f4530bae26bf69f677f0": {
       "chainId": "10",
@@ -1155,7 +1155,7 @@
       "address": "0xb4bc46bc6cb217b59ea8f4530bae26bf69f677f0",
       "symbol": "BEETS",
       "logoURI": "https://assets.coingecko.com/coins/images/19158/standard/beets-icon-large.png?1696518608",
-      "assetGroup": "BEETS (BeethovenxToken)",
+      "assetGroup": "BeethovenxToken::BEETS",
       "tags": ["debridge"]
     },
     "0x298b9b95708152ff6968aafd889c6586e9169f1d": {
@@ -1165,7 +1165,7 @@
       "address": "0x298b9b95708152ff6968aafd889c6586e9169f1d",
       "symbol": "sBTC",
       "logoURI": "https://s3.openocean.finance/token_logos/logos/1638173081277_6785575667049477.png",
-      "assetGroup": "sBTC (Synth sBTC)",
+      "assetGroup": "Synth sBTC::sBTC",
       "tags": ["openocean"]
     },
     "0x2ed6222cb75e353b8789bec7bb443b7ec9022021": {
@@ -1185,7 +1185,7 @@
       "address": "0x65334ce5aae9fb390c056574c7aa4de33cf1d40e",
       "symbol": "BRIGHT",
       "logoURI": "https://assets.coingecko.com/coins/images/18415/large/bright.PNG?1631841211",
-      "assetGroup": "BRIGHT (BrightID)"
+      "assetGroup": "BrightID::BRIGHT"
     },
     "0xa6521c950b0ab5215337dab84d65f4ffa7f6df55": {
       "chainId": "10",
@@ -1203,7 +1203,7 @@
       "address": "0xe539298a99004a102e4b6997ef96e5137be42eab",
       "symbol": "SPC",
       "logoURI": "https://assets.coingecko.com/coins/images/6659/large/Spacechain.jpg?1547042861",
-      "assetGroup": "SPC (SpaceChain ERC20)"
+      "assetGroup": "SpaceChain ERC20::SPC"
     },
     "0x888a88eb9de9401237dbf543eaaf4b90b6574261": {
       "chainId": "10",
@@ -1212,7 +1212,7 @@
       "address": "0x888a88eb9de9401237dbf543eaaf4b90b6574261",
       "symbol": "VSP",
       "logoURI": "https://assets.coingecko.com/coins/images/13527/large/vesper_logo.jpg?1609399927",
-      "assetGroup": "VSP (Vesper Finance)"
+      "assetGroup": "Vesper Finance::VSP"
     },
     "0x14778860e937f509e651192a90589de711fb88a9": {
       "chainId": "10",
@@ -1221,7 +1221,7 @@
       "address": "0x14778860e937f509e651192a90589de711fb88a9",
       "symbol": "CYBER",
       "logoURI": "https://coin-images.coingecko.com/coins/images/31274/large/token.png?1715826754",
-      "assetGroup": "CYBER (CYBER)",
+      "assetGroup": "CYBER::CYBER",
       "tags": ["debridge"]
     },
     "0xdc6ff44d5d932cbd77b52e5612ba0529dc6226f1": {
@@ -1231,7 +1231,7 @@
       "address": "0xdc6ff44d5d932cbd77b52e5612ba0529dc6226f1",
       "symbol": "WLD",
       "logoURI": "https://coin-images.coingecko.com/coins/images/31069/large/worldcoin.jpeg?1696529903",
-      "assetGroup": "WLD (Worldcoin)",
+      "assetGroup": "Worldcoin::WLD",
       "tags": ["debridge"]
     },
     "0x33800de7e817a70a694f31476313a7c572bba100": {
@@ -1241,7 +1241,7 @@
       "address": "0x33800de7e817a70a694f31476313a7c572bba100",
       "symbol": "DRV",
       "logoURI": "https://coin-images.coingecko.com/coins/images/52889/large/Token_Logo.png?1734601695",
-      "assetGroup": "DRV (Derive)",
+      "assetGroup": "Derive::DRV",
       "tags": ["debridge"]
     },
     "0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6": {
@@ -1250,7 +1250,7 @@
       "name": "Bridged USDT (Axelar)",
       "address": "0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6",
       "symbol": "axlUSDT",
-      "assetGroup": "USDT",
+      "assetGroup": "Bridged USDT (Axelar)::axlUSDT",
       "tags": ["axelar", "bridged", "debridge"]
     },
     "0x2dad3a13ef0c6366220f989157009e501e7938f8": {
@@ -1260,7 +1260,7 @@
       "address": "0x2dad3a13ef0c6366220f989157009e501e7938f8",
       "symbol": "EXTRA",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x2dad3a13ef0c6366220f989157009e501e7938f8/small/token-logo.png",
-      "assetGroup": "EXTRA (Extra Finance)",
+      "assetGroup": "Extra Finance::EXTRA",
       "tags": ["debridge"]
     },
     "0xaf20f5f19698f1d19351028cd7103b63d30de7d7": {
@@ -1270,7 +1270,7 @@
       "address": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7",
       "symbol": "WAGMI",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xaf20f5f19698f1d19351028cd7103b63d30de7d7/small/token-logo.png",
-      "assetGroup": "WAGMI (Wagmi)",
+      "assetGroup": "Wagmi::WAGMI",
       "tags": ["debridge"]
     },
     "0xd9cc3d70e730503e7f28c1b407389198c4b75fa2": {
@@ -1280,7 +1280,7 @@
       "address": "0xd9cc3d70e730503e7f28c1b407389198c4b75fa2",
       "symbol": "TLX",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xd9cc3d70e730503e7f28c1b407389198c4b75fa2/small/token-logo.png",
-      "assetGroup": "TLX (TLX DAO Token)",
+      "assetGroup": "TLX DAO Token::TLX",
       "tags": ["debridge"]
     },
     "0x1db2466d9f5e10d7090e7152b68d62703a2245f0": {
@@ -1290,7 +1290,7 @@
       "address": "0x1db2466d9f5e10d7090e7152b68d62703a2245f0",
       "symbol": "SONNE",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x1db2466d9f5e10d7090e7152b68d62703a2245f0/small/token-logo.png",
-      "assetGroup": "SONNE (Sonne Finance)",
+      "assetGroup": "Sonne Finance::SONNE",
       "tags": ["debridge"]
     },
     "0x724dc807b04555b71ed48a6896b6f41593b8c637": {
@@ -1299,7 +1299,7 @@
       "name": "Aave v3 rETH",
       "address": "0x724dc807b04555b71ed48a6896b6f41593b8c637",
       "symbol": "aOptrETH",
-      "assetGroup": "aOptrETH (Aave v3 rETH)",
+      "assetGroup": "Aave v3 rETH::aOptrETH",
       "tags": ["debridge"]
     },
     "0x4e200fe2f3efb977d5fd9c430a41531fb04d97b8": {
@@ -1308,7 +1308,7 @@
       "name": "Orderly Network",
       "address": "0x4e200fe2f3efb977d5fd9c430a41531fb04d97b8",
       "symbol": "ORDER",
-      "assetGroup": "ORDER (Orderly Network)",
+      "assetGroup": "Orderly Network::ORDER",
       "tags": ["debridge"]
     },
     "0x66e535e8d2ebf13f49f3d49e5c50395a97c137b1": {
@@ -1318,7 +1318,7 @@
       "address": "0x66e535e8d2ebf13f49f3d49e5c50395a97c137b1",
       "symbol": "MOLTEN",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x66e535e8d2ebf13f49f3d49e5c50395a97c137b1/small/token-logo.png",
-      "assetGroup": "MOLTEN (Molten)",
+      "assetGroup": "Molten::MOLTEN",
       "tags": ["debridge"]
     },
     "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f": {
@@ -1338,7 +1338,7 @@
       "address": "0x1d1498166ddceee616a6d99868e1e0677300056f",
       "symbol": "xSPACE",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x1d1498166ddceee616a6d99868e1e0677300056f/small/token-logo.png",
-      "assetGroup": "xSPACE (Space Token)",
+      "assetGroup": "Space Token::xSPACE",
       "tags": ["debridge"]
     },
     "0x17aabf6838a6303fc6e9c5a227dc1eb6d95c829a": {
@@ -1348,7 +1348,7 @@
       "address": "0x17aabf6838a6303fc6e9c5a227dc1eb6d95c829a",
       "symbol": "TUX",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x17aabf6838a6303fc6e9c5a227dc1eb6d95c829a/small/token-logo.png",
-      "assetGroup": "TUX (Magicaltux)",
+      "assetGroup": "Magicaltux::TUX",
       "tags": ["debridge"]
     },
     "0x078f358208685046a11c85e8ad32895ded33a249": {
@@ -1358,7 +1358,7 @@
       "address": "0x078f358208685046a11c85e8ad32895ded33a249",
       "symbol": "aOptWBTC",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x078f358208685046a11c85e8ad32895ded33a249/small/token-logo.png",
-      "assetGroup": "aOptWBTC (Aave v3 WBTC)",
+      "assetGroup": "Aave v3 WBTC::aOptWBTC",
       "tags": ["debridge"]
     },
     "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8": {
@@ -1368,7 +1368,7 @@
       "address": "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8",
       "symbol": "aOptWETH",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8/small/token-logo.png",
-      "assetGroup": "aOptWETH (Aave v3 WETH)",
+      "assetGroup": "Aave v3 WETH::aOptWETH",
       "tags": ["debridge"]
     },
     "0xe2dca969624795985f2f083bcd0b674337ba130a": {
@@ -1378,7 +1378,7 @@
       "address": "0xe2dca969624795985f2f083bcd0b674337ba130a",
       "symbol": "SKR",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xe2dca969624795985f2f083bcd0b674337ba130a/small/token-logo.png",
-      "assetGroup": "SKR (Saakuru)",
+      "assetGroup": "Saakuru::SKR",
       "tags": ["debridge"]
     },
     "0x6806411765af15bddd26f8f544a34cc40cb9838b": {
@@ -1388,7 +1388,7 @@
       "address": "0x6806411765af15bddd26f8f544a34cc40cb9838b",
       "symbol": "frxETH",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x6806411765af15bddd26f8f544a34cc40cb9838b/small/token-logo.png",
-      "assetGroup": "frxETH (Frax Ether)",
+      "assetGroup": "Frax Ether::frxETH",
       "tags": ["debridge"]
     },
     "0xc52d7f23a2e460248db6ee192cb23dd12bddcbf6": {
@@ -1398,7 +1398,7 @@
       "address": "0xc52d7f23a2e460248db6ee192cb23dd12bddcbf6",
       "symbol": "crvUSD",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xc52d7f23a2e460248db6ee192cb23dd12bddcbf6/small/token-logo.png",
-      "assetGroup": "crvUSD (crvUSD)",
+      "assetGroup": "crvUSD::crvUSD",
       "tags": ["debridge"]
     },
     "0x1f514a61bcde34f94bc39731235690ab9da737f7": {
@@ -1408,7 +1408,7 @@
       "address": "0x1f514a61bcde34f94bc39731235690ab9da737f7",
       "symbol": "TAROT",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x1f514a61bcde34f94bc39731235690ab9da737f7/small/token-logo.png",
-      "assetGroup": "TAROT (Tarot)",
+      "assetGroup": "Tarot::TAROT",
       "tags": ["debridge"]
     },
     "0x949185d3be66775ea648f4a306740ea9eff9c567": {
@@ -1417,7 +1417,7 @@
       "name": "Yel.Finance",
       "address": "0x949185d3be66775ea648f4a306740ea9eff9c567",
       "symbol": "YEL",
-      "assetGroup": "YEL (Yel.Finance)",
+      "assetGroup": "Yel.Finance::YEL",
       "tags": ["debridge"]
     },
     "0x50bce64397c75488465253c0a034b8097fea6578": {
@@ -1427,7 +1427,7 @@
       "address": "0x50bce64397c75488465253c0a034b8097fea6578",
       "symbol": "HAN",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x50bce64397c75488465253c0a034b8097fea6578/small/token-logo.png",
-      "assetGroup": "HAN (HanChain)",
+      "assetGroup": "HanChain::HAN",
       "tags": ["debridge"]
     },
     "0x67631ff69130ea1a6c4feaa4a0abf0a1e0148be7": {
@@ -1437,7 +1437,7 @@
       "address": "0x67631ff69130ea1a6c4feaa4a0abf0a1e0148be7",
       "symbol": "WGC",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x67631ff69130ea1a6c4feaa4a0abf0a1e0148be7/small/token-logo.png",
-      "assetGroup": "WGC (Wild Goat Coin)",
+      "assetGroup": "Wild Goat Coin::WGC",
       "tags": ["debridge"]
     },
     "0x9ed7e4b1bff939ad473da5e7a218c771d1569456": {
@@ -1446,7 +1446,7 @@
       "name": "Reunit Wallet",
       "address": "0x9ed7e4b1bff939ad473da5e7a218c771d1569456",
       "symbol": "REUNI",
-      "assetGroup": "REUNI (Reunit Wallet)",
+      "assetGroup": "Reunit Wallet::REUNI",
       "tags": ["debridge"]
     },
     "0x6ab707aca953edaefbc4fd23ba73294241490620": {
@@ -1456,7 +1456,7 @@
       "address": "0x6ab707aca953edaefbc4fd23ba73294241490620",
       "symbol": "aOptUSDT",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x6ab707aca953edaefbc4fd23ba73294241490620/small/token-logo.png",
-      "assetGroup": "aOptUSDT (Aave v3 USDT)",
+      "assetGroup": "Aave v3 USDT::aOptUSDT",
       "tags": ["debridge"]
     },
     "0x46777c76dbbe40fabb2aab99e33ce20058e76c59": {
@@ -1466,7 +1466,7 @@
       "address": "0x46777c76dbbe40fabb2aab99e33ce20058e76c59",
       "symbol": "L3",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x46777c76dbbe40fabb2aab99e33ce20058e76c59/small/token-logo.png",
-      "assetGroup": "L3 (Layer3)",
+      "assetGroup": "Layer3::L3",
       "tags": ["debridge"]
     },
     "0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8": {
@@ -1476,7 +1476,7 @@
       "address": "0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8",
       "symbol": "CLEAR",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8/small/token-logo.png",
-      "assetGroup": "CLEAR (Everclear)",
+      "assetGroup": "Everclear::CLEAR",
       "tags": ["debridge"]
     },
     "0x2598c30330d5771ae9f983979209486ae26de875": {
@@ -1495,7 +1495,7 @@
       "name": "Unvest",
       "address": "0x51707dc661630f8fd624b985fa6ef4f1d4d919db",
       "symbol": "UNV",
-      "assetGroup": "UNV (Unvest)",
+      "assetGroup": "Unvest::UNV",
       "tags": ["debridge"]
     },
     "0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5": {
@@ -1504,7 +1504,7 @@
       "name": "BetSwirl",
       "address": "0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5",
       "symbol": "BETS",
-      "assetGroup": "BETS (BetSwirl)",
+      "assetGroup": "BetSwirl::BETS",
       "tags": ["debridge"]
     },
     "0xc3864f98f2a61a7caeb95b039d031b4e2f55e0e9": {
@@ -1514,7 +1514,7 @@
       "address": "0xc3864f98f2a61a7caeb95b039d031b4e2f55e0e9",
       "symbol": "OpenX",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xc3864f98f2a61a7caeb95b039d031b4e2f55e0e9/small/token-logo.png",
-      "assetGroup": "OpenX (OpenXSwap)",
+      "assetGroup": "OpenXSwap::OpenX",
       "tags": ["debridge"]
     },
     "0x3ed9acaac7bd974eb83a8ea6432a239e3c829d5d": {
@@ -1524,7 +1524,7 @@
       "address": "0x3ed9acaac7bd974eb83a8ea6432a239e3c829d5d",
       "symbol": "2192",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x3ed9acaac7bd974eb83a8ea6432a239e3c829d5d/small/token-logo.png",
-      "assetGroup": "2192 (LERNITAS)",
+      "assetGroup": "LERNITAS::2192",
       "tags": ["debridge"]
     },
     "0x625e7708f30ca75bfd92586e17077590c60eb4cd": {
@@ -1534,7 +1534,7 @@
       "address": "0x625e7708f30ca75bfd92586e17077590c60eb4cd",
       "symbol": "aOptUSDC",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x625e7708f30ca75bfd92586e17077590c60eb4cd/small/token-logo.png",
-      "assetGroup": "aOptUSDC (Aave v3 USDC)",
+      "assetGroup": "Aave v3 USDC::aOptUSDC",
       "tags": ["debridge"]
     },
     "0xeb466342c4d449bc9f53a865d5cb90586f405215": {
@@ -1562,7 +1562,7 @@
       "name": "Aave v3 LINK",
       "address": "0x191c10aa4af7c30e871e70c95db0e4eb77237530",
       "symbol": "aOptLINK",
-      "assetGroup": "aOptLINK (Aave v3 LINK)",
+      "assetGroup": "Aave v3 LINK::aOptLINK",
       "tags": ["debridge"]
     },
     "0xbfd5206962267c7b4b4a8b3d76ac2e1b2a5c4d5e": {
@@ -1581,7 +1581,7 @@
       "name": "Pocket Network",
       "address": "0x764a726d9ced0433a8d7643335919deb03a9a935",
       "symbol": "POKT",
-      "assetGroup": "POKT (Pocket Network)",
+      "assetGroup": "Pocket Network::POKT",
       "tags": ["debridge"]
     },
     "0x93919784c523f39cacaa98ee0a9d96c3f32b593e": {
@@ -1591,7 +1591,7 @@
       "address": "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
       "symbol": "uniBTC",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x93919784c523f39cacaa98ee0a9d96c3f32b593e/small/token-logo.png",
-      "assetGroup": "uniBTC (Universal BTC)",
+      "assetGroup": "Universal BTC::uniBTC",
       "tags": ["debridge"]
     },
     "0xb5090d514bcaca7dafb7e52763658844121f346d": {
@@ -1601,7 +1601,7 @@
       "address": "0xb5090d514bcaca7dafb7e52763658844121f346d",
       "symbol": "BNRY",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xb5090d514bcaca7dafb7e52763658844121f346d/small/token-logo.png",
-      "assetGroup": "BNRY (Binary Holdings)",
+      "assetGroup": "Binary Holdings::BNRY",
       "tags": ["debridge"]
     },
     "0xfa436399d0458dbe8ab890c3441256e3e09022a8": {
@@ -1611,7 +1611,7 @@
       "address": "0xfa436399d0458dbe8ab890c3441256e3e09022a8",
       "symbol": "ZIP",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xfa436399d0458dbe8ab890c3441256e3e09022a8/small/token-logo.png",
-      "assetGroup": "ZIP (ZipSwap)",
+      "assetGroup": "ZipSwap::ZIP",
       "tags": ["debridge"]
     },
     "0xecc68d0451e20292406967fe7c04280e5238ac7d": {
@@ -1621,7 +1621,7 @@
       "address": "0xecc68d0451e20292406967fe7c04280e5238ac7d",
       "symbol": "frxETH",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xecc68d0451e20292406967fe7c04280e5238ac7d/small/token-logo.png",
-      "assetGroup": "frxETH (Axelar Bridged Frax Ether)",
+      "assetGroup": "Axelar Bridged Frax Ether::frxETH",
       "tags": ["axelar", "bridged", "debridge"]
     },
     "0x4186bfc76e2e237523cbc30fd220fe055156b41f": {
@@ -1641,7 +1641,7 @@
       "address": "0x6d80113e533a2c0fe82eabd35f1875dcea89ea97",
       "symbol": "aOptSUSD",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x6d80113e533a2c0fe82eabd35f1875dcea89ea97/small/token-logo.png",
-      "assetGroup": "aOptSUSD (Aave v3 sUSD)",
+      "assetGroup": "Aave v3 sUSD::aOptSUSD",
       "tags": ["debridge"]
     },
     "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff": {
@@ -1650,7 +1650,7 @@
       "name": "Aave v3 OP",
       "address": "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff",
       "symbol": "aOptOP",
-      "assetGroup": "aOptOP (Aave v3 OP)",
+      "assetGroup": "Aave v3 OP::aOptOP",
       "tags": ["debridge"]
     },
     "0x484c2d6e3cdd945a8b2df735e079178c1036578c": {
@@ -1660,7 +1660,7 @@
       "address": "0x484c2d6e3cdd945a8b2df735e079178c1036578c",
       "symbol": "sfrxETH",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x484c2d6e3cdd945a8b2df735e079178c1036578c/small/token-logo.png",
-      "assetGroup": "sfrxETH (Staked Frax Ether)",
+      "assetGroup": "Staked Frax Ether::sfrxETH",
       "tags": ["debridge"]
     },
     "0xa00e3a3511aac35ca78530c85007afcd31753819": {
@@ -1679,7 +1679,7 @@
       "name": "Cortex",
       "address": "0x000000000000012def132e61759048be5b5c6033",
       "symbol": "CX",
-      "assetGroup": "CX (Cortex)",
+      "assetGroup": "Cortex::CX",
       "tags": ["debridge"]
     },
     "0xbfd291da8a403daaf7e5e9dc1ec0aceacd4848b9": {
@@ -1689,7 +1689,7 @@
       "address": "0xbfd291da8a403daaf7e5e9dc1ec0aceacd4848b9",
       "symbol": "USX",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xbfd291da8a403daaf7e5e9dc1ec0aceacd4848b9/small/token-logo.png",
-      "assetGroup": "USX (dForce USD)",
+      "assetGroup": "dForce USD::USX",
       "tags": ["debridge"]
     },
     "0x895e15020c3f52ddd4d8e9514eb83c39f53b1579": {
@@ -1698,7 +1698,7 @@
       "name": "YieldFi yToken",
       "address": "0x895e15020c3f52ddd4d8e9514eb83c39f53b1579",
       "symbol": "yUSD",
-      "assetGroup": "yUSD (YieldFi yToken)",
+      "assetGroup": "YieldFi yToken::yUSD",
       "tags": ["debridge"]
     },
     "0x69420f9e38a4e60a62224c489be4bf7a94402496": {
@@ -1708,7 +1708,7 @@
       "address": "0x69420f9e38a4e60a62224c489be4bf7a94402496",
       "symbol": "MONEY",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x69420f9e38a4e60a62224c489be4bf7a94402496/small/token-logo.png",
-      "assetGroup": "MONEY (Defi.money)",
+      "assetGroup": "Defi.money::MONEY",
       "tags": ["debridge"]
     },
     "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3": {
@@ -1718,7 +1718,7 @@
       "address": "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3",
       "symbol": "USDGLO",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x4f604735c1cf31399c6e711d5962b2b3e0225ad3/small/token-logo.png",
-      "assetGroup": "USDGLO (Glo Dollar)",
+      "assetGroup": "Glo Dollar::USDGLO",
       "tags": ["debridge"]
     },
     "0x38f9bf9dce51833ec7f03c9dc218197999999999": {
@@ -1728,7 +1728,7 @@
       "address": "0x38f9bf9dce51833ec7f03c9dc218197999999999",
       "symbol": "NYA",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x38f9bf9dce51833ec7f03c9dc218197999999999/small/token-logo.png",
-      "assetGroup": "NYA (Nya)",
+      "assetGroup": "Nya::NYA",
       "tags": ["debridge"]
     },
     "0xe453d6649643f1f460c371dc3d1da98f7922fe51": {
@@ -1747,7 +1747,7 @@
       "name": "EUROe Stablecoin",
       "address": "0x820802fa8a99901f52e39acd21177b0be6ee2974",
       "symbol": "EUROe",
-      "assetGroup": "EUROe (EUROe Stablecoin)",
+      "assetGroup": "EUROe Stablecoin::EUROe",
       "tags": ["debridge"]
     },
     "0x5df7abe3c51c01dcf6d1f1f9a0ab4dc3759869b9": {
@@ -1757,7 +1757,7 @@
       "address": "0x5df7abe3c51c01dcf6d1f1f9a0ab4dc3759869b9",
       "symbol": "SOONX",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x5df7abe3c51c01dcf6d1f1f9a0ab4dc3759869b9/small/token-logo.png",
-      "assetGroup": "SOONX (SoonChain)",
+      "assetGroup": "SoonChain::SOONX",
       "tags": ["debridge"]
     },
     "0x10010078a54396f62c96df8532dc2b4847d47ed3": {
@@ -1767,7 +1767,7 @@
       "address": "0x10010078a54396f62c96df8532dc2b4847d47ed3",
       "symbol": "HND",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x10010078a54396f62c96df8532dc2b4847d47ed3/small/token-logo.png",
-      "assetGroup": "HND (Hundred Finance)",
+      "assetGroup": "Hundred Finance::HND",
       "tags": ["debridge"]
     },
     "0x00e1724885473b63bce08a9f0a52f35b0979e35a": {
@@ -1777,7 +1777,7 @@
       "address": "0x00e1724885473b63bce08a9f0a52f35b0979e35a",
       "symbol": "OATH",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x00e1724885473b63bce08a9f0a52f35b0979e35a/small/token-logo.png",
-      "assetGroup": "OATH (OATH)",
+      "assetGroup": "OATH::OATH",
       "tags": ["debridge"]
     },
     "0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31": {
@@ -1786,7 +1786,7 @@
       "name": "Interport Token",
       "address": "0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31",
       "symbol": "ITP",
-      "assetGroup": "ITP (Interport Token)",
+      "assetGroup": "Interport Token::ITP",
       "tags": ["debridge"]
     },
     "0xc5b001dc33727f8f26880b184090d3e252470d45": {
@@ -1796,7 +1796,7 @@
       "address": "0xc5b001dc33727f8f26880b184090d3e252470d45",
       "symbol": "ERN",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xc5b001dc33727f8f26880b184090d3e252470d45/small/token-logo.png",
-      "assetGroup": "ERN (Ethos Reserve Note)",
+      "assetGroup": "Ethos Reserve Note::ERN",
       "tags": ["debridge"]
     },
     "0xfd389dc9533717239856190f42475d3f263a270d": {
@@ -1806,7 +1806,7 @@
       "address": "0xfd389dc9533717239856190f42475d3f263a270d",
       "symbol": "GRAIN",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xfd389dc9533717239856190f42475d3f263a270d/small/token-logo.png",
-      "assetGroup": "GRAIN (Granary)",
+      "assetGroup": "Granary::GRAIN",
       "tags": ["debridge"]
     },
     "0xc26921b5b9ee80773774d36c84328ccb22c3a819": {
@@ -1816,7 +1816,7 @@
       "address": "0xc26921b5b9ee80773774d36c84328ccb22c3a819",
       "symbol": "wOptiDoge",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xc26921b5b9ee80773774d36c84328ccb22c3a819/small/token-logo.png",
-      "assetGroup": "wOptiDoge (Wrapped OptiDoge)",
+      "assetGroup": "Wrapped OptiDoge::wOptiDoge",
       "tags": ["debridge"]
     },
     "0xb396b31599333739a97951b74652c117be86ee1d": {
@@ -1826,7 +1826,7 @@
       "address": "0xb396b31599333739a97951b74652c117be86ee1d",
       "symbol": "DUSD",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xb396b31599333739a97951b74652c117be86ee1d/small/token-logo.png",
-      "assetGroup": "DUSD (Davos.xyz USD)",
+      "assetGroup": "Davos.xyz USD::DUSD",
       "tags": ["debridge"]
     },
     "0xd0cf4de352ac8dcce00bd6b93ee73d3cb272edc3": {
@@ -1836,7 +1836,7 @@
       "address": "0xd0cf4de352ac8dcce00bd6b93ee73d3cb272edc3",
       "symbol": "PCM",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xd0cf4de352ac8dcce00bd6b93ee73d3cb272edc3/small/token-logo.png",
-      "assetGroup": "PCM (PCM)",
+      "assetGroup": "PCM::PCM",
       "tags": ["debridge"]
     },
     "0x9fd22a17b4a96da3f83797d122172c450381fb88": {
@@ -1846,7 +1846,7 @@
       "address": "0x9fd22a17b4a96da3f83797d122172c450381fb88",
       "symbol": "JEFE",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x9fd22a17b4a96da3f83797d122172c450381fb88/small/token-logo.png",
-      "assetGroup": "JEFE (Jefe)",
+      "assetGroup": "Jefe::JEFE",
       "tags": ["debridge"]
     },
     "0x0000206329b97db379d5e1bf586bbdb969c63274": {
@@ -1856,7 +1856,7 @@
       "address": "0x0000206329b97db379d5e1bf586bbdb969c63274",
       "symbol": "USDA",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x0000206329b97db379d5e1bf586bbdb969c63274/small/token-logo.png",
-      "assetGroup": "USDA (USDA)",
+      "assetGroup": "USDA::USDA",
       "tags": ["debridge"]
     },
     "0x3925f9820c312d968644f12ebd314c13558a7c05": {
@@ -1866,7 +1866,7 @@
       "address": "0x3925f9820c312d968644f12ebd314c13558a7c05",
       "symbol": "MASKS",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x3925f9820c312d968644f12ebd314c13558a7c05/small/token-logo.png",
-      "assetGroup": "MASKS (Masks)",
+      "assetGroup": "Masks::MASKS",
       "tags": ["debridge"]
     },
     "0x28b42698caf46b4b012cf38b6c75867e0762186d": {
@@ -1876,7 +1876,7 @@
       "address": "0x28b42698caf46b4b012cf38b6c75867e0762186d",
       "symbol": "UNIDX",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x28b42698caf46b4b012cf38b6c75867e0762186d/small/token-logo.png",
-      "assetGroup": "UNIDX (UniDex)",
+      "assetGroup": "UniDex::UNIDX",
       "tags": ["debridge"]
     },
     "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee": {
@@ -1885,7 +1885,7 @@
       "name": "Aave v3 DAI",
       "address": "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee",
       "symbol": "aOptDAI",
-      "assetGroup": "aOptDAI (Aave v3 DAI)",
+      "assetGroup": "Aave v3 DAI::aOptDAI",
       "tags": ["debridge"]
     },
     "0xf329e36c7bf6e5e86ce2150875a84ce77f477375": {
@@ -1894,7 +1894,7 @@
       "name": "Aave v3 AAVE",
       "address": "0xf329e36c7bf6e5e86ce2150875a84ce77f477375",
       "symbol": "aOptAAVE",
-      "assetGroup": "aOptAAVE (Aave v3 AAVE)",
+      "assetGroup": "Aave v3 AAVE::aOptAAVE",
       "tags": ["debridge"]
     },
     "0xf8e943f646816e4b51279b8934753821ed832dca": {
@@ -1904,7 +1904,7 @@
       "address": "0xf8e943f646816e4b51279b8934753821ed832dca",
       "symbol": "CTH",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xf8e943f646816e4b51279b8934753821ed832dca/small/token-logo.png",
-      "assetGroup": "CTH (Cthulhu Finance)",
+      "assetGroup": "Cthulhu Finance::CTH",
       "tags": ["debridge"]
     },
     "0xe3b3a464ee575e8e25d2508918383b89c832f275": {
@@ -1914,7 +1914,7 @@
       "address": "0xe3b3a464ee575e8e25d2508918383b89c832f275",
       "symbol": "pUSDC.e",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xe3b3a464ee575e8e25d2508918383b89c832f275/small/token-logo.png",
-      "assetGroup": "pUSDC.e (PoolTogether Prize USD Coin)",
+      "assetGroup": "PoolTogether Prize USD Coin::pUSDC.e",
       "tags": ["debridge"]
     },
     "0x4b03afc91295ed778320c2824bad5eb5a1d852dd": {
@@ -1924,7 +1924,7 @@
       "address": "0x4b03afc91295ed778320c2824bad5eb5a1d852dd",
       "symbol": "NBL",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x4b03afc91295ed778320c2824bad5eb5a1d852dd/small/token-logo.png",
-      "assetGroup": "NBL (NBL)",
+      "assetGroup": "NBL::NBL",
       "tags": ["debridge"]
     },
     "0xf467c7d5a4a9c4687ffc7986ac6ad5a4c81e1404": {
@@ -1934,7 +1934,7 @@
       "address": "0xf467c7d5a4a9c4687ffc7986ac6ad5a4c81e1404",
       "symbol": "KITE",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xf467c7d5a4a9c4687ffc7986ac6ad5a4c81e1404/small/token-logo.png",
-      "assetGroup": "KITE (Protocol Token)",
+      "assetGroup": "Protocol Token::KITE",
       "tags": ["debridge"]
     },
     "0xbc1735d65290a25b4bc964378828a2a57e33d03d": {
@@ -1944,7 +1944,7 @@
       "address": "0xbc1735d65290a25b4bc964378828a2a57e33d03d",
       "symbol": "PACT",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xbc1735d65290a25b4bc964378828a2a57e33d03d/small/token-logo.png",
-      "assetGroup": "PACT (impactMarket)",
+      "assetGroup": "impactMarket::PACT",
       "tags": ["debridge"]
     },
     "0x29cb69d4780b53c1e5cd4d2b817142d2e9890715": {
@@ -1954,7 +1954,7 @@
       "address": "0x29cb69d4780b53c1e5cd4d2b817142d2e9890715",
       "symbol": "pWETH",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x29cb69d4780b53c1e5cd4d2b817142d2e9890715/small/token-logo.png",
-      "assetGroup": "pWETH (PoolTogether Prize WETH - Aave)",
+      "assetGroup": "PoolTogether Prize WETH - Aave::pWETH",
       "tags": ["debridge"]
     },
     "0x2513486f18eee1498d7b6281f668b955181dd0d9": {
@@ -1964,7 +1964,7 @@
       "address": "0x2513486f18eee1498d7b6281f668b955181dd0d9",
       "symbol": "XOPENX",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x2513486f18eee1498d7b6281f668b955181dd0d9/small/token-logo.png",
-      "assetGroup": "XOPENX (OpenXSwap Gov. Token)",
+      "assetGroup": "OpenXSwap Gov. Token::XOPENX",
       "tags": ["debridge"]
     },
     "0x59d9356e565ab3a36dd77763fc0d87feaf85508c": {
@@ -1984,7 +1984,7 @@
       "address": "0x59debed8d46a0cb823d8be8b957add987ead39aa",
       "symbol": "QUACK",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x59debed8d46a0cb823d8be8b957add987ead39aa/small/token-logo.png",
-      "assetGroup": "QUACK (Quack Token)",
+      "assetGroup": "Quack Token::QUACK",
       "tags": ["debridge"]
     },
     "0x73e0c0d45e048d25fc26fa3159b0aa04bfa4db98": {
@@ -1994,7 +1994,7 @@
       "address": "0x73e0c0d45e048d25fc26fa3159b0aa04bfa4db98",
       "symbol": "kBTC",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x73e0c0d45e048d25fc26fa3159b0aa04bfa4db98/small/token-logo.png",
-      "assetGroup": "kBTC (Kraken Wrapped Bitcoin)",
+      "assetGroup": "Kraken Wrapped Bitcoin::kBTC",
       "tags": ["debridge"]
     },
     "0x5a5fff6f753d7c11a56a52fe47a177a87e431655": {
@@ -2014,7 +2014,7 @@
       "address": "0xb9243c495117343981ec9f8aa2abffee54396fc0",
       "symbol": "USDpy",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xb9243c495117343981ec9f8aa2abffee54396fc0/small/token-logo.png",
-      "assetGroup": "USDpy (Perpetual Delta Neutral Yield (Optimism))",
+      "assetGroup": "Perpetual Delta Neutral Yield (Optimism)::USDpy",
       "tags": ["debridge"]
     },
     "0x1d01aae6ef5d13406fdabab0e6c12fb862e342c5": {
@@ -2024,7 +2024,7 @@
       "address": "0x1d01aae6ef5d13406fdabab0e6c12fb862e342c5",
       "symbol": "DCKUSD",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x1d01aae6ef5d13406fdabab0e6c12fb862e342c5/small/token-logo.png",
-      "assetGroup": "DCKUSD (Dackie USD)",
+      "assetGroup": "Dackie USD::DCKUSD",
       "tags": ["debridge"]
     },
     "0x6f0fecbc276de8fc69257065fe47c5a03d986394": {
@@ -2034,7 +2034,7 @@
       "address": "0x6f0fecbc276de8fc69257065fe47c5a03d986394",
       "symbol": "POP",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x6f0fecbc276de8fc69257065fe47c5a03d986394/small/token-logo.png",
-      "assetGroup": "POP (Popcorn)",
+      "assetGroup": "Popcorn::POP",
       "tags": ["debridge"]
     },
     "0xb2918350826c1fb3c8b25a553b5d49611698206f": {
@@ -2043,7 +2043,7 @@
       "name": "Ionic Tether USD",
       "address": "0xb2918350826c1fb3c8b25a553b5d49611698206f",
       "symbol": "ionUSDT",
-      "assetGroup": "ionUSDT (Ionic Tether USD)",
+      "assetGroup": "Ionic Tether USD::ionUSDT",
       "tags": ["debridge"]
     },
     "0xea50f402653c41cadbafd1f788341db7b7f37816": {
@@ -2052,7 +2052,7 @@
       "name": "sGYD",
       "address": "0xea50f402653c41cadbafd1f788341db7b7f37816",
       "symbol": "sGYD",
-      "assetGroup": "sGYD (sGYD)",
+      "assetGroup": "sGYD::sGYD",
       "tags": ["debridge"]
     },
     "0xb5c457ddb4ce3312a6c5a2b056a1652bd542a208": {
@@ -2061,7 +2061,7 @@
       "name": "OMNI404",
       "address": "0xb5c457ddb4ce3312a6c5a2b056a1652bd542a208",
       "symbol": "O404",
-      "assetGroup": "O404 (OMNI404)",
+      "assetGroup": "OMNI404::O404",
       "tags": ["debridge"]
     },
     "0x50549be7e21c3dc0db03c3abab83e1a78d07e6e0": {
@@ -2079,7 +2079,7 @@
       "name": "InteNet",
       "address": "0x5019fe1867d8ccfd76d8d5abd85db5efce548fba",
       "symbol": "INT",
-      "assetGroup": "INT (InteNet)",
+      "assetGroup": "InteNet::INT",
       "tags": ["debridge"]
     },
     "0x5f5292fe4583f476ab90fbf247999816a9503f9e": {
@@ -2088,7 +2088,7 @@
       "name": "Seamoon Protocol",
       "address": "0x5f5292fe4583f476ab90fbf247999816a9503f9e",
       "symbol": "SMP",
-      "assetGroup": "SMP (Seamoon Protocol)",
+      "assetGroup": "Seamoon Protocol::SMP",
       "tags": ["debridge"]
     },
     "0xa6ae8f29e0031340ea5dbe11c2da4466cde34464": {
@@ -2097,7 +2097,7 @@
       "name": "Davos Protocol Staked DUSD",
       "address": "0xa6ae8f29e0031340ea5dbe11c2da4466cde34464",
       "symbol": "sDUSD",
-      "assetGroup": "sDUSD (Davos Protocol Staked DUSD)",
+      "assetGroup": "Davos Protocol Staked DUSD::sDUSD",
       "tags": ["debridge"]
     },
     "0xa1cdab15bba75a80df4089cafba013e376957cf5": {
@@ -2106,7 +2106,7 @@
       "name": "BlackRock USD Institutional Digital Liquidity Fund",
       "address": "0xa1cdab15bba75a80df4089cafba013e376957cf5",
       "symbol": "BUIDL",
-      "assetGroup": "BUIDL (BlackRock USD Institutional Digital Liquidity Fund)",
+      "assetGroup": "BlackRock USD Institutional Digital Liquidity Fund::BUIDL",
       "tags": ["debridge"]
     },
     "0x1792865d493fe4dfdd504010d3c0f6da11e8046d": {
@@ -2115,7 +2115,7 @@
       "name": "clBTC",
       "address": "0x1792865d493fe4dfdd504010d3c0f6da11e8046d",
       "symbol": "clBTC",
-      "assetGroup": "clBTC (clBTC)",
+      "assetGroup": "clBTC::clBTC",
       "tags": ["debridge"]
     },
     "0x0ce45dd53affbb011884ef1866e0738f58ab7969": {
@@ -2124,7 +2124,7 @@
       "name": "cgETH Hashkey Cloud",
       "address": "0x0ce45dd53affbb011884ef1866e0738f58ab7969",
       "symbol": "cgETH.hashkey",
-      "assetGroup": "cgETH.hashkey (cgETH Hashkey Cloud)",
+      "assetGroup": "cgETH Hashkey Cloud::cgETH.hashkey",
       "tags": ["debridge"]
     },
     "0xaeaeed23478c3a4b798e4ed40d8b7f41366ae861": {
@@ -2144,7 +2144,7 @@
       "address": "0xc6bdfc4f2e90196738873e824a9efa03f7c64176",
       "symbol": "VCNT",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xc6bdfc4f2e90196738873e824a9efa03f7c64176/small/token-logo.png",
-      "assetGroup": "VCNT (ViciCoin)",
+      "assetGroup": "ViciCoin::VCNT",
       "tags": ["debridge"]
     },
     "0x4a971e87ad1f61f7f3081645f52a99277ae917cf": {
@@ -2153,7 +2153,7 @@
       "name": "Venus",
       "address": "0x4a971e87ad1f61f7f3081645f52a99277ae917cf",
       "symbol": "XVS",
-      "assetGroup": "XVS (Venus)",
+      "assetGroup": "Venus::XVS",
       "tags": ["debridge"]
     },
     "0xe3c332a5dce0e1d9bc2cc72a68437790570c28a4": {
@@ -2163,7 +2163,7 @@
       "address": "0xe3c332a5dce0e1d9bc2cc72a68437790570c28a4",
       "symbol": "VEE",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xe3c332a5dce0e1d9bc2cc72a68437790570c28a4/small/token-logo.png",
-      "assetGroup": "VEE (BLOCKv)",
+      "assetGroup": "BLOCKv::VEE",
       "tags": ["debridge"]
     },
     "0x80eede496655fb9047dd39d9f418d5483ed600df": {
@@ -2172,7 +2172,7 @@
       "name": "Frax USD",
       "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
       "symbol": "frxUSD",
-      "assetGroup": "frxUSD (Frax USD)",
+      "assetGroup": "FRXUSD",
       "tags": ["debridge"]
     },
     "0x2dd1b4d4548accea497050619965f91f78b3b532": {
@@ -2182,7 +2182,7 @@
       "address": "0x2dd1b4d4548accea497050619965f91f78b3b532",
       "symbol": "sFRAX",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x2dd1b4d4548accea497050619965f91f78b3b532/small/token-logo.png",
-      "assetGroup": "sFRAX (Staked FRAX)",
+      "assetGroup": "Staked FRAX::sFRAX",
       "tags": ["debridge"]
     },
     "0xfc2e6e6bcbd49ccf3a5f029c79984372dcbfe527": {
@@ -2192,7 +2192,7 @@
       "address": "0xfc2e6e6bcbd49ccf3a5f029c79984372dcbfe527",
       "symbol": "OLAS",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xfc2e6e6bcbd49ccf3a5f029c79984372dcbfe527/small/token-logo.png",
-      "assetGroup": "OLAS (Autonolas)",
+      "assetGroup": "Autonolas::OLAS",
       "tags": ["debridge"]
     },
     "0x38761749330c23d681d136e8ea3fc47d4bb93db3": {
@@ -2201,7 +2201,7 @@
       "name": "Sweat Economy",
       "address": "0x38761749330c23d681d136e8ea3fc47d4bb93db3",
       "symbol": "SWEAT",
-      "assetGroup": "SWEAT (Sweat Economy)",
+      "assetGroup": "Sweat Economy::SWEAT",
       "tags": ["debridge"]
     },
     "0x087c440f251ff6cfe62b86dde1be558b95b4bb9b": {
@@ -2211,7 +2211,7 @@
       "address": "0x087c440f251ff6cfe62b86dde1be558b95b4bb9b",
       "symbol": "Bold",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x087c440f251ff6cfe62b86dde1be558b95b4bb9b/small/token-logo.png",
-      "assetGroup": "Bold (Liquity BOLD)",
+      "assetGroup": "Liquity BOLD::Bold",
       "tags": ["debridge"]
     },
     "0xe05a08226c49b636acf99c40da8dc6af83ce5bb3": {
@@ -2230,7 +2230,7 @@
       "name": "Gyroscope GYD",
       "address": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8",
       "symbol": "GYD",
-      "assetGroup": "GYD (Gyroscope GYD)",
+      "assetGroup": "Gyroscope GYD::GYD",
       "tags": ["debridge"]
     },
     "0xc7edf7b7b3667a06992508e7b156eff794a9e1c8": {
@@ -2240,7 +2240,7 @@
       "address": "0xc7edf7b7b3667a06992508e7b156eff794a9e1c8",
       "symbol": "XPRT",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xc7edf7b7b3667a06992508e7b156eff794a9e1c8/small/token-logo.png",
-      "assetGroup": "XPRT (Persistence One)",
+      "assetGroup": "Persistence One::XPRT",
       "tags": ["debridge"]
     },
     "0x1f444e9fb735b2438bee3b841efea060d235abf1": {
@@ -2259,7 +2259,7 @@
       "name": "ynETH MAX",
       "address": "0xe231db5f348d709239ef1741ea30961b3b635a61",
       "symbol": "ynETHx",
-      "assetGroup": "ynETHx (ynETH MAX)",
+      "assetGroup": "ynETH MAX::ynETHx",
       "tags": ["debridge"]
     },
     "0x8f69ee043d52161fd29137aedf63f5e70cd504d5": {
@@ -2279,7 +2279,7 @@
       "address": "0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979",
       "symbol": "fBOMB",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x74ccbe53f77b08632ce0cb91d3a545bf6b8e0979/small/token-logo.png",
-      "assetGroup": "fBOMB (Fantom Bomb)",
+      "assetGroup": "Fantom Bomb::fBOMB",
       "tags": ["debridge"]
     },
     "0xc4a65a93dd6cd9717551ebe827e8baee025d1d7e": {
@@ -2288,7 +2288,7 @@
       "name": "Penpie",
       "address": "0xc4a65a93dd6cd9717551ebe827e8baee025d1d7e",
       "symbol": "PNP",
-      "assetGroup": "PNP (Penpie)",
+      "assetGroup": "Penpie::PNP",
       "tags": ["debridge"]
     },
     "0xdd462e9399624dfcf73018793bd50a7ef47940b9": {
@@ -2298,7 +2298,7 @@
       "address": "0xdd462e9399624dfcf73018793bd50a7ef47940b9",
       "symbol": "MEED",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xdd462e9399624dfcf73018793bd50a7ef47940b9/small/token-logo.png",
-      "assetGroup": "MEED (Meeds DAO)",
+      "assetGroup": "Meeds DAO::MEED",
       "tags": ["debridge"]
     },
     "0x248f43b622ce2f35a14db3fc528284730b619cd5": {
@@ -2307,7 +2307,7 @@
       "name": "Spectra",
       "address": "0x248f43b622ce2f35a14db3fc528284730b619cd5",
       "symbol": "SPECTRA",
-      "assetGroup": "SPECTRA (Spectra)",
+      "assetGroup": "Spectra::SPECTRA",
       "tags": ["debridge"]
     },
     "0x023550adde4fa2f90d63a41d9282bee0294c04cd": {
@@ -2326,7 +2326,7 @@
       "name": "Port3 Network",
       "address": "0xb4357054c3da8d46ed642383f03139ac7f090343",
       "symbol": "PORT3",
-      "assetGroup": "PORT3 (Port3 Network)",
+      "assetGroup": "Port3 Network::PORT3",
       "tags": ["debridge"]
     },
     "0x9a601c5bb360811d96a23689066af316a30c3027": {
@@ -2336,7 +2336,7 @@
       "address": "0x9a601c5bb360811d96a23689066af316a30c3027",
       "symbol": "PIKA",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x9a601c5bb360811d96a23689066af316a30c3027/small/token-logo.png",
-      "assetGroup": "PIKA (Pika Protocol)",
+      "assetGroup": "Pika Protocol::PIKA",
       "tags": ["debridge"]
     },
     "0xbcb49fcb41899e31e442a4d7439964966e0c9b28": {
@@ -2345,7 +2345,7 @@
       "name": "Smart Layer Network",
       "address": "0xbcb49fcb41899e31e442a4d7439964966e0c9b28",
       "symbol": "SLN",
-      "assetGroup": "SLN (Smart Layer Network)",
+      "assetGroup": "Smart Layer Network::SLN",
       "tags": ["debridge"]
     },
     "0x374ad0f47f4ca39c78e5cc54f1c9e426ff8f231a": {
@@ -2355,7 +2355,7 @@
       "address": "0x374ad0f47f4ca39c78e5cc54f1c9e426ff8f231a",
       "symbol": "PREMIA",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x374ad0f47f4ca39c78e5cc54f1c9e426ff8f231a/small/token-logo.png",
-      "assetGroup": "PREMIA (Premia)",
+      "assetGroup": "Premia::PREMIA",
       "tags": ["debridge"]
     },
     "0x2baa7e92f3f14883264bfa63058cc223ad719438": {
@@ -2374,7 +2374,7 @@
       "name": "Balanced",
       "address": "0xd336c74b840f9962cf2c666f8666d6d61ec24440",
       "symbol": "BALN",
-      "assetGroup": "BALN (Balanced)",
+      "assetGroup": "Balanced::BALN",
       "tags": ["debridge"]
     },
     "0xecf46257ed31c329f204eb43e254c609dee143b3": {
@@ -2384,7 +2384,7 @@
       "address": "0xecf46257ed31c329f204eb43e254c609dee143b3",
       "symbol": "GRG",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xecf46257ed31c329f204eb43e254c609dee143b3/small/token-logo.png",
-      "assetGroup": "GRG (RigoBlock)",
+      "assetGroup": "RigoBlock::GRG",
       "tags": ["debridge"]
     },
     "0xc27d9bc194a648fe3069955a5126699c4e49351c": {
@@ -2393,7 +2393,7 @@
       "name": "Alongside Crypto Market Index",
       "address": "0xc27d9bc194a648fe3069955a5126699c4e49351c",
       "symbol": "AMKT",
-      "assetGroup": "AMKT (Alongside Crypto Market Index)",
+      "assetGroup": "Alongside Crypto Market Index::AMKT",
       "tags": ["debridge"]
     },
     "0x1574564fcfd15bccb3fe04e9818f61131ea74066": {
@@ -2403,7 +2403,7 @@
       "address": "0x1574564fcfd15bccb3fe04e9818f61131ea74066",
       "symbol": "JARVIS",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x1574564fcfd15bccb3fe04e9818f61131ea74066/small/token-logo.png",
-      "assetGroup": "JARVIS (Jarvis)",
+      "assetGroup": "Jarvis::JARVIS",
       "tags": ["debridge"]
     },
     "0x375488f097176507e39b9653b88fdc52cde736bf": {
@@ -2413,7 +2413,7 @@
       "address": "0x375488f097176507e39b9653b88fdc52cde736bf",
       "symbol": "TAROT",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x375488f097176507e39b9653b88fdc52cde736bf/small/token-logo.png",
-      "assetGroup": "TAROT (Tarot V1)",
+      "assetGroup": "Tarot V1::TAROT",
       "tags": ["debridge"]
     },
     "0x53ed36b1d07a5f4b01e5f872fd054f8439335460": {
@@ -2422,7 +2422,7 @@
       "name": "Gemach",
       "address": "0x53ed36b1d07a5f4b01e5f872fd054f8439335460",
       "symbol": "GMAC",
-      "assetGroup": "GMAC (Gemach)",
+      "assetGroup": "Gemach::GMAC",
       "tags": ["debridge"]
     },
     "0x15e770b95edd73fd96b02ece0266247d50895e76": {
@@ -2432,7 +2432,7 @@
       "address": "0x15e770b95edd73fd96b02ece0266247d50895e76",
       "symbol": "JRT",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x15e770b95edd73fd96b02ece0266247d50895e76/small/token-logo.png",
-      "assetGroup": "JRT (Jarvis Reward)",
+      "assetGroup": "Jarvis Reward::JRT",
       "tags": ["debridge"]
     },
     "0x7a1263ec3bf0a19e25c553b8a2c312e903262c5e": {
@@ -2442,7 +2442,7 @@
       "address": "0x7a1263ec3bf0a19e25c553b8a2c312e903262c5e",
       "symbol": "SAIL",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x7a1263ec3bf0a19e25c553b8a2c312e903262c5e/small/token-logo.png",
-      "assetGroup": "SAIL (Clipper SAIL)",
+      "assetGroup": "Clipper SAIL::SAIL",
       "tags": ["debridge"]
     },
     "0xbc404429558292ee2d769e57d57d6e74bbd2792d": {
@@ -2452,7 +2452,7 @@
       "address": "0xbc404429558292ee2d769e57d57d6e74bbd2792d",
       "symbol": "sUSX",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xbc404429558292ee2d769e57d57d6e74bbd2792d/small/token-logo.png",
-      "assetGroup": "sUSX (Savings USX)",
+      "assetGroup": "Savings USX::sUSX",
       "tags": ["debridge"]
     },
     "0xb962150760f9a3bb00e3e9cf48297ee20ada4a33": {
@@ -2462,7 +2462,7 @@
       "address": "0xb962150760f9a3bb00e3e9cf48297ee20ada4a33",
       "symbol": "xZOOMER",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xb962150760f9a3bb00e3e9cf48297ee20ada4a33/small/token-logo.png",
-      "assetGroup": "xZOOMER (Zoomer)",
+      "assetGroup": "Zoomer::xZOOMER",
       "tags": ["debridge"]
     },
     "0xd3ac016b1b8c80eeadde4d186a9138c9324e4189": {
@@ -2472,7 +2472,7 @@
       "address": "0xd3ac016b1b8c80eeadde4d186a9138c9324e4189",
       "symbol": "OK",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xd3ac016b1b8c80eeadde4d186a9138c9324e4189/small/token-logo.png",
-      "assetGroup": "OK (Okcash)",
+      "assetGroup": "Okcash::OK",
       "tags": ["debridge"]
     },
     "0xd42fe55e8a43b546aa75fda6483073be1d7ef74c": {
@@ -2482,7 +2482,7 @@
       "address": "0xd42fe55e8a43b546aa75fda6483073be1d7ef74c",
       "symbol": "NEROX",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xd42fe55e8a43b546aa75fda6483073be1d7ef74c/small/token-logo.png",
-      "assetGroup": "NEROX (NEROX AI)",
+      "assetGroup": "NEROX AI::NEROX",
       "tags": ["debridge"]
     },
     "0x5c0ea461fe5e6f3b4f90a071e72243c14c6abfd7": {
@@ -2492,7 +2492,7 @@
       "address": "0x5c0ea461fe5e6f3b4f90a071e72243c14c6abfd7",
       "symbol": "AMU",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x5c0ea461fe5e6f3b4f90a071e72243c14c6abfd7/small/token-logo.png",
-      "assetGroup": "AMU (Amulet Protocol)",
+      "assetGroup": "Amulet Protocol::AMU",
       "tags": ["debridge"]
     },
     "0xb12c13e66ade1f72f71834f2fc5082db8c091358": {
@@ -2502,7 +2502,7 @@
       "address": "0xb12c13e66ade1f72f71834f2fc5082db8c091358",
       "symbol": "ROOBEE",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xb12c13e66ade1f72f71834f2fc5082db8c091358/small/token-logo.png",
-      "assetGroup": "ROOBEE (Roobee)",
+      "assetGroup": "Roobee::ROOBEE",
       "tags": ["debridge"]
     },
     "0x5a7a183b6b44dc4ec2e3d2ef43f98c5152b1d76d": {
@@ -2522,7 +2522,7 @@
       "address": "0x887d1c6a4f3548279c2a8a9d0fa61b5d458d14fc",
       "symbol": "ION",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x887d1c6a4f3548279c2a8a9d0fa61b5d458d14fc/small/token-logo.png",
-      "assetGroup": "ION (Ionic Protocol)",
+      "assetGroup": "Ionic Protocol::ION",
       "tags": ["debridge"]
     },
     "0xe4de4b87345815c71aa843ea4841bcdc682637bb": {
@@ -2532,7 +2532,7 @@
       "address": "0xe4de4b87345815c71aa843ea4841bcdc682637bb",
       "symbol": "BUILD",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xe4de4b87345815c71aa843ea4841bcdc682637bb/small/token-logo.png",
-      "assetGroup": "BUILD (BUILD)",
+      "assetGroup": "BUILD::BUILD",
       "tags": ["debridge"]
     },
     "0xee9801669c6138e84bd50deb500827b776777d28": {
@@ -2552,7 +2552,7 @@
       "address": "0xf899e3909b4492859d44260e1de41a9e663e70f5",
       "symbol": "RADIO",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xf899e3909b4492859d44260e1de41a9e663e70f5/small/token-logo.png",
-      "assetGroup": "RADIO (RadioShack)",
+      "assetGroup": "RadioShack::RADIO",
       "tags": ["debridge"]
     },
     "0x25193034153afb4251a8e02a8db0deaef4c876f6": {
@@ -2562,7 +2562,7 @@
       "address": "0x25193034153afb4251a8e02a8db0deaef4c876f6",
       "symbol": "ZUN",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x25193034153afb4251a8e02a8db0deaef4c876f6/small/token-logo.png",
-      "assetGroup": "ZUN (Zunami Governance Token)",
+      "assetGroup": "Zunami Governance Token::ZUN",
       "tags": ["debridge"]
     },
     "0xf7dc37493e2e375dfdebec75e71d555af68648bf": {
@@ -2581,7 +2581,7 @@
       "address": "0x9cfb13e6c11054ac9fcb92ba89644f30775436e4",
       "symbol": "axl-wstETH",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x9cfb13e6c11054ac9fcb92ba89644f30775436e4/small/token-logo.png",
-      "assetGroup": "axl-wstETH (Bridged Wrapped stETH (Axelar))",
+      "assetGroup": "Bridged Wrapped stETH (Axelar)::axl-wstETH",
       "tags": ["axelar", "bridged", "debridge"]
     },
     "0x3b6564b5da73a41d3a66e6558a98fd0e9e1e77ad": {
@@ -2591,7 +2591,7 @@
       "address": "0x3b6564b5da73a41d3a66e6558a98fd0e9e1e77ad",
       "symbol": "UTS",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x3b6564b5da73a41d3a66e6558a98fd0e9e1e77ad/small/token-logo.png",
-      "assetGroup": "UTS (Unitus)",
+      "assetGroup": "Unitus::UTS",
       "tags": ["debridge"]
     },
     "0x47c337bd5b9344a6f3d6f58c474d9d8cd419d8ca": {
@@ -2601,7 +2601,7 @@
       "address": "0x47c337bd5b9344a6f3d6f58c474d9d8cd419d8ca",
       "symbol": "DACKIE",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x47c337bd5b9344a6f3d6f58c474d9d8cd419d8ca/small/token-logo.png",
-      "assetGroup": "DACKIE (DackieSwap [OLD])",
+      "assetGroup": "DackieSwap [OLD]::DACKIE",
       "tags": ["debridge"]
     },
     "0xb0ae108669ceb86e9e98e8fe9e40d98b867855fd": {
@@ -2611,7 +2611,7 @@
       "address": "0xb0ae108669ceb86e9e98e8fe9e40d98b867855fd",
       "symbol": "RING",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xb0ae108669ceb86e9e98e8fe9e40d98b867855fd/small/token-logo.png",
-      "assetGroup": "RING (OneRing)",
+      "assetGroup": "OneRing::RING",
       "tags": ["debridge"]
     },
     "0x1cef2d62af4cd26673c7416957cc4ec619a696a7": {
@@ -2621,7 +2621,7 @@
       "address": "0x1cef2d62af4cd26673c7416957cc4ec619a696a7",
       "symbol": "DTORO",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x1cef2d62af4cd26673c7416957cc4ec619a696a7/small/token-logo.png",
-      "assetGroup": "DTORO (DexToro Pro)",
+      "assetGroup": "DexToro Pro::DTORO",
       "tags": ["debridge"]
     },
     "0x3ee6107d9c93955acbb3f39871d32b02f82b78ab": {
@@ -2641,7 +2641,7 @@
       "address": "0xd08c3f25862077056cb1b710937576af899a4959",
       "symbol": "InstETH",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xd08c3f25862077056cb1b710937576af899a4959/small/token-logo.png",
-      "assetGroup": "InstETH (Inception stETH)",
+      "assetGroup": "Inception stETH::InstETH",
       "tags": ["debridge"]
     },
     "0xc04fb38f10ad352c5f16bd4546f7456e7f1a2d9e": {
@@ -2651,7 +2651,7 @@
       "address": "0xc04fb38f10ad352c5f16bd4546f7456e7f1a2d9e",
       "symbol": "MNTO",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xc04fb38f10ad352c5f16bd4546f7456e7f1a2d9e/small/token-logo.png",
-      "assetGroup": "MNTO (Minato)",
+      "assetGroup": "Minato::MNTO",
       "tags": ["debridge"]
     },
     "0x970d50d09f3a656b43e11b0d45241a84e3a6e011": {
@@ -2661,7 +2661,7 @@
       "address": "0x970d50d09f3a656b43e11b0d45241a84e3a6e011",
       "symbol": "DAI+",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x970d50d09f3a656b43e11b0d45241a84e3a6e011/small/token-logo.png",
-      "assetGroup": "DAI+ (Overnight.fi DAI+)",
+      "assetGroup": "Overnight.fi DAI+::DAI+",
       "tags": ["debridge"]
     },
     "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189": {
@@ -2671,7 +2671,7 @@
       "address": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
       "symbol": "oUSDT",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189/small/token-logo.png",
-      "assetGroup": "oUSDT (OpenUSDT)",
+      "assetGroup": "OpenUSDT::oUSDT",
       "tags": ["debridge"]
     },
     "0x2218a117083f5b482b0bb821d27056ba9c04b1d3": {
@@ -2691,7 +2691,7 @@
       "address": "0x8fc7c1109c08904160d6ae36482b79814d45eb78",
       "symbol": "TEC",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x8fc7c1109c08904160d6ae36482b79814d45eb78/small/token-logo.png",
-      "assetGroup": "TEC (Token Engineering Commons)",
+      "assetGroup": "Token Engineering Commons::TEC",
       "tags": ["debridge"]
     },
     "0xd52f94df742a6f4b4c8b033369fe13a41782bf44": {
@@ -2701,7 +2701,7 @@
       "address": "0xd52f94df742a6f4b4c8b033369fe13a41782bf44",
       "symbol": "L2DAO",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xd52f94df742a6f4b4c8b033369fe13a41782bf44/small/token-logo.png",
-      "assetGroup": "L2DAO (Layer2DAO)",
+      "assetGroup": "Layer2DAO::L2DAO",
       "tags": ["debridge"]
     },
     "0xc45a479877e1e9dfe9fcd4056c699575a1045daa": {
@@ -2711,7 +2711,7 @@
       "address": "0xc45a479877e1e9dfe9fcd4056c699575a1045daa",
       "symbol": "aOptwstETH",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xc45a479877e1e9dfe9fcd4056c699575a1045daa/small/token-logo.png",
-      "assetGroup": "aOptwstETH (Aave v3 wstETH)",
+      "assetGroup": "Aave v3 wstETH::aOptwstETH",
       "tags": ["debridge"]
     },
     "0xb153fb3d196a8eb25522705560ac152eeec57901": {
@@ -2731,7 +2731,7 @@
       "address": "0x48a9f8b4b65a55cc46ea557a610acf227454ab09",
       "symbol": "OPC",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x48a9f8b4b65a55cc46ea557a610acf227454ab09/small/token-logo.png",
-      "assetGroup": "OPC (OP Chads)",
+      "assetGroup": "OP Chads::OPC",
       "tags": ["debridge"]
     },
     "0x42069d11a2cc72388a2e06210921e839cfbd3280": {
@@ -2741,7 +2741,7 @@
       "address": "0x42069d11a2cc72388a2e06210921e839cfbd3280",
       "symbol": "GNOME",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x42069d11a2cc72388a2e06210921e839cfbd3280/small/token-logo.png",
-      "assetGroup": "GNOME (GnomeLand)",
+      "assetGroup": "GnomeLand::GNOME",
       "tags": ["debridge"]
     },
     "0xddf7d080c82b8048baae54e376a3406572429b4e": {
@@ -2751,7 +2751,7 @@
       "address": "0xddf7d080c82b8048baae54e376a3406572429b4e",
       "symbol": "oooOOO",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xddf7d080c82b8048baae54e376a3406572429b4e/small/token-logo.png",
-      "assetGroup": "oooOOO (GODDOG)",
+      "assetGroup": "GODDOG::oooOOO",
       "tags": ["debridge"]
     },
     "0xc4d4500326981eacd020e20a81b1c479c161c7ef": {
@@ -2761,7 +2761,7 @@
       "address": "0xc4d4500326981eacd020e20a81b1c479c161c7ef",
       "symbol": "exaWETH",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xc4d4500326981eacd020e20a81b1c479c161c7ef/small/token-logo.png",
-      "assetGroup": "exaWETH (Exactly Wrapped Ether)",
+      "assetGroup": "Exactly Wrapped Ether::exaWETH",
       "tags": ["debridge"]
     },
     "0xc03b43d492d904406db2d7d57e67c7e8234ba752": {
@@ -2771,7 +2771,7 @@
       "address": "0xc03b43d492d904406db2d7d57e67c7e8234ba752",
       "symbol": "wUSDR",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xc03b43d492d904406db2d7d57e67c7e8234ba752/small/token-logo.png",
-      "assetGroup": "wUSDR (Wrapped USDR)",
+      "assetGroup": "Wrapped USDR::wUSDR",
       "tags": ["debridge"]
     },
     "0x135c78d7f52aab6e9f17bcf4a9e8627aa233d050": {
@@ -2781,7 +2781,7 @@
       "address": "0x135c78d7f52aab6e9f17bcf4a9e8627aa233d050",
       "symbol": "BOO",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x135c78d7f52aab6e9f17bcf4a9e8627aa233d050/small/token-logo.png",
-      "assetGroup": "BOO (BOO)",
+      "assetGroup": "BOO::BOO",
       "tags": ["debridge"]
     },
     "0xdc8840a0a1ebf8be5ace62a7d9360dfcb26adffc": {
@@ -2791,7 +2791,7 @@
       "address": "0xdc8840a0a1ebf8be5ace62a7d9360dfcb26adffc",
       "symbol": "SMILE",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xdc8840a0a1ebf8be5ace62a7d9360dfcb26adffc/small/token-logo.png",
-      "assetGroup": "SMILE (HappyAI)",
+      "assetGroup": "HappyAI::SMILE",
       "tags": ["debridge"]
     },
     "0x80137510979822322193fc997d400d5a6c747bf7": {
@@ -2811,7 +2811,7 @@
       "address": "0xfe5b10f053871e66a319a57a16cf4e709f51367f",
       "symbol": "OVERPOWERED",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xfe5b10f053871e66a319a57a16cf4e709f51367f/small/token-logo.png",
-      "assetGroup": "OVERPOWERED (OVERPOWERED)",
+      "assetGroup": "OVERPOWERED::OVERPOWERED",
       "tags": ["debridge"]
     },
     "0xc3248a1bd9d72fa3da6e6ba701e58cbf818354eb": {
@@ -2821,7 +2821,7 @@
       "address": "0xc3248a1bd9d72fa3da6e6ba701e58cbf818354eb",
       "symbol": "HANeP",
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xc3248a1bd9d72fa3da6e6ba701e58cbf818354eb/small/token-logo.png",
-      "assetGroup": "HANeP (HANePlatform)",
+      "assetGroup": "HANePlatform::HANeP",
       "tags": ["debridge"]
     },
     "0x22ab31cd55130435b5efbf9224b6a9d5ec36533f": {
@@ -2830,7 +2830,7 @@
       "name": "Exactly Wrapped stETH",
       "address": "0x22ab31cd55130435b5efbf9224b6a9d5ec36533f",
       "symbol": "exawstETH",
-      "assetGroup": "exawstETH (Exactly Wrapped stETH)",
+      "assetGroup": "Exactly Wrapped stETH::exawstETH",
       "tags": ["debridge"]
     },
     "0x96d17e1301b31556e5e263389583a9331e6749e9": {
@@ -2839,7 +2839,7 @@
       "name": "RillaFi",
       "address": "0x96d17e1301b31556e5e263389583a9331e6749e9",
       "symbol": "RILLA",
-      "assetGroup": "RILLA (RillaFi)",
+      "assetGroup": "RillaFi::RILLA",
       "tags": ["debridge"]
     },
     "0x3b08fcd15280e7b5a6e404c4abb87f7c774d1b2e": {
@@ -2848,7 +2848,7 @@
       "name": "Overnight Finance",
       "address": "0x3b08fcd15280e7b5a6e404c4abb87f7c774d1b2e",
       "symbol": "OVN",
-      "assetGroup": "OVN (Overnight Finance)",
+      "assetGroup": "Overnight Finance::OVN",
       "tags": ["debridge"]
     },
     "0xaec9e50e3397f9ddc635c6c429c8c7eca418a143": {
@@ -2857,7 +2857,7 @@
       "name": "Arcana arcUSD",
       "address": "0xaec9e50e3397f9ddc635c6c429c8c7eca418a143",
       "symbol": "arcUSD",
-      "assetGroup": "arcUSD (Arcana arcUSD)",
+      "assetGroup": "Arcana arcUSD::arcUSD",
       "tags": ["debridge"]
     },
     "0xdc30b3bde2734a0bc55af01b38943ef04aacb423": {
@@ -2866,7 +2866,7 @@
       "name": "Zunami USD",
       "address": "0xdc30b3bde2734a0bc55af01b38943ef04aacb423",
       "symbol": "zunUSD",
-      "assetGroup": "zunUSD (Zunami USD)",
+      "assetGroup": "Zunami USD::zunUSD",
       "tags": ["debridge"]
     },
     "0xb829b68f57cc546da7e5806a929e53be32a4625d": {
@@ -2885,7 +2885,7 @@
       "name": "Exactly WBTC",
       "address": "0x6f748fd65d7c71949ba6641b3248c4c191f3b322",
       "symbol": "exaWBTC",
-      "assetGroup": "exaWBTC (Exactly WBTC)",
+      "assetGroup": "Exactly WBTC::exaWBTC",
       "tags": ["debridge"]
     },
     "0x35b5a3bf31b67f832230da9424824edc9f7ad98c": {
@@ -2894,7 +2894,7 @@
       "name": "Phemex Token",
       "address": "0x35b5a3bf31b67f832230da9424824edc9f7ad98c",
       "symbol": "PT",
-      "assetGroup": "PT (Phemex Token)",
+      "assetGroup": "Phemex Token::PT",
       "tags": ["debridge"]
     },
     "0x6926b434cce9b5b7966ae1bfeef6d0a7dcf3a8bb": {
@@ -2903,7 +2903,7 @@
       "name": "Exactly USD Coin",
       "address": "0x6926b434cce9b5b7966ae1bfeef6d0a7dcf3a8bb",
       "symbol": "exaUSDC",
-      "assetGroup": "exaUSDC (Exactly USD Coin)",
+      "assetGroup": "Exactly USD Coin::exaUSDC",
       "tags": ["debridge"]
     },
     "0xa430a427bd00210506589906a71b54d6c256cedb": {
@@ -2912,7 +2912,7 @@
       "name": "Exactly Optimism",
       "address": "0xa430a427bd00210506589906a71b54d6c256cedb",
       "symbol": "exaOP",
-      "assetGroup": "exaOP (Exactly Optimism)",
+      "assetGroup": "Exactly Optimism::exaOP",
       "tags": ["debridge"]
     },
     "0xedf38688b27036816a50185caa430d5479e1c63e": {
@@ -2921,7 +2921,7 @@
       "name": "Overtime",
       "address": "0xedf38688b27036816a50185caa430d5479e1c63e",
       "symbol": "OVER",
-      "assetGroup": "OVER (Overtime)",
+      "assetGroup": "Overtime::OVER",
       "tags": ["debridge"]
     },
     "0x6c511dc18572d31c2c3f7b1505cb2bbc08282fcc": {
@@ -2930,7 +2930,7 @@
       "name": "Aipocalypto",
       "address": "0x6c511dc18572d31c2c3f7b1505cb2bbc08282fcc",
       "symbol": "AIPO",
-      "assetGroup": "AIPO (Aipocalypto)",
+      "assetGroup": "Aipocalypto::AIPO",
       "tags": ["debridge"]
     },
     "0x2d691c2492e056adcae7ca317569af25910fc4cb": {
@@ -2939,7 +2939,7 @@
       "name": "Zunami ETH",
       "address": "0x2d691c2492e056adcae7ca317569af25910fc4cb",
       "symbol": "zunETH",
-      "assetGroup": "zunETH (Zunami ETH)",
+      "assetGroup": "Zunami ETH::zunETH",
       "tags": ["debridge"]
     },
     "0x81c9a7b55a4df39a9b7b5f781ec0e53539694873": {
@@ -2948,7 +2948,7 @@
       "name": "Exactly USD.e Coin",
       "address": "0x81c9a7b55a4df39a9b7b5f781ec0e53539694873",
       "symbol": "exaUSDC.e",
-      "assetGroup": "exaUSDC.e (Exactly USD.e Coin)",
+      "assetGroup": "Exactly USD.e Coin::exaUSDC.e",
       "tags": ["debridge"]
     },
     "0xa3b615667cbd33cfc69843bf11fbb2a1d926bd46": {
@@ -2966,7 +2966,7 @@
       "name": "ZAI Stablecoin",
       "address": "0x3b2a34c8a085a6ca425ea64192d9f3a0b5dfb397",
       "symbol": "xUSDz",
-      "assetGroup": "xUSDz (ZAI Stablecoin)",
+      "assetGroup": "ZAI Stablecoin::xUSDz",
       "tags": ["debridge"]
     },
     "0x8eb270e296023e9d92081fdf967ddd7878724424": {
@@ -2975,7 +2975,7 @@
       "name": "Aave v3 LUSD",
       "address": "0x8eb270e296023e9d92081fdf967ddd7878724424",
       "symbol": "aOptLUSD",
-      "assetGroup": "aOptLUSD (Aave v3 LUSD)",
+      "assetGroup": "Aave v3 LUSD::aOptLUSD",
       "tags": ["debridge"]
     },
     "0x8413041a7702603d9d991f2c4add29e4e8a241f8": {
@@ -2984,7 +2984,7 @@
       "name": "Router Protocol [OLD]",
       "address": "0x8413041a7702603d9d991f2c4add29e4e8a241f8",
       "symbol": "ROUTE",
-      "assetGroup": "ROUTE (Router Protocol [OLD])",
+      "assetGroup": "Router Protocol [OLD]::ROUTE",
       "tags": ["debridge"]
     },
     "0x95ec2f13ea96251c7037ecc0c2a25ea7d6be520b": {
@@ -2993,7 +2993,7 @@
       "name": "WILDCOIN",
       "address": "0x95ec2f13ea96251c7037ecc0c2a25ea7d6be520b",
       "symbol": "WILDCOIN",
-      "assetGroup": "WILDCOIN (WILDCOIN)",
+      "assetGroup": "WILDCOIN::WILDCOIN",
       "tags": ["debridge"]
     }
   },

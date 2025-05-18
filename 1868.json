@@ -19,7 +19,7 @@
       "address": "0x3a337a6ada9d885b6ad95ec48f9b75f197b5ae35",
       "symbol": "USDT",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
-      "assetGroup": "USDT",
+      "assetGroup": "Tether USD::USDT",
       "tags": ["coingecko"]
     },
     "0x4200000000000000000000000000000000000006": {
@@ -39,7 +39,7 @@
       "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
       "symbol": "WBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/54974/thumb/wrapped_bitcoin_wbtc.png?1742962734",
-      "assetGroup": "WBTC (LayerZero Bridged WBTC)",
+      "assetGroup": "LayerZero Bridged WBTC::WBTC",
       "tags": ["bridged", "layerzero", "coingecko"]
     },
     "0x3b0dc2dac9498a024003609031d973b1171de09e": {
@@ -49,7 +49,7 @@
       "address": "0x3b0dc2dac9498a024003609031d973b1171de09e",
       "symbol": "WSTASTR",
       "logoURI": "https://assets.coingecko.com/coins/images/54782/thumb/wstASTR.png?1741570094",
-      "assetGroup": "WSTASTR (Wrapped stASTR)",
+      "assetGroup": "Wrapped stASTR::WSTASTR",
       "tags": ["coingecko"]
     },
     "0x2cae934a1e84f693fbb78ca5ed3b0a6893259441": {
@@ -59,7 +59,7 @@
       "address": "0x2cae934a1e84f693fbb78ca5ed3b0a6893259441",
       "symbol": "ASTR",
       "logoURI": "https://assets.coingecko.com/coins/images/53778/thumb/astar.jpg?1737341226",
-      "assetGroup": "ASTR (Soneium Bridged ASTR)",
+      "assetGroup": "Soneium Bridged ASTR::ASTR",
       "tags": ["bridged", "coingecko"]
     },
     "0xa8feaae65c44b458a16ea4e709036a2ee85d073a": {
@@ -69,7 +69,7 @@
       "address": "0xa8feaae65c44b458a16ea4e709036a2ee85d073a",
       "symbol": "HAHA",
       "logoURI": "https://assets.coingecko.com/coins/images/36245/thumb/HAHA_Logo.png?1710921482",
-      "assetGroup": "HAHA (Mother of Memes)",
+      "assetGroup": "Mother of Memes::HAHA",
       "tags": ["coingecko"]
     },
     "0xf24e57b1cb00d98c31f04f86328e22e8fca457fb": {
@@ -79,7 +79,7 @@
       "address": "0xf24e57b1cb00d98c31f04f86328e22e8fca457fb",
       "symbol": "SONE",
       "logoURI": "https://assets.coingecko.com/coins/images/53814/thumb/20250116-173015.png?1737432919",
-      "assetGroup": "SONE (SONE)",
+      "assetGroup": "SONE::SONE",
       "tags": ["coingecko"]
     },
     "0x60336f9296c79da4294a19153ec87f8e52158e5f": {
@@ -89,7 +89,7 @@
       "address": "0x60336f9296c79da4294a19153ec87f8e52158e5f",
       "symbol": "VASTR",
       "logoURI": "https://assets.coingecko.com/coins/images/34706/thumb/vASTR.png?1705893008",
-      "assetGroup": "VASTR (Bifrost Voucher ASTR)",
+      "assetGroup": "Bifrost Voucher ASTR::VASTR",
       "tags": ["coingecko"]
     },
     "0xc67476893c166c537afd9bc6bc87b3f228b44337": {
@@ -99,7 +99,7 @@
       "address": "0xc67476893c166c537afd9bc6bc87b3f228b44337",
       "symbol": "NSASTR",
       "logoURI": "https://assets.coingecko.com/coins/images/53907/thumb/nsASTR_2x.png?1737707599",
-      "assetGroup": "NSASTR (Neemo Staked Astar)",
+      "assetGroup": "Neemo Staked Astar::NSASTR",
       "tags": ["coingecko"]
     },
     "0x54e86315c03217b76a7466c302245fd10ebef25a": {
@@ -109,7 +109,7 @@
       "address": "0x54e86315c03217b76a7466c302245fd10ebef25a",
       "symbol": "YAYSTONE",
       "logoURI": "https://assets.coingecko.com/coins/images/54279/thumb/Yay!_Stone200w.png?1739438931",
-      "assetGroup": "YAYSTONE (Yay StakeStone Ether)",
+      "assetGroup": "Yay StakeStone Ether::YAYSTONE",
       "tags": ["coingecko"]
     },
     "0xda14b3b7aef494b8c37ed9710d14e44d490316fa": {
@@ -119,7 +119,7 @@
       "address": "0xda14b3b7aef494b8c37ed9710d14e44d490316fa",
       "symbol": "YAYAGETH",
       "logoURI": "https://assets.coingecko.com/coins/images/54281/thumb/yayagETH200w.png?1739438881",
-      "assetGroup": "YAYAGETH (Yay Kelp DAO s Airdrop Gain ETH)",
+      "assetGroup": "Yay Kelp DAO s Airdrop Gain ETH::YAYAGETH",
       "tags": ["coingecko"]
     },
     "0xa0aebd4ae5f256b72b7d43f67ed934237adb1aee": {
@@ -129,7 +129,7 @@
       "address": "0xa0aebd4ae5f256b72b7d43f67ed934237adb1aee",
       "symbol": "BONSAICOIN",
       "logoURI": "https://assets.coingecko.com/coins/images/39273/thumb/1000007690.png?1721386111",
-      "assetGroup": "BONSAICOIN (Bonsai Coin)",
+      "assetGroup": "Bonsai Coin::BONSAICOIN",
       "tags": ["coingecko"]
     },
     "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189": {
@@ -139,7 +139,7 @@
       "address": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
       "symbol": "OUSDT",
       "logoURI": "https://assets.coingecko.com/coins/images/54815/thumb/ousdt.jpg?1741848258",
-      "assetGroup": "OUSDT (OpenUSDT)",
+      "assetGroup": "OpenUSDT::OUSDT",
       "tags": ["coingecko"]
     },
     "0x6c460b2c6d6719562d5da43e5152b375e79b9a8b": {
@@ -149,7 +149,7 @@
       "address": "0x6c460b2c6d6719562d5da43e5152b375e79b9a8b",
       "symbol": "PUFETH",
       "logoURI": "https://assets.coingecko.com/coins/images/35176/thumb/pufETH-200-200-resolution.png?1707753174",
-      "assetGroup": "PUFETH (pufETH)",
+      "assetGroup": "pufETH::PUFETH",
       "tags": ["coingecko"]
     },
     "0xaffeb8576b927050f5a3b6fba43f360d2883a118": {
@@ -169,7 +169,7 @@
       "address": "0x570f09ac53b96929e3868f71864e36ff6b1b67d7",
       "symbol": "ARCAS",
       "logoURI": "https://assets.coingecko.com/coins/images/17404/thumb/Arcas_Logo.png?1737199437",
-      "assetGroup": "ARCAS (Arcas)",
+      "assetGroup": "Arcas::ARCAS",
       "tags": ["coingecko"]
     },
     "0x541fd749419ca806a8bc7da8ac23d346f2df8b77": {
@@ -199,7 +199,7 @@
       "address": "0x8cd846c404c7267350a2920576816603cd5c6539",
       "symbol": "PIPO",
       "logoURI": "https://assets.coingecko.com/coins/images/54474/thumb/Pipo.jpg?1739951527",
-      "assetGroup": "PIPO (Pipo)",
+      "assetGroup": "Pipo::PIPO",
       "tags": ["coingecko"]
     },
     "0x61f2993a644762a345b483adf0d6351c5edfb3b5": {
@@ -209,7 +209,7 @@
       "address": "0x61f2993a644762a345b483adf0d6351c5edfb3b5",
       "symbol": "UBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/55079/thumb/uBTC.png?1743613297",
-      "assetGroup": "UBTC (uBTC)",
+      "assetGroup": "uBTC::UBTC",
       "tags": ["coingecko"]
     },
     "0x3d63825b0d8669307366e6c8202f656b9e91d368": {
@@ -219,7 +219,7 @@
       "address": "0x3d63825b0d8669307366e6c8202f656b9e91d368",
       "symbol": "WGC",
       "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831",
-      "assetGroup": "WGC (Wild Goat Coin)",
+      "assetGroup": "Wild Goat Coin::WGC",
       "tags": ["coingecko"]
     }
   },

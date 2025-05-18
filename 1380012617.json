@@ -9,7 +9,7 @@
       "address": "0xd65ccecff339e5680b1a1e7821421932cc2b114f",
       "symbol": "ICE",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1380012617/0xd65CceCFf339e5680b1A1E7821421932cc2b114f.png",
-      "assetGroup": "ICE (IceCream)"
+      "assetGroup": "IceCream::ICE"
     },
     "0x7d5a56742c082fcdfc240cd7d1775f00e059771f": {
       "chainId": "1380012617",
@@ -18,7 +18,7 @@
       "address": "0x7d5a56742c082fcdfc240cd7d1775f00e059771f",
       "symbol": "USDT",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1380012617/0x7D5a56742C082FcDfc240cd7D1775f00e059771F.png",
-      "assetGroup": "USDT",
+      "assetGroup": "Bridged USDT (ICE)::USDT",
       "tags": ["bridged"]
     },
     "0xf037540e51d71b2d2b1120e8432ba49f29edfbd0": {
@@ -46,7 +46,7 @@
       "address": "0x362fae9a75b27bbc550aac28a7c1f96c8d483120",
       "symbol": "USDT",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdt.svg",
-      "assetGroup": "USDT"
+      "assetGroup": "Tether USD::USDT"
     },
     "0x57fc3d0ed1814e66186b39d59d78ca9872529bbb": {
       "chainId": "1380012617",
@@ -55,7 +55,7 @@
       "address": "0x57fc3d0ed1814e66186b39d59d78ca9872529bbb",
       "symbol": "ROSS",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/ross.png",
-      "assetGroup": "ROSS (RARI Opinion Shaping System)"
+      "assetGroup": "RARI Opinion Shaping System::ROSS"
     },
     "0x5d82ac302c64b229dc94f866fd10ec6ccf8d47a2": {
       "chainId": "1380012617",
@@ -64,7 +64,7 @@
       "address": "0x5d82ac302c64b229dc94f866fd10ec6ccf8d47a2",
       "symbol": "RARIETH",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/rarieth.svg",
-      "assetGroup": "RARIETH (rariETH)"
+      "assetGroup": "rariETH::RARIETH"
     },
     "0xcf78572a8fe97b2b9a4b9709f6a7d9a863c1b8e0": {
       "chainId": "1380012617",
@@ -73,7 +73,7 @@
       "address": "0xcf78572a8fe97b2b9a4b9709f6a7d9a863c1b8e0",
       "symbol": "RARI",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/rari.svg",
-      "assetGroup": "RARI (RARI)"
+      "assetGroup": "RARI::RARI"
     }
   },
   "mainTokens": [

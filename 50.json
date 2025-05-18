@@ -9,7 +9,7 @@
       "address": "0x54051d9dbe99687867090d95fe15c3d3e35512ba",
       "symbol": "ICE",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/50/0x54051D9DbE99687867090d95fe15C3D3E35512Ba.png",
-      "assetGroup": "ICE (IceCream)"
+      "assetGroup": "IceCream::ICE"
     },
     "0x867f08a3ab824b42e8058a1b48e32e1df205b092": {
       "chainId": "50",
@@ -81,7 +81,7 @@
       "address": "0xc57f0eb99363e747d637b17bbdb4e1ab85e60631",
       "symbol": "USDT",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/50/0xc57F0eb99363e747D637B17BBdB4e1AB85e60631.png",
-      "assetGroup": "USDT"
+      "assetGroup": "Tether USD::USDT"
     },
     "0xc280ebcd651d2a0c8d4bb49151062c9eef55d370": {
       "chainId": "50",
@@ -90,7 +90,7 @@
       "address": "0xc280ebcd651d2a0c8d4bb49151062c9eef55d370",
       "symbol": "US+",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/50/0xc280EbcD651d2a0C8D4bb49151062C9eEF55d370.png",
-      "assetGroup": "US+ (USPLUS)"
+      "assetGroup": "USPLUS::US+"
     },
     "0xb6e57fbb2d44092f75d9da2769ffc788ce931320": {
       "chainId": "50",
@@ -99,7 +99,7 @@
       "address": "0xb6e57fbb2d44092f75d9da2769ffc788ce931320",
       "symbol": "BTCx",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/50/0xb6E57fBB2D44092f75d9da2769FFc788ce931320.png",
-      "assetGroup": "BTCx (BitcoinX)"
+      "assetGroup": "BitcoinX::BTCx"
     },
     "0x84fb1a5795858e7296780a7f55c43afa20e9a7ae": {
       "chainId": "50",
@@ -108,7 +108,7 @@
       "address": "0x84fb1a5795858e7296780a7f55c43afa20e9a7ae",
       "symbol": "GEM",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/50/0x84fb1a5795858E7296780a7f55C43afa20e9A7Ae.png",
-      "assetGroup": "GEM (GEM)"
+      "assetGroup": "GEM::GEM"
     },
     "0x1ebb2c8a71a9ec59bf558886a8adf8f4a565814f": {
       "chainId": "50",
@@ -126,7 +126,7 @@
       "address": "0x951857744785e80e2de051c32ee7b25f9c458c42",
       "symbol": "WXDC",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/50/0x951857744785E80e2De051c32EE7b25f9c458C42.png",
-      "assetGroup": "WXDC (Wrapped XDC)"
+      "assetGroup": "Wrapped XDC::WXDC"
     },
     "0xfa4ddcfa8e3d0475f544d0de469277cf6e0a6fd1": {
       "chainId": "50",
@@ -135,7 +135,7 @@
       "address": "0xfa4ddcfa8e3d0475f544d0de469277cf6e0a6fd1",
       "symbol": "BBB",
       "logoURI": "https://assets.coingecko.com/coins/images/50629/thumb/bbb.png?1732594921",
-      "assetGroup": "BBB (Beny Bad Boy)",
+      "assetGroup": "Beny Bad Boy::BBB",
       "tags": ["coingecko"]
     },
     "0x2a8e898b6242355c290e1f4fc966b8788729a4d4": {
@@ -155,7 +155,7 @@
       "address": "0x678adf7955d8f6dcaa9e2fcc1c5ba70bccc464e6",
       "symbol": "GAMA",
       "logoURI": "https://assets.coingecko.com/coins/images/51308/thumb/Gama_Icon_%281%29.png?1730628523",
-      "assetGroup": "GAMA (GAMA Coin)",
+      "assetGroup": "GAMA Coin::GAMA",
       "tags": ["coingecko"]
     },
     "0x9b8e12b0bac165b86967e771d98b520ec3f665a6": {
@@ -165,7 +165,7 @@
       "address": "0x9b8e12b0bac165b86967e771d98b520ec3f665a6",
       "symbol": "PSXDC",
       "logoURI": "https://assets.coingecko.com/coins/images/54097/thumb/XDC-PNL-CIRCLE.png?1738224626",
-      "assetGroup": "PSXDC (Prime Staked XDC)",
+      "assetGroup": "Prime Staked XDC::PSXDC",
       "tags": ["coingecko"]
     },
     "0x3fb46c4db76d8e9f69f3f8388f43a7ca7e140807": {
@@ -175,7 +175,7 @@
       "address": "0x3fb46c4db76d8e9f69f3f8388f43a7ca7e140807",
       "symbol": "DOPU",
       "logoURI": "https://assets.coingecko.com/coins/images/38634/thumb/Dopu-Coin_200x200_%282%29.png?1718172914",
-      "assetGroup": "DOPU (Dog With Purpose)",
+      "assetGroup": "Dog With Purpose::DOPU",
       "tags": ["coingecko"]
     },
     "0x05940b2df33d6371201e7ae099ced4c363855dfe": {
@@ -185,7 +185,7 @@
       "address": "0x05940b2df33d6371201e7ae099ced4c363855dfe",
       "symbol": "LBT",
       "logoURI": "https://assets.coingecko.com/coins/images/26266/thumb/photo_6264996132874731595_y.jpg?1717679177",
-      "assetGroup": "LBT (Law Blocks)",
+      "assetGroup": "Law Blocks::LBT",
       "tags": ["coingecko"]
     },
     "0x49d3f7543335cf38fa10889ccff10207e22110b5": {
@@ -195,7 +195,7 @@
       "address": "0x49d3f7543335cf38fa10889ccff10207e22110b5",
       "symbol": "FXD",
       "logoURI": "https://assets.coingecko.com/coins/images/31113/thumb/fxd_200x200_%281%29.png?1696529943",
-      "assetGroup": "FXD (Fathom Dollar)",
+      "assetGroup": "Fathom Dollar::FXD",
       "tags": ["coingecko"]
     },
     "0x81b244d0be055ef3bef1b09b7826cc2b108b2cbd": {
@@ -205,7 +205,7 @@
       "address": "0x81b244d0be055ef3bef1b09b7826cc2b108b2cbd",
       "symbol": "PRFI",
       "logoURI": "https://assets.coingecko.com/coins/images/55355/thumb/Prime_Numbers_Icon_%281%29.png?1745589445",
-      "assetGroup": "PRFI (PrimeFi)",
+      "assetGroup": "PrimeFi::PRFI",
       "tags": ["coingecko"]
     }
   },

@@ -37,7 +37,7 @@
       "address": "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e",
       "symbol": "USDT",
       "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdt.png",
-      "assetGroup": "USDT"
+      "assetGroup": "Tether USD::USDT"
     },
     "0xaa40c0c7644e0b2b224509571e10ad20d9c4ef28": {
       "chainId": "43111",
@@ -82,7 +82,7 @@
       "address": "0x1b529b888d15711b4baeb5a3b12465dc3e2520a3",
       "symbol": "PASS",
       "logoURI": "https://passdex.s3.ap-southeast-1.amazonaws.com/43111/0x1B529B888d15711b4baeb5A3B12465DC3E2520A3.png",
-      "assetGroup": "PASS (PassDex)"
+      "assetGroup": "PassDex::PASS"
     },
     "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3": {
       "chainId": "43111",
@@ -118,7 +118,7 @@
       "address": "0x78e26e8b953c7c78a58d69d8b9a91745c2bbb258",
       "symbol": "uBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/50252/thumb/UA-BTC_1.png?1726721793",
-      "assetGroup": "uBTC (uBTC)"
+      "assetGroup": "uBTC::uBTC"
     },
     "0x9bfa177621119e64cecbeabe184ab9993e2ef727": {
       "chainId": "43111",
@@ -145,7 +145,7 @@
       "address": "0x12b6e6fc45f81cda81d2656b974e8190e4ab8d93",
       "symbol": "tBTC",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/60808/0xBBa2eF945D523C4e2608C9E1214C2Cc64D4fc2e2.png",
-      "assetGroup": "tBTC (tBTC v2)"
+      "assetGroup": "tBTC v2::tBTC"
     },
     "0xf9775085d726e782e83585033b58606f7731ab18": {
       "chainId": "43111",
@@ -162,7 +162,7 @@
       "name": "Liquid Staked BTC",
       "address": "0x0af3ec6f9592c193196bef220bc0ce4d9311527d",
       "symbol": "Remote Bridged mBTC",
-      "assetGroup": "Remote Bridged mBTC (Liquid Staked BTC)"
+      "assetGroup": "Liquid Staked BTC::Remote Bridged mBTC"
     },
     "0xe85411c030fb32a9d8b14bbbc6cb19417391f711": {
       "chainId": "43111",
@@ -180,7 +180,7 @@
       "address": "0xc93b7aae2802f57eb9d98e2b6a68217d75a0658c",
       "symbol": "NBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/52630/thumb/NBTC-logo.png?1733837414",
-      "assetGroup": "NBTC (NexusBTC)"
+      "assetGroup": "NexusBTC::NBTC"
     },
     "0xc3eacf0612346366db554c991d7858716db09f58": {
       "chainId": "43111",
@@ -197,7 +197,7 @@
       "name": "Bridged egETH",
       "address": "0x027a9d301fb747cd972cfb29a63f3bda551dfc5c",
       "symbol": "Bridged egETH",
-      "assetGroup": "Bridged egETH (Bridged egETH)",
+      "assetGroup": "Bridged egETH::Bridged egETH",
       "tags": ["bridged"]
     },
     "0x1c22531aa9747d76fff8f0a43b37954ca67d28e0": {
@@ -206,7 +206,7 @@
       "name": "Sumerian ETH",
       "address": "0x1c22531aa9747d76fff8f0a43b37954ca67d28e0",
       "symbol": "suETH",
-      "assetGroup": "suETH (Sumerian ETH)"
+      "assetGroup": "Sumerian ETH::suETH"
     },
     "0xb4818bb69478730ef4e33cc068dd94278e2766cb": {
       "chainId": "43111",
@@ -215,7 +215,7 @@
       "address": "0xb4818bb69478730ef4e33cc068dd94278e2766cb",
       "symbol": "satUSD",
       "logoURI": "https://app.satoshiprotocol.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FsatIcon.c7c91de1.png&w=32&q=75",
-      "assetGroup": "satUSD (Satoshi Stablecoin V2)"
+      "assetGroup": "Satoshi Stablecoin V2::satUSD"
     },
     "0x8bf591eae535f93a242d5a954d3cde648b48a5a8": {
       "chainId": "43111",
@@ -224,7 +224,7 @@
       "address": "0x8bf591eae535f93a242d5a954d3cde648b48a5a8",
       "symbol": "suUSD",
       "logoURI": "https://cdn.coinranking.com/4b6XSzcE6/SUSS.PNG?size=48x48",
-      "assetGroup": "suUSD (Sumerian USD)"
+      "assetGroup": "Sumerian USD::suUSD"
     },
     "0x6c851f501a3f24e29a8e39a29591cddf09369080": {
       "chainId": "43111",
@@ -241,7 +241,7 @@
       "name": "Metronome2",
       "address": "0x54df33333c78c13b1448cb35a0e49f75c3d4347f",
       "symbol": "MET",
-      "assetGroup": "MET (Metronome2)"
+      "assetGroup": "Metronome2::MET"
     },
     "0xb2960608948c4d216f72f98c39eb3d0e775e3923": {
       "chainId": "43111",
@@ -257,7 +257,7 @@
       "name": "Burn Wrapped AJNA",
       "address": "0x63d367531b460da78a9ebbaf6c1fbfc397e5d40a",
       "symbol": "bwAJNA",
-      "assetGroup": "bwAJNA (Burn Wrapped AJNA)"
+      "assetGroup": "Burn Wrapped AJNA::bwAJNA"
     },
     "0x584666a5024b9fe9e6a9cacb834f42ccaa248d08": {
       "chainId": "43111",
@@ -297,7 +297,7 @@
       "name": "Lumerin",
       "address": "0x98d6e32f3092d39a6c0b36062cc9eb1e52ccc99d",
       "symbol": "LMR",
-      "assetGroup": "LMR (Lumerin)"
+      "assetGroup": "Lumerin::LMR"
     },
     "0x4f6a87566ebca017b147da84954d94b10d830727": {
       "chainId": "43111",
@@ -330,7 +330,7 @@
       "name": "VesperToken",
       "address": "0x21c1f6be5765d378add561edddd1127a65df3820",
       "symbol": "VSP",
-      "assetGroup": "VSP (VesperToken)"
+      "assetGroup": "VesperToken::VSP"
     },
     "0x0ffb62483517309afd039b117d795521e8320a1b": {
       "chainId": "43111",
@@ -338,7 +338,7 @@
       "name": "SushiSwap LP Token (VUSD-hemiBTC)",
       "address": "0x0ffb62483517309afd039b117d795521e8320a1b",
       "symbol": "SLP",
-      "assetGroup": "SLP (SushiSwap LP Token (VUSD-hemiBTC))"
+      "assetGroup": "SushiSwap LP Token (VUSD-hemiBTC)::SLP"
     },
     "0xaf6ed58980b5a0732423469dd9f3f69d9dc6dab5": {
       "chainId": "43111",
@@ -346,7 +346,7 @@
       "name": "SushiSwap LP Token (WETH-USDC.e)",
       "address": "0xaf6ed58980b5a0732423469dd9f3f69d9dc6dab5",
       "symbol": "SLP",
-      "assetGroup": "SLP (SushiSwap LP Token (WETH-USDC.e))"
+      "assetGroup": "SushiSwap LP Token (WETH-USDC.e)::SLP"
     },
     "0xf23eec60263de9b0c8472c58be10feba28d9eb53": {
       "chainId": "43111",
@@ -354,7 +354,7 @@
       "name": "SushiSwap LP Token (VUSD-USDC.e)",
       "address": "0xf23eec60263de9b0c8472c58be10feba28d9eb53",
       "symbol": "SLP",
-      "assetGroup": "SLP (SushiSwap LP Token (VUSD-USDC.e))"
+      "assetGroup": "SushiSwap LP Token (VUSD-USDC.e)::SLP"
     }
   },
   "mainTokens": [

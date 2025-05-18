@@ -9,7 +9,7 @@
       "address": "0xda5ddd7270381a7c2717ad10d1c0ecb19e3cdfb2",
       "symbol": "WBTCN",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/btcn.svg",
-      "assetGroup": "WBTCN (Wrapped Bitcorn)",
+      "assetGroup": "Wrapped Bitcorn::WBTCN",
       "tags": ["coingecko"]
     },
     "0xdf0b24095e15044538866576754f3c964e902ee6": {
@@ -47,7 +47,7 @@
       "address": "0x76b0d27f268f405584aca51b371b144dd5b0a155",
       "symbol": "aBTC",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/abtc.png",
-      "assetGroup": "aBTC (aBTC)"
+      "assetGroup": "aBTC::aBTC"
     },
     "0x09def5abc67e967d54e8233a4b5ebbc1b3fbe34b": {
       "chainId": "21000000",
@@ -56,7 +56,7 @@
       "address": "0x09def5abc67e967d54e8233a4b5ebbc1b3fbe34b",
       "symbol": "waBTC",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/abtc.png",
-      "assetGroup": "waBTC (Wrapped aBTC)"
+      "assetGroup": "Wrapped aBTC::waBTC"
     },
     "0xecac9c5f704e954931349da37f60e39f515c11c1": {
       "chainId": "21000000",
@@ -84,7 +84,7 @@
       "address": "0xa540133ce4be89dfcddbb6a6d5fb132676a21aa7",
       "symbol": "POINTS",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/points.svg",
-      "assetGroup": "POINTS (Camelot Points Token)"
+      "assetGroup": "Camelot Points Token::POINTS"
     },
     "0x541fd749419ca806a8bc7da8ac23d346f2df8b77": {
       "chainId": "21000000",
@@ -122,7 +122,7 @@
       "address": "0xff12470a969dd362eb6595ffb44c82c959fe9acc",
       "symbol": "USDa",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usda.svg",
-      "assetGroup": "USDa (USDa)"
+      "assetGroup": "USDa::USDa"
     },
     "0x93919784c523f39cacaa98ee0a9d96c3f32b593e": {
       "chainId": "21000000",
@@ -141,7 +141,7 @@
       "address": "0x44f49ff0da2498bcb1d3dc7c0f999578f67fd8c6",
       "symbol": "CORN",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/corn.png",
-      "assetGroup": "CORN (Corn)",
+      "assetGroup": "Corn::CORN",
       "tags": ["coingecko"]
     },
     "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb": {
@@ -151,7 +151,7 @@
       "address": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
       "symbol": "USDT0",
       "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183",
-      "assetGroup": "USDT0 (USDT0)",
+      "assetGroup": "USDT0::USDT0",
       "tags": ["coingecko"]
     },
     "0x9cf9f00f3498c2ac856097087e041523dfdd71ff": {
@@ -161,7 +161,7 @@
       "address": "0x9cf9f00f3498c2ac856097087e041523dfdd71ff",
       "symbol": "POPCORN",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/popcorn.png",
-      "assetGroup": "POPCORN (popCORN)"
+      "assetGroup": "popCORN::POPCORN"
     }
   },
   "mainTokens": [
