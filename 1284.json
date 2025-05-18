@@ -125,7 +125,7 @@
     "0x8f552a71efe5eefc207bf75485b356a0b3f01ec9": {
       "chainId": "1284",
       "decimals": 6,
-      "name": "Nomad Bridged USDC",
+      "name": "Bridged USDC (Nomad)",
       "address": "0x8f552a71efe5eefc207bf75485b356a0b3f01ec9",
       "symbol": "USDC",
       "logoURI": "https://assets.coingecko.com/coins/images/35231/thumb/USDC.jpg?1707925331",
@@ -145,7 +145,7 @@
     "0x30d2a9f5fdf90ace8c17952cbb4ee48a55d916a7": {
       "chainId": "1284",
       "decimals": 18,
-      "name": "Nomad Bridged WETH",
+      "name": "Bridged WETH (Nomad)",
       "address": "0x30d2a9f5fdf90ace8c17952cbb4ee48a55d916a7",
       "symbol": "WETH",
       "logoURI": "https://assets.coingecko.com/coins/images/39720/thumb/WETH.PNG?1723732514",
@@ -294,11 +294,11 @@
     "0x6a2d262d56735dba19dd70682b39f6be9a931d98": {
       "chainId": "1284",
       "decimals": 6,
-      "name": "Bridged USD Coin (Celer)",
+      "name": "Bridged USDC (Celer)",
       "address": "0x6a2d262d56735dba19dd70682b39f6be9a931d98",
       "symbol": "CEUSDC",
       "logoURI": "https://assets.coingecko.com/coins/images/24823/thumb/usdc.png?1696523981",
-      "assetGroup": "CEUSDC (Bridged USD Coin (Celer))",
+      "assetGroup": "CEUSDC (Bridged USDC (Celer))",
       "tags": ["celer", "bridged", "coingecko"]
     },
     "0x1581929770be3275a82068c1135b6dd59c5334ed": {
@@ -323,7 +323,7 @@
     "0xca01a1d0993565291051daff390892518acfad3a": {
       "chainId": "1284",
       "decimals": 6,
-      "name": "Axelar Bridged USDC",
+      "name": "Bridged USDC (Axelar)",
       "address": "0xca01a1d0993565291051daff390892518acfad3a",
       "symbol": "AXLUSDC",
       "logoURI": "https://assets.coingecko.com/coins/images/26476/thumb/uausdc_D_3x.png?1696525548",

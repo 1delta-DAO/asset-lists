@@ -630,7 +630,7 @@
     "0xeb466342c4d449bc9f53a865d5cb90586f405215": {
       "chainId": "5000",
       "decimals": 6,
-      "name": "Axelar USDC",
+      "name": "Bridged USDC (Axelar)",
       "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
       "symbol": "axlUSDC",
       "logoURI": "https://cdn.jsdelivr.net/gh/unified-defi/equalizer-tokens@latest/fantom/tokens/128x128/0x1b6382dbdea11d97f24495c9a90b7c88469134a4.png",
@@ -865,11 +865,11 @@
     "0x1d40bafc49c37cda49f2a5427e2fb95e1e3fcf20": {
       "chainId": "5000",
       "decimals": 18,
-      "name": "SolvBTC Babylon",
+      "name": "xSolvBTC",
       "address": "0x1d40bafc49c37cda49f2a5427e2fb95e1e3fcf20",
-      "symbol": "SolvBTC.BBN",
-      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/SolvBTC.BBN.webp",
-      "assetGroup": "SOLVBTC.BBN",
+      "symbol": "xSolvBTC",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/xSolvBTC.webp",
+      "assetGroup": "xSolvBTC",
       "tags": ["coingecko"]
     },
     "0x93919784c523f39cacaa98ee0a9d96c3f32b593e": {

@@ -1974,7 +1974,7 @@
     "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8": {
       "chainId": "42161",
       "decimals": 6,
-      "name": "Bridged USD Coin",
+      "name": "Bridged USDC",
       "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
       "symbol": "USDC.e",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
@@ -3811,7 +3811,7 @@
     "0xeb466342c4d449bc9f53a865d5cb90586f405215": {
       "chainId": "42161",
       "decimals": 6,
-      "name": "Axelar Wrapped USDC",
+      "name": "Bridged USDC (Axelar)",
       "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
       "symbol": "axlUSDC",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/axlusdc.svg",
@@ -8962,11 +8962,11 @@
     "0x346c574c56e1a4aaa8dc88cda8f7eb12b39947ab": {
       "chainId": "42161",
       "decimals": 18,
-      "name": "SolvBTC Babylon",
+      "name": "xSolvBTC",
       "address": "0x346c574c56e1a4aaa8dc88cda8f7eb12b39947ab",
-      "symbol": "SolvBTC.BBN",
-      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/SolvBTC.BBN.webp",
-      "assetGroup": "SOLVBTC.BBN",
+      "symbol": "xSolvBTC",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/xSolvBTC.webp",
+      "assetGroup": "xSolvBTC",
       "tags": ["coingecko", "debridge"]
     },
     "0x35f1c5cb7fb977e669fd244c567da99d8a3a6850": {
@@ -9722,7 +9722,7 @@
     "0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6": {
       "chainId": "42161",
       "decimals": 6,
-      "name": "Axelar Bridged Tether",
+      "name": "Bridged USDT (Axelar)",
       "address": "0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6",
       "symbol": "axlUSDT",
       "logoURI": "https://assets.coingecko.com/coins/images/31002/thumb/uusdt_D_3x.png?1696529840",
