@@ -231,6 +231,16 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55838/thumb/Zippy_pfp.jpg?1747404050",
       "assetGroup": "ZIPPY (ZIPPY)",
       "tags": ["coingecko"]
+    },
+    "0x52629ddbf28aa01aa22b994ec9c80273e4eb5b0a": {
+      "chainId": "2741",
+      "decimals": 18,
+      "name": "RETSBA",
+      "address": "0x52629ddbf28aa01aa22b994ec9c80273e4eb5b0a",
+      "symbol": "RETSBA",
+      "logoURI": "https://assets.coingecko.com/coins/images/55879/thumb/Screenshot_2025-05-16_113916.png?1747556145",
+      "assetGroup": "RETSBA (RETSBA)",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -251,7 +261,9 @@
     "0x93ed1bab3f7efa93d2e2179b1ff6caccfa30a2e3",
     "0xdf70075737e9f96b078ab4461eee3e055e061223",
     "0xe516db039440f3d7aeaf92ed52ab8c5a190083b0",
-    "0x3520fc294a76c119c8924072c37992e39a626f85"
+    "0x3520fc294a76c119c8924072c37992e39a626f85",
+    "0x8ad5c50511eb7e8f1b78d01373e3c663413e364d",
+    "0x52629ddbf28aa01aa22b994ec9c80273e4eb5b0a"
   ],
   "bridgeTokens": ["0x84a71ccd554cc1b02749b35d22f684cc8ec987e1", "0x3439153eb7af838ad19d56e1571fbd09333c2809"]
 }

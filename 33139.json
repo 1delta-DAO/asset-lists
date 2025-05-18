@@ -173,7 +173,7 @@
       "address": "0x4332f8a38f14bd3d8d1553af27d7c7ac6c27278d",
       "symbol": "APEFI",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/apefi.png",
-      "assetGroup": "APEFI (Ape Finance)"
+      "assetGroup": "APEFI"
     },
     "0x23a5594ec077475cc466367d0b05222da206b906": {
       "chainId": "33139",
@@ -200,7 +200,7 @@
       "address": "0x4b6bf1d365ea1a8d916da37fafd4ae8c86d061d7",
       "symbol": "EAI",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/eai.png",
-      "assetGroup": "EAI (Eternal AI)"
+      "assetGroup": "EAI"
     },
     "0x9d5a7d38caf04ec7d2f04cad6e90565516cd59ba": {
       "chainId": "33139",
@@ -236,7 +236,8 @@
       "address": "0x674843c06ff83502ddb4d37c2e09c01cda38cbc8",
       "symbol": "USDT",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdt.svg",
-      "assetGroup": "USDT"
+      "assetGroup": "USDT",
+      "tags": ["bridged"]
     },
     "0x74dd2998887b3e55479a84ecb7ac8e10f453e0f1": {
       "chainId": "33139",

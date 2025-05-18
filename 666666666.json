@@ -18,7 +18,7 @@
       "address": "0x7b2a5c88ab9367147f6ac384f857cbadf5aa70a7",
       "symbol": "ICE",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/666666666/0x7b2a5C88AB9367147F6ac384F857CbaDF5aA70a7.png",
-      "assetGroup": "ICE"
+      "assetGroup": "ICE (IceCream)"
     },
     "0x4306030564ef40d6302daa9b1ace580fe2dfd6c6": {
       "chainId": "666666666",
@@ -120,7 +120,8 @@
       "address": "0x674843c06ff83502ddb4d37c2e09c01cda38cbc8",
       "symbol": "USDT",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdt.svg",
-      "assetGroup": "USDT"
+      "assetGroup": "USDT",
+      "tags": ["bridged"]
     },
     "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590": {
       "chainId": "666666666",
