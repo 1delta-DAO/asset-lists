@@ -25,7 +25,7 @@
     "0x2995d1317dcd4f0ab89f4ae60f3f020a4f17c7ce": {
       "chainId": "100",
       "decimals": 18,
-      "name": "SushiToken",
+      "name": "Sushi",
       "address": "0x2995d1317dcd4f0ab89f4ae60f3f020a4f17c7ce",
       "symbol": "SUSHI",
       "logoURI": "https://s3.openocean.finance/token_logos/logos/1638173288593_6586174879249498.png",
@@ -115,7 +115,7 @@
     "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83": {
       "chainId": "100",
       "decimals": 6,
-      "name": "USDC",
+      "name": "USD Coin",
       "address": "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83",
       "symbol": "USDC",
       "logoURI": "https://assets.coingecko.com/coins/images/35300/thumb/USDC_Icon.png?1708083625",
@@ -185,7 +185,7 @@
     "0x44fa8e6f47987339850636f88629646662444217": {
       "chainId": "100",
       "decimals": 18,
-      "name": "OmniBridge Bridged DAI",
+      "name": "Bridged DAI (OmniBridge)",
       "address": "0x44fa8e6f47987339850636f88629646662444217",
       "symbol": "DAI",
       "logoURI": "https://assets.coingecko.com/coins/images/39808/thumb/dai.png?1724126705",
@@ -295,9 +295,9 @@
     "0x2a22f9c3b484c3629090feed35f17ff8f88f76f0": {
       "chainId": "100",
       "decimals": 6,
-      "name": "xDAI Bridged USDC",
+      "name": "Bridged USDC",
       "address": "0x2a22f9c3b484c3629090feed35f17ff8f88f76f0",
-      "symbol": "USDCE",
+      "symbol": "USDC.e",
       "logoURI": "https://assets.coingecko.com/coins/images/38775/thumb/USDC_Icon.webp?1718798033",
       "assetGroup": "USDCE (xDAI Bridged USDC)",
       "tags": ["bridged", "coingecko"]
