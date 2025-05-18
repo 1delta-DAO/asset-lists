@@ -9,7 +9,7 @@
       "address": "0xb6ed7644c69416d67b522e20bc294a9a9b405b31",
       "symbol": "0XBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/4454/large/0xbtc.png?1561603765",
-      "assetGroup": "0XBTC (0xBitcoin Token)",
+      "assetGroup": "0XBTC",
       "tags": ["openocean", "coingecko", "debridge"]
     },
     "0x035df12e0f3ac6671126525f1015e47d79dfeddf": {
@@ -1205,7 +1205,7 @@
       "address": "0x418d75f65a02b3d53b2418fb8e1fe493759c7605",
       "symbol": "BNB",
       "logoURI": "https://assets.coingecko.com/coins/images/22884/large/BNB_wh_small.png?1644224553",
-      "assetGroup": "BNB (Binance Coin Wormhole)",
+      "assetGroup": "BNB (Binance Coin (Wormhole))",
       "tags": ["wormhole", "bridged", "coingecko", "debridge"]
     },
     "0x668dbf100635f593a3847c0bdaf21f0a09380188": {
@@ -52586,7 +52586,7 @@
       "address": "0xcacd6fd266af91b8aed52accc382b4e165586e29",
       "symbol": "frxUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154",
-      "assetGroup": "FRXUSD (Frax USD)",
+      "assetGroup": "frxUSD (Frax USD)",
       "tags": ["coingecko", "debridge"]
     },
     "0xc65d8d96cdddb31328186efa113a460b0af9ec63": {
@@ -55404,7 +55404,7 @@
       "address": "0xbd31ea8212119f94a611fa969881cba3ea06fa3d",
       "symbol": "LUNC",
       "logoURI": "https://assets.coingecko.com/coins/images/22951/thumb/LUNA_wh_small.png?1696522247",
-      "assetGroup": "LUNC (Terra Classic Wormhole)",
+      "assetGroup": "LUNC (Terra Classic (Wormhole))",
       "tags": ["wormhole", "bridged", "coingecko", "debridge"]
     },
     "0xa831a4e181f25d3b35949e582ff27cc44e703f37": {
@@ -57468,11 +57468,11 @@
     "0x71d898c440af10566cea48e12c01f435ec788c7a": {
       "chainId": "1",
       "decimals": 18,
-      "name": "MAI",
+      "name": "Mai Stablecoin",
       "address": "0x71d898c440af10566cea48e12c01f435ec788c7a",
-      "symbol": "MAI",
+      "symbol": "miMATIC",
       "logoURI": "https://assets.coingecko.com/coins/images/54290/thumb/mai-logo.jpg?1739009398",
-      "assetGroup": "MAI",
+      "assetGroup": "MAI (MAI)",
       "tags": ["coingecko", "debridge"]
     },
     "0x8074836637eb9cc73a01a65d5700907fc639c4e9": {
@@ -61689,7 +61689,7 @@
       "address": "0x039b598c6b99e70058e1e9021e000bdacd33d026",
       "symbol": "MORPHO.d",
       "logoURI": "https://cdn.morpho.org/assets/logos/morpho.svg",
-      "assetGroup": "MORPHO (Morpho Token (deprecated))"
+      "assetGroup": "MORPHO.d (Morpho Token (deprecated))"
     },
     "0x5fd13359ba15a84b76f7f87568309040176167cd": {
       "chainId": "1",
@@ -62897,6 +62897,16 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55888/thumb/CG_Logo_%28200_x_200_px%29.png?1747558466",
       "assetGroup": "BBBTC (Big Back Bitcoin)",
       "tags": ["coingecko"]
+    },
+    "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "LP 3pool Curve",
+      "address": "0x6c3f90f043a72fa612cbac8115ee7e52bde6e490",
+      "symbol": "3CRV",
+      "logoURI": "https://assets.coingecko.com/coins/images/12972/large/3pool_128.png?1603948039",
+      "assetGroup": "3CRV (LP 3pool Curve)",
+      "tags": ["coingecko", "debridge"]
     }
   },
   "mainTokens": [

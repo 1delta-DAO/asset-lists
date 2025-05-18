@@ -9,7 +9,7 @@
       "address": "0x7cb16cb78ea464ad35c8a50abf95dff3c9e09d5d",
       "symbol": "0XBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/4454/large/0xbtc.png?1561603765",
-      "assetGroup": "0XBTC (0xBitcoin Token)",
+      "assetGroup": "0XBTC",
       "tags": ["openocean", "coingecko", "debridge"]
     },
     "0x6314c31a7a1652ce482cffe247e9cb7c3f4bb9af": {
@@ -2575,7 +2575,7 @@
       "address": "0x4945970efeec98d393b4b979b9be265a3ae28a8b",
       "symbol": "GMD",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x4945970EfeEc98D393b4b979b9bE265A3aE28A8B/logo.png",
-      "assetGroup": "GMD (GMD Protocol)"
+      "assetGroup": "GMD"
     },
     "0x5575552988a3a80504bbaeb1311674fcfd40ad4b": {
       "chainId": "42161",
@@ -3718,7 +3718,7 @@
       "address": "0x004626a008b1acdc4c74ab51644093b155e59a23",
       "symbol": "stEUR",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/steur.svg",
-      "assetGroup": "stEUR (Staked agEUR)",
+      "assetGroup": "STEUR",
       "tags": ["coingecko", "debridge"]
     },
     "0x154388a4650d63acc823e06ef9e47c1eddd3cbb2": {
@@ -4527,7 +4527,7 @@
       "address": "0x3b58a4c865b568a2f6a957c264f6b50cba35d8ce",
       "symbol": "GRND",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/grnd.png",
-      "assetGroup": "GRND (SuperWalk)",
+      "assetGroup": "GRND",
       "tags": ["coingecko", "debridge"]
     },
     "0x9d0c0675a995d5f12b03e880763f639d0628b5c6": {
@@ -4766,7 +4766,7 @@
       "address": "0xc9bd1c1e65ebfb36cf4b3d9fc8e2b844248deee8",
       "symbol": "KUDAI",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/kudai.png",
-      "assetGroup": "KUDAI (Kudai)",
+      "assetGroup": "KUDAI",
       "tags": ["coingecko", "debridge"]
     },
     "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c": {
@@ -4793,9 +4793,9 @@
       "decimals": 18,
       "name": "Mai Stablecoin",
       "address": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
-      "symbol": "MAI",
+      "symbol": "miMATIC",
       "logoURI": "https://assets.coingecko.com/coins/images/15264/standard/mimatic-red.png?1696514916",
-      "assetGroup": "MAI",
+      "assetGroup": "MAI (Mai Stablecoin)",
       "tags": ["coingecko", "debridge"]
     },
     "0x7dff72693f6a4149b17e7c6314655f6a9f7c8b33": {
@@ -4842,7 +4842,7 @@
       "address": "0x8579794b10f88ebbedd3605f2e5ff54f162d4788",
       "symbol": "BNB",
       "logoURI": "https://assets.coingecko.com/coins/images/22884/large/BNB_wh_small.png?1644224553",
-      "assetGroup": "BNB (Binance Coin Wormhole)",
+      "assetGroup": "BNB",
       "tags": ["wormhole", "bridged"]
     },
     "0x031d35296154279dc1984dcd93e392b1f946737b": {
@@ -5941,7 +5941,7 @@
       "address": "0xe8b201be5357c07f0aa58693f98fb048323777f9",
       "symbol": "BLADE",
       "logoURI": "https://assets.coingecko.com/coins/images/52991/thumb/Token_Logo.png?1734944384",
-      "assetGroup": "BLADE (Blade)",
+      "assetGroup": "BLADE",
       "tags": ["coingecko", "debridge"]
     },
     "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff": {
@@ -5981,7 +5981,7 @@
       "address": "0xd5954c3084a1ccd70b4da011e67760b8e78aee84",
       "symbol": "ARX",
       "logoURI": "https://assets.coingecko.com/coins/images/29506/thumb/tokenlogo.png?1696528451",
-      "assetGroup": "ARX (Arbidex)",
+      "assetGroup": "ARX",
       "tags": ["coingecko", "debridge"]
     },
     "0x07dd5beaffb65b8ff2e575d500bdf324a05295dc": {
@@ -6111,7 +6111,7 @@
       "address": "0xdc8184ba488e949815d4aafb35b3c56ad03b4179",
       "symbol": "ROSX",
       "logoURI": "https://assets.coingecko.com/coins/images/29698/thumb/roseon.png?1696528631",
-      "assetGroup": "ROSX (Roseon)",
+      "assetGroup": "ROSX",
       "tags": ["coingecko", "debridge"]
     },
     "0x3096e7bfd0878cc65be71f8899bc4cfb57187ba3": {
@@ -6351,7 +6351,7 @@
       "address": "0x1a4fd0e749c86eeb6f80d1047d6c25432c703d48",
       "symbol": "ARKKD",
       "logoURI": "https://assets.coingecko.com/coins/images/53945/thumb/d-token-200.png?1737787680",
-      "assetGroup": "ARKKD (Dinari ARKK)",
+      "assetGroup": "ARKKD",
       "tags": ["coingecko", "debridge"]
     },
     "0xfbbb21d8e7a461f06e5e27efd69703acb5c732a8": {
@@ -6411,7 +6411,7 @@
       "address": "0x11e969e9b3f89cb16d686a03cd8508c9fc0361af",
       "symbol": "LAVA",
       "logoURI": "https://assets.coingecko.com/coins/images/37354/thumb/lava_logo.png?1714098423",
-      "assetGroup": "LAVA (Lava Network)",
+      "assetGroup": "LAVA",
       "tags": ["coingecko", "debridge"]
     },
     "0x463913d3a3d3d291667d53b8325c598eb88d3b0e": {
@@ -6531,7 +6531,7 @@
       "address": "0xc0ce7221db1508529752339c3bd5dcf01fa1b0ca",
       "symbol": "MARAD",
       "logoURI": "https://assets.coingecko.com/coins/images/53868/thumb/d-token-200.png?1737615592",
-      "assetGroup": "MARAD (Dinari MARA)",
+      "assetGroup": "MARAD",
       "tags": ["coingecko", "debridge"]
     },
     "0x4ac623237de0aa622b4fdf4da63cf97216371acf": {
@@ -6720,7 +6720,7 @@
       "address": "0xf2f26eee8b40447f664f20ad3513e894153fe09e",
       "symbol": "BLKD",
       "logoURI": "https://assets.coingecko.com/coins/images/53952/thumb/d-token-200.png?1737788600",
-      "assetGroup": "BLKD (Dinari BLK)",
+      "assetGroup": "BLKD",
       "tags": ["coingecko", "debridge"]
     },
     "0xb1284f6b3e487e3f773e9ad40f337c3b3cda5c69": {
@@ -6890,7 +6890,7 @@
       "address": "0x92a212d9f5eef0b262ac7d84aea64a0d0758b94f",
       "symbol": "GDEX",
       "logoURI": "https://assets.coingecko.com/coins/images/30671/thumb/gDEX-icon-200x200.png?1696529541",
-      "assetGroup": "GDEX (DexFi Governance)",
+      "assetGroup": "GDEX",
       "tags": ["coingecko", "debridge"]
     },
     "0xcf1d7d1a7bbf5d11ccfe717fc6a9a45c8dd9c7be": {
@@ -7100,7 +7100,7 @@
       "address": "0xdf7a6ce3b9087251f5859f42ca79ce34f4a88460",
       "symbol": "MSTRD",
       "logoURI": "https://assets.coingecko.com/coins/images/53672/thumb/d-token-200.png?1737007903",
-      "assetGroup": "MSTRD (Dinari MSTR)",
+      "assetGroup": "MSTRD",
       "tags": ["coingecko", "debridge"]
     },
     "0x63ad78a6e2db3322d16943fc65e71a0010571521": {
@@ -7210,7 +7210,7 @@
       "address": "0x1cd9a56c8c2ea913c70319a44da75e99255aa46f",
       "symbol": "OBT",
       "logoURI": "https://assets.coingecko.com/coins/images/53783/thumb/orbiter.jpg?1737352795",
-      "assetGroup": "OBT (Orbiter Finance)",
+      "assetGroup": "OBT",
       "tags": ["coingecko", "debridge"]
     },
     "0x5d4974f8543bc78d43fd1044ecfdb9d85482aa21": {
@@ -8368,7 +8368,7 @@
       "address": "0xafe8107123eefd62469474dec9680860b890e5b6",
       "symbol": "OIL",
       "logoURI": "https://assets.coingecko.com/coins/images/39504/thumb/logo_oil_200%D1%85200.png?1722581566",
-      "assetGroup": "OIL (Oil Token)",
+      "assetGroup": "OIL",
       "tags": ["coingecko", "debridge"]
     },
     "0x2ea0be86990e8dac0d09e4316bb92086f304622d": {
@@ -8798,7 +8798,7 @@
       "address": "0xb9e4765bce2609bc1949592059b17ea72fee6c6a",
       "symbol": "BENJI",
       "logoURI": "https://assets.coingecko.com/coins/images/39660/thumb/FOBXX.jpg?1723523072",
-      "assetGroup": "BENJI (Franklin OnChain U.S. Government Money Fund)",
+      "assetGroup": "BENJI",
       "tags": ["coingecko", "debridge"]
     },
     "0x2b65f9d2e4b84a2df6ff0525741b75d1276a9c2f": {
@@ -9028,7 +9028,7 @@
       "address": "0x8bf591eae535f93a242d5a954d3cde648b48a5a8",
       "symbol": "SUUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/33266/thumb/Sumer_Money_Logo.jpg?1701321416",
-      "assetGroup": "SUUSD (Sumer Money suUSD)",
+      "assetGroup": "SUUSD",
       "tags": ["coingecko", "debridge"]
     },
     "0x8cf7e3aa6faf6ae180e5ec3f0fb95081c2086ebe": {
@@ -9828,7 +9828,7 @@
       "address": "0x1c22531aa9747d76fff8f0a43b37954ca67d28e0",
       "symbol": "SUETH",
       "logoURI": "https://assets.coingecko.com/coins/images/33265/thumb/Sumer_Money_Logo.jpg?1701321407",
-      "assetGroup": "SUETH (Sumer Money suETH)",
+      "assetGroup": "SUETH",
       "tags": ["coingecko", "debridge"]
     },
     "0x6ab707aca953edaefbc4fd23ba73294241490620": {
@@ -10548,7 +10548,7 @@
       "address": "0x9cfb13e6c11054ac9fcb92ba89644f30775436e4",
       "symbol": "axl-wstETH",
       "logoURI": "https://assets.coingecko.com/coins/images/32223/thumb/steth-wei_D_3x.png?1696926841",
-      "assetGroup": "axl-wstETH (Axelar Bridged Wrapped stETH)",
+      "assetGroup": "axl-wstETH (Bridged Wrapped stETH (Axelar))",
       "tags": ["axelar", "bridged", "coingecko", "debridge"]
     },
     "0x00e1724885473b63bce08a9f0a52f35b0979e35a": {
@@ -10578,7 +10578,7 @@
       "address": "0xf7a0dd3317535ec4f4d29adf9d620b3d8d5d5069",
       "symbol": "STERN",
       "logoURI": "https://assets.coingecko.com/coins/images/31522/thumb/stERN.png?1696530332",
-      "assetGroup": "STERN (Staked Ethos Reserve Note)",
+      "assetGroup": "STERN",
       "tags": ["coingecko", "debridge"]
     },
     "0xf329e36c7bf6e5e86ce2150875a84ce77f477375": {
@@ -10848,7 +10848,7 @@
       "address": "0x9d5a383581882750ce27f84c72f017b378edb736",
       "symbol": "ALOT",
       "logoURI": "https://assets.coingecko.com/coins/images/24188/thumb/logo_200x200.png?1696523376",
-      "assetGroup": "ALOT (Dexalot)",
+      "assetGroup": "ALOT",
       "tags": ["coingecko", "debridge"]
     },
     "0xee0a242f28034fce0bdfac33c0ad2a58ec35fd38": {
@@ -11008,7 +11008,7 @@
       "address": "0xae7d4bf2bb00a2f4ade1c726819fcaca0e517a5b",
       "symbol": "FLUID",
       "logoURI": "https://assets.coingecko.com/coins/images/14688/thumb/Logo_1_%28brighter%29.png?1734430693",
-      "assetGroup": "FLUID (Fluid)",
+      "assetGroup": "FLUID",
       "tags": ["coingecko", "debridge"]
     },
     "0x4a24b101728e07a52053c13fb4db2bcf490cabc3": {
@@ -11993,7 +11993,7 @@
       "address": "0x6491c05a82219b8d1479057361ff1654749b876b",
       "symbol": "USDS",
       "logoURI": "https://assets.coingecko.com/coins/images/39926/thumb/usds.webp?1726666683",
-      "assetGroup": "USDS (USDS)",
+      "assetGroup": "USDS (USDS Stablecoin)",
       "tags": ["coingecko", "debridge"]
     },
     "0xddb46999f8891663a8f2828d25298f70416d7610": {
@@ -12063,7 +12063,7 @@
       "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
       "symbol": "frxUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154",
-      "assetGroup": "FRXUSD (Frax USD)",
+      "assetGroup": "frxUSD (Frax USD)",
       "tags": ["debridge"]
     },
     "0x5bff88ca1442c2496f7e475e9e7786383bc070c0": {
@@ -13949,7 +13949,7 @@
       "address": "0x9b8df6e244526ab5f6e6400d331db28c8fdddb55",
       "symbol": "USOL",
       "logoURI": "https://assets.coingecko.com/coins/images/39987/thumb/UA-SOL_1.png?1725027946",
-      "assetGroup": "USOL (Wrapped Solana Universal)",
+      "assetGroup": "USOL",
       "tags": ["coingecko"]
     },
     "0xb0505e5a99abd03d94a1169e638b78edfed26ea4": {
@@ -13959,7 +13959,7 @@
       "address": "0xb0505e5a99abd03d94a1169e638b78edfed26ea4",
       "symbol": "USUI",
       "logoURI": "https://assets.coingecko.com/coins/images/50482/thumb/UA-SUI-PAD.png?1727888681",
-      "assetGroup": "USUI (Wrapped SUI Universal)",
+      "assetGroup": "USUI",
       "tags": ["coingecko"]
     },
     "0x2615a94df961278dcbc41fb0a54fec5f10a693ae": {
@@ -13969,7 +13969,7 @@
       "address": "0x2615a94df961278dcbc41fb0a54fec5f10a693ae",
       "symbol": "UXRP",
       "logoURI": "https://assets.coingecko.com/coins/images/51658/thumb/UA-XRP_1.png?1731703523",
-      "assetGroup": "UXRP (Wrapped XRP Universal)",
+      "assetGroup": "UXRP",
       "tags": ["coingecko"]
     },
     "0xcee84bf3106ded890b9730e2b89f4a4da84ad387": {
@@ -13990,6 +13990,15 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55874/thumb/1000093460.png?1747555241",
       "assetGroup": "DEPIN (Depintech)",
       "tags": ["coingecko"]
+    },
+    "0xd9d7bc7dafa674a421f686e73b35e548ea3b1e17": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "LP 3pool Curve",
+      "address": "0xd9d7bc7dafa674a421f686e73b35e548ea3b1e17",
+      "symbol": "3CRV",
+      "logoURI": "https://assets.coingecko.com/coins/images/12972/large/3pool_128.png?1603948039",
+      "assetGroup": "3CRV (LP 3pool Curve)"
     }
   },
   "mainTokens": [

@@ -117,7 +117,7 @@
       "address": "0x442f7f22b1ee2c842beaff52880d4573e9201158",
       "symbol": "BNB",
       "logoURI": "https://assets.coingecko.com/coins/images/22884/large/BNB_wh_small.png?1644224553",
-      "assetGroup": "BNB (Binance Coin Wormhole)",
+      "assetGroup": "BNB",
       "tags": ["wormhole", "bridged", "coingecko", "debridge"]
     },
     "0x9c9e5fd8bbc25984b178fdce6117defa39d2db39": {
@@ -1750,7 +1750,7 @@
       "address": "0xb57b25851fe2311cc3fe511c8f10e868932e0680",
       "symbol": "deUSD",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB57B25851fE2311CC3fE511c8F10E868932e0680/logo.png",
-      "assetGroup": "deUSD (deUSD)"
+      "assetGroup": "DEUSD"
     },
     "0xe46b44179db3af934da552b35ff8869e98dc6af5": {
       "chainId": "43114",
@@ -1989,7 +1989,7 @@
       "address": "0xa80f36ba18c7f721f3f7acdbcdefd3a86869a036",
       "symbol": "TRUMP",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xA80F36BA18c7f721F3F7ACDbcDEfd3a86869A036/logo.png",
-      "assetGroup": "TRUMP (OFFICIAL TRUMP)"
+      "assetGroup": "TRUMP"
     },
     "0x24de8771bc5ddb3362db529fc3358f2df3a0e346": {
       "chainId": "43114",
@@ -2758,7 +2758,7 @@
       "address": "0x13b1f0579bc895b2ffb835f295fd9b63fef36da0",
       "symbol": "B4FWX",
       "logoURI": "https://assets.coingecko.com/coins/images/38663/thumb/b4fwx-token.png?1736959778",
-      "assetGroup": "B4FWX (Be For FWX)",
+      "assetGroup": "B4FWX",
       "tags": ["coingecko", "debridge"]
     },
     "0xb723783e0f9015c8e20b87f6cf7ae24df6479e62": {
@@ -3476,9 +3476,9 @@
       "decimals": 18,
       "name": "Mai Stablecoin",
       "address": "0x5c49b268c9841aff1cc3b0a418ff5c3442ee3f3b",
-      "symbol": "MAI",
+      "symbol": "miMATIC",
       "logoURI": "https://assets.coingecko.com/coins/images/35541/thumb/mimatic-red.png?1709092837",
-      "assetGroup": "MAI",
+      "assetGroup": "MAI (Mai Stablecoin)",
       "tags": ["coingecko", "debridge"]
     },
     "0x617a4edfcec09864ca9d052ebcbab67da273f4d4": {
@@ -3648,7 +3648,7 @@
       "address": "0xe19a1684873fab5fb694cfd06607100a632ff21c",
       "symbol": "BAVA",
       "logoURI": "https://assets.coingecko.com/coins/images/23780/thumb/200x200_BAVA_LOGO_%282%29.png?1696522980",
-      "assetGroup": "BAVA (Baklava)",
+      "assetGroup": "BAVA",
       "tags": ["coingecko", "debridge"]
     },
     "0x6c14c1898c843ff66ca51e87244690bbc28df215": {
@@ -3858,7 +3858,7 @@
       "address": "0xe08b4c1005603427420e64252a8b120cace4d122",
       "symbol": "BENJI",
       "logoURI": "https://assets.coingecko.com/coins/images/39660/thumb/FOBXX.jpg?1723523072",
-      "assetGroup": "BENJI (Franklin OnChain U.S. Government Money Fund)",
+      "assetGroup": "BENJI",
       "tags": ["coingecko", "debridge"]
     },
     "0xade6057fcafa57d6d51ffa341c64ce4814995995": {
@@ -4318,7 +4318,7 @@
       "address": "0xf0ff231e3f1a50f83136717f287adab862f89431",
       "symbol": "USDT",
       "logoURI": "https://assets.coingecko.com/coins/images/22881/thumb/USDTso_wh_small.png?1696522179",
-      "assetGroup": "USDT (Bridged USDT (Wormhole))",
+      "assetGroup": "USDT",
       "tags": ["wormhole", "bridged", "coingecko", "debridge"]
     },
     "0xb09fe1613fe03e7361319d2a43edc17422f36b09": {
@@ -5207,7 +5207,7 @@
       "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
       "symbol": "frxUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154",
-      "assetGroup": "FRXUSD (Frax USD)",
+      "assetGroup": "frxUSD (Frax USD)",
       "tags": ["debridge"]
     },
     "0x08c4b51e6ca9eb89c255f0a5ab8afd721420e447": {
@@ -5577,6 +5577,16 @@
       "logoURI": "https://assets.coingecko.com/coins/images/50507/thumb/logo_exchange.png?1728008614",
       "assetGroup": "PLYR (PLYR L1)",
       "tags": ["coingecko"]
+    },
+    "0x1337bedc9d22ecbe766df105c9623922a27963ec": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "LP 3pool Curve",
+      "address": "0x1337bedc9d22ecbe766df105c9623922a27963ec",
+      "symbol": "3CRV",
+      "logoURI": "https://assets.coingecko.com/coins/images/12972/large/3pool_128.png?1603948039",
+      "assetGroup": "3CRV (LP 3pool Curve)",
+      "tags": ["coingecko", "debridge"]
     }
   },
   "mainTokens": [
