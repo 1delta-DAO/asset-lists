@@ -10,6 +10,7 @@
       "symbol": "USDE",
       "logoURI": "https://assets.coingecko.com/coins/images/54751/thumb/usde.jpg?1741337054",
       "assetGroup": "USDE",
+      "currencyId": "Layerzero Bridged USDE::USDE",
       "tags": ["bridged", "layerzero", "coingecko"]
     },
     "0x4200000000000000000000000000000000000006": {
@@ -20,6 +21,7 @@
       "symbol": "WETH",
       "logoURI": "https://assets.coingecko.com/coins/images/54515/thumb/weth_2.jpg?1740119347",
       "assetGroup": "WETH",
+      "currencyId": "Wrapped Ether::WETH",
       "tags": ["coingecko"]
     },
     "0x18d33689ae5d02649a859a1cf16c9f0563975258": {
@@ -30,6 +32,7 @@
       "symbol": "RSWETH",
       "logoURI": "https://assets.coingecko.com/coins/images/53474/thumb/image_%281%29.png?1736482080",
       "assetGroup": "Layerzero Bridged rswETH::RSWETH",
+      "currencyId": "Layerzero Bridged rswETH::RSWETH",
       "tags": ["bridged", "layerzero", "coingecko"]
     },
     "0xa6cb988942610f6731e664379d15ffcfbf282b44": {
@@ -40,6 +43,7 @@
       "symbol": "WEETH",
       "logoURI": "https://assets.coingecko.com/coins/images/53659/thumb/65c5a7141f77e162be7af327_eETH.png?1737001248",
       "assetGroup": "WEETH",
+      "currencyId": "Layerzero Bridged weETH::WEETH",
       "tags": ["bridged", "layerzero", "coingecko"]
     },
     "0x2826d136f5630ada89c1678b64a61620aab77aea": {
@@ -50,6 +54,7 @@
       "symbol": "SWELL",
       "logoURI": "https://assets.coingecko.com/coins/images/53670/thumb/66ff8288d441ad252025f769_swellToken.png?1737007034",
       "assetGroup": "Layerzero Bridged Swell::SWELL",
+      "currencyId": "Layerzero Bridged Swell::SWELL",
       "tags": ["bridged", "layerzero", "coingecko"]
     },
     "0x1cf7b5f266a0f39d6f9408b90340e3e71df8bf7b": {
@@ -60,6 +65,7 @@
       "symbol": "SWBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/53657/thumb/66ff59725979d3c6635ecae5_swBTC.png?1737001044",
       "assetGroup": "Layerzero Bridged swBTC::SWBTC",
+      "currencyId": "Layerzero Bridged swBTC::SWBTC",
       "tags": ["bridged", "layerzero", "coingecko"]
     },
     "0x09341022ea237a4db1644de7ccf8fa0e489d85b7": {
@@ -70,6 +76,7 @@
       "symbol": "SWETH",
       "logoURI": "https://assets.coingecko.com/coins/images/53671/thumb/66ff8288d441ad252025f769_swellToken.png?1737007146",
       "assetGroup": "Layerzero Bridged swETH::SWETH",
+      "currencyId": "Layerzero Bridged swETH::SWETH",
       "tags": ["bridged", "layerzero", "coingecko"]
     },
     "0xea34479f7d95341e5fd49b89936366d6da710824": {
@@ -80,6 +87,7 @@
       "symbol": "NEP",
       "logoURI": "https://assets.coingecko.com/coins/images/53517/thumb/logo_1_%282%29.png?1736573773",
       "assetGroup": "Neptune Finance::NEP",
+      "currencyId": "Neptune Finance::NEP",
       "tags": ["coingecko"]
     },
     "0xecac9c5f704e954931349da37f60e39f515c11c1": {
@@ -90,6 +98,7 @@
       "symbol": "LBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/39969/thumb/LBTC_Logo.png?1724959872",
       "assetGroup": "LBTC",
+      "currencyId": "Lombard Staked BTC::LBTC",
       "tags": ["coingecko"]
     },
     "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3": {
@@ -100,6 +109,7 @@
       "symbol": "stBTC",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/stBTC.webp",
       "assetGroup": "STBTC",
+      "currencyId": "Lorenzo stBTC::stBTC",
       "tags": ["coingecko"]
     },
     "0x3d63825b0d8669307366e6c8202f656b9e91d368": {
@@ -110,6 +120,7 @@
       "symbol": "WGC",
       "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831",
       "assetGroup": "Wild Goat Coin::WGC",
+      "currencyId": "Wild Goat Coin::WGC",
       "tags": ["coingecko"]
     },
     "0x9ab96a4668456896d45c301bc3a15cee76aa7b8d": {
@@ -120,6 +131,7 @@
       "symbol": "RUSDC",
       "logoURI": "https://assets.coingecko.com/coins/images/55341/thumb/rUSDC-_200x200.png?1745506753",
       "assetGroup": "Relend Network USDC::RUSDC",
+      "currencyId": "Relend Network USDC::RUSDC",
       "tags": ["coingecko"]
     },
     "0xc2606aade4bdd978a4fa5a6edb3b66657acee6f8": {
@@ -130,6 +142,7 @@
       "symbol": "KING",
       "logoURI": "https://assets.coingecko.com/coins/images/51041/thumb/crown-circle.png?1738143389",
       "assetGroup": "King Protocol::KING",
+      "currencyId": "King Protocol::KING",
       "tags": ["coingecko"]
     }
   },

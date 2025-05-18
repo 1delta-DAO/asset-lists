@@ -9,7 +9,8 @@
       "address": "0xbd2e577dea54602c7c367fa144981c8aca6fd570",
       "symbol": "ICE",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/8081/0xBD2e577dEa54602C7c367fa144981c8ACA6FD570.png",
-      "assetGroup": "IceCream::ICE"
+      "assetGroup": "IceCream::ICE",
+      "currencyId": "IceCream::ICE"
     },
     "0xb5c7882e37359572fd1ccfaa276e7fdf70145d42": {
       "chainId": "8081",
@@ -18,7 +19,8 @@
       "address": "0xb5c7882e37359572fd1ccfaa276e7fdf70145d42",
       "symbol": "USDT",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/8081/0xb5C7882e37359572FD1cCFAA276e7Fdf70145D42.png",
-      "assetGroup": "USDT"
+      "assetGroup": "USDT",
+      "currencyId": "Tether USD::USDT"
     }
   },
   "mainTokens": ["0xb5c7882e37359572fd1ccfaa276e7fdf70145d42"],

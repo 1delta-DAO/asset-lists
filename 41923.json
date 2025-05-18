@@ -9,7 +9,8 @@
       "address": "0xd02e8c38a8e3db71f8b2ae30b8186d7874934e12",
       "symbol": "WEDU",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/edu.svg",
-      "assetGroup": "Wrapped EDU::WEDU"
+      "assetGroup": "Wrapped EDU::WEDU",
+      "currencyId": "Wrapped EDU::WEDU"
     },
     "0x836d275563bab5e93fd6ca62a95db7065da94342": {
       "chainId": "41923",
@@ -18,7 +19,8 @@
       "address": "0x836d275563bab5e93fd6ca62a95db7065da94342",
       "symbol": "USDC",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdc.svg",
-      "assetGroup": "USDC"
+      "assetGroup": "USDC",
+      "currencyId": "USD Coin::USDC"
     },
     "0x7277cc818e3f3ffbb169c6da9cc77fc2d2a34895": {
       "chainId": "41923",
@@ -27,7 +29,8 @@
       "address": "0x7277cc818e3f3ffbb169c6da9cc77fc2d2a34895",
       "symbol": "USDT",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdt.svg",
-      "assetGroup": "USDT"
+      "assetGroup": "USDT",
+      "currencyId": "Tether USD::USDT"
     },
     "0x22fa593845fda46db5784f519b3364432a1d4203": {
       "chainId": "41923",
@@ -36,7 +39,8 @@
       "address": "0x22fa593845fda46db5784f519b3364432a1d4203",
       "symbol": "DAI",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/dai.svg",
-      "assetGroup": "DAI"
+      "assetGroup": "DAI",
+      "currencyId": "Dai Stablecoin::DAI"
     }
   },
   "mainTokens": ["0x836d275563bab5e93fd6ca62a95db7065da94342", "0x7277cc818e3f3ffbb169c6da9cc77fc2d2a34895"],

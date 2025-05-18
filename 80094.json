@@ -10,6 +10,7 @@
       "symbol": "WBTC",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x0555E30da8f98308EdB960aa94C0Db47230d2B9c/logo.png",
       "assetGroup": "WBTC",
+      "currencyId": "Wrapped BTC::WBTC",
       "tags": ["coingecko"]
     },
     "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590": {
@@ -20,6 +21,7 @@
       "symbol": "WETH",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590/logo.png",
       "assetGroup": "WETH",
+      "currencyId": "Wrapped Ether::WETH",
       "tags": ["coingecko"]
     },
     "0x6969696969696969696969696969696969696969": {
@@ -30,6 +32,7 @@
       "symbol": "WBERA",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x6969696969696969696969696969696969696969/logo.png",
       "assetGroup": "Wrapped Bera::WBERA",
+      "currencyId": "Wrapped Bera::WBERA",
       "tags": ["coingecko"]
     },
     "0x688e72142674041f8f6af4c808a4045ca1d6ac82": {
@@ -39,7 +42,8 @@
       "address": "0x688e72142674041f8f6af4c808a4045ca1d6ac82",
       "symbol": "BYUSD",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/80094/0x688e72142674041f8f6Af4c808a4045cA1D6aC82.png",
-      "assetGroup": "BYUSD::BYUSD"
+      "assetGroup": "BYUSD::BYUSD",
+      "currencyId": "BYUSD::BYUSD"
     },
     "0x549943e04f40284185054145c6e4e9568c1d3241": {
       "chainId": "80094",
@@ -49,6 +53,7 @@
       "symbol": "USDC.e",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x549943e04f40284185054145c6E4e9568C1D3241/logo.png",
       "assetGroup": "USDC",
+      "currencyId": "Bridged USDC (Stargate)::USDC.e",
       "tags": ["stargate", "bridged", "coingecko"]
     },
     "0x9b6761bf2397bb5a6624a856cc84a3a14dcd3fe5": {
@@ -59,6 +64,7 @@
       "symbol": "iBERA",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x9b6761bf2397Bb5a6624a856cC84A3A14Dcd3fe5/logo.png",
       "assetGroup": "Infrared BERA::iBERA",
+      "currencyId": "Infrared BERA::iBERA",
       "tags": ["coingecko"]
     },
     "0xfcbd14dc51f0a4d49d5e53c2e0950e0bc26d0dce": {
@@ -69,6 +75,7 @@
       "symbol": "HONEY",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce/logo.png",
       "assetGroup": "Honey::HONEY",
+      "currencyId": "Honey::HONEY",
       "tags": ["coingecko"]
     },
     "0x779ded0c9e1022225f8e0630b35a9b54be713736": {
@@ -79,6 +86,7 @@
       "symbol": "USDT",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x779Ded0c9e1022225f8E0630b35a9b54bE713736/logo.png",
       "assetGroup": "USDT",
+      "currencyId": "Tether USD::USDT",
       "tags": ["coingecko"]
     },
     "0x1ce0a25d13ce4d52071ae7e02cf1f6606f4c79d3": {
@@ -89,6 +97,7 @@
       "symbol": "NECT",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x1cE0a25D13CE4d52071aE7e02Cf1F6606F4C79d3/logo.png",
       "assetGroup": "NECTAR::NECT",
+      "currencyId": "NECTAR::NECT",
       "tags": ["coingecko"]
     },
     "0x28e0e3b9817012b356119df9e217c25932d609c2": {
@@ -98,7 +107,8 @@
       "address": "0x28e0e3b9817012b356119df9e217c25932d609c2",
       "symbol": "NECT",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x28e0e3B9817012b356119dF9e217c25932D609c2/logo.png",
-      "assetGroup": "NECTAR::NECT",
+      "assetGroup": "NECTAR::NECT::80094",
+      "currencyId": "NECTAR::NECT",
       "tags": ["coingecko"]
     },
     "0xac03caba51e17c86c921e1f6cbfbdc91f8bb2e6b": {
@@ -109,6 +119,7 @@
       "symbol": "iBGT",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xac03CABA51e17c86c921E1f6CBFBdC91F8BB2E6b/logo.png",
       "assetGroup": "Infrared BGT::iBGT",
+      "currencyId": "Infrared BGT::iBGT",
       "tags": ["coingecko"]
     },
     "0x541fd749419ca806a8bc7da8ac23d346f2df8b77": {
@@ -119,6 +130,7 @@
       "symbol": "SolvBTC",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/SolvBTC.webp",
       "assetGroup": "SOLVBTC",
+      "currencyId": "Solv BTC::SolvBTC",
       "tags": ["coingecko"]
     },
     "0xcc0966d8418d412c599a6421b760a847eb169a8c": {
@@ -129,6 +141,7 @@
       "symbol": "xSolvBTC",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/xSolvBTC.webp",
       "assetGroup": "XSOLVBTC",
+      "currencyId": "xSolvBTC::xSolvBTC",
       "tags": ["coingecko"]
     },
     "0xec901da9c68e90798bbbb74c11406a32a70652c3": {
@@ -139,6 +152,7 @@
       "symbol": "STONE",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xEc901DA9c68E90798BbBb74c11406A32A70652C3/logo.png",
       "assetGroup": "STONE",
+      "currencyId": "StakeStone Ether::STONE",
       "tags": ["coingecko"]
     },
     "0xff12470a969dd362eb6595ffb44c82c959fe9acc": {
@@ -148,7 +162,8 @@
       "address": "0xff12470a969dd362eb6595ffb44c82c959fe9acc",
       "symbol": "USDa",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xff12470a969Dd362EB6595FFB44C82c959Fe9ACc/logo.png",
-      "assetGroup": "USDa::USDa"
+      "assetGroup": "USDa::USDa",
+      "currencyId": "USDa::USDa"
     },
     "0x2840f9d9f96321435ab0f977e7fdbf32ea8b304f": {
       "chainId": "80094",
@@ -157,7 +172,8 @@
       "address": "0x2840f9d9f96321435ab0f977e7fdbf32ea8b304f",
       "symbol": "sUSDa",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x2840F9d9f96321435Ab0f977E7FDBf32EA8b304f/logo.png",
-      "assetGroup": "SUSDA"
+      "assetGroup": "SUSDA",
+      "currencyId": "USDa saving token::sUSDa"
     },
     "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34": {
       "chainId": "80094",
@@ -166,7 +182,8 @@
       "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
       "symbol": "USDe",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34/logo.png",
-      "assetGroup": "USDE"
+      "assetGroup": "USDE",
+      "currencyId": "USDe::USDe"
     },
     "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2": {
       "chainId": "80094",
@@ -175,7 +192,8 @@
       "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
       "symbol": "sUSDe",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2/logo.png",
-      "assetGroup": "SUSDE"
+      "assetGroup": "SUSDE",
+      "currencyId": "Staked USDe::sUSDe"
     },
     "0x7dcc39b4d1c53cb31e1abc0e358b43987fef80f7": {
       "chainId": "80094",
@@ -184,7 +202,8 @@
       "address": "0x7dcc39b4d1c53cb31e1abc0e358b43987fef80f7",
       "symbol": "weETH",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x7DCC39B4d1C53CB31e1aBc0e358b43987FEF80f7/logo.png",
-      "assetGroup": "WEETH"
+      "assetGroup": "WEETH",
+      "currencyId": "Wrapped eETH::weETH"
     },
     "0xc3827a4bc8224ee2d116637023b124ced6db6e90": {
       "chainId": "80094",
@@ -194,6 +213,7 @@
       "symbol": "uniBTC",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xC3827A4BC8224ee2D116637023b124CED6db6e90/logo.png",
       "assetGroup": "UNIBTC",
+      "currencyId": "uniBTC::uniBTC",
       "tags": ["coingecko"]
     },
     "0xecac9c5f704e954931349da37f60e39f515c11c1": {
@@ -204,6 +224,7 @@
       "symbol": "LBTC",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xecAc9C5F704e954931349Da37F60E39f515c11c1/logo.png",
       "assetGroup": "LBTC",
+      "currencyId": "Lombard Staked BTC::LBTC",
       "tags": ["coingecko"]
     },
     "0xdcb3d91555385dae23e6b966b5626aa7a75be940": {
@@ -213,7 +234,8 @@
       "address": "0xdcb3d91555385dae23e6b966b5626aa7a75be940",
       "symbol": "ylpumpBTC",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xdCB3D91555385DaE23e6B966b5626aa7A75Be940/logo.png",
-      "assetGroup": "CIAN yield layer pumpBTC::ylpumpBTC"
+      "assetGroup": "CIAN yield layer pumpBTC::ylpumpBTC",
+      "currencyId": "CIAN yield layer pumpBTC::ylpumpBTC"
     },
     "0x907883da917ca9750ad202ff6395c4c6ab14e60e": {
       "chainId": "80094",
@@ -222,7 +244,8 @@
       "address": "0x907883da917ca9750ad202ff6395c4c6ab14e60e",
       "symbol": "yluniBTC",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x907883da917ca9750ad202ff6395C4C6aB14e60E/logo.png",
-      "assetGroup": "CIAN yield layer uniBTC::yluniBTC"
+      "assetGroup": "CIAN yield layer uniBTC::yluniBTC",
+      "currencyId": "CIAN yield layer uniBTC::yluniBTC"
     },
     "0xa958090601e21a82e9873042652e35891d945a8c": {
       "chainId": "80094",
@@ -231,7 +254,8 @@
       "address": "0xa958090601e21a82e9873042652e35891d945a8c",
       "symbol": "ylstETH",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xa958090601E21A82e9873042652e35891D945a8C/logo.png",
-      "assetGroup": "CIAN yield layer stETH::ylstETH"
+      "assetGroup": "CIAN yield layer stETH::ylstETH",
+      "currencyId": "CIAN yield layer stETH::ylstETH"
     },
     "0x5b82028cfc477c4e7dda7ff33d59a23fa7be002a": {
       "chainId": "80094",
@@ -240,7 +264,8 @@
       "address": "0x5b82028cfc477c4e7dda7ff33d59a23fa7be002a",
       "symbol": "MIM",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x5B82028cfc477C4E7ddA7FF33d59A23FA7Be002a/logo.png",
-      "assetGroup": "MIM"
+      "assetGroup": "MIM",
+      "currencyId": "Magic Internet Money::MIM"
     },
     "0x850cdf416668210ed0c36bfff5d21921c7ada3b8": {
       "chainId": "80094",
@@ -249,7 +274,8 @@
       "address": "0x850cdf416668210ed0c36bfff5d21921c7ada3b8",
       "symbol": "rswETH",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x850CDF416668210ED0c36bfFF5d21921C7adA3b8/logo.png",
-      "assetGroup": "rswETH::rswETH"
+      "assetGroup": "rswETH::rswETH",
+      "currencyId": "rswETH::rswETH"
     },
     "0x4186bfc76e2e237523cbc30fd220fe055156b41f": {
       "chainId": "80094",
@@ -258,7 +284,8 @@
       "address": "0x4186bfc76e2e237523cbc30fd220fe055156b41f",
       "symbol": "rsETH",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x4186BFC76E2E237523CBC30FD220FE055156b41F/logo.png",
-      "assetGroup": "RSETH"
+      "assetGroup": "RSETH",
+      "currencyId": "KelpDao Restaked ETH::rsETH"
     },
     "0x8f06863df59a042bcc2c86cc8ca1709ec1ee316b": {
       "chainId": "80094",
@@ -268,6 +295,7 @@
       "symbol": "JANI",
       "logoURI": "https://assets.coingecko.com/coins/images/54525/thumb/janinew.png?1740137171",
       "assetGroup": "janitooor::JANI",
+      "currencyId": "janitooor::JANI",
       "tags": ["coingecko"]
     },
     "0x6fc6545d5cde268d5c7f1e476d444f39c995120d": {
@@ -278,6 +306,7 @@
       "symbol": "BERAETH",
       "logoURI": "https://assets.coingecko.com/coins/images/54260/thumb/beraETH.png?1738952010",
       "assetGroup": "Berachain Staked ETH::BERAETH",
+      "currencyId": "Berachain Staked ETH::BERAETH",
       "tags": ["coingecko"]
     },
     "0xb749584f9fc418cf905d54f462fdbfdc7462011b": {
@@ -288,6 +317,7 @@
       "symbol": "BM",
       "logoURI": "https://assets.coingecko.com/coins/images/54413/thumb/photo_2025-02-13_05.15.34.jpeg?1739554671",
       "assetGroup": "bm::BM",
+      "currencyId": "bm::BM",
       "tags": ["coingecko"]
     },
     "0x5c43a5fef2b056934478373a53d1cb08030fd382": {
@@ -297,7 +327,8 @@
       "address": "0x5c43a5fef2b056934478373a53d1cb08030fd382",
       "symbol": "BRLY",
       "logoURI": "https://assets.coingecko.com/coins/images/54295/thumb/Dex-01_%282%29.png?1739085758",
-      "assetGroup": "Berally Token::BRLY"
+      "assetGroup": "Berally Token::BRLY",
+      "currencyId": "Berally Token::BRLY"
     },
     "0x656b95e550c07a9ffe548bd4085c72418ceb1dba": {
       "chainId": "80094",
@@ -307,6 +338,7 @@
       "symbol": "BGT",
       "logoURI": "https://assets.coingecko.com/coins/images/54193/thumb/BGT.png?1738742690",
       "assetGroup": "Berachain Governance Token::BGT",
+      "currencyId": "Berachain Governance Token::BGT",
       "tags": ["coingecko"]
     },
     "0x36e9fe653e673fda3857dbe5afbc884af8a316a2": {
@@ -317,6 +349,7 @@
       "symbol": "BERAFI",
       "logoURI": "https://assets.coingecko.com/coins/images/54382/thumb/TOKEN_LOGO_%281%29.png?1739459375",
       "assetGroup": "BeraFi::BERAFI",
+      "currencyId": "BeraFi::BERAFI",
       "tags": ["coingecko"]
     },
     "0xb8b1af593dc37b33a2c87c8db1c9051fc32858b7": {
@@ -327,6 +360,7 @@
       "symbol": "RAMEN",
       "logoURI": "https://assets.coingecko.com/coins/images/54443/thumb/rsz_tokens_1.png?1739772470",
       "assetGroup": "Ramen::RAMEN",
+      "currencyId": "Ramen::RAMEN",
       "tags": ["coingecko"]
     },
     "0x08a38caa631de329ff2dad1656ce789f31af3142": {
@@ -337,6 +371,7 @@
       "symbol": "YEET",
       "logoURI": "https://assets.coingecko.com/coins/images/54416/thumb/IMG_7050.PNG?1739556073",
       "assetGroup": "Yeet::YEET",
+      "currencyId": "Yeet::YEET",
       "tags": ["coingecko"]
     },
     "0x949185d3be66775ea648f4a306740ea9eff9c567": {
@@ -347,6 +382,7 @@
       "symbol": "YEL",
       "logoURI": "https://assets.coingecko.com/coins/images/17429/thumb/Logo200.png?1696516976",
       "assetGroup": "Yel Finance::YEL",
+      "currencyId": "Yel Finance::YEL",
       "tags": ["coingecko"]
     },
     "0xff0a636dfc44bb0129b631cdd38d21b613290c98": {
@@ -357,6 +393,7 @@
       "symbol": "HOLD",
       "logoURI": "https://assets.coingecko.com/coins/images/32726/thumb/HOLD.png?1699018663",
       "assetGroup": "Holdstation::HOLD",
+      "currencyId": "Holdstation::HOLD",
       "tags": ["coingecko"]
     },
     "0xac611438ae5f3953dedb47c2ea8d6650d601c1b4": {
@@ -367,6 +404,7 @@
       "symbol": "AMP",
       "logoURI": "https://assets.coingecko.com/coins/images/37421/thumb/AmpedLogoTrans-200.png?1714377313",
       "assetGroup": "Amped Finance::AMP",
+      "currencyId": "Amped Finance::AMP",
       "tags": ["coingecko"]
     },
     "0x1f7210257fa157227d09449229a9266b0d581337": {
@@ -377,6 +415,7 @@
       "symbol": "BERAMO",
       "logoURI": "https://assets.coingecko.com/coins/images/54529/thumb/_BERAMO_logo.png?1740168354",
       "assetGroup": "BeramoniumCoin::BERAMO",
+      "currencyId": "BeramoniumCoin::BERAMO",
       "tags": ["coingecko"]
     },
     "0x047b41a14f0bef681b94f570479ae7208e577a0c": {
@@ -387,6 +426,7 @@
       "symbol": "HIM",
       "logoURI": "https://assets.coingecko.com/coins/images/54552/thumb/HIM_LOGO.jpg?1740307478",
       "assetGroup": "Honey Is Money::HIM",
+      "currencyId": "Honey Is Money::HIM",
       "tags": ["coingecko"]
     },
     "0xa452810a4215fccc834ed241e6667f519b9856ec": {
@@ -397,6 +437,7 @@
       "symbol": "BBOT",
       "logoURI": "https://assets.coingecko.com/coins/images/54546/thumb/Berabot_Logo.png?1740220386",
       "assetGroup": "Berabot::BBOT",
+      "currencyId": "Berabot::BBOT",
       "tags": ["coingecko"]
     },
     "0x18878df23e2a36f81e820e4b47b4a40576d3159c": {
@@ -407,6 +448,7 @@
       "symbol": "OHM",
       "logoURI": "https://assets.coingecko.com/coins/images/14483/thumb/token_OHM_%281%29.png?1696514169",
       "assetGroup": "OHM",
+      "currencyId": "Olympus::OHM",
       "tags": ["coingecko"]
     },
     "0x6536cead649249cae42fc9bfb1f999429b3ec755": {
@@ -417,6 +459,7 @@
       "symbol": "NAV",
       "logoURI": "https://assets.coingecko.com/coins/images/54663/thumb/NAV_Token.png?1740898251",
       "assetGroup": "NAV::NAV",
+      "currencyId": "NAV::NAV",
       "tags": ["coingecko"]
     },
     "0x7838cec5b11298ff6a9513fa385621b765c74174": {
@@ -427,6 +470,7 @@
       "symbol": "BERO",
       "logoURI": "https://assets.coingecko.com/coins/images/54626/thumb/beradrome_logo.webp?1740746547",
       "assetGroup": "Beradrome::BERO",
+      "currencyId": "Beradrome::BERO",
       "tags": ["coingecko"]
     },
     "0xb2f776e9c1c926c4b2e54182fac058da9af0b6a5": {
@@ -437,6 +481,7 @@
       "symbol": "HENLO",
       "logoURI": "https://assets.coingecko.com/coins/images/54719/thumb/Full_Circle_Logo_Large_%28YellowBlue%29_%281%29.png?1741193376",
       "assetGroup": "HENLO",
+      "currencyId": "Henlo::HENLO",
       "tags": ["coingecko"]
     },
     "0xd77552d3849ab4d8c3b189a9582d0ba4c1f4f912": {
@@ -447,6 +492,7 @@
       "symbol": "WGBERA",
       "logoURI": "https://assets.coingecko.com/coins/images/54804/thumb/wgbera.jpg?1741743688",
       "assetGroup": "Wrapped gBera::WGBERA",
+      "currencyId": "Wrapped gBera::WGBERA",
       "tags": ["coingecko"]
     },
     "0x93919784c523f39cacaa98ee0a9d96c3f32b593e": {
@@ -457,6 +503,7 @@
       "symbol": "brBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/53039/thumb/brBTC_200.png?1735074374",
       "assetGroup": "BRBTC",
+      "currencyId": "brBTC::brBTC",
       "tags": ["coingecko"]
     },
     "0xe231db5f348d709239ef1741ea30961b3b635a61": {
@@ -467,6 +514,7 @@
       "symbol": "YNETHX",
       "logoURI": "https://assets.coingecko.com/coins/images/51623/thumb/ynETHx.png?1731659494",
       "assetGroup": "ynETH MAX::YNETHX",
+      "currencyId": "ynETH MAX::YNETHX",
       "tags": ["coingecko"]
     },
     "0xbaadcc2962417c01af99fb2b7c75706b9bd6babe": {
@@ -477,6 +525,7 @@
       "symbol": "LBGT",
       "logoURI": "https://assets.coingecko.com/coins/images/54878/thumb/lbgt.png?1742327918",
       "assetGroup": "Liquid BGT::LBGT",
+      "currencyId": "Liquid BGT::LBGT",
       "tags": ["coingecko"]
     },
     "0x0003eedfdd020bf60d10cf684abac7c4534b7ead": {
@@ -487,6 +536,7 @@
       "symbol": "BREAD",
       "logoURI": "https://assets.coingecko.com/coins/images/54952/thumb/photo_2025-03-21_13.46.43.jpeg?1742805118",
       "assetGroup": "Bread::BREAD",
+      "currencyId": "Bread::BREAD",
       "tags": ["coingecko"]
     },
     "0xab7e0f3d69de8061aa46d7c9964dbc11878468eb": {
@@ -496,7 +546,8 @@
       "address": "0xab7e0f3d69de8061aa46d7c9964dbc11878468eb",
       "symbol": "BRLY",
       "logoURI": "https://assets.coingecko.com/coins/images/54295/thumb/Dex-01_%282%29.png?1739085758",
-      "assetGroup": "Berally Token::BRLY",
+      "assetGroup": "Berally Token::BRLY::80094",
+      "currencyId": "Berally Token::BRLY",
       "tags": ["coingecko"]
     },
     "0x69f1e971257419b1e9c405a553f252c64a29a30a": {
@@ -507,6 +558,7 @@
       "symbol": "ORIBGT",
       "logoURI": "https://assets.coingecko.com/coins/images/54994/thumb/oriBGT.png?1743069741",
       "assetGroup": "Origami iBGT Auto Compounder::ORIBGT",
+      "currencyId": "Origami iBGT Auto Compounder::ORIBGT",
       "tags": ["coingecko"]
     },
     "0x09d4214c03d01f49544c0448dbe3a27f768f2b34": {
@@ -517,6 +569,7 @@
       "symbol": "RUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/54117/thumb/rusd_bera2.png?1738311629",
       "assetGroup": "Reservoir rUSD::RUSD",
+      "currencyId": "Reservoir rUSD::RUSD",
       "tags": ["coingecko"]
     },
     "0x5475611dffb8ef4d697ae39df9395513b6e947d7": {
@@ -527,6 +580,7 @@
       "symbol": "SRUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/54118/thumb/srUSD.png?1738313910",
       "assetGroup": "Reservoir srUSD::SRUSD",
+      "currencyId": "Reservoir srUSD::SRUSD",
       "tags": ["coingecko"]
     },
     "0x147c9a7f5265d7ca9a671c3817b212a0cf88856e": {
@@ -537,6 +591,7 @@
       "symbol": "BIXBT",
       "logoURI": "https://assets.coingecko.com/coins/images/55022/thumb/BeraLogo-200px.jpg?1743243276",
       "assetGroup": "BeraXBT::BIXBT",
+      "currencyId": "BeraXBT::BIXBT",
       "tags": ["coingecko"]
     },
     "0x01c8a5ccad23a4d3764ef71c403862160aa2913a": {
@@ -547,6 +602,7 @@
       "symbol": "WIZZ",
       "logoURI": "https://assets.coingecko.com/coins/images/55049/thumb/20250402-155339.png?1743583075",
       "assetGroup": "Wizzwoods Token::WIZZ",
+      "currencyId": "Wizzwoods Token::WIZZ",
       "tags": ["coingecko"]
     },
     "0xc99e948e9d183848a6c4f5e6c1d225f02f171d79": {
@@ -557,6 +613,7 @@
       "symbol": "POLLEN",
       "logoURI": "https://assets.coingecko.com/coins/images/54929/thumb/Pollen_200x200.png?1742578406",
       "assetGroup": "Pollen::POLLEN",
+      "currencyId": "Pollen::POLLEN",
       "tags": ["coingecko"]
     },
     "0x66a501076865a2b21df9dbd51fa931317188418b": {
@@ -567,6 +624,7 @@
       "symbol": "BERATARDIO",
       "logoURI": "https://assets.coingecko.com/coins/images/55086/thumb/for_resizing_.png?1743665350",
       "assetGroup": "BERATARDIO::BERATARDIO",
+      "currencyId": "BERATARDIO::BERATARDIO",
       "tags": ["coingecko"]
     },
     "0xd3415dcfbda117814e24a4cbaf61128a4d79b860": {
@@ -577,6 +635,7 @@
       "symbol": "CEL",
       "logoURI": "https://assets.coingecko.com/coins/images/55094/thumb/Celeron_Logo.png?1743699296",
       "assetGroup": "Celeron token::CEL",
+      "currencyId": "Celeron token::CEL",
       "tags": ["celer", "bridged", "coingecko"]
     },
     "0xfaf4c16847bd0ebac546c49a9c9c6b81abd4b08c": {
@@ -587,6 +646,7 @@
       "symbol": "NOME",
       "logoURI": "https://assets.coingecko.com/coins/images/55095/thumb/Nome_400x400.jpg?1743699482",
       "assetGroup": "NOME::NOME",
+      "currencyId": "NOME::NOME",
       "tags": ["coingecko"]
     },
     "0x6d4223dae2a8744a85a6d44e97f3f61679f87ee6": {
@@ -597,6 +657,7 @@
       "symbol": "USDBR",
       "logoURI": "https://assets.coingecko.com/coins/images/55096/thumb/USDbr.png?1743699568",
       "assetGroup": "USDbr::USDBR",
+      "currencyId": "USDbr::USDBR",
       "tags": ["coingecko"]
     },
     "0x009af46df68db0e76bfe9ea35663f6ed17877956": {
@@ -607,6 +668,7 @@
       "symbol": "OOGA",
       "logoURI": "https://assets.coingecko.com/coins/images/55119/thumb/Ooga_Booga_Listing_Icon_200x200.png?1743839384",
       "assetGroup": "Ooga Booga::OOGA",
+      "currencyId": "Ooga Booga::OOGA",
       "tags": ["coingecko"]
     },
     "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf": {
@@ -617,6 +679,7 @@
       "symbol": "WGC",
       "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831",
       "assetGroup": "Wild Goat Coin::WGC",
+      "currencyId": "Wild Goat Coin::WGC",
       "tags": ["coingecko"]
     },
     "0xcc6a16bcfda7d0ebe168f69ef7b946e96a90e67f": {
@@ -627,6 +690,7 @@
       "symbol": "AIBERA",
       "logoURI": "https://assets.coingecko.com/coins/images/55198/thumb/HoneyFunAI-LogoRebrand-200px.png?1744617530",
       "assetGroup": "HoneyFun AI::AIBERA",
+      "currencyId": "HoneyFun AI::AIBERA",
       "tags": ["coingecko"]
     },
     "0x0f81001ef0a83ecce5ccebf63eb302c70a39a654": {
@@ -637,6 +701,7 @@
       "symbol": "DOLO",
       "logoURI": "https://assets.coingecko.com/coins/images/54710/thumb/DOLO-small.png?1745398535",
       "assetGroup": "Dolomite::DOLO",
+      "currencyId": "Dolomite::DOLO",
       "tags": ["coingecko"]
     },
     "0xb7e448e5677d212b8c8da7d6312e8afc49800466": {
@@ -647,6 +712,7 @@
       "symbol": "LOCKS",
       "logoURI": "https://assets.coingecko.com/coins/images/55422/thumb/Goldilocks_logo_no_text.png?1745919245",
       "assetGroup": "Goldilocks DAO::LOCKS",
+      "currencyId": "Goldilocks DAO::LOCKS",
       "tags": ["coingecko"]
     },
     "0xf3530788deb3d21e8fa2c3cbbf93317fb38a0d3c": {
@@ -657,6 +723,7 @@
       "symbol": "LAIR",
       "logoURI": "https://assets.coingecko.com/coins/images/55181/thumb/Lair_token.png?1744616096",
       "assetGroup": "Lair::LAIR",
+      "currencyId": "Lair::LAIR",
       "tags": ["coingecko"]
     },
     "0xd352dc6e5f0c45e2f2b38eb5565eb286a1ea4087": {
@@ -667,6 +734,7 @@
       "symbol": "BR",
       "logoURI": "https://assets.coingecko.com/coins/images/54908/thumb/BR_200px.png?1742453499",
       "assetGroup": "Bedrock::BR",
+      "currencyId": "Bedrock::BR",
       "tags": ["coingecko"]
     },
     "0x6b26f778bfae56cfb4bf9b62c678d9d40e725227": {
@@ -677,6 +745,7 @@
       "symbol": "BITCOIN",
       "logoURI": "https://assets.coingecko.com/coins/images/30323/thumb/hpos10i_logo_casino_night-dexview.png?1696529224",
       "assetGroup": "HarryPotterObamaSonic10Inu::BITCOIN",
+      "currencyId": "HarryPotterObamaSonic10Inu::BITCOIN",
       "tags": ["coingecko"]
     },
     "0xedb5180661f56077292c92ab40b1ac57a279a396": {
@@ -687,6 +756,7 @@
       "symbol": "MEAD",
       "logoURI": "https://assets.coingecko.com/coins/images/55743/thumb/MEAD.jpg?1747287719",
       "assetGroup": "Mead::MEAD",
+      "currencyId": "Mead::MEAD",
       "tags": ["coingecko"]
     },
     "0x02f92800f57bcd74066f5709f1daa1a4302df875": {
@@ -697,6 +767,7 @@
       "symbol": "PEAS",
       "logoURI": "https://assets.coingecko.com/coins/images/33711/thumb/NAzHgbTW_400x400.png?1702856653",
       "assetGroup": "Peapods Finance::PEAS",
+      "currencyId": "Peapods Finance::PEAS",
       "tags": ["coingecko"]
     }
   },

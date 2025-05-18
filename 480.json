@@ -10,6 +10,7 @@
       "symbol": "USDC.e",
       "logoURI": "https://assets.coingecko.com/coins/images/35218/large/USDC_Icon.png?1707908537",
       "assetGroup": "USDC",
+      "currencyId": "Bridged USDC::USDC.e",
       "tags": ["bridged"]
     },
     "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3": {
@@ -19,7 +20,8 @@
       "address": "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
       "symbol": "WBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png?1696507857",
-      "assetGroup": "WBTC"
+      "assetGroup": "WBTC",
+      "currencyId": "Wrapped BTC::WBTC"
     },
     "0x4200000000000000000000000000000000000006": {
       "chainId": "480",
@@ -28,7 +30,8 @@
       "address": "0x4200000000000000000000000000000000000006",
       "symbol": "WETH",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
-      "assetGroup": "WETH"
+      "assetGroup": "WETH",
+      "currencyId": "Wrapped Ether::WETH"
     }
   },
   "mainTokens": [

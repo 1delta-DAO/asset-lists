@@ -9,7 +9,8 @@
       "address": "0x74e2051a9cd994f83f2d789448dca4a3e879964c",
       "symbol": "WGHST",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/ghst.svg",
-      "assetGroup": "Wrapped GHST::WGHST"
+      "assetGroup": "Wrapped GHST::WGHST",
+      "currencyId": "Wrapped GHST::WGHST"
     },
     "0xcfa0bc1ed6135166e9163211b4ca566a0ee81e35": {
       "chainId": "63157",
@@ -18,7 +19,8 @@
       "address": "0xcfa0bc1ed6135166e9163211b4ca566a0ee81e35",
       "symbol": "USDC",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdc.svg",
-      "assetGroup": "USDC"
+      "assetGroup": "USDC",
+      "currencyId": "USD Coin::USDC"
     }
   },
   "mainTokens": ["0xcfa0bc1ed6135166e9163211b4ca566a0ee81e35"],

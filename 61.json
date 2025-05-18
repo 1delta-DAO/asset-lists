@@ -10,6 +10,7 @@
       "symbol": "HEBE",
       "logoURI": "https://assets.coingecko.com/coins/images/10367/thumb/hebeswap.jpeg?1696510369",
       "assetGroup": "HebeBlock::HEBE",
+      "currencyId": "HebeBlock::HEBE",
       "tags": ["coingecko"]
     },
     "0xde093684c796204224bc081f937aa059d903c52a": {
@@ -20,6 +21,7 @@
       "symbol": "USC",
       "logoURI": "https://assets.coingecko.com/coins/images/37725/thumb/logo.png?1715334043",
       "assetGroup": "Classic USD::USC",
+      "currencyId": "Classic USD::USC",
       "tags": ["coingecko"]
     },
     "0x6c3b413c461c42a88160ed1b1b31d6f7b02a1c83": {
@@ -30,6 +32,7 @@
       "symbol": "ETCPOW",
       "logoURI": "https://assets.coingecko.com/coins/images/31770/thumb/ETCPOW_LOGO_1.png?1696530589",
       "assetGroup": "ETCPOW::ETCPOW",
+      "currencyId": "ETCPOW::ETCPOW",
       "tags": ["coingecko"]
     },
     "0x1fdc495289b590e78d455cf7faa6cd804de5cbc1": {
@@ -40,6 +43,7 @@
       "symbol": "SHIBC",
       "logoURI": "https://assets.coingecko.com/coins/images/27241/thumb/1BED03B1-D87F-4E91-B24F-CDED9309D003.jpeg?1696526291",
       "assetGroup": "Shiba Classic::SHIBC",
+      "currencyId": "Shiba Classic::SHIBC",
       "tags": ["coingecko"]
     },
     "0xd508f85f1511aaec63434e26aeb6d10be0188dc7": {
@@ -50,6 +54,7 @@
       "symbol": "MAWBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/29872/thumb/maWBTC.jpg?1696528797",
       "assetGroup": "Morpho Aave Wrapped BTC::MAWBTC",
+      "currencyId": "Morpho Aave Wrapped BTC::MAWBTC",
       "tags": ["coingecko"]
     },
     "0x82a618305706b14e7bcf2592d4b9324a366b6dad": {
@@ -60,6 +65,7 @@
       "symbol": "WETC",
       "logoURI": "https://assets.coingecko.com/coins/images/27126/thumb/1321.png?1696526178",
       "assetGroup": "Wrapped ETC::WETC",
+      "currencyId": "Wrapped ETC::WETC",
       "tags": ["coingecko"]
     },
     "0x1953cab0e5bfa6d4a9bad6e05fd46c1cc6527a5a": {
@@ -69,7 +75,8 @@
       "address": "0x1953cab0e5bfa6d4a9bad6e05fd46c1cc6527a5a",
       "symbol": "WETC",
       "logoURI": "https://assets.coingecko.com/coins/images/26639/thumb/wrapped-ether.png?1726646462",
-      "assetGroup": "Wrapped ETC::WETC",
+      "assetGroup": "Wrapped ETC::WETC::61",
+      "currencyId": "Wrapped ETC::WETC",
       "tags": ["coingecko"]
     }
   },

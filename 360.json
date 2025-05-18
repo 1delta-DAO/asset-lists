@@ -9,7 +9,8 @@
       "address": "0xdbc38db4f11b7d111477f17e757aa17dd3348a6d",
       "symbol": "WMOLTEN",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/molten.png",
-      "assetGroup": "Wrapped Molten::WMOLTEN"
+      "assetGroup": "Wrapped Molten::WMOLTEN",
+      "currencyId": "Wrapped Molten::WMOLTEN"
     },
     "0x135b641e61cfc9a068b82e02ff0f051f6e5d4721": {
       "chainId": "360",
@@ -18,7 +19,8 @@
       "address": "0x135b641e61cfc9a068b82e02ff0f051f6e5d4721",
       "symbol": "USDC",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdc.svg",
-      "assetGroup": "USDC"
+      "assetGroup": "USDC",
+      "currencyId": "USD Coin::USDC"
     },
     "0x09bf29b44130e88f113c1fb0487bcb97b6920c31": {
       "chainId": "360",
@@ -27,7 +29,8 @@
       "address": "0x09bf29b44130e88f113c1fb0487bcb97b6920c31",
       "symbol": "WETH",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/weth.svg",
-      "assetGroup": "WETH"
+      "assetGroup": "WETH",
+      "currencyId": "Wrapped Ether::WETH"
     }
   },
   "mainTokens": ["0x135b641e61cfc9a068b82e02ff0f051f6e5d4721", "0x09bf29b44130e88f113c1fb0487bcb97b6920c31"],

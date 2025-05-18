@@ -9,7 +9,8 @@
       "address": "0x729ed87bbe7b7e4b7f09bcb9c668580818d98bb9",
       "symbol": "WBTC",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/wbtc.svg",
-      "assetGroup": "WBTC"
+      "assetGroup": "WBTC",
+      "currencyId": "Wrapped BTC::WBTC"
     },
     "0xbfbbc4da47508e85ac18dfc961fa182194e85f9a": {
       "chainId": "1625",
@@ -18,7 +19,8 @@
       "address": "0xbfbbc4da47508e85ac18dfc961fa182194e85f9a",
       "symbol": "DAI",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/dai.svg",
-      "assetGroup": "DAI"
+      "assetGroup": "DAI",
+      "currencyId": "Dai Stablecoin::DAI"
     },
     "0xf6f832466cd6c21967e0d954109403f36bc8ceaa": {
       "chainId": "1625",
@@ -28,6 +30,7 @@
       "symbol": "WETH",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/weth.svg",
       "assetGroup": "WETH",
+      "currencyId": "Wrapped Ether::WETH",
       "tags": ["coingecko"]
     },
     "0x816e810f9f787d669fb71932deabf6c83781cd48": {
@@ -37,7 +40,8 @@
       "address": "0x816e810f9f787d669fb71932deabf6c83781cd48",
       "symbol": "USDT",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdt.svg",
-      "assetGroup": "USDT"
+      "assetGroup": "USDT",
+      "currencyId": "Tether USD::USDT"
     },
     "0xfbda5f676cb37624f28265a144a48b0d6e87d3b6": {
       "chainId": "1625",
@@ -47,6 +51,7 @@
       "symbol": "USDC.e",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdc.svg",
       "assetGroup": "USDC",
+      "currencyId": "Bridged USDC (Stargate)::USDC.e",
       "tags": ["stargate", "bridged", "coingecko"]
     },
     "0xbb859e225ac8fb6be1c7e38d87b767e95fef0ebd": {
@@ -57,6 +62,7 @@
       "symbol": "wG",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/g.png",
       "assetGroup": "Wrapped G::wG",
+      "currencyId": "Wrapped G::wG",
       "tags": ["coingecko"]
     },
     "0xc314b8637b05a294ae9d9c29300d5f667c748bad": {
@@ -67,6 +73,7 @@
       "symbol": "atETH",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/ateth.svg",
       "assetGroup": "Latch staked ETH::atETH",
+      "currencyId": "Latch staked ETH::atETH",
       "tags": ["coingecko"]
     },
     "0xc4af68dd5b96f0a544c4417407773fefdc97f58d": {
@@ -77,6 +84,7 @@
       "symbol": "atUSD",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/atusd.svg",
       "assetGroup": "Latch staked USD::atUSD",
+      "currencyId": "Latch staked USD::atUSD",
       "tags": ["coingecko"]
     }
   },

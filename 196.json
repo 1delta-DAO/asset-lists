@@ -10,6 +10,7 @@
       "symbol": "WOKB",
       "logoURI": "https://assets.coingecko.com/coins/images/37278/thumb/okb.png?1713935642",
       "assetGroup": "Wrapped OKB::WOKB",
+      "currencyId": "Wrapped OKB::WOKB",
       "tags": ["coingecko"]
     },
     "0x1e4a5963abfd975d8c9021ce480b42188849d41d": {
@@ -20,6 +21,7 @@
       "symbol": "USDT",
       "logoURI": "https://assets.coingecko.com/coins/images/37200/thumb/usdt_%281%29.png?1713717211",
       "assetGroup": "USDT",
+      "currencyId": "Bridged USDT::USDT",
       "tags": ["bridged", "coingecko"]
     },
     "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035": {
@@ -30,6 +32,7 @@
       "symbol": "USDC.e",
       "logoURI": "https://assets.coingecko.com/coins/images/38355/thumb/usdc.png?1721299316",
       "assetGroup": "USDC",
+      "currencyId": "Bridged USDC::USDC.e",
       "tags": ["bridged", "coingecko"]
     },
     "0x4d87750a795b0ae310a24349fa9108585100a90e": {
@@ -40,6 +43,7 @@
       "symbol": "PUFF",
       "logoURI": "https://assets.coingecko.com/coins/images/38331/thumb/PUFF.jpg?1717098970",
       "assetGroup": "HOW TO FLY::PUFF",
+      "currencyId": "HOW TO FLY::PUFF",
       "tags": ["coingecko"]
     },
     "0x5a77f1443d16ee5761d310e38b62f77f726bc71c": {
@@ -50,6 +54,7 @@
       "symbol": "WETH",
       "logoURI": "https://assets.coingecko.com/coins/images/38360/thumb/weth.png?1717175703",
       "assetGroup": "WETH",
+      "currencyId": "Wrapped Ether::WETH",
       "tags": ["coingecko"]
     },
     "0xd077abe1663166c0920d41fd37ea2d9a00fabd40": {
@@ -60,6 +65,7 @@
       "symbol": "ZAI",
       "logoURI": "https://assets.coingecko.com/coins/images/39733/thumb/Group_4.png?1723771588",
       "assetGroup": "ZAI",
+      "currencyId": "ZAI Stablecoin::ZAI",
       "tags": ["coingecko"]
     },
     "0xd564276f9dc4201fbc8a836e70874ab1b769bf2a": {
@@ -69,7 +75,8 @@
       "address": "0xd564276f9dc4201fbc8a836e70874ab1b769bf2a",
       "symbol": "DACKIE",
       "logoURI": "https://assets.coingecko.com/coins/images/30752/thumb/dackieswap_large.png?1707290196",
-      "assetGroup": "DackieSwap (OLD)::DACKIE",
+      "assetGroup": "DACKIE",
+      "currencyId": "DackieSwap (OLD)::DACKIE",
       "tags": ["coingecko"]
     },
     "0x5a7a183b6b44dc4ec2e3d2ef43f98c5152b1d76d": {
@@ -80,6 +87,7 @@
       "symbol": "INETH",
       "logoURI": "https://assets.coingecko.com/coins/images/34127/thumb/inETH.png?1715036464",
       "assetGroup": "INETH",
+      "currencyId": "Inception Restaked ETH::INETH",
       "tags": ["coingecko"]
     },
     "0x5bff88ca1442c2496f7e475e9e7786383bc070c0": {
@@ -90,6 +98,7 @@
       "symbol": "SFRXUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/53964/thumb/sfrxUSD.png?1737792232",
       "assetGroup": "Staked Frax USD::SFRXUSD",
+      "currencyId": "Staked Frax USD::SFRXUSD",
       "tags": ["coingecko"]
     },
     "0x843d794ed4335b27d02184ca86787c14e6247074": {
@@ -100,6 +109,7 @@
       "symbol": "ZERO",
       "logoURI": "https://assets.coingecko.com/coins/images/37375/thumb/image.png?1714884543",
       "assetGroup": "ZeroLend::ZERO",
+      "currencyId": "ZeroLend::ZERO",
       "tags": ["coingecko"]
     },
     "0x80eede496655fb9047dd39d9f418d5483ed600df": {
@@ -109,7 +119,8 @@
       "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
       "symbol": "frxUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/54454/thumb/frxusd.png?1739789465",
-      "assetGroup": "Bridged frxUSD (LayerZero)::frxUSD",
+      "assetGroup": "FRXUSD",
+      "currencyId": "Bridged frxUSD (LayerZero)::frxUSD",
       "tags": ["bridged", "layerzero", "coingecko"]
     },
     "0x80137510979822322193fc997d400d5a6c747bf7": {
@@ -120,6 +131,7 @@
       "symbol": "STONE",
       "logoURI": "https://assets.coingecko.com/coins/images/33103/thumb/200_200.png?1702602672",
       "assetGroup": "STONE",
+      "currencyId": "StakeStone Ether::STONE",
       "tags": ["coingecko"]
     },
     "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf": {
@@ -130,6 +142,7 @@
       "symbol": "WGC",
       "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831",
       "assetGroup": "Wild Goat Coin::WGC",
+      "currencyId": "Wild Goat Coin::WGC",
       "tags": ["coingecko"]
     }
   },

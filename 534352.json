@@ -9,7 +9,8 @@
       "address": "0x40375c92d9faf44d2f9db9bd9ba41a3317a2404f",
       "symbol": "ICE",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/534352/0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f.png",
-      "assetGroup": "IceCream::ICE"
+      "assetGroup": "IceCream::ICE",
+      "currencyId": "IceCream::ICE"
     },
     "0xc0e49f8c615d3d4c245970f6dc528e4a47d69a44": {
       "chainId": "534352",
@@ -19,6 +20,7 @@
       "symbol": "USDT",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/534352/0xc0E49f8C615d3d4c245970F6Dc528E4A47d69a44.png",
       "assetGroup": "USDT",
+      "currencyId": "Bridged USDT (ICE Bridge)::USDT",
       "tags": ["bridged", "ice bridge"]
     },
     "0x5300000000000000000000000000000000000004": {
@@ -29,6 +31,7 @@
       "symbol": "WETH",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "assetGroup": "WETH",
+      "currencyId": "Wrapped Ether::WETH",
       "tags": ["coingecko"]
     },
     "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4": {
@@ -39,6 +42,7 @@
       "symbol": "USDC",
       "logoURI": "https://assets.coingecko.com/coins/images/32611/thumb/USDC.png?1698733754",
       "assetGroup": "USDC",
+      "currencyId": "USD Coin::USDC",
       "tags": ["coingecko"]
     },
     "0xf55bec9cafdbe8730f096aa55dad6d22d44099df": {
@@ -49,6 +53,7 @@
       "symbol": "USDT",
       "logoURI": "https://assets.coingecko.com/coins/images/32610/thumb/usdt_%281%29.png?1698733524",
       "assetGroup": "USDT",
+      "currencyId": "Tether USD::USDT",
       "tags": ["coingecko"]
     },
     "0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1": {
@@ -59,6 +64,7 @@
       "symbol": "WBTC",
       "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2/logo.png",
       "assetGroup": "WBTC",
+      "currencyId": "Wrapped BTC::WBTC",
       "tags": ["coingecko"]
     },
     "0xca77eb3fefe3725dc33bccb54edefc3d9f764f97": {
@@ -68,7 +74,8 @@
       "address": "0xca77eb3fefe3725dc33bccb54edefc3d9f764f97",
       "symbol": "DAI",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/534352/0xcA77eB3fEFe3725Dc33bccB54eDEFc3D9f764f97.png",
-      "assetGroup": "DAI"
+      "assetGroup": "DAI",
+      "currencyId": "Dai Stablecoin::DAI"
     },
     "0xf610a9dfb7c89644979b4a0f27063e9e7d7cda32": {
       "chainId": "534352",
@@ -78,6 +85,7 @@
       "symbol": "wstETH",
       "logoURI": "https://assets.coingecko.com/coins/images/32615/thumb/wsteth.png?1698735772",
       "assetGroup": "WSTETH",
+      "currencyId": "Wrapped liquid staked Ether 2.0::wstETH",
       "tags": ["coingecko"]
     },
     "0xdd6a49995ad38fe7409b5d5cb5539261bd1bc901": {
@@ -88,6 +96,7 @@
       "symbol": "CAT",
       "logoURI": "https://assets.coingecko.com/coins/images/34637/thumb/200x200.jpg?1705555969",
       "assetGroup": "Danjuan Scroll Cat::CAT",
+      "currencyId": "Danjuan Scroll Cat::CAT",
       "tags": ["coingecko"]
     },
     "0x750351a9f75f98f2c2e91d4edb3beb14e719557e": {
@@ -98,6 +107,7 @@
       "symbol": "SCRIBES",
       "logoURI": "https://assets.coingecko.com/coins/images/38185/thumb/scribes.png?1716788481",
       "assetGroup": "Scribes::SCRIBES",
+      "currencyId": "Scribes::SCRIBES",
       "tags": ["coingecko"]
     },
     "0x690f1d2da47d9a759a93dd2b0ace3c1627f216ba": {
@@ -107,7 +117,8 @@
       "address": "0x690f1d2da47d9a759a93dd2b0ace3c1627f216ba",
       "symbol": "VENIUM",
       "logoURI": "https://assets.coingecko.com/coins/images/36346/thumb/scrolliumlogo.png?1711187400",
-      "assetGroup": "Venium::VENIUM"
+      "assetGroup": "Venium::VENIUM",
+      "currencyId": "Venium::VENIUM"
     },
     "0x330c43d22bd65a60ffea93a197f04e87faa27b70": {
       "chainId": "534352",
@@ -117,6 +128,7 @@
       "symbol": "ABCNURI",
       "logoURI": "https://assets.coingecko.com/coins/images/40074/thumb/abcNURI.png?1725511281",
       "assetGroup": "abcNURI::ABCNURI",
+      "currencyId": "abcNURI::ABCNURI",
       "tags": ["coingecko"]
     },
     "0x65421ba909200b81640d98b979d07487c9781b66": {
@@ -127,6 +139,7 @@
       "symbol": "RSETH",
       "logoURI": "https://assets.coingecko.com/coins/images/39545/thumb/rseth.png?1722849918",
       "assetGroup": "RSETH",
+      "currencyId": "KelpDAO Bridged rsETH::RSETH",
       "tags": ["bridged", "coingecko"]
     },
     "0x1a2fcb585b327fadec91f55d45829472b15f17a4": {
@@ -136,7 +149,8 @@
       "address": "0x1a2fcb585b327fadec91f55d45829472b15f17a4",
       "symbol": "TKN",
       "logoURI": "https://assets.coingecko.com/coins/images/37905/thumb/200.png?1715932528",
-      "assetGroup": "Tokan::TKN"
+      "assetGroup": "Tokan::TKN",
+      "currencyId": "Tokan::TKN"
     },
     "0xd29687c813d741e2f938f4ac377128810e217b1b": {
       "chainId": "534352",
@@ -146,6 +160,7 @@
       "symbol": "SCR",
       "logoURI": "https://assets.coingecko.com/coins/images/50571/thumb/scroll.jpg?1728376125",
       "assetGroup": "Scroll::SCR",
+      "currencyId": "Scroll::SCR",
       "tags": ["coingecko"]
     },
     "0x0fc479e2f9b7310bfb1db606cf565dea6910eedc": {
@@ -156,6 +171,7 @@
       "symbol": "PAPYRUS",
       "logoURI": "https://assets.coingecko.com/coins/images/32479/thumb/PapyrusLogo.png?1698286849",
       "assetGroup": "Papyrus Swap::PAPYRUS",
+      "currencyId": "Papyrus Swap::PAPYRUS",
       "tags": ["coingecko"]
     },
     "0x2147a89fb4608752807216d5070471c09a0dce32": {
@@ -166,6 +182,7 @@
       "symbol": "ZP",
       "logoURI": "https://assets.coingecko.com/coins/images/36011/thumb/about_img01.png?1710324761",
       "assetGroup": "Z Protocol::ZP",
+      "currencyId": "Z Protocol::ZP",
       "tags": ["coingecko"]
     },
     "0xfec65bfb6e5bbcc9ab8ae98f62a8aab2ea51c495": {
@@ -176,6 +193,7 @@
       "symbol": "PED",
       "logoURI": "https://assets.coingecko.com/coins/images/32805/thumb/perseid.png?1704711269",
       "assetGroup": "Perseid Finance::PED",
+      "currencyId": "Perseid Finance::PED",
       "tags": ["coingecko"]
     },
     "0x2fc5cf65fd0a660801f119832b2158756968266d": {
@@ -185,7 +203,8 @@
       "address": "0x2fc5cf65fd0a660801f119832b2158756968266d",
       "symbol": "CHI",
       "logoURI": "https://assets.coingecko.com/coins/images/37906/thumb/CHI_PNG200x200.png?1715932591",
-      "assetGroup": "Chi USD::CHI"
+      "assetGroup": "Chi USD::CHI",
+      "currencyId": "Chi USD::CHI"
     },
     "0x61a9cc561b6c1f9c31bcdeb447afecf25f33bbf9": {
       "chainId": "534352",
@@ -195,6 +214,7 @@
       "symbol": "PANDA",
       "logoURI": "https://assets.coingecko.com/coins/images/35746/thumb/panda.jpeg?1709714542",
       "assetGroup": "Pandacoin Inu::PANDA",
+      "currencyId": "Pandacoin Inu::PANDA",
       "tags": ["coingecko"]
     },
     "0x95a52ec1d60e74cd3eb002fe54a2c74b185a4c16": {
@@ -205,6 +225,7 @@
       "symbol": "SKY",
       "logoURI": "https://assets.coingecko.com/coins/images/33902/thumb/icon_200x200.png?1703237670",
       "assetGroup": "Skydrome::SKY",
+      "currencyId": "Skydrome::SKY",
       "tags": ["coingecko"]
     },
     "0xecc68d0451e20292406967fe7c04280e5238ac7d": {
@@ -215,6 +236,7 @@
       "symbol": "frxETH",
       "logoURI": "https://assets.coingecko.com/coins/images/38976/thumb/Screen_Shot_2024-06-18_at_12.55.54_PM_2.png?1719714886",
       "assetGroup": "Frax Ether::frxETH",
+      "currencyId": "Frax Ether::frxETH",
       "tags": ["coingecko"]
     },
     "0xaaae8378809bb8815c08d3c59eb0c7d1529ad769": {
@@ -225,6 +247,7 @@
       "symbol": "NURI",
       "logoURI": "https://assets.coingecko.com/coins/images/38831/thumb/nuri_discord.png?1723623524",
       "assetGroup": "Nuri Exchange::NURI",
+      "currencyId": "Nuri Exchange::NURI",
       "tags": ["coingecko"]
     },
     "0xeb466342c4d449bc9f53a865d5cb90586f405215": {
@@ -235,6 +258,7 @@
       "symbol": "axlUSDC",
       "logoURI": "https://assets.coingecko.com/coins/images/32612/thumb/USDC.png?1698734090",
       "assetGroup": "USDC",
+      "currencyId": "Bridged USDC (Axelar)::axlUSDC",
       "tags": ["axelar", "bridged", "coingecko"]
     },
     "0x80137510979822322193fc997d400d5a6c747bf7": {
@@ -245,6 +269,7 @@
       "symbol": "STONE",
       "logoURI": "https://assets.coingecko.com/coins/images/33103/thumb/200_200.png?1702602672",
       "assetGroup": "STONE",
+      "currencyId": "StakeStone Ether::STONE",
       "tags": ["coingecko"]
     },
     "0x78ab77f7d590fb101aa18affc238cbfea31ead5b": {
@@ -255,6 +280,7 @@
       "symbol": "IBEX",
       "logoURI": "https://assets.coingecko.com/coins/images/27606/thumb/IqwOmX-c_400x400.jpeg?1696526637",
       "assetGroup": "Impermax::IBEX",
+      "currencyId": "Impermax::IBEX",
       "tags": ["coingecko"]
     },
     "0x376e673566f0b32738cc55f145e73f57beb44f4c": {
@@ -264,7 +290,8 @@
       "address": "0x376e673566f0b32738cc55f145e73f57beb44f4c",
       "symbol": "DCKUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/39966/thumb/dackie_usd_circle.png?1734941381",
-      "assetGroup": "Dackie USD::DCKUSD"
+      "assetGroup": "Dackie USD::DCKUSD",
+      "currencyId": "Dackie USD::DCKUSD"
     },
     "0xa25b25548b4c98b0c7d3d27dca5d5ca743d68b7f": {
       "chainId": "534352",
@@ -274,6 +301,7 @@
       "symbol": "wrsETH",
       "logoURI": "https://assets.coingecko.com/coins/images/37919/thumb/rseth.png?1715936438",
       "assetGroup": "WRSETH",
+      "currencyId": "Wrapped rsETH::wrsETH",
       "tags": ["coingecko"]
     },
     "0x0018d96c579121a94307249d47f053e2d687b5e7": {
@@ -284,6 +312,7 @@
       "symbol": "MVX",
       "logoURI": "https://assets.coingecko.com/coins/images/25402/thumb/mvx.png?1696524534",
       "assetGroup": "Metavault Trade::MVX",
+      "currencyId": "Metavault Trade::MVX",
       "tags": ["coingecko"]
     },
     "0xdf474b7109b73b7d57926d43598d5934131136b2": {
@@ -294,6 +323,7 @@
       "symbol": "ANKR",
       "logoURI": "https://assets.coingecko.com/coins/images/4324/thumb/U85xTl2.png?1696504928",
       "assetGroup": "ANKR",
+      "currencyId": "Ankr Network::ANKR",
       "tags": ["coingecko"]
     },
     "0x12d8ce035c5de3ce39b1fdd4c1d5a745eaba3b8c": {
@@ -304,6 +334,7 @@
       "symbol": "ANKRETH",
       "logoURI": "https://assets.coingecko.com/coins/images/13403/thumb/aETHc.png?1696513165",
       "assetGroup": "ANKRETH",
+      "currencyId": "Ankr Staked ETH::ANKRETH",
       "tags": ["coingecko"]
     },
     "0x1467b62a6ae5cdcb10a6a8173cfe187dd2c5a136": {
@@ -314,6 +345,7 @@
       "symbol": "SIS",
       "logoURI": "https://assets.coingecko.com/coins/images/20805/thumb/SymbiosisFinance_logo-150x150.jpeg?1696520198",
       "assetGroup": "Symbiosis::SIS",
+      "currencyId": "Symbiosis::SIS",
       "tags": ["coingecko"]
     },
     "0xb0643f7b3e2e2f10fe4e38728a763ec05f4adec3": {
@@ -324,6 +356,7 @@
       "symbol": "DAPP",
       "logoURI": "https://assets.coingecko.com/coins/images/36569/thumb/Pencils_Protocol_Profile_Pic.png?1722658792",
       "assetGroup": "Pencils Protocol::DAPP",
+      "currencyId": "Pencils Protocol::DAPP",
       "tags": ["coingecko"]
     },
     "0x0a3bb08b3a15a19b4de82f8acfc862606fb69a2d": {
@@ -334,6 +367,7 @@
       "symbol": "IUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/25388/thumb/iusd-logo-symbol-10k%E5%A4%A7%E5%B0%8F.png?1696524521",
       "assetGroup": "iZUMi Bond USD::IUSD",
+      "currencyId": "iZUMi Bond USD::IUSD",
       "tags": ["coingecko"]
     },
     "0x60d01ec2d5e98ac51c8b4cf84dfcce98d527c747": {
@@ -344,6 +378,7 @@
       "symbol": "IZI",
       "logoURI": "https://assets.coingecko.com/coins/images/21791/thumb/izumi-logo-symbol.png?1696521144",
       "assetGroup": "iZUMi Finance::IZI",
+      "currencyId": "iZUMi Finance::IZI",
       "tags": ["coingecko"]
     },
     "0xddeb23905f6987d5f786a93c00bbed3d97af1ccc": {
@@ -354,6 +389,7 @@
       "symbol": "PUNK",
       "logoURI": "https://assets.coingecko.com/coins/images/32270/thumb/punk.jpg?1697178661",
       "assetGroup": "PunkSwap::PUNK",
+      "currencyId": "PunkSwap::PUNK",
       "tags": ["coingecko"]
     },
     "0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31": {
@@ -364,6 +400,7 @@
       "symbol": "ITP",
       "logoURI": "https://assets.coingecko.com/coins/images/28338/thumb/ITP_Logo_200.png?1696527344",
       "assetGroup": "Interport Token::ITP",
+      "currencyId": "Interport Token::ITP",
       "tags": ["coingecko"]
     },
     "0x406cde76a3fd20e48bc1e0f60651e60ae204b040": {
@@ -374,6 +411,7 @@
       "symbol": "FRAX",
       "logoURI": "https://assets.coingecko.com/coins/images/53060/thumb/frax.jpg?1735171829",
       "assetGroup": "FRAX",
+      "currencyId": "Bridged FRAX::FRAX",
       "tags": ["bridged", "coingecko"]
     },
     "0xf79a36f6f440392c63ad61252a64d5d3c43f860d": {
@@ -383,7 +421,8 @@
       "address": "0xf79a36f6f440392c63ad61252a64d5d3c43f860d",
       "symbol": "QUACK",
       "logoURI": "https://assets.coingecko.com/coins/images/31436/thumb/0x639C0D019C257966C4907bD4E68E3F349bB58109.png?1696530251",
-      "assetGroup": "Quack Token::QUACK"
+      "assetGroup": "Quack Token::QUACK",
+      "currencyId": "Quack Token::QUACK"
     },
     "0x6a661312938d22a2a0e27f585073e4406903990a": {
       "chainId": "534352",
@@ -393,6 +432,7 @@
       "symbol": "MAHA",
       "logoURI": "https://assets.coingecko.com/coins/images/13404/thumb/black.png?1724679606",
       "assetGroup": "Maha::MAHA",
+      "currencyId": "Maha::MAHA",
       "tags": ["coingecko"]
     },
     "0xb9010964301326160173da694c0697a2fce82f39": {
@@ -402,7 +442,8 @@
       "address": "0xb9010964301326160173da694c0697a2fce82f39",
       "symbol": "DACKIE",
       "logoURI": "https://assets.coingecko.com/coins/images/30752/thumb/dackieswap_large.png?1707290196",
-      "assetGroup": "DackieSwap (OLD)::DACKIE",
+      "assetGroup": "DACKIE",
+      "currencyId": "DackieSwap (OLD)::DACKIE",
       "tags": ["coingecko"]
     },
     "0x99f775945e46da5d443246fad7bc317993ee1b1a": {
@@ -412,7 +453,8 @@
       "address": "0x99f775945e46da5d443246fad7bc317993ee1b1a",
       "symbol": "EGOLD",
       "logoURI": "https://assets.coingecko.com/coins/images/50815/thumb/eGOLD.png?1729238938",
-      "assetGroup": "Aryze s Digital Gold::EGOLD"
+      "assetGroup": "Aryze s Digital Gold::EGOLD",
+      "currencyId": "Aryze s Digital Gold::EGOLD"
     },
     "0x44d4b627997b41abd2bf2ea05b731fe535f01c3d": {
       "chainId": "534352",
@@ -422,6 +464,7 @@
       "symbol": "ZAI",
       "logoURI": "https://assets.coingecko.com/coins/images/39733/thumb/Group_4.png?1723771588",
       "assetGroup": "ZAI",
+      "currencyId": "ZAI Stablecoin::ZAI",
       "tags": ["coingecko"]
     },
     "0x087c440f251ff6cfe62b86dde1be558b95b4bb9b": {
@@ -432,6 +475,7 @@
       "symbol": "BOLD",
       "logoURI": "https://assets.coingecko.com/coins/images/53755/thumb/BOLD_logo.png?1737183873",
       "assetGroup": "Liquity BOLD::BOLD",
+      "currencyId": "Liquity BOLD::BOLD",
       "tags": ["coingecko"]
     },
     "0xe231db5f348d709239ef1741ea30961b3b635a61": {
@@ -442,6 +486,7 @@
       "symbol": "YNETHX",
       "logoURI": "https://assets.coingecko.com/coins/images/51623/thumb/ynETHx.png?1731659494",
       "assetGroup": "ynETH MAX::YNETHX",
+      "currencyId": "ynETH MAX::YNETHX",
       "tags": ["coingecko"]
     },
     "0xd7bb130a48595fcdf9480e36c1ae97ff2938ac21": {
@@ -452,6 +497,7 @@
       "symbol": "EURE",
       "logoURI": "https://assets.coingecko.com/coins/images/54303/thumb/eure.jpg?1739167959",
       "assetGroup": "Monerium EUR emoney::EURE",
+      "currencyId": "Monerium EUR emoney::EURE",
       "tags": ["coingecko"]
     },
     "0xf9af83fc41e0cc2af2fba93644d542df6ea0f2b7": {
@@ -462,6 +508,7 @@
       "symbol": "POOL",
       "logoURI": "https://assets.coingecko.com/coins/images/14003/thumb/PoolTogether.png?1696513732",
       "assetGroup": "PoolTogether::POOL",
+      "currencyId": "PoolTogether::POOL",
       "tags": ["coingecko"]
     },
     "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf": {
@@ -472,6 +519,7 @@
       "symbol": "WGC",
       "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831",
       "assetGroup": "Wild Goat Coin::WGC",
+      "currencyId": "Wild Goat Coin::WGC",
       "tags": ["coingecko"]
     }
   },
