@@ -78,7 +78,7 @@
       "address": "0xe0b52e49357fd4daf2c15e02058dce6bc0057db4",
       "symbol": "EURA",
       "logoURI": "https://assets.coingecko.com/coins/images/19479/large/agEUR.png?1635283566",
-      "assetGroup": "EURA",
+      "assetGroup": "EURA::EURA",
       "tags": ["debridge"]
     },
     "0x190eb8a183d22a4bdf278c6791b152228857c033": {
@@ -5592,8 +5592,8 @@
       "address": "0x1ddcaa4ed761428ae348befc6718bcb12e63bfaa",
       "symbol": "deUSDC",
       "logoURI": "https://s3.openocean.finance/token_logos/logos/1650029090036_6170070150622293.png",
-      "assetGroup": "DEUSDC",
-      "tags": ["openocean"]
+      "assetGroup": "Bridged USDC (deBridge)::deUSDC",
+      "tags": ["bridged", "openocean"]
     },
     "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89": {
       "chainId": "137",
@@ -6898,7 +6898,7 @@
       "address": "0xecdcb5b88f8e3c15f95c720c51c71c9e2080525d",
       "symbol": "WBNB",
       "logoURI": "https://tokens.debridge.finance/Logo/137/0xecdcb5b88f8e3c15f95c720c51c71c9e2080525d/small/token-logo.png",
-      "assetGroup": "Bridged WBNB (Wormhole)::WBNB",
+      "assetGroup": "WBNB",
       "tags": ["wormhole", "bridged", "debridge"]
     },
     "0x03cf5d93ca7c70ce0a21a09f4d70779d2c66b25a": {
@@ -7952,7 +7952,7 @@
       "address": "0x3553f861dec0257bada9f8ed268bf0d74e45e89c",
       "symbol": "USDT",
       "logoURI": "https://tokens.debridge.finance/Logo/137/0x3553f861dec0257bada9f8ed268bf0d74e45e89c/small/token-logo.png",
-      "assetGroup": "Bridged Tether (Wormhole)::USDT",
+      "assetGroup": "USDT",
       "tags": ["wormhole", "bridged", "debridge"]
     },
     "0x1599fe55cda767b1f631ee7d414b41f5d6de393d": {
@@ -15248,6 +15248,26 @@
       "address": "0x8437d7c167dfb82ed4cb79cd44b7a32a1dd95c77",
       "symbol": "aPolAGEUR",
       "assetGroup": "Aave v3 agEUR::aPolAGEUR",
+      "tags": ["debridge"]
+    },
+    "0x9719d867a500ef117cc201206b8ab51e794d3f82": {
+      "chainId": "137",
+      "decimals": 6,
+      "name": "Matic Aave interest bearing USDC",
+      "address": "0x9719d867a500ef117cc201206b8ab51e794d3f82",
+      "symbol": "maUSDC",
+      "logoURI": "https://tokens.debridge.finance/Logo/137/0x9719d867a500ef117cc201206b8ab51e794d3f82/small/token-logo.png",
+      "assetGroup": "Matic Aave interest bearing USDC::maUSDC",
+      "tags": ["openocean", "debridge"]
+    },
+    "0xe7a24ef0c5e95ffb0f6684b813a78f2a3ad7d171": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Curve.fi amDAI/amUSDC/amUSDT",
+      "address": "0xe7a24ef0c5e95ffb0f6684b813a78f2a3ad7d171",
+      "symbol": "am3CRV",
+      "logoURI": "https://tokens.debridge.finance/Logo/137/0xe7a24ef0c5e95ffb0f6684b813a78f2a3ad7d171/small/token-logo.png",
+      "assetGroup": "Curve.fi amDAI/amUSDC/amUSDT::am3CRV",
       "tags": ["debridge"]
     }
   },
