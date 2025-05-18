@@ -53,7 +53,7 @@
       "address": "0x2ab105a3ead22731082b790ca9a00d9a3a7627f9",
       "symbol": "FIUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/50749/thumb/FIUDS_200x200px_%281%29.png?1728956878",
-      "assetGroup": "Sygnum FIUSD Liquidity Fund::FIUSD",
+      "assetGroup": "FIUSD",
       "currencyId": "Sygnum FIUSD Liquidity Fund::FIUSD",
       "tags": ["coingecko"]
     },
@@ -194,7 +194,7 @@
       "address": "0xed4040fd47629e7c8fbb7da76bb50b3e7695f0f2",
       "symbol": "HOLD",
       "logoURI": "https://assets.coingecko.com/coins/images/32726/thumb/HOLD.png?1699018663",
-      "assetGroup": "Holdstation::HOLD",
+      "assetGroup": "HOLD",
       "currencyId": "Holdstation::HOLD"
     },
     "0xdbff7c6d368904680706804645cafa4defa3c224": {
@@ -204,7 +204,7 @@
       "address": "0xdbff7c6d368904680706804645cafa4defa3c224",
       "symbol": "TEVA",
       "logoURI": "https://assets.coingecko.com/coins/images/53086/thumb/Teva-200.png?1735204737",
-      "assetGroup": "Tevaera::TEVA",
+      "assetGroup": "TEVA",
       "currencyId": "Tevaera::TEVA"
     },
     "0x3a34fa9a1288597ad6c1da709f001d37fef8b19e": {
@@ -324,7 +324,7 @@
       "address": "0xc3a3aa99b80845d22cc41dea3bdb9b2a9ebe199a",
       "symbol": "ZKDX",
       "logoURI": "https://assets.coingecko.com/coins/images/34802/thumb/logo-png.png?1706092934",
-      "assetGroup": "ZKDX::ZKDX",
+      "assetGroup": "ZKDX",
       "currencyId": "ZKDX::ZKDX"
     },
     "0x3a4fea0cf14c18c21975ff08efe11c08cccefe10": {
@@ -745,7 +745,7 @@
       "address": "0x27d0a2b5316b98088294378692f4eabfb3222e36",
       "symbol": "ZERO",
       "logoURI": "https://assets.coingecko.com/coins/images/37375/thumb/image.png?1714884543",
-      "assetGroup": "ZeroLend::ZERO",
+      "assetGroup": "ZERO",
       "currencyId": "ZeroLend::ZERO",
       "tags": ["coingecko"]
     },
@@ -767,7 +767,7 @@
       "address": "0x0e97c7a0f8b2c9885c8ac9fc6136e829cbc21d42",
       "symbol": "MUTE",
       "logoURI": "https://assets.coingecko.com/coins/images/14331/thumb/MUTE.png?1696514019",
-      "assetGroup": "Mute::MUTE",
+      "assetGroup": "MUTE",
       "currencyId": "Mute::MUTE",
       "tags": ["coingecko"]
     },
@@ -822,7 +822,7 @@
       "address": "0x16a9494e257703797d747540f01683952547ee5b",
       "symbol": "IZI",
       "logoURI": "https://assets.coingecko.com/coins/images/21791/thumb/izumi-logo-symbol.png?1696521144",
-      "assetGroup": "iZUMi Finance::IZI",
+      "assetGroup": "IZI",
       "currencyId": "iZUMi Finance::IZI",
       "tags": ["coingecko"]
     },
@@ -921,9 +921,9 @@
       "address": "0xdd9f72afed3631a6c85b5369d84875e6c42f1827",
       "symbol": "SIS",
       "logoURI": "https://assets.coingecko.com/coins/images/20805/thumb/SymbiosisFinance_logo-150x150.jpeg?1696520198",
-      "assetGroup": "Symbiosis::SIS",
-      "currencyId": "Symbiosis::SIS",
-      "tags": ["coingecko"]
+      "assetGroup": "SIS",
+      "currencyId": "Symbiosis Finance::SIS",
+      "tags": ["symbiosis", "bridged", "coingecko"]
     },
     "0x3613ad277df1d5935d41400a181aa9ec1dc2dc9e": {
       "chainId": "324",
@@ -987,7 +987,7 @@
       "address": "0x8e86e46278518efc1c5ced245cba2c7e3ef11557",
       "symbol": "USD+",
       "logoURI": "https://assets.coingecko.com/coins/images/25757/thumb/USD__logo.png?1696524843",
-      "assetGroup": "Overnight.fi USD::USD+",
+      "assetGroup": "USD+",
       "currencyId": "Overnight.fi USD::USD+",
       "tags": ["coingecko"]
     },
@@ -1151,7 +1151,7 @@
       "address": "0x74ed17608cc2b5f30a59d6af07c9ad1b1ab3a5b1",
       "symbol": "SolvBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/36800/thumb/solvBTC.png?1719810684",
-      "assetGroup": "SOLVBTC",
+      "assetGroup": "Solv BTC::SolvBTC",
       "currencyId": "Solv BTC::SolvBTC",
       "tags": ["coingecko"]
     }

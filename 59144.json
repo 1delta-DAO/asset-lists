@@ -20,7 +20,7 @@
       "address": "0x1578f35532fa091eced8638730f9db829930ce16",
       "symbol": "EURA",
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15024.png",
-      "assetGroup": "EURA::EURA",
+      "assetGroup": "EURA",
       "currencyId": "EURA::EURA"
     },
     "0x6baa318cf7c51c76e17ae1ebe9bbff96ae017acb": {
@@ -360,9 +360,9 @@
       "address": "0x6ef95b6f3b0f39508e3e04054be96d5ee39ede0d",
       "symbol": "SIS",
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15084.png",
-      "assetGroup": "Symbiosis::SIS",
-      "currencyId": "Symbiosis::SIS",
-      "tags": ["coingecko", "debridge"]
+      "assetGroup": "SIS",
+      "currencyId": "Symbiosis Finance::SIS",
+      "tags": ["symbiosis", "bridged", "coingecko", "debridge"]
     },
     "0xec859566fc5d7ed84ac823509f3f7db06c461b20": {
       "chainId": "59144",
@@ -585,7 +585,7 @@
       "address": "0x78354f8dccb269a615a7e0a24f9b0718fdc3c7a7",
       "symbol": "ZERO",
       "logoURI": "https://assets.coingecko.com/coins/images/37375/standard/image.png?1714884543",
-      "assetGroup": "ZeroLend::ZERO",
+      "assetGroup": "ZERO",
       "currencyId": "ZeroLend::ZERO",
       "tags": ["coingecko", "debridge"]
     },
@@ -761,7 +761,7 @@
       "address": "0x7d43aabc515c356145049227cee54b608342c0ad",
       "symbol": "BUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/31020/thumb/download_%2816%29.png?1696529856",
-      "assetGroup": "Binance USD::BUSD",
+      "assetGroup": "BUSD",
       "currencyId": "Binance USD::BUSD",
       "tags": ["coingecko", "debridge"]
     },
@@ -1003,7 +1003,7 @@
       "address": "0x60d01ec2d5e98ac51c8b4cf84dfcce98d527c747",
       "symbol": "IZI",
       "logoURI": "https://assets.coingecko.com/coins/images/21791/thumb/izumi-logo-symbol.png?1696521144",
-      "assetGroup": "iZUMi Finance::IZI",
+      "assetGroup": "IZI",
       "currencyId": "iZUMi Finance::IZI",
       "tags": ["coingecko", "debridge"]
     },
@@ -1176,7 +1176,7 @@
       "address": "0xd96536b77ae5500fe850add2253bcf640e7824c1",
       "symbol": "SIDUS",
       "logoURI": "https://assets.coingecko.com/coins/images/21401/thumb/SIDUS_coin_logo.png?1696520765",
-      "assetGroup": "Sidus::SIDUS",
+      "assetGroup": "SIDUS",
       "currencyId": "Sidus::SIDUS",
       "tags": ["coingecko"]
     },
