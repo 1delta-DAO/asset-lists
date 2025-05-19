@@ -5334,8 +5334,9 @@
       "address": "0x20865e63b111b2649ef829ec220536c82c58ad7b",
       "symbol": "BNB",
       "logoURI": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png?1644979850",
-      "assetGroup": "BNB::BNB",
-      "currencyId": "BNB::BNB"
+      "assetGroup": "BNB",
+      "currencyId": "Bridged BNB::BNB",
+      "tags": ["bridged"]
     },
     "0x8579794b10f88ebbedd3605f2e5ff54f162d4788": {
       "chainId": "42161",
@@ -5345,7 +5346,7 @@
       "symbol": "WBNB",
       "logoURI": "https://assets.coingecko.com/coins/images/22884/large/BNB_wh_small.png?1644224553",
       "assetGroup": "BNB",
-      "currencyId": "Bridged WBNB (Wormhole)::BNB",
+      "currencyId": "Bridged WBNB (Wormhole)::WBNB",
       "tags": ["wormhole", "bridged"]
     },
     "0x031d35296154279dc1984dcd93e392b1f946737b": {
@@ -15435,8 +15436,9 @@
       "address": "0x1bfc5d35bf0f7b9e15dc24c78b8c02dbc1e95447",
       "symbol": "ANKR",
       "logoURI": "https://assets.coingecko.com/coins/images/4324/thumb/U85xTl2.png?1608111978",
-      "assetGroup": "Ankr::ANKR",
-      "currencyId": "Ankr::ANKR"
+      "assetGroup": "Bridged ANKR::ANKR",
+      "currencyId": "Bridged ANKR::ANKR",
+      "tags": ["bridged"]
     }
   },
   "mainTokens": [
