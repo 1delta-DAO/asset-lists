@@ -11241,7 +11241,7 @@
       "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
       "symbol": "WETH",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
-      "assetGroup": "WETH",
+      "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
       "tags": ["mantlelist", "openocean", "coingecko", "debridge"]
     },
@@ -48594,7 +48594,7 @@
       "address": "0x46fdcddfad7c72a621e8298d231033cc00e067c6",
       "symbol": "DOGE",
       "logoURI": "https://assets.coingecko.com/coins/images/50452/thumb/Department_Of_Government_Efficiency.png?1727773104",
-      "assetGroup": "Department Of Government Efficiency::DOGE::1::0",
+      "assetGroup": "Department Of Government Efficiency::DOGE::1::1",
       "currencyId": "Department Of Government Efficiency::DOGE",
       "tags": ["coingecko", "debridge"]
     },
@@ -50859,7 +50859,7 @@
       "address": "0xa426660830ed887a25c1c6158ca348038e1a37cb",
       "symbol": "CTO",
       "logoURI": "https://assets.coingecko.com/coins/images/50791/thumb/CTO_1-1_Logo.png?1729230503",
-      "assetGroup": "Chief Troll Officer::CTO::1::0",
+      "assetGroup": "Chief Troll Officer::CTO::1::1",
       "currencyId": "Chief Troll Officer::CTO",
       "tags": ["coingecko", "debridge"]
     },
@@ -52641,7 +52641,7 @@
       "address": "0x81fcc294d91bd8ffc8a822d7df0e2fd2f8526c39",
       "symbol": "DOGE",
       "logoURI": "https://assets.coingecko.com/coins/images/51475/thumb/doge.png?1731402608",
-      "assetGroup": "Department Of Government Efficiency::DOGE::1::0::1",
+      "assetGroup": "Department Of Government Efficiency::DOGE::1::1::2",
       "currencyId": "Department Of Government Efficiency::DOGE",
       "tags": ["coingecko", "debridge"]
     },
@@ -58866,7 +58866,7 @@
       "address": "0x6aa56e1d98b3805921c170eb4b3fe7d4fda6d89b",
       "symbol": "TRUMP",
       "logoURI": "https://assets.coingecko.com/coins/images/31498/thumb/Maga-Trump-Logo-200px.png?1696530309",
-      "assetGroup": "MAGA::TRUMP::1::0",
+      "assetGroup": "MAGA::TRUMP::1::1",
       "currencyId": "MAGA::TRUMP",
       "tags": ["coingecko", "debridge"]
     },
@@ -69242,6 +69242,38 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55893/thumb/Nexus_Logo.png?1747624773",
       "assetGroup": "NexusChain::NEXUS",
       "currencyId": "NexusChain::NEXUS",
+      "tags": ["coingecko"]
+    },
+    "0x14bdc3a3ae09f5518b923b69489cbcafb238e617": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "PT Ethereal eUSDE 14AUG2025",
+      "address": "0x14bdc3a3ae09f5518b923b69489cbcafb238e617",
+      "symbol": "PT-eUSDE-14AUG2025",
+      "logoURI": "https://cdn.morpho.org/assets/logos/pt-eusde.svg",
+      "assetGroup": "PT Ethereal eUSDE 14AUG2025::PT-eUSDE-14AUG2025",
+      "currencyId": "PT Ethereal eUSDE 14AUG2025::PT-eUSDE-14AUG2025"
+    },
+    "0x9e72a0e219cff0011069ae7b0da73fa26280f41b": {
+      "chainId": "1",
+      "decimals": 9,
+      "name": "Izzy",
+      "address": "0x9e72a0e219cff0011069ae7b0da73fa26280f41b",
+      "symbol": "IZZY",
+      "logoURI": "https://assets.coingecko.com/coins/images/55894/thumb/izzy-logo.jpg?1747639009",
+      "assetGroup": "Izzy::IZZY::1",
+      "currencyId": "Izzy::IZZY",
+      "tags": ["coingecko"]
+    },
+    "0xd86571bfb6753c252764c4ae37fd54888774d32e": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "Kabosu ERC20",
+      "address": "0xd86571bfb6753c252764c4ae37fd54888774d32e",
+      "symbol": "KABOSU",
+      "logoURI": "https://assets.coingecko.com/coins/images/55903/thumb/Kabosu_ERC20.png?1747647048",
+      "assetGroup": "Kabosu ERC20::KABOSU",
+      "currencyId": "Kabosu ERC20::KABOSU",
       "tags": ["coingecko"]
     }
   },

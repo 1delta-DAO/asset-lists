@@ -5571,7 +5571,7 @@
       "address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
       "symbol": "WETH",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
-      "assetGroup": "WETH",
+      "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
       "tags": ["openocean", "debridge"]
     },
@@ -5623,7 +5623,7 @@
       "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
       "symbol": "WPOL",
       "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912",
-      "assetGroup": "WPOL",
+      "assetGroup": "POL",
       "currencyId": "Wrapped POL::WPOL",
       "tags": ["openocean", "debridge"]
     },
@@ -6687,7 +6687,7 @@
       "address": "0x692ac1e363ae34b6b489148152b12e2785a3d8d6",
       "symbol": "TRADE",
       "logoURI": "https://tokens.debridge.finance/Logo/137/0x692ac1e363ae34b6b489148152b12e2785a3d8d6/small/token-logo.png",
-      "assetGroup": "TRADE",
+      "assetGroup": "Polytrade::TRADE",
       "currencyId": "Polytrade::TRADE",
       "tags": ["debridge"]
     },
@@ -6720,7 +6720,7 @@
       "address": "0x11cd37bb86f65419713f30673a480ea33c826872",
       "symbol": "WETH",
       "logoURI": "https://tokens.debridge.finance/Logo/137/0x11cd37bb86f65419713f30673a480ea33c826872/small/token-logo.png",
-      "assetGroup": "WETH",
+      "assetGroup": "ETH",
       "currencyId": "Bridged WETH (Wormhole)::WETH",
       "tags": ["wormhole", "bridged", "debridge"]
     },
@@ -7629,7 +7629,7 @@
       "address": "0xecdcb5b88f8e3c15f95c720c51c71c9e2080525d",
       "symbol": "WBNB",
       "logoURI": "https://tokens.debridge.finance/Logo/137/0xecdcb5b88f8e3c15f95c720c51c71c9e2080525d/small/token-logo.png",
-      "assetGroup": "WBNB",
+      "assetGroup": "BNB",
       "currencyId": "Bridged WBNB (Wormhole)::WBNB",
       "tags": ["wormhole", "bridged", "debridge"]
     },
@@ -10743,7 +10743,7 @@
       "address": "0x5c59d7cb794471a9633391c4927ade06b8787a90",
       "symbol": "TIME",
       "logoURI": "https://tokens.debridge.finance/Logo/137/0x5c59d7cb794471a9633391c4927ade06b8787a90/small/token-logo.png",
-      "assetGroup": "TIME",
+      "assetGroup": "Timeleap Finance::TIME",
       "currencyId": "Timeleap Finance::TIME",
       "tags": ["debridge"]
     },

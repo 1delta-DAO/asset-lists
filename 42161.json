@@ -2264,7 +2264,7 @@
       "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
       "symbol": "WETH",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
-      "assetGroup": "WETH",
+      "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
       "tags": ["openocean", "coingecko", "debridge"]
     },
@@ -3378,7 +3378,7 @@
       "address": "0xa9004a5421372e1d83fb1f85b0fc986c912f91f3",
       "symbol": "WBNB",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xa9004A5421372E1D83fB1f85b0fc986c912f91f3/logo.png",
-      "assetGroup": "WBNB",
+      "assetGroup": "BNB",
       "currencyId": "Wrapped BNB::WBNB"
     },
     "0x2cab3abfc1670d1a452df502e216a66883cdf079": {
@@ -4530,7 +4530,7 @@
       "address": "0xe22c452bd2ade15dfc8ad98286bc6bdf0c9219b7",
       "symbol": "TRADE",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/trade.png",
-      "assetGroup": "TRADE",
+      "assetGroup": "Polytrade::TRADE",
       "currencyId": "Polytrade::TRADE",
       "tags": ["coingecko", "debridge"]
     },
@@ -5334,7 +5334,7 @@
       "address": "0x20865e63b111b2649ef829ec220536c82c58ad7b",
       "symbol": "BNB",
       "logoURI": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png?1644979850",
-      "assetGroup": "BNB",
+      "assetGroup": "BNB::BNB",
       "currencyId": "BNB::BNB"
     },
     "0x8579794b10f88ebbedd3605f2e5ff54f162d4788": {

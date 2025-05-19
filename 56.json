@@ -9,7 +9,7 @@
       "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
       "symbol": "WBNB",
       "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
-      "assetGroup": "WBNB",
+      "assetGroup": "BNB",
       "currencyId": "Wrapped BNB::WBNB",
       "tags": ["openocean", "coingecko", "debridge"]
     },
@@ -8157,7 +8157,7 @@
       "address": "0x4db5a66e937a9f4473fa95b1caf1d1e1d62e29ea",
       "symbol": "WETH",
       "logoURI": "https://tokens.debridge.finance/Logo/56/0x4db5a66e937a9f4473fa95b1caf1d1e1d62e29ea/small/token-logo.png",
-      "assetGroup": "WETH",
+      "assetGroup": "ETH",
       "currencyId": "Wrapped Ether (Wormhole)::WETH",
       "tags": ["wormhole", "bridged", "coingecko", "debridge"]
     },
@@ -13337,7 +13337,7 @@
       "address": "0xc836d8dc361e44dbe64c4862d55ba041f88ddd39",
       "symbol": "WMATIC",
       "logoURI": "https://tokens.debridge.finance/Logo/56/0xc836d8dc361e44dbe64c4862d55ba041f88ddd39/small/token-logo.png",
-      "assetGroup": "WMATIC",
+      "assetGroup": "POL",
       "currencyId": "MATIC (Wormhole)::WMATIC",
       "tags": ["wormhole", "bridged", "coingecko", "debridge"]
     },
@@ -40243,6 +40243,17 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55890/thumb/BNBULL.png?1747559122",
       "assetGroup": "BNBULL::BNBULL",
       "currencyId": "BNBULL::BNBULL",
+      "tags": ["coingecko"]
+    },
+    "0xb21b24f12c6125487a33fcf96ab06a5c74114444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "naiive",
+      "address": "0xb21b24f12c6125487a33fcf96ab06a5c74114444",
+      "symbol": "NAIIVE",
+      "logoURI": "https://assets.coingecko.com/coins/images/55901/thumb/naiive.jpg?1747644750",
+      "assetGroup": "naiive::NAIIVE",
+      "currencyId": "naiive::NAIIVE",
       "tags": ["coingecko"]
     }
   },

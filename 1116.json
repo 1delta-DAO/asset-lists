@@ -111,7 +111,7 @@
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x12AA82525DEfF84777fa78578A68ceB854A85f43.png",
       "assetGroup": "BNB",
       "currencyId": "Bridged BNB (ICE)::BNB",
-      "tags": ["bridged"]
+      "tags": ["bridged", "ice"]
     },
     "0x8687cd1d02a28098571067ddb18f33fef667c929": {
       "chainId": "1116",
@@ -121,7 +121,8 @@
       "symbol": "BUSD",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x8687cD1d02A28098571067ddB18F33fEF667C929.png",
       "assetGroup": "BUSD",
-      "currencyId": "BUSD (ICE)::BUSD"
+      "currencyId": "BUSD (ICE)::BUSD",
+      "tags": ["ice", "bridged"]
     },
     "0x1f82d787a1186c67360e62869c46eadbc192846a": {
       "chainId": "1116",
@@ -131,7 +132,8 @@
       "symbol": "DAI",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x1f82d787a1186c67360E62869C46eADbc192846a.png",
       "assetGroup": "DAI",
-      "currencyId": "Dai (ICE)::DAI"
+      "currencyId": "Dai (ICE)::DAI",
+      "tags": ["ice", "bridged"]
     },
     "0x7de0bc2cf736f0a307299a0acff1e89843c109a2": {
       "chainId": "1116",
@@ -141,7 +143,8 @@
       "symbol": "DOGE",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x7de0Bc2cf736f0a307299A0acFf1e89843C109a2.png",
       "assetGroup": "DOGE",
-      "currencyId": "Dogecoin (ICE)::DOGE"
+      "currencyId": "Dogecoin (ICE)::DOGE",
+      "tags": ["ice", "bridged"]
     },
     "0xef6b7bc74c9354bcf2e3f2a068e4b0b5cdf08f29": {
       "chainId": "1116",
@@ -151,7 +154,8 @@
       "symbol": "ETH",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0xeF6b7BC74C9354BCf2e3F2A068e4b0B5CDf08F29.png",
       "assetGroup": "ETH",
-      "currencyId": "Ether (ICE)::ETH"
+      "currencyId": "Ether (ICE)::ETH",
+      "tags": ["ice", "bridged"]
     },
     "0xd45ec0d923e7cd61666a46bfc0a8be9c234ae6d7": {
       "chainId": "1116",
@@ -161,7 +165,8 @@
       "symbol": "SHIB",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0xD45eC0D923E7CD61666A46bfc0A8BE9C234Ae6d7.png",
       "assetGroup": "SHIB",
-      "currencyId": "Shiba Inu (ICE)::SHIB"
+      "currencyId": "Shiba Inu (ICE)::SHIB",
+      "tags": ["ice", "bridged"]
     },
     "0x6e35ff7ac8eeb825ddb155515ef612adcd66bcbc": {
       "chainId": "1116",
@@ -310,7 +315,7 @@
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x81bCEa03678D1CEF4830942227720D542Aa15817.png",
       "assetGroup": "Bridged USDT (ICE)::USDTi",
       "currencyId": "Bridged USDT (ICE)::USDTi",
-      "tags": ["bridged"]
+      "tags": ["bridged", "ice"]
     },
     "0xd2683b22287e63d22928cbe4514003a92507f474": {
       "chainId": "1116",
@@ -321,7 +326,7 @@
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0xD2683b22287E63D22928CBe4514003a92507f474.png",
       "assetGroup": "Bridged USDC (ICE)::USDCi",
       "currencyId": "Bridged USDC (ICE)::USDCi",
-      "tags": ["bridged"]
+      "tags": ["bridged", "ice"]
     },
     "0x140910dc81f3b8029b32678e0e32c6292fcacbcb": {
       "chainId": "1116",
@@ -361,7 +366,7 @@
       "address": "0xb0788b601c0d712702bc829b52771199ad8e33ff",
       "symbol": "WCORE",
       "logoURI": "https://assets.coingecko.com/coins/images/29276/standard/wcore.png?1696528228",
-      "assetGroup": "WCORE",
+      "assetGroup": "CORE",
       "currencyId": "Wrapped CORE::WCORE",
       "tags": ["coingecko"]
     },

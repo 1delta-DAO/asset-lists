@@ -65,7 +65,7 @@
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/288/0x7D5a56742C082FcDfc240cd7D1775f00e059771F.png",
       "assetGroup": "USDT",
       "currencyId": "Bridged USDT (ICE)::USDT",
-      "tags": ["bridged"]
+      "tags": ["bridged", "ice"]
     },
     "0xfa9343c3897324496a05fc75abed6bac29f8a40f": {
       "chainId": "288",
@@ -114,7 +114,7 @@
       "address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000",
       "symbol": "WETH",
       "logoURI": "https://assets.coingecko.com/coins/images/39717/thumb/WETH.PNG?1723732087",
-      "assetGroup": "WETH",
+      "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
       "tags": ["coingecko"]
     },

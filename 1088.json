@@ -64,7 +64,7 @@
       "address": "0x420000000000000000000000000000000000000a",
       "symbol": "WETH",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
-      "assetGroup": "WETH",
+      "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
       "tags": ["coingecko", "debridge"]
     },
@@ -141,7 +141,7 @@
       "address": "0x75cb093e4d61d2a2e65d8e0bbb01de8d89b53481",
       "symbol": "WMETIS",
       "logoURI": "https://assets.coingecko.com/coins/images/34526/thumb/metis.jpeg?1705305707",
-      "assetGroup": "WMETIS",
+      "assetGroup": "METIS",
       "currencyId": "Wrapped Metis::WMETIS",
       "tags": ["coingecko", "debridge"]
     },
@@ -316,7 +316,7 @@
       "address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000",
       "symbol": "METIS",
       "logoURI": "https://assets.coingecko.com/coins/images/15595/thumb/Metis_Black_Bg.png?1702968192",
-      "assetGroup": "METIS",
+      "assetGroup": "Metis::METIS",
       "currencyId": "Metis::METIS",
       "tags": ["coingecko", "debridge"]
     },
