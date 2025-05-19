@@ -74,7 +74,7 @@
       "address": "0xd102ce6a4db07d247fcc28f366a623df0938ca9e",
       "symbol": "WTLOS",
       "logoURI": "https://assets.coingecko.com/coins/images/23952/thumb/tlos_png.png?1722391320",
-      "assetGroup": "Wrapped TLOS::WTLOS",
+      "assetGroup": "WTLOS",
       "currencyId": "Wrapped TLOS::WTLOS",
       "tags": ["coingecko", "wnative"]
     },
@@ -143,6 +143,16 @@
       "assetGroup": "zkEra Finance::ZKE",
       "currencyId": "zkEra Finance::ZKE",
       "tags": ["coingecko"]
+    },
+    "0xdc2393dc10734bf153153038943a5deb42b209cd": {
+      "chainId": "40",
+      "decimals": 18,
+      "name": "Wrapped TLOS",
+      "address": "0xdc2393dc10734bf153153038943a5deb42b209cd",
+      "symbol": "WTLOS",
+      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/40/0xDC2393dc10734BF153153038943a5deB42b209cd.png",
+      "assetGroup": "Wrapped TLOS::WTLOS",
+      "currencyId": "Wrapped TLOS::WTLOS"
     }
   },
   "mainTokens": [
