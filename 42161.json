@@ -4676,8 +4676,8 @@
       "address": "0xed65c5085a18fa160af0313e60dcc7905e944dc7",
       "symbol": "ETHx",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/ethx.png",
-      "assetGroup": "ETHx::ETHx",
-      "currencyId": "ETHx::ETHx"
+      "assetGroup": "Stader ETHx::ETHx",
+      "currencyId": "Stader ETHx::ETHx"
     },
     "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34": {
       "chainId": "42161",
@@ -5206,7 +5206,7 @@
       "address": "0xdd89a4d3362828e601df52208302a741f08e46c5",
       "symbol": "O3",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/o3.png",
-      "assetGroup": "O3",
+      "assetGroup": "O3::O3",
       "currencyId": "O3::O3",
       "tags": ["coingecko", "debridge"]
     },
@@ -9628,7 +9628,7 @@
       "address": "0x47c337bd5b9344a6f3d6f58c474d9d8cd419d8ca",
       "symbol": "DACKIE",
       "logoURI": "https://assets.coingecko.com/coins/images/30752/thumb/dackieswap_large.png?1707290196",
-      "assetGroup": "DackieSwap (OLD)::DACKIE",
+      "assetGroup": "DACKIE",
       "currencyId": "DackieSwap (OLD)::DACKIE",
       "tags": ["coingecko", "debridge"]
     },
@@ -15373,7 +15373,7 @@
       "address": "0x9b8df6e244526ab5f6e6400d331db28c8fdddb55",
       "symbol": "uSOL",
       "logoURI": "https://assets.coingecko.com/coins/images/39987/thumb/UA-SOL_1.png?1725027946",
-      "assetGroup": "uSOL",
+      "assetGroup": "Universal Protocol SOL::uSOL",
       "currencyId": "Universal Protocol SOL::uSOL",
       "tags": ["coingecko"]
     },
@@ -15384,7 +15384,7 @@
       "address": "0xb0505e5a99abd03d94a1169e638b78edfed26ea4",
       "symbol": "uSUI",
       "logoURI": "https://assets.coingecko.com/coins/images/50482/thumb/UA-SUI-PAD.png?1727888681",
-      "assetGroup": "uSUI",
+      "assetGroup": "Universal Protocol SUI::uSUI",
       "currencyId": "Universal Protocol SUI::uSUI",
       "tags": ["coingecko"]
     },
@@ -15395,7 +15395,7 @@
       "address": "0x2615a94df961278dcbc41fb0a54fec5f10a693ae",
       "symbol": "uXRP",
       "logoURI": "https://assets.coingecko.com/coins/images/51658/thumb/UA-XRP_1.png?1731703523",
-      "assetGroup": "uXRP",
+      "assetGroup": "Universal Protocol XRP::uXRP",
       "currencyId": "Universal Protocol XRP::uXRP",
       "tags": ["coingecko"]
     },
