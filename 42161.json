@@ -3331,12 +3331,12 @@
     "0xd873627e9f2c4ed425d833152327e6a8f3a49b95": {
       "chainId": "42161",
       "decimals": 8,
-      "name": "U Protocol BTC",
+      "name": "Universal Protocol BTC",
       "address": "0xd873627e9f2c4ed425d833152327e6a8f3a49b95",
       "symbol": "uBTC",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xD873627e9F2C4ED425d833152327e6a8f3a49b95/logo.png",
-      "assetGroup": "U Protocol BTC::uBTC",
-      "currencyId": "U Protocol BTC::uBTC"
+      "assetGroup": "Universal Protocol BTC::uBTC",
+      "currencyId": "Universal Protocol BTC::uBTC"
     },
     "0xf93fc7d6508ae2faf8fc5675e896bc38d6e7212c": {
       "chainId": "42161",
@@ -4672,7 +4672,7 @@
     "0xed65c5085a18fa160af0313e60dcc7905e944dc7": {
       "chainId": "42161",
       "decimals": 18,
-      "name": "ETHx",
+      "name": "Stader ETHx",
       "address": "0xed65c5085a18fa160af0313e60dcc7905e944dc7",
       "symbol": "ETHx",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/ethx.png",
@@ -5341,12 +5341,12 @@
     "0x8579794b10f88ebbedd3605f2e5ff54f162d4788": {
       "chainId": "42161",
       "decimals": 18,
-      "name": "Bridged WBNB (Wormhole)",
+      "name": "Bridged BNB (Wormhole)",
       "address": "0x8579794b10f88ebbedd3605f2e5ff54f162d4788",
-      "symbol": "WBNB",
+      "symbol": "BNB",
       "logoURI": "https://assets.coingecko.com/coins/images/22884/large/BNB_wh_small.png?1644224553",
       "assetGroup": "BNB",
-      "currencyId": "Bridged WBNB (Wormhole)::WBNB",
+      "currencyId": "Bridged BNB (Wormhole)::BNB",
       "tags": ["wormhole", "bridged"]
     },
     "0x031d35296154279dc1984dcd93e392b1f946737b": {
@@ -9624,12 +9624,12 @@
     "0x47c337bd5b9344a6f3d6f58c474d9d8cd419d8ca": {
       "chainId": "42161",
       "decimals": 18,
-      "name": "DackieSwap OLD",
+      "name": "DackieSwap (OLD)",
       "address": "0x47c337bd5b9344a6f3d6f58c474d9d8cd419d8ca",
       "symbol": "DACKIE",
       "logoURI": "https://assets.coingecko.com/coins/images/30752/thumb/dackieswap_large.png?1707290196",
-      "assetGroup": "DackieSwap OLD::DACKIE",
-      "currencyId": "DackieSwap OLD::DACKIE",
+      "assetGroup": "DackieSwap (OLD)::DACKIE",
+      "currencyId": "DackieSwap (OLD)::DACKIE",
       "tags": ["coingecko", "debridge"]
     },
     "0x3de81ce90f5a27c5e6a5adb04b54aba488a6d14e": {
@@ -15369,34 +15369,34 @@
     "0x9b8df6e244526ab5f6e6400d331db28c8fdddb55": {
       "chainId": "42161",
       "decimals": 18,
-      "name": "Wrapped Solana Universal",
+      "name": "Universal Protocol SOL",
       "address": "0x9b8df6e244526ab5f6e6400d331db28c8fdddb55",
-      "symbol": "USOL",
+      "symbol": "uSOL",
       "logoURI": "https://assets.coingecko.com/coins/images/39987/thumb/UA-SOL_1.png?1725027946",
-      "assetGroup": "USOL",
-      "currencyId": "Wrapped Solana Universal::USOL",
+      "assetGroup": "uSOL",
+      "currencyId": "Universal Protocol SOL::uSOL",
       "tags": ["coingecko"]
     },
     "0xb0505e5a99abd03d94a1169e638b78edfed26ea4": {
       "chainId": "42161",
       "decimals": 18,
-      "name": "Wrapped SUI Universal",
+      "name": "Universal Protocol SUI",
       "address": "0xb0505e5a99abd03d94a1169e638b78edfed26ea4",
-      "symbol": "USUI",
+      "symbol": "uSUI",
       "logoURI": "https://assets.coingecko.com/coins/images/50482/thumb/UA-SUI-PAD.png?1727888681",
-      "assetGroup": "USUI",
-      "currencyId": "Wrapped SUI Universal::USUI",
+      "assetGroup": "uSUI",
+      "currencyId": "Universal Protocol SUI::uSUI",
       "tags": ["coingecko"]
     },
     "0x2615a94df961278dcbc41fb0a54fec5f10a693ae": {
       "chainId": "42161",
       "decimals": 18,
-      "name": "Wrapped XRP Universal",
+      "name": "Universal Protocol XRP",
       "address": "0x2615a94df961278dcbc41fb0a54fec5f10a693ae",
-      "symbol": "UXRP",
+      "symbol": "uXRP",
       "logoURI": "https://assets.coingecko.com/coins/images/51658/thumb/UA-XRP_1.png?1731703523",
-      "assetGroup": "UXRP",
-      "currencyId": "Wrapped XRP Universal::UXRP",
+      "assetGroup": "uXRP",
+      "currencyId": "Universal Protocol XRP::uXRP",
       "tags": ["coingecko"]
     },
     "0xcee84bf3106ded890b9730e2b89f4a4da84ad387": {

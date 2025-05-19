@@ -2293,7 +2293,7 @@
       "name": "PancakeSwap",
       "address": "0x3055913c90fcc1a6ce9a358911721eeb942013a1",
       "symbol": "CAKE",
-      "logoURI": "ipfs://Qmci7V6yNrA1wqMbFapLHRMMM7dpdKz2GVCiSypbDUctXf",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png",
       "assetGroup": "CAKE",
       "currencyId": "PancakeSwap::CAKE",
       "tags": ["coingecko", "debridge"]
@@ -2915,12 +2915,12 @@
     "0xb0505e5a99abd03d94a1169e638b78edfed26ea4": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "Wrapped SUI Universal",
+      "name": "Universal Protocol SUI",
       "address": "0xb0505e5a99abd03d94a1169e638b78edfed26ea4",
-      "symbol": "USUI",
+      "symbol": "uSUI",
       "logoURI": "https://assets.coingecko.com/coins/images/50482/thumb/UA-SUI-PAD.png?1727888681",
-      "assetGroup": "USUI",
-      "currencyId": "Wrapped SUI Universal::USUI",
+      "assetGroup": "uSUI",
+      "currencyId": "Universal Protocol SUI::uSUI",
       "tags": ["coingecko", "debridge"]
     },
     "0x5ab3d4c385b400f3abb49e80de2faf6a88a7b691": {
@@ -3630,12 +3630,12 @@
     "0x9b8df6e244526ab5f6e6400d331db28c8fdddb55": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "Wrapped Solana Universal",
+      "name": "Universal Protocol SOL",
       "address": "0x9b8df6e244526ab5f6e6400d331db28c8fdddb55",
-      "symbol": "USOL",
+      "symbol": "uSOL",
       "logoURI": "https://assets.coingecko.com/coins/images/39987/thumb/UA-SOL_1.png?1725027946",
-      "assetGroup": "USOL",
-      "currencyId": "Wrapped Solana Universal::USOL",
+      "assetGroup": "uSOL",
+      "currencyId": "Universal Protocol SOL::uSOL",
       "tags": ["coingecko", "debridge"]
     },
     "0xbeefa1abfebe621df50ceaef9f54fdb73648c92c": {
@@ -4036,12 +4036,12 @@
     "0xa3a34a0d9a08ccddb6ed422ac0a28a06731335aa": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "Wrapped ADA Universal",
+      "name": "Universal Protocol ADA",
       "address": "0xa3a34a0d9a08ccddb6ed422ac0a28a06731335aa",
-      "symbol": "UADA",
+      "symbol": "uADA",
       "logoURI": "https://assets.coingecko.com/coins/images/51868/thumb/UA-ADA.png?1732095196",
-      "assetGroup": "Wrapped ADA Universal::UADA",
-      "currencyId": "Wrapped ADA Universal::UADA",
+      "assetGroup": "Universal Protocol ADA::uADA",
+      "currencyId": "Universal Protocol ADA::uADA",
       "tags": ["coingecko", "debridge"]
     },
     "0x3f12d4607f9df527c3bccbd16a70636a69c8fcf5": {
@@ -4179,12 +4179,12 @@
     "0x2615a94df961278dcbc41fb0a54fec5f10a693ae": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "Wrapped XRP Universal",
+      "name": "Universal Protocol XRP",
       "address": "0x2615a94df961278dcbc41fb0a54fec5f10a693ae",
-      "symbol": "UXRP",
+      "symbol": "uXRP",
       "logoURI": "https://assets.coingecko.com/coins/images/51658/thumb/UA-XRP_1.png?1731703523",
-      "assetGroup": "UXRP",
-      "currencyId": "Wrapped XRP Universal::UXRP",
+      "assetGroup": "uXRP",
+      "currencyId": "Universal Protocol XRP::uXRP",
       "tags": ["coingecko", "debridge"]
     },
     "0xccdf2cbabfa37878125ab2d20bfcb9328b7ab3cf": {
@@ -5213,12 +5213,12 @@
     "0x239b9c1f24f3423062b0d364796e07ee905e9fce": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "Wrapped Shiba Inu Universal",
+      "name": "Universal Protocol SHIB",
       "address": "0x239b9c1f24f3423062b0d364796e07ee905e9fce",
-      "symbol": "USHIB",
+      "symbol": "uSHIB",
       "logoURI": "https://assets.coingecko.com/coins/images/52902/thumb/UA-SHIB_1.png?1734636956",
-      "assetGroup": "Wrapped Shiba Inu Universal::USHIB",
-      "currencyId": "Wrapped Shiba Inu Universal::USHIB",
+      "assetGroup": "Universal Protocol SHIB::uSHIB",
+      "currencyId": "Universal Protocol SHIB::uSHIB",
       "tags": ["coingecko", "debridge"]
     },
     "0x7d9ce55d54ff3feddb611fc63ff63ec01f26d15f": {
@@ -5433,12 +5433,12 @@
     "0xd403d1624daef243fbcbd4a80d8a6f36affe32b2": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "Wrapped Chainlink Universal",
+      "name": "Universal Protocol LINK",
       "address": "0xd403d1624daef243fbcbd4a80d8a6f36affe32b2",
-      "symbol": "ULINK",
+      "symbol": "uLINK",
       "logoURI": "https://assets.coingecko.com/coins/images/52901/thumb/UA-LINK_1_%281%29.png?1734636820",
-      "assetGroup": "Wrapped Chainlink Universal::ULINK",
-      "currencyId": "Wrapped Chainlink Universal::ULINK",
+      "assetGroup": "Universal Protocol LINK::uLINK",
+      "currencyId": "Universal Protocol LINK::uLINK",
       "tags": ["coingecko", "debridge"]
     },
     "0xc2eeca228ebac45c339cc5e522dd3a10638155f1": {
@@ -5719,12 +5719,12 @@
     "0x71a67215a2025f501f386a49858a9ced2fc0249d": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "Wrapped SEI Universal",
+      "name": "Universal Protocol SEI",
       "address": "0x71a67215a2025f501f386a49858a9ced2fc0249d",
-      "symbol": "USEI",
+      "symbol": "uSEI",
       "logoURI": "https://assets.coingecko.com/coins/images/51023/thumb/UA-SEI_1.png?1729770680",
-      "assetGroup": "Wrapped SEI Universal::USEI",
-      "currencyId": "Wrapped SEI Universal::USEI",
+      "assetGroup": "Universal Protocol SEI::uSEI",
+      "currencyId": "Universal Protocol SEI::uSEI",
       "tags": ["coingecko", "debridge"]
     },
     "0xc9e0dc5b3a89c1d55760cbee2b5973957fb9ca11": {
@@ -6147,12 +6147,12 @@
     "0xb7890cee6cf4792cdcc13489d36d9d42726ab863": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "Universal USDC",
+      "name": "Universal Protocol USDC",
       "address": "0xb7890cee6cf4792cdcc13489d36d9d42726ab863",
-      "symbol": "UUSDC",
+      "symbol": "uUSDC",
       "logoURI": "https://assets.coingecko.com/coins/images/51563/thumb/pngtree-usd-coin-usdc-digital-stablecoin-icon-technology-pay-web-vector-png-image_37843734.png?1731519821",
-      "assetGroup": "Universal USDC::UUSDC",
-      "currencyId": "Universal USDC::UUSDC",
+      "assetGroup": "Universal Protocol USDC::uUSDC",
+      "currencyId": "Universal Protocol USDC::uUSDC",
       "tags": ["coingecko", "debridge"]
     },
     "0x0d5d2450f19ffa71b16a95b3fabef52786238828": {
@@ -6686,12 +6686,12 @@
     "0x5ed25e305e08f58afd7995eac72563e6be65a617": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "Wrapped NEAR Universal",
+      "name": "Universal Protocol NEAR",
       "address": "0x5ed25e305e08f58afd7995eac72563e6be65a617",
-      "symbol": "UNEAR",
+      "symbol": "uNEAR",
       "logoURI": "https://assets.coingecko.com/coins/images/50645/thumb/UA-NEAR_1.png?1728579564",
-      "assetGroup": "Wrapped NEAR Universal::UNEAR",
-      "currencyId": "Wrapped NEAR Universal::UNEAR",
+      "assetGroup": "Universal Protocol NEAR::uNEAR",
+      "currencyId": "Universal Protocol NEAR::uNEAR",
       "tags": ["coingecko", "debridge"]
     },
     "0xee30c78d32b8fd5b8eec8e4f08fd88a3f68971d5": {
@@ -10303,12 +10303,12 @@
     "0x12e96c2bfea6e835cf8dd38a5834fa61cf723736": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "Wrapped DOGE Universal",
+      "name": "Universal Protocol DOGE",
       "address": "0x12e96c2bfea6e835cf8dd38a5834fa61cf723736",
-      "symbol": "UDOGE",
+      "symbol": "uDOGE",
       "logoURI": "https://assets.coingecko.com/coins/images/40099/thumb/UA-DOGE_1.png?1725632510",
-      "assetGroup": "Wrapped DOGE Universal::UDOGE",
-      "currencyId": "Wrapped DOGE Universal::UDOGE",
+      "assetGroup": "Universal Protocol DOGE::uDOGE",
+      "currencyId": "Universal Protocol DOGE::uDOGE",
       "tags": ["coingecko", "debridge"]
     },
     "0x478e03d45716dda94f6dbc15a633b0d90c237e2f": {
@@ -10358,12 +10358,12 @@
     "0x9c0e042d65a2e1ff31ac83f404e5cb79f452c337": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "Wrapped Aptos Universal",
+      "name": "Universal Protocol APT",
       "address": "0x9c0e042d65a2e1ff31ac83f404e5cb79f452c337",
-      "symbol": "UAPT",
+      "symbol": "uAPT",
       "logoURI": "https://assets.coingecko.com/coins/images/50646/thumb/UA-APTOS-PAD_1.png?1728579627",
-      "assetGroup": "Wrapped Aptos Universal::UAPT",
-      "currencyId": "Wrapped Aptos Universal::UAPT",
+      "assetGroup": "Universal Protocol APT::uAPT",
+      "currencyId": "Universal Protocol APT::uAPT",
       "tags": ["coingecko", "debridge"]
     },
     "0x15ac90165f8b45a80534228bdcb124a011f62fee": {
@@ -10391,12 +10391,12 @@
     "0xf1143f3a8d76f1ca740d29d5671d365f66c44ed1": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "Wrapped Bitcoin Universal",
+      "name": "Universal Protocol BTC",
       "address": "0xf1143f3a8d76f1ca740d29d5671d365f66c44ed1",
       "symbol": "uBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/50252/thumb/UA-BTC_1.png?1726721793",
-      "assetGroup": "Wrapped Bitcoin Universal::uBTC",
-      "currencyId": "Wrapped Bitcoin Universal::uBTC",
+      "assetGroup": "Universal Protocol BTC::uBTC",
+      "currencyId": "Universal Protocol BTC::uBTC",
       "tags": ["coingecko", "debridge"]
     },
     "0x08c81699f9a357a9f0d04a09b353576ca328d60d": {
@@ -16118,12 +16118,12 @@
     "0xf383074c4b993d1ccd196188d27d0ddf22ad463c": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "Wrapped Aave Universal",
+      "name": "Universal Protocol AAVE",
       "address": "0xf383074c4b993d1ccd196188d27d0ddf22ad463c",
-      "symbol": "UAAVE",
+      "symbol": "uAAVE",
       "logoURI": "https://assets.coingecko.com/coins/images/54499/thumb/UA-AAVE_200x200.png?1740031894",
-      "assetGroup": "Wrapped Aave Universal::UAAVE",
-      "currencyId": "Wrapped Aave Universal::UAAVE",
+      "assetGroup": "Universal Protocol AAVE::uAAVE",
+      "currencyId": "Universal Protocol AAVE::uAAVE",
       "tags": ["coingecko", "debridge"]
     },
     "0xb4d4ff3fcbd6965962a79229aa94631d394217cb": {
@@ -16151,23 +16151,23 @@
     "0x3c07ef1bd575b5f5b1ffcb868353f5bc501ed482": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "Wrapped 1inch Universal",
+      "name": "Universal Protocol 1INCH",
       "address": "0x3c07ef1bd575b5f5b1ffcb868353f5bc501ed482",
-      "symbol": "U1INCH",
+      "symbol": "u1INCH",
       "logoURI": "https://assets.coingecko.com/coins/images/54498/thumb/UA-1INCH_200x200.png?1740031787",
-      "assetGroup": "Wrapped 1inch Universal::U1INCH",
-      "currencyId": "Wrapped 1inch Universal::U1INCH",
+      "assetGroup": "Universal Protocol 1INCH::u1INCH",
+      "currencyId": "Universal Protocol 1INCH::u1INCH",
       "tags": ["coingecko", "debridge"]
     },
     "0x9af46f95a0a8be5c2e0a0274a8b153c72d617e85": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "Wrapped ApeCoin Universal",
+      "name": "Universal Protocol APE",
       "address": "0x9af46f95a0a8be5c2e0a0274a8b153c72d617e85",
-      "symbol": "UAPE",
+      "symbol": "uAPE",
       "logoURI": "https://assets.coingecko.com/coins/images/54500/thumb/UA-APE_200x200.png?1740031977",
-      "assetGroup": "Wrapped ApeCoin Universal::UAPE",
-      "currencyId": "Wrapped ApeCoin Universal::UAPE",
+      "assetGroup": "Universal Protocol APE::uAPE",
+      "currencyId": "Universal Protocol APE::uAPE",
       "tags": ["coingecko", "debridge"]
     },
     "0x387627b2bceb9ba5b476f6597727a7acf47f5b6c": {
@@ -16764,12 +16764,12 @@
     "0xdf5913632251585a55970134fad8a774628e9388": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "Wrapped Filecoin Universal",
+      "name": "Universal Protocol FIL",
       "address": "0xdf5913632251585a55970134fad8a774628e9388",
-      "symbol": "UFIL",
+      "symbol": "uFIL",
       "logoURI": "https://assets.coingecko.com/coins/images/54729/thumb/UA-FIL.png?1741245876",
-      "assetGroup": "Wrapped Filecoin Universal::UFIL",
-      "currencyId": "Wrapped Filecoin Universal::UFIL",
+      "assetGroup": "Universal Protocol FIL::uFIL",
+      "currencyId": "Universal Protocol FIL::uFIL",
       "tags": ["coingecko", "debridge"]
     },
     "0x99ba92234e0f0f7c2a16cb087e7307ade19cab1c": {
@@ -16830,12 +16830,12 @@
     "0xd01cb4171a985571deff48c9dc2f6e153a244d64": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "Wrapped Arbitrum Universal",
+      "name": "Universal Protocol ARB",
       "address": "0xd01cb4171a985571deff48c9dc2f6e153a244d64",
-      "symbol": "UARB",
+      "symbol": "uARB",
       "logoURI": "https://assets.coingecko.com/coins/images/54701/thumb/UA-ARB_%281%29.png?1741107828",
-      "assetGroup": "Wrapped Arbitrum Universal::UARB",
-      "currencyId": "Wrapped Arbitrum Universal::UARB",
+      "assetGroup": "Universal Protocol ARB::uARB",
+      "currencyId": "Universal Protocol ARB::uARB",
       "tags": ["coingecko", "debridge"]
     },
     "0xb96450dcb16e4a30b999cb5f4087bae9c0ffac4e": {
@@ -16863,12 +16863,12 @@
     "0xc5cdeb649ed1a7895b935acc8eb5aa0d7a8492be": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "Wrapped Chiliz Universal",
+      "name": "Universal Protocol CHZ",
       "address": "0xc5cdeb649ed1a7895b935acc8eb5aa0d7a8492be",
-      "symbol": "UCHZ",
+      "symbol": "uCHZ",
       "logoURI": "https://assets.coingecko.com/coins/images/54704/thumb/UA-CHZ.png?1741108067",
-      "assetGroup": "Wrapped Chiliz Universal::UCHZ",
-      "currencyId": "Wrapped Chiliz Universal::UCHZ",
+      "assetGroup": "Universal Protocol CHZ::uCHZ",
+      "currencyId": "Universal Protocol CHZ::uCHZ",
       "tags": ["coingecko", "debridge"]
     },
     "0x44551ca46fa5592bb572e20043f7c3d54c85cad7": {
@@ -16885,23 +16885,23 @@
     "0xf653e8b6fcbd2a63246c6b7722d1e9d819611241": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "Wrapped Cronos Universal",
+      "name": "Universal Protocol CRO",
       "address": "0xf653e8b6fcbd2a63246c6b7722d1e9d819611241",
-      "symbol": "UCRO",
+      "symbol": "uCRO",
       "logoURI": "https://assets.coingecko.com/coins/images/54705/thumb/UA-CRO_%285%29.png?1741108092",
-      "assetGroup": "Wrapped Cronos Universal::UCRO",
-      "currencyId": "Wrapped Cronos Universal::UCRO",
+      "assetGroup": "Universal Protocol CRO::uCRO",
+      "currencyId": "Universal Protocol CRO::uCRO",
       "tags": ["coingecko", "debridge"]
     },
     "0x16275fd42439a6671b188bdc3949a5ec61932c48": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "Wrapped MultiversX Universal",
+      "name": "Universal Protocol EGLD",
       "address": "0x16275fd42439a6671b188bdc3949a5ec61932c48",
-      "symbol": "UEGLD",
+      "symbol": "uEGLD",
       "logoURI": "https://assets.coingecko.com/coins/images/54706/thumb/UA-EGLD.png?1741108121",
-      "assetGroup": "Wrapped MultiversX Universal::UEGLD",
-      "currencyId": "Wrapped MultiversX Universal::UEGLD",
+      "assetGroup": "Universal Protocol EGLD::uEGLD",
+      "currencyId": "Universal Protocol EGLD::uEGLD",
       "tags": ["coingecko", "debridge"]
     },
     "0x0d91ebb16291873a0c67158f578ec249f4321b49": {
@@ -16940,34 +16940,34 @@
     "0x8f2bd24a6406142cbae4b39e14be8efc8157d951": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "Wrapped Ethereum Name Service Universal",
+      "name": "Universal Protocol ENS",
       "address": "0x8f2bd24a6406142cbae4b39e14be8efc8157d951",
-      "symbol": "UENS",
+      "symbol": "uENS",
       "logoURI": "https://assets.coingecko.com/coins/images/54725/thumb/UA-ENS.png?1741244441",
-      "assetGroup": "Wrapped Ethereum Name Service Universal::UENS",
-      "currencyId": "Wrapped Ethereum Name Service Universal::UENS",
+      "assetGroup": "Universal Protocol ENS::uENS",
+      "currencyId": "Universal Protocol ENS::uENS",
       "tags": ["coingecko", "debridge"]
     },
     "0x44951c66dfe920baed34457a2cfa65a0c7ff2025": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "Wrapped Blur Universal",
+      "name": "Universal Protocol BLUR",
       "address": "0x44951c66dfe920baed34457a2cfa65a0c7ff2025",
-      "symbol": "UBLUR",
+      "symbol": "uBLUR",
       "logoURI": "https://assets.coingecko.com/coins/images/54714/thumb/UA-BLUR.png?1741185673",
-      "assetGroup": "Wrapped Blur Universal::UBLUR",
-      "currencyId": "Wrapped Blur Universal::UBLUR",
+      "assetGroup": "Universal Protocol BLUR::uBLUR",
+      "currencyId": "Universal Protocol BLUR::uBLUR",
       "tags": ["coingecko", "debridge"]
     },
     "0xf56ce53561a9cc084e094952232bbfe1e5fb599e": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "Wrapped Bonk Universal",
+      "name": "Universal Protocol BONK",
       "address": "0xf56ce53561a9cc084e094952232bbfe1e5fb599e",
-      "symbol": "UBONK",
+      "symbol": "uBONK",
       "logoURI": "https://assets.coingecko.com/coins/images/54715/thumb/UA-BONK.png?1741185707",
-      "assetGroup": "Wrapped Bonk Universal::UBONK",
-      "currencyId": "Wrapped Bonk Universal::UBONK",
+      "assetGroup": "Universal Protocol BONK::uBONK",
+      "currencyId": "Universal Protocol BONK::uBONK",
       "tags": ["coingecko", "debridge"]
     },
     "0xb8753941196692e322846cfee9c14c97ac81928a": {
@@ -16995,23 +16995,23 @@
     "0x0340ff1765f0099b3bd1c4664ce03d8fd794fad1": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "Wrapped Curve Universal",
+      "name": "Universal Protocol CRV",
       "address": "0x0340ff1765f0099b3bd1c4664ce03d8fd794fad1",
-      "symbol": "UCRV",
+      "symbol": "uCRV",
       "logoURI": "https://assets.coingecko.com/coins/images/54716/thumb/UA-CRV.png?1741185880",
-      "assetGroup": "Wrapped Curve Universal::UCRV",
-      "currencyId": "Wrapped Curve Universal::UCRV",
+      "assetGroup": "Universal Protocol CRV::uCRV",
+      "currencyId": "Universal Protocol CRV::uCRV",
       "tags": ["coingecko", "debridge"]
     },
     "0x5a03841c2e2f5811f9e548cf98e88e878e55d99e": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "Wrapped Axie Infinity Shard Universal",
+      "name": "Universal Protocol AXS",
       "address": "0x5a03841c2e2f5811f9e548cf98e88e878e55d99e",
-      "symbol": "UAXS",
+      "symbol": "uAXS",
       "logoURI": "https://assets.coingecko.com/coins/images/54703/thumb/UA-AXS.png?1741108025",
-      "assetGroup": "Wrapped Axie Infinity Shard Universal::UAXS",
-      "currencyId": "Wrapped Axie Infinity Shard Universal::UAXS",
+      "assetGroup": "Universal Protocol AXS::uAXS",
+      "currencyId": "Universal Protocol AXS::uAXS",
       "tags": ["coingecko", "debridge"]
     },
     "0x17d70172c7c4205bd39ce80f7f0ee660b7dc5a23": {
@@ -17039,12 +17039,12 @@
     "0xcb474f3dee195a951f3584b213d16d2d4d4ee503": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "Wrapped Floki Universal",
+      "name": "Universal Protocol FLOKI",
       "address": "0xcb474f3dee195a951f3584b213d16d2d4d4ee503",
-      "symbol": "UFLOKI",
+      "symbol": "uFLOKI",
       "logoURI": "https://assets.coingecko.com/coins/images/54731/thumb/UA-FLOKI.png?1741245928",
-      "assetGroup": "Wrapped Floki Universal::UFLOKI",
-      "currencyId": "Wrapped Floki Universal::UFLOKI",
+      "assetGroup": "Universal Protocol FLOKI::uFLOKI",
+      "currencyId": "Universal Protocol FLOKI::uFLOKI",
       "tags": ["coingecko", "debridge"]
     },
     "0x05f1279957d62fc675399df1088f9c11c64c2b19": {
@@ -17083,12 +17083,12 @@
     "0x6e934283dae5d5d1831cbe8d557c44c9b83f30ee": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "Wrapped Cosmos Universal",
+      "name": "Universal Protocol ATOM",
       "address": "0x6e934283dae5d5d1831cbe8d557c44c9b83f30ee",
-      "symbol": "UATOM",
+      "symbol": "uATOM",
       "logoURI": "https://assets.coingecko.com/coins/images/54702/thumb/UA-ATOM.png?1741107902",
-      "assetGroup": "Wrapped Cosmos Universal::UATOM",
-      "currencyId": "Wrapped Cosmos Universal::UATOM",
+      "assetGroup": "Universal Protocol ATOM::uATOM",
+      "currencyId": "Universal Protocol ATOM::uATOM",
       "tags": ["coingecko", "debridge"]
     },
     "0x269cae7dc59803e5c596c95756faeebb6030e0af": {
@@ -17105,12 +17105,12 @@
     "0x31d664ebd97a50d5a2cd49b16f7714ab2516ed25": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "Wrapped EOS Universal",
+      "name": "Universal Protocol EOS",
       "address": "0x31d664ebd97a50d5a2cd49b16f7714ab2516ed25",
-      "symbol": "UEOS",
+      "symbol": "uEOS",
       "logoURI": "https://assets.coingecko.com/coins/images/54726/thumb/UA-EOS.png?1741244637",
-      "assetGroup": "Wrapped EOS Universal::UEOS",
-      "currencyId": "Wrapped EOS Universal::UEOS",
+      "assetGroup": "Universal Protocol EOS::uEOS",
+      "currencyId": "Universal Protocol EOS::uEOS",
       "tags": ["coingecko", "debridge"]
     },
     "0x2133031f5acbc493572c02f271186f241cd8d6a5": {
@@ -17127,12 +17127,12 @@
     "0xd61bcf79b26787ae993f75b064d2e3b3cc738c5d": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "Wrapped Ethereum Classic Universal",
+      "name": "Universal Protocol ETC",
       "address": "0xd61bcf79b26787ae993f75b064d2e3b3cc738c5d",
-      "symbol": "UETC",
+      "symbol": "uETC",
       "logoURI": "https://assets.coingecko.com/coins/images/54727/thumb/UA-ETC.png?1741245697",
-      "assetGroup": "Wrapped Ethereum Classic Universal::UETC",
-      "currencyId": "Wrapped Ethereum Classic Universal::UETC",
+      "assetGroup": "Universal Protocol ETC::uETC",
+      "currencyId": "Universal Protocol ETC::uETC",
       "tags": ["coingecko", "debridge"]
     },
     "0xf2e244d4020c182e8e2c936d4055e3f0e578064f": {
@@ -17808,12 +17808,12 @@
     "0xfdca15bd55f350a36e63c47661914d80411d2c22": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "Wrapped Bittensor Universal",
+      "name": "Universal Protocol TAO",
       "address": "0xfdca15bd55f350a36e63c47661914d80411d2c22",
-      "symbol": "UTAO",
+      "symbol": "uTAO",
       "logoURI": "https://assets.coingecko.com/coins/images/54906/thumb/Untitled_%281%29.png?1742450295",
-      "assetGroup": "Wrapped Bittensor Universal::UTAO",
-      "currencyId": "Wrapped Bittensor Universal::UTAO",
+      "assetGroup": "Universal Protocol TAO::uTAO",
+      "currencyId": "Universal Protocol TAO::uTAO",
       "tags": ["coingecko", "debridge"]
     },
     "0x991ab5d07f28232ec1677e2c13239fb9b4b9ccb7": {
@@ -17830,12 +17830,12 @@
     "0x544f87a5aa41fcd725ef7c78a37cd9c1c4ba1650": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "Wrapped Berachain Universal",
+      "name": "Universal Protocol BERA",
       "address": "0x544f87a5aa41fcd725ef7c78a37cd9c1c4ba1650",
-      "symbol": "UBERA",
+      "symbol": "uBERA",
       "logoURI": "https://assets.coingecko.com/coins/images/54905/thumb/Untitled.png?1742449920",
-      "assetGroup": "Wrapped Berachain Universal::UBERA",
-      "currencyId": "Wrapped Berachain Universal::UBERA",
+      "assetGroup": "Universal Protocol BERA::uBERA",
+      "currencyId": "Universal Protocol BERA::uBERA",
       "tags": ["coingecko", "debridge"]
     },
     "0x521ebb84ea82ee65154b68ecfe3a7292fb3779d6": {
