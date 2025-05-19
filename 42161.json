@@ -5857,7 +5857,8 @@
       "symbol": "renBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/11370/large/Bitcoin.jpg?1628072791",
       "assetGroup": "RENBTC",
-      "currencyId": "renBTC::RENBTC"
+      "currencyId": "Bridged renBTC::renBTC",
+      "tags": ["bridged"]
     },
     "0xc6dca65c906ec97478e6165a0354273df4ebfeb8": {
       "chainId": "42161",
@@ -6231,8 +6232,8 @@
       "address": "0xdbf31df14b66535af65aac99c32e9ea844e14501",
       "symbol": "renBTC",
       "logoURI": "https://s3.openocean.finance/token_logos/logos/1661151044584_6641692875412855.png",
-      "assetGroup": "renBTC::RENBTC",
-      "currencyId": "renBTC::RENBTC",
+      "assetGroup": "RENBTC",
+      "currencyId": "renBTC::renBTC",
       "tags": ["openocean"]
     },
     "0xcab86f6fb6d1c2cbeeb97854a0c023446a075fe3": {

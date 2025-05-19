@@ -4291,7 +4291,8 @@
       "symbol": "renBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/11370/large/Bitcoin.jpg?1628072791",
       "assetGroup": "RENBTC",
-      "currencyId": "renBTC::RENBTC"
+      "currencyId": "Bridged renBTC::renBTC",
+      "tags": ["bridged"]
     },
     "0x6563c1244820cfbd6ca8820fbdf0f2847363f733": {
       "chainId": "137",
@@ -8669,7 +8670,7 @@
       "address": "0xdbf31df14b66535af65aac99c32e9ea844e14501",
       "symbol": "renBTC",
       "logoURI": "https://tokens.debridge.finance/Logo/137/0xdbf31df14b66535af65aac99c32e9ea844e14501/small/token-logo.png",
-      "assetGroup": "renBTC::renBTC",
+      "assetGroup": "RENBTC",
       "currencyId": "renBTC::renBTC",
       "tags": ["debridge"]
     },
