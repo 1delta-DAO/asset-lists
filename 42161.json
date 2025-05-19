@@ -873,7 +873,8 @@
       "symbol": "FRAX",
       "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/frax_logo.png?1608476506",
       "assetGroup": "FRAX",
-      "currencyId": "Frax::FRAX"
+      "currencyId": "Bridged Frax::FRAX",
+      "tags": ["bridged"]
     },
     "0x855e54ec1b4c1aaf6e8e55527e48b8cc7683a41b": {
       "chainId": "42161",
@@ -2345,7 +2346,7 @@
       "address": "0x82e3a8f066a6989666b031d916c43672085b1582",
       "symbol": "YFI",
       "logoURI": "https://assets.coingecko.com/coins/images/11849/thumb/yfi-192x192.png?1598325330",
-      "assetGroup": "yearn finance::YFI",
+      "assetGroup": "YFI",
       "currencyId": "yearn finance::YFI",
       "tags": ["openocean", "coingecko", "debridge"]
     },
@@ -4317,7 +4318,7 @@
       "address": "0x17fc002b466eec40dae837fc4be5c67993ddbd6f",
       "symbol": "FRAX",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/frax.svg",
-      "assetGroup": "Frax::FRAX",
+      "assetGroup": "FRAX",
       "currencyId": "Frax::FRAX",
       "tags": ["openocean", "coingecko", "debridge"]
     },
@@ -6504,8 +6505,8 @@
       "address": "0xd8b95b1987741849ca7e71e976aeb535fd2e55a2",
       "symbol": "BCSBGC3",
       "logoURI": "https://assets.coingecko.com/coins/images/38920/thumb/b-CSBGC3-200x200.png?1719513620",
-      "assetGroup": "Backed Swiss Domestic Government Bond 0::BCSBGC3",
-      "currencyId": "Backed Swiss Domestic Government Bond 0::BCSBGC3",
+      "assetGroup": "BCSBGC3",
+      "currencyId": "Backed Swiss Domestic Government Bond 0-3::BCSBGC3",
       "tags": ["coingecko", "debridge"]
     },
     "0x2c7941a0fe9c52223b229747322af16160161c98": {

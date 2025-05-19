@@ -11794,7 +11794,7 @@
       "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
       "symbol": "YFI",
       "logoURI": "https://assets.coingecko.com/coins/images/11849/thumb/yfi-192x192.png?1598325330",
-      "assetGroup": "yearn finance::YFI",
+      "assetGroup": "YFI",
       "currencyId": "yearn finance::YFI",
       "tags": ["openocean", "coingecko", "debridge"]
     },
@@ -11891,7 +11891,7 @@
       "symbol": "ZAP",
       "logoURI": "https://assets.coingecko.com/coins/images/2180/large/zap.png?1547036476",
       "assetGroup": "ZAP",
-      "currencyId": "Zap::ZAP",
+      "currencyId": "Zap Token::ZAP",
       "tags": ["coingecko", "debridge"]
     },
     "0xb9ef770b6a5e12e45983c5d80545258aa38f3b78": {
@@ -56492,7 +56492,7 @@
       "symbol": "rsETH",
       "logoURI": "https://assets.coingecko.com/coins/images/33800/thumb/Icon___Dark.png?1702991855",
       "assetGroup": "RSETH",
-      "currencyId": "rsETH::rsETH",
+      "currencyId": "KelpDAO Restaked ETH::rsETH",
       "tags": ["coingecko", "debridge"]
     },
     "0xa579472f17b6e1b6c5ded2a785067a89ec536ce8": {
@@ -58295,8 +58295,8 @@
       "address": "0xd8b95b1987741849ca7e71e976aeb535fd2e55a2",
       "symbol": "BCSBGC3",
       "logoURI": "https://assets.coingecko.com/coins/images/38920/thumb/b-CSBGC3-200x200.png?1719513620",
-      "assetGroup": "Backed Swiss Domestic Government Bond 0::BCSBGC3",
-      "currencyId": "Backed Swiss Domestic Government Bond 0::BCSBGC3",
+      "assetGroup": "BCSBGC3",
+      "currencyId": "Backed Swiss Domestic Government Bond 0-3::BCSBGC3",
       "tags": ["coingecko", "debridge"]
     },
     "0x68ccaca9adf1552b3316d6067690ec27397c8ea8": {
@@ -69232,6 +69232,17 @@
       "assetGroup": "LP 3pool Curve::3CRV",
       "currencyId": "LP 3pool Curve::3CRV",
       "tags": ["coingecko", "debridge"]
+    },
+    "0xa3e7aa0dcf8c7df9ee6d7bafadbaa7ee89ad2da2": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "NexusChain",
+      "address": "0xa3e7aa0dcf8c7df9ee6d7bafadbaa7ee89ad2da2",
+      "symbol": "NEXUS",
+      "logoURI": "https://assets.coingecko.com/coins/images/55893/thumb/Nexus_Logo.png?1747624773",
+      "assetGroup": "NexusChain::NEXUS",
+      "currencyId": "NexusChain::NEXUS",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [

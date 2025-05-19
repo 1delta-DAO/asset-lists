@@ -120,8 +120,8 @@
       "symbol": "FRAX",
       "logoURI": "https://s3.openocean.finance/token_logos/logos/1652845723201_6698340692832774.png",
       "assetGroup": "FRAX",
-      "currencyId": "Frax::FRAX",
-      "tags": ["openocean"]
+      "currencyId": "Bridged Frax::FRAX",
+      "tags": ["bridged", "openocean"]
     },
     "0xf0f3b9eee32b1f490a4b8720cf6f005d4ae9ea86": {
       "chainId": "1313161554",
@@ -141,7 +141,7 @@
       "address": "0xe4b9e004389d91e4134a28f19bd833cba1d994b6",
       "symbol": "FRAX",
       "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/frax-logo.png?1739780303",
-      "assetGroup": "Frax::FRAX",
+      "assetGroup": "FRAX",
       "currencyId": "Frax::FRAX",
       "tags": ["openocean", "coingecko"]
     },

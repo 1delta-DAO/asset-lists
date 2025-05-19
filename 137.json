@@ -64,7 +64,7 @@
       "symbol": "ACX",
       "logoURI": "https://assets.coingecko.com/coins/images/28161/large/across-200x200.png?1668168201",
       "assetGroup": "ACX",
-      "currencyId": "Across Protocol::ACX",
+      "currencyId": "Across Protocol Token::ACX",
       "tags": ["debridge"]
     },
     "0xdda7b23d2d72746663e7939743f929a3d85fc975": {
@@ -1517,7 +1517,7 @@
       "symbol": "DODO",
       "logoURI": "https://assets.coingecko.com/coins/images/12651/large/dodo_logo.png?1601433025",
       "assetGroup": "DODO",
-      "currencyId": "DODO::DODO",
+      "currencyId": "DODO Bird::DODO",
       "tags": ["debridge"]
     },
     "0x07d496919669c88ccec363c55df98d494fd4d796": {
@@ -2051,7 +2051,8 @@
       "symbol": "FRAX",
       "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/frax_logo.png?1608476506",
       "assetGroup": "FRAX",
-      "currencyId": "Frax::FRAX"
+      "currencyId": "Bridged Frax::FRAX",
+      "tags": ["bridged"]
     },
     "0x7cef6ed1e07079e174601d39066ad0856cb47988": {
       "chainId": "137",
@@ -4270,7 +4271,7 @@
       "symbol": "REEF",
       "logoURI": "https://assets.coingecko.com/coins/images/13504/large/Group_10572.png?1610534130",
       "assetGroup": "REEF",
-      "currencyId": "Reef::REEF"
+      "currencyId": "Reef.finance::REEF"
     },
     "0x19782d3dc4701ceeedcd90f0993f0a9126ed89d0": {
       "chainId": "137",
@@ -5839,7 +5840,7 @@
       "address": "0xda537104d6a5edd53c6fbba9a898708e465260b6",
       "symbol": "YFI",
       "logoURI": "https://assets.coingecko.com/coins/images/11849/thumb/yfi-192x192.png?1598325330",
-      "assetGroup": "yearn finance::YFI",
+      "assetGroup": "YFI",
       "currencyId": "yearn finance::YFI",
       "tags": ["debridge"]
     },
@@ -6202,7 +6203,7 @@
       "address": "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89",
       "symbol": "FRAX",
       "logoURI": "https://tokens.debridge.finance/Logo/137/0x45c32fa6df82ead1e2ef74d17b76547eddfaff89/small/token-logo.png",
-      "assetGroup": "Frax::FRAX",
+      "assetGroup": "FRAX",
       "currencyId": "Frax::FRAX",
       "tags": ["openocean", "debridge"]
     },
@@ -16854,6 +16855,16 @@
       "assetGroup": "Curve.fi amDAI/amUSDC/amUSDT::am3CRV",
       "currencyId": "Curve.fi amDAI/amUSDC/amUSDT::am3CRV",
       "tags": ["debridge"]
+    },
+    "0x781fb7f6d845e3be129289833b04d43aa8558c42": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Compound WETH",
+      "address": "0x781fb7f6d845e3be129289833b04d43aa8558c42",
+      "symbol": "compWETH",
+      "logoURI": "https://cdn.morpho.org/assets/logos/weth.svg",
+      "assetGroup": "Compound WETH::compWETH",
+      "currencyId": "Compound WETH::compWETH"
     }
   },
   "mainTokens": [

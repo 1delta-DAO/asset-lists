@@ -417,7 +417,7 @@
       "symbol": "BUSD",
       "logoURI": "https://s3.openocean.finance/token_logos/logos/1650434861463_5697649924546242.png",
       "assetGroup": "BUSD",
-      "currencyId": "BUSD::BUSD",
+      "currencyId": "Binance USD::BUSD",
       "tags": ["openocean"]
     },
     "0xb44a9b6905af7c801311e8f4e76932ee959c663c": {
@@ -1397,6 +1397,17 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55757/thumb/InoAi-logo-200px.png?1747301005",
       "assetGroup": "InoAi::INO",
       "currencyId": "InoAi::INO",
+      "tags": ["coingecko"]
+    },
+    "0xdd646291d2fff52c75f27ccdadd0d4c2a24f37dd": {
+      "chainId": "25",
+      "decimals": 8,
+      "name": "Xitcoin",
+      "address": "0xdd646291d2fff52c75f27ccdadd0d4c2a24f37dd",
+      "symbol": "XTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/55892/thumb/transparent-logo.png?1747622919",
+      "assetGroup": "Xitcoin::XTC",
+      "currencyId": "Xitcoin::XTC",
       "tags": ["coingecko"]
     }
   },

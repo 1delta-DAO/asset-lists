@@ -21,7 +21,7 @@
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/8453/0xc0E49f8C615d3d4c245970F6Dc528E4A47d69a44.png",
       "assetGroup": "USDT",
       "currencyId": "Bridged USDT (ICE)::USDT",
-      "tags": ["bridged", "ice bridge"]
+      "tags": ["bridged"]
     },
     "0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca": {
       "chainId": "8453",
@@ -1143,7 +1143,7 @@
       "address": "0x9eaf8c1e34f05a589eda6bafdf391cf6ad3cb239",
       "symbol": "YFI",
       "logoURI": "https://assets.coingecko.com/coins/images/11849/thumb/yfi-192x192.png?1598325330",
-      "assetGroup": "yearn finance::YFI",
+      "assetGroup": "YFI",
       "currencyId": "yearn finance::YFI",
       "tags": ["coingecko", "debridge"]
     },
@@ -9999,7 +9999,7 @@
       "address": "0xf56b3b3972f2f154555a0b62ff5a22b7b2a3c90b",
       "symbol": "ZAP",
       "logoURI": "https://assets.coingecko.com/coins/images/50515/thumb/zap.jpg?1728033535",
-      "assetGroup": "ZAP",
+      "assetGroup": "ZAP::ZAP",
       "currencyId": "ZAP::ZAP",
       "tags": ["coingecko", "debridge"]
     },
@@ -13913,8 +13913,8 @@
       "address": "0xd8b95b1987741849ca7e71e976aeb535fd2e55a2",
       "symbol": "BCSBGC3",
       "logoURI": "https://assets.coingecko.com/coins/images/38920/thumb/b-CSBGC3-200x200.png?1719513620",
-      "assetGroup": "Backed Swiss Domestic Government Bond 0::BCSBGC3",
-      "currencyId": "Backed Swiss Domestic Government Bond 0::BCSBGC3",
+      "assetGroup": "BCSBGC3",
+      "currencyId": "Backed Swiss Domestic Government Bond 0-3::BCSBGC3",
       "tags": ["coingecko"]
     },
     "0x20c64dee8fda5269a78f2d5bdba861ca1d83df7a": {
@@ -18154,7 +18154,7 @@
       "symbol": "LINK",
       "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
       "assetGroup": "LINK",
-      "currencyId": "Chainlink Token::LINK",
+      "currencyId": "ChainLink Token::LINK",
       "tags": ["coingecko"]
     },
     "0xa0820613976b441e2c6a90e4877e2fb5f7d72552": {
@@ -19340,6 +19340,17 @@
       "assetGroup": "SUPER",
       "currencyId": "Super Connector::SUPER",
       "tags": ["coingecko"]
+    },
+    "0xbdc27118ca76b375c6887b0ff068afb03dfc21a0": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Arbus",
+      "address": "0xbdc27118ca76b375c6887b0ff068afb03dfc21a0",
+      "symbol": "ARBUS",
+      "logoURI": "https://assets.coingecko.com/coins/images/39872/thumb/Arbus_Logo.png?1724602074",
+      "assetGroup": "Arbus::ARBUS",
+      "currencyId": "Arbus::ARBUS",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -19406,7 +19417,23 @@
     "0xc1256ae5ff1cf2719d4937adb3bbccab2e00a2ca",
     "0x26d3c0d9f4cc4c130097b6afdebe4f5e497e6bdf",
     "0xc26c9099bd3789107888c35bb41178079b282561",
-    "0x3b86ad95859b6ab773f55f8d94b4b9d443ee931f"
+    "0x3b86ad95859b6ab773f55f8d94b4b9d443ee931f",
+    "0xc0e49f8c615d3d4c245970f6dc528e4a47d69a44",
+    "0x0fabfeacedf47e890c50c8120177fff69c6a1d9b",
+    "0xb7890cee6cf4792cdcc13489d36d9d42726ab863",
+    "0xdb90a4e973b7663ce0ccc32b6fbd37ffb19bfa83",
+    "0xa900a17a49bc4d442ba7f72c39fa2108865671f0",
+    "0xecc68d0451e20292406967fe7c04280e5238ac7d",
+    "0x1097dfe9539350cb466df9ca89a5e61195a520b0",
+    "0x6cdcb1c4a4d1c3c6d054b27ac5b77e89eafb971d",
+    "0xfdf73f61146b9050ffe4b755364b9cac670ea5b2",
+    "0x2c28ac6aa2f17e8dfa3e2561338c6357ead53c32",
+    "0xec7de4956a4569c2a1d171e4dd115a611c8e9ee5",
+    "0x59aaf835d34b1e3df2170e4872b785f11e2a964b",
+    "0x9a52fcd13fb9927d884b7eae826697c0aa0659cc",
+    "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+    "0x1d3b1cd0a0f242d598834b3f2d126dc6bd774657",
+    "0x5fede9d65714907381a76aa9bf949219dd1c5023"
   ],
   "bridgeTokens": [
     "0x4200000000000000000000000000000000000006",
@@ -19420,6 +19447,15 @@
     "0xc1256ae5ff1cf2719d4937adb3bbccab2e00a2ca",
     "0xecc68d0451e20292406967fe7c04280e5238ac7d",
     "0x26d3c0d9f4cc4c130097b6afdebe4f5e497e6bdf",
-    "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f"
+    "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f",
+    "0xc0e49f8c615d3d4c245970f6dc528e4a47d69a44",
+    "0x59aaf835d34b1e3df2170e4872b785f11e2a964b",
+    "0x5fede9d65714907381a76aa9bf949219dd1c5023",
+    "0xdb90a4e973b7663ce0ccc32b6fbd37ffb19bfa83",
+    "0x1d3b1cd0a0f242d598834b3f2d126dc6bd774657",
+    "0xb7890cee6cf4792cdcc13489d36d9d42726ab863",
+    "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+    "0x0fabfeacedf47e890c50c8120177fff69c6a1d9b",
+    "0xa900a17a49bc4d442ba7f72c39fa2108865671f0"
   ]
 }

@@ -265,6 +265,17 @@
       "assetGroup": "RETSBA::RETSBA",
       "currencyId": "RETSBA::RETSBA",
       "tags": ["coingecko"]
+    },
+    "0x1ea7d0b5317741a2581d7dc98075a11efd149312": {
+      "chainId": "2741",
+      "decimals": 18,
+      "name": "KINO",
+      "address": "0x1ea7d0b5317741a2581d7dc98075a11efd149312",
+      "symbol": "KINO",
+      "logoURI": "https://assets.coingecko.com/coins/images/55897/thumb/pfp.jpg?1747640648",
+      "assetGroup": "KINO::KINO",
+      "currencyId": "KINO::KINO",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -287,7 +298,8 @@
     "0xe516db039440f3d7aeaf92ed52ab8c5a190083b0",
     "0x3520fc294a76c119c8924072c37992e39a626f85",
     "0x8ad5c50511eb7e8f1b78d01373e3c663413e364d",
-    "0x52629ddbf28aa01aa22b994ec9c80273e4eb5b0a"
+    "0x52629ddbf28aa01aa22b994ec9c80273e4eb5b0a",
+    "0x1ea7d0b5317741a2581d7dc98075a11efd149312"
   ],
   "bridgeTokens": ["0x84a71ccd554cc1b02749b35d22f684cc8ec987e1", "0x3439153eb7af838ad19d56e1571fbd09333c2809"]
 }
