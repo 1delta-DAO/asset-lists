@@ -10,7 +10,8 @@
       "symbol": "WEDU",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/edu.svg",
       "assetGroup": "Wrapped EDU::WEDU",
-      "currencyId": "Wrapped EDU::WEDU"
+      "currencyId": "Wrapped EDU::WEDU",
+      "tags": ["wnative", "coingecko"]
     },
     "0x836d275563bab5e93fd6ca62a95db7065da94342": {
       "chainId": "41923",
@@ -20,7 +21,8 @@
       "symbol": "USDC",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdc.svg",
       "assetGroup": "USDC",
-      "currencyId": "USD Coin::USDC"
+      "currencyId": "USD Coin::USDC",
+      "tags": ["coingecko"]
     },
     "0x7277cc818e3f3ffbb169c6da9cc77fc2d2a34895": {
       "chainId": "41923",
@@ -30,7 +32,8 @@
       "symbol": "USDT",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdt.svg",
       "assetGroup": "USDT",
-      "currencyId": "Tether USD::USDT"
+      "currencyId": "Tether USD::USDT",
+      "tags": ["coingecko"]
     },
     "0x22fa593845fda46db5784f519b3364432a1d4203": {
       "chainId": "41923",
@@ -41,8 +44,36 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/dai.svg",
       "assetGroup": "DAI",
       "currencyId": "Dai Stablecoin::DAI"
+    },
+    "0xd282de0c2bd41556c887f319a5c19ff441dcdf90": {
+      "chainId": "41923",
+      "decimals": 18,
+      "name": "EDU StableDollar",
+      "address": "0xd282de0c2bd41556c887f319a5c19ff441dcdf90",
+      "symbol": "ESD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54756/thumb/esd.jpg?1741347661",
+      "assetGroup": "EDU StableDollar::ESD",
+      "currencyId": "EDU StableDollar::ESD",
+      "tags": ["coingecko"]
+    },
+    "0x526e8a66e357ffeaeeec6d7be1e5ea44a788dd1d": {
+      "chainId": "41923",
+      "decimals": 18,
+      "name": "BLEND",
+      "address": "0x526e8a66e357ffeaeeec6d7be1e5ea44a788dd1d",
+      "symbol": "BLEND",
+      "logoURI": "https://assets.coingecko.com/coins/images/54778/thumb/Blend0.png?1741517155",
+      "assetGroup": "BLEND::BLEND",
+      "currencyId": "BLEND::BLEND",
+      "tags": ["coingecko"]
     }
   },
-  "mainTokens": ["0x836d275563bab5e93fd6ca62a95db7065da94342", "0x7277cc818e3f3ffbb169c6da9cc77fc2d2a34895"],
+  "mainTokens": [
+    "0x836d275563bab5e93fd6ca62a95db7065da94342",
+    "0x7277cc818e3f3ffbb169c6da9cc77fc2d2a34895",
+    "0xd02e8c38a8e3db71f8b2ae30b8186d7874934e12",
+    "0xd282de0c2bd41556c887f319a5c19ff441dcdf90",
+    "0x526e8a66e357ffeaeeec6d7be1e5ea44a788dd1d"
+  ],
   "bridgeTokens": ["0x836d275563bab5e93fd6ca62a95db7065da94342", "0x7277cc818e3f3ffbb169c6da9cc77fc2d2a34895"]
 }
