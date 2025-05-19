@@ -144,6 +144,17 @@
       "assetGroup": "King Protocol::KING",
       "currencyId": "King Protocol::KING",
       "tags": ["coingecko"]
+    },
+    "0x0000baa0b1678229863c0a941c1056b83a1955f5": {
+      "chainId": "1923",
+      "decimals": 18,
+      "name": "Orki USDK",
+      "address": "0x0000baa0b1678229863c0a941c1056b83a1955f5",
+      "symbol": "USDK",
+      "logoURI": "https://assets.coingecko.com/coins/images/55912/thumb/Orki-Stablecoin-RGB-Blue.png?1747677290",
+      "assetGroup": "Orki USDK::USDK",
+      "currencyId": "Orki USDK::USDK",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -159,7 +170,8 @@
     "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3",
     "0x3d63825b0d8669307366e6c8202f656b9e91d368",
     "0x9ab96a4668456896d45c301bc3a15cee76aa7b8d",
-    "0xc2606aade4bdd978a4fa5a6edb3b66657acee6f8"
+    "0xc2606aade4bdd978a4fa5a6edb3b66657acee6f8",
+    "0x0000baa0b1678229863c0a941c1056b83a1955f5"
   ],
   "bridgeTokens": ["0x4200000000000000000000000000000000000006", "0x9ab96a4668456896d45c301bc3a15cee76aa7b8d"]
 }
