@@ -2232,7 +2232,7 @@
       "name": "Ankr Reward Bearing AVAX",
       "address": "0xc3344870d52688874b06d844e0c36cc39fc727f6",
       "symbol": "ankrAVAX",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/1658311661542_9477867315587034.JPG",
+      "logoURI": "https://assets.coingecko.com/coins/images/28695/large/ankrAVAX.png?1673413425",
       "assetGroup": "Ankr Reward Bearing AVAX::ankrAVAX",
       "currencyId": "Ankr Reward Bearing AVAX::ankrAVAX",
       "tags": ["openocean"]
@@ -6149,6 +6149,554 @@
       "assetGroup": "LP 3pool Curve::3CRV",
       "currencyId": "LP 3pool Curve::3CRV",
       "tags": ["coingecko", "debridge"]
+    },
+    "0x02d980a0d7af3fb7cf7df8cb35d9edbcf355f665": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "SHIBA INU",
+      "address": "0x02d980a0d7af3fb7cf7df8cb35d9edbcf355f665",
+      "symbol": "SHIB.e",
+      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0x02D980A0D7AF3fb7Cf7Df8cB35d9eDBCF355f665/logo.png",
+      "assetGroup": "SHIB",
+      "currencyId": "SHIBA INU::SHIB.e"
+    },
+    "0x249848beca43ac405b8102ec90dd5f22ca513c06": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Curve DAO Token",
+      "address": "0x249848beca43ac405b8102ec90dd5f22ca513c06",
+      "symbol": "CRV.e",
+      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0x249848BeCA43aC405b8102Ec90Dd5F22CA513c06/logo.png",
+      "assetGroup": "CRV",
+      "currencyId": "Curve DAO Token::CRV.e"
+    },
+    "0x57319d41f71e81f3c65f2a47ca4e001ebafd4f33": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "JoeBar",
+      "address": "0x57319d41f71e81f3c65f2a47ca4e001ebafd4f33",
+      "symbol": "xJOE",
+      "assetGroup": "JoeBar::xJOE",
+      "currencyId": "JoeBar::xJOE"
+    },
+    "0xea67626e1f0b59e0d172a04f5702ef90bcdf440c": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Balancer Aave v3 Boosted Pool (USDT)",
+      "address": "0xea67626e1f0b59e0d172a04f5702ef90bcdf440c",
+      "symbol": "bb-a-USDT",
+      "assetGroup": "Balancer Aave v3 Boosted Pool (USDT)::bb-a-USDT",
+      "currencyId": "Balancer Aave v3 Boosted Pool (USDT)::bb-a-USDT"
+    },
+    "0xeb496161099d45b3ea4892408ef745c6182eb56e": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Balancer Aave v3 Boosted Pool (USDC)",
+      "address": "0xeb496161099d45b3ea4892408ef745c6182eb56e",
+      "symbol": "bb-a-USDC",
+      "assetGroup": "Balancer Aave v3 Boosted Pool (USDC)::bb-a-USDC",
+      "currencyId": "Balancer Aave v3 Boosted Pool (USDC)::bb-a-USDC"
+    },
+    "0xa1d14d922a575232066520eda11e27760946c991": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Balancer Aave v3 Boosted StablePool",
+      "address": "0xa1d14d922a575232066520eda11e27760946c991",
+      "symbol": "bb-a-USD",
+      "assetGroup": "Balancer Aave v3 Boosted StablePool::bb-a-USD",
+      "currencyId": "Balancer Aave v3 Boosted StablePool::bb-a-USD"
+    },
+    "0x7275c131b1f67e8b53b4691f92b0e35a4c1c6e22": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Balancer Aave v3 Boosted Pool (WAVAX)",
+      "address": "0x7275c131b1f67e8b53b4691f92b0e35a4c1c6e22",
+      "symbol": "bb-a-WAVAX",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7275c131b1f67e8b53b4691f92b0e35a4c1c6e22.png",
+      "assetGroup": "Balancer Aave v3 Boosted Pool (WAVAX)::bb-a-WAVAX",
+      "currencyId": "Balancer Aave v3 Boosted Pool (WAVAX)::bb-a-WAVAX"
+    },
+    "0xa291ae608d8854cdbf9838e28e9badcf10181669": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Static Aave Avalanche WAVAX",
+      "address": "0xa291ae608d8854cdbf9838e28e9badcf10181669",
+      "symbol": "stataAvaWAVAX",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa291ae608d8854cdbf9838e28e9badcf10181669.png",
+      "assetGroup": "Static Aave Avalanche WAVAX::stataAvaWAVAX",
+      "currencyId": "Static Aave Avalanche WAVAX::stataAvaWAVAX"
+    },
+    "0xb26f0e66317846bd5fe0cbaa1d269f0efeb05c96": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Balancer USDC-USDT Stable Pool",
+      "address": "0xb26f0e66317846bd5fe0cbaa1d269f0efeb05c96",
+      "symbol": "USDC-USDT-BPT",
+      "assetGroup": "Balancer USDC-USDT Stable Pool::USDC-USDT-BPT",
+      "currencyId": "Balancer USDC-USDT Stable Pool::USDC-USDT-BPT"
+    },
+    "0x121b0dfc48444c4d10cadded9885d90e7453e878": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Balancer SWEEP-USDC StablePool",
+      "address": "0x121b0dfc48444c4d10cadded9885d90e7453e878",
+      "symbol": "SWEEP-USDC-BPT",
+      "assetGroup": "Balancer SWEEP-USDC StablePool::SWEEP-USDC-BPT",
+      "currencyId": "Balancer SWEEP-USDC StablePool::SWEEP-USDC-BPT"
+    },
+    "0xb88a5ac00917a02d82c7cd6cebd73e2852d43574": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "SweepCoin",
+      "address": "0xb88a5ac00917a02d82c7cd6cebd73e2852d43574",
+      "symbol": "SWEEP",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb88a5ac00917a02d82c7cd6cebd73e2852d43574.png",
+      "assetGroup": "SweepCoin::SWEEP",
+      "currencyId": "SweepCoin::SWEEP"
+    },
+    "0xbd80cfa9d93a87d1bb895f810ea348e496611cd4": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Own a fraction",
+      "address": "0xbd80cfa9d93a87d1bb895f810ea348e496611cd4",
+      "symbol": "FRACTION",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbd80cfa9d93a87d1bb895f810ea348e496611cd4.png",
+      "assetGroup": "Own a fraction::FRACTION",
+      "currencyId": "Own a fraction::FRACTION"
+    },
+    "0x8783e0156cd747d0cc012087d3d3afc897f2328c": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Balancer sAVAX/ggAVAX/yyAVAX",
+      "address": "0x8783e0156cd747d0cc012087d3d3afc897f2328c",
+      "symbol": "sAVAX/ggAVAX/yyAVAX",
+      "assetGroup": "Balancer sAVAX/ggAVAX/yyAVAX::sAVAX/ggAVAX/yyAVAX",
+      "currencyId": "Balancer sAVAX/ggAVAX/yyAVAX::sAVAX/ggAVAX/yyAVAX"
+    },
+    "0x1509706a6c66ca549ff0cb464de88231ddbe213b": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Aura",
+      "address": "0x1509706a6c66ca549ff0cb464de88231ddbe213b",
+      "symbol": "AURA",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1509706a6c66ca549ff0cb464de88231ddbe213b.png",
+      "assetGroup": "Aura::AURA",
+      "currencyId": "Aura::AURA"
+    },
+    "0x9fb1d52596c44603198fb0aee434fac3a679f702": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Jarvis Synthetic Euro",
+      "address": "0x9fb1d52596c44603198fb0aee434fac3a679f702",
+      "symbol": "jEUR",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9fb1d52596c44603198fb0aee434fac3a679f702.png",
+      "assetGroup": "JEUR",
+      "currencyId": "Jarvis Synthetic Euro::jEUR"
+    },
+    "0x4ff5f900eca8f848bedf09fbff7d1caa2c11a857": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "lueygi",
+      "address": "0x4ff5f900eca8f848bedf09fbff7d1caa2c11a857",
+      "symbol": "$lueygi",
+      "assetGroup": "lueygi::$lueygi",
+      "currencyId": "lueygi::$lueygi"
+    },
+    "0xabe662faea2ea68f4979a3956c27353d9bc398ca": {
+      "chainId": "43114",
+      "decimals": 8,
+      "name": "USDTether",
+      "address": "0xabe662faea2ea68f4979a3956c27353d9bc398ca",
+      "symbol": "USDt",
+      "assetGroup": "USDTether::USDt",
+      "currencyId": "USDTether::USDt"
+    },
+    "0x6a02c7a974f1f13a67980c80f774ec1d2ed8f98d": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Static Aave Avalanche WAVAX",
+      "address": "0x6a02c7a974f1f13a67980c80f774ec1d2ed8f98d",
+      "symbol": "stataAvaWAVAX",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6a02c7a974f1f13a67980c80f774ec1d2ed8f98d.png",
+      "assetGroup": "Static Aave Avalanche WAVAX::stataAvaWAVAX::43114",
+      "currencyId": "Static Aave Avalanche WAVAX::stataAvaWAVAX"
+    },
+    "0xc509ab7bb4edbf193b82264d499a7fc526cd01f4": {
+      "chainId": "43114",
+      "decimals": 6,
+      "name": "Static Aave Avalanche USDC",
+      "address": "0xc509ab7bb4edbf193b82264d499a7fc526cd01f4",
+      "symbol": "stataAvaUSDC",
+      "assetGroup": "Static Aave Avalanche USDC::stataAvaUSDC",
+      "currencyId": "Static Aave Avalanche USDC::stataAvaUSDC"
+    },
+    "0xc63529297de076eb15fcbe873ae9136e446cfbb9": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Gyroscope",
+      "address": "0xc63529297de076eb15fcbe873ae9136e446cfbb9",
+      "symbol": "GYFI",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc63529297de076eb15fcbe873ae9136e446cfbb9.png",
+      "assetGroup": "Gyroscope::GYFI",
+      "currencyId": "Gyroscope::GYFI"
+    },
+    "0x45cf39eeb437fa95bb9b52c0105254a6bd25d01e": {
+      "chainId": "43114",
+      "decimals": 6,
+      "name": "Wrapped Aave Avalanche AUSD",
+      "address": "0x45cf39eeb437fa95bb9b52c0105254a6bd25d01e",
+      "symbol": "waAvaAUSD",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x45cf39eeb437fa95bb9b52c0105254a6bd25d01e.png",
+      "assetGroup": "Wrapped Aave Avalanche AUSD::waAvaAUSD",
+      "currencyId": "Wrapped Aave Avalanche AUSD::waAvaAUSD"
+    },
+    "0x59933c571d200dc6a7fd1cda22495db442082e34": {
+      "chainId": "43114",
+      "decimals": 6,
+      "name": "Wrapped Aave Avalanche USDT",
+      "address": "0x59933c571d200dc6a7fd1cda22495db442082e34",
+      "symbol": "waAvaUSDT",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x59933c571d200dc6a7fd1cda22495db442082e34.png",
+      "assetGroup": "Wrapped Aave Avalanche USDT::waAvaUSDT",
+      "currencyId": "Wrapped Aave Avalanche USDT::waAvaUSDT"
+    },
+    "0xe1bfc96d95badcb10ff013cb0c9c6c737ca07009": {
+      "chainId": "43114",
+      "decimals": 6,
+      "name": "Wrapped Aave Avalanche USDC",
+      "address": "0xe1bfc96d95badcb10ff013cb0c9c6c737ca07009",
+      "symbol": "waAvaUSDC",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe1bfc96d95badcb10ff013cb0c9c6c737ca07009.png",
+      "assetGroup": "Wrapped Aave Avalanche USDC::waAvaUSDC",
+      "currencyId": "Wrapped Aave Avalanche USDC::waAvaUSDC"
+    },
+    "0x7d0394f8898fba73836bf12bd606228887705895": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Wrapped Aave Avalanche SAVAX",
+      "address": "0x7d0394f8898fba73836bf12bd606228887705895",
+      "symbol": "waAvaSAVAX",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7d0394f8898fba73836bf12bd606228887705895.png",
+      "assetGroup": "Wrapped Aave Avalanche SAVAX::waAvaSAVAX",
+      "currencyId": "Wrapped Aave Avalanche SAVAX::waAvaSAVAX"
+    },
+    "0xd7da0de6ef4f51d6206bf2a35fcd2030f54c3f7b": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Wrapped Aave Avalanche WAVAX",
+      "address": "0xd7da0de6ef4f51d6206bf2a35fcd2030f54c3f7b",
+      "symbol": "waAvaWAVAX",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd7da0de6ef4f51d6206bf2a35fcd2030f54c3f7b.png",
+      "assetGroup": "Wrapped Aave Avalanche WAVAX::waAvaWAVAX",
+      "currencyId": "Wrapped Aave Avalanche WAVAX::waAvaWAVAX"
+    },
+    "0x2d324fd1ca86d90f61b0965d2db2f86d22ea4b74": {
+      "chainId": "43114",
+      "decimals": 8,
+      "name": "Wrapped Aave Avalanche BTC.b",
+      "address": "0x2d324fd1ca86d90f61b0965d2db2f86d22ea4b74",
+      "symbol": "waAvaBTC.b",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2d324fd1ca86d90f61b0965d2db2f86d22ea4b74.png",
+      "assetGroup": "Wrapped Aave Avalanche BTC.b::waAvaBTC.b",
+      "currencyId": "Wrapped Aave Avalanche BTC.b::waAvaBTC.b"
+    },
+    "0xdfd2b2437a94108323045c282ff1916de5ac6af7": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Wrapped Aave Avalanche WETH",
+      "address": "0xdfd2b2437a94108323045c282ff1916de5ac6af7",
+      "symbol": "waAvaWETH",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdfd2b2437a94108323045c282ff1916de5ac6af7.png",
+      "assetGroup": "Wrapped Aave Avalanche WETH::waAvaWETH",
+      "currencyId": "Wrapped Aave Avalanche WETH::waAvaWETH"
+    },
+    "0xc38ad3527a4b821bf437639cba8bf567bfa63a13": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Wrapped Aave Avalanche DAI",
+      "address": "0xc38ad3527a4b821bf437639cba8bf567bfa63a13",
+      "symbol": "waAvaDAI",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc38ad3527a4b821bf437639cba8bf567bfa63a13.png",
+      "assetGroup": "Wrapped Aave Avalanche DAI::waAvaDAI",
+      "currencyId": "Wrapped Aave Avalanche DAI::waAvaDAI"
+    },
+    "0x61933af56431280ee4e5667133d8af6322d64b32": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Wrapped Aave Avalanche LINK",
+      "address": "0x61933af56431280ee4e5667133d8af6322d64b32",
+      "symbol": "waAvaLINK",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x61933af56431280ee4e5667133d8af6322d64b32.png",
+      "assetGroup": "Wrapped Aave Avalanche LINK::waAvaLINK",
+      "currencyId": "Wrapped Aave Avalanche LINK::waAvaLINK"
+    },
+    "0x3929336afd0bba6fcabb67dfb78610379c66b43b": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Wrapped Aave Avalanche FRAX",
+      "address": "0x3929336afd0bba6fcabb67dfb78610379c66b43b",
+      "symbol": "waAvaFRAX",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3929336afd0bba6fcabb67dfb78610379c66b43b.png",
+      "assetGroup": "Wrapped Aave Avalanche FRAX::waAvaFRAX",
+      "currencyId": "Wrapped Aave Avalanche FRAX::waAvaFRAX"
+    },
+    "0x7883978d1f322641a3aaa82bac3b0a6dee7a171e": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Wrapped Aave Avalanche AAVE",
+      "address": "0x7883978d1f322641a3aaa82bac3b0a6dee7a171e",
+      "symbol": "waAvaAAVE",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7883978d1f322641a3aaa82bac3b0a6dee7a171e.png",
+      "assetGroup": "Wrapped Aave Avalanche AAVE::waAvaAAVE",
+      "currencyId": "Wrapped Aave Avalanche AAVE::waAvaAAVE"
+    },
+    "0x3408b22d8895753c9a3e14e4222e981d4e9a599e": {
+      "chainId": "43114",
+      "decimals": 6,
+      "name": "Upshift Avalanche AUSD",
+      "address": "0x3408b22d8895753c9a3e14e4222e981d4e9a599e",
+      "symbol": "upAUSD",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3408b22d8895753c9a3e14e4222e981d4e9a599e.png",
+      "assetGroup": "Upshift Avalanche AUSD::upAUSD",
+      "currencyId": "Upshift Avalanche AUSD::upAUSD"
+    },
+    "0x68088c91446c7bea49ea7dbd3b96ce62b272dc96": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Staked deUSD",
+      "address": "0x68088c91446c7bea49ea7dbd3b96ce62b272dc96",
+      "symbol": "sdeUSD",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x68088c91446c7bea49ea7dbd3b96ce62b272dc96.png",
+      "assetGroup": "Staked deUSD::sdeUSD",
+      "currencyId": "Staked deUSD::sdeUSD"
+    },
+    "0x6c7d727a0432d03351678f91faa1126a5b871df5": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "SolvBTC Avalanche",
+      "address": "0x6c7d727a0432d03351678f91faa1126a5b871df5",
+      "symbol": "SolvBTC.AVAX",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6c7d727a0432d03351678f91faa1126a5b871df5.png",
+      "assetGroup": "SolvBTC Avalanche::SolvBTC.AVAX",
+      "currencyId": "SolvBTC Avalanche::SolvBTC.AVAX"
+    },
+    "0x5030183b3dd0105d69d7d45595c120fc4b542ec3": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "EVK Vault esavUSD-3",
+      "address": "0x5030183b3dd0105d69d7d45595c120fc4b542ec3",
+      "symbol": "esavUSD-3",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5030183b3dd0105d69d7d45595c120fc4b542ec3.png",
+      "assetGroup": "EVK Vault esavUSD-3::esavUSD-3",
+      "currencyId": "EVK Vault esavUSD-3::esavUSD-3"
+    },
+    "0xa446938b0204aa4055cdfed68ddf0e0d1bab3e9e": {
+      "chainId": "43114",
+      "decimals": 6,
+      "name": "EVK Vault eUSDt-3",
+      "address": "0xa446938b0204aa4055cdfed68ddf0e0d1bab3e9e",
+      "symbol": "eUSDt-3",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa446938b0204aa4055cdfed68ddf0e0d1bab3e9e.png",
+      "assetGroup": "EVK Vault eUSDt-3::eUSDt-3",
+      "currencyId": "EVK Vault eUSDt-3::eUSDt-3"
+    },
+    "0x2137568666f12fc5a026f5430ae7194f1c1362ab": {
+      "chainId": "43114",
+      "decimals": 6,
+      "name": "EVK Vault eAUSD-2",
+      "address": "0x2137568666f12fc5a026f5430ae7194f1c1362ab",
+      "symbol": "eAUSD-2",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2137568666f12fc5a026f5430ae7194f1c1362ab.png",
+      "assetGroup": "EVK Vault eAUSD-2::eAUSD-2",
+      "currencyId": "EVK Vault eAUSD-2::eAUSD-2"
+    },
+    "0x39de0f00189306062d79edec6dca5bb6bfd108f9": {
+      "chainId": "43114",
+      "decimals": 6,
+      "name": "EVK Vault eUSDC-2",
+      "address": "0x39de0f00189306062d79edec6dca5bb6bfd108f9",
+      "symbol": "eUSDC-2",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x39de0f00189306062d79edec6dca5bb6bfd108f9.png",
+      "assetGroup": "EVK Vault eUSDC-2::eUSDC-2",
+      "currencyId": "EVK Vault eUSDC-2::eUSDC-2"
+    },
+    "0x72f92a966f1874f74e1b601bee7cf57031b53a03": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "EVK Vault esavUSD-2",
+      "address": "0x72f92a966f1874f74e1b601bee7cf57031b53a03",
+      "symbol": "esavUSD-2",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x72f92a966f1874f74e1b601bee7cf57031b53a03.png",
+      "assetGroup": "EVK Vault esavUSD-2::esavUSD-2",
+      "currencyId": "EVK Vault esavUSD-2::esavUSD-2"
+    },
+    "0xdbc5192a6b6ffee7451301bb4ec312f844f02b4a": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Unity",
+      "address": "0xdbc5192a6b6ffee7451301bb4ec312f844f02b4a",
+      "symbol": "UTY",
+      "assetGroup": "Unity::UTY",
+      "currencyId": "Unity::UTY"
+    },
+    "0x580d5e1399157fd0d58218b7a514b60974f2ab01": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Staked UTY",
+      "address": "0x580d5e1399157fd0d58218b7a514b60974f2ab01",
+      "symbol": "yUTY",
+      "assetGroup": "Staked UTY::yUTY",
+      "currencyId": "Staked UTY::yUTY"
+    },
+    "0xe80772eaf6e2e18b651f160bc9158b2a5cafca65": {
+      "chainId": "43114",
+      "decimals": 6,
+      "name": "USD+",
+      "address": "0xe80772eaf6e2e18b651f160bc9158b2a5cafca65",
+      "symbol": "USD+",
+      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65/logo.jpg",
+      "assetGroup": "USD+::USD+",
+      "currencyId": "USD+::USD+"
+    },
+    "0xbb6ffece837a525a2eae033ff0161a7cdc60b693": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "DEFO Token",
+      "address": "0xbb6ffece837a525a2eae033ff0161a7cdc60b693",
+      "symbol": "DEFO",
+      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0xbb6ffeCE837a525A2eAE033ff0161a7CDC60B693/logo.png",
+      "assetGroup": "DEFO Token::DEFO",
+      "currencyId": "DEFO Token::DEFO"
+    },
+    "0x95ced7c63ea990588f3fd01cdde25247d04b8d98": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "GrapeVine",
+      "address": "0x95ced7c63ea990588f3fd01cdde25247d04b8d98",
+      "symbol": "XGRAPE",
+      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x95CED7c63eA990588F3fd01cdDe25247D04b8D98/logo.png",
+      "assetGroup": "GrapeVine::XGRAPE",
+      "currencyId": "GrapeVine::XGRAPE"
+    },
+    "0xf18ecd11d87c7479f8cd2ebe29abad04c97378dd": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "GBOND",
+      "address": "0xf18ecd11d87c7479f8cd2ebe29abad04c97378dd",
+      "symbol": "GBOND",
+      "logoURI": "https://raw.githubusercontent.com/grapefi/tokens/main/assets/0x5541D83EFaD1f281571B343977648B75d95cdAC2/logo.png",
+      "assetGroup": "GBOND::GBOND",
+      "currencyId": "GBOND::GBOND"
+    },
+    "0x92876c3a3e2b0788c841587a14989392a555bffe": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "MIND+",
+      "address": "0x92876c3a3e2b0788c841587a14989392a555bffe",
+      "symbol": "MIND+",
+      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x92876C3A3E2B0788C841587a14989392A555BffE/logo.png",
+      "assetGroup": "MIND+::MIND+",
+      "currencyId": "MIND+::MIND+"
+    },
+    "0x240248628b7b6850352764c5dfa50d1592a033a8": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "POPSToken",
+      "address": "0x240248628b7b6850352764c5dfa50d1592a033a8",
+      "symbol": "POPS",
+      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x240248628B7B6850352764C5dFa50D1592A033A8/logo.svg",
+      "assetGroup": "POPSToken::POPS",
+      "currencyId": "POPSToken::POPS"
+    },
+    "0x5108176bc1b7e72440e6b48862c51d7eb0aed5c4": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Staked POPSToken",
+      "address": "0x5108176bc1b7e72440e6b48862c51d7eb0aed5c4",
+      "symbol": "sPOPS",
+      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x5108176bC1B7e72440e6B48862c51d7eB0AEd5c4/logo.svg",
+      "assetGroup": "Staked POPSToken::sPOPS",
+      "currencyId": "Staked POPSToken::sPOPS"
+    },
+    "0x7c105c37a622eb8586beaef215d452b3f7dc9a39": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "LavaToken v2",
+      "address": "0x7c105c37a622eb8586beaef215d452b3f7dc9a39",
+      "symbol": "LAVA",
+      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x7c105c37A622EB8586BEAef215d452b3f7Dc9A39/logo.png",
+      "assetGroup": "LavaToken v2::LAVA",
+      "currencyId": "LavaToken v2::LAVA"
+    },
+    "0x501012893ee88976ab8b5289b7a78e307d5d9dcb": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Narwhal",
+      "address": "0x501012893ee88976ab8b5289b7a78e307d5d9dcb",
+      "symbol": "NRWL",
+      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x501012893eE88976AB8B5289B7a78E307d5d9DCb/logo.png",
+      "assetGroup": "Narwhal::NRWL",
+      "currencyId": "Narwhal::NRWL"
+    },
+    "0x01af64ef39aeb5612202aa07b3a3829f20c395fd": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Vintage",
+      "address": "0x01af64ef39aeb5612202aa07b3a3829f20c395fd",
+      "symbol": "VINTAGE",
+      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x01Af64EF39AEB5612202AA07B3A3829f20c395fd/logo.png",
+      "assetGroup": "Vintage::VINTAGE",
+      "currencyId": "Vintage::VINTAGE"
+    },
+    "0x90b630991ab2fa3bfcf6e7b380830e1c3fb4bc4a": {
+      "chainId": "43114",
+      "decimals": 6,
+      "name": "Ripple",
+      "address": "0x90b630991ab2fa3bfcf6e7b380830e1c3fb4bc4a",
+      "symbol": "XRP",
+      "logoURI": "https://raw.githubusercontent.com/swapsicledex/ovx-token-list/master/logos/avalanche/0x90b630991aB2fa3BFCf6e7b380830E1C3Fb4BC4A/logo.png",
+      "assetGroup": "Ripple::XRP",
+      "currencyId": "Ripple::XRP"
+    },
+    "0xd6070ae98b8069de6b494332d1a1a81b6179d960": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Beefy",
+      "address": "0xd6070ae98b8069de6b494332d1a1a81b6179d960",
+      "symbol": "BIFI",
+      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0xd6070ae98b8069de6B494332d1A1a81B6179D960/logo.png",
+      "assetGroup": "Beefy::BIFI",
+      "currencyId": "Beefy::BIFI"
+    },
+    "0xf36de0989d83fdc554fc7b93e5d10722677ccfbc": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Asgard",
+      "address": "0xf36de0989d83fdc554fc7b93e5d10722677ccfbc",
+      "symbol": "ASG",
+      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0xF36de0989d83FDc554FC7b93E5D10722677CCFBC/logo.png",
+      "assetGroup": "Asgard::ASG",
+      "currencyId": "Asgard::ASG"
+    },
+    "0x29eda9bee2adf5b67f159cf8d279402b24e6d074": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Swapsicle Slush",
+      "address": "0x29eda9bee2adf5b67f159cf8d279402b24e6d074",
+      "symbol": "SLUSH",
+      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0x8309Bc8BB43fB54dB02DA7d8bf87192355532829/logo.png",
+      "assetGroup": "Swapsicle Slush::SLUSH",
+      "currencyId": "Swapsicle Slush::SLUSH"
+    },
+    "0xc74e4d4301b385f05139824ad651796fd494afed": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Swapsicle Ice",
+      "address": "0xc74e4d4301b385f05139824ad651796fd494afed",
+      "symbol": "ICE",
+      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0x005e16eccdfd3ea76e7b777a1beb7b826e3aa7e3/logo.svg",
+      "assetGroup": "Swapsicle Ice::ICE",
+      "currencyId": "Swapsicle Ice::ICE"
     }
   },
   "mainTokens": [
@@ -6206,7 +6754,18 @@
     "0xf0ff231e3f1a50f83136717f287adab862f89431",
     "0xb24ca28d4e2742907115fecda335b40dbda07a4c",
     "0xbc78d84ba0c46dfe32cf2895a19939c86b81a777",
-    "0xcc0966d8418d412c599a6421b760a847eb169a8c"
+    "0xcc0966d8418d412c599a6421b760a847eb169a8c",
+    "0xea67626e1f0b59e0d172a04f5702ef90bcdf440c",
+    "0xeb496161099d45b3ea4892408ef745c6182eb56e",
+    "0xb26f0e66317846bd5fe0cbaa1d269f0efeb05c96",
+    "0x121b0dfc48444c4d10cadded9885d90e7453e878",
+    "0xabe662faea2ea68f4979a3956c27353d9bc398ca",
+    "0xc509ab7bb4edbf193b82264d499a7fc526cd01f4",
+    "0x59933c571d200dc6a7fd1cda22495db442082e34",
+    "0xe1bfc96d95badcb10ff013cb0c9c6c737ca07009",
+    "0x6c7d727a0432d03351678f91faa1126a5b871df5",
+    "0xa446938b0204aa4055cdfed68ddf0e0d1bab3e9e",
+    "0x39de0f00189306062d79edec6dca5bb6bfd108f9"
   ],
   "bridgeTokens": [
     "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
@@ -6228,6 +6787,16 @@
     "0x260bbf5698121eb85e7a74f2e45e16ce762ebe11",
     "0x264c1383ea520f73dd837f915ef3a732e204a493",
     "0xf0ff231e3f1a50f83136717f287adab862f89431",
-    "0xb24ca28d4e2742907115fecda335b40dbda07a4c"
+    "0xb24ca28d4e2742907115fecda335b40dbda07a4c",
+    "0xea67626e1f0b59e0d172a04f5702ef90bcdf440c",
+    "0xeb496161099d45b3ea4892408ef745c6182eb56e",
+    "0xb26f0e66317846bd5fe0cbaa1d269f0efeb05c96",
+    "0x121b0dfc48444c4d10cadded9885d90e7453e878",
+    "0xabe662faea2ea68f4979a3956c27353d9bc398ca",
+    "0xc509ab7bb4edbf193b82264d499a7fc526cd01f4",
+    "0x59933c571d200dc6a7fd1cda22495db442082e34",
+    "0xe1bfc96d95badcb10ff013cb0c9c6c737ca07009",
+    "0xa446938b0204aa4055cdfed68ddf0e0d1bab3e9e",
+    "0x39de0f00189306062d79edec6dca5bb6bfd108f9"
   ]
 }

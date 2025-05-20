@@ -1,0 +1,138 @@
+{
+  "chainId": "252",
+  "version": "0",
+  "list": {
+    "0x2fc7447f6cf71f9aa9e7ff8814b37e55b268ec91": {
+      "chainId": "252",
+      "decimals": 18,
+      "name": "Balancer",
+      "address": "0x2fc7447f6cf71f9aa9e7ff8814b37e55b268ec91",
+      "symbol": "BAL",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2fc7447f6cf71f9aa9e7ff8814b37e55b268ec91.png",
+      "assetGroup": "BAL",
+      "currencyId": "Balancer::BAL"
+    },
+    "0x4d15ea9c2573addaed814e48c148b5262694646a": {
+      "chainId": "252",
+      "decimals": 6,
+      "name": "Tether USD",
+      "address": "0x4d15ea9c2573addaed814e48c148b5262694646a",
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4d15ea9c2573addaed814e48c148b5262694646a.png",
+      "assetGroup": "USDT",
+      "currencyId": "Tether USD::USDT"
+    },
+    "0xb3a7862d7b29b8e3d235299128c6985e2cd44c33": {
+      "chainId": "252",
+      "decimals": 18,
+      "name": "USDe",
+      "address": "0xb3a7862d7b29b8e3d235299128c6985e2cd44c33",
+      "symbol": "USDe",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb3a7862d7b29b8e3d235299128c6985e2cd44c33.png",
+      "assetGroup": "USDE",
+      "currencyId": "USDe::USDe"
+    },
+    "0xdcc0f2d8f90fde85b10ac1c8ab57dc0ae946a543": {
+      "chainId": "252",
+      "decimals": 6,
+      "name": "USD Coin",
+      "address": "0xdcc0f2d8f90fde85b10ac1c8ab57dc0ae946a543",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdcc0f2d8f90fde85b10ac1c8ab57dc0ae946a543.png",
+      "assetGroup": "USDC",
+      "currencyId": "USD Coin::USDC"
+    },
+    "0xf6a011fac307f55cd4ba8e43b8b93f39808ddaa9": {
+      "chainId": "252",
+      "decimals": 18,
+      "name": "Dai Stablecoin",
+      "address": "0xf6a011fac307f55cd4ba8e43b8b93f39808ddaa9",
+      "symbol": "DAI",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf6a011fac307f55cd4ba8e43b8b93f39808ddaa9.png",
+      "assetGroup": "DAI",
+      "currencyId": "Dai Stablecoin::DAI"
+    },
+    "0xfc00000000000000000000000000000000000001": {
+      "chainId": "252",
+      "decimals": 18,
+      "name": "Frax USD",
+      "address": "0xfc00000000000000000000000000000000000001",
+      "symbol": "frxUSD",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfc00000000000000000000000000000000000001.png",
+      "assetGroup": "FRXUSD",
+      "currencyId": "Frax USD::frxUSD"
+    },
+    "0xfc00000000000000000000000000000000000005": {
+      "chainId": "252",
+      "decimals": 18,
+      "name": "Staked Frax Ether",
+      "address": "0xfc00000000000000000000000000000000000005",
+      "symbol": "sfrxETH",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfc00000000000000000000000000000000000005.png",
+      "assetGroup": "SFRXETH",
+      "currencyId": "Staked Frax Ether::sfrxETH"
+    },
+    "0xfc00000000000000000000000000000000000002": {
+      "chainId": "252",
+      "decimals": 18,
+      "name": "Wrapped Frax",
+      "address": "0xfc00000000000000000000000000000000000002",
+      "symbol": "FXS",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/39951/large/FXS.png?1724902450",
+      "assetGroup": "Wrapped Frax::FXS",
+      "currencyId": "Wrapped Frax::FXS"
+    },
+    "0xfc00000000000000000000000000000000000008": {
+      "chainId": "252",
+      "decimals": 18,
+      "name": "Staked Frax USD",
+      "address": "0xfc00000000000000000000000000000000000008",
+      "symbol": "sfrxUSD",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfc00000000000000000000000000000000000008.png",
+      "assetGroup": "Staked Frax USD::sfrxUSD",
+      "currencyId": "Staked Frax USD::sfrxUSD"
+    },
+    "0xfc00000000000000000000000000000000000006": {
+      "chainId": "252",
+      "decimals": 18,
+      "name": "Frax Ether",
+      "address": "0xfc00000000000000000000000000000000000006",
+      "symbol": "wfrxETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/35848/large/wrapped-sfrxeth.png?1709894604",
+      "assetGroup": "Frax Ether::wfrxETH",
+      "currencyId": "Frax Ether::wfrxETH"
+    },
+    "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34": {
+      "chainId": "252",
+      "decimals": 18,
+      "name": "USDe",
+      "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+      "symbol": "USDe",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.png",
+      "assetGroup": "USDe::USDe",
+      "currencyId": "USDe::USDe"
+    },
+    "0x09eadcbaa812a4c076c3a6cde765dc4a22e0d775": {
+      "chainId": "252",
+      "decimals": 18,
+      "name": "Savings Dai",
+      "address": "0x09eadcbaa812a4c076c3a6cde765dc4a22e0d775",
+      "symbol": "sDAI",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x09eadcbaa812a4c076c3a6cde765dc4a22e0d775.png",
+      "assetGroup": "SDAI",
+      "currencyId": "Savings Dai::sDAI"
+    },
+    "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2": {
+      "chainId": "252",
+      "decimals": 18,
+      "name": "Staked USDe",
+      "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+      "symbol": "sUSDe",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2.png",
+      "assetGroup": "SUSDE",
+      "currencyId": "Staked USDe::sUSDe"
+    }
+  },
+  "mainTokens": ["0x4d15ea9c2573addaed814e48c148b5262694646a", "0xdcc0f2d8f90fde85b10ac1c8ab57dc0ae946a543"],
+  "bridgeTokens": ["0x4d15ea9c2573addaed814e48c148b5262694646a", "0xdcc0f2d8f90fde85b10ac1c8ab57dc0ae946a543"]
+}

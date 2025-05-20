@@ -61,7 +61,7 @@
       "name": "Wrapped BTC",
       "address": "0xc4c410459fbaf8f7f86b6cee52b4fa1282ff9704",
       "symbol": "WBTC",
-      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/167000/0xc4C410459fbaF8f7F86b6cEE52b4fA1282FF9704.png",
+      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2/logo.png",
       "assetGroup": "WBTC",
       "currencyId": "Wrapped BTC::WBTC"
     },
@@ -264,6 +264,26 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/CRV.webp",
       "assetGroup": "CRV",
       "currencyId": "Curve DAO Token::CRV"
+    },
+    "0x0c4e57a3a3ef4790c4848a711851dc08e8a16da7": {
+      "chainId": "167000",
+      "decimals": 18,
+      "name": "Swapsicle Ice",
+      "address": "0x0c4e57a3a3ef4790c4848a711851dc08e8a16da7",
+      "symbol": "ICE",
+      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0xe914f36c0bcf7472a6b8f309de3b45c5bce79931/logo.svg",
+      "assetGroup": "Swapsicle Ice::ICE",
+      "currencyId": "Swapsicle Ice::ICE"
+    },
+    "0x8330f9781099a8d0fe97b6f0f165cae813ec3732": {
+      "chainId": "167000",
+      "decimals": 18,
+      "name": "Robinos",
+      "address": "0x8330f9781099a8d0fe97b6f0f165cae813ec3732",
+      "symbol": "RBN",
+      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xfB319EA5DDEd8cFe8Bcf9c720ed380b98874Bf63/logo.png",
+      "assetGroup": "Robinos::RBN",
+      "currencyId": "Robinos::RBN"
     }
   },
   "mainTokens": [

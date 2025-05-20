@@ -1284,7 +1284,7 @@
       "name": "Synth sBTC",
       "address": "0x298b9b95708152ff6968aafd889c6586e9169f1d",
       "symbol": "sBTC",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/1638173081277_6785575667049477.png",
+      "logoURI": "https://optimistic.etherscan.io/token/images/Synthetix_sBTC_32.png",
       "assetGroup": "Synth sBTC::sBTC",
       "currencyId": "Synth sBTC::sBTC",
       "tags": ["openocean"]
@@ -1723,6 +1723,7 @@
       "name": "Aave v3 LINK",
       "address": "0x191c10aa4af7c30e871e70c95db0e4eb77237530",
       "symbol": "aOptLINK",
+      "logoURI": "https://assets.coingecko.com/coins/images/32888/large/link.png?1699773900",
       "assetGroup": "Aave v3 LINK::aOptLINK",
       "currencyId": "Aave v3 LINK::aOptLINK",
       "tags": ["debridge"]
@@ -2089,6 +2090,7 @@
       "name": "Aave v3 AAVE",
       "address": "0xf329e36c7bf6e5e86ce2150875a84ce77f477375",
       "symbol": "aOptAAVE",
+      "logoURI": "https://assets.coingecko.com/coins/images/32887/large/aave.png?1699773604",
       "assetGroup": "Aave v3 AAVE::aOptAAVE",
       "currencyId": "Aave v3 AAVE::aOptAAVE",
       "tags": ["debridge"]
@@ -2460,6 +2462,7 @@
       "name": "Gyroscope GYD",
       "address": "0xca5d8f8a8d49439357d3cf46ca2e720702f132b8",
       "symbol": "GYD",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xca5d8f8a8d49439357d3cf46ca2e720702f132b8.png",
       "assetGroup": "Gyroscope GYD::GYD",
       "currencyId": "Gyroscope GYD::GYD",
       "tags": ["debridge"]
@@ -3141,6 +3144,7 @@
       "name": "Overnight Finance",
       "address": "0x3b08fcd15280e7b5a6e404c4abb87f7c774d1b2e",
       "symbol": "OVN",
+      "logoURI": "https://assets.coingecko.com/coins/images/31970/large/OVN.png?1696959174",
       "assetGroup": "Overnight Finance::OVN",
       "currencyId": "Overnight Finance::OVN",
       "tags": ["debridge"]
@@ -3305,6 +3309,660 @@
       "assetGroup": "WILDCOIN::WILDCOIN",
       "currencyId": "WILDCOIN::WILDCOIN",
       "tags": ["debridge"]
+    },
+    "0xa4e597c1bd01859b393b124ce18427aa4426a871": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Beets Reaper Granary Boosted OP",
+      "address": "0xa4e597c1bd01859b393b124ce18427aa4426a871",
+      "symbol": "bb-rf-grOP",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa4e597c1bd01859b393b124ce18427aa4426a871.png",
+      "assetGroup": "Beets Reaper Granary Boosted OP::bb-rf-grOP",
+      "currencyId": "Beets Reaper Granary Boosted OP::bb-rf-grOP"
+    },
+    "0x6222ae1d2a9f6894da50aa25cb7b303497f9bebd": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Steady Beets, Boosted",
+      "address": "0x6222ae1d2a9f6894da50aa25cb7b303497f9bebd",
+      "symbol": "bb-rf-aUSD",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6222ae1d2a9f6894da50aa25cb7b303497f9bebd.png",
+      "assetGroup": "Steady Beets, Boosted::bb-rf-aUSD",
+      "currencyId": "Steady Beets, Boosted::bb-rf-aUSD"
+    },
+    "0x97513e975a7fa9072c72c92d8000b0db90b163c5": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "multiBeets",
+      "address": "0x97513e975a7fa9072c72c92d8000b0db90b163c5",
+      "symbol": "multiBeets",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x97513e975a7fa9072c72c92d8000b0db90b163c5.png",
+      "assetGroup": "multiBeets::multiBeets",
+      "currencyId": "multiBeets::multiBeets"
+    },
+    "0xd0d334b6cfd77acc94bab28c7783982387856449": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Beets Reaper Granary Boosted BAL",
+      "address": "0xd0d334b6cfd77acc94bab28c7783982387856449",
+      "symbol": "bb-rf-grBAL",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd0d334b6cfd77acc94bab28c7783982387856449.png",
+      "assetGroup": "Beets Reaper Granary Boosted BAL::bb-rf-grBAL",
+      "currencyId": "Beets Reaper Granary Boosted BAL::bb-rf-grBAL"
+    },
+    "0xc0d7013a05860271a1edb52415cf74bc85b2ace7": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Beets Reaper Aave Boosted sUSD",
+      "address": "0xc0d7013a05860271a1edb52415cf74bc85b2ace7",
+      "symbol": "bb-rf-asUSD",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc0d7013a05860271a1edb52415cf74bc85b2ace7.png",
+      "assetGroup": "Beets Reaper Aave Boosted sUSD::bb-rf-asUSD",
+      "currencyId": "Beets Reaper Aave Boosted sUSD::bb-rf-asUSD"
+    },
+    "0x9f46a936be9114bd2f71965a87c003341448b47e": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "JARVIS",
+      "address": "0x9f46a936be9114bd2f71965a87c003341448b47e",
+      "symbol": "JARVIS",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9f46a936be9114bd2f71965a87c003341448b47e.png",
+      "assetGroup": "JARVIS::JARVIS",
+      "currencyId": "JARVIS::JARVIS"
+    },
+    "0x88dfaaabaf06f3a41d2606ea98bc8eda109abebb": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Axelar Wrapped WMAI",
+      "address": "0x88dfaaabaf06f3a41d2606ea98bc8eda109abebb",
+      "symbol": "axlWMAI",
+      "assetGroup": "Axelar Wrapped WMAI::axlWMAI",
+      "currencyId": "Axelar Wrapped WMAI::axlWMAI",
+      "tags": ["axelar", "bridged"]
+    },
+    "0x39fde572a18448f8139b7788099f0a0740f51205": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "OATH",
+      "address": "0x39fde572a18448f8139b7788099f0a0740f51205",
+      "symbol": "OATHv1",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x39fde572a18448f8139b7788099f0a0740f51205.png",
+      "assetGroup": "OATH::OATHv1",
+      "currencyId": "OATH::OATHv1"
+    },
+    "0xd6909e9e702024eb93312b989ee46794c0fb1c9d": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Biconomy Token",
+      "address": "0xd6909e9e702024eb93312b989ee46794c0fb1c9d",
+      "symbol": "BICO",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd6909e9e702024eb93312b989ee46794c0fb1c9d.png",
+      "assetGroup": "Biconomy Token::BICO",
+      "currencyId": "Biconomy Token::BICO"
+    },
+    "0xa348700745d249c3b49d2c2acac9a5ae8155f826": {
+      "chainId": "10",
+      "decimals": 6,
+      "name": "Wrapped USD+",
+      "address": "0xa348700745d249c3b49d2c2acac9a5ae8155f826",
+      "symbol": "wUSD+",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa348700745d249c3b49d2c2acac9a5ae8155f826.png",
+      "assetGroup": "Wrapped USD+::wUSD+",
+      "currencyId": "Wrapped USD+::wUSD+"
+    },
+    "0xc96f4f893286137ac17e07ae7f217ffca5db3ab6": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "NFTEarth",
+      "address": "0xc96f4f893286137ac17e07ae7f217ffca5db3ab6",
+      "symbol": "NFTE",
+      "logoURI": "https://assets.coingecko.com/coins/images/29116/large/20230223_224134.jpg?1677224110",
+      "assetGroup": "NFTEarth::NFTE",
+      "currencyId": "NFTEarth::NFTE"
+    },
+    "0x3e9cbffd270ae67abb09d28988e7e785498c7373": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Beets Reaper Boosted OP",
+      "address": "0x3e9cbffd270ae67abb09d28988e7e785498c7373",
+      "symbol": "bb-rfOP",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3e9cBFfd270AE67aBB09D28988e7e785498c7373.png",
+      "assetGroup": "Beets Reaper Boosted OP::bb-rfOP",
+      "currencyId": "Beets Reaper Boosted OP::bb-rfOP"
+    },
+    "0xc83c23dba4a008d7df46cd50ad144ae856b6b1be": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Reaper.Farm Aave sUSD Vault",
+      "address": "0xc83c23dba4a008d7df46cd50ad144ae856b6b1be",
+      "symbol": "rf-a-sUSD",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc83c23DBA4a008d7Df46cd50Ad144ae856b6B1Be.png",
+      "assetGroup": "Reaper.Farm Aave sUSD Vault::rf-a-sUSD",
+      "currencyId": "Reaper.Farm Aave sUSD Vault::rf-a-sUSD"
+    },
+    "0x0c5b4c92c948691eebf185c17eeb9c230dc019e9": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Pickle Finance",
+      "address": "0x0c5b4c92c948691eebf185c17eeb9c230dc019e9",
+      "symbol": "PICKLE",
+      "logoURI": "https://assets.coingecko.com/coins/images/12435/large/0M4W6Yr6_400x400.jpg?1643006080",
+      "assetGroup": "PICKLE",
+      "currencyId": "Pickle Finance::PICKLE"
+    },
+    "0xc4ee406970047a70aed14621d97b3b460a7dea0b": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Balancer SWEEP-USDC StablePool",
+      "address": "0xc4ee406970047a70aed14621d97b3b460a7dea0b",
+      "symbol": "SWEEP-USDC-BPT",
+      "assetGroup": "Balancer SWEEP-USDC StablePool::SWEEP-USDC-BPT",
+      "currencyId": "Balancer SWEEP-USDC StablePool::SWEEP-USDC-BPT"
+    },
+    "0xb88a5ac00917a02d82c7cd6cebd73e2852d43574": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "SweepCoin",
+      "address": "0xb88a5ac00917a02d82c7cd6cebd73e2852d43574",
+      "symbol": "SWEEP",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb88a5ac00917a02d82c7cd6cebd73e2852d43574.png",
+      "assetGroup": "SweepCoin::SWEEP",
+      "currencyId": "SweepCoin::SWEEP"
+    },
+    "0xbd80cfa9d93a87d1bb895f810ea348e496611cd4": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Own a fraction",
+      "address": "0xbd80cfa9d93a87d1bb895f810ea348e496611cd4",
+      "symbol": "FRACTION",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbd80cfa9d93a87d1bb895f810ea348e496611cd4.png",
+      "assetGroup": "Own a fraction::FRACTION",
+      "currencyId": "Own a fraction::FRACTION"
+    },
+    "0x6d2e5b8841a6aa5f0f973436357f75d3eeb93312": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "VMEX Token",
+      "address": "0x6d2e5b8841a6aa5f0f973436357f75d3eeb93312",
+      "symbol": "VMEX",
+      "logoURI": "https://assets.coingecko.com/coins/images/33934/large/VMEX_3072x3072.jpg?1703500846",
+      "assetGroup": "VMEX Token::VMEX",
+      "currencyId": "VMEX Token::VMEX"
+    },
+    "0xd1cac46a9a77169c310c2c780a4267ee6ca884f5": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Epoch",
+      "address": "0xd1cac46a9a77169c310c2c780a4267ee6ca884f5",
+      "symbol": "EPOCH",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd1cac46a9a77169c310c2c780a4267ee6ca884f5.png",
+      "assetGroup": "Epoch::EPOCH",
+      "currencyId": "Epoch::EPOCH"
+    },
+    "0x9f281eb58fd98ad98ede0fc4c553ad4d73e7ca2c": {
+      "chainId": "10",
+      "decimals": 6,
+      "name": "Static Aave Ethereum USDC.e",
+      "address": "0x9f281eb58fd98ad98ede0fc4c553ad4d73e7ca2c",
+      "symbol": "AaveUSDCe",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png",
+      "assetGroup": "Static Aave Ethereum USDC.e::AaveUSDCe",
+      "currencyId": "Static Aave Ethereum USDC.e::AaveUSDCe"
+    },
+    "0x4dd03dfd36548c840b563745e3fbec320f37ba7e": {
+      "chainId": "10",
+      "decimals": 6,
+      "name": "Static Aave Optimism USDCn",
+      "address": "0x4dd03dfd36548c840b563745e3fbec320f37ba7e",
+      "symbol": "waUSDCn",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe719aef17468c7e10c0c205be62c990754dff7e5.png",
+      "assetGroup": "Static Aave Optimism USDCn::waUSDCn",
+      "currencyId": "Static Aave Optimism USDCn::waUSDCn"
+    },
+    "0x035c93db04e5aaea54e6cd0261c492a3e0638b37": {
+      "chainId": "10",
+      "decimals": 6,
+      "name": "Static Aave Optimism USDT",
+      "address": "0x035c93db04e5aaea54e6cd0261c492a3e0638b37",
+      "symbol": "waUSDT",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf8fd466f12e236f4c96f7cce6c79eadb819abf58.png",
+      "assetGroup": "Static Aave Optimism USDT::waUSDT",
+      "currencyId": "Static Aave Optimism USDT::waUSDT"
+    },
+    "0x6630ae120dbda654c18f04eb82ee89c54493378d": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "OVERPOWERED",
+      "address": "0x6630ae120dbda654c18f04eb82ee89c54493378d",
+      "symbol": "$OVERPOWERED",
+      "assetGroup": "OVERPOWERED::$OVERPOWERED",
+      "currencyId": "OVERPOWERED::$OVERPOWERED"
+    },
+    "0x79af5dd14e855823fa3e9ecacdf001d99647d043": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Jarvis Synthetic Euro",
+      "address": "0x79af5dd14e855823fa3e9ecacdf001d99647d043",
+      "symbol": "jEUR",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x79af5dd14e855823fa3e9ecacdf001d99647d043.png",
+      "assetGroup": "JEUR",
+      "currencyId": "Jarvis Synthetic Euro::jEUR"
+    },
+    "0x676f784d19c7f1ac6c6beaeaac78b02a73427852": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Optimism Prime",
+      "address": "0x676f784d19c7f1ac6c6beaeaac78b02a73427852",
+      "symbol": "OPP",
+      "logoURI": "https://gitlab.com/optimism-prime/logos/-/raw/main/OPP.png",
+      "assetGroup": "Optimism Prime::OPP",
+      "currencyId": "Optimism Prime::OPP"
+    },
+    "0xfbc4198702e81ae77c06d58f81b629bdf36f0a71": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Synth sEUR",
+      "address": "0xfbc4198702e81ae77c06d58f81b629bdf36f0a71",
+      "symbol": "sEUR",
+      "logoURI": "https://optimistic.etherscan.io/token/images/synthetixeuro_32.png",
+      "assetGroup": "Synth sEUR::sEUR",
+      "currencyId": "Synth sEUR::sEUR"
+    },
+    "0x326aec8d7d99d1d6022c57c5f6194d2a7867227d": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "TST",
+      "address": "0x326aec8d7d99d1d6022c57c5f6194d2a7867227d",
+      "symbol": "TST",
+      "assetGroup": "TST::TST",
+      "currencyId": "TST::TST"
+    },
+    "0xe0b197133ec7e2db9cb574b1e3da21b93f6e3cbf": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "XYZ",
+      "address": "0xe0b197133ec7e2db9cb574b1e3da21b93f6e3cbf",
+      "symbol": "XYZ",
+      "assetGroup": "XYZ::XYZ",
+      "currencyId": "XYZ::XYZ"
+    },
+    "0x455ba8e4c6dff2453e78cef92625b38c93f4f3dd": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "BTC 2x Short",
+      "address": "0x455ba8e4c6dff2453e78cef92625b38c93f4f3dd",
+      "symbol": "BTC2S",
+      "assetGroup": "BTC 2x Short::BTC2S",
+      "currencyId": "BTC 2x Short::BTC2S"
+    },
+    "0xc63529297de076eb15fcbe873ae9136e446cfbb9": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Gyroscope",
+      "address": "0xc63529297de076eb15fcbe873ae9136e446cfbb9",
+      "symbol": "GYFI",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc63529297de076eb15fcbe873ae9136e446cfbb9.png",
+      "assetGroup": "Gyroscope::GYFI",
+      "currencyId": "Gyroscope::GYFI"
+    },
+    "0xfd28f108e95f4d41daae9dbfff707d677985998e": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Parallel Governance Token",
+      "address": "0xfd28f108e95f4d41daae9dbfff707d677985998e",
+      "symbol": "PRL",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfd28f108e95f4d41daae9dbfff707d677985998e.png",
+      "assetGroup": "Parallel Governance Token::PRL",
+      "currencyId": "Parallel Governance Token::PRL"
+    },
+    "0x61b620fad391b53a2d0973b10a3ed69558d5c66e": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Wrapped Aave Optimism DAI",
+      "address": "0x61b620fad391b53a2d0973b10a3ed69558d5c66e",
+      "symbol": "waOptDAI",
+      "assetGroup": "Wrapped Aave Optimism DAI::waOptDAI",
+      "currencyId": "Wrapped Aave Optimism DAI::waOptDAI"
+    },
+    "0x464b808c2c7e04b07e860fdf7a91870620246148": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Wrapped Aave Optimism WETH",
+      "address": "0x464b808c2c7e04b07e860fdf7a91870620246148",
+      "symbol": "waOptWETH",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0bfc9d54fc184518a81162f8fb99c2eaca081202.png",
+      "assetGroup": "Wrapped Aave Optimism WETH::waOptWETH",
+      "currencyId": "Wrapped Aave Optimism WETH::waOptWETH"
+    },
+    "0x927cff131fd5b43fc992d071929b2c095d6e4b70": {
+      "chainId": "10",
+      "decimals": 6,
+      "name": "Wrapped Aave Optimism USDT",
+      "address": "0x927cff131fd5b43fc992d071929b2c095d6e4b70",
+      "symbol": "waOptUSDT",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7bc3485026ac48b6cf9baf0a377477fff5703af8.png",
+      "assetGroup": "Wrapped Aave Optimism USDT::waOptUSDT",
+      "currencyId": "Wrapped Aave Optimism USDT::waOptUSDT"
+    },
+    "0xea9020a9e04c557478dad749a1aad242b443042c": {
+      "chainId": "10",
+      "decimals": 8,
+      "name": "Wrapped Aave Optimism WBTC",
+      "address": "0xea9020a9e04c557478dad749a1aad242b443042c",
+      "symbol": "waOptWBTC",
+      "assetGroup": "Wrapped Aave Optimism WBTC::waOptWBTC",
+      "currencyId": "Wrapped Aave Optimism WBTC::waOptWBTC"
+    },
+    "0xbaf95bb30cdab3d5b7a11b67edef5631bd62be86": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Wrapped Aave Optimism wstETH",
+      "address": "0xbaf95bb30cdab3d5b7a11b67edef5631bd62be86",
+      "symbol": "waOptwstETH",
+      "assetGroup": "Wrapped Aave Optimism wstETH::waOptwstETH",
+      "currencyId": "Wrapped Aave Optimism wstETH::waOptwstETH"
+    },
+    "0x41b334e9f2c0ed1f30fd7c351874a6071c53a78e": {
+      "chainId": "10",
+      "decimals": 6,
+      "name": "Wrapped Aave Optimism USDCn",
+      "address": "0x41b334e9f2c0ed1f30fd7c351874a6071c53a78e",
+      "symbol": "waOptUSDCn",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd4fa2d31b7968e448877f69a96de69f5de8cd23e.png",
+      "assetGroup": "Wrapped Aave Optimism USDCn::waOptUSDCn",
+      "currencyId": "Wrapped Aave Optimism USDCn::waOptUSDCn"
+    },
+    "0x712ef4d78f43ecafa106ea003704a908c99d7f11": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Wrapped Aave Optimism OP",
+      "address": "0x712ef4d78f43ecafa106ea003704a908c99d7f11",
+      "symbol": "waOptOP",
+      "assetGroup": "Wrapped Aave Optimism OP::waOptOP",
+      "currencyId": "Wrapped Aave Optimism OP::waOptOP"
+    },
+    "0x8e6a81b9d541a0cea090818b62c4b2de7f2a2cf7": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Wrapped Aave Optimism rETH",
+      "address": "0x8e6a81b9d541a0cea090818b62c4b2de7f2a2cf7",
+      "symbol": "waOptrETH",
+      "assetGroup": "Wrapped Aave Optimism rETH::waOptrETH",
+      "currencyId": "Wrapped Aave Optimism rETH::waOptrETH"
+    },
+    "0x0b590ef479c8e03825ae779839acb4583acc15fd": {
+      "chainId": "10",
+      "decimals": 6,
+      "name": "Wrapped Aave Optimism USDC",
+      "address": "0x0b590ef479c8e03825ae779839acb4583acc15fd",
+      "symbol": "waOptUSDC",
+      "assetGroup": "Wrapped Aave Optimism USDC::waOptUSDC",
+      "currencyId": "Wrapped Aave Optimism USDC::waOptUSDC"
+    },
+    "0xc438643b0eee8a314eec53eb8a1ee6467c88fc24": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Wrapped Aave Optimism LINK",
+      "address": "0xc438643b0eee8a314eec53eb8a1ee6467c88fc24",
+      "symbol": "waOptLINK",
+      "assetGroup": "Wrapped Aave Optimism LINK::waOptLINK",
+      "currencyId": "Wrapped Aave Optimism LINK::waOptLINK"
+    },
+    "0x527604e4d87a7562ec653dbe2878d0dcab7f1972": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Wrapped Aave Optimism AAVE",
+      "address": "0x527604e4d87a7562ec653dbe2878d0dcab7f1972",
+      "symbol": "waOptAAVE",
+      "assetGroup": "Wrapped Aave Optimism AAVE::waOptAAVE",
+      "currencyId": "Wrapped Aave Optimism AAVE::waOptAAVE"
+    },
+    "0x0ec63a55a688e5ba26afe8d9250114505e8b60a0": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Wrapped Aave Optimism SUSD",
+      "address": "0x0ec63a55a688e5ba26afe8d9250114505e8b60a0",
+      "symbol": "waOptSUSD",
+      "assetGroup": "Wrapped Aave Optimism SUSD::waOptSUSD",
+      "currencyId": "Wrapped Aave Optimism SUSD::waOptSUSD"
+    },
+    "0x413093e03d6aee4f2f7e48d4b88881bf4932b249": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Wrapped Aave Optimism LUSD",
+      "address": "0x413093e03d6aee4f2f7e48d4b88881bf4932b249",
+      "symbol": "waOptLUSD",
+      "assetGroup": "Wrapped Aave Optimism LUSD::waOptLUSD",
+      "currencyId": "Wrapped Aave Optimism LUSD::waOptLUSD"
+    },
+    "0x5bff88ca1442c2496f7e475e9e7786383bc070c0": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Staked Frax USD",
+      "address": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
+      "symbol": "sfrxUSD",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/sfrxusd.png",
+      "assetGroup": "Staked Frax USD::sfrxUSD",
+      "currencyId": "Staked Frax USD::sfrxUSD"
+    },
+    "0x43edd7f3831b08fe70b7555ddd373c8bf65a9050": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Frax Ether",
+      "address": "0x43edd7f3831b08fe70b7555ddd373c8bf65a9050",
+      "symbol": "frxETH",
+      "assetGroup": "Frax Ether::frxETH",
+      "currencyId": "Frax Ether::frxETH"
+    },
+    "0x3ec3849c33291a9ef4c5db86de593eb4a37fde45": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Staked Frax Ether",
+      "address": "0x3ec3849c33291a9ef4c5db86de593eb4a37fde45",
+      "symbol": "sfrxETH",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/sfrxETH.png",
+      "assetGroup": "Staked Frax Ether::sfrxETH",
+      "currencyId": "Staked Frax Ether::sfrxETH"
+    },
+    "0x64445f0aecc51e94ad52d8ac56b7190e764e561a": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Wrapped Frax",
+      "address": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+      "symbol": "WFRAX",
+      "assetGroup": "Wrapped Frax::WFRAX",
+      "currencyId": "Wrapped Frax::WFRAX"
+    },
+    "0x764ad60e1b81f6cacfec1a2926393d688d4493e6": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "AladdinCRV",
+      "address": "0x764ad60e1b81f6cacfec1a2926393d688d4493e6",
+      "symbol": "aCRV",
+      "logoURI": "https://ethereum-optimism.github.io/data/aCRV/logo.svg",
+      "assetGroup": "AladdinCRV::aCRV",
+      "currencyId": "AladdinCRV::aCRV"
+    },
+    "0xdb9888b842408b0b8efa1f5477bd9f351754999e": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "BAXagent Coin",
+      "address": "0xdb9888b842408b0b8efa1f5477bd9f351754999e",
+      "symbol": "BAXA",
+      "logoURI": "https://ethereum-optimism.github.io/data/BAXA/logo.svg",
+      "assetGroup": "BAXagent Coin::BAXA",
+      "currencyId": "BAXagent Coin::BAXA"
+    },
+    "0xc98b98d17435aa00830c87ea02474c5007e1f272": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "BitBTC",
+      "address": "0xc98b98d17435aa00830c87ea02474c5007e1f272",
+      "symbol": "BitBTC",
+      "logoURI": "https://ethereum-optimism.github.io/data/BitBTC/logo.png",
+      "assetGroup": "BitBTC::BitBTC",
+      "currencyId": "BitBTC::BitBTC"
+    },
+    "0x0e49ca6ea763190084c846d3fc18f28bc2ac689a": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Unit protocol",
+      "address": "0x0e49ca6ea763190084c846d3fc18f28bc2ac689a",
+      "symbol": "DUCK",
+      "logoURI": "https://ethereum-optimism.github.io/data/DUCK/logo.png",
+      "assetGroup": "Unit protocol::DUCK",
+      "currencyId": "Unit protocol::DUCK"
+    },
+    "0x7b0bcc23851bbf7601efc9e9fe532bf5284f65d3": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Erica Social Token",
+      "address": "0x7b0bcc23851bbf7601efc9e9fe532bf5284f65d3",
+      "symbol": "EST",
+      "logoURI": "https://ethereum-optimism.github.io/data/EST/logo.png",
+      "assetGroup": "Erica Social Token::EST",
+      "currencyId": "Erica Social Token::EST"
+    },
+    "0x3bb4445d30ac020a84c1b5a8a2c6248ebc9779d0": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Theranos Coin",
+      "address": "0x3bb4445d30ac020a84c1b5a8a2c6248ebc9779d0",
+      "symbol": "LIZ",
+      "logoURI": "https://ethereum-optimism.github.io/data/LIZ/logo.png",
+      "assetGroup": "Theranos Coin::LIZ",
+      "currencyId": "Theranos Coin::LIZ"
+    },
+    "0x0b3e851cf6508a16266bc68a651ea68b31ef673b": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Loopfi",
+      "address": "0x0b3e851cf6508a16266bc68a651ea68b31ef673b",
+      "symbol": "LPF",
+      "logoURI": "https://ethereum-optimism.github.io/data/LPF/logo.svg",
+      "assetGroup": "Loopfi::LPF",
+      "currencyId": "Loopfi::LPF"
+    },
+    "0x5e70affe232e2919792f77eb94e566db0320fa88": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Monetum",
+      "address": "0x5e70affe232e2919792f77eb94e566db0320fa88",
+      "symbol": "MOM",
+      "logoURI": "https://ethereum-optimism.github.io/data/MOM/logo.svg",
+      "assetGroup": "Monetum::MOM",
+      "currencyId": "Monetum::MOM"
+    },
+    "0xfa956eb0c4b3e692ad5a6b2f08170ade55999aca": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "PhunToken",
+      "address": "0xfa956eb0c4b3e692ad5a6b2f08170ade55999aca",
+      "symbol": "PHTK",
+      "logoURI": "https://ethereum-optimism.github.io/data/PHTK/logo.svg",
+      "assetGroup": "PhunToken::PHTK",
+      "currencyId": "PhunToken::PHTK"
+    },
+    "0xeaeadac73baaf4cb8b024de9d65b2eefa722856c": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Respawn Finance Wrapped Staked Ethereum",
+      "address": "0xeaeadac73baaf4cb8b024de9d65b2eefa722856c",
+      "symbol": "RFWSTETH",
+      "logoURI": "https://ethereum-optimism.github.io/data/RFWSTETH/logo.svg",
+      "assetGroup": "Respawn Finance Wrapped Staked Ethereum::RFWSTETH",
+      "currencyId": "Respawn Finance Wrapped Staked Ethereum::RFWSTETH"
+    },
+    "0xc5db22719a06418028a40a9b5e9a7c02959d0d08": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Synthetic Chainlink",
+      "address": "0xc5db22719a06418028a40a9b5e9a7c02959d0d08",
+      "symbol": "sLINK",
+      "logoURI": "https://ethereum-optimism.github.io/data/sLINK/logo.svg",
+      "assetGroup": "Synthetic Chainlink::sLINK",
+      "currencyId": "Synthetic Chainlink::sLINK"
+    },
+    "0xd8f365c2c85648f9b89d9f1bf72c0ae4b1c36cfd": {
+      "chainId": "10",
+      "decimals": 16,
+      "name": "TheDAO",
+      "address": "0xd8f365c2c85648f9b89d9f1bf72c0ae4b1c36cfd",
+      "symbol": "TheDAO",
+      "logoURI": "https://ethereum-optimism.github.io/data/TheDAO/logo.svg",
+      "assetGroup": "TheDAO::TheDAO",
+      "currencyId": "TheDAO::TheDAO"
+    },
+    "0x7113370218f31764c1b6353bdf6004d86ff6b9cc": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Decentralized USD",
+      "address": "0x7113370218f31764c1b6353bdf6004d86ff6b9cc",
+      "symbol": "USDD",
+      "logoURI": "https://ethereum-optimism.github.io/data/USDD/logo.png",
+      "assetGroup": "Decentralized USD::USDD",
+      "currencyId": "Decentralized USD::USDD"
+    },
+    "0xba28feb4b6a6b81e3f26f08b83a19e715c4294fd": {
+      "chainId": "10",
+      "decimals": 6,
+      "name": "UST (Wormhole)",
+      "address": "0xba28feb4b6a6b81e3f26f08b83a19e715c4294fd",
+      "symbol": "UST",
+      "logoURI": "https://ethereum-optimism.github.io/data/UST/logo.png",
+      "assetGroup": "UST (Wormhole)::UST",
+      "currencyId": "UST (Wormhole)::UST",
+      "tags": ["wormhole", "bridged"]
+    },
+    "0x0a9aaa1c7542b42233ac7ffda364e97ade21f160": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Validator",
+      "address": "0x0a9aaa1c7542b42233ac7ffda364e97ade21f160",
+      "symbol": "VALX",
+      "logoURI": "https://ethereum-optimism.github.io/data/VALX/logo.png",
+      "assetGroup": "Validator::VALX",
+      "currencyId": "Validator::VALX"
+    },
+    "0x678d8f4ba8dfe6bad51796351824dcceceaeff2b": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "veKwenta",
+      "address": "0x678d8f4ba8dfe6bad51796351824dcceceaeff2b",
+      "symbol": "veKWENTA",
+      "logoURI": "https://ethereum-optimism.github.io/data/veKWENTA/logo.svg",
+      "assetGroup": "veKwenta::veKWENTA",
+      "currencyId": "veKwenta::veKWENTA"
+    },
+    "0x703d57164ca270b0b330a87fd159cfef1490c0a5": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "WardenSwap",
+      "address": "0x703d57164ca270b0b330a87fd159cfef1490c0a5",
+      "symbol": "WAD",
+      "logoURI": "https://ethereum-optimism.github.io/data/WAD/logo.png",
+      "assetGroup": "WardenSwap::WAD",
+      "currencyId": "WardenSwap::WAD"
+    },
+    "0xe4f27b04cc7729901876b44f4eaa5102ec150265": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "CryptoFranc",
+      "address": "0xe4f27b04cc7729901876b44f4eaa5102ec150265",
+      "symbol": "XCHF",
+      "logoURI": "https://ethereum-optimism.github.io/data/XCHF/logo.png",
+      "assetGroup": "CryptoFranc::XCHF",
+      "currencyId": "CryptoFranc::XCHF"
+    },
+    "0x3d51a9fb5dcc87f7b237b04975559b920a9a56ff": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "POPSToken",
+      "address": "0x3d51a9fb5dcc87f7b237b04975559b920a9a56ff",
+      "symbol": "POPS",
+      "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x240248628B7B6850352764C5dFa50D1592A033A8/logo.svg",
+      "assetGroup": "POPSToken::POPS",
+      "currencyId": "POPSToken::POPS"
     }
   },
   "mainTokens": [
