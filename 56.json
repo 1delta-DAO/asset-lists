@@ -2171,7 +2171,7 @@
       "symbol": "PBR",
       "logoURI": "https://assets.coingecko.com/coins/images/13744/large/symbol-whitebg200x200.png?1611377553",
       "assetGroup": "PBR",
-      "currencyId": "PolkaBridge::PBR",
+      "currencyId": "PolkaBridge (OLD)::PBR",
       "tags": ["debridge"]
     },
     "0xed28a457a5a76596ac48d87c0f577020f6ea1c4c": {
@@ -6776,7 +6776,7 @@
       "address": "0xc3cac4ae38ccf6985ef9039acc1abbc874ddcbb0",
       "symbol": "axlSTARS",
       "logoURI": "https://tokens.pancakeswap.finance/images/0xC3CAC4AE38cCf6985EF9039ACC1abBc874DdcBB0.png",
-      "assetGroup": "STARS",
+      "assetGroup": "Axelar Wrapped STARS::axlSTARS",
       "currencyId": "Axelar Wrapped STARS::axlSTARS",
       "tags": ["axelar", "bridged", "coingecko", "debridge"]
     },
@@ -40254,6 +40254,17 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55901/thumb/naiive.jpg?1747644750",
       "assetGroup": "naiive::NAIIVE",
       "currencyId": "naiive::NAIIVE",
+      "tags": ["coingecko"]
+    },
+    "0x5dbde81fce337ff4bcaaee4ca3466c00aecae274": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Alaya AI",
+      "address": "0x5dbde81fce337ff4bcaaee4ca3466c00aecae274",
+      "symbol": "AGT",
+      "logoURI": "https://assets.coingecko.com/coins/images/55830/thumb/alaya-ai-logo.jpg?1747390654",
+      "assetGroup": "Alaya AI::AGT",
+      "currencyId": "Alaya AI::AGT",
       "tags": ["coingecko"]
     }
   },

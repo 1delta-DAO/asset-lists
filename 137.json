@@ -588,7 +588,7 @@
       "address": "0x464f540ef8c72bbbec620dfb12fcb55d1989d861",
       "symbol": "BIRD",
       "logoURI": "https://assets.coingecko.com/coins/images/13260/large/favicon-180x180.png?1611546646",
-      "assetGroup": "BIRD",
+      "assetGroup": "Bird Money::BIRD",
       "currencyId": "Bird Money::BIRD"
     },
     "0x280724409b288de06c6d66c05965d3d456e2283a": {
@@ -1370,7 +1370,7 @@
       "address": "0x314338767151e6ed23db8a41c6f6943c1958ee56",
       "symbol": "DEC",
       "logoURI": "https://assets.coingecko.com/coins/images/11816/large/Decentr.png?1594637985",
-      "assetGroup": "DEC",
+      "assetGroup": "Decentr::DEC",
       "currencyId": "Decentr::DEC"
     },
     "0x8a2870fb69a90000d6439b7adfb01d4ba383a415": {
@@ -1669,7 +1669,7 @@
       "address": "0x2b34c0efb7eeb5bed0a7253581db085171dacb71",
       "symbol": "DUCK",
       "logoURI": "https://assets.coingecko.com/coins/images/13440/large/DLP_Duck_Token.png?1612840740",
-      "assetGroup": "DUCK",
+      "assetGroup": "DLP Duck::DUCK",
       "currencyId": "DLP Duck::DUCK"
     },
     "0x8839e639f210b80ffea73aedf51baed8dac04499": {
@@ -3474,7 +3474,7 @@
       "address": "0x65c2c7095bfdc8460d7302b6a95c66cd5d8b2cff",
       "symbol": "NFT",
       "logoURI": "https://assets.coingecko.com/coins/images/12174/large/nftprotocol_32.png?1597818115",
-      "assetGroup": "NFT",
+      "assetGroup": "NFT Protocol::NFT",
       "currencyId": "NFT Protocol::NFT"
     },
     "0xd7a2dc75ea2057b3949f9e1dbdf3480203dbe26a": {
@@ -5182,7 +5182,8 @@
       "symbol": "TXL",
       "logoURI": "https://assets.coingecko.com/coins/images/12432/large/txl.png?1646463631",
       "assetGroup": "TXL",
-      "currencyId": "Bridged TXL::TXL"
+      "currencyId": "Bridged TXL::TXL",
+      "tags": ["bridged"]
     },
     "0xfe7ff8b5dfba93a9eab7aee447c3c72990052d93": {
       "chainId": "137",
@@ -9592,7 +9593,7 @@
       "address": "0x8eef5a82e6aa222a60f009ac18c24ee12dbf4b41",
       "symbol": "TXL",
       "logoURI": "https://tokens.debridge.finance/Logo/137/0x8eef5a82e6aa222a60f009ac18c24ee12dbf4b41/small/token-logo.png",
-      "assetGroup": "Autobahn Network::TXL",
+      "assetGroup": "TXL",
       "currencyId": "Autobahn Network::TXL",
       "tags": ["debridge"]
     },
@@ -10579,7 +10580,7 @@
       "address": "0x28767e286113ab01ee819b9398a22d6f27badb6e",
       "symbol": "Rabbit",
       "logoURI": "https://tokens.debridge.finance/Logo/137/0x28767e286113ab01ee819b9398a22d6f27badb6e/small/token-logo.png",
-      "assetGroup": "RABBIT",
+      "assetGroup": "RabbitCoin Exchange::Rabbit",
       "currencyId": "RabbitCoin Exchange::Rabbit",
       "tags": ["debridge"]
     },
@@ -10934,7 +10935,7 @@
       "name": "Ares3 Network",
       "address": "0x181feaecca4a69a793272ea06df40edf2dd0804c",
       "symbol": "ARES",
-      "assetGroup": "ARES",
+      "assetGroup": "Ares3 Network::ARES",
       "currencyId": "Ares3 Network::ARES",
       "tags": ["debridge"]
     },
@@ -11776,7 +11777,7 @@
       "address": "0x8e677ca17065ed74675bc27bcabadb7eef10a292",
       "symbol": "RAIN",
       "logoURI": "https://tokens.debridge.finance/Logo/137/0x8e677ca17065ed74675bc27bcabadb7eef10a292/small/token-logo.png",
-      "assetGroup": "RAIN",
+      "assetGroup": "Rain Coin::RAIN",
       "currencyId": "Rain Coin::RAIN",
       "tags": ["debridge"]
     },
@@ -14165,7 +14166,7 @@
       "address": "0x11a1779ae6b02bb8e7ff847919bca3e55bcbb3d5",
       "symbol": "PAPER",
       "logoURI": "https://tokens.debridge.finance/Logo/137/0x11a1779ae6b02bb8e7ff847919bca3e55bcbb3d5/small/token-logo.png",
-      "assetGroup": "PAPER",
+      "assetGroup": "Paper::PAPER",
       "currencyId": "Paper::PAPER",
       "tags": ["debridge"]
     },
@@ -15155,7 +15156,7 @@
       "address": "0xce4e6da9c509cb33c23d748713c681c959f68658",
       "symbol": "YIELD",
       "logoURI": "https://tokens.debridge.finance/Logo/137/0xce4e6da9c509cb33c23d748713c681c959f68658/small/token-logo.png",
-      "assetGroup": "YIELD",
+      "assetGroup": "PolyYield::YIELD",
       "currencyId": "PolyYield::YIELD",
       "tags": ["debridge"]
     },

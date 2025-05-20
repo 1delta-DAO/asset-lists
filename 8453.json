@@ -1906,7 +1906,7 @@
       "address": "0x5fa96ddfbd4633feb33212c934b8a8c1d061ab8f",
       "symbol": "XP",
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/WINDOGE.webp",
-      "assetGroup": "XP",
+      "assetGroup": "WindogeXP::XP",
       "currencyId": "WindogeXP::XP"
     },
     "0x4f9fd6be4a90f2620860d680c0d4d5fb53d1a825": {
@@ -2045,7 +2045,7 @@
       "address": "0x800822d361335b4d5f352dac293ca4128b5b605f",
       "symbol": "SYMM",
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/SYMM.webp",
-      "assetGroup": "MM",
+      "assetGroup": "Symmio::SYMM",
       "currencyId": "Symmio::SYMM",
       "tags": ["coingecko", "debridge"]
     },
@@ -2402,7 +2402,7 @@
       "address": "0x1aca6687a9665fb84deb7e3801e8e7ecba6ec6de",
       "symbol": "RAIN",
       "logoURI": "https://assets.coingecko.com/coins/images/53110/thumb/5ab777ba-71fa-44b5-9e34-6582d0bef7fe.jpg?1735233561",
-      "assetGroup": "RAIN",
+      "assetGroup": "Rain by Virtuals::RAIN",
       "currencyId": "Rain by Virtuals::RAIN",
       "tags": ["coingecko", "debridge"]
     },
@@ -5613,7 +5613,7 @@
       "address": "0xb18c609796848c723eacadc0be5b71ceb2289a48",
       "symbol": "ATA",
       "logoURI": "https://assets.coingecko.com/coins/images/53189/thumb/atalogo_transparent_200x200.png?1735584101",
-      "assetGroup": "ATA",
+      "assetGroup": "ATA by Virtuals::ATA",
       "currencyId": "ATA by Virtuals::ATA",
       "tags": ["coingecko", "debridge"]
     },
@@ -7889,7 +7889,7 @@
       "address": "0x4d25e94291fe8dcfbfa572cbb2aaa7b755087c91",
       "symbol": "HIGH",
       "logoURI": "https://assets.coingecko.com/coins/images/36318/thumb/high200x200.png?1711092521",
-      "assetGroup": "HIGH",
+      "assetGroup": "High::HIGH",
       "currencyId": "High::HIGH",
       "tags": ["coingecko", "debridge"]
     },
@@ -9867,7 +9867,7 @@
       "address": "0x642e993fa91ffe9fb24d39a8eb0e0663145f8e92",
       "symbol": "RABBIT",
       "logoURI": "https://assets.coingecko.com/coins/images/38843/thumb/BASED_RABBIT_200x200.png?1719202239",
-      "assetGroup": "RABBIT",
+      "assetGroup": "BASED RABBIT::RABBIT",
       "currencyId": "BASED RABBIT::RABBIT",
       "tags": ["coingecko", "debridge"]
     },
@@ -11715,7 +11715,7 @@
       "address": "0x5b2124d427fac9c80c902cbdd74b03dd85d7d3fe",
       "symbol": "DYP",
       "logoURI": "https://assets.coingecko.com/coins/images/33016/thumb/RS-zDhFE_400x400.jpg?1700157370",
-      "assetGroup": "DYP",
+      "assetGroup": "Dypius::DYP",
       "currencyId": "Dypius::DYP",
       "tags": ["coingecko", "debridge"]
     },
@@ -12628,7 +12628,7 @@
       "address": "0xd857af86a2c5b4f46fc7cb8032bd4f5625577eeb",
       "symbol": "HOKK",
       "logoURI": "https://assets.coingecko.com/coins/images/34890/thumb/IMG29529FNM3.png?1710943740",
-      "assetGroup": "HOKK",
+      "assetGroup": "Hokkaidu Inu::HOKK",
       "currencyId": "Hokkaidu Inu::HOKK",
       "tags": ["coingecko", "debridge"]
     },
@@ -19337,7 +19337,7 @@
       "address": "0xc797fc5ca8ef5502aaa0307b9bfc45e877d6caf5",
       "symbol": "SUPER",
       "logoURI": "https://assets.coingecko.com/coins/images/55873/thumb/23678_Super_Connector_5ba88a91b1.png?1747554890",
-      "assetGroup": "SUPER",
+      "assetGroup": "Super Connector::SUPER",
       "currencyId": "Super Connector::SUPER",
       "tags": ["coingecko"]
     },
@@ -19361,6 +19361,17 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55895/thumb/White_Symbol_Logo.png?1747639983",
       "assetGroup": "xLLM2::XLLM2",
       "currencyId": "xLLM2::XLLM2",
+      "tags": ["coingecko"]
+    },
+    "0x94a47aa810e85190fed418892ecbd68d5f463ff4": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "VIVI",
+      "address": "0x94a47aa810e85190fed418892ecbd68d5f463ff4",
+      "symbol": "VIVI",
+      "logoURI": "https://assets.coingecko.com/coins/images/55921/thumb/VIVI_coingecko.png?1747734839",
+      "assetGroup": "VIVI::VIVI",
+      "currencyId": "VIVI::VIVI",
       "tags": ["coingecko"]
     }
   },
@@ -19427,6 +19438,7 @@
     "0xad20523a7dc37babc1cc74897e4977232b3d02e5",
     "0xc1256ae5ff1cf2719d4937adb3bbccab2e00a2ca",
     "0x26d3c0d9f4cc4c130097b6afdebe4f5e497e6bdf",
+    "0x94a47aa810e85190fed418892ecbd68d5f463ff4",
     "0xc26c9099bd3789107888c35bb41178079b282561",
     "0x3b86ad95859b6ab773f55f8d94b4b9d443ee931f"
   ],

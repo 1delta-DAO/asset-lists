@@ -856,7 +856,7 @@
       "address": "0xbfaf328fe059c53d936876141f38089df0d1503d",
       "symbol": "MM",
       "logoURI": "https://s3.openocean.finance/token_logos/logos/fantom/0xbfaf328fe059c53d936876141f38089df0d1503d.png",
-      "assetGroup": "MM",
+      "assetGroup": "MMToken::MM",
       "currencyId": "MMToken::MM",
       "tags": ["openocean"]
     },
@@ -1802,7 +1802,7 @@
       "address": "0xea97c7c1c89d4084e0bfb88284fa90243779da9f",
       "symbol": "PAPER",
       "logoURI": "https://assets.coingecko.com/coins/images/23510/thumb/v3PAPERLogo-01.png?1696522719",
-      "assetGroup": "PAPER",
+      "assetGroup": "Paper::PAPER",
       "currencyId": "Paper::PAPER",
       "tags": ["debridge"]
     },
@@ -2396,7 +2396,7 @@
       "address": "0x13082681e8ce9bd0af505912d306403592490fc7",
       "symbol": "PAR",
       "logoURI": "https://assets.coingecko.com/coins/images/14153/thumb/par_round_200.png?1696513872",
-      "assetGroup": "PAR",
+      "assetGroup": "Parallel::PAR",
       "currencyId": "Parallel::PAR",
       "tags": ["coingecko", "debridge"]
     },

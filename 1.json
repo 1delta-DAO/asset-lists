@@ -343,7 +343,7 @@
       "address": "0x138c2f1123cf3f82e4596d097c118eac6684940b",
       "symbol": "ALPHA",
       "logoURI": "https://assets.coingecko.com/coins/images/22199/large/cgicon.png?1677062484",
-      "assetGroup": "ALPHA",
+      "assetGroup": "Alpha Coin::ALPHA",
       "currencyId": "Alpha Coin::ALPHA"
     },
     "0xa1faa113cbe53436df28ff0aee54275c13b40975": {
@@ -353,7 +353,7 @@
       "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
       "symbol": "ALPHA",
       "logoURI": "https://assets.coingecko.com/coins/images/12738/thumb/AlphaToken_256x256.png?1617160876",
-      "assetGroup": "Alpha Venture DAO::ALPHA",
+      "assetGroup": "ALPHA",
       "currencyId": "Alpha Venture DAO::ALPHA",
       "tags": ["openocean", "coingecko", "debridge"]
     },
@@ -5832,7 +5832,7 @@
       "address": "0xc5b3d3231001a776123194cf1290068e8b0c783b",
       "symbol": "LIT",
       "logoURI": "https://assets.coingecko.com/coins/images/21344/large/LitLogo_CG.png?1639990605",
-      "assetGroup": "LIT",
+      "assetGroup": "LIT::LIT",
       "currencyId": "LIT::LIT",
       "tags": ["coingecko", "debridge"]
     },
@@ -5843,7 +5843,7 @@
       "address": "0xb59490ab09a0f526cc7305822ac65f2ab12f9723",
       "symbol": "LIT",
       "logoURI": "https://assets.coingecko.com/coins/images/13825/large/logo_200x200.png?1612153317",
-      "assetGroup": "Litentry::LIT",
+      "assetGroup": "LIT",
       "currencyId": "Litentry::LIT",
       "tags": ["coingecko", "debridge"]
     },
@@ -6910,7 +6910,7 @@
       "address": "0xcb8d1260f9c92a3a545d409466280ffdd7af7042",
       "symbol": "NFT",
       "logoURI": "https://assets.coingecko.com/coins/images/12174/large/nftprotocol_32.png?1597818115",
-      "assetGroup": "NFT",
+      "assetGroup": "NFT Protocol::NFT",
       "currencyId": "NFT Protocol::NFT",
       "tags": ["coingecko", "debridge"]
     },
@@ -18065,7 +18065,7 @@
       "address": "0xbd356a39bff2cada8e9248532dd879147221cf76",
       "symbol": "WOM",
       "logoURI": "https://assets.coingecko.com/coins/images/4559/thumb/wom_logo_small.png?1696505139",
-      "assetGroup": "WOM",
+      "assetGroup": "WOM Protocol::WOM",
       "currencyId": "WOM Protocol::WOM",
       "tags": ["coingecko", "debridge"]
     },
@@ -47439,7 +47439,7 @@
       "address": "0x8802269d1283cdb2a5a329649e5cb4cdcee91ab6",
       "symbol": "FIGHT",
       "logoURI": "https://assets.coingecko.com/coins/images/39208/thumb/photo_2024-07-14_03-15-23.jpg?1721101331",
-      "assetGroup": "FIGHT",
+      "assetGroup": "Fight to MAGA::FIGHT",
       "currencyId": "Fight to MAGA::FIGHT",
       "tags": ["coingecko", "debridge"]
     },
@@ -61197,7 +61197,7 @@
       "address": "0x198d14f2ad9ce69e76ea330b374de4957c3f850a",
       "symbol": "NFT",
       "logoURI": "https://assets.coingecko.com/coins/images/15687/thumb/apenft.jpg?1696515316",
-      "assetGroup": "APENFT::NFT",
+      "assetGroup": "NFT",
       "currencyId": "APENFT::NFT",
       "tags": ["coingecko", "debridge"]
     },
@@ -69274,6 +69274,50 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55903/thumb/Kabosu_ERC20.png?1747647048",
       "assetGroup": "Kabosu ERC20::KABOSU",
       "currencyId": "Kabosu ERC20::KABOSU",
+      "tags": ["coingecko"]
+    },
+    "0x8cf5f383fd3a5a730813c61371f90b6ecddf2d3e": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "QU3ai",
+      "address": "0x8cf5f383fd3a5a730813c61371f90b6ecddf2d3e",
+      "symbol": "QU3",
+      "logoURI": "https://assets.coingecko.com/coins/images/55661/thumb/QU3_Sign_AVA_1.png?1746946172",
+      "assetGroup": "QU3ai::QU3::1",
+      "currencyId": "QU3ai::QU3",
+      "tags": ["coingecko"]
+    },
+    "0xcccccccccc33d538dbc2ee4feab0a7a1ff4e8a94": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "Centrifuge",
+      "address": "0xcccccccccc33d538dbc2ee4feab0a7a1ff4e8a94",
+      "symbol": "CFG",
+      "logoURI": "https://assets.coingecko.com/coins/images/55913/thumb/centrifuge.jpg?1747707741",
+      "assetGroup": "Centrifuge::CFG",
+      "currencyId": "Centrifuge::CFG",
+      "tags": ["coingecko"]
+    },
+    "0xae9f227a68a307afa799fa024198ba6d1d83da4b": {
+      "chainId": "1",
+      "decimals": 9,
+      "name": "Taro",
+      "address": "0xae9f227a68a307afa799fa024198ba6d1d83da4b",
+      "symbol": "TARO",
+      "logoURI": "https://assets.coingecko.com/coins/images/55916/thumb/1000041860.jpg?1747714862",
+      "assetGroup": "Taro::TARO",
+      "currencyId": "Taro::TARO",
+      "tags": ["coingecko"]
+    },
+    "0xf42845b7fd65709f251146ab373933f20e9d7c41": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "FROGO",
+      "address": "0xf42845b7fd65709f251146ab373933f20e9d7c41",
+      "symbol": "FROGO",
+      "logoURI": "https://assets.coingecko.com/coins/images/55917/thumb/artboard_4-03.png?1747733128",
+      "assetGroup": "FROGO::FROGO",
+      "currencyId": "FROGO::FROGO",
       "tags": ["coingecko"]
     }
   },
