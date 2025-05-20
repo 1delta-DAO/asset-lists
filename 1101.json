@@ -184,19 +184,19 @@
       "address": "0xa2036f0538221a77a3937f1379699f44945018d0",
       "symbol": "MATIC",
       "logoURI": "https://assets.coingecko.com/coins/images/14073/thumb/matic.png?1696513797",
-      "assetGroup": "MATIC",
-      "currencyId": "Wrapped POL::WPOL",
+      "assetGroup": "POL",
+      "currencyId": "Polygon (OLD)::MATIC",
       "tags": ["coingecko"]
     },
-    "0x22B21BedDef74FE62F031D2c5c8F7a9F8a4b304D": {
+    "0x22b21beddef74fe62f031d2c5c8f7a9f8a4b304d": {
       "chainId": "1101",
       "decimals": 18,
       "name": "Polygon",
-      "address": "0x22B21BedDef74FE62F031D2c5c8F7a9F8a4b304D",
+      "address": "0x22b21beddef74fe62f031d2c5c8f7a9f8a4b304d",
       "symbol": "POL",
       "logoURI": "https://assets.coingecko.com/coins/images/14073/thumb/matic.png?1696513797",
-      "assetGroup": "POL",
-      "currencyId": "POL",
+      "assetGroup": "Polygon::POL",
+      "currencyId": "Polygon::POL",
       "tags": ["coingecko"]
     },
     "0xdf474b7109b73b7d57926d43598d5934131136b2": {
@@ -317,7 +317,8 @@
     "0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1",
     "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4",
     "0x696c0ba235444607a1c4b93e6b34ba14928c1b60",
-    "0xd4e38eb4a9581e05de8aeb5f895916647b5933f1"
+    "0xd4e38eb4a9581e05de8aeb5f895916647b5933f1",
+    "0xa2036f0538221a77a3937f1379699f44945018d0"
   ],
   "bridgeTokens": [
     "0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9",
