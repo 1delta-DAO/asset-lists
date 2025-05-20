@@ -3090,12 +3090,12 @@
     "0x23396cf899ca06c4472205fc903bdb4de249d6fc": {
       "chainId": "56",
       "decimals": 18,
-      "name": "Wrapped USTC",
+      "name": "Wrapped UST",
       "address": "0x23396cf899ca06c4472205fc903bdb4de249d6fc",
-      "symbol": "USTC",
+      "symbol": "UST",
       "logoURI": "https://assets.coingecko.com/coins/images/15462/large/ust.png?1620910058",
-      "assetGroup": "USTC",
-      "currencyId": "Wrapped USTC::USTC",
+      "assetGroup": "UST",
+      "currencyId": "Wrapped UST::UST",
       "tags": ["openocean", "coingecko", "debridge"]
     },
     "0xed4bb33f20f32e989af975196e86019773a7cff0": {
@@ -40446,6 +40446,47 @@
       "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x240248628B7B6850352764C5dFa50D1592A033A8/logo.svg",
       "assetGroup": "POPSToken::POPS",
       "currencyId": "POPSToken::POPS"
+    },
+    "0x1912a3504e59d1c1b060bf2d371deb00b70e8796": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "NFTEarthOFT",
+      "address": "0x1912a3504e59d1c1b060bf2d371deb00b70e8796",
+      "symbol": "NFTE",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x1912A3504E59d1C1B060bf2d371DEB00b70E8796.jpg",
+      "assetGroup": "NFTEarthOFT::NFTE",
+      "currencyId": "NFTEarthOFT::NFTE"
+    },
+    "0x57f12fe6a4e5fe819eec699fadf9db2d06606bb4": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Neptune Mutual",
+      "address": "0x57f12fe6a4e5fe819eec699fadf9db2d06606bb4",
+      "symbol": "NPM",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x57f12FE6A4e5fe819eec699FAdf9Db2D06606bB4.jpg",
+      "assetGroup": "Neptune Mutual::NPM",
+      "currencyId": "Neptune Mutual::NPM"
+    },
+    "0x9ecc662d0f492aa1a9484ed06ace499fee579205": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Pleasure Coin",
+      "address": "0x9ecc662d0f492aa1a9484ed06ace499fee579205",
+      "symbol": "NSFW",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bsc/0x9ecC662d0F492aA1A9484Ed06aCE499fee579205.jpg",
+      "assetGroup": "Pleasure Coin::NSFW::56",
+      "currencyId": "Pleasure Coin::NSFW"
+    },
+    "0x986cdf0fd180b40c4d6aeaa01ab740b996d8b782": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "SushiToken MultiChain",
+      "address": "0x986cdf0fd180b40c4d6aeaa01ab740b996d8b782",
+      "symbol": "SUSHI.multichain",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
+      "assetGroup": "SushiToken MultiChain::SUSHI.multichain",
+      "currencyId": "SushiToken MultiChain::SUSHI.multichain",
+      "tags": ["multichain", "bridged"]
     }
   },
   "mainTokens": [

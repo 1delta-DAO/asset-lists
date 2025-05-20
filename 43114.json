@@ -6176,6 +6176,7 @@
       "name": "JoeBar",
       "address": "0x57319d41f71e81f3c65f2a47ca4e001ebafd4f33",
       "symbol": "xJOE",
+      "logoURI": "https://snowtrace.io/token/images/xjoe_32.png",
       "assetGroup": "JoeBar::xJOE",
       "currencyId": "JoeBar::xJOE"
     },
@@ -6697,6 +6698,210 @@
       "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0x005e16eccdfd3ea76e7b777a1beb7b826e3aa7e3/logo.svg",
       "assetGroup": "Swapsicle Ice::ICE",
       "currencyId": "Swapsicle Ice::ICE"
+    },
+    "0xc5fa5669e326da8b2c35540257cd48811f40a36b": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Axelar Wrapped DAI",
+      "address": "0xc5fa5669e326da8b2c35540257cd48811f40a36b",
+      "symbol": "axlDAI",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xC5Fa5669E326DA8B2C35540257cD48811F40a36B.jpg",
+      "assetGroup": "DAI",
+      "currencyId": "Axelar Wrapped DAI::axlDAI",
+      "tags": ["axelar", "bridged"]
+    },
+    "0x42a62eb3fd2a05ed499117f128de8a3192b49ebb": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Axelar Wrapped ETH",
+      "address": "0x42a62eb3fd2a05ed499117f128de8a3192b49ebb",
+      "symbol": "axlETH",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x42A62eb3Fd2a05eD499117F128de8a3192B49EBB.jpg",
+      "assetGroup": "Axelar Wrapped ETH::axlETH",
+      "currencyId": "Axelar Wrapped ETH::axlETH",
+      "tags": ["axelar", "bridged"]
+    },
+    "0xf976ba91b6bb3468c91e4f02e68b37bc64a57e66": {
+      "chainId": "43114",
+      "decimals": 6,
+      "name": "Axelar Wrapped USDT",
+      "address": "0xf976ba91b6bb3468c91e4f02e68b37bc64a57e66",
+      "symbol": "axlUSDT",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xF976ba91b6bb3468C91E4f02E68B37bc64a57e66.jpg",
+      "assetGroup": "USDT",
+      "currencyId": "Axelar Wrapped USDT::axlUSDT",
+      "tags": ["axelar", "bridged"]
+    },
+    "0xa6220b4209353dfef03b6ce410c8f01105515f94": {
+      "chainId": "43114",
+      "decimals": 8,
+      "name": "Axelar Wrapped WBTC",
+      "address": "0xa6220b4209353dfef03b6ce410c8f01105515f94",
+      "symbol": "axlWBTC",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xa6220B4209353dFeF03B6cE410c8F01105515f94.jpg",
+      "assetGroup": "Axelar Wrapped WBTC::axlWBTC",
+      "currencyId": "Axelar Wrapped WBTC::axlWBTC",
+      "tags": ["axelar", "bridged"]
+    },
+    "0x3cd790449cf7d187a143d4bd7f4654d4f2403e02": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "BOBA Token",
+      "address": "0x3cd790449cf7d187a143d4bd7f4654d4f2403e02",
+      "symbol": "BOBA",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x3cD790449CF7D187a143d4Bd7F4654d4f2403e02.jpg",
+      "assetGroup": "BOBA Token::BOBA",
+      "currencyId": "BOBA Token::BOBA"
+    },
+    "0x63682bdc5f875e9bf69e201550658492c9763f89": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Betswap.gg",
+      "address": "0x63682bdc5f875e9bf69e201550658492c9763f89",
+      "symbol": "BSGG",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x69570f3E84f51Ea70b7B68055c8d667e77735a25.jpg",
+      "assetGroup": "Betswap.gg::BSGG::43114",
+      "currencyId": "Betswap.gg::BSGG"
+    },
+    "0xdef1fac7bf08f173d286bbbdcbeeade695129840": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Cerby Token",
+      "address": "0xdef1fac7bf08f173d286bbbdcbeeade695129840",
+      "symbol": "CERBY",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840/logo.png",
+      "assetGroup": "Cerby Token::CERBY",
+      "currencyId": "Cerby Token::CERBY"
+    },
+    "0xcdeb5641dc5bf05845317b00643a713ccc3b22e6": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Huobi",
+      "address": "0xcdeb5641dc5bf05845317b00643a713ccc3b22e6",
+      "symbol": "HT",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ht.jpg",
+      "assetGroup": "HT",
+      "currencyId": "Huobi::HT"
+    },
+    "0xe0ce60af0850bf54072635e66e79df17082a1109": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Ice Token",
+      "address": "0xe0ce60af0850bf54072635e66e79df17082a1109",
+      "symbol": "ICE",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x4e1581f01046eFDd7a1a2CDB0F82cdd7F71F2E59.jpg",
+      "assetGroup": "Ice Token::ICE",
+      "currencyId": "Ice Token::ICE"
+    },
+    "0x3b55e45fd6bd7d4724f5c47e0d1bcaedd059263e": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Mai Stablecoin",
+      "address": "0x3b55e45fd6bd7d4724f5c47e0d1bcaedd059263e",
+      "symbol": "MAI",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0xa3Fa99A148fA48D14Ed51d610c367C61876997F1/logo.png",
+      "assetGroup": "Mai Stablecoin::MAI",
+      "currencyId": "Mai Stablecoin::MAI"
+    },
+    "0xa56b1b9f4e5a1a1e0868f5fd4352ce7cdf0c2a4f": {
+      "chainId": "43114",
+      "decimals": 19,
+      "name": "Matic",
+      "address": "0xa56b1b9f4e5a1a1e0868f5fd4352ce7cdf0c2a4f",
+      "symbol": "MATIC",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/matic.jpg",
+      "assetGroup": "POL",
+      "currencyId": "Matic::MATIC"
+    },
+    "0xf873633df9d5cdd62bb1f402499cc470a72a02d7": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "MoonRiver",
+      "address": "0xf873633df9d5cdd62bb1f402499cc470a72a02d7",
+      "symbol": "MOVR",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/movr.jpg",
+      "assetGroup": "MoonRiver::MOVR",
+      "currencyId": "MoonRiver::MOVR"
+    },
+    "0xd47e4f1ef1aa4090bc27420bdd5cb379ced81440": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "NFTEarthOFT",
+      "address": "0xd47e4f1ef1aa4090bc27420bdd5cb379ced81440",
+      "symbol": "NFTE",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xD47E4F1ef1AA4090bc27420BDD5cB379Ced81440.jpg",
+      "assetGroup": "NFTEarthOFT::NFTE",
+      "currencyId": "NFTEarthOFT::NFTE"
+    },
+    "0x3134210a6bdb55eed6e59905bc34928df6d74830": {
+      "chainId": "43114",
+      "decimals": 6,
+      "name": "NGN Coin",
+      "address": "0x3134210a6bdb55eed6e59905bc34928df6d74830",
+      "symbol": "NGNC",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x3134210a6BdB55eED6E59905bC34928DF6d74830.jpg",
+      "assetGroup": "NGN Coin::NGNC",
+      "currencyId": "NGN Coin::NGNC"
+    },
+    "0x88a0f8318bf0ce19e999f1802bf5b12dc8d7cdfe": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Pleasure Coin",
+      "address": "0x88a0f8318bf0ce19e999f1802bf5b12dc8d7cdfe",
+      "symbol": "NSFW",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x88A0F8318Bf0CE19e999f1802bf5B12DC8d7cdFe.jpg",
+      "assetGroup": "Pleasure Coin::NSFW",
+      "currencyId": "Pleasure Coin::NSFW"
+    },
+    "0x80b4ebfb0bbff93e769c8f66c17767d59eb456e8": {
+      "chainId": "43114",
+      "decimals": 8,
+      "name": "NUSHITS",
+      "address": "0x80b4ebfb0bbff93e769c8f66c17767d59eb456e8",
+      "symbol": "NUSHITS",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x80B4eBfb0BbFF93E769c8f66c17767d59eB456e8.jpg",
+      "assetGroup": "NUSHITS::NUSHITS",
+      "currencyId": "NUSHITS::NUSHITS"
+    },
+    "0x39cf1bd5f15fb22ec3d9ff86b0727afc203427cc": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Old SushiToken",
+      "address": "0x39cf1bd5f15fb22ec3d9ff86b0727afc203427cc",
+      "symbol": "oldSUSHI",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc.jpg",
+      "assetGroup": "Old SushiToken::oldSUSHI",
+      "currencyId": "Old SushiToken::oldSUSHI"
+    },
+    "0xde3a24028580884448a5397872046a019649b084": {
+      "chainId": "43114",
+      "decimals": 6,
+      "name": "Old Tether USD",
+      "address": "0xde3a24028580884448a5397872046a019649b084",
+      "symbol": "oldUSDT",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xc7198437980c041c805A1EDcbA50c1Ce5db95118.jpg",
+      "assetGroup": "Old Tether USD::oldUSDT",
+      "currencyId": "Old Tether USD::oldUSDT"
+    },
+    "0xf20d962a6c8f70c731bd838a3a388d7d48fa6e15": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Old Wrapped Ether",
+      "address": "0xf20d962a6c8f70c731bd838a3a388d7d48fa6e15",
+      "symbol": "oldWETH",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0xf20d962a6c8f70c731bd838a3a388D7d48fA6e15.jpg",
+      "assetGroup": "Old Wrapped Ether::oldWETH",
+      "currencyId": "Old Wrapped Ether::oldWETH"
+    },
+    "0x3ee97d514bbef95a2f110e6b9b73824719030f7a": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Staked Spell Token",
+      "address": "0x3ee97d514bbef95a2f110e6b9b73824719030f7a",
+      "symbol": "sSPELL",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x3Ee97d514BBef95a2f110e6B9b73824719030f7a.jpg",
+      "assetGroup": "Staked Spell Token::sSPELL",
+      "currencyId": "Staked Spell Token::sSPELL"
     }
   },
   "mainTokens": [
@@ -6765,7 +6970,13 @@
     "0xe1bfc96d95badcb10ff013cb0c9c6c737ca07009",
     "0x6c7d727a0432d03351678f91faa1126a5b871df5",
     "0xa446938b0204aa4055cdfed68ddf0e0d1bab3e9e",
-    "0x39de0f00189306062d79edec6dca5bb6bfd108f9"
+    "0x39de0f00189306062d79edec6dca5bb6bfd108f9",
+    "0xc5fa5669e326da8b2c35540257cd48811f40a36b",
+    "0x42a62eb3fd2a05ed499117f128de8a3192b49ebb",
+    "0xf976ba91b6bb3468c91e4f02e68b37bc64a57e66",
+    "0xa6220b4209353dfef03b6ce410c8f01105515f94",
+    "0xa56b1b9f4e5a1a1e0868f5fd4352ce7cdf0c2a4f",
+    "0xde3a24028580884448a5397872046a019649b084"
   ],
   "bridgeTokens": [
     "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",
@@ -6797,6 +7008,12 @@
     "0x59933c571d200dc6a7fd1cda22495db442082e34",
     "0xe1bfc96d95badcb10ff013cb0c9c6c737ca07009",
     "0xa446938b0204aa4055cdfed68ddf0e0d1bab3e9e",
-    "0x39de0f00189306062d79edec6dca5bb6bfd108f9"
+    "0x39de0f00189306062d79edec6dca5bb6bfd108f9",
+    "0xc5fa5669e326da8b2c35540257cd48811f40a36b",
+    "0x42a62eb3fd2a05ed499117f128de8a3192b49ebb",
+    "0xf976ba91b6bb3468c91e4f02e68b37bc64a57e66",
+    "0xa6220b4209353dfef03b6ce410c8f01105515f94",
+    "0xa56b1b9f4e5a1a1e0868f5fd4352ce7cdf0c2a4f",
+    "0xde3a24028580884448a5397872046a019649b084"
   ]
 }

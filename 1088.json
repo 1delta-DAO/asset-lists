@@ -462,6 +462,36 @@
       "assetGroup": "DAI",
       "currencyId": "Bridged DAI (Elevate)::DAI",
       "tags": ["bridged", "debridge"]
+    },
+    "0x4c078361fc9bbb78df910800a991c7c3dd2f6ce0": {
+      "chainId": "1088",
+      "decimals": 18,
+      "name": "Dai Stablecoin",
+      "address": "0x4c078361fc9bbb78df910800a991c7c3dd2f6ce0",
+      "symbol": "DAI",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
+      "assetGroup": "DAI",
+      "currencyId": "Dai Stablecoin::DAI"
+    },
+    "0x17ee7e4da37b01fc1bcc908fa63df343f23b4b7c": {
+      "chainId": "1088",
+      "decimals": 18,
+      "name": "Sushi",
+      "address": "0x17ee7e4da37b01fc1bcc908fa63df343f23b4b7c",
+      "symbol": "m.SUSHI",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/metis/0x17Ee7E4dA37B01FC1bcc908fA63DF343F23B4B7C.jpg",
+      "assetGroup": "Sushi::m.SUSHI",
+      "currencyId": "Sushi::m.SUSHI"
+    },
+    "0x8c5f5fac50a0a952b2fc084780fc04abc8201f0b": {
+      "chainId": "1088",
+      "decimals": 18,
+      "name": "Wrapped Monkex",
+      "address": "0x8c5f5fac50a0a952b2fc084780fc04abc8201f0b",
+      "symbol": "WMONKEX",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/metis/0x8C5f5fAc50A0A952b2fC084780fc04abC8201f0b.jpg",
+      "assetGroup": "Wrapped Monkex::WMONKEX",
+      "currencyId": "Wrapped Monkex::WMONKEX"
     }
   },
   "mainTokens": [

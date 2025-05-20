@@ -1190,6 +1190,27 @@
       "assetGroup": "XSOLVBTC",
       "currencyId": "xSolvBTC::xSolvBTC",
       "tags": ["coingecko"]
+    },
+    "0x5c7e299cf531eb66f2a1df637d37abb78e6200c7": {
+      "chainId": "59144",
+      "decimals": 18,
+      "name": "Axelar Wrapped DAI",
+      "address": "0x5c7e299cf531eb66f2a1df637d37abb78e6200c7",
+      "symbol": "axlDAI",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/linea/0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7.jpg",
+      "assetGroup": "DAI",
+      "currencyId": "Axelar Wrapped DAI::axlDAI",
+      "tags": ["axelar", "bridged"]
+    },
+    "0x2140ea50bc3b6ac3971f9e9ea93a1442665670e4": {
+      "chainId": "59144",
+      "decimals": 18,
+      "name": "NFTEarthOFT",
+      "address": "0x2140ea50bc3b6ac3971f9e9ea93a1442665670e4",
+      "symbol": "NFTE",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/linea/0x2140Ea50bc3B6Ac3971F9e9Ea93A1442665670e4.jpg",
+      "assetGroup": "NFTEarthOFT::NFTE",
+      "currencyId": "NFTEarthOFT::NFTE"
     }
   },
   "mainTokens": [
@@ -1252,7 +1273,8 @@
     "0x374d7860c4f2f604de0191298dd393703cce84f3",
     "0x88231dfec71d4ff5c1e466d08c321944a7adc673",
     "0xe4d584ae9b753e549cae66200a6475d2f00705f7",
-    "0xcc0966d8418d412c599a6421b760a847eb169a8c"
+    "0xcc0966d8418d412c599a6421b760a847eb169a8c",
+    "0x5c7e299cf531eb66f2a1df637d37abb78e6200c7"
   ],
   "bridgeTokens": [
     "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f",
@@ -1267,6 +1289,7 @@
     "0x265b25e22bcd7f10a5bd6e6410f10537cc7567e8",
     "0x406cde76a3fd20e48bc1e0f60651e60ae204b040",
     "0x374d7860c4f2f604de0191298dd393703cce84f3",
-    "0x88231dfec71d4ff5c1e466d08c321944a7adc673"
+    "0x88231dfec71d4ff5c1e466d08c321944a7adc673",
+    "0x5c7e299cf531eb66f2a1df637d37abb78e6200c7"
   ]
 }

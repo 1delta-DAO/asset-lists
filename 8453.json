@@ -459,8 +459,8 @@
       "address": "0xf734efde0c424ba2b547b186586de417b0954802",
       "symbol": "SILO",
       "logoURI": "https://assets.coingecko.com/coins/images/21454/large/y0iYKZOv_400x400.png?1639269432",
-      "assetGroup": "SILO",
-      "currencyId": "Silo Finance::SILO"
+      "assetGroup": "Silo Finance (OLD)::SILO",
+      "currencyId": "Silo Finance (OLD)::SILO"
     },
     "0xd0d1e44fc9adaeb732f73ffc2429cd1db9cd4529": {
       "chainId": "8453",
@@ -11407,7 +11407,7 @@
       "address": "0x57bd5c33c8002a634b389ab4de5e09ec1c31dce7",
       "symbol": "SILO",
       "logoURI": "https://assets.coingecko.com/coins/images/21454/thumb/y0iYKZOv_400x400.png?1696520816",
-      "assetGroup": "Silo Finance::SILO",
+      "assetGroup": "SILO",
       "currencyId": "Silo Finance::SILO",
       "tags": ["coingecko", "debridge"]
     },
@@ -19965,6 +19965,177 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9e271ec4d66f2b400ad92de8a10e5c9c1914259c.png",
       "assetGroup": "The Upsider by Virtuals::$UP",
       "currencyId": "The Upsider by Virtuals::$UP"
+    },
+    "0x5c7e299cf531eb66f2a1df637d37abb78e6200c7": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Axelar Wrapped DAI",
+      "address": "0x5c7e299cf531eb66f2a1df637d37abb78e6200c7",
+      "symbol": "axlDAI",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7.jpg",
+      "assetGroup": "DAI",
+      "currencyId": "Axelar Wrapped DAI::axlDAI",
+      "tags": ["axelar", "bridged"]
+    },
+    "0x7c6b91d9be155a6db01f749217d76ff02a7227f2": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Balancer",
+      "address": "0x7c6b91d9be155a6db01f749217d76ff02a7227f2",
+      "symbol": "BAL",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2.jpg",
+      "assetGroup": "Balancer::BAL",
+      "currencyId": "Balancer::BAL"
+    },
+    "0x1443cbca252d1ffae56b4ee4cc904e9554e2f6ad": {
+      "chainId": "8453",
+      "decimals": 8,
+      "name": "Baldcat",
+      "address": "0x1443cbca252d1ffae56b4ee4cc904e9554e2f6ad",
+      "symbol": "baldcat",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x1443Cbca252D1ffAE56b4ee4cc904e9554E2F6aD.jpg",
+      "assetGroup": "Baldcat::baldcat",
+      "currencyId": "Baldcat::baldcat"
+    },
+    "0xb310c7d7428b95ad1b86ba4191704576150429b6": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "BasedBomb",
+      "address": "0xb310c7d7428b95ad1b86ba4191704576150429b6",
+      "symbol": "BOMB",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xB310C7D7428B95aD1B86ba4191704576150429B6.jpg",
+      "assetGroup": "BasedBomb::BOMB",
+      "currencyId": "BasedBomb::BOMB"
+    },
+    "0x09deb3cf353186e7a84abfd7434bf643f77eb686": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "BASE BOT",
+      "address": "0x09deb3cf353186e7a84abfd7434bf643f77eb686",
+      "symbol": "BOT",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0x09DeB3CF353186E7A84aBfD7434BF643f77eB686.jpg",
+      "assetGroup": "BASE BOT::BOT",
+      "currencyId": "BASE BOT::BOT"
+    },
+    "0x9d8a9aec7adcb2b203d285b9c6f91abbcdf1d7e4": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Dolp",
+      "address": "0x9d8a9aec7adcb2b203d285b9c6f91abbcdf1d7e4",
+      "symbol": "DOLP",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x9D8a9aEc7aDcb2b203D285b9c6F91ABbcDF1D7e4.jpg",
+      "assetGroup": "Dolp::DOLP",
+      "currencyId": "Dolp::DOLP"
+    },
+    "0xd3a61a3a9b8e0dd8160c9bf5ea79159e3e2452b8": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "HAM",
+      "address": "0xd3a61a3a9b8e0dd8160c9bf5ea79159e3e2452b8",
+      "symbol": "HAM",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xd3a61a3A9b8E0dD8160C9bF5Ea79159e3E2452B8.jpg",
+      "assetGroup": "HAM::HAM",
+      "currencyId": "HAM::HAM"
+    },
+    "0x9e5aac1ba1a2e6aed6b32689dfcf62a509ca96f3": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "HanChain",
+      "address": "0x9e5aac1ba1a2e6aed6b32689dfcf62a509ca96f3",
+      "symbol": "HAN",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3.jpg",
+      "assetGroup": "HanChain::HAN",
+      "currencyId": "HanChain::HAN"
+    },
+    "0x3e7ef8f50246f725885102e8238cbba33f276747": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "HANePlatform",
+      "address": "0x3e7ef8f50246f725885102e8238cbba33f276747",
+      "symbol": "HANeP",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x3e7eF8f50246f725885102E8238CBba33F276747.jpg",
+      "assetGroup": "HANePlatform::HANeP",
+      "currencyId": "HANePlatform::HANeP"
+    },
+    "0xea930c80d8eac45993d127055e718555e7155fb1": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Infinite",
+      "address": "0xea930c80d8eac45993d127055e718555e7155fb1",
+      "symbol": "INF",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xeA930c80d8eac45993d127055E718555e7155fB1.jpg",
+      "assetGroup": "Infinite::INF",
+      "currencyId": "Infinite::INF"
+    },
+    "0x895a26f67a8375d0419cb7e4bd1109ac139ab741": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Jelly",
+      "address": "0x895a26f67a8375d0419cb7e4bd1109ac139ab741",
+      "symbol": "JELLY",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x895A26F67a8375D0419Cb7E4bd1109aC139ab741.jpg",
+      "assetGroup": "Jelly::JELLY",
+      "currencyId": "Jelly::JELLY"
+    },
+    "0xe1f9ac62a2f34881f6fe0f84322de9d7024c2b8e": {
+      "chainId": "8453",
+      "decimals": 8,
+      "name": "Mochi",
+      "address": "0xe1f9ac62a2f34881f6fe0f84322de9d7024c2b8e",
+      "symbol": "MOCHI",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xe1f9ac62a2f34881f6Fe0F84322dE9d7024C2b8E.jpg",
+      "assetGroup": "Mochi::MOCHI::8453",
+      "currencyId": "Mochi::MOCHI"
+    },
+    "0x2228363213e6e16e8ccc556aa270a05f1f1a4e02": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Mochi and Toshi",
+      "address": "0x2228363213e6e16e8ccc556aa270a05f1f1a4e02",
+      "symbol": "MOCHITOSHI",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x2228363213E6E16e8ccC556Aa270a05f1F1A4E02.jpg",
+      "assetGroup": "Mochi and Toshi::MOCHITOSHI",
+      "currencyId": "Mochi and Toshi::MOCHITOSHI"
+    },
+    "0x2ccbecc47d83ee80e27fd09c8e757b82f1ffad4c": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Base Balloons",
+      "address": "0x2ccbecc47d83ee80e27fd09c8e757b82f1ffad4c",
+      "symbol": "NANG",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x2CcbEcc47D83eE80e27fd09c8e757B82F1fFad4C.jpg",
+      "assetGroup": "Base Balloons::NANG",
+      "currencyId": "Base Balloons::NANG"
+    },
+    "0xc2106ca72996e49bbadcb836eec52b765977fd20": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "NFTEarthOFT",
+      "address": "0xc2106ca72996e49bbadcb836eec52b765977fd20",
+      "symbol": "NFTE",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0xc2106ca72996e49bBADcB836eeC52B765977fd20.jpg",
+      "assetGroup": "NFTEarthOFT::NFTE",
+      "currencyId": "NFTEarthOFT::NFTE"
+    },
+    "0x137a61b3311e967b0d1e79d5546167c9dc9e6b5b": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Pleasure Coin",
+      "address": "0x137a61b3311e967b0d1e79d5546167c9dc9e6b5b",
+      "symbol": "NSFW",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x137A61B3311E967b0D1e79d5546167C9DC9E6B5B.jpg",
+      "assetGroup": "Pleasure Coin::NSFW",
+      "currencyId": "Pleasure Coin::NSFW"
+    },
+    "0x8544fe9d190fd7ec52860abbf45088e81ee24a8c": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Toshi",
+      "address": "0x8544fe9d190fd7ec52860abbf45088e81ee24a8c",
+      "symbol": "TOSHI",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/base/0x8544FE9D190fD7EC52860abBf45088E81Ee24a8c.jpg",
+      "assetGroup": "Toshi::TOSHI::8453",
+      "currencyId": "Toshi::TOSHI"
     }
   },
   "mainTokens": [

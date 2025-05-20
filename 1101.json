@@ -431,6 +431,66 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc63529297de076eb15fcbe873ae9136e446cfbb9.png",
       "assetGroup": "Gyroscope::GYFI",
       "currencyId": "Gyroscope::GYFI"
+    },
+    "0x68791cfe079814c46e0e25c19bcc5bfc71a744f7": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "AAVE",
+      "address": "0x68791cfe079814c46e0e25c19bcc5bfc71a744f7",
+      "symbol": "AAVE",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x68791CFE079814c46e0E25C19Bcc5BFC71A744f7.jpg",
+      "assetGroup": "AAVE",
+      "currencyId": "AAVE::AAVE"
+    },
+    "0x7e2feea957b7d1606335e339754f4e52b452b792": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Lido DAO",
+      "address": "0x7e2feea957b7d1606335e339754f4e52b452b792",
+      "symbol": "LDO",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x7e2feEa957b7D1606335e339754F4e52b452B792.jpg",
+      "assetGroup": "LDO",
+      "currencyId": "Lido DAO::LDO"
+    },
+    "0x4b16e4752711a7abec32799c976f3cefc0111f2b": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Chain Link",
+      "address": "0x4b16e4752711a7abec32799c976f3cefc0111f2b",
+      "symbol": "LINK",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x4B16e4752711A7ABEc32799C976F3CeFc0111f2B.jpg",
+      "assetGroup": "Chain Link::LINK",
+      "currencyId": "Chain Link::LINK"
+    },
+    "0x2548c94a3092494db3af864cc2cf781a72f55678": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Uniswap",
+      "address": "0x2548c94a3092494db3af864cc2cf781a72f55678",
+      "symbol": "UNI",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x2548C94A3092494dB3aF864cc2cF781a72f55678.jpg",
+      "assetGroup": "UNI",
+      "currencyId": "Uniswap::UNI"
+    },
+    "0x3d5320821bfca19fb0b5428f2c79d63bd5246f89": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Curve DAO Token",
+      "address": "0x3d5320821bfca19fb0b5428f2c79d63bd5246f89",
+      "symbol": "CRV",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x3d5320821BfCa19fb0B5428F2c79d63bd5246f89.jpg",
+      "assetGroup": "CRV",
+      "currencyId": "Curve DAO Token::CRV"
+    },
+    "0x7c2af1fb79d0b1c67d4eb802d44c673d0a1d2c04": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Staked Frax Ether",
+      "address": "0x7c2af1fb79d0b1c67d4eb802d44c673d0a1d2c04",
+      "symbol": "sfrxETH",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x7c2aF1Fb79D0b1c67d4eb802d44C673D0A1D2C04.jpg",
+      "assetGroup": "SFRXETH",
+      "currencyId": "Staked Frax Ether::sfrxETH"
     }
   },
   "mainTokens": [
@@ -442,12 +502,19 @@
     "0x696c0ba235444607a1c4b93e6b34ba14928c1b60",
     "0xd4e38eb4a9581e05de8aeb5f895916647b5933f1",
     "0xa2036f0538221a77a3937f1379699f44945018d0",
-    "0xb23c20efce6e24acca0cef9b7b7aa196b84ec942"
+    "0xb23c20efce6e24acca0cef9b7b7aa196b84ec942",
+    "0x4b718e0e2fea1da68b763cd50c446fba03ceb2ea",
+    "0x16c9a4d841e88e52b51936106010f27085a529ec",
+    "0x37eaa0ef3549a5bb7d431be78a3d99bd360d19e5"
   ],
   "bridgeTokens": [
     "0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9",
     "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
     "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",
-    "0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1"
+    "0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1",
+    "0xa2036f0538221a77a3937f1379699f44945018d0",
+    "0x4b718e0e2fea1da68b763cd50c446fba03ceb2ea",
+    "0x16c9a4d841e88e52b51936106010f27085a529ec",
+    "0x37eaa0ef3549a5bb7d431be78a3d99bd360d19e5"
   ]
 }

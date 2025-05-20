@@ -297,6 +297,66 @@
       "assetGroup": "USDT",
       "currencyId": "Tether USD::USDT",
       "tags": ["coingecko"]
+    },
+    "0x5c7e299cf531eb66f2a1df637d37abb78e6200c7": {
+      "chainId": "2222",
+      "decimals": 18,
+      "name": "Axler Wrapped DAI",
+      "address": "0x5c7e299cf531eb66f2a1df637d37abb78e6200c7",
+      "symbol": "axlDAI",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0x5C7e299CF531eb66f2A1dF637d37AbB78e6200C7.jpg",
+      "assetGroup": "DAI",
+      "currencyId": "Axler Wrapped DAI::axlDAI"
+    },
+    "0x765277eebeca2e31912c9946eae1021199b39c61": {
+      "chainId": "2222",
+      "decimals": 18,
+      "name": "Dai Stablecoin (Anyswap)",
+      "address": "0x765277eebeca2e31912c9946eae1021199b39c61",
+      "symbol": "anyDAI",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
+      "assetGroup": "Dai Stablecoin::anyDAI",
+      "currencyId": "Dai Stablecoin::anyDAI"
+    },
+    "0x7c598c96d02398d89fbcb9d41eab3df0c16f227d": {
+      "chainId": "2222",
+      "decimals": 18,
+      "name": "Sushi (Anyswap)",
+      "address": "0x7c598c96d02398d89fbcb9d41eab3df0c16f227d",
+      "symbol": "anySUSHI",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/kava/0x7C598c96D02398d89FbCb9d41Eab3DF0C16F227D.jpg",
+      "assetGroup": "SushiToken::anySUSHI",
+      "currencyId": "SushiToken::anySUSHI"
+    },
+    "0xb44a9b6905af7c801311e8f4e76932ee959c663c": {
+      "chainId": "2222",
+      "decimals": 6,
+      "name": "Tether USD (Anyswap)",
+      "address": "0xb44a9b6905af7c801311e8f4e76932ee959c663c",
+      "symbol": "anyUSDT",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+      "assetGroup": "Tether USD::anyUSDT",
+      "currencyId": "Tether USD::anyUSDT"
+    },
+    "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b": {
+      "chainId": "2222",
+      "decimals": 8,
+      "name": "Wrapped BTC (Anyswap)",
+      "address": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
+      "symbol": "anyWBTC",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
+      "assetGroup": "Wrapped Bitcoin::anyWBTC",
+      "currencyId": "Wrapped Bitcoin::anyWBTC"
+    },
+    "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d": {
+      "chainId": "2222",
+      "decimals": 18,
+      "name": "Wrapped ETH (Anyswap)",
+      "address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d",
+      "symbol": "anyWETH",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
+      "assetGroup": "Wrapped Ethereum::anyWETH",
+      "currencyId": "Wrapped Ethereum::anyWETH"
     }
   },
   "mainTokens": [
@@ -324,7 +384,9 @@
     "0x1a35ee4640b0a3b87705b0a4b45d227ba60ca2ad",
     "0x332c72dd7e77070740f01d2d35851c461585d5d0",
     "0x2e4c7bf66d0484e44fea0ec273b85a00af92b2e3",
-    "0x919c1c267bc06a7039e03fcc2ef738525769109c"
+    "0x919c1c267bc06a7039e03fcc2ef738525769109c",
+    "0x5c7e299cf531eb66f2a1df637d37abb78e6200c7",
+    "0xb44a9b6905af7c801311e8f4e76932ee959c663c"
   ],
   "bridgeTokens": [
     "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
@@ -333,6 +395,8 @@
     "0x2dfd4de5ae386cd3f4fc8e2cb39240852e47f5e8",
     "0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6",
     "0x1a35ee4640b0a3b87705b0a4b45d227ba60ca2ad",
-    "0x919c1c267bc06a7039e03fcc2ef738525769109c"
+    "0x919c1c267bc06a7039e03fcc2ef738525769109c",
+    "0x5c7e299cf531eb66f2a1df637d37abb78e6200c7",
+    "0xb44a9b6905af7c801311e8f4e76932ee959c663c"
   ]
 }

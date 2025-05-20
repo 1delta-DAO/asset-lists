@@ -2087,6 +2087,57 @@
       "assetGroup": "Few Wrapped Orbit Protocol::FWORBIT",
       "currencyId": "Few Wrapped Orbit Protocol::FWORBIT",
       "tags": ["coingecko"]
+    },
+    "0x0b4d0ee29857c3961b380d4ec138ea5814e346b9": {
+      "chainId": "81457",
+      "decimals": 18,
+      "name": "P@cman Blastoff",
+      "address": "0x0b4d0ee29857c3961b380d4ec138ea5814e346b9",
+      "symbol": "$PACM",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x0B4d0ee29857c3961b380d4ec138EA5814E346b9.jpg",
+      "assetGroup": "P@cman Blastoff::$PACM",
+      "currencyId": "P@cman Blastoff::$PACM"
+    },
+    "0xeb466342c4d449bc9f53a865d5cb90586f405215": {
+      "chainId": "81457",
+      "decimals": 6,
+      "name": "Axelar Wrapped USDC",
+      "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+      "symbol": "axlUSDC",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
+      "assetGroup": "USDC",
+      "currencyId": "Axelar Wrapped USDC::axlUSDC",
+      "tags": ["axelar", "bridged"]
+    },
+    "0x84fc0e1dca50cf341b497a56f843d4dd7d818b84": {
+      "chainId": "81457",
+      "decimals": 18,
+      "name": "Dyor",
+      "address": "0x84fc0e1dca50cf341b497a56f843d4dd7d818b84",
+      "symbol": "Dyor",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x84fC0e1Dca50cF341B497A56f843d4dD7d818B84.jpg",
+      "assetGroup": "Dyor::Dyor",
+      "currencyId": "Dyor::Dyor"
+    },
+    "0x0000000000a1c217530f17948cbb487c743b9f63": {
+      "chainId": "81457",
+      "decimals": 18,
+      "name": "Ore",
+      "address": "0x0000000000a1c217530f17948cbb487c743b9f63",
+      "symbol": "ORE",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x0000000000a1c217530F17948CBb487c743b9F63.jpg",
+      "assetGroup": "Ore::ORE",
+      "currencyId": "Ore::ORE"
+    },
+    "0x2ef6ee4884892b15dfcf53b33ed139fef6141a49": {
+      "chainId": "81457",
+      "decimals": 18,
+      "name": "Dog Wif Blast",
+      "address": "0x2ef6ee4884892b15dfcf53b33ed139fef6141a49",
+      "symbol": "WIF",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0x2Ef6EE4884892b15DfCF53B33ed139FEF6141A49.jpg",
+      "assetGroup": "Dog Wif Blast::WIF",
+      "currencyId": "Dog Wif Blast::WIF"
     }
   },
   "mainTokens": [
@@ -2161,11 +2212,13 @@
     "0x15d24de366f69b835be19f7cf9447e770315dd80",
     "0x236bb48fcf61ce996b2c8c196a9258c176100c7d",
     "0x51707dc661630f8fd624b985fa6ef4f1d4d919db",
-    "0x68449870eea84453044bd430822827e21fd8f101"
+    "0x68449870eea84453044bd430822827e21fd8f101",
+    "0xeb466342c4d449bc9f53a865d5cb90586f405215"
   ],
   "bridgeTokens": [
     "0x4300000000000000000000000000000000000004",
     "0xb1a5700fa2358173fe465e6ea4ff52e36e88e2ad",
-    "0x870a8f46b62b8bdeda4c02530c1750cddf2ed32e"
+    "0x870a8f46b62b8bdeda4c02530c1750cddf2ed32e",
+    "0xeb466342c4d449bc9f53a865d5cb90586f405215"
   ]
 }

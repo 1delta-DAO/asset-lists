@@ -750,7 +750,7 @@
       "address": "0x9b88d293b7a791e40d36a39765ffd5a1b9b5c349",
       "symbol": "CELO",
       "logoURI": "https://raw.githubusercontent.com/wormhole-foundation/wormhole-token-list/main/assets/celo_wh.png",
-      "assetGroup": "CELO",
+      "assetGroup": "Bridged CELO (Wormhole)::CELO",
       "currencyId": "Bridged CELO (Wormhole)::CELO",
       "tags": ["wormhole", "bridged", "debridge"]
     },
@@ -1317,8 +1317,8 @@
       "address": "0xa6521c950b0ab5215337dab84d65f4ffa7f6df55",
       "symbol": "SILO",
       "logoURI": "https://assets.coingecko.com/coins/images/21454/large/y0iYKZOv_400x400.png?1639269432",
-      "assetGroup": "SILO",
-      "currencyId": "Silo Finance::SILO"
+      "assetGroup": "Silo Finance (OLD)::SILO",
+      "currencyId": "Silo Finance (OLD)::SILO"
     },
     "0xe539298a99004a102e4b6997ef96e5137be42eab": {
       "chainId": "10",
@@ -3659,6 +3659,7 @@
       "name": "Wrapped Aave Optimism wstETH",
       "address": "0xbaf95bb30cdab3d5b7a11b67edef5631bd62be86",
       "symbol": "waOptwstETH",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wstETH-aave-boosted.png",
       "assetGroup": "Wrapped Aave Optimism wstETH::waOptwstETH",
       "currencyId": "Wrapped Aave Optimism wstETH::waOptwstETH"
     },
@@ -3687,6 +3688,7 @@
       "name": "Wrapped Aave Optimism rETH",
       "address": "0x8e6a81b9d541a0cea090818b62c4b2de7f2a2cf7",
       "symbol": "waOptrETH",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/rETH-aave-boosted.png",
       "assetGroup": "Wrapped Aave Optimism rETH::waOptrETH",
       "currencyId": "Wrapped Aave Optimism rETH::waOptrETH"
     },
@@ -3770,6 +3772,7 @@
       "name": "Wrapped Frax",
       "address": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
       "symbol": "WFRAX",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/FRAX.png",
       "assetGroup": "Wrapped Frax::WFRAX",
       "currencyId": "Wrapped Frax::WFRAX"
     },
@@ -3963,6 +3966,46 @@
       "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0x240248628B7B6850352764C5dFa50D1592A033A8/logo.svg",
       "assetGroup": "POPSToken::POPS",
       "currencyId": "POPSToken::POPS"
+    },
+    "0x9485aca5bbbe1667ad97c7fe7c4531a624c8b1ed": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "agEUR",
+      "address": "0x9485aca5bbbe1667ad97c7fe7c4531a624c8b1ed",
+      "symbol": "agEUR",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x9485aca5bbBE1667AD97c7fE7C4531a624C8b1ED.jpg",
+      "assetGroup": "AGEUR",
+      "currencyId": "agEUR::agEUR"
+    },
+    "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Ether",
+      "address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000",
+      "symbol": "ETH",
+      "logoURI": "https://ethereum-optimism.github.io/data/ETH/logo.svg",
+      "assetGroup": "Ether::ETH",
+      "currencyId": "Ether::ETH"
+    },
+    "0x8637725ada78db0674a679cea2a5e0a0869ef4a1": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "NFTEarthOFT",
+      "address": "0x8637725ada78db0674a679cea2a5e0a0869ef4a1",
+      "symbol": "NFTE",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0x8637725aDa78db0674a679CeA2A5e0A0869EF4A1.jpg",
+      "assetGroup": "NFTEarthOFT::NFTE",
+      "currencyId": "NFTEarthOFT::NFTE"
+    },
+    "0xa219b43c6e5935085bcaf7fd590c83abe62dcd77": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Pleasure Coin",
+      "address": "0xa219b43c6e5935085bcaf7fd590c83abe62dcd77",
+      "symbol": "NSFW",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0xa219B43C6e5935085Bcaf7Fd590C83ABe62dCd77.jpg",
+      "assetGroup": "Pleasure Coin::NSFW",
+      "currencyId": "Pleasure Coin::NSFW"
     }
   },
   "mainTokens": [

@@ -271,6 +271,96 @@
       "assetGroup": "Wrapped BTC::WBTCV2",
       "currencyId": "Wrapped BTC::WBTCV2",
       "tags": ["coingecko"]
+    },
+    "0x94ba7a27c7a95863d1bdc7645ac2951e0cca06ba": {
+      "chainId": "122",
+      "decimals": 18,
+      "name": "Dai Stablecoin",
+      "address": "0x94ba7a27c7a95863d1bdc7645ac2951e0cca06ba",
+      "symbol": "DAI",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fuse/0x94Ba7A27c7A95863d1bdC7645AC2951E0cca06bA.jpg",
+      "assetGroup": "DAI",
+      "currencyId": "Dai Stablecoin::DAI"
+    },
+    "0x2f60a843302f1be3fa87429ca9d684f9091b003c": {
+      "chainId": "122",
+      "decimals": 18,
+      "name": "DEXTools",
+      "address": "0x2f60a843302f1be3fa87429ca9d684f9091b003c",
+      "symbol": "DEXT",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dext.jpg",
+      "assetGroup": "DEXT",
+      "currencyId": "DEXTools::DEXT"
+    },
+    "0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c": {
+      "chainId": "122",
+      "decimals": 18,
+      "name": "Elk",
+      "address": "0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c",
+      "symbol": "ELK",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/fuse/assets/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C/logo.png",
+      "assetGroup": "Elk::ELK",
+      "currencyId": "Elk::ELK"
+    },
+    "0x249be57637d8b013ad64785404b24aebae9b098b": {
+      "chainId": "122",
+      "decimals": 18,
+      "name": "Fuse Dollar",
+      "address": "0x249be57637d8b013ad64785404b24aebae9b098b",
+      "symbol": "fUSD",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/fuseusd.jpg",
+      "assetGroup": "Fuse Dollar::fUSD",
+      "currencyId": "Fuse Dollar::fUSD"
+    },
+    "0x025a4c577198d116ea499193e6d735fdb2e6e841": {
+      "chainId": "122",
+      "decimals": 18,
+      "name": "Graph Token",
+      "address": "0x025a4c577198d116ea499193e6d735fdb2e6e841",
+      "symbol": "GRT",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/grt.jpg",
+      "assetGroup": "Graph Token::GRT",
+      "currencyId": "Graph Token::GRT"
+    },
+    "0x43b17749b246fd2a96de25d9e4184e27e09765b0": {
+      "chainId": "122",
+      "decimals": 18,
+      "name": "Kyber Network Crystal",
+      "address": "0x43b17749b246fd2a96de25d9e4184e27e09765b0",
+      "symbol": "KNC",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/knc.jpg",
+      "assetGroup": "KNC",
+      "currencyId": "Kyber Network Crystal::KNC"
+    },
+    "0x0972f26e8943679b043de23df2fd3852177a7c48": {
+      "chainId": "122",
+      "decimals": 18,
+      "name": "ChainLink Token",
+      "address": "0x0972f26e8943679b043de23df2fd3852177a7c48",
+      "symbol": "LINK",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/link.jpg",
+      "assetGroup": "LINK",
+      "currencyId": "ChainLink Token::LINK"
+    },
+    "0x7f59ae3a787c0d1d640f99883d0e48c22188c54f": {
+      "chainId": "122",
+      "decimals": 18,
+      "name": "MANTRA DAO",
+      "address": "0x7f59ae3a787c0d1d640f99883d0e48c22188c54f",
+      "symbol": "OM",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/om.jpg",
+      "assetGroup": "OM",
+      "currencyId": "MANTRA DAO::OM"
+    },
+    "0x90708b20ccc1eb95a4fa7c8b18fd2c22a0ff9e78": {
+      "chainId": "122",
+      "decimals": 18,
+      "name": "SushiToken on Fuse",
+      "address": "0x90708b20ccc1eb95a4fa7c8b18fd2c22a0ff9e78",
+      "symbol": "SUSHI",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fuse/0x90708b20ccC1eb95a4FA7C8b18Fd2C22a0Ff9E78.jpg",
+      "assetGroup": "SushiToken on Fuse::SUSHI",
+      "currencyId": "SushiToken on Fuse::SUSHI"
     }
   },
   "mainTokens": [

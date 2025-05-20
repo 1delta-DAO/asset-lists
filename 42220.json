@@ -441,6 +441,276 @@
       "assetGroup": "MIMATIC",
       "currencyId": "Mai Stablecoin::miMATIC",
       "tags": ["coingecko"]
+    },
+    "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c": {
+      "chainId": "42220",
+      "decimals": 18,
+      "name": "Beefy Finance",
+      "address": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c",
+      "symbol": "BIFI",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C/logo.png",
+      "assetGroup": "Beefy Finance::BIFI",
+      "currencyId": "Beefy Finance::BIFI"
+    },
+    "0xd90bbdf5904cb7d275c41f897495109b9a5ada58": {
+      "chainId": "42220",
+      "decimals": 9,
+      "name": "CeloDoge",
+      "address": "0xd90bbdf5904cb7d275c41f897495109b9a5ada58",
+      "symbol": "cDOGE",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cdoge.jpg",
+      "assetGroup": "CeloDoge::cDOGE",
+      "currencyId": "CeloDoge::cDOGE"
+    },
+    "0x5927fd244e11db1c7b1215619144d2aabac80a4f": {
+      "chainId": "42220",
+      "decimals": 18,
+      "name": "CeloLaunch",
+      "address": "0x5927fd244e11db1c7b1215619144d2aabac80a4f",
+      "symbol": "CLA",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x5927fd244E11dB1c7b1215619144d2aAbAc80a4F/logo.png",
+      "assetGroup": "CeloLaunch::CLA",
+      "currencyId": "CeloLaunch::CLA"
+    },
+    "0x32a9fe697a32135bfd313a6ac28792dae4d9979d": {
+      "chainId": "42220",
+      "decimals": 18,
+      "name": "Celo Moss Carbon Credit",
+      "address": "0x32a9fe697a32135bfd313a6ac28792dae4d9979d",
+      "symbol": "cMCO2",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cmco2.jpg",
+      "assetGroup": "Celo Moss Carbon Credit::cMCO2",
+      "currencyId": "Celo Moss Carbon Credit::cMCO2"
+    },
+    "0xf3608f846ca73147f08fde8d57f45e27ceea4d61": {
+      "chainId": "42220",
+      "decimals": 18,
+      "name": "MetaCelo",
+      "address": "0xf3608f846ca73147f08fde8d57f45e27ceea4d61",
+      "symbol": "cMeta",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0xF3608F846cA73147F08FdE8D57f45E27CeEA4d61/logo.png",
+      "assetGroup": "MetaCelo::cMeta",
+      "currencyId": "MetaCelo::cMeta"
+    },
+    "0x22401536505dd5d85f7d57f8b37172feda8f499d": {
+      "chainId": "42220",
+      "decimals": 9,
+      "name": "CeloShiba",
+      "address": "0x22401536505dd5d85f7d57f8b37172feda8f499d",
+      "symbol": "cSHIBA",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cshiba.jpg",
+      "assetGroup": "CeloShiba::cSHIBA",
+      "currencyId": "CeloShiba::cSHIBA"
+    },
+    "0x832f03bcee999a577cb592948983e35c048b5aa4": {
+      "chainId": "42220",
+      "decimals": 18,
+      "name": "Duniapay West African CFA franc",
+      "address": "0x832f03bcee999a577cb592948983e35c048b5aa4",
+      "symbol": "cXOF",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/cxof.jpg",
+      "assetGroup": "Duniapay West African CFA franc::cXOF",
+      "currencyId": "Duniapay West African CFA franc::cXOF"
+    },
+    "0x90ca507a5d4458a4c6c6249d186b6dcb02a5bccd": {
+      "chainId": "42220",
+      "decimals": 18,
+      "name": "Optics Dai v2",
+      "address": "0x90ca507a5d4458a4c6c6249d186b6dcb02a5bccd",
+      "symbol": "DAI",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x90Ca507a5D4458a4C6C6249d186b6dCb02a5BCCd/logo.png",
+      "assetGroup": "DAI",
+      "currencyId": "Optics Dai v2::DAI"
+    },
+    "0xe4fe50cdd716522a56204352f00aa110f731932d": {
+      "chainId": "42220",
+      "decimals": 18,
+      "name": "Dai Stablecoin",
+      "address": "0xe4fe50cdd716522a56204352f00aa110f731932d",
+      "symbol": "DAI",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/celo/0xE4fE50cdD716522A56204352f00AA110F731932d.jpg",
+      "assetGroup": "Dai Stablecoin::DAI",
+      "currencyId": "Dai Stablecoin::DAI"
+    },
+    "0xf2283840ce37dae0a06b40a9a80603977f36fa3f": {
+      "chainId": "42220",
+      "decimals": 2,
+      "name": "GoodDollar",
+      "address": "0xf2283840ce37dae0a06b40a9a80603977f36fa3f",
+      "symbol": "G$",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/celo/0xf2283840cE37DAe0a06B40a9A80603977f36fA3F.jpg",
+      "assetGroup": "GoodDollar::G$",
+      "currencyId": "GoodDollar::G$"
+    },
+    "0x7037f7296b2fc7908de7b57a89efaa8319f0c500": {
+      "chainId": "42220",
+      "decimals": 18,
+      "name": "Moola CELO",
+      "address": "0x7037f7296b2fc7908de7b57a89efaa8319f0c500",
+      "symbol": "mCELO",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/mcelo.jpg",
+      "assetGroup": "Moola CELO::mCELO",
+      "currencyId": "Moola CELO::mCELO"
+    },
+    "0xa8d0e6799ff3fd19c6459bf02689ae09c4d78ba7": {
+      "chainId": "42220",
+      "decimals": 18,
+      "name": "Moola cEUR",
+      "address": "0xa8d0e6799ff3fd19c6459bf02689ae09c4d78ba7",
+      "symbol": "mcEUR",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/mceur.jpg",
+      "assetGroup": "Moola cEUR::mcEUR",
+      "currencyId": "Moola cEUR::mcEUR"
+    },
+    "0x64defa3544c695db8c535d289d843a189aa26b98": {
+      "chainId": "42220",
+      "decimals": 18,
+      "name": "Moola cUSD",
+      "address": "0x64defa3544c695db8c535d289d843a189aa26b98",
+      "symbol": "mcUSD",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/mcusd.jpg",
+      "assetGroup": "Moola cUSD::mcUSD",
+      "currencyId": "Moola cUSD::mcUSD"
+    },
+    "0x8e0c1cdceeb773139b471fd1137502a28588178a": {
+      "chainId": "42220",
+      "decimals": 18,
+      "name": "Pleasure Coin",
+      "address": "0x8e0c1cdceeb773139b471fd1137502a28588178a",
+      "symbol": "NSFW",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/celo/0x8E0C1cDCEEb773139B471fd1137502A28588178a.jpg",
+      "assetGroup": "Pleasure Coin::NSFW",
+      "currencyId": "Pleasure Coin::NSFW"
+    },
+    "0x1a8dbe5958c597a744ba51763abebd3355996c3e": {
+      "chainId": "42220",
+      "decimals": 18,
+      "name": "Rewards CELO",
+      "address": "0x1a8dbe5958c597a744ba51763abebd3355996c3e",
+      "symbol": "rCELO",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/rcelo.jpg",
+      "assetGroup": "Rewards CELO::rCELO",
+      "currencyId": "Rewards CELO::rCELO"
+    },
+    "0x2879bfd5e7c4ef331384e908aaa3bd3014b703fa": {
+      "chainId": "42220",
+      "decimals": 18,
+      "name": "Savings CELO",
+      "address": "0x2879bfd5e7c4ef331384e908aaa3bd3014b703fa",
+      "symbol": "sCELO",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/scelo.jpg",
+      "assetGroup": "Savings CELO::sCELO",
+      "currencyId": "Savings CELO::sCELO"
+    },
+    "0x29dfce9c22003a4999930382fd00f9fd6133acd1": {
+      "chainId": "42220",
+      "decimals": 18,
+      "name": "Optics SushiToken v2",
+      "address": "0x29dfce9c22003a4999930382fd00f9fd6133acd1",
+      "symbol": "SUSHI",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x29dFce9c22003A4999930382Fd00f9Fd6133Acd1/logo.png",
+      "assetGroup": "Optics SushiToken v2::SUSHI",
+      "currencyId": "Optics SushiToken v2::SUSHI"
+    },
+    "0x2a3684e9dc20b857375ea04235f2f7edbe818fa7": {
+      "chainId": "42220",
+      "decimals": 6,
+      "name": "Optics USDC v1",
+      "address": "0x2a3684e9dc20b857375ea04235f2f7edbe818fa7",
+      "symbol": "USDCv1",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+      "assetGroup": "Optics USDC v1::USDCv1",
+      "currencyId": "Optics USDC v1::USDCv1"
+    },
+    "0xef4229c8c3250c675f21bcefa42f58efbff6002a": {
+      "chainId": "42220",
+      "decimals": 6,
+      "name": "Optics USD v2",
+      "address": "0xef4229c8c3250c675f21bcefa42f58efbff6002a",
+      "symbol": "USDCv2",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/celo/0xef4229c8c3250C675F21BCefa42f58EfbfF6002a.jpg",
+      "assetGroup": "Optics USD v2::USDCv2",
+      "currencyId": "Optics USD v2::USDCv2"
+    },
+    "0x1bfc26ce035c368503fae319cc2596716428ca44": {
+      "chainId": "42220",
+      "decimals": 6,
+      "name": "Optics USDC v2 (PoS)",
+      "address": "0x1bfc26ce035c368503fae319cc2596716428ca44",
+      "symbol": "USDCv2-PoS",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets//logo.png",
+      "assetGroup": "Optics USDC v2 (PoS)::USDCv2-PoS",
+      "currencyId": "Optics USDC v2 (PoS)::USDCv2-PoS"
+    },
+    "0x88eec49252c8cbc039dcdb394c0c2ba2f1637ea0": {
+      "chainId": "42220",
+      "decimals": 6,
+      "name": "Tether USD",
+      "address": "0x88eec49252c8cbc039dcdb394c0c2ba2f1637ea0",
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/celo/0x88eeC49252c8cbc039DCdB394c0c2BA2f1637EA0.jpg",
+      "assetGroup": "Tether USD::USDT",
+      "currencyId": "Tether USD::USDT"
+    },
+    "0xb020d981420744f6b0fedd22bb67cd37ce18a1d5": {
+      "chainId": "42220",
+      "decimals": 6,
+      "name": "Optics USDT v1",
+      "address": "0xb020d981420744f6b0fedd22bb67cd37ce18a1d5",
+      "symbol": "USDTv1",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
+      "assetGroup": "Optics USDT v1::USDTv1",
+      "currencyId": "Optics USDT v1::USDTv1"
+    },
+    "0xbaab46e28388d2779e6e31fd00cf0e5ad95e327b": {
+      "chainId": "42220",
+      "decimals": 8,
+      "name": "Optics WBTC v2",
+      "address": "0xbaab46e28388d2779e6e31fd00cf0e5ad95e327b",
+      "symbol": "WBTC",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0xBAAB46E28388d2779e6E31Fd00cF0e5Ad95E327B/logo.png",
+      "assetGroup": "Optics WBTC v2::WBTC",
+      "currencyId": "Optics WBTC v2::WBTC"
+    },
+    "0xbe50a3013a1c94768a1abb78c3cb79ab28fc1ace": {
+      "chainId": "42220",
+      "decimals": 8,
+      "name": "Optics WBTC v1",
+      "address": "0xbe50a3013a1c94768a1abb78c3cb79ab28fc1ace",
+      "symbol": "WBTCv1",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
+      "assetGroup": "Optics WBTC v1::WBTCv1",
+      "currencyId": "Optics WBTC v1::WBTCv1"
+    },
+    "0x122013fd7df1c6f636a5bb8f03108e876548b455": {
+      "chainId": "42220",
+      "decimals": 18,
+      "name": "Wrapped Ether",
+      "address": "0x122013fd7df1c6f636a5bb8f03108e876548b455",
+      "symbol": "WETH",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/celo/0x122013fd7dF1C6F636a5bb8f03108E876548b455.jpg",
+      "assetGroup": "Wrapped Ether::WETH",
+      "currencyId": "Wrapped Ether::WETH"
+    },
+    "0xe919f65739c26a42616b7b8eedc6b5524d1e3ac4": {
+      "chainId": "42220",
+      "decimals": 18,
+      "name": "Optics WETH v1",
+      "address": "0xe919f65739c26a42616b7b8eedc6b5524d1e3ac4",
+      "symbol": "WETHv1",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
+      "assetGroup": "Optics WETH v1::WETHv1",
+      "currencyId": "Optics WETH v1::WETHv1"
+    },
+    "0x2e3487f967df2ebc2f236e16f8fcaeac7091324d": {
+      "chainId": "42220",
+      "decimals": 18,
+      "name": "Optics WMATIC",
+      "address": "0x2e3487f967df2ebc2f236e16f8fcaeac7091324d",
+      "symbol": "WMATIC",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x2E3487F967DF2Ebc2f236E16f8fCAeac7091324D/logo.png",
+      "assetGroup": "POL",
+      "currencyId": "Optics WMATIC::WMATIC"
     }
   },
   "mainTokens": [
@@ -460,7 +730,15 @@
     "0x73a210637f6f6b7005512677ba6b3c96bb4aa44b",
     "0xae978582de8ca83a53eb1d8f879ba854895f96b1",
     "0x456a3d042c0dbd3db53d5489e98dfb038553b0d0",
-    "0x105d4a9306d2e55a71d2eb95b81553ae1dc20d7b"
+    "0x105d4a9306d2e55a71d2eb95b81553ae1dc20d7b",
+    "0x2a3684e9dc20b857375ea04235f2f7edbe818fa7",
+    "0xef4229c8c3250c675f21bcefa42f58efbff6002a",
+    "0x1bfc26ce035c368503fae319cc2596716428ca44",
+    "0x88eec49252c8cbc039dcdb394c0c2ba2f1637ea0",
+    "0xb020d981420744f6b0fedd22bb67cd37ce18a1d5",
+    "0xbaab46e28388d2779e6e31fd00cf0e5ad95e327b",
+    "0x122013fd7df1c6f636a5bb8f03108e876548b455",
+    "0x2e3487f967df2ebc2f236e16f8fcaeac7091324d"
   ],
   "bridgeTokens": [
     "0x2def4285787d58a2f811af24755a8150622f4361",
@@ -469,6 +747,14 @@
     "0xd629eb00deced2a080b7ec630ef6ac117e614f1b",
     "0x66803fb87abd4aac3cbb3fad7c3aa01f6f3fb207",
     "0x37f750b7cc259a2f741af45294f6a16572cf5cad",
-    "0xeb466342c4d449bc9f53a865d5cb90586f405215"
+    "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+    "0x2a3684e9dc20b857375ea04235f2f7edbe818fa7",
+    "0xef4229c8c3250c675f21bcefa42f58efbff6002a",
+    "0x1bfc26ce035c368503fae319cc2596716428ca44",
+    "0x88eec49252c8cbc039dcdb394c0c2ba2f1637ea0",
+    "0xb020d981420744f6b0fedd22bb67cd37ce18a1d5",
+    "0xbaab46e28388d2779e6e31fd00cf0e5ad95e327b",
+    "0x122013fd7df1c6f636a5bb8f03108e876548b455",
+    "0x2e3487f967df2ebc2f236e16f8fcaeac7091324d"
   ]
 }

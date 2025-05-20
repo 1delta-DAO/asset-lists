@@ -30,7 +30,7 @@
       "name": "Sushi",
       "address": "0x2995d1317dcd4f0ab89f4ae60f3f020a4f17c7ce",
       "symbol": "SUSHI",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/1638173288593_6586174879249498.png",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/gnosis/0x2995D1317DcD4f0aB89f4AE60F3f020A4F17C7CE.jpg",
       "assetGroup": "SUSHI",
       "currencyId": "Sushi::SUSHI",
       "tags": ["openocean"]
@@ -96,7 +96,7 @@
       "name": "Aave",
       "address": "0xdf613af6b44a31299e48131e9347f034347e2f00",
       "symbol": "AAVE",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/1638171727530_2239647381576273.png",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/xdai/0xDF613aF6B44a31299E48131e9347F034347E2F00.jpg",
       "assetGroup": "AAVE",
       "currencyId": "Aave::AAVE",
       "tags": ["openocean"]
@@ -1357,6 +1357,7 @@
       "name": "Curve DAO Token on xDai",
       "address": "0x712b3d230f3c1c19db860d80619288b1f0bdd0bd",
       "symbol": "CRV",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/xdai/0x712b3d230F3C1c19db860d80619288b1F0BDd0Bd.jpg",
       "assetGroup": "CRV",
       "currencyId": "Curve DAO Token on xDai::CRV"
     },
@@ -1691,6 +1692,36 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5198d513a6dbba16637b353ce06197f750addb4b.png",
       "assetGroup": "ETHCC-ERC20s::s-ETHCC",
       "currencyId": "ETHCC-ERC20s::s-ETHCC"
+    },
+    "0xe68856eb29b2fb39699286cca7f10f90ce8ae9de": {
+      "chainId": "100",
+      "decimals": 18,
+      "name": "Fractal Protocol Token",
+      "address": "0xe68856eb29b2fb39699286cca7f10f90ce8ae9de",
+      "symbol": "FCL",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/gnosis/0xe68856eb29B2FB39699286CcA7F10f90Ce8AE9De.jpg",
+      "assetGroup": "FCL",
+      "currencyId": "Fractal Protocol Token::FCL"
+    },
+    "0x82dfe19164729949fd66da1a37bc70dd6c4746ce": {
+      "chainId": "100",
+      "decimals": 18,
+      "name": "BaoToken on xDai",
+      "address": "0x82dfe19164729949fd66da1a37bc70dd6c4746ce",
+      "symbol": "BAO",
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/xdai/0x82dFe19164729949fD66Da1a37BC70dD6c4746ce.jpg",
+      "assetGroup": "BaoToken on xDai::BAO",
+      "currencyId": "BaoToken on xDai::BAO"
+    },
+    "0x1e16aa4df73d29c029d94ceda3e3114ec191e25a": {
+      "chainId": "100",
+      "decimals": 18,
+      "name": "xMOON on xDai",
+      "address": "0x1e16aa4df73d29c029d94ceda3e3114ec191e25a",
+      "symbol": "XMOON",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/xdai/assets/0x1e16aa4Df73d29C029d94CeDa3e3114EC191E25A/logo.png",
+      "assetGroup": "xMOON on xDai::XMOON",
+      "currencyId": "xMOON on xDai::XMOON"
     }
   },
   "mainTokens": [
