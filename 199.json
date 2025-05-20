@@ -210,7 +210,8 @@
       "symbol": "WBTT",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x0000000000000000000000000000000000001010.jpg",
       "assetGroup": "Wrapped BitTorrent::WBTT",
-      "currencyId": "Wrapped BitTorrent::WBTT"
+      "currencyId": "Wrapped BitTorrent::WBTT",
+      "tags": ["wnative"]
     },
     "0x53c56ece35f8cab135e13d6d00499dfc7c07a92e": {
       "chainId": "199",
@@ -220,7 +221,8 @@
       "symbol": "SUSHI.e",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x53C56ece35f8CaB135e13D6d00499Dfc7c07A92e.jpg",
       "assetGroup": "Bridged SUSHI::SUSHI.e",
-      "currencyId": "Bridged SUSHI::SUSHI.e"
+      "currencyId": "Bridged SUSHI::SUSHI.e",
+      "tags": ["bridged"]
     }
   },
   "mainTokens": [

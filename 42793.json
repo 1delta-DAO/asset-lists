@@ -56,6 +56,46 @@
       "assetGroup": "ETH",
       "currencyId": "Bridged WETH::WETH",
       "tags": ["bridged", "coingecko"]
+    },
+    "0xbfc94cd2b1e55999cfc7347a9313e88702b83d0f": {
+      "chainId": "42793",
+      "decimals": 8,
+      "name": "Wrapped BTC",
+      "address": "0xbfc94cd2b1e55999cfc7347a9313e88702b83d0f",
+      "symbol": "WBTC",
+      "logoURI": "https://tokens.pancakeswap.finance/images/symbol/wbtc.png",
+      "assetGroup": "WBTC",
+      "currencyId": "Wrapped BTC::WBTC"
+    },
+    "0xaa40a1cc1561c584b675cbd12f1423a32e2a0d8c": {
+      "chainId": "42793",
+      "decimals": 18,
+      "name": "Wrapped BNB",
+      "address": "0xaa40a1cc1561c584b675cbd12f1423a32e2a0d8c",
+      "symbol": "WBNB",
+      "logoURI": "https://tokens.pancakeswap.finance/images/symbol/bnb.png",
+      "assetGroup": "BNB",
+      "currencyId": "Wrapped BNB::WBNB"
+    },
+    "0xe820995cd39b6e09eaa7e4e16337184b4a61b644": {
+      "chainId": "42793",
+      "decimals": 18,
+      "name": "Wrapped AVAX",
+      "address": "0xe820995cd39b6e09eaa7e4e16337184b4a61b644",
+      "symbol": "WAVAX",
+      "logoURI": "https://assets.coingecko.com/coins/images/12559/standard/Avalanche_Circle_RedWhite_Trans.png?1696512369",
+      "assetGroup": "AVAX",
+      "currencyId": "Wrapped AVAX::WAVAX"
+    },
+    "0xbbd1f50a212357067318a84179892684e1ac5181": {
+      "chainId": "42793",
+      "decimals": 18,
+      "name": "SHIBA INU",
+      "address": "0xbbd1f50a212357067318a84179892684e1ac5181",
+      "symbol": "SHIB",
+      "logoURI": "https://assets.coingecko.com/coins/images/11939/standard/shiba.png?1696511800",
+      "assetGroup": "SHIB",
+      "currencyId": "SHIBA INU::SHIB"
     }
   },
   "mainTokens": [
@@ -63,11 +103,17 @@
     "0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab",
     "0x2c03058c8afc06713be23e58d2febc8337dbfe6a",
     "0x796ea11fa2dd751ed01b53c372ffdb4aaa8f00f9",
-    "0xfc24f770f94edbca6d6f885e12d4317320bcb401"
+    "0xfc24f770f94edbca6d6f885e12d4317320bcb401",
+    "0xbfc94cd2b1e55999cfc7347a9313e88702b83d0f",
+    "0xaa40a1cc1561c584b675cbd12f1423a32e2a0d8c",
+    "0xe820995cd39b6e09eaa7e4e16337184b4a61b644"
   ],
   "bridgeTokens": [
     "0x2c03058c8afc06713be23e58d2febc8337dbfe6a",
     "0x796ea11fa2dd751ed01b53c372ffdb4aaa8f00f9",
-    "0xfc24f770f94edbca6d6f885e12d4317320bcb401"
+    "0xfc24f770f94edbca6d6f885e12d4317320bcb401",
+    "0xbfc94cd2b1e55999cfc7347a9313e88702b83d0f",
+    "0xaa40a1cc1561c584b675cbd12f1423a32e2a0d8c",
+    "0xe820995cd39b6e09eaa7e4e16337184b4a61b644"
   ]
 }

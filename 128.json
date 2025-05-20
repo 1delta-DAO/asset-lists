@@ -409,8 +409,8 @@
       "address": "0x52e00b2da5bd7940ffe26b609a42f957f31118d5",
       "symbol": "SUSHI",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
-      "assetGroup": "SUSHI::SUSHI",
-      "currencyId": "SUSHI::SUSHI"
+      "assetGroup": "SUSHI",
+      "currencyId": "Sushi::SUSHI"
     },
     "0x329dda64cbc4dfd5fa5072b447b3941ce054ebb3": {
       "chainId": "128",
@@ -460,7 +460,8 @@
       "symbol": "WHT",
       "logoURI": "https://hecoinfo.com/token/images/HT_32.png",
       "assetGroup": "Wrapped HT::WHT",
-      "currencyId": "Wrapped HT::WHT"
+      "currencyId": "Wrapped HT::WHT",
+      "tags": ["wnative"]
     },
     "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73": {
       "chainId": "128",
