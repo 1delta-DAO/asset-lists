@@ -1879,7 +1879,7 @@
       "address": "0xb7c2ddb1ebac1056231ef22c1b0a13988537a274",
       "symbol": "TAROT",
       "logoURI": "https://assets.coingecko.com/coins/images/31800/thumb/TAROT.jpg?1696530615",
-      "assetGroup": "Tarot::TAROT::250",
+      "assetGroup": "Tarot::TAROT::250::0",
       "currencyId": "Tarot::TAROT",
       "tags": ["coingecko", "debridge"]
     },
@@ -2539,7 +2539,7 @@
       "address": "0x777cf5ba9c291a1a8f57ff14836f6f9dc5c0f9dd",
       "symbol": "SOLID",
       "logoURI": "https://assets.coingecko.com/coins/images/28676/thumb/solid_logo_200.png?1701687346",
-      "assetGroup": "Solidly::SOLID::250",
+      "assetGroup": "Solidly::SOLID::250::0",
       "currencyId": "Solidly::SOLID",
       "tags": ["coingecko", "debridge"]
     },
@@ -2616,7 +2616,7 @@
       "address": "0x8ff27b58e1d969befc9c8aeae93a6eb7e2250c8f",
       "symbol": "LSHARE",
       "logoURI": "https://assets.coingecko.com/coins/images/31575/thumb/LSHARE.png?1696530392",
-      "assetGroup": "LIF3 LSHARE::LSHARE::250",
+      "assetGroup": "LIF3 LSHARE::LSHARE::250::0",
       "currencyId": "LIF3 LSHARE::LSHARE",
       "tags": ["coingecko", "debridge"]
     },
@@ -3865,7 +3865,7 @@
       "address": "0x5a33869045db8a6a16c9f351293501cfd92cf7ed",
       "symbol": "BSGG",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0x69570f3E84f51Ea70b7B68055c8d667e77735a25.jpg",
-      "assetGroup": "Betswap.gg::BSGG::250",
+      "assetGroup": "Betswap.gg::BSGG::250::0",
       "currencyId": "Betswap.gg::BSGG"
     },
     "0xdef1fac7bf08f173d286bbbdcbeeade695129840": {
@@ -4102,7 +4102,16 @@
     "0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65",
     "0x4b6b3d425f82248996d77ecc3f3df1e500aac1db",
     "0x40df1ae6074c35047bff66675488aa2f9f6384f3",
-    "0x448d59b4302ab5d2dadf9611bed9457491926c8e"
+    "0x448d59b4302ab5d2dadf9611bed9457491926c8e",
+    "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83",
+    "0x6a07a792ab2965c72a5b8088d3a069a7ac3a993b",
+    "0x5a33869045db8a6a16c9f351293501cfd92cf7ed",
+    "0x1e4f97b9f9f913c46f1632781732927b9019c68b",
+    "0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e",
+    "0xb3654dc3d10ea7645f8319668e8f54d2574fbdc8",
+    "0xae75a438b2e0cb8bb01ec1e1e376de11d44477cc",
+    "0x29b0da86e484e1c0029b56e817912d778ac0ec69",
+    "0xd5d5350f42cb484036a1c1af5f2df77eafadcaff"
   ],
   "bridgeTokens": [
     "0x04068da6c83afcfa0e13ba15a6696662335d5b75",
@@ -4125,6 +4134,7 @@
     "0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65",
     "0x4b6b3d425f82248996d77ecc3f3df1e500aac1db",
     "0x40df1ae6074c35047bff66675488aa2f9f6384f3",
-    "0x448d59b4302ab5d2dadf9611bed9457491926c8e"
+    "0x448d59b4302ab5d2dadf9611bed9457491926c8e",
+    "0xd5d5350f42cb484036a1c1af5f2df77eafadcaff"
   ]
 }
