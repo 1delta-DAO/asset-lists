@@ -6344,7 +6344,7 @@
     "0x3a3df212b7aa91aa0402b9035b098891d276572b": {
       "chainId": "137",
       "decimals": 18,
-      "name": "Fish",
+      "name": "Polycat Fish",
       "address": "0x3a3df212b7aa91aa0402b9035b098891d276572b",
       "symbol": "FISH",
       "logoURI": "https://tokens.debridge.finance/Logo/137/0x3a3df212b7aa91aa0402b9035b098891d276572b/small/token-logo.png",
@@ -6366,7 +6366,7 @@
     "0x05089c9ebffa4f0aca269e32056b1b36b37ed71b": {
       "chainId": "137",
       "decimals": 18,
-      "name": "Krill",
+      "name": "Polywhale Krill",
       "address": "0x05089c9ebffa4f0aca269e32056b1b36b37ed71b",
       "symbol": "Krill",
       "logoURI": "https://tokens.debridge.finance/Logo/137/0x05089c9ebffa4f0aca269e32056b1b36b37ed71b/small/token-logo.png",
@@ -8656,9 +8656,9 @@
     "0xc11158c5da9db1d553ed28f0c2ba1cbedd42cfcb": {
       "chainId": "137",
       "decimals": 18,
-      "name": "PAW",
+      "name": "Paw Chain PAW",
       "address": "0xc11158c5da9db1d553ed28f0c2ba1cbedd42cfcb",
-      "symbol": "wPAW",
+      "symbol": "PAW",
       "logoURI": "https://tokens.debridge.finance/Logo/137/0xc11158c5da9db1d553ed28f0c2ba1cbedd42cfcb/small/token-logo.png",
       "assetGroup": "PAW::wPAW",
       "currencyId": "PAW::wPAW",
@@ -15879,10 +15879,20 @@
       "currencyId": "Omnisea::OSEA",
       "tags": ["debridge"]
     },
+    "0x6971aca589bbd367516d70c3d210e4906b090c96": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Polycat Paw (OLD)",
+      "address": "0x6971aca589bbd367516d70c3d210e4906b090c96",
+      "symbol": "PAW",
+      "assetGroup": "Paw::PAW",
+      "currencyId": "Paw::PAW",
+      "tags": ["debridge"]
+    },
     "0xbc5b59ea1b6f8da8258615ee38d40e999ec5d74f": {
       "chainId": "137",
       "decimals": 18,
-      "name": "Paw V2",
+      "name": "Polycat Paw V2",
       "address": "0xbc5b59ea1b6f8da8258615ee38d40e999ec5d74f",
       "symbol": "PAW",
       "logoURI": "https://tokens.debridge.finance/Logo/137/0xbc5b59ea1b6f8da8258615ee38d40e999ec5d74f/small/token-logo.png",
