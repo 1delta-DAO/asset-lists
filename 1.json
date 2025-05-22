@@ -56987,8 +56987,8 @@
       "address": "0x8c9532a60e0e7c6bbd2b2c1303f63ace1c3e9811",
       "symbol": "pzETH",
       "logoURI": "https://assets.coingecko.com/coins/images/39124/thumb/200x200.png?1720629607",
-      "assetGroup": "Renzo Restaked LST::PZETH",
-      "currencyId": "Renzo Restaked LST::PZETH",
+      "assetGroup": "Renzo Restaked LST::pzETH",
+      "currencyId": "Renzo Restaked LST::pzETH",
       "tags": ["coingecko", "debridge"]
     },
     "0xe1b4d34e8754600962cd944b535180bd758e6c2e": {
@@ -74985,6 +74985,127 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55926/thumb/Logo1-1.png?1747762942",
       "assetGroup": "Euphoria::EUPH",
       "currencyId": "Euphoria::EUPH",
+      "tags": ["coingecko"]
+    },
+    "0x6505f1cc7c08061c6d77a62f59cb501e7550cd50": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "LMGroupToken",
+      "address": "0x6505f1cc7c08061c6d77a62f59cb501e7550cd50",
+      "symbol": "LMGX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55930/thumb/lmgx.png?1747764476",
+      "assetGroup": "LMGroupToken::LMGX",
+      "currencyId": "LMGroupToken::LMGX",
+      "tags": ["coingecko"]
+    },
+    "0xa4b855f6713d1a04a2331149db995476dc3e694b": {
+      "chainId": "1",
+      "decimals": 9,
+      "name": "Babydog",
+      "address": "0xa4b855f6713d1a04a2331149db995476dc3e694b",
+      "symbol": "BABYDOG",
+      "logoURI": "https://assets.coingecko.com/coins/images/55935/thumb/%E6%9C%AA%E6%A0%87%E9%A2%98-2.png?1747822421",
+      "assetGroup": "Babydog::BABYDOG",
+      "currencyId": "Babydog::BABYDOG",
+      "tags": ["coingecko"]
+    },
+    "0x66d13dc0e8c2428c9ff4bc0bd93e934110d17fce": {
+      "chainId": "1",
+      "decimals": 9,
+      "name": "Snardler Wormfriend",
+      "address": "0x66d13dc0e8c2428c9ff4bc0bd93e934110d17fce",
+      "symbol": "SNARDLER",
+      "logoURI": "https://assets.coingecko.com/coins/images/55936/thumb/LOGO_%281%29.jpeg?1747822604",
+      "assetGroup": "Snardler Wormfriend::SNARDLER",
+      "currencyId": "Snardler Wormfriend::SNARDLER",
+      "tags": ["coingecko"]
+    },
+    "0x1930411152437a3a85d76d6d0720618b31a555e4": {
+      "chainId": "1",
+      "decimals": 9,
+      "name": "Encryptum",
+      "address": "0x1930411152437a3a85d76d6d0720618b31a555e4",
+      "symbol": "ENCT",
+      "logoURI": "https://assets.coingecko.com/coins/images/55938/thumb/encryptum_logo.png?1747825054",
+      "assetGroup": "Encryptum::ENCT",
+      "currencyId": "Encryptum::ENCT",
+      "tags": ["coingecko"]
+    },
+    "0xed61755893418c11a0e1c3137147f93b956cb5c4": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "MOOD AI",
+      "address": "0xed61755893418c11a0e1c3137147f93b956cb5c4",
+      "symbol": "MOOD",
+      "logoURI": "https://assets.coingecko.com/coins/images/55941/thumb/logo_black_bg.png?1747826092",
+      "assetGroup": "MOOD AI::MOOD",
+      "currencyId": "MOOD AI::MOOD",
+      "tags": ["coingecko"]
+    },
+    "0xf8ea18ca502de3ffaa9b8ed95a21878ee41a2f4a": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "Boochie by Matt Furie",
+      "address": "0xf8ea18ca502de3ffaa9b8ed95a21878ee41a2f4a",
+      "symbol": "BOOCHIE",
+      "logoURI": "https://assets.coingecko.com/coins/images/55946/thumb/Boochie_by_Matt_Furie.png?1747848192",
+      "assetGroup": "Boochie by Matt Furie::BOOCHIE",
+      "currencyId": "Boochie by Matt Furie::BOOCHIE",
+      "tags": ["coingecko"]
+    },
+    "0x418e9cdd368818334d2a97470f77e0ebf1b8224a": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "Ambient AGI",
+      "address": "0x418e9cdd368818334d2a97470f77e0ebf1b8224a",
+      "symbol": "AGI",
+      "logoURI": "https://assets.coingecko.com/coins/images/55949/thumb/Ambient_AGI.jpg?1747850019",
+      "assetGroup": "Ambient AGI::AGI",
+      "currencyId": "Ambient AGI::AGI",
+      "tags": ["coingecko"]
+    },
+    "0xed02aaeee74ab6ebef76fe9f0959f1ba9fd7e318": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "RedHive",
+      "address": "0xed02aaeee74ab6ebef76fe9f0959f1ba9fd7e318",
+      "symbol": "HIV3",
+      "logoURI": "https://assets.coingecko.com/coins/images/55955/thumb/TokenImage.png?1747857282",
+      "assetGroup": "RedHive::HIV3",
+      "currencyId": "RedHive::HIV3",
+      "tags": ["coingecko"]
+    },
+    "0x6a89228055c7c28430692e342f149f37462b478b": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "Spectra",
+      "address": "0x6a89228055c7c28430692e342f149f37462b478b",
+      "symbol": "SPECTRA",
+      "logoURI": "https://assets.coingecko.com/coins/images/52854/thumb/spectra.jpg?1734517434",
+      "assetGroup": "SPECTRA",
+      "currencyId": "Spectra::SPECTRA",
+      "tags": ["coingecko"]
+    },
+    "0x7483e83b481c69a93cb025395194e0dc4f32d9c4": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "Rubicon",
+      "address": "0x7483e83b481c69a93cb025395194e0dc4f32d9c4",
+      "symbol": "RUBI",
+      "logoURI": "https://assets.coingecko.com/coins/images/55956/thumb/RUbi_Token.png?1747864046",
+      "assetGroup": "Rubicon::RUBI",
+      "currencyId": "Rubicon::RUBI",
+      "tags": ["coingecko"]
+    },
+    "0x0f13fc8a93ab8edc9fde0a1e19aac693161599a5": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "SecureChain AI",
+      "address": "0x0f13fc8a93ab8edc9fde0a1e19aac693161599a5",
+      "symbol": "SCAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/55524/thumb/SecureChainAI.jpg?1746500907",
+      "assetGroup": "SecureChain AI::SCAI::1::1",
+      "currencyId": "SecureChain AI::SCAI",
       "tags": ["coingecko"]
     }
   },

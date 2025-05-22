@@ -431,6 +431,27 @@
       "logoURI": "https://raw.githubusercontent.com/HyperSwapX/hyperswap-token-list/refs/heads/main/assets/cmETH.png",
       "assetGroup": "CMETH",
       "currencyId": "cmETH::cmETH"
+    },
+    "0x3b4575e689ded21caad31d64c4df1f10f3b2cedf": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "Unit Fartcoin",
+      "address": "0x3b4575e689ded21caad31d64c4df1f10f3b2cedf",
+      "symbol": "UFART",
+      "logoURI": "https://raw.githubusercontent.com/HyperSwapX/hyperswap-token-list/refs/heads/main/assets/ufart.jpg",
+      "assetGroup": "Unit Fartcoin::UFART",
+      "currencyId": "Unit Fartcoin::UFART"
+    },
+    "0x8ff0dd9f9c40a0d76ef1bcfaf5f98c1610c74bd8": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Hyperstable",
+      "address": "0x8ff0dd9f9c40a0d76ef1bcfaf5f98c1610c74bd8",
+      "symbol": "USH",
+      "logoURI": "https://assets.coingecko.com/coins/images/55951/thumb/ushlogo.png?1747851688",
+      "assetGroup": "Hyperstable::USH",
+      "currencyId": "Hyperstable::USH",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -454,7 +475,8 @@
     "0x7bbcf1b600565ae023a1806ef637af4739de3255",
     "0xae4efbc7736f963982aacb17efa37fcbab924cb3",
     "0xc99f5c922dae05b6e2ff83463ce705ef7c91f077",
-    "0x7410e69958a8ece2a51c231c8528513d4d668c7a"
+    "0x7410e69958a8ece2a51c231c8528513d4d668c7a",
+    "0x8ff0dd9f9c40a0d76ef1bcfaf5f98c1610c74bd8"
   ],
   "bridgeTokens": ["0x7410e69958a8ece2a51c231c8528513d4d668c7a"]
 }
