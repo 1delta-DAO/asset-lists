@@ -56485,6 +56485,26 @@
       "currencyId": "First Digital USD::FDUSD",
       "tags": ["coingecko", "debridge"]
     },
+    "0x6a9a65b84843f5fd4ac9a0471c4fc11afffbce4a": {
+      "chainId": "1",
+      "decimals": 8,
+      "name": "Lorenzo Wrapped Bitcoin",
+      "address": "0x6a9a65b84843f5fd4ac9a0471c4fc11afffbce4a",
+      "symbol": "enzoBTC",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/enzoBTC.webp",
+      "assetGroup": "ENZOBTC",
+      "currencyId": "Lorenzo Wrapped Bitcoin::enzoBTC"
+    },
+    "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "Lorenzo stBTC",
+      "address": "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3",
+      "symbol": "stBTC",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/stBTC.webp",
+      "assetGroup": "STBTC",
+      "currencyId": "Lorenzo stBTC::stBTC"
+    },
     "0xa1290d69c65a6fe4df752f95823fae25cb99e5a7": {
       "chainId": "1",
       "decimals": 18,
