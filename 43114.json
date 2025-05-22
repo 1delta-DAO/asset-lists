@@ -6537,6 +6537,7 @@
       "name": "Unity",
       "address": "0xdbc5192a6b6ffee7451301bb4ec312f844f02b4a",
       "symbol": "UTY",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdbc5192a6b6ffee7451301bb4ec312f844f02b4a.png",
       "assetGroup": "Unity::UTY",
       "currencyId": "Unity::UTY"
     },
@@ -6546,6 +6547,7 @@
       "name": "Staked UTY",
       "address": "0x580d5e1399157fd0d58218b7a514b60974f2ab01",
       "symbol": "yUTY",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x580d5e1399157fd0d58218b7a514b60974f2ab01.png",
       "assetGroup": "Staked UTY::yUTY",
       "currencyId": "Staked UTY::yUTY"
     },
@@ -6656,8 +6658,9 @@
       "address": "0x90b630991ab2fa3bfcf6e7b380830e1c3fb4bc4a",
       "symbol": "XRP",
       "logoURI": "https://raw.githubusercontent.com/swapsicledex/ovx-token-list/master/logos/avalanche/0x90b630991aB2fa3BFCf6e7b380830E1C3Fb4BC4A/logo.png",
-      "assetGroup": "Ripple::XRP",
-      "currencyId": "Ripple::XRP"
+      "assetGroup": "Ripple (Multichain)::XRP",
+      "currencyId": "Ripple (Multichain)::XRP",
+      "tags": ["multichain", "bridged"]
     },
     "0xd6070ae98b8069de6b494332d1a1a81b6179d960": {
       "chainId": "43114",

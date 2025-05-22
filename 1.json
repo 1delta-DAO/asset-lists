@@ -70576,8 +70576,8 @@
       "name": "Axie Infinity Shard (OLD)",
       "address": "0xf5d669627376ebd411e34b98f19c868c8aba5ada",
       "symbol": "AXS",
-      "assetGroup": "Axie Infinity Shard::AXS",
-      "currencyId": "Axie Infinity Shard::AXS"
+      "assetGroup": "Axie Infinity Shard (OLD)::AXS",
+      "currencyId": "Axie Infinity Shard (OLD)::AXS"
     },
     "0x32c4adb9cf57f972bc375129de91c897b4f364f1": {
       "chainId": "1",
@@ -75127,6 +75127,16 @@
       "assetGroup": "SecureChain AI::SCAI::1::1",
       "currencyId": "SecureChain AI::SCAI",
       "tags": ["coingecko"]
+    },
+    "0x3bd0c522ea444ea2b3f28777e8c20248b6e33252": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "PT Wrapped Savings rUSD 31JUL2025",
+      "address": "0x3bd0c522ea444ea2b3f28777e8c20248b6e33252",
+      "symbol": "PT-wsrUSD-31JUL2025",
+      "logoURI": "https://cdn.morpho.org/assets/logos/pt-wsrusd.svg",
+      "assetGroup": "PT Wrapped Savings rUSD 31JUL2025::PT-wsrUSD-31JUL2025",
+      "currencyId": "PT Wrapped Savings rUSD 31JUL2025::PT-wsrUSD-31JUL2025"
     }
   },
   "mainTokens": [
