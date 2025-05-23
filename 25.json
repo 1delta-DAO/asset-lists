@@ -383,9 +383,9 @@
       "address": "0x765277eebeca2e31912c9946eae1021199b39c61",
       "symbol": "AVAX",
       "logoURI": "https://s3.openocean.finance/token_logos/logos/1650426195417_3159987343850068.png",
-      "assetGroup": "AVAX",
-      "currencyId": "AVAX::AVAX",
-      "tags": ["openocean"]
+      "assetGroup": "Multichain Bridged AVAX::AVAX",
+      "currencyId": "Multichain Bridged AVAX::AVAX",
+      "tags": ["openocean", "multichain", "bridged"]
     },
     "0xad79ac3c5a5c15c6b9194f5568e451b3fc3c2b40": {
       "chainId": "25",
@@ -1808,7 +1808,7 @@
       "address": "0x8d58088d4e8ffe75a8b6357ba5ff17b93b912640",
       "symbol": "AVAX",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/cronos/0x8d58088D4E8Ffe75A8b6357ba5ff17B93B912640.jpg",
-      "assetGroup": "Avalanche::AVAX",
+      "assetGroup": "AVAX",
       "currencyId": "Avalanche::AVAX"
     },
     "0x61426c150207abf8a215f3377a0819ddca842af3": {

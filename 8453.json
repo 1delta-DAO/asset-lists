@@ -1354,8 +1354,8 @@
       "address": "0xb79dd08ea68a908a97220c76d19a6aa9cbde4376",
       "symbol": "USD+",
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/fd33e52868f183d366054eaaf427a343c41ee9aa/images/USD+.svg",
-      "assetGroup": "USD+::USD+",
-      "currencyId": "USD+::USD+",
+      "assetGroup": "USD+",
+      "currencyId": "Overnight.fi USD+::USD+",
       "tags": ["coingecko", "debridge"]
     },
     "0x85483696cc9970ad9edd786b2c5ef735f38d156f": {
@@ -12606,8 +12606,8 @@
       "address": "0xc11158c5da9db1d553ed28f0c2ba1cbedd42cfcb",
       "symbol": "PAW",
       "logoURI": "https://assets.coingecko.com/coins/images/28946/thumb/PawLogo.png?1699394612",
-      "assetGroup": "PAW::PAW",
-      "currencyId": "PAW::PAW",
+      "assetGroup": "Paw Chain PAW::PAW",
+      "currencyId": "Paw Chain PAW::PAW",
       "tags": ["coingecko", "debridge"]
     },
     "0x60d01ec2d5e98ac51c8b4cf84dfcce98d527c747": {
@@ -13243,8 +13243,8 @@
       "address": "0xc19669a405067927865b40ea045a2baabbbe57f5",
       "symbol": "STAR",
       "logoURI": "https://assets.coingecko.com/coins/images/31277/thumb/coin-icon_Star-200x200.png?1732742256",
-      "assetGroup": "Star::STAR",
-      "currencyId": "Star::STAR",
+      "assetGroup": "STAR Token::STAR",
+      "currencyId": "STAR Token::STAR",
       "tags": ["coingecko", "debridge"]
     },
     "0xd4a0e0b9149bcee3c920d2e00b5de09138fd8bb7": {
@@ -20300,6 +20300,39 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55987/thumb/500.png?1747932899",
       "assetGroup": "Maneki AI by Virtuals::MANEKI",
       "currencyId": "Maneki AI by Virtuals::MANEKI",
+      "tags": ["coingecko"]
+    },
+    "0xdf2fd7dd75143a5010f145440d49748275e362a3": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Whale Intel",
+      "address": "0xdf2fd7dd75143a5010f145440d49748275e362a3",
+      "symbol": "WINT",
+      "logoURI": "https://assets.coingecko.com/coins/images/55997/thumb/Original_Logo_Symbol.png?1747991346",
+      "assetGroup": "Whale Intel::WINT",
+      "currencyId": "Whale Intel::WINT",
+      "tags": ["coingecko"]
+    },
+    "0x2c001233ed5e731b98b15b30267f78c7560b71f2": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "BUBU",
+      "address": "0x2c001233ed5e731b98b15b30267f78c7560b71f2",
+      "symbol": "BUBU",
+      "logoURI": "https://assets.coingecko.com/coins/images/55990/thumb/BUBU.png?1747988395",
+      "assetGroup": "BUBU::BUBU",
+      "currencyId": "BUBU::BUBU",
+      "tags": ["coingecko"]
+    },
+    "0x5ba9e0ce610927c1915c9d9de4bdaf2b8a1dee7e": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Finger Monkeys",
+      "address": "0x5ba9e0ce610927c1915c9d9de4bdaf2b8a1dee7e",
+      "symbol": "FMT",
+      "logoURI": "https://assets.coingecko.com/coins/images/55998/thumb/Finger_Monkeys.jpg?1747991549",
+      "assetGroup": "Finger Monkeys::FMT",
+      "currencyId": "Finger Monkeys::FMT",
       "tags": ["coingecko"]
     }
   },

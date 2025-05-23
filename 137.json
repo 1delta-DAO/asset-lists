@@ -2202,8 +2202,9 @@
       "address": "0x85fe1651cad895a0c9a8c59e833379a4d10f038d",
       "symbol": "GEL",
       "logoURI": "https://assets.coingecko.com/coins/images/15026/large/Gelato_Icon_Logo_1024x1024.png?1619491717",
-      "assetGroup": "GEL",
-      "currencyId": "Gelato::GEL"
+      "assetGroup": "Bridged Gelato::GEL",
+      "currencyId": "Bridged Gelato::GEL",
+      "tags": ["bridged"]
     },
     "0xae07b360cf41c8971f6c544620a6ed428ff3a661": {
       "chainId": "137",
@@ -2772,7 +2773,7 @@
       "symbol": "KNC",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdd974D5C2e2928deA5F71b9825b8b646686BD200/logo.png",
       "assetGroup": "KNC",
-      "currencyId": "Kyber Network Crystal::KNC"
+      "currencyId": "Kyber Network Crystal (OLD)::KNC"
     },
     "0x53aec293212e3b792563bc16f1be26956adb12e9": {
       "chainId": "137",
@@ -6348,8 +6349,8 @@
       "address": "0x3a3df212b7aa91aa0402b9035b098891d276572b",
       "symbol": "FISH",
       "logoURI": "https://tokens.debridge.finance/Logo/137/0x3a3df212b7aa91aa0402b9035b098891d276572b/small/token-logo.png",
-      "assetGroup": "Fish::FISH",
-      "currencyId": "Fish::FISH",
+      "assetGroup": "Polycat Fish::FISH",
+      "currencyId": "Polycat Fish::FISH",
       "tags": ["openocean", "debridge"]
     },
     "0xf4b0903774532aee5ee567c02aab681a81539e92": {
@@ -6370,8 +6371,8 @@
       "address": "0x05089c9ebffa4f0aca269e32056b1b36b37ed71b",
       "symbol": "Krill",
       "logoURI": "https://tokens.debridge.finance/Logo/137/0x05089c9ebffa4f0aca269e32056b1b36b37ed71b/small/token-logo.png",
-      "assetGroup": "Krill::Krill",
-      "currencyId": "Krill::Krill",
+      "assetGroup": "Polywhale Krill::Krill",
+      "currencyId": "Polywhale Krill::Krill",
       "tags": ["openocean", "debridge"]
     },
     "0x8a953cfe442c5e8855cc6c61b1293fa648bae472": {
@@ -7949,7 +7950,7 @@
       "address": "0x15b7c0c907e4c6b9adaaaabc300c08991d6cea05",
       "symbol": "GEL",
       "logoURI": "https://tokens.debridge.finance/Logo/137/0x15b7c0c907e4c6b9adaaaabc300c08991d6cea05/small/token-logo.png",
-      "assetGroup": "Gelato::GEL",
+      "assetGroup": "GEL",
       "currencyId": "Gelato::GEL",
       "tags": ["debridge"]
     },
@@ -7960,8 +7961,8 @@
       "address": "0x78a0a62fba6fb21a83fe8a3433d44c73a4017a6f",
       "symbol": "OX",
       "logoURI": "https://tokens.debridge.finance/Logo/137/0x78a0a62fba6fb21a83fe8a3433d44c73a4017a6f/small/token-logo.png",
-      "assetGroup": "Open Exchange Token::OX",
-      "currencyId": "Open Exchange Token::OX",
+      "assetGroup": "Open Exchange Token (OLD)::OX",
+      "currencyId": "Open Exchange Token (OLD)::OX",
       "tags": ["debridge"]
     },
     "0x1a7e49125a6595588c9556f07a4c006461b24545": {
@@ -8660,8 +8661,8 @@
       "address": "0xc11158c5da9db1d553ed28f0c2ba1cbedd42cfcb",
       "symbol": "PAW",
       "logoURI": "https://tokens.debridge.finance/Logo/137/0xc11158c5da9db1d553ed28f0c2ba1cbedd42cfcb/small/token-logo.png",
-      "assetGroup": "PAW::wPAW",
-      "currencyId": "PAW::wPAW",
+      "assetGroup": "Paw Chain PAW::PAW",
+      "currencyId": "Paw Chain PAW::PAW",
       "tags": ["debridge"]
     },
     "0xdbf31df14b66535af65aac99c32e9ea844e14501": {
@@ -8747,8 +8748,8 @@
       "address": "0xc19669a405067927865b40ea045a2baabbbe57f5",
       "symbol": "STAR",
       "logoURI": "https://tokens.debridge.finance/Logo/137/0xc19669a405067927865b40ea045a2baabbbe57f5/small/token-logo.png",
-      "assetGroup": "Star::STAR",
-      "currencyId": "Star::STAR",
+      "assetGroup": "STAR Token::STAR",
+      "currencyId": "STAR Token::STAR",
       "tags": ["debridge"]
     },
     "0x820802fa8a99901f52e39acd21177b0be6ee2974": {
@@ -11200,8 +11201,8 @@
       "address": "0xc4ce1d6f5d98d65ee25cf85e9f2e9dcfee6cb5d6",
       "symbol": "crvUSD",
       "logoURI": "https://tokens.debridge.finance/Logo/137/0xc4ce1d6f5d98d65ee25cf85e9f2e9dcfee6cb5d6/small/token-logo.png",
-      "assetGroup": "crvUSD::crvUSD",
-      "currencyId": "crvUSD::crvUSD",
+      "assetGroup": "CRVUSD",
+      "currencyId": "Curve.Fi USD Stablecoin::crvUSD",
       "tags": ["debridge"]
     },
     "0xc2a7195cef4605bd80b949cd7eb1f7ad1566c850": {
@@ -15885,8 +15886,8 @@
       "name": "Polycat Paw (OLD)",
       "address": "0x6971aca589bbd367516d70c3d210e4906b090c96",
       "symbol": "PAW",
-      "assetGroup": "Paw::PAW",
-      "currencyId": "Paw::PAW",
+      "assetGroup": "Polycat Paw (OLD)::PAW",
+      "currencyId": "Polycat Paw (OLD)::PAW",
       "tags": ["debridge"]
     },
     "0xbab4286b2bf88e070da0aae411a168059b040e7f": {
@@ -15905,8 +15906,8 @@
       "address": "0xbc5b59ea1b6f8da8258615ee38d40e999ec5d74f",
       "symbol": "PAW",
       "logoURI": "https://tokens.debridge.finance/Logo/137/0xbc5b59ea1b6f8da8258615ee38d40e999ec5d74f/small/token-logo.png",
-      "assetGroup": "Paw V2::PAW",
-      "currencyId": "Paw V2::PAW",
+      "assetGroup": "Polycat Paw V2::PAW",
+      "currencyId": "Polycat Paw V2::PAW",
       "tags": ["debridge"]
     },
     "0x381caf412b45dac0f62fbeec89de306d3eabe384": {
@@ -18097,7 +18098,7 @@
       "name": "Bitcoin",
       "address": "0x2297aebd383787a160dd0d9f71508148769342e3",
       "symbol": "BTC.b",
-      "assetGroup": "Bitcoin::BTC.b",
+      "assetGroup": "BTC",
       "currencyId": "Bitcoin::BTC.b"
     },
     "0x02d2e2d7a89d6c5cb3681cfcb6f7dac02a55eda4": {
@@ -18719,7 +18720,8 @@
       "address": "0x86233ff3ed561a0e35910920acb2d91419fd14d0",
       "symbol": "DOGE",
       "assetGroup": "DOGE",
-      "currencyId": "Dogecoin::DOGE"
+      "currencyId": "Dogecoin (Wormhole)::DOGE",
+      "tags": ["wormhole", "bridged"]
     },
     "0xb419fc8e817a76fe972707eabcf5dca4c49aa8e4": {
       "chainId": "137",

@@ -67,6 +67,17 @@
       "assetGroup": "STONE",
       "currencyId": "StakeStone Ether::STONE",
       "tags": ["coingecko"]
+    },
+    "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34": {
+      "chainId": "48900",
+      "decimals": 18,
+      "name": "Ethena USDe",
+      "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+      "symbol": "USDE",
+      "logoURI": "https://assets.coingecko.com/coins/images/33613/thumb/usde.png?1733810059",
+      "assetGroup": "USDE",
+      "currencyId": "Ethena USDe::USDE",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -75,7 +86,8 @@
     "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",
     "0xa608512bbc9934e4b1ddecf0f5fb38b6ad93308d",
     "0xfd418e42783382e86ae91e445406600ba144d162",
-    "0x80137510979822322193fc997d400d5a6c747bf7"
+    "0x80137510979822322193fc997d400d5a6c747bf7",
+    "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34"
   ],
   "bridgeTokens": ["0x4200000000000000000000000000000000000006", "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742"]
 }

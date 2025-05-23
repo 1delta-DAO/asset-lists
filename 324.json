@@ -1154,6 +1154,17 @@
       "assetGroup": "Solv BTC::SolvBTC",
       "currencyId": "Solv BTC::SolvBTC",
       "tags": ["coingecko"]
+    },
+    "0x39fe7a0dacce31bd90418e3e659fb0b5f0b3db0d": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "Ethena USDe",
+      "address": "0x39fe7a0dacce31bd90418e3e659fb0b5f0b3db0d",
+      "symbol": "USDE",
+      "logoURI": "https://assets.coingecko.com/coins/images/33613/thumb/usde.png?1733810059",
+      "assetGroup": "USDE",
+      "currencyId": "Ethena USDe::USDE",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -1185,7 +1196,8 @@
     "0x90059c32eeeb1a2aa1351a58860d98855f3655ad",
     "0x4b9eb6c0b6ea15176bbf62841c6b2a8a398cb656",
     "0x60e7fe7ae4461b535bb9eb40c20424c7c61063d0",
-    "0x5165ec33b491d7b67260b3143f96bb4ac4736398"
+    "0x5165ec33b491d7b67260b3143f96bb4ac4736398",
+    "0x31c2c031fdc9d33e974f327ab0d9883eae06ca4a"
   ],
   "bridgeTokens": [
     "0xaf08a9d918f16332f22cf8dc9abe9d9e14ddcbc2",

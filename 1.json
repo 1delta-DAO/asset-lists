@@ -5530,7 +5530,7 @@
       "symbol": "KNC",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdd974D5C2e2928deA5F71b9825b8b646686BD200/logo.png",
       "assetGroup": "KNC",
-      "currencyId": "Kyber Network Crystal::KNC",
+      "currencyId": "Kyber Network Crystal (OLD)::KNC",
       "tags": ["openocean", "coingecko", "debridge"]
     },
     "0x6769d86f9c430f5ac6d9c861a0173613f1c5544c": {
@@ -17086,8 +17086,8 @@
       "address": "0x419777d3e39aa9b00405724eace5ea57620c9062",
       "symbol": "PAW",
       "logoURI": "https://assets.coingecko.com/coins/images/32118/thumb/photo1701025138-removebg-preview__5_-removebg-preview.png?1701386426",
-      "assetGroup": "PAW::PAW",
-      "currencyId": "PAW::PAW",
+      "assetGroup": "PAW Token::PAW",
+      "currencyId": "PAW Token::PAW",
       "tags": ["coingecko", "debridge"]
     },
     "0xef89c37fe9e5c906b404cd7edae4a2992b5d25fa": {
@@ -43942,8 +43942,8 @@
       "address": "0xc11158c5da9db1d553ed28f0c2ba1cbedd42cfcb",
       "symbol": "PAW",
       "logoURI": "https://assets.coingecko.com/coins/images/28946/thumb/PawLogo.png?1699394612",
-      "assetGroup": "PAW::PAW::1::0",
-      "currencyId": "PAW::PAW",
+      "assetGroup": "Paw Chain PAW::PAW",
+      "currencyId": "Paw Chain PAW::PAW",
       "tags": ["coingecko", "debridge"]
     },
     "0x6e0615a03ed9527a6013fcd5b556e36ef4dab1ff": {
@@ -54765,8 +54765,8 @@
       "address": "0x78a0a62fba6fb21a83fe8a3433d44c73a4017a6f",
       "symbol": "OX",
       "logoURI": "https://assets.coingecko.com/coins/images/30604/thumb/Logo2.png?1696529473",
-      "assetGroup": "Open Exchange Token::OXOLD",
-      "currencyId": "Open Exchange Token::OXOLD",
+      "assetGroup": "Open Exchange Token (OLD)::OX",
+      "currencyId": "Open Exchange Token (OLD)::OX",
       "tags": ["coingecko", "debridge"]
     },
     "0x3902d5f4213a6b8c434a470026e0c23709a5bb39": {
@@ -57007,7 +57007,7 @@
       "address": "0x8c9532a60e0e7c6bbd2b2c1303f63ace1c3e9811",
       "symbol": "pzETH",
       "logoURI": "https://assets.coingecko.com/coins/images/39124/thumb/200x200.png?1720629607",
-      "assetGroup": "Renzo Restaked LST::pzETH",
+      "assetGroup": "PZETH",
       "currencyId": "Renzo Restaked LST::pzETH",
       "tags": ["coingecko", "debridge"]
     },
@@ -75147,6 +75147,39 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55988/thumb/Screenshot_2025-05-21_alle_04.22.38.png?1747933282",
       "assetGroup": "CLOAK::CLOAK",
       "currencyId": "CLOAK::CLOAK",
+      "tags": ["coingecko"]
+    },
+    "0x01d3077eeb27f55d82079297f2896dadfbde470b": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "Auralex AI",
+      "address": "0x01d3077eeb27f55d82079297f2896dadfbde470b",
+      "symbol": "AURA",
+      "logoURI": "https://assets.coingecko.com/coins/images/55991/thumb/Logo1.png?1747988590",
+      "assetGroup": "Auralex AI::AURA",
+      "currencyId": "Auralex AI::AURA",
+      "tags": ["coingecko"]
+    },
+    "0xe778fd9a8d074e4a808092896b33fe3d3452c125": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "FROGGER",
+      "address": "0xe778fd9a8d074e4a808092896b33fe3d3452c125",
+      "symbol": "FROGGER",
+      "logoURI": "https://assets.coingecko.com/coins/images/55994/thumb/IMG_8030.jpeg?1747989730",
+      "assetGroup": "FROGGER::FROGGER",
+      "currencyId": "FROGGER::FROGGER",
+      "tags": ["coingecko"]
+    },
+    "0xccebc855b4ddb8b90dbbe2a9b89506aa306b17f4": {
+      "chainId": "1",
+      "decimals": 9,
+      "name": "HYPE",
+      "address": "0xccebc855b4ddb8b90dbbe2a9b89506aa306b17f4",
+      "symbol": "HYPE",
+      "logoURI": "https://assets.coingecko.com/coins/images/56001/thumb/IMG_9924.jpeg?1747993188",
+      "assetGroup": "HYPE::HYPE",
+      "currencyId": "HYPE::HYPE",
       "tags": ["coingecko"]
     }
   },

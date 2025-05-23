@@ -3243,8 +3243,8 @@
       "address": "0x99e5ec3775bbb0bc92c08ca423c54b0478b2f6d8",
       "symbol": "STAR",
       "logoURI": "https://api.swapscanner.io/v0/tokens/0x99e5ec3775bbb0bc92c08ca423c54b0478b2f6d8/icon",
-      "assetGroup": "Star::STAR",
-      "currencyId": "Star::STAR"
+      "assetGroup": "Ethaliens Star::STAR",
+      "currencyId": "Ethaliens Star::STAR"
     },
     "0x5a36597fb14c8f28ea3c3163754f8149ef1d45a8": {
       "chainId": "8217",
@@ -4503,8 +4503,9 @@
       "address": "0x078db7827a5531359f6cb63f62cfa20183c4f10c",
       "symbol": "DAI",
       "logoURI": "https://api.swapscanner.io/v0/tokens/0x078db7827a5531359f6cb63f62cfa20183c4f10c/icon",
-      "assetGroup": "Dai Stable Coin (Synapse)::DAI",
-      "currencyId": "Dai Stable Coin (Synapse)::DAI"
+      "assetGroup": "DAI",
+      "currencyId": "Bridged DAI (Synapse)::DAI",
+      "tags": ["bridged"]
     },
     "0x6270b58be569a7c0b8f47594f191631ae5b2c86c": {
       "chainId": "8217",

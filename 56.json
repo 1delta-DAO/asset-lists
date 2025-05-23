@@ -17052,8 +17052,8 @@
       "address": "0xe2fb3f127f5450dee44afe054385d74c392bdef4",
       "symbol": "crvUSD",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/crvUSD.webp",
-      "assetGroup": "crvUSD::crvUSD",
-      "currencyId": "crvUSD::crvUSD",
+      "assetGroup": "CRVUSD",
+      "currencyId": "Curve.Fi USD Stablecoin::crvUSD",
       "tags": ["coingecko", "debridge"]
     },
     "0xa63f56985f9c7f3bc9ffc5685535649e0c1a55f3": {
@@ -17754,8 +17754,8 @@
       "address": "0xc11158c5da9db1d553ed28f0c2ba1cbedd42cfcb",
       "symbol": "PAW",
       "logoURI": "https://tokens.debridge.finance/Logo/56/0xc11158c5da9db1d553ed28f0c2ba1cbedd42cfcb/small/token-logo.png",
-      "assetGroup": "PAW::wPAW",
-      "currencyId": "PAW::wPAW",
+      "assetGroup": "Paw Chain PAW::PAW",
+      "currencyId": "Paw Chain PAW::PAW",
       "tags": ["coingecko", "debridge"]
     },
     "0x90c48855bb69f9d2c261efd0d8c7f35990f2dd6f": {
@@ -40563,6 +40563,17 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55984/thumb/output-onlinepngtools.png?1747932126",
       "assetGroup": "StandX DUSD::DUSD",
       "currencyId": "StandX DUSD::DUSD",
+      "tags": ["coingecko"]
+    },
+    "0xbc1b8f283228dc8c6092851d67eae1ad438a287b": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "WOOHOO",
+      "address": "0xbc1b8f283228dc8c6092851d67eae1ad438a287b",
+      "symbol": "WOOHOO",
+      "logoURI": "https://assets.coingecko.com/coins/images/56003/thumb/2025-05-22_14.52.06.jpg?1747993902",
+      "assetGroup": "WOOHOO::WOOHOO",
+      "currencyId": "WOOHOO::WOOHOO",
       "tags": ["coingecko"]
     }
   },
