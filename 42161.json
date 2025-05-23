@@ -5574,8 +5574,8 @@
       "symbol": "FUSE",
       "logoURI": "https://assets.coingecko.com/coins/images/10347/large/fuse.png?1675703585",
       "assetGroup": "FUSE",
-      "currencyId": "Fuse::FUSE",
-      "tags": ["openocean"]
+      "currencyId": "Bridged FUSE::FUSE",
+      "tags": ["openocean", "bridged"]
     },
     "0x5c1663ed38b3a0eaa5ab7a392ff149b06a13415e": {
       "chainId": "42161",
@@ -11575,7 +11575,7 @@
       "address": "0x6b021b3f68491974be6d4009fee61a4e3c708fd6",
       "symbol": "FUSE",
       "logoURI": "https://assets.coingecko.com/coins/images/10347/thumb/fuse.png?1696510348",
-      "assetGroup": "Fuse::FUSE",
+      "assetGroup": "FUSE",
       "currencyId": "Fuse::FUSE",
       "tags": ["coingecko", "debridge"]
     },
