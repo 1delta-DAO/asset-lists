@@ -1,0 +1,28 @@
+{
+  "chainId": "2525",
+  "version": "0",
+  "list": {
+    "0x97423a68bae94b5de52d767a17abcc54c157c0e5": {
+      "chainId": "2525",
+      "decimals": 6,
+      "name": "Tether USD",
+      "address": "0x97423a68bae94b5de52d767a17abcc54c157c0e5",
+      "symbol": "USDT",
+      "logoURI": "https://www.ape.bond/tokenImages/USDT.png",
+      "assetGroup": "USDT",
+      "currencyId": "Tether USD::USDT"
+    },
+    "0x69011706b3f6c6eaed7d2bc13801558b4fd94cbf": {
+      "chainId": "2525",
+      "decimals": 18,
+      "name": "Wrapped Injective",
+      "address": "0x69011706b3f6c6eaed7d2bc13801558b4fd94cbf",
+      "symbol": "WINJ",
+      "logoURI": "https://www.ape.bond/tokenImages/WINJ.png",
+      "assetGroup": "Wrapped Injective::WINJ",
+      "currencyId": "Wrapped Injective::WINJ"
+    }
+  },
+  "mainTokens": ["0x97423a68bae94b5de52d767a17abcc54c157c0e5"],
+  "bridgeTokens": ["0x97423a68bae94b5de52d767a17abcc54c157c0e5"]
+}

@@ -6916,6 +6916,57 @@
       "assetGroup": "Nexpace::NXPC",
       "currencyId": "Nexpace::NXPC",
       "tags": ["coingecko"]
+    },
+    "0x6b56ec4a92765203508fb40fec9fa23e549b705a": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Unbound Dollar",
+      "address": "0x6b56ec4a92765203508fb40fec9fa23e549b705a",
+      "symbol": "UND",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7848.png",
+      "assetGroup": "Unbound Dollar::UND",
+      "currencyId": "Unbound Dollar::UND"
+    },
+    "0xf915fdda4c882731c0456a4214548cd13a822886": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Unbound",
+      "address": "0xf915fdda4c882731c0456a4214548cd13a822886",
+      "symbol": "UNB",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7846.png",
+      "assetGroup": "Unbound::UNB",
+      "currencyId": "Unbound::UNB"
+    },
+    "0x8965349fb649a33a30cbfda057d8ec2c48abe2a2": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Nord Finance",
+      "address": "0x8965349fb649a33a30cbfda057d8ec2c48abe2a2",
+      "symbol": "NORD",
+      "logoURI": "https://assets.coingecko.com/coins/images/13630/small/nord.jpg?1610465136",
+      "assetGroup": "NORD",
+      "currencyId": "Nord Finance::NORD"
+    },
+    "0xe0dda2fc4f4750276641be3a82634fa5dd956ede": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Easy",
+      "address": "0xe0dda2fc4f4750276641be3a82634fa5dd956ede",
+      "symbol": "EZ",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7332.png",
+      "assetGroup": "Easy::EZ",
+      "currencyId": "Easy::EZ"
+    },
+    "0x7f4546ef315efc65336187fe3765ea779ac90183": {
+      "chainId": "43114",
+      "decimals": 6,
+      "name": "VanEck Treasury Fund",
+      "address": "0x7f4546ef315efc65336187fe3765ea779ac90183",
+      "symbol": "VBILL",
+      "logoURI": "https://assets.coingecko.com/coins/images/56023/thumb/vbill_200.png?1748092620",
+      "assetGroup": "VanEck Treasury Fund::VBILL",
+      "currencyId": "VanEck Treasury Fund::VBILL",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [

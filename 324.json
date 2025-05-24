@@ -1165,6 +1165,17 @@
       "assetGroup": "USDE",
       "currencyId": "Ethena USDe::USDE",
       "tags": ["coingecko"]
+    },
+    "0x57fd71a86522dc06d6255537521886057c1772a3": {
+      "chainId": "324",
+      "decimals": 2,
+      "name": "Blockchain Capital",
+      "address": "0x57fd71a86522dc06d6255537521886057c1772a3",
+      "symbol": "BCAP",
+      "logoURI": "https://assets.coingecko.com/coins/images/56040/thumb/bcap_logo_200.png?1748088291",
+      "assetGroup": "Blockchain Capital::BCAP",
+      "currencyId": "Blockchain Capital::BCAP",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -1197,7 +1208,8 @@
     "0x4b9eb6c0b6ea15176bbf62841c6b2a8a398cb656",
     "0x60e7fe7ae4461b535bb9eb40c20424c7c61063d0",
     "0x5165ec33b491d7b67260b3143f96bb4ac4736398",
-    "0x31c2c031fdc9d33e974f327ab0d9883eae06ca4a"
+    "0x31c2c031fdc9d33e974f327ab0d9883eae06ca4a",
+    "0x57fd71a86522dc06d6255537521886057c1772a3"
   ],
   "bridgeTokens": [
     "0xaf08a9d918f16332f22cf8dc9abe9d9e14ddcbc2",

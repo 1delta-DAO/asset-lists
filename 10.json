@@ -4017,6 +4017,16 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/optimism/0xa219B43C6e5935085Bcaf7Fd590C83ABe62dCd77.jpg",
       "assetGroup": "Pleasure Coin::NSFW",
       "currencyId": "Pleasure Coin::NSFW"
+    },
+    "0x42006ab57701251b580bdfc24778c43c9ff589a1": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "EVO",
+      "address": "0x42006ab57701251b580bdfc24778c43c9ff589a1",
+      "symbol": "EVO",
+      "logoURI": "https://assets.coingecko.com/coins/images/25088/large/evoToken.png?1650269135",
+      "assetGroup": "EVO::EVO",
+      "currencyId": "EVO::EVO"
     }
   },
   "mainTokens": [
@@ -4077,6 +4087,7 @@
     "0xe3b3a464ee575e8e25d2508918383b89c832f275",
     "0x9cfb13e6c11054ac9fcb92ba89644f30775436e4",
     "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
-    "0xb829b68f57cc546da7e5806a929e53be32a4625d"
+    "0xb829b68f57cc546da7e5806a929e53be32a4625d",
+    "0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6"
   ]
 }

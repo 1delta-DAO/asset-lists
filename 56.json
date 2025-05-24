@@ -7122,7 +7122,7 @@
       "name": "ApeCoin",
       "address": "0x0b079b33b6e72311c6be245f9f660cc385029fc3",
       "symbol": "APE",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/1647685207270_7574985937300007.jpg",
+      "logoURI": "https://www.ape.bond/tokenImages/APE.png",
       "assetGroup": "ApeCoin::APE",
       "currencyId": "ApeCoin::APE",
       "tags": ["openocean"]
@@ -7177,7 +7177,7 @@
       "name": "Cryptogodz",
       "address": "0xf0a8ecbce8caadb7a07d1fcd0f87ae1bd688df43",
       "symbol": "GODZ",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/1643720478284_3676874791228144.png",
+      "logoURI": "https://www.ape.bond/tokenImages/GODZ.png",
       "assetGroup": "Cryptogodz::GODZ",
       "currencyId": "Cryptogodz::GODZ",
       "tags": ["openocean"]
@@ -40574,6 +40574,928 @@
       "logoURI": "https://assets.coingecko.com/coins/images/56003/thumb/2025-05-22_14.52.06.jpg?1747993902",
       "assetGroup": "WOOHOO::WOOHOO",
       "currencyId": "WOOHOO::WOOHOO",
+      "tags": ["coingecko"]
+    },
+    "0x7f22a8af38bcf14b92cd65ae8b19260fc0beefdf": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "QAAGAI",
+      "address": "0x7f22a8af38bcf14b92cd65ae8b19260fc0beefdf",
+      "symbol": "QAAGAI",
+      "logoURI": "https://www.ape.bond/tokenImages/QAAGAI.png",
+      "assetGroup": "QAAGAI::QAAGAI",
+      "currencyId": "QAAGAI::QAAGAI"
+    },
+    "0xe2b1f3908588e2338587ed998f974ee6f63f500d": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "BetHustlers",
+      "address": "0xe2b1f3908588e2338587ed998f974ee6f63f500d",
+      "symbol": "BetHustlers",
+      "logoURI": "https://www.ape.bond/tokenImages/BETHUSTLERS.png",
+      "assetGroup": "BetHustlers::BetHustlers",
+      "currencyId": "BetHustlers::BetHustlers"
+    },
+    "0xedee721a41435deb16d3e02719ebded9b9740b52": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Ape Bond CARV Node Ticket TOKEN",
+      "address": "0xedee721a41435deb16d3e02719ebded9b9740b52",
+      "symbol": "ABCARV",
+      "logoURI": "https://www.ape.bond/tokenImages/CARV.png",
+      "assetGroup": "Ape Bond CARV Node Ticket TOKEN::ABCARV",
+      "currencyId": "Ape Bond CARV Node Ticket TOKEN::ABCARV"
+    },
+    "0x2833412a3ac08ee81c8590be0081eb6f5e076be0": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Ape Bond Cody Fight Token",
+      "address": "0x2833412a3ac08ee81c8590be0081eb6f5e076be0",
+      "symbol": "ABCTOK",
+      "logoURI": "https://www.ape.bond/tokenImages/CTOK.png",
+      "assetGroup": "Ape Bond Cody Fight Token::ABCTOK",
+      "currencyId": "Ape Bond Cody Fight Token::ABCTOK"
+    },
+    "0xbeef2d2005c662f21a5696a68f54bd165e91c8bd": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "ERC20Mock",
+      "address": "0xbeef2d2005c662f21a5696a68f54bd165e91c8bd",
+      "symbol": "MOCK",
+      "logoURI": "https://www.ape.bond/tokenImages/MockERC20.png",
+      "assetGroup": "ERC20Mock::MOCK",
+      "currencyId": "ERC20Mock::MOCK"
+    },
+    "0x99870080894626dce15216ef0fbb5f3bc1016b0e": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Agus Is The Master",
+      "address": "0x99870080894626dce15216ef0fbb5f3bc1016b0e",
+      "symbol": "AITM",
+      "logoURI": "https://www.ape.bond/tokenImages/AITM.png",
+      "assetGroup": "Agus Is The Master::AITM",
+      "currencyId": "Agus Is The Master::AITM"
+    },
+    "0xe51072f493e9a0b40e468f2eb4686458acd47a8d": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Fede Is The Master",
+      "address": "0xe51072f493e9a0b40e468f2eb4686458acd47a8d",
+      "symbol": "FITM",
+      "logoURI": "https://www.ape.bond/tokenImages/FITM.png",
+      "assetGroup": "Fede Is The Master::FITM",
+      "currencyId": "Fede Is The Master::FITM"
+    },
+    "0xddb3bd8645775f59496c821e4f55a7ea6a6dc299": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Golden Banana",
+      "address": "0xddb3bd8645775f59496c821e4f55a7ea6a6dc299",
+      "symbol": "GNANA",
+      "logoURI": "https://www.ape.bond/tokenImages/GNANA.png",
+      "assetGroup": "Golden Banana::GNANA",
+      "currencyId": "Golden Banana::GNANA"
+    },
+    "0x1ce1b8e28e4d4c1c4da01b69f5434a9fb7be023d": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Future Vote Escrow Apebond Token",
+      "address": "0x1ce1b8e28e4d4c1c4da01b69f5434a9fb7be023d",
+      "symbol": "FveABOND",
+      "logoURI": "https://www.ape.bond/tokenImages/veABOND.png",
+      "assetGroup": "Future Vote Escrow Apebond Token::FveABOND",
+      "currencyId": "Future Vote Escrow Apebond Token::FveABOND"
+    },
+    "0x05b339b0a346bf01f851dde47a5d485c34fe220c": {
+      "chainId": "56",
+      "decimals": 8,
+      "name": "Astronaut",
+      "address": "0x05b339b0a346bf01f851dde47a5d485c34fe220c",
+      "symbol": "NAUT",
+      "logoURI": "https://www.ape.bond/tokenImages/NAUT.png",
+      "assetGroup": "Astronaut::NAUT",
+      "currencyId": "Astronaut::NAUT"
+    },
+    "0x0491648c910ad2c1afaab733faf71d30313df7fc": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "JDIToken",
+      "address": "0x0491648c910ad2c1afaab733faf71d30313df7fc",
+      "symbol": "JDI",
+      "logoURI": "https://www.ape.bond/tokenImages/JDI.png",
+      "assetGroup": "JDIToken::JDI",
+      "currencyId": "JDIToken::JDI"
+    },
+    "0xb0f2939a1c0e43683e5954c9fe142f7df9f8d967": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Gen Token",
+      "address": "0xb0f2939a1c0e43683e5954c9fe142f7df9f8d967",
+      "symbol": "GEN",
+      "logoURI": "https://www.ape.bond/tokenImages/GEN.png",
+      "assetGroup": "Gen Token::GEN",
+      "currencyId": "Gen Token::GEN"
+    },
+    "0x19a6da6e382b85f827088092a3dbe864d9ccba73": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Bison",
+      "address": "0x19a6da6e382b85f827088092a3dbe864d9ccba73",
+      "symbol": "BISON",
+      "logoURI": "https://www.ape.bond/tokenImages/BISON.png",
+      "assetGroup": "Bison::BISON",
+      "currencyId": "Bison::BISON"
+    },
+    "0x2e1a87c9a9b121c0a72ae64d99138f586ffb8929": {
+      "chainId": "56",
+      "decimals": 6,
+      "name": "Knoknok",
+      "address": "0x2e1a87c9a9b121c0a72ae64d99138f586ffb8929",
+      "symbol": "KKC",
+      "logoURI": "https://www.ape.bond/tokenImages/KKC.png",
+      "assetGroup": "Knoknok::KKC",
+      "currencyId": "Knoknok::KKC"
+    },
+    "0xc64c9b30c981fc2ee4e13d0ca3f08258e725fd24": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Polar Sync",
+      "address": "0xc64c9b30c981fc2ee4e13d0ca3f08258e725fd24",
+      "symbol": "POLAR",
+      "logoURI": "https://www.ape.bond/tokenImages/POLAR.png",
+      "assetGroup": "Polar Sync::POLAR",
+      "currencyId": "Polar Sync::POLAR"
+    },
+    "0x336ed56d8615271b38ecee6f4786b55d0ee91b96": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Growth-Peg Token",
+      "address": "0x336ed56d8615271b38ecee6f4786b55d0ee91b96",
+      "symbol": "GRO",
+      "logoURI": "https://www.ape.bond/tokenImages/GRO.png",
+      "assetGroup": "Growth-Peg Token::GRO",
+      "currencyId": "Growth-Peg Token::GRO"
+    },
+    "0xcd5d75dbe75449a9021b6c570a41959eb571c751": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Lory Token",
+      "address": "0xcd5d75dbe75449a9021b6c570a41959eb571c751",
+      "symbol": "LORY",
+      "logoURI": "https://www.ape.bond/tokenImages/LORY.png",
+      "assetGroup": "Lory Token::LORY",
+      "currencyId": "Lory Token::LORY"
+    },
+    "0xca6d25c10dad43ae8be0bc2af4d3cd1114583c08": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "srnArtGallery Tokenized Arts",
+      "address": "0xca6d25c10dad43ae8be0bc2af4d3cd1114583c08",
+      "symbol": "SISTA",
+      "logoURI": "https://www.ape.bond/tokenImages/SISTA.png",
+      "assetGroup": "srnArtGallery Tokenized Arts::SISTA",
+      "currencyId": "srnArtGallery Tokenized Arts::SISTA"
+    },
+    "0x9d986a3f147212327dd658f712d5264a73a1fdb0": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Landshare Token",
+      "address": "0x9d986a3f147212327dd658f712d5264a73a1fdb0",
+      "symbol": "LAND",
+      "logoURI": "https://www.ape.bond/tokenImages/LAND.png",
+      "assetGroup": "Landshare Token::LAND",
+      "currencyId": "Landshare Token::LAND"
+    },
+    "0x0ef0626736c2d484a792508e99949736d0af807e": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Crush Coin",
+      "address": "0x0ef0626736c2d484a792508e99949736d0af807e",
+      "symbol": "CRUSH",
+      "logoURI": "https://www.ape.bond/tokenImages/CRUSH.png",
+      "assetGroup": "Crush Coin::CRUSH",
+      "currencyId": "Crush Coin::CRUSH"
+    },
+    "0xa18509d20fd01b4990734fd04ba53bad02922787": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Obie Dobo Token",
+      "address": "0xa18509d20fd01b4990734fd04ba53bad02922787",
+      "symbol": "OBIE",
+      "logoURI": "https://www.ape.bond/tokenImages/OBIE.png",
+      "assetGroup": "Obie Dobo Token::OBIE",
+      "currencyId": "Obie Dobo Token::OBIE"
+    },
+    "0x086c3f33b7f62db955f5cf4a1bb1d31aaa13c90f": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "ApeminToken",
+      "address": "0x086c3f33b7f62db955f5cf4a1bb1d31aaa13c90f",
+      "symbol": "APEMIN",
+      "logoURI": "https://www.ape.bond/tokenImages/APEMIN.png",
+      "assetGroup": "ApeminToken::APEMIN",
+      "currencyId": "ApeminToken::APEMIN"
+    },
+    "0x308bfaeaac8bdab6e9fc5ead8edcb5f95b0599d9": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "Poly-Peg ONG",
+      "address": "0x308bfaeaac8bdab6e9fc5ead8edcb5f95b0599d9",
+      "symbol": "ONG",
+      "logoURI": "https://www.ape.bond/tokenImages/ONG.png",
+      "assetGroup": "Poly-Peg ONG::ONG",
+      "currencyId": "Poly-Peg ONG::ONG"
+    },
+    "0x917841c010b3d86ed886f36f2c9807e07a2e3093": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "RisingSun",
+      "address": "0x917841c010b3d86ed886f36f2c9807e07a2e3093",
+      "symbol": "RSUN",
+      "logoURI": "https://www.ape.bond/tokenImages/RSUN.png",
+      "assetGroup": "RisingSun::RSUN",
+      "currencyId": "RisingSun::RSUN"
+    },
+    "0x6f26e8a40c8daae8c4358ce557c10226527cebce": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "SportX (PoS)",
+      "address": "0x6f26e8a40c8daae8c4358ce557c10226527cebce",
+      "symbol": "SX",
+      "logoURI": "https://www.ape.bond/tokenImages/SX.png",
+      "assetGroup": "SportX (PoS)::SX",
+      "currencyId": "SportX (PoS)::SX"
+    },
+    "0x10d3e0c38c286a04aee44d9b01cac916b56ee05a": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Gummy Bull Token",
+      "address": "0x10d3e0c38c286a04aee44d9b01cac916b56ee05a",
+      "symbol": "GUMMY",
+      "logoURI": "https://www.ape.bond/tokenImages/GUMMY.png",
+      "assetGroup": "Gummy Bull Token::GUMMY",
+      "currencyId": "Gummy Bull Token::GUMMY"
+    },
+    "0x362b47bd0aa70ed8826e96686f293c57ba462555": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "GOLD",
+      "address": "0x362b47bd0aa70ed8826e96686f293c57ba462555",
+      "symbol": "GLD",
+      "logoURI": "https://www.ape.bond/tokenImages/GLD.png",
+      "assetGroup": "GOLD::GLD",
+      "currencyId": "GOLD::GLD"
+    },
+    "0x1deb45c74e0192d9272adf54e9a7519c48c2bd81": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Aurum",
+      "address": "0x1deb45c74e0192d9272adf54e9a7519c48c2bd81",
+      "symbol": "AUR",
+      "logoURI": "https://www.ape.bond/tokenImages/AUR.png",
+      "assetGroup": "Aurum::AUR",
+      "currencyId": "Aurum::AUR"
+    },
+    "0xcd95350c69f229e72e57a44e8c05c436e65e4beb": {
+      "chainId": "56",
+      "decimals": 6,
+      "name": "Secret Finance",
+      "address": "0xcd95350c69f229e72e57a44e8c05c436e65e4beb",
+      "symbol": "SEFI",
+      "logoURI": "https://www.ape.bond/tokenImages/SEFI.png",
+      "assetGroup": "Secret Finance::SEFI",
+      "currencyId": "Secret Finance::SEFI"
+    },
+    "0x32299c93960bb583a43c2220dc89152391a610c5": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Kalata",
+      "address": "0x32299c93960bb583a43c2220dc89152391a610c5",
+      "symbol": "Kala",
+      "logoURI": "https://www.ape.bond/tokenImages/KALA.png",
+      "assetGroup": "Kalata::Kala",
+      "currencyId": "Kalata::Kala"
+    },
+    "0x484215873a674f9af73367a8f94c2c591e997521": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "FOMO Chronicles Manga",
+      "address": "0x484215873a674f9af73367a8f94c2c591e997521",
+      "symbol": "OTAKU",
+      "logoURI": "https://www.ape.bond/tokenImages/OTAKU.png",
+      "assetGroup": "FOMO Chronicles Manga::OTAKU",
+      "currencyId": "FOMO Chronicles Manga::OTAKU"
+    },
+    "0x6c7c87d9868b1db5a0f62d867baa90e0adfa7cfd": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "TNNS",
+      "address": "0x6c7c87d9868b1db5a0f62d867baa90e0adfa7cfd",
+      "symbol": "TNNS",
+      "logoURI": "https://www.ape.bond/tokenImages/TNNS.png",
+      "assetGroup": "TNNS::TNNS",
+      "currencyId": "TNNS::TNNS"
+    },
+    "0x2f3391aebe27393aba0a790aa5e1577fea0361c2": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Tako Token",
+      "address": "0x2f3391aebe27393aba0a790aa5e1577fea0361c2",
+      "symbol": "TAKO",
+      "logoURI": "https://www.ape.bond/tokenImages/TAKO.png",
+      "assetGroup": "Tako Token::TAKO",
+      "currencyId": "Tako Token::TAKO"
+    },
+    "0x23894c0ce2d79b79ea33a4d02e67ae843ef6e563": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Sing Token",
+      "address": "0x23894c0ce2d79b79ea33a4d02e67ae843ef6e563",
+      "symbol": "SING",
+      "logoURI": "https://www.ape.bond/tokenImages/SING.png",
+      "assetGroup": "Sing Token::SING",
+      "currencyId": "Sing Token::SING"
+    },
+    "0x3cb7378565718c64ab86970802140cc48ef1f969": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "Wing Token",
+      "address": "0x3cb7378565718c64ab86970802140cc48ef1f969",
+      "symbol": "WING",
+      "logoURI": "https://www.ape.bond/tokenImages/WING.png",
+      "assetGroup": "Wing Token::WING",
+      "currencyId": "Wing Token::WING"
+    },
+    "0xa296ad1c47fe6bdc133f39555c1d1177bd51fbc5": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "iBuffer Token",
+      "address": "0xa296ad1c47fe6bdc133f39555c1d1177bd51fbc5",
+      "symbol": "iBFR",
+      "logoURI": "https://www.ape.bond/tokenImages/iBFR.png",
+      "assetGroup": "iBuffer Token::iBFR",
+      "currencyId": "iBuffer Token::iBFR"
+    },
+    "0x5c2047b2ca5a2f561e06804ead73af116845c235": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "AbondCexFund",
+      "address": "0x5c2047b2ca5a2f561e06804ead73af116845c235",
+      "symbol": "ACF",
+      "logoURI": "https://www.ape.bond/tokenImages/ACF.png",
+      "assetGroup": "AbondCexFund::ACF",
+      "currencyId": "AbondCexFund::ACF"
+    },
+    "0xdf727040d3997b5d95dee8c661fa96e3c13ee0c9": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Infomatix",
+      "address": "0xdf727040d3997b5d95dee8c661fa96e3c13ee0c9",
+      "symbol": "INFO",
+      "logoURI": "https://www.ape.bond/tokenImages/INFO.png",
+      "assetGroup": "Infomatix::INFO",
+      "currencyId": "Infomatix::INFO"
+    },
+    "0x7251c7a2155d8fedb42a1dc4333ade589e4d6919": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Lemonn Token",
+      "address": "0x7251c7a2155d8fedb42a1dc4333ade589e4d6919",
+      "symbol": "LMN",
+      "logoURI": "https://www.ape.bond/tokenImages/LMN.png",
+      "assetGroup": "Lemonn Token::LMN",
+      "currencyId": "Lemonn Token::LMN"
+    },
+    "0x6eed9140f80f9e989cb23aecbd20b97a29ffc80f": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "LEAP",
+      "address": "0x6eed9140f80f9e989cb23aecbd20b97a29ffc80f",
+      "symbol": "LEAP",
+      "logoURI": "https://www.ape.bond/tokenImages/LEAP.png",
+      "assetGroup": "LEAP::LEAP",
+      "currencyId": "LEAP::LEAP"
+    },
+    "0xd118f42edbc839f7e1e85d5269a25288792c141b": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "rASKO on BSC",
+      "address": "0xd118f42edbc839f7e1e85d5269a25288792c141b",
+      "symbol": "rASKO",
+      "logoURI": "https://www.ape.bond/tokenImages/rASKO.png",
+      "assetGroup": "rASKO on BSC::rASKO",
+      "currencyId": "rASKO on BSC::rASKO"
+    },
+    "0x4ef29f3b804c316ba8ba464a765c601fc092a2e9": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Quantum Assets Token",
+      "address": "0x4ef29f3b804c316ba8ba464a765c601fc092a2e9",
+      "symbol": "QA",
+      "logoURI": "https://www.ape.bond/tokenImages/QA.png",
+      "assetGroup": "Quantum Assets Token::QA",
+      "currencyId": "Quantum Assets Token::QA"
+    },
+    "0x91f006ee672f8f39c6e63ca75b1ca14067b3c366": {
+      "chainId": "56",
+      "decimals": 8,
+      "name": "OUTRACE",
+      "address": "0x91f006ee672f8f39c6e63ca75b1ca14067b3c366",
+      "symbol": "ORE",
+      "logoURI": "https://www.ape.bond/tokenImages/ORE.png",
+      "assetGroup": "OUTRACE::ORE",
+      "currencyId": "OUTRACE::ORE"
+    },
+    "0xadca52302e0a6c2d5d68edcdb4ac75deb5466884": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "GAMER",
+      "address": "0xadca52302e0a6c2d5d68edcdb4ac75deb5466884",
+      "symbol": "GMR",
+      "logoURI": "https://www.ape.bond/tokenImages/GMR.png",
+      "assetGroup": "GAMER::GMR",
+      "currencyId": "GAMER::GMR"
+    },
+    "0xe486a69e432fdc29622bf00315f6b34c99b45e80": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Space Token",
+      "address": "0xe486a69e432fdc29622bf00315f6b34c99b45e80",
+      "symbol": "SPACE",
+      "logoURI": "https://www.ape.bond/tokenImages/SPACE.png",
+      "assetGroup": "Space Token::SPACE::56::0",
+      "currencyId": "Space Token::SPACE"
+    },
+    "0xc80a0a55caf6a7bfb4ee22f9380c4077312c4a35": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Manarium",
+      "address": "0xc80a0a55caf6a7bfb4ee22f9380c4077312c4a35",
+      "symbol": "ARI",
+      "logoURI": "https://www.ape.bond/tokenImages/ARI.png",
+      "assetGroup": "Manarium::ARI",
+      "currencyId": "Manarium::ARI"
+    },
+    "0x8623e66bea0dce41b6d47f9c44e806a115babae0": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "NFTY Token",
+      "address": "0x8623e66bea0dce41b6d47f9c44e806a115babae0",
+      "symbol": "NFTY",
+      "logoURI": "https://www.ape.bond/tokenImages/NFTY .png",
+      "assetGroup": "NFTY Token::NFTY",
+      "currencyId": "NFTY Token::NFTY"
+    },
+    "0x27b2d695ef01d10ee96582a23db201b0aa338639": {
+      "chainId": "56",
+      "decimals": 8,
+      "name": "Wrapped  GICT",
+      "address": "0x27b2d695ef01d10ee96582a23db201b0aa338639",
+      "symbol": "WGICT",
+      "logoURI": "https://www.ape.bond/tokenImages/WGICT.png",
+      "assetGroup": "Wrapped  GICT::WGICT",
+      "currencyId": "Wrapped  GICT::WGICT"
+    },
+    "0xa73c15620bfa79646e9a11d0d638d66588456462": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Cosmosium BUZZ",
+      "address": "0xa73c15620bfa79646e9a11d0d638d66588456462",
+      "symbol": "BUZZ",
+      "logoURI": "https://www.ape.bond/tokenImages/BUZZ.png",
+      "assetGroup": "Cosmosium BUZZ::BUZZ",
+      "currencyId": "Cosmosium BUZZ::BUZZ"
+    },
+    "0xde4512db1a7a7519818da38db86ec1363d70a711": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "RankerDAO",
+      "address": "0xde4512db1a7a7519818da38db86ec1363d70a711",
+      "symbol": "RANKER",
+      "logoURI": "https://www.ape.bond/tokenImages/RANKER.png",
+      "assetGroup": "RankerDAO::RANKER",
+      "currencyId": "RankerDAO::RANKER"
+    },
+    "0x73f67ae7f934ff15beabf55a28c2da1eeb9b56ec": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "NFT11",
+      "address": "0x73f67ae7f934ff15beabf55a28c2da1eeb9b56ec",
+      "symbol": "NFT11",
+      "logoURI": "https://www.ape.bond/tokenImages/NFT11.png",
+      "assetGroup": "NFT11::NFT11",
+      "currencyId": "NFT11::NFT11"
+    },
+    "0x89c1af791d7b4cf046dca8fa10a41dd2298a6a3f": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Derify Protocol Token",
+      "address": "0x89c1af791d7b4cf046dca8fa10a41dd2298a6a3f",
+      "symbol": "DRF",
+      "logoURI": "https://www.ape.bond/tokenImages/DRF.png",
+      "assetGroup": "Derify Protocol Token::DRF",
+      "currencyId": "Derify Protocol Token::DRF"
+    },
+    "0x06250a4962558f0f3e69fc07f4c67bb9c9eac739": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Biconomy Token",
+      "address": "0x06250a4962558f0f3e69fc07f4c67bb9c9eac739",
+      "symbol": "BICO",
+      "logoURI": "https://www.ape.bond/tokenImages/BICO.png",
+      "assetGroup": "Biconomy Token::BICO",
+      "currencyId": "Biconomy Token::BICO"
+    },
+    "0x6012c3a742f92103d238f1c8306cf8fbcdeca8b3": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "LuckyChip",
+      "address": "0x6012c3a742f92103d238f1c8306cf8fbcdeca8b3",
+      "symbol": "LC",
+      "logoURI": "https://www.ape.bond/tokenImages/LC.png",
+      "assetGroup": "LuckyChip::LC",
+      "currencyId": "LuckyChip::LC"
+    },
+    "0x190cec0657a02e9eab1c1df5d59f9139131cf539": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Gravis Finance Token",
+      "address": "0x190cec0657a02e9eab1c1df5d59f9139131cf539",
+      "symbol": "GRVS",
+      "logoURI": "https://www.ape.bond/tokenImages/GRVS.png",
+      "assetGroup": "Gravis Finance Token::GRVS",
+      "currencyId": "Gravis Finance Token::GRVS"
+    },
+    "0x08426874d46f90e5e527604fa5e3e30486770eb3": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Moonshots Farm",
+      "address": "0x08426874d46f90e5e527604fa5e3e30486770eb3",
+      "symbol": "BONES",
+      "logoURI": "https://www.ape.bond/tokenImages/BONES.png",
+      "assetGroup": "Moonshots Farm::BONES",
+      "currencyId": "Moonshots Farm::BONES"
+    },
+    "0x98a61ca1504b92ae768ef20b85aa97030b7a1edf": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Generic Coin",
+      "address": "0x98a61ca1504b92ae768ef20b85aa97030b7a1edf",
+      "symbol": "GENv3",
+      "logoURI": "https://www.ape.bond/tokenImages/GENv3.png",
+      "assetGroup": "Generic Coin::GENv3",
+      "currencyId": "Generic Coin::GENv3"
+    },
+    "0x93c27727e72ec7510a06ea450366c1418c4ce547": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Pirate X Pirate",
+      "address": "0x93c27727e72ec7510a06ea450366c1418c4ce547",
+      "symbol": "PXP",
+      "logoURI": "https://www.ape.bond/tokenImages/PXP.png",
+      "assetGroup": "Pirate X Pirate::PXP",
+      "currencyId": "Pirate X Pirate::PXP"
+    },
+    "0x70e48eb0881a8c56baad37eb4491ea85eb47b4b2": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Bored APEmove",
+      "address": "0x70e48eb0881a8c56baad37eb4491ea85eb47b4b2",
+      "symbol": "BAPE",
+      "logoURI": "https://www.ape.bond/tokenImages/BAPE.png",
+      "assetGroup": "Bored APEmove::BAPE",
+      "currencyId": "Bored APEmove::BAPE"
+    },
+    "0xbfacd29427ff376ff3bc22dffb29866277ca5fb4": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PISTON",
+      "address": "0xbfacd29427ff376ff3bc22dffb29866277ca5fb4",
+      "symbol": "PSTN",
+      "logoURI": "https://www.ape.bond/tokenImages/PSTN.png",
+      "assetGroup": "PISTON::PSTN",
+      "currencyId": "PISTON::PSTN"
+    },
+    "0xe8ebcf4fd1faa9b77c0ec0b26e7cc32a251cd799": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "SweetToken",
+      "address": "0xe8ebcf4fd1faa9b77c0ec0b26e7cc32a251cd799",
+      "symbol": "SWT",
+      "logoURI": "https://www.ape.bond/tokenImages/SWT.png",
+      "assetGroup": "SweetToken::SWT",
+      "currencyId": "SweetToken::SWT"
+    },
+    "0xd23eae3926431c794e2a04e1622a9446d61174a4": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "XTALToken",
+      "address": "0xd23eae3926431c794e2a04e1622a9446d61174a4",
+      "symbol": "XTAL",
+      "logoURI": "https://www.ape.bond/tokenImages/XTAL.png",
+      "assetGroup": "XTALToken::XTAL",
+      "currencyId": "XTALToken::XTAL"
+    },
+    "0x45d957a094c73a0d12bccab279f78c1d253d8f56": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Non-Fungible Banana Index",
+      "address": "0x45d957a094c73a0d12bccab279f78c1d253d8f56",
+      "symbol": "NFBi",
+      "logoURI": "https://www.ape.bond/tokenImages/NFBi.png",
+      "assetGroup": "Non-Fungible Banana Index::NFBi",
+      "currencyId": "Non-Fungible Banana Index::NFBi"
+    },
+    "0x4c48a4d089d13cb24a8a250c7051e8a3f8687460": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Non Fungible Apes Index",
+      "address": "0x4c48a4d089d13cb24a8a250c7051e8a3f8687460",
+      "symbol": "NFAi",
+      "logoURI": "https://www.ape.bond/tokenImages/NFAi.png",
+      "assetGroup": "Non Fungible Apes Index::NFAi",
+      "currencyId": "Non Fungible Apes Index::NFAi"
+    },
+    "0x596834746b5b78f31a089ee7853fa595682824b7": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "3air",
+      "address": "0x596834746b5b78f31a089ee7853fa595682824b7",
+      "symbol": "3AIR",
+      "logoURI": "https://www.ape.bond/tokenImages/3AIR.png",
+      "assetGroup": "3air::3AIR",
+      "currencyId": "3air::3AIR"
+    },
+    "0xadd14ca8e026c4555933d12b568b1310968503a2": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "FRUIT",
+      "address": "0xadd14ca8e026c4555933d12b568b1310968503a2",
+      "symbol": "FRUIT",
+      "logoURI": "https://www.ape.bond/tokenImages/FRUIT.png",
+      "assetGroup": "FRUIT::FRUIT",
+      "currencyId": "FRUIT::FRUIT"
+    },
+    "0xfa86225e0c7f51c30f0c3647bfd2b266c3e3b6f6": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Candela Coin",
+      "address": "0xfa86225e0c7f51c30f0c3647bfd2b266c3e3b6f6",
+      "symbol": "CLA",
+      "logoURI": "https://www.ape.bond/tokenImages/CLA.png",
+      "assetGroup": "Candela Coin::CLA",
+      "currencyId": "Candela Coin::CLA"
+    },
+    "0x8a5d7fcd4c90421d21d30fcc4435948ac3618b2f": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Cake Monster",
+      "address": "0x8a5d7fcd4c90421d21d30fcc4435948ac3618b2f",
+      "symbol": "MONSTA",
+      "logoURI": "https://www.ape.bond/tokenImages/MONSTA.png",
+      "assetGroup": "Cake Monster::MONSTA",
+      "currencyId": "Cake Monster::MONSTA"
+    },
+    "0x0c7f660643333419bf98f37df831274dd121f27f": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Papu Coin",
+      "address": "0x0c7f660643333419bf98f37df831274dd121f27f",
+      "symbol": "PAPU",
+      "logoURI": "https://www.ape.bond/tokenImages/PAPU.png",
+      "assetGroup": "Papu Coin::PAPU",
+      "currencyId": "Papu Coin::PAPU"
+    },
+    "0x0f5c78f152152dda52a2ea45b0a8c10733010748": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "XOX Labs",
+      "address": "0x0f5c78f152152dda52a2ea45b0a8c10733010748",
+      "symbol": "XOX",
+      "logoURI": "https://www.ape.bond/tokenImages/XOX.png",
+      "assetGroup": "XOX Labs::XOX",
+      "currencyId": "XOX Labs::XOX"
+    },
+    "0x6cff19f714e9f0ac62412555aa08f313fc343ae4": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Furio Finance",
+      "address": "0x6cff19f714e9f0ac62412555aa08f313fc343ae4",
+      "symbol": "FURFI",
+      "logoURI": "https://www.ape.bond/tokenImages/FURFI.png",
+      "assetGroup": "Furio Finance::FURFI",
+      "currencyId": "Furio Finance::FURFI"
+    },
+    "0xf84c55e79858b448c3015c3a1a55efed9edf69c7": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "AVANA Token",
+      "address": "0xf84c55e79858b448c3015c3a1a55efed9edf69c7",
+      "symbol": "AVAN",
+      "logoURI": "https://www.ape.bond/tokenImages/AVAN.png",
+      "assetGroup": "AVANA Token::AVAN",
+      "currencyId": "AVANA Token::AVAN"
+    },
+    "0xc73d9b9616e855df4a0b32c3f1ef2ed5dc9c1990": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Wrapped Coinflect",
+      "address": "0xc73d9b9616e855df4a0b32c3f1ef2ed5dc9c1990",
+      "symbol": "WCFLT",
+      "logoURI": "https://www.ape.bond/tokenImages/WCFLT.png",
+      "assetGroup": "Wrapped Coinflect::WCFLT",
+      "currencyId": "Wrapped Coinflect::WCFLT"
+    },
+    "0x9ae0290cd677dc69a5f2a1e435ef002400da70f5": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Civilization",
+      "address": "0x9ae0290cd677dc69a5f2a1e435ef002400da70f5",
+      "symbol": "CVL",
+      "logoURI": "https://www.ape.bond/tokenImages/CVL.png",
+      "assetGroup": "Civilization::CVL",
+      "currencyId": "Civilization::CVL"
+    },
+    "0xd3c6ceedd1cc7bd4304f72b011d53441d631e662": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Oath Token",
+      "address": "0xd3c6ceedd1cc7bd4304f72b011d53441d631e662",
+      "symbol": "OATH",
+      "logoURI": "https://www.ape.bond/tokenImages/OATH.png",
+      "assetGroup": "Oath Token::OATH",
+      "currencyId": "Oath Token::OATH"
+    },
+    "0x1265dade08e13f1c6f9706287fbe39083dc5a4b4": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "xCREDI",
+      "address": "0x1265dade08e13f1c6f9706287fbe39083dc5a4b4",
+      "symbol": "xCREDI",
+      "logoURI": "https://www.ape.bond/tokenImages/XCREDI.png",
+      "assetGroup": "xCREDI::xCREDI",
+      "currencyId": "xCREDI::xCREDI"
+    },
+    "0xc3387e4285e9f80a7cfdf02b4ac6cdf2476a528a": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Bedrock",
+      "address": "0xc3387e4285e9f80a7cfdf02b4ac6cdf2476a528a",
+      "symbol": "ROCK",
+      "logoURI": "https://www.ape.bond/tokenImages/ROCK.png",
+      "assetGroup": "Bedrock::ROCK",
+      "currencyId": "Bedrock::ROCK"
+    },
+    "0x1a076e4633fa139d7b908b88326de603fbe8c199": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Football at AlphaVerse",
+      "address": "0x1a076e4633fa139d7b908b88326de603fbe8c199",
+      "symbol": "FAV",
+      "logoURI": "https://www.ape.bond/tokenImages/FAV.png",
+      "assetGroup": "Football at AlphaVerse::FAV",
+      "currencyId": "Football at AlphaVerse::FAV"
+    },
+    "0x08b450e4a48c04cdf6db2bd4cf24057f7b9563ff": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Quoll Token",
+      "address": "0x08b450e4a48c04cdf6db2bd4cf24057f7b9563ff",
+      "symbol": "QUO",
+      "logoURI": "https://www.ape.bond/tokenImages/QUO.png",
+      "assetGroup": "Quoll Token::QUO",
+      "currencyId": "Quoll Token::QUO"
+    },
+    "0x37407d1cabc422155a148bc7a3a0587c64225ea2": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Meta FPS",
+      "address": "0x37407d1cabc422155a148bc7a3a0587c64225ea2",
+      "symbol": "MFPS",
+      "logoURI": "https://www.ape.bond/tokenImages/MFPS.png",
+      "assetGroup": "Meta FPS::MFPS",
+      "currencyId": "Meta FPS::MFPS"
+    },
+    "0x5829e758859b74426b0b2447e82e19ad8e68e87a": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "ApexCoin",
+      "address": "0x5829e758859b74426b0b2447e82e19ad8e68e87a",
+      "symbol": "ApeX",
+      "logoURI": "https://www.ape.bond/tokenImages/APEX.png",
+      "assetGroup": "ApexCoin::ApeX",
+      "currencyId": "ApexCoin::ApeX"
+    },
+    "0x29745314b4d294b7c77cdb411b8aaa95923aae38": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PALM",
+      "address": "0x29745314b4d294b7c77cdb411b8aaa95923aae38",
+      "symbol": "PALM",
+      "logoURI": "https://www.ape.bond/tokenImages/PALM.png",
+      "assetGroup": "PALM::PALM",
+      "currencyId": "PALM::PALM"
+    },
+    "0xb34966a2a66cb116ebe87b9554c020dcc950e917": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "MeMusic",
+      "address": "0xb34966a2a66cb116ebe87b9554c020dcc950e917",
+      "symbol": "MMT",
+      "logoURI": "https://www.ape.bond/tokenImages/MMT.png",
+      "assetGroup": "MeMusic::MMT",
+      "currencyId": "MeMusic::MMT"
+    },
+    "0x39f0f4c64c7ad1ebb25cfeafdd221cdee3084441": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Ordify",
+      "address": "0x39f0f4c64c7ad1ebb25cfeafdd221cdee3084441",
+      "symbol": "ORFY",
+      "logoURI": "https://www.ape.bond/tokenImages/ORFY.png",
+      "assetGroup": "Ordify::ORFY",
+      "currencyId": "Ordify::ORFY"
+    },
+    "0x19349a79905ecdbcc421568337ab2abab6e45832": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Farm Away",
+      "address": "0x19349a79905ecdbcc421568337ab2abab6e45832",
+      "symbol": "FARM",
+      "logoURI": "https://www.ape.bond/tokenImages/FARMAWAY.png",
+      "assetGroup": "Farm Away::FARM",
+      "currencyId": "Farm Away::FARM"
+    },
+    "0xfb6063f29af6dcd1fc03a8e221c6d91deabbe764": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "ApeSwapFinance LPs",
+      "address": "0xfb6063f29af6dcd1fc03a8e221c6d91deabbe764",
+      "symbol": "APE-LP",
+      "logoURI": "https://www.ape.bond/tokenImages/BNB-JDI.png",
+      "assetGroup": "ApeSwapFinance LPs::APE-LP",
+      "currencyId": "ApeSwapFinance LPs::APE-LP"
+    },
+    "0x73afc23510b40dcbeabc25ffbc8c2976ed9f950c": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Safle",
+      "address": "0x73afc23510b40dcbeabc25ffbc8c2976ed9f950c",
+      "symbol": "SAFLE",
+      "logoURI": "https://assets.coingecko.com/coins/images/21674/small/56835021.png",
+      "assetGroup": "Safle::SAFLE",
+      "currencyId": "Safle::SAFLE"
+    },
+    "0xe7c04392a3a426d532f83ca968bcc0341e99583d": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Unbound Dollar",
+      "address": "0xe7c04392a3a426d532f83ca968bcc0341e99583d",
+      "symbol": "UND",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7848.png",
+      "assetGroup": "Unbound Dollar::UND",
+      "currencyId": "Unbound Dollar::UND"
+    },
+    "0xe327ce757cd206721e100812e744fc56e4e0a969": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "Sekuya",
+      "address": "0xe327ce757cd206721e100812e744fc56e4e0a969",
+      "symbol": "SKUY",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/18299.png",
+      "assetGroup": "Sekuya::SKUY",
+      "currencyId": "Sekuya::SKUY"
+    },
+    "0xf196b73eba4a75680969aaf0c9979a008204a0a9": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Alpha Dune",
+      "address": "0xf196b73eba4a75680969aaf0c9979a008204a0a9",
+      "symbol": "RDUNE",
+      "logoURI": "https://polygonscan.com/token/images/alphadune_32.png",
+      "assetGroup": "Alpha Dune::RDUNE",
+      "currencyId": "Alpha Dune::RDUNE"
+    },
+    "0x63ee66898ed6fbe0116c27dfe44e18f0cb5bf963": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "BOXCAT",
+      "address": "0x63ee66898ed6fbe0116c27dfe44e18f0cb5bf963",
+      "symbol": "BOXCAT",
+      "logoURI": "https://assets.coingecko.com/coins/images/56025/thumb/LFpONS4H_400x400.jpg?1748045582",
+      "assetGroup": "BOXCAT::BOXCAT",
+      "currencyId": "BOXCAT::BOXCAT",
+      "tags": ["coingecko"]
+    },
+    "0x14d72634328c4d03bba184a48081df65f1911279": {
+      "chainId": "56",
+      "decimals": 6,
+      "name": "VanEck Treasury Fund",
+      "address": "0x14d72634328c4d03bba184a48081df65f1911279",
+      "symbol": "VBILL",
+      "logoURI": "https://assets.coingecko.com/coins/images/56023/thumb/mi4_200.png?1748037593",
+      "assetGroup": "VanEck Treasury Fund::VBILL",
+      "currencyId": "VanEck Treasury Fund::VBILL",
       "tags": ["coingecko"]
     }
   },
