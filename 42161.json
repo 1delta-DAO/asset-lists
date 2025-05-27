@@ -2174,7 +2174,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
       "assetGroup": "USDT",
       "currencyId": "Tether USD::USDT",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "debridge"]
     },
     "0xcf6130de80de367597efc3fde07c22abd0698601": {
       "chainId": "42161",
@@ -10047,7 +10047,7 @@
       "symbol": "USDA",
       "logoURI": "https://assets.coingecko.com/coins/images/34510/thumb/agUSD-coingecko.png?1705288392",
       "assetGroup": "USDA",
-      "currencyId": "USDA::USDA",
+      "currencyId": "Angle USDA::USDA",
       "tags": ["coingecko", "debridge"]
     },
     "0xa9011ee5796be43123651181dc75c0e72bb1191c": {
@@ -16834,7 +16834,8 @@
       "symbol": "yUSD",
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4772d2e014f9fc3a820c444e3313968e9a5c8121.png",
       "assetGroup": "YieldFi yUSD::yUSD",
-      "currencyId": "YieldFi yUSD::yUSD"
+      "currencyId": "YieldFi yUSD::yUSD",
+      "tags": ["coingecko"]
     },
     "0xc37896bf3ee5a2c62cdbd674035069776f721668": {
       "chainId": "42161",
@@ -17473,6 +17474,17 @@
       "logoURI": "https://raw.githubusercontent.com/dfyn/assets/main/DFYN_logo.png",
       "assetGroup": "DFYN Token::DFYN",
       "currencyId": "DFYN Token::DFYN"
+    },
+    "0x10ea9e5303670331bdddfa66a4cea47dae4fcf3b": {
+      "chainId": "42161",
+      "decimals": 9,
+      "name": "Session Token",
+      "address": "0x10ea9e5303670331bdddfa66a4cea47dae4fcf3b",
+      "symbol": "SESH",
+      "logoURI": "https://assets.coingecko.com/coins/images/56073/thumb/SES_Logo_RGB_Brandmark_Colour.png?1748330955",
+      "assetGroup": "Session Token::SESH",
+      "currencyId": "Session Token::SESH",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [

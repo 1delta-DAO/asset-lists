@@ -96,6 +96,17 @@
       "logoURI": "https://assets.coingecko.com/coins/images/11939/standard/shiba.png?1696511800",
       "assetGroup": "SHIB",
       "currencyId": "SHIBA INU::SHIB"
+    },
+    "0x18bc5bcc660cf2b9ce3cd51a404afe1a0cbd3c22": {
+      "chainId": "42793",
+      "decimals": 2,
+      "name": "IDRX",
+      "address": "0x18bc5bcc660cf2b9ce3cd51a404afe1a0cbd3c22",
+      "symbol": "IDRX",
+      "logoURI": "https://assets.coingecko.com/coins/images/34883/thumb/IDRX_BLUE_COIN_200x200.png?1734983273",
+      "assetGroup": "IDRX::IDRX",
+      "currencyId": "IDRX::IDRX",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -106,7 +117,8 @@
     "0xfc24f770f94edbca6d6f885e12d4317320bcb401",
     "0xbfc94cd2b1e55999cfc7347a9313e88702b83d0f",
     "0xaa40a1cc1561c584b675cbd12f1423a32e2a0d8c",
-    "0xe820995cd39b6e09eaa7e4e16337184b4a61b644"
+    "0xe820995cd39b6e09eaa7e4e16337184b4a61b644",
+    "0x18bc5bcc660cf2b9ce3cd51a404afe1a0cbd3c22"
   ],
   "bridgeTokens": [
     "0x2c03058c8afc06713be23e58d2febc8337dbfe6a",

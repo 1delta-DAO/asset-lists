@@ -10300,6 +10300,36 @@
       "logoURI": "https://api.swapscanner.io/v0/tokens/0x0eaa0c199bd2c2f2aa11e87ff0b5495147fa6c5d/icon",
       "assetGroup": "AACRWA-2::AR-2",
       "currencyId": "AACRWA-2::AR-2"
+    },
+    "0x8755d2e532b1559454689bf0e8964bd78b187ff6": {
+      "chainId": "8217",
+      "decimals": 18,
+      "name": "Elderglade",
+      "address": "0x8755d2e532b1559454689bf0e8964bd78b187ff6",
+      "symbol": "ELDE",
+      "logoURI": "https://api.swapscanner.io/v0/tokens/0x8755d2e532b1559454689bf0e8964bd78b187ff6/icon",
+      "assetGroup": "Elderglade::ELDE",
+      "currencyId": "Elderglade::ELDE"
+    },
+    "0xdbf2fcaea9214d2e9aa188db9a6fe2fb15ce3018": {
+      "chainId": "8217",
+      "decimals": 18,
+      "name": "0x8755d2e532b1559454689bf0e8964bd78b187ff6",
+      "address": "0xdbf2fcaea9214d2e9aa188db9a6fe2fb15ce3018",
+      "symbol": "ELDE",
+      "logoURI": "https://api.swapscanner.io/v0/tokens/0xdbf2fcaea9214d2e9aa188db9a6fe2fb15ce3018/icon",
+      "assetGroup": "0x8755d2e532b1559454689bf0e8964bd78b187ff6::ELDE",
+      "currencyId": "0x8755d2e532b1559454689bf0e8964bd78b187ff6::ELDE"
+    },
+    "0xbc57747f0121ca06155ff44e30222e01b9616991": {
+      "chainId": "8217",
+      "decimals": 18,
+      "name": "KAB Token",
+      "address": "0xbc57747f0121ca06155ff44e30222e01b9616991",
+      "symbol": "KAB",
+      "logoURI": "https://api.swapscanner.io/v0/tokens/0xbc57747f0121ca06155ff44e30222e01b9616991/icon",
+      "assetGroup": "KAB Token::KAB",
+      "currencyId": "KAB Token::KAB"
     }
   },
   "mainTokens": [

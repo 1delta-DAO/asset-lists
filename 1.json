@@ -8796,7 +8796,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/13709/large/route_token_200x200-19.png?1611057698",
       "assetGroup": "ROUTE",
       "currencyId": "Router Protocol::ROUTE",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "debridge"]
     },
     "0x7eaf9c89037e4814dc0d9952ac7f888c784548db": {
       "chainId": "1",
@@ -34176,7 +34176,7 @@
       "symbol": "USDA",
       "logoURI": "https://assets.coingecko.com/coins/images/34510/thumb/agUSD-coingecko.png?1705288392",
       "assetGroup": "USDA",
-      "currencyId": "USDA::USDA",
+      "currencyId": "Angle USDA::USDA",
       "tags": ["coingecko", "debridge"]
     },
     "0x72d4bc91fbd9b257eae62a5758288d9797c9a76a": {
@@ -54831,8 +54831,8 @@
       "address": "0x8a60e489004ca22d775c5f2c657598278d17d9c2",
       "symbol": "USDa",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/USDa.webp",
-      "assetGroup": "USDa::USDA",
-      "currencyId": "USDa::USDA",
+      "assetGroup": "USDa::USDa",
+      "currencyId": "USDa::USDa",
       "tags": ["coingecko", "debridge"]
     },
     "0x6f2ee0e1ebfa00015d3040760f6c039f46b6c662": {
@@ -69014,7 +69014,8 @@
       "symbol": "yUSD",
       "logoURI": "https://cdn.morpho.org/assets/logos/yusd.svg",
       "assetGroup": "YieldFi yUSD::yUSD",
-      "currencyId": "YieldFi yUSD::yUSD"
+      "currencyId": "YieldFi yUSD::yUSD",
+      "tags": ["coingecko"]
     },
     "0x207f7205fd6c4b602fa792c8b2b60e6006d4a0b8": {
       "chainId": "1",
@@ -75347,6 +75348,138 @@
       "logoURI": "https://assets.coingecko.com/coins/images/56024/thumb/20250523_1045_Pepe's_Purple_Ride_remix_01jvy5113keng9by342xcbtsqs_copy.png?1748038730",
       "assetGroup": "wenlambo::WENLAMBO",
       "currencyId": "wenlambo::WENLAMBO",
+      "tags": ["coingecko"]
+    },
+    "0xe868084cf08f3c3db11f4b73a95473762d9463f7": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "YU",
+      "address": "0xe868084cf08f3c3db11f4b73a95473762d9463f7",
+      "symbol": "YU",
+      "logoURI": "https://assets.coingecko.com/coins/images/56070/thumb/YU.png?1748275951",
+      "assetGroup": "YU::YU",
+      "currencyId": "YU::YU",
+      "tags": ["coingecko"]
+    },
+    "0x7e4c9923fd8f18442532a737365c1bfb52579d2f": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "ArcadiaOS",
+      "address": "0x7e4c9923fd8f18442532a737365c1bfb52579d2f",
+      "symbol": "ARCOS",
+      "logoURI": "https://assets.coingecko.com/coins/images/56072/thumb/200x200.png?1748280483",
+      "assetGroup": "ArcadiaOS::ARCOS",
+      "currencyId": "ArcadiaOS::ARCOS",
+      "tags": ["coingecko"]
+    },
+    "0x10ea9e5303670331bdddfa66a4cea47dae4fcf3b": {
+      "chainId": "1",
+      "decimals": 9,
+      "name": "Session Token",
+      "address": "0x10ea9e5303670331bdddfa66a4cea47dae4fcf3b",
+      "symbol": "SESH",
+      "logoURI": "https://assets.coingecko.com/coins/images/56073/thumb/SES_Logo_RGB_Brandmark_Colour.png?1748330955",
+      "assetGroup": "Session Token::SESH",
+      "currencyId": "Session Token::SESH",
+      "tags": ["coingecko"]
+    },
+    "0xd014cb8d4bbccb75fc3a7c941528fd5e891259cf": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "Launch On USD1",
+      "address": "0xd014cb8d4bbccb75fc3a7c941528fd5e891259cf",
+      "symbol": "L",
+      "logoURI": "https://assets.coingecko.com/coins/images/56058/thumb/gecko-200x200.png?1748164953",
+      "assetGroup": "Launch On USD1::L",
+      "currencyId": "Launch On USD1::L",
+      "tags": ["coingecko"]
+    },
+    "0x85e30b8b263bc64d94b827ed450f2edfee8579da": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "Asymmetry USDaf",
+      "address": "0x85e30b8b263bc64d94b827ed450f2edfee8579da",
+      "symbol": "USDAF",
+      "logoURI": "https://assets.coingecko.com/coins/images/56060/thumb/USDaf.png?1748165829",
+      "assetGroup": "Asymmetry USDaf::USDAF",
+      "currencyId": "Asymmetry USDaf::USDAF",
+      "tags": ["coingecko"]
+    },
+    "0x6440f144b7e50d6a8439336510312d2f54beb01d": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "Liquity BOLD",
+      "address": "0x6440f144b7e50d6a8439336510312d2f54beb01d",
+      "symbol": "BOLD",
+      "logoURI": "https://assets.coingecko.com/coins/images/56069/thumb/BOLD_logo.png?1748265087",
+      "assetGroup": "Liquity BOLD::BOLD::1::0",
+      "currencyId": "Liquity BOLD::BOLD",
+      "tags": ["coingecko"]
+    },
+    "0x21e133e07b6cb3ff846b5a32fa9869a1e5040da1": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "Syntor Ai",
+      "address": "0x21e133e07b6cb3ff846b5a32fa9869a1e5040da1",
+      "symbol": "TOR",
+      "logoURI": "https://assets.coingecko.com/coins/images/56041/thumb/SYNTOR.png?1748096217",
+      "assetGroup": "Syntor Ai::TOR",
+      "currencyId": "Syntor Ai::TOR",
+      "tags": ["coingecko"]
+    },
+    "0xf2b733bdddb8e12f0b3e15781b319389d499dad6": {
+      "chainId": "1",
+      "decimals": 9,
+      "name": "NovaQ",
+      "address": "0xf2b733bdddb8e12f0b3e15781b319389d499dad6",
+      "symbol": "NOVAQ",
+      "logoURI": "https://assets.coingecko.com/coins/images/56042/thumb/NOVAQ_%281%29.jpg?1748154978",
+      "assetGroup": "NovaQ::NOVAQ",
+      "currencyId": "NovaQ::NOVAQ",
+      "tags": ["coingecko"]
+    },
+    "0x94babe9ee75c38034920bc6ed42748e8eefbedd4": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "Zivoe Vault",
+      "address": "0x94babe9ee75c38034920bc6ed42748e8eefbedd4",
+      "symbol": "ZVLT",
+      "logoURI": "https://assets.coingecko.com/coins/images/56043/thumb/Zivoe-zVLT-Logo.png?1748155782",
+      "assetGroup": "Zivoe Vault::ZVLT",
+      "currencyId": "Zivoe Vault::ZVLT",
+      "tags": ["coingecko"]
+    },
+    "0x63a4faa0edc59811f9d3fd8b9aae5131a9488437": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "Nodelight",
+      "address": "0x63a4faa0edc59811f9d3fd8b9aae5131a9488437",
+      "symbol": "NODL",
+      "logoURI": "https://assets.coingecko.com/coins/images/56047/thumb/Profile_01_2x.png?1748156879",
+      "assetGroup": "Nodelight::NODL",
+      "currencyId": "Nodelight::NODL",
+      "tags": ["coingecko"]
+    },
+    "0x4d4574f50dd8b9dbe623cf329dcc78d76935e610": {
+      "chainId": "1",
+      "decimals": 9,
+      "name": "Zeus",
+      "address": "0x4d4574f50dd8b9dbe623cf329dcc78d76935e610",
+      "symbol": "ZEUS",
+      "logoURI": "https://assets.coingecko.com/coins/images/56049/thumb/IMG_8143.jpeg?1748157666",
+      "assetGroup": "Zeus::ZEUS::1::0",
+      "currencyId": "Zeus::ZEUS",
+      "tags": ["coingecko"]
+    },
+    "0xbc2ecbe2195114b82f03680ed4270fa7008f3be0": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "Bitcoin 2 0",
+      "address": "0xbc2ecbe2195114b82f03680ed4270fa7008f3be0",
+      "symbol": "BTC2",
+      "logoURI": "https://assets.coingecko.com/coins/images/56050/thumb/IMG_8144.jpeg?1748158028",
+      "assetGroup": "Bitcoin 2 0::BTC2",
+      "currencyId": "Bitcoin 2 0::BTC2",
       "tags": ["coingecko"]
     }
   },
