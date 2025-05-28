@@ -75481,6 +75481,48 @@
       "assetGroup": "Bitcoin 2 0::BTC2",
       "currencyId": "Bitcoin 2 0::BTC2",
       "tags": ["coingecko"]
+    },
+    "0x48f9e38f3070ad8945dfeae3fa70987722e3d89c": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "infiniFi USD",
+      "address": "0x48f9e38f3070ad8945dfeae3fa70987722e3d89c",
+      "symbol": "iUSD",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x48f9e38f3070ad8945dfeae3fa70987722e3d89c.png",
+      "assetGroup": "infiniFi USD::iUSD",
+      "currencyId": "infiniFi USD::iUSD"
+    },
+    "0xdbdc1ef57537e34680b898e1febd3d68c7389bcb": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "Staked infiniFi USD",
+      "address": "0xdbdc1ef57537e34680b898e1febd3d68c7389bcb",
+      "symbol": "siUSD",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdbdc1ef57537e34680b898e1febd3d68c7389bcb.png",
+      "assetGroup": "Staked infiniFi USD::siUSD",
+      "currencyId": "Staked infiniFi USD::siUSD"
+    },
+    "0xecca809227d43b895754382f1fd871628d7e51fb": {
+      "chainId": "1",
+      "decimals": 9,
+      "name": "LanLan Cat",
+      "address": "0xecca809227d43b895754382f1fd871628d7e51fb",
+      "symbol": "LANLAN",
+      "logoURI": "https://assets.coingecko.com/coins/images/56077/thumb/LanLan_Cat.jpg?1748356408",
+      "assetGroup": "LanLan Cat::LANLAN",
+      "currencyId": "LanLan Cat::LANLAN",
+      "tags": ["coingecko"]
+    },
+    "0x3157874a7508fcf972379d24590c6806522b784f": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "Puffverse",
+      "address": "0x3157874a7508fcf972379d24590c6806522b784f",
+      "symbol": "PFVS",
+      "logoURI": "https://assets.coingecko.com/coins/images/56067/thumb/logo.png?1748355229",
+      "assetGroup": "Puffverse::PFVS",
+      "currencyId": "Puffverse::PFVS",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [

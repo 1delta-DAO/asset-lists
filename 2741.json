@@ -298,6 +298,17 @@
       "assetGroup": "Pengus Wife::POLLY",
       "currencyId": "Pengus Wife::POLLY",
       "tags": ["coingecko"]
+    },
+    "0x44cca204fd7a6b357ed88c2c5fefa667ee7be305": {
+      "chainId": "2741",
+      "decimals": 18,
+      "name": "SPUD",
+      "address": "0x44cca204fd7a6b357ed88c2c5fefa667ee7be305",
+      "symbol": "SPUD",
+      "logoURI": "https://assets.coingecko.com/coins/images/56091/thumb/spud200.png?1748382422",
+      "assetGroup": "SPUD::SPUD",
+      "currencyId": "SPUD::SPUD",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -326,7 +337,8 @@
     "0x775fec18be7b2e71c1a20c22f89a697d07c04399",
     "0x987cf44f3f5d854ec0703123d7fd003a8b56ebb4",
     "0xb1bd5afa0de1953246c81276550a464f7d545929",
-    "0xa9053dc939d74222f7aa0b3a2be407abbfd56c6a"
+    "0xa9053dc939d74222f7aa0b3a2be407abbfd56c6a",
+    "0x44cca204fd7a6b357ed88c2c5fefa667ee7be305"
   ],
   "bridgeTokens": ["0x84a71ccd554cc1b02749b35d22f684cc8ec987e1", "0x3439153eb7af838ad19d56e1571fbd09333c2809"]
 }

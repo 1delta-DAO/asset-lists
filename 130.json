@@ -3099,6 +3099,17 @@
       "assetGroup": "EZETH",
       "currencyId": "Renzo Restaked ETH::EZETH",
       "tags": ["coingecko"]
+    },
+    "0x7dcc39b4d1c53cb31e1abc0e358b43987fef80f7": {
+      "chainId": "130",
+      "decimals": 18,
+      "name": "Wrapped eETH",
+      "address": "0x7dcc39b4d1c53cb31e1abc0e358b43987fef80f7",
+      "symbol": "weETH",
+      "logoURI": "https://cdn.morpho.org/assets/logos/weeth.svg",
+      "assetGroup": "WEETH",
+      "currencyId": "Wrapped eETH::weETH",
+      "tags": ["lrt", "yield", "eth"]
     }
   },
   "mainTokens": [

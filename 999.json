@@ -515,6 +515,28 @@
       "logoURI": "https://img.notionusercontent.com/s3/prod-files-secure%2F684ee1b2-0712-4909-8625-4eaaf5bc4270%2F0670736e-69ef-4a1d-821a-8e46934638b7%2FToken.png/size/w=2000?exp=1748369572&sig=gwysBQ-5FGnZgWX7Vi5gMasrSa4tR73y_hhp9qyswTQ&id=e5412ea7-723e-4aef-83bb-69c435b32b0b&table=block",
       "assetGroup": "TIME::TIME",
       "currencyId": "TIME::TIME"
+    },
+    "0x9c84d78839ade4d3211a9b5fa73ef079eca4f739": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "WET",
+      "address": "0x9c84d78839ade4d3211a9b5fa73ef079eca4f739",
+      "symbol": "WET",
+      "logoURI": "https://i.postimg.cc/J09BKpQn/logo-wet.png",
+      "assetGroup": "WET::WET",
+      "currencyId": "WET::WET",
+      "tags": ["coingecko"]
+    },
+    "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "USDT0",
+      "address": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+      "symbol": "USDT0",
+      "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183",
+      "assetGroup": "USDT0::USDT0",
+      "currencyId": "USDT0::USDT0",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -542,7 +564,9 @@
     "0x8ff0dd9f9c40a0d76ef1bcfaf5f98c1610c74bd8",
     "0x00fdbc53719604d924226215bc871d55e40a1009",
     "0x45ec8f63fe934c0213476cfb5870835e61dd11fa",
-    "0x502ee789b448aa692901fe27ab03174c90f07dd1"
+    "0x502ee789b448aa692901fe27ab03174c90f07dd1",
+    "0x9c84d78839ade4d3211a9b5fa73ef079eca4f739",
+    "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb"
   ],
   "bridgeTokens": ["0x7410e69958a8ece2a51c231c8528513d4d668c7a"]
 }
