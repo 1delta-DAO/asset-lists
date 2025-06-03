@@ -1793,6 +1793,7 @@
       "name": "Varlamore USDC Growth",
       "address": "0xf6f87073cf8929c206a77b0694619dc776f89885",
       "symbol": "vgUSDC",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/USDC-varlamore-boosted.png",
       "assetGroup": "Varlamore USDC Growth::vgUSDC",
       "currencyId": "Varlamore USDC Growth::vgUSDC"
     },
@@ -1802,6 +1803,7 @@
       "name": "Varlamore S",
       "address": "0xded4ac8645619334186f28b8798e07ca354cfa0e",
       "symbol": "vS",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wS-varlamore-boosted.png",
       "assetGroup": "Varlamore S::vS",
       "currencyId": "Varlamore S::vS"
     },
@@ -1811,8 +1813,50 @@
       "name": "Varlamore scUSD",
       "address": "0xb6a23cb29e512df41876b28d7a848bd831f9c5ba",
       "symbol": "vscUSD",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-varlamore-boosted.png",
       "assetGroup": "Varlamore scUSD::vscUSD",
       "currencyId": "Varlamore scUSD::vscUSD"
+    },
+    "0x6202b9f02e30e5e1c62cc01e4305450e5d83b926": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "Staked Stream USD",
+      "address": "0x6202b9f02e30e5e1c62cc01e4305450e5d83b926",
+      "symbol": "xUSD",
+      "assetGroup": "Staked Stream USD::xUSD",
+      "currencyId": "Staked Stream USD::xUSD"
+    },
+    "0xd9d6f92df52716835594ab41ea6f3bb994da98b6": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Intern Token",
+      "address": "0xd9d6f92df52716835594ab41ea6f3bb994da98b6",
+      "symbol": "INTERN",
+      "logoURI": "https://i.ibb.co/3mV17Yhj/photo-2025-05-29-10-50-32.jpg",
+      "assetGroup": "Intern Token::INTERN",
+      "currencyId": "Intern Token::INTERN"
+    },
+    "0x0e346e34165c831018f98414caf2689d0d3aa3e6": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Rush",
+      "address": "0x0e346e34165c831018f98414caf2689d0d3aa3e6",
+      "symbol": "RUSH",
+      "logoURI": "https://assets.coingecko.com/coins/images/66176/thumb/1000004712.png?1748586905",
+      "assetGroup": "Rush::RUSH",
+      "currencyId": "Rush::RUSH",
+      "tags": ["coingecko"]
+    },
+    "0x001bff4b6da770f445a740227224d3c8b48e6fb2": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "LoopBurn",
+      "address": "0x001bff4b6da770f445a740227224d3c8b48e6fb2",
+      "symbol": "LBP",
+      "logoURI": "https://assets.coingecko.com/coins/images/66235/thumb/loopburn_dex_icon.png?1748895522",
+      "assetGroup": "LoopBurn::LBP",
+      "currencyId": "LoopBurn::LBP",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [

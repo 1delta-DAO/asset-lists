@@ -107,6 +107,17 @@
       "assetGroup": "IDRX::IDRX",
       "currencyId": "IDRX::IDRX",
       "tags": ["coingecko"]
+    },
+    "0x01f07f4d78d47a64f4c3b2b65f513f15be6e1854": {
+      "chainId": "42793",
+      "decimals": 6,
+      "name": "Stacy Staked XTZ",
+      "address": "0x01f07f4d78d47a64f4c3b2b65f513f15be6e1854",
+      "symbol": "STXTZ",
+      "logoURI": "https://assets.coingecko.com/coins/images/66203/thumb/stXTZ_token_200.png?1748669715",
+      "assetGroup": "Stacy Staked XTZ::STXTZ",
+      "currencyId": "Stacy Staked XTZ::STXTZ",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -118,7 +129,8 @@
     "0xbfc94cd2b1e55999cfc7347a9313e88702b83d0f",
     "0xaa40a1cc1561c584b675cbd12f1423a32e2a0d8c",
     "0xe820995cd39b6e09eaa7e4e16337184b4a61b644",
-    "0x18bc5bcc660cf2b9ce3cd51a404afe1a0cbd3c22"
+    "0x18bc5bcc660cf2b9ce3cd51a404afe1a0cbd3c22",
+    "0x01f07f4d78d47a64f4c3b2b65f513f15be6e1854"
   ],
   "bridgeTokens": [
     "0x2c03058c8afc06713be23e58d2febc8337dbfe6a",

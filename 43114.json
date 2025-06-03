@@ -1927,7 +1927,8 @@
       "symbol": "deUSD",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0xB57B25851fE2311CC3fE511c8F10E868932e0680/logo.png",
       "assetGroup": "DEUSD",
-      "currencyId": "deUSD::deUSD"
+      "currencyId": "deUSD::deUSD",
+      "tags": ["coingecko"]
     },
     "0xe46b44179db3af934da552b35ff8869e98dc6af5": {
       "chainId": "43114",
@@ -6966,6 +6967,50 @@
       "logoURI": "https://assets.coingecko.com/coins/images/56023/thumb/vbill_200.png?1748092620",
       "assetGroup": "VanEck Treasury Fund::VBILL",
       "currencyId": "VanEck Treasury Fund::VBILL",
+      "tags": ["coingecko"]
+    },
+    "0xb06f504453032b6c2303a0108cf374d5b3d6a5ef": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "AVIL",
+      "address": "0xb06f504453032b6c2303a0108cf374d5b3d6a5ef",
+      "symbol": "AVIL",
+      "logoURI": "https://assets.coingecko.com/coins/images/66212/thumb/photo_2025-03-02_11-36-21.jpg?1748759936",
+      "assetGroup": "AVIL::AVIL",
+      "currencyId": "AVIL::AVIL",
+      "tags": ["coingecko"]
+    },
+    "0xb9c188bc558a82a1ee9e75ae0857df443f407632": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "GreatestOfAVAXTrenches",
+      "address": "0xb9c188bc558a82a1ee9e75ae0857df443f407632",
+      "symbol": "GOAT",
+      "logoURI": "https://assets.coingecko.com/coins/images/66148/thumb/goat_coin.png?1748466241",
+      "assetGroup": "GreatestOfAVAXTrenches::GOAT",
+      "currencyId": "GreatestOfAVAXTrenches::GOAT",
+      "tags": ["coingecko"]
+    },
+    "0x34a528da3b2ea5c6ad1796eba756445d1299a577": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Integrity DAO",
+      "address": "0x34a528da3b2ea5c6ad1796eba756445d1299a577",
+      "symbol": "ID",
+      "logoURI": "https://assets.coingecko.com/coins/images/66237/thumb/mX-SWQl5_400x400.jpg?1748896112",
+      "assetGroup": "Integrity DAO::ID",
+      "currencyId": "Integrity DAO::ID",
+      "tags": ["coingecko"]
+    },
+    "0x4bf8cf8e8a20d965d585097256ecf2be98a5fbd8": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "BENIS",
+      "address": "0x4bf8cf8e8a20d965d585097256ecf2be98a5fbd8",
+      "symbol": "BENIS",
+      "logoURI": "https://assets.coingecko.com/coins/images/66186/thumb/benis.png?1748618246",
+      "assetGroup": "BENIS::BENIS",
+      "currencyId": "BENIS::BENIS",
       "tags": ["coingecko"]
     }
   },

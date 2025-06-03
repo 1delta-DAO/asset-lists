@@ -351,7 +351,8 @@
       "symbol": "USDe",
       "logoURI": "https://raw.githubusercontent.com/HyperSwapX/hyperswap-token-list/refs/heads/main/assets/USDe.jpg",
       "assetGroup": "USDE",
-      "currencyId": "USDeOFT::USDe"
+      "currencyId": "USDeOFT::USDe",
+      "tags": ["coingecko"]
     },
     "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2": {
       "chainId": "999",
@@ -361,7 +362,8 @@
       "symbol": "sUSDe",
       "logoURI": "https://raw.githubusercontent.com/HyperSwapX/hyperswap-token-list/refs/heads/main/assets/sUSDe.jpg",
       "assetGroup": "SUSDE",
-      "currencyId": "Staked USDe::sUSDe"
+      "currencyId": "Staked USDe::sUSDe",
+      "tags": ["coingecko"]
     },
     "0x7280cc1f369ab574c35cb8a8d0885e9486e3b733": {
       "chainId": "999",
@@ -421,7 +423,8 @@
       "symbol": "USR",
       "logoURI": "https://framerusercontent.com/assets/fyLd2qn65V15KmM7uJFynRYTSTk.svg",
       "assetGroup": "Resolv USD::USR",
-      "currencyId": "Resolv USD::USR"
+      "currencyId": "Resolv USD::USR",
+      "tags": ["coingecko"]
     },
     "0xe6829d9a7ee3040e1276fa75293bde931859e8fa": {
       "chainId": "999",
@@ -537,6 +540,38 @@
       "assetGroup": "USDT0::USDT0",
       "currencyId": "USDT0::USDT0",
       "tags": ["coingecko"]
+    },
+    "0x704b679f26b8daba1d5d1e59d56229a34bfee56f": {
+      "chainId": "999",
+      "decimals": 8,
+      "name": "HyperPixies",
+      "address": "0x704b679f26b8daba1d5d1e59d56229a34bfee56f",
+      "symbol": "PIXIES",
+      "logoURI": "https://hyperpixies.art/logo_125x.png",
+      "assetGroup": "HyperPixies::PIXIES",
+      "currencyId": "HyperPixies::PIXIES"
+    },
+    "0x4ae080eccd89cf1dc2965dbd5198b7a4efdfa7b8": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "GLO",
+      "address": "0x4ae080eccd89cf1dc2965dbd5198b7a4efdfa7b8",
+      "symbol": "GLO",
+      "logoURI": "https://assets.coingecko.com/coins/images/66222/thumb/MjLgDD39_400x400.png?1748846587",
+      "assetGroup": "GLO::GLO",
+      "currencyId": "GLO::GLO",
+      "tags": ["coingecko"]
+    },
+    "0x9b530b0ac8817f4b6c29cff236df85ed33ece660": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "HarryPotterHyperMarioLiquidFentJeffSpec",
+      "address": "0x9b530b0ac8817f4b6c29cff236df85ed33ece660",
+      "symbol": "HYPE",
+      "logoURI": "https://assets.coingecko.com/coins/images/66155/thumb/200200.jpg?1748497704",
+      "assetGroup": "HarryPotterHyperMarioLiquidFentJeffSpec::HYPE",
+      "currencyId": "HarryPotterHyperMarioLiquidFentJeffSpec::HYPE",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -566,7 +601,12 @@
     "0x45ec8f63fe934c0213476cfb5870835e61dd11fa",
     "0x502ee789b448aa692901fe27ab03174c90f07dd1",
     "0x9c84d78839ade4d3211a9b5fa73ef079eca4f739",
-    "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb"
+    "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+    "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "0x4ae080eccd89cf1dc2965dbd5198b7a4efdfa7b8",
+    "0x0ad339d66bf4aed5ce31c64bc37b3244b6394a77",
+    "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+    "0x9b530b0ac8817f4b6c29cff236df85ed33ece660"
   ],
   "bridgeTokens": ["0x7410e69958a8ece2a51c231c8528513d4d668c7a"]
 }

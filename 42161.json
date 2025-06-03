@@ -17485,6 +17485,27 @@
       "assetGroup": "Session Token::SESH",
       "currencyId": "Session Token::SESH",
       "tags": ["coingecko"]
+    },
+    "0x93c9932e4afa59201f0b5e63f7d816516f1669fe": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "First Digital USD",
+      "address": "0x93c9932e4afa59201f0b5e63f7d816516f1669fe",
+      "symbol": "FDUSD",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/fdusd.svg",
+      "assetGroup": "FDUSD",
+      "currencyId": "First Digital USD::FDUSD"
+    },
+    "0x31dba3c96481fde3cd81c2aaf51f2d8bf618c742": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Sophon",
+      "address": "0x31dba3c96481fde3cd81c2aaf51f2d8bf618c742",
+      "symbol": "SOPH",
+      "logoURI": "https://assets.coingecko.com/coins/images/38680/thumb/sophon_logo_200.png?1747898236",
+      "assetGroup": "Sophon::SOPH",
+      "currencyId": "Sophon::SOPH",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -17616,6 +17637,7 @@
     "0x178412e79c25968a32e89b11f63b33f733770c2a",
     "0xf36a65fd3b7df848860d174115f1864e6aa2db5e",
     "0x3269a3c00ab86c753856fd135d97b87facb0d848",
+    "0x93c9932e4afa59201f0b5e63f7d816516f1669fe",
     "0x4cb9a7ae498cedcbb5eae9f25736ae7d428c9d66",
     "0x1689a6e1f09658ff37d0bb131514e701045876da",
     "0xed7f000ee335b8199b004cca1c6f36d188cf6cb8",

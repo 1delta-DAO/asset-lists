@@ -309,6 +309,28 @@
       "assetGroup": "SPUD::SPUD",
       "currencyId": "SPUD::SPUD",
       "tags": ["coingecko"]
+    },
+    "0x143bd0eac0a811aac43e8aae5d28b624b6b63489": {
+      "chainId": "2741",
+      "decimals": 18,
+      "name": "We Will Huddle",
+      "address": "0x143bd0eac0a811aac43e8aae5d28b624b6b63489",
+      "symbol": "HUDDLE",
+      "logoURI": "https://assets.coingecko.com/coins/images/66224/thumb/token_logo.png?1748847213",
+      "assetGroup": "We Will Huddle::HUDDLE",
+      "currencyId": "We Will Huddle::HUDDLE",
+      "tags": ["coingecko"]
+    },
+    "0xaf31d07af1602dfce07fba81bca5f9570ca83983": {
+      "chainId": "2741",
+      "decimals": 18,
+      "name": "Rich Whale Alliance",
+      "address": "0xaf31d07af1602dfce07fba81bca5f9570ca83983",
+      "symbol": "RWA",
+      "logoURI": "https://assets.coingecko.com/coins/images/66175/thumb/REAL_WHALE_%287%29.png?1748585331",
+      "assetGroup": "Rich Whale Alliance::RWA",
+      "currencyId": "Rich Whale Alliance::RWA",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -338,7 +360,9 @@
     "0x987cf44f3f5d854ec0703123d7fd003a8b56ebb4",
     "0xb1bd5afa0de1953246c81276550a464f7d545929",
     "0xa9053dc939d74222f7aa0b3a2be407abbfd56c6a",
-    "0x44cca204fd7a6b357ed88c2c5fefa667ee7be305"
+    "0x44cca204fd7a6b357ed88c2c5fefa667ee7be305",
+    "0x143bd0eac0a811aac43e8aae5d28b624b6b63489",
+    "0xaf31d07af1602dfce07fba81bca5f9570ca83983"
   ],
   "bridgeTokens": ["0x84a71ccd554cc1b02749b35d22f684cc8ec987e1", "0x3439153eb7af838ad19d56e1571fbd09333c2809"]
 }

@@ -56,6 +56,17 @@
       "assetGroup": "IP Exchange::IPX",
       "currencyId": "IP Exchange::IPX",
       "tags": ["coingecko"]
+    },
+    "0x5a212776066b81e449fe74396cce368dc4b14043": {
+      "chainId": "1514",
+      "decimals": 18,
+      "name": "WhatTheFreg",
+      "address": "0x5a212776066b81e449fe74396cce368dc4b14043",
+      "symbol": "WTF",
+      "logoURI": "https://assets.coingecko.com/coins/images/66146/thumb/sidebar_head.png?1748465639",
+      "assetGroup": "WhatTheFreg::WTF",
+      "currencyId": "WhatTheFreg::WTF",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -63,7 +74,8 @@
     "0x25f9c9715d1d700a50b2a9a06d80fe9f98ccb549",
     "0x1514000000000000000000000000000000000000",
     "0xa4f5c615f72ddeb2220471694fff1c0c3de051e1",
-    "0x2460e95f24bbd21d1fba27a751970c2455e9d7e9"
+    "0x2460e95f24bbd21d1fba27a751970c2455e9d7e9",
+    "0x5a212776066b81e449fe74396cce368dc4b14043"
   ],
   "bridgeTokens": ["0xf1815bd50389c46847f0bda824ec8da914045d14"]
 }
