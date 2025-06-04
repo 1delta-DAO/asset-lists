@@ -3110,6 +3110,17 @@
       "assetGroup": "WEETH",
       "currencyId": "Wrapped eETH::weETH",
       "tags": ["lrt", "yield", "eth"]
+    },
+    "0x849f05f7cfdc4215b16a3c5a58361445c4d56c8e": {
+      "chainId": "130",
+      "decimals": 18,
+      "name": "Hooffather",
+      "address": "0x849f05f7cfdc4215b16a3c5a58361445c4d56c8e",
+      "symbol": "HOOF",
+      "logoURI": "https://assets.coingecko.com/coins/images/55345/thumb/Logo_%282%29.png?1745565191",
+      "assetGroup": "Hooffather::HOOF::130::0",
+      "currencyId": "Hooffather::HOOF",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -3130,7 +3141,8 @@
     "0x2416092f143378750bb29b79ed961ab195cceea5",
     "0xc02fe7317d4eb8753a02c35fe019786854a92001",
     "0x3d63825b0d8669307366e6c8202f656b9e91d368",
-    "0x73e0c0d45e048d25fc26fa3159b0aa04bfa4db98"
+    "0x73e0c0d45e048d25fc26fa3159b0aa04bfa4db98",
+    "0x849f05f7cfdc4215b16a3c5a58361445c4d56c8e"
   ],
   "bridgeTokens": [
     "0xbf678793522638f7439afe3b94d2d2a3a4cbf2c9",

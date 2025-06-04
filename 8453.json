@@ -20701,6 +20701,103 @@
       "assetGroup": "Sophon::SOPH",
       "currencyId": "Sophon::SOPH",
       "tags": ["coingecko"]
+    },
+    "0x589a7339c6d0c8777e7429f57f2f95c069c37288": {
+      "chainId": "8453",
+      "decimals": 6,
+      "name": "Wrapped ExtraFi X Base USDC",
+      "address": "0x589a7339c6d0c8777e7429f57f2f95c069c37288",
+      "symbol": "wexBaseUSDC",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x589a7339c6d0c8777e7429f57f2f95c069c37288.png",
+      "assetGroup": "Wrapped ExtraFi X Base USDC::wexBaseUSDC",
+      "currencyId": "Wrapped ExtraFi X Base USDC::wexBaseUSDC"
+    },
+    "0x98efe85735f253a0ed0be8e2915ff39f9e4aff0f": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Wrapped ExtraX Base USR",
+      "address": "0x98efe85735f253a0ed0be8e2915ff39f9e4aff0f",
+      "symbol": "wexBaseUSR",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x98efe85735f253a0ed0be8e2915ff39f9e4aff0f.png",
+      "assetGroup": "Wrapped ExtraX Base USR::wexBaseUSR",
+      "currencyId": "Wrapped ExtraX Base USR::wexBaseUSR"
+    },
+    "0x5d54725b48d2c8badf5f6046c71c3ffb73e26228": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Bookie AI by Virtuals",
+      "address": "0x5d54725b48d2c8badf5f6046c71c3ffb73e26228",
+      "symbol": "BOOKIE",
+      "logoURI": "https://assets.coingecko.com/coins/images/66272/thumb/SX_bloab_400x400.jpg?1749026933",
+      "assetGroup": "Bookie AI by Virtuals::BOOKIE",
+      "currencyId": "Bookie AI by Virtuals::BOOKIE",
+      "tags": ["coingecko"]
+    },
+    "0xcec3661ac188c692fd1f5e5bd0c4ae37771ca3db": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "HELLOWORLD",
+      "address": "0xcec3661ac188c692fd1f5e5bd0c4ae37771ca3db",
+      "symbol": "HELLOWORLD",
+      "logoURI": "https://assets.coingecko.com/coins/images/66255/thumb/voY0SqgA_400x400.jpg?1748986711",
+      "assetGroup": "HELLOWORLD::HELLOWORLD",
+      "currencyId": "HELLOWORLD::HELLOWORLD",
+      "tags": ["coingecko"]
+    },
+    "0x677db5a751fbd0b130ddc02715223d9da4a98f8f": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "MetaYield",
+      "address": "0x677db5a751fbd0b130ddc02715223d9da4a98f8f",
+      "symbol": "MY",
+      "logoURI": "https://assets.coingecko.com/coins/images/66251/thumb/Meta-Yield-200x200.png?1748947738",
+      "assetGroup": "MetaYield::MY",
+      "currencyId": "MetaYield::MY",
+      "tags": ["coingecko"]
+    },
+    "0xcb585250f852c6c6bf90434ab21a00f02833a4af": {
+      "chainId": "8453",
+      "decimals": 6,
+      "name": "Coinbase Wrapped XRP",
+      "address": "0xcb585250f852c6c6bf90434ab21a00f02833a4af",
+      "symbol": "CBXRP",
+      "logoURI": "https://assets.coingecko.com/coins/images/66267/thumb/Coinbase_Wrapped_XPR_%28cbXRP%29.png?1749023398",
+      "assetGroup": "Coinbase Wrapped XRP::CBXRP",
+      "currencyId": "Coinbase Wrapped XRP::CBXRP",
+      "tags": ["coingecko"]
+    },
+    "0xcbd06e5a2b0c65597161de254aa074e489deb510": {
+      "chainId": "8453",
+      "decimals": 8,
+      "name": "Coinbase Wrapped DOGE",
+      "address": "0xcbd06e5a2b0c65597161de254aa074e489deb510",
+      "symbol": "CBDOGE",
+      "logoURI": "https://assets.coingecko.com/coins/images/66268/thumb/Coinbase_Wrapped_Doge_%28cbDOGE%29.png?1749023465",
+      "assetGroup": "Coinbase Wrapped DOGE::CBDOGE",
+      "currencyId": "Coinbase Wrapped DOGE::CBDOGE",
+      "tags": ["coingecko"]
+    },
+    "0x17906b1cd88aa8efaefc5e82891b52a22219bd45": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Superseed",
+      "address": "0x17906b1cd88aa8efaefc5e82891b52a22219bd45",
+      "symbol": "SUPR",
+      "logoURI": "https://assets.coingecko.com/coins/images/55519/thumb/Small.png?1746469855",
+      "assetGroup": "Superseed::SUPR",
+      "currencyId": "Superseed::SUPR",
+      "tags": ["coingecko"]
+    },
+    "0x868fced65edbf0056c4163515dd840e9f287a4c3": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Sign",
+      "address": "0x868fced65edbf0056c4163515dd840e9f287a4c3",
+      "symbol": "SIGN",
+      "logoURI": "https://assets.coingecko.com/coins/images/55303/thumb/sign.jpg?1745303393",
+      "assetGroup": "Sign::SIGN",
+      "currencyId": "Sign::SIGN",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [

@@ -37238,9 +37238,10 @@
       "name": "Aipocalypto",
       "address": "0x6c511dc18572d31c2c3f7b1505cb2bbc08282fcc",
       "symbol": "AIPO",
+      "logoURI": "https://assets.coingecko.com/coins/images/51400/thumb/aipo.png?1731084580",
       "assetGroup": "Aipocalypto::AIPO",
       "currencyId": "Aipocalypto::AIPO",
-      "tags": ["debridge"]
+      "tags": ["debridge", "coingecko"]
     },
     "0xa24259b154f6199f881c99fca26d7b3e8f8f2711": {
       "chainId": "56",
@@ -41793,6 +41794,72 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54579/thumb/pundiai.jpg?1740538459",
       "assetGroup": "Pundi AI::PUNDIAI",
       "currencyId": "Pundi AI::PUNDIAI",
+      "tags": ["coingecko"]
+    },
+    "0xabddb950f2ae8430c5a818f8bb4ec09e3ae41253": {
+      "chainId": "56",
+      "decimals": 6,
+      "name": "USD DWIN",
+      "address": "0xabddb950f2ae8430c5a818f8bb4ec09e3ae41253",
+      "symbol": "USDW",
+      "logoURI": "https://assets.coingecko.com/coins/images/53767/thumb/usdwlogo200x200.fw.png?1742896321",
+      "assetGroup": "USD DWIN::USDW",
+      "currencyId": "USD DWIN::USDW",
+      "tags": ["coingecko"]
+    },
+    "0x2d2d8449ec0bb78c497c36ffaac583dff4bd4444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "CrypstocksAI",
+      "address": "0x2d2d8449ec0bb78c497c36ffaac583dff4bd4444",
+      "symbol": "MVP",
+      "logoURI": "https://assets.coingecko.com/coins/images/66258/thumb/IMG_2730.jpeg?1749018415",
+      "assetGroup": "CrypstocksAI::MVP",
+      "currencyId": "CrypstocksAI::MVP",
+      "tags": ["coingecko"]
+    },
+    "0x8de4aa9716c1bd8d68ad73b1cb8639830f40ee05": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "CJournal",
+      "address": "0x8de4aa9716c1bd8d68ad73b1cb8639830f40ee05",
+      "symbol": "CJL",
+      "logoURI": "https://assets.coingecko.com/coins/images/66263/thumb/CHL-cg.jpg?1749022091",
+      "assetGroup": "CJournal::CJL",
+      "currencyId": "CJournal::CJL",
+      "tags": ["coingecko"]
+    },
+    "0x868fced65edbf0056c4163515dd840e9f287a4c3": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Sign",
+      "address": "0x868fced65edbf0056c4163515dd840e9f287a4c3",
+      "symbol": "SIGN",
+      "logoURI": "https://assets.coingecko.com/coins/images/55303/thumb/sign.jpg?1745303393",
+      "assetGroup": "Sign::SIGN",
+      "currencyId": "Sign::SIGN",
+      "tags": ["coingecko"]
+    },
+    "0xcef5b397051fc92026249670e918c0ad7b8585e4": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Orbiter Finance",
+      "address": "0xcef5b397051fc92026249670e918c0ad7b8585e4",
+      "symbol": "OBT",
+      "logoURI": "https://assets.coingecko.com/coins/images/53783/thumb/orbiter.jpg?1737352795",
+      "assetGroup": "OBT",
+      "currencyId": "Orbiter Finance::OBT",
+      "tags": ["coingecko"]
+    },
+    "0xe50e3d1a46070444f44df911359033f2937fcc13": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "SQD",
+      "address": "0xe50e3d1a46070444f44df911359033f2937fcc13",
+      "symbol": "SQD",
+      "logoURI": "https://assets.coingecko.com/coins/images/37869/thumb/New_Logo_SQD_Icon.png?1720048443",
+      "assetGroup": "SQD::SQD",
+      "currencyId": "SQD::SQD",
       "tags": ["coingecko"]
     }
   },

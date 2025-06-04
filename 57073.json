@@ -144,6 +144,17 @@
       "assetGroup": "XSOLVBTC",
       "currencyId": "xSolvBTC::xSolvBTC",
       "tags": ["coingecko"]
+    },
+    "0x17906b1cd88aa8efaefc5e82891b52a22219bd45": {
+      "chainId": "57073",
+      "decimals": 18,
+      "name": "Superseed",
+      "address": "0x17906b1cd88aa8efaefc5e82891b52a22219bd45",
+      "symbol": "SUPR",
+      "logoURI": "https://assets.coingecko.com/coins/images/55519/thumb/Small.png?1746469855",
+      "assetGroup": "Superseed::SUPR",
+      "currencyId": "Superseed::SUPR",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -159,7 +170,8 @@
     "0x73e0c0d45e048d25fc26fa3159b0aa04bfa4db98",
     "0x3d63825b0d8669307366e6c8202f656b9e91d368",
     "0xae4efbc7736f963982aacb17efa37fcbab924cb3",
-    "0xc99f5c922dae05b6e2ff83463ce705ef7c91f077"
+    "0xc99f5c922dae05b6e2ff83463ce705ef7c91f077",
+    "0x17906b1cd88aa8efaefc5e82891b52a22219bd45"
   ],
   "bridgeTokens": [
     "0xf1815bd50389c46847f0bda824ec8da914045d14",
