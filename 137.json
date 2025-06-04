@@ -6953,6 +6953,7 @@
       "name": "Nexera",
       "address": "0x644192291cc835a93d6330b24ea5f5fedd0eef9e",
       "symbol": "NXRA",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/29181/large/nxra.png?1712255778",
       "assetGroup": "NXRA",
       "currencyId": "Nexera::NXRA",
       "tags": ["debridge"]
@@ -10938,6 +10939,7 @@
       "name": "Ares3 Network",
       "address": "0x181feaecca4a69a793272ea06df40edf2dd0804c",
       "symbol": "ARES",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/29713/large/logo_200.png?1696528645",
       "assetGroup": "Ares3 Network::ARES",
       "currencyId": "Ares3 Network::ARES",
       "tags": ["debridge"]
@@ -11019,6 +11021,7 @@
       "name": "Arch Aggressive Portfolio",
       "address": "0xafb6e8331355fae99c8e8953bb4c6dc5d11e9f3c",
       "symbol": "AAGG",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/30638/large/AAGG.png?1696529510",
       "assetGroup": "Arch Aggressive Portfolio::AAGG",
       "currencyId": "Arch Aggressive Portfolio::AAGG",
       "tags": ["debridge"]
@@ -11140,6 +11143,7 @@
       "name": "Arch Balanced Portfolio",
       "address": "0xf401e2c1ce8f252947b60bfb92578f84217a1545",
       "symbol": "ABAL",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/30639/large/ABAL.png?1696529511",
       "assetGroup": "Arch Balanced Portfolio::ABAL",
       "currencyId": "Arch Balanced Portfolio::ABAL",
       "tags": ["debridge"]
@@ -11181,6 +11185,7 @@
       "name": "Staked Frax Ether",
       "address": "0x6d1fdbb266fcc09a16a22016369210a15bb95761",
       "symbol": "sfrxETH",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/28285/large/sfrxETH_icon.png?1696527285",
       "assetGroup": "SFRXETH",
       "currencyId": "Staked Frax Ether::sfrxETH",
       "tags": ["debridge"]
@@ -16794,6 +16799,7 @@
       "name": "CODA",
       "address": "0xe6f3be5b52b5de0156148a4aab2e6674e7c1f5d0",
       "symbol": "CODA",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/34198/large/%ED%88%AC%EB%AA%85_%EB%A1%9C%EA%B3%A0.png?1704364304",
       "assetGroup": "CODA::CODA",
       "currencyId": "CODA::CODA",
       "tags": ["debridge"]
@@ -19816,6 +19822,246 @@
       "logoURI": "https://polygonscan.com/token/images/alphadune_32.png",
       "assetGroup": "R Alpha Dune::RDUNE",
       "currencyId": "R Alpha Dune::RDUNE"
+    },
+    "0xc14a7747cfec02cfea62e72bb93538de6b2078e6": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "WaweSwaps Global Token",
+      "address": "0xc14a7747cfec02cfea62e72bb93538de6b2078e6",
+      "symbol": "GBL",
+      "logoURI": "https://metacore.mobula.io/1263369863aba05edcd86ee1cc1eb332015180171cd79c1c307e646a2f2efa90.png",
+      "assetGroup": "WaweSwaps Global Token::GBL",
+      "currencyId": "WaweSwaps Global Token::GBL"
+    },
+    "0xb890a8c26bd8140b23b4f1a5bff6e2912aea6819": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "AstroShib",
+      "address": "0xb890a8c26bd8140b23b4f1a5bff6e2912aea6819",
+      "symbol": "ASROB",
+      "logoURI": "https://metacore.mobula.io/ebe36b3e442ebd6ce8ad3426cdbe58ed7910466bc0d6394640fa70b44bd383c9.png",
+      "assetGroup": "AstroShib::ASROB",
+      "currencyId": "AstroShib::ASROB"
+    },
+    "0xe15a66b7b8e385caa6f69fd0d55984b96d7263cf": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Arch USD Diversified Yield",
+      "address": "0xe15a66b7b8e385caa6f69fd0d55984b96d7263cf",
+      "symbol": "ADDY",
+      "logoURI": "https://metacore.mobula.io/67429460b61e7eab5ba4051a67789fbc68af3fe39931a844d885114111e2c29d.png",
+      "assetGroup": "Arch USD Diversified Yield::ADDY",
+      "currencyId": "Arch USD Diversified Yield::ADDY"
+    },
+    "0x9a41e03fef7f16f552c6fba37ffa7590fb1ec0c4": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Arch Blockchains",
+      "address": "0x9a41e03fef7f16f552c6fba37ffa7590fb1ec0c4",
+      "symbol": "CHAIN",
+      "logoURI": "https://metacore.mobula.io/b99359cc03b6024d68b0a0b791b6ec9a72e666c25da3034f044d93123cb1a090.png",
+      "assetGroup": "Arch Blockchains::CHAIN",
+      "currencyId": "Arch Blockchains::CHAIN"
+    },
+    "0x6ca9c8914a14d63a6700556127d09e7721ff7d3b": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Arch Moderate Portfolio",
+      "address": "0x6ca9c8914a14d63a6700556127d09e7721ff7d3b",
+      "symbol": "AP60",
+      "logoURI": "https://metacore.mobula.io/211048268b2b028aa5f16624e76e2846fd81a5102c8754784835af65a276ed8f.png",
+      "assetGroup": "Arch Moderate Portfolio::AP60",
+      "currencyId": "Arch Moderate Portfolio::AP60"
+    },
+    "0x8688ee261fe911c9d05f54536a2538e87f0e0c80": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "XENSHIBA",
+      "address": "0x8688ee261fe911c9d05f54536a2538e87f0e0c80",
+      "symbol": "XSHIBA",
+      "logoURI": "https://metacore.mobula.io/eb22cde70eb1f1ebf3581f9d82a46245d52b82fe0a88d617f945ba671f54d2ca.png",
+      "assetGroup": "XENSHIBA::XSHIBA",
+      "currencyId": "XENSHIBA::XSHIBA"
+    },
+    "0x89c90e480a39fbe3886bb5bd53ba5b1acc69d4fb": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Aladdin cvxCRV",
+      "address": "0x89c90e480a39fbe3886bb5bd53ba5b1acc69d4fb",
+      "symbol": "ACRV",
+      "logoURI": "https://metacore.mobula.io/40cbf673c3d6d0a4c3709bcfb3ab07d3f6e561f5d051c541b2e88ed8a18ee5f7.png",
+      "assetGroup": "Aladdin cvxCRV::ACRV",
+      "currencyId": "Aladdin cvxCRV::ACRV"
+    },
+    "0x027af1e12a5869ed329be4c05617ad528e997d5a": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Arch Ethereum Div. Yield",
+      "address": "0x027af1e12a5869ed329be4c05617ad528e997d5a",
+      "symbol": "AEDY",
+      "logoURI": "https://metacore.mobula.io/056def1be297e529dded143d7664d4fbed559e428c63eb91bfea1d4e00cd8e73.png",
+      "assetGroup": "Arch Ethereum Div. Yield::AEDY",
+      "currencyId": "Arch Ethereum Div. Yield::AEDY"
+    },
+    "0xe78b25c06db117fdf8f98583cdaaa6c92b79e917": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Balancer MaticX Boosted Aave WMATIC",
+      "address": "0xe78b25c06db117fdf8f98583cdaaa6c92b79e917",
+      "symbol": "MATICX-BB-A-WMATIC-BPT",
+      "logoURI": "https://metacore.mobula.io/4902af006187a6a2bf6f8f5cbea2b84db32984933c28d472ceaea227dd9e5141.png",
+      "assetGroup": "Balancer MaticX Boosted Aave WMATIC::MATICX-BB-A-WMATIC-BPT",
+      "currencyId": "Balancer MaticX Boosted Aave WMATIC::MATICX-BB-A-WMATIC-BPT"
+    },
+    "0xbe1542e3fcaafc474e9850c4526468f5c974a13f": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "NFTPussies",
+      "address": "0xbe1542e3fcaafc474e9850c4526468f5c974a13f",
+      "symbol": "PUSSIES",
+      "logoURI": "https://metacore.mobula.io/c1356b23c431766fc254efc8734ecd755a8f5f46cd45ca3ea4103614a2f39d6a.png",
+      "assetGroup": "NFTPussies::PUSSIES",
+      "currencyId": "NFTPussies::PUSSIES"
+    },
+    "0xaf3cbaeba9fe7a7d4e7531f1b2553972fd1c4e9c": {
+      "chainId": "137",
+      "decimals": 8,
+      "name": "Zizy",
+      "address": "0xaf3cbaeba9fe7a7d4e7531f1b2553972fd1c4e9c",
+      "symbol": "ZIZY",
+      "logoURI": "https://metacore.mobula.io/85759330970eacef2937cbd8859bdc28c793b27b3ce029632014bf95c33ae38e.png",
+      "assetGroup": "Zizy::ZIZY",
+      "currencyId": "Zizy::ZIZY"
+    },
+    "0x681d3e1b54b3e1a338feb5b076cebf53a697d51f": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "COVO",
+      "address": "0x681d3e1b54b3e1a338feb5b076cebf53a697d51f",
+      "symbol": "COVO",
+      "logoURI": "https://metacore.mobula.io/6597d82899a3942d4680e87b1522d3729601bdfc9bc5d4c29ede3746cf36a5c9.png",
+      "assetGroup": "COVO::COVO",
+      "currencyId": "COVO::COVO"
+    },
+    "0xe1398b5d2f3cef77a13a7ccbae33f2121c217301": {
+      "chainId": "137",
+      "decimals": 2,
+      "name": "RODO",
+      "address": "0xe1398b5d2f3cef77a13a7ccbae33f2121c217301",
+      "symbol": "RODO",
+      "logoURI": "https://metacore.mobula.io/6146e07af7763e5d0d2db35acb1ab683cb1cf277bd058feae6ea57fa66de9a06.png",
+      "assetGroup": "RODO::RODO",
+      "currencyId": "RODO::RODO"
+    },
+    "0x1a99bb6338206ea824d4d816dfc3ef28c43af3b0": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "BOOM Token",
+      "address": "0x1a99bb6338206ea824d4d816dfc3ef28c43af3b0",
+      "symbol": "BOOM",
+      "logoURI": "https://metacore.mobula.io/5cc0585b66e599213103c87fe013f66302c8f389a60d12892487908248e76c60.png",
+      "assetGroup": "BOOM Token::BOOM",
+      "currencyId": "BOOM Token::BOOM"
+    },
+    "0xf0f9d895aca5c8678f706fb8216fa22957685a13": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Revolt 2 Earn",
+      "address": "0xf0f9d895aca5c8678f706fb8216fa22957685a13",
+      "symbol": "RVLT",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/26360/large/revolt2earn_32.png?1696525438",
+      "assetGroup": "Revolt 2 Earn::RVLT::137::0",
+      "currencyId": "Revolt 2 Earn::RVLT"
+    },
+    "0x790540ff6117205ac6ef132a5782ba4f4a611355": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Dogioh Token",
+      "address": "0x790540ff6117205ac6ef132a5782ba4f4a611355",
+      "symbol": "Dogioh",
+      "logoURI": "https://metacore.mobula.io/9fe81ae461046b4d5394375ceb228bda046041876940833dd906c00bfa8dfe17.png",
+      "assetGroup": "Dogioh Token::Dogioh",
+      "currencyId": "Dogioh Token::Dogioh"
+    },
+    "0x1e6b2f0837c72cf0f5c564327eb9540a11490427": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Eternity Foundation Token",
+      "address": "0x1e6b2f0837c72cf0f5c564327eb9540a11490427",
+      "symbol": "EFT",
+      "logoURI": "https://metacore.mobula.io/e734c3822321d1cdf95fff8ff1973ea0aeaeb4b2e6c2207dbbcb1d98b3f5bc8a.png",
+      "assetGroup": "Eternity Foundation Token::EFT",
+      "currencyId": "Eternity Foundation Token::EFT"
+    },
+    "0x6a5e73099d8d68ec5aa1ca34fce22d16d8d115e9": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Carmin",
+      "address": "0x6a5e73099d8d68ec5aa1ca34fce22d16d8d115e9",
+      "symbol": "CARMIN",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/29073/large/carmin.png?1696528039",
+      "assetGroup": "Carmin::CARMIN",
+      "currencyId": "Carmin::CARMIN"
+    },
+    "0xf8eed914a0bacaf30c13420989bb7c81b75d833a": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Dawn Star Share",
+      "address": "0xf8eed914a0bacaf30c13420989bb7c81b75d833a",
+      "symbol": "SOLAR",
+      "logoURI": "https://metacore.mobula.io/d53e63f3371f241bc0387dd25ebfad1a4d604d766a5de12e5270ca5ad7f96455.png",
+      "assetGroup": "Dawn Star Share::SOLAR",
+      "currencyId": "Dawn Star Share::SOLAR"
+    },
+    "0x095bc617b36ab227a379550633dfdcbf43f236f6": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Dawn Star Token",
+      "address": "0x095bc617b36ab227a379550633dfdcbf43f236f6",
+      "symbol": "DSF",
+      "logoURI": "https://metacore.mobula.io/dac43c08b661564464f53431bc5c415532d6b42b9e47df131838071f97e5d5d9.png",
+      "assetGroup": "Dawn Star Token::DSF",
+      "currencyId": "Dawn Star Token::DSF"
+    },
+    "0x103965213122805c9aa63d8036ed0ef692c19650": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "D-Drops",
+      "address": "0x103965213122805c9aa63d8036ed0ef692c19650",
+      "symbol": "DOP",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/26611/large/ddrops_%281%29.png?1696525685",
+      "assetGroup": "D-Drops::DOP",
+      "currencyId": "D-Drops::DOP"
+    },
+    "0xb6169e71144b4debd9caa2dbb851fc8ffde6119f": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "DuDe",
+      "address": "0xb6169e71144b4debd9caa2dbb851fc8ffde6119f",
+      "symbol": "DUDE",
+      "logoURI": "https://metacore.mobula.io/5c8d2bcd79872b72fe7cdb11187f19de3631e6f00e107e0a11e0d485ca7f87f4.png",
+      "assetGroup": "DuDe::DUDE",
+      "currencyId": "DuDe::DUDE"
+    },
+    "0x14ee88cd0e3c1534bff13d6d716b8575532c7138": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "EDNS Domains",
+      "address": "0x14ee88cd0e3c1534bff13d6d716b8575532c7138",
+      "symbol": "EDNS",
+      "logoURI": "https://metacore.mobula.io/a38b9bf06fc478021fe3f6112be9364417bdcda79be87e393d71d9d8cf926ba5.png",
+      "assetGroup": "EDNS Domains::EDNS",
+      "currencyId": "EDNS Domains::EDNS"
+    },
+    "0x7a6168e5a0ecc9841ad8fad20dcfcc4458fef0fb": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Epillo",
+      "address": "0x7a6168e5a0ecc9841ad8fad20dcfcc4458fef0fb",
+      "symbol": "EPILLO",
+      "logoURI": "https://metacore.mobula.io/bbff32d9385f6cf415d24e8183cefd8f17770dafb6dfd45c8707d998e8c633a5.png",
+      "assetGroup": "Epillo::EPILLO",
+      "currencyId": "Epillo::EPILLO"
     }
   },
   "mainTokens": [

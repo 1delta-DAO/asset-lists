@@ -250,7 +250,7 @@
       "name": "Penguin Kart",
       "address": "0x188a168280589bc3e483d77aae6b4a1d26bd22dc",
       "symbol": "PGK",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/1648805093005_19645442670853752.jpg",
+      "logoURI": "https://metacore.mobula.io/7ec306fa465e678296d52fcb3769ed91c9625bde008ec80e76b04c4ffffc9f58.png",
       "assetGroup": "Penguin Kart::PGK",
       "currencyId": "Penguin Kart::PGK",
       "tags": ["openocean"]
@@ -349,7 +349,7 @@
       "name": "Protofi",
       "address": "0xa23c4e69e5eaf4500f2f9301717f12b578b948fb",
       "symbol": "PROTO",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/1646038235799_4291415820950484.png",
+      "logoURI": "https://metacore.mobula.io/ef7a35f87b6fb7cce88ebea638a7d05c43fe505dce8e9d586a4616fdb2815a93.png",
       "assetGroup": "Protofi::PROTO",
       "currencyId": "Protofi::PROTO",
       "tags": ["openocean"]
@@ -569,7 +569,7 @@
       "name": "Fantohm",
       "address": "0xfa1fbb8ef55a4855e5688c0ee13ac3f202486286",
       "symbol": "FHM",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/1640319357985_22667621842246044.png",
+      "logoURI": "https://metacore.mobula.io/0506ffc3d570f09b004083b6747fc5dc8eb7b9dbbf370e42523353d0a4bb147c.png",
       "assetGroup": "Fantohm::FHM",
       "currencyId": "Fantohm::FHM",
       "tags": ["openocean"]
@@ -657,7 +657,7 @@
       "name": "Geist Finance",
       "address": "0xd8321aa83fb0a4ecd6348d4577431310a6e0814d",
       "symbol": "GEIST",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/fantom/0xd8321aa83fb0a4ecd6348d4577431310a6e0814d.png",
+      "logoURI": "https://metacore.mobula.io/db34c32f00c6d2b93623cfd17f0152fb7030a176bd0f09096bc853260bc750a1.png",
       "assetGroup": "Geist Finance::GEIST",
       "currencyId": "Geist Finance::GEIST",
       "tags": ["openocean"]
@@ -668,7 +668,7 @@
       "name": "ProjectMars Token",
       "address": "0xbe41772587872a92184873d55b09c6bb6f59f895",
       "symbol": "MARS",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/fantom/0xbe41772587872a92184873d55b09c6bb6f59f895.png",
+      "logoURI": "https://metacore.mobula.io/afc648b0a3110e36bfae1989e7bbd1a92658c4bd0b7afa83a79415c7aee279ec.png",
       "assetGroup": "ProjectMars Token::MARS",
       "currencyId": "ProjectMars Token::MARS",
       "tags": ["openocean"]
@@ -679,7 +679,7 @@
       "name": "ScareCrow",
       "address": "0x46e1ee17f51c52661d04238f1700c547de3b84a1",
       "symbol": "SCARE",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/1635757463555_5294638395195801.png",
+      "logoURI": "https://metacore.mobula.io/3aeba5b4b1dbfc1cc2f8021699cbed6cde1aba98a4a10ab776dddff941317a05.png",
       "assetGroup": "ScareCrow::SCARE",
       "currencyId": "ScareCrow::SCARE",
       "tags": ["openocean"]
@@ -3236,6 +3236,7 @@
       "name": "Wolf Ventures",
       "address": "0x911d1feae99e112b5014cfa60038325d863352f1",
       "symbol": "WV",
+      "logoURI": "https://metacore.mobula.io/cf65de60bedcce0eaaf61a0f4448d1b01d2c89eb8e373fbe46c679026e1145ed.png",
       "assetGroup": "Wolf Ventures::WV",
       "currencyId": "Wolf Ventures::WV"
     },
@@ -4099,6 +4100,106 @@
       "logoURI": "https://assets.coingecko.com/coins/images/25088/large/evoToken.png?1650269135",
       "assetGroup": "EVO::EVO",
       "currencyId": "EVO::EVO"
+    },
+    "0x666a3776b3e82f171cb1dff7428b6808d2cd7d02": {
+      "chainId": "250",
+      "decimals": 18,
+      "name": "Aladdin cvxCRV",
+      "address": "0x666a3776b3e82f171cb1dff7428b6808d2cd7d02",
+      "symbol": "ACRV",
+      "logoURI": "https://metacore.mobula.io/40cbf673c3d6d0a4c3709bcfb3ab07d3f6e561f5d051c541b2e88ed8a18ee5f7.png",
+      "assetGroup": "Aladdin cvxCRV::ACRV",
+      "currencyId": "Aladdin cvxCRV::ACRV"
+    },
+    "0x9315e82618c83d350af5888a10ea59a5b6d2a7b4": {
+      "chainId": "250",
+      "decimals": 9,
+      "name": "Warp Token",
+      "address": "0x9315e82618c83d350af5888a10ea59a5b6d2a7b4",
+      "symbol": "WARP",
+      "logoURI": "https://metacore.mobula.io/aed058f544986f0b8478af58d655bf970636a3a8f7cb74007cb2ca772e2cbc90.png",
+      "assetGroup": "Warp Token::WARP",
+      "currencyId": "Warp Token::WARP"
+    },
+    "0x75e0eb8e6d92ab832bb11e46c041d06a89ac5f0d": {
+      "chainId": "250",
+      "decimals": 18,
+      "name": "0x_nodes",
+      "address": "0x75e0eb8e6d92ab832bb11e46c041d06a89ac5f0d",
+      "symbol": "BIOS",
+      "logoURI": "https://metacore.mobula.io/abfa933c5d179f004521c1b76dfadfe3aaf7ce637eb2779981efde916bd8b842.png",
+      "assetGroup": "0x_nodes::BIOS",
+      "currencyId": "0x_nodes::BIOS"
+    },
+    "0xe5a4c0af6f5f7ab5d6c1d38254bcf4cc26d688ed": {
+      "chainId": "250",
+      "decimals": 18,
+      "name": "Moon Bay [OLD]",
+      "address": "0xe5a4c0af6f5f7ab5d6c1d38254bcf4cc26d688ed",
+      "symbol": "BAY",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/30530/large/Bay_Token_Logo200x200.png?1696529403",
+      "assetGroup": "Moon Bay [OLD]::BAY",
+      "currencyId": "Moon Bay [OLD]::BAY"
+    },
+    "0x070eb1a48725622de867a7e3d1dd4f0108966ed1": {
+      "chainId": "250",
+      "decimals": 18,
+      "name": "Poopsicle",
+      "address": "0x070eb1a48725622de867a7e3d1dd4f0108966ed1",
+      "symbol": "POOP",
+      "logoURI": "https://metacore.mobula.io/2a260424091ce0aca85b59af70bc6b750b62e2ea6f109e534e7ebb71496970c7.png",
+      "assetGroup": "Poopsicle::POOP",
+      "currencyId": "Poopsicle::POOP"
+    },
+    "0x9ba3e4f84a34df4e08c112e1a0ff148b81655615": {
+      "chainId": "250",
+      "decimals": 9,
+      "name": "Shiba Fantom",
+      "address": "0x9ba3e4f84a34df4e08c112e1a0ff148b81655615",
+      "symbol": "SHIBA",
+      "logoURI": "https://metacore.mobula.io/5c21338a2ef282bbd6be8bdad303c776523ad3b1d4e065ae8349af00c2245897.png",
+      "assetGroup": "Shiba Fantom::SHIBA",
+      "currencyId": "Shiba Fantom::SHIBA"
+    },
+    "0x5f7f94a1dd7b15594d17543beb8b30b111dd464c": {
+      "chainId": "250",
+      "decimals": 18,
+      "name": "Space Token",
+      "address": "0x5f7f94a1dd7b15594d17543beb8b30b111dd464c",
+      "symbol": "SPACE",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/20676/large/jYw3kgsY_400x400.png?1696520076",
+      "assetGroup": "Space Token::SPACE",
+      "currencyId": "Space Token::SPACE"
+    },
+    "0xe9e5a97acc59bb68813bf368487fbffd0a39713b": {
+      "chainId": "250",
+      "decimals": 18,
+      "name": "Takepile",
+      "address": "0xe9e5a97acc59bb68813bf368487fbffd0a39713b",
+      "symbol": "TAKE",
+      "logoURI": "https://metacore.mobula.io/3eeac685f534245c6112bec3d23f6d00d25876bf7e752b2a2446b1436eddcb74.png",
+      "assetGroup": "Takepile::TAKE",
+      "currencyId": "Takepile::TAKE"
+    },
+    "0x80f2b8cdbc470c4db4452cc7e4a62f5277db7061": {
+      "chainId": "250",
+      "decimals": 18,
+      "name": "VOID",
+      "address": "0x80f2b8cdbc470c4db4452cc7e4a62f5277db7061",
+      "symbol": "VOID",
+      "logoURI": "https://metacore.mobula.io/30337b78e73b632c81ba63f2221713c114aee539a3b53a6d6accc07964698ffc.png",
+      "assetGroup": "VOID::VOID",
+      "currencyId": "VOID::VOID"
+    },
+    "0xf8a363cf116b6b633faedf66848ed52895ce703b": {
+      "chainId": "250",
+      "decimals": 18,
+      "name": "Levolution",
+      "address": "0xf8a363cf116b6b633faedf66848ed52895ce703b",
+      "symbol": "LEVL",
+      "logoURI": "https://metacore.mobula.io/37c6628e14b6fdc56872489e7bf1caf52ddfebbe93c2fceeb02508a18227f984.png",
+      "assetGroup": "Levolution::LEVL",
+      "currencyId": "Levolution::LEVL"
     }
   },
   "mainTokens": [

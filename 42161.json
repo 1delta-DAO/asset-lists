@@ -17506,6 +17506,376 @@
       "assetGroup": "Sophon::SOPH",
       "currencyId": "Sophon::SOPH",
       "tags": ["coingecko"]
+    },
+    "0xa4f595ba35161c9ffe3db8c03991b9c2cbb26c6b": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "R1C4RD0",
+      "address": "0xa4f595ba35161c9ffe3db8c03991b9c2cbb26c6b",
+      "symbol": "ALGO",
+      "logoURI": "https://metacore.mobula.io/fde8226ca6b18057c48534006ee2482b83f7cf138a83e1d90ea53f65b76133ae.png",
+      "assetGroup": "R1C4RD0::ALGO",
+      "currencyId": "R1C4RD0::ALGO"
+    },
+    "0x91c0ab2e50db1afe9e673bbb1fd5a3e0e4adf1f9": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "BLOBCOIN",
+      "address": "0x91c0ab2e50db1afe9e673bbb1fd5a3e0e4adf1f9",
+      "symbol": "BLOB",
+      "logoURI": "https://metacore.mobula.io/50dac6e89d96d8ab234e5d1d7b55c0775731e2ad17b4df34e5b681a595e9f0a7.png",
+      "assetGroup": "BLOBCOIN::BLOB",
+      "currencyId": "BLOBCOIN::BLOB"
+    },
+    "0xa1ccc87d66b509f197c6c62fe64c62036a9e9a64": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "QukaDAO",
+      "address": "0xa1ccc87d66b509f197c6c62fe64c62036a9e9a64",
+      "symbol": "QUKA",
+      "logoURI": "https://metacore.mobula.io/7f9e08d6e792599195cc736642bc1b0b904a7b167f40326078ce39b08ad2c4b8.png",
+      "assetGroup": "QukaDAO::QUKA",
+      "currencyId": "QukaDAO::QUKA"
+    },
+    "0x57a1716703bc43f5e065085ea66f35b22a0990a3": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "KUSH ALIENZ",
+      "address": "0x57a1716703bc43f5e065085ea66f35b22a0990a3",
+      "symbol": "KALIEN",
+      "logoURI": "https://metacore.mobula.io/6a0444d31f681b997269d8d71ed7309c11278ca981448ab5eb51f85e1e951286.png",
+      "assetGroup": "KUSH ALIENZ::KALIEN",
+      "currencyId": "KUSH ALIENZ::KALIEN"
+    },
+    "0xed5932ebb289f5c22acade951b6a01a49fc99210": {
+      "chainId": "42161",
+      "decimals": 9,
+      "name": "Factor DAO",
+      "address": "0xed5932ebb289f5c22acade951b6a01a49fc99210",
+      "symbol": "FCTR",
+      "logoURI": "https://metacore.mobula.io/9b57980ac2fd924518e0a5204b3fb5c076e7d9ae4730cf6ec698ab6ac87df55d.png",
+      "assetGroup": "Factor DAO::FCTR",
+      "currencyId": "Factor DAO::FCTR"
+    },
+    "0xb99d1c4bb87266fb13a423f8df96812ac6b99520": {
+      "chainId": "42161",
+      "decimals": 9,
+      "name": "Nitro Cartel",
+      "address": "0xb99d1c4bb87266fb13a423f8df96812ac6b99520",
+      "symbol": "TROVE",
+      "logoURI": "https://metacore.mobula.io/91edeeeab7108e9b79c8a9e44615b1902c2ff82a92b35dd6aec4d335060f1d62.png",
+      "assetGroup": "Nitro Cartel::TROVE",
+      "currencyId": "Nitro Cartel::TROVE"
+    },
+    "0xc4be0798e5b5b1c15eda36d9b2d8c1a60717fa92": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Adventurer Gold",
+      "address": "0xc4be0798e5b5b1c15eda36d9b2d8c1a60717fa92",
+      "symbol": "GOLD",
+      "logoURI": "https://metacore.mobula.io/093586997e367e2a76b4bcc6c8d14b85088b45d78fcb3c09a49514775d22d663.png",
+      "assetGroup": "Adventurer Gold::GOLD",
+      "currencyId": "Adventurer Gold::GOLD"
+    },
+    "0xdd389517320720f09db75d20a27d8a2cfa5f8568": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "AI Card Render",
+      "address": "0xdd389517320720f09db75d20a27d8a2cfa5f8568",
+      "symbol": "ACR",
+      "logoURI": "https://metacore.mobula.io/4401ac82b696cdd48bae004910e75abf539799671c0d98a584731dea9bca9dc8.png",
+      "assetGroup": "AI Card Render::ACR",
+      "currencyId": "AI Card Render::ACR"
+    },
+    "0xebf1f92d4384118bfb91b4496660a95931c92861": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Aladdin cvxCRV",
+      "address": "0xebf1f92d4384118bfb91b4496660a95931c92861",
+      "symbol": "ACRV",
+      "logoURI": "https://metacore.mobula.io/40cbf673c3d6d0a4c3709bcfb3ab07d3f6e561f5d051c541b2e88ed8a18ee5f7.png",
+      "assetGroup": "Aladdin cvxCRV::ACRV",
+      "currencyId": "Aladdin cvxCRV::ACRV"
+    },
+    "0x4e1b1c450cebc7a4e1561e8edd99a8c650dfb1a9": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Arbisphere Launchpad",
+      "address": "0x4e1b1c450cebc7a4e1561e8edd99a8c650dfb1a9",
+      "symbol": "ARSH",
+      "logoURI": "https://metacore.mobula.io/490ba30c7dee67e7a89afa5741c6a51a7bb143e57817622e4f32e4765a7e07fa.png",
+      "assetGroup": "Arbisphere Launchpad::ARSH",
+      "currencyId": "Arbisphere Launchpad::ARSH"
+    },
+    "0x3e6b3021dab44debf93091030dbfcbdf52464afe": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "ArbiTen",
+      "address": "0x3e6b3021dab44debf93091030dbfcbdf52464afe",
+      "symbol": "ARBITEN",
+      "logoURI": "https://metacore.mobula.io/41d5e59cc47d495e3960c846c54dd6d8550e9ac497987fc7af7c0dae942c4b82.png",
+      "assetGroup": "ArbiTen::ARBITEN",
+      "currencyId": "ArbiTen::ARBITEN"
+    },
+    "0xc8a1c0d8255bc2eb5f6236e119e3428fd0c33a74": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "ArbiTen 10SHARE",
+      "address": "0xc8a1c0d8255bc2eb5f6236e119e3428fd0c33a74",
+      "symbol": "10SHARE",
+      "logoURI": "https://metacore.mobula.io/2c196772b3888497c345d949c5a03592afff484230812f8c66d87967cfdb3795.png",
+      "assetGroup": "ArbiTen 10SHARE::10SHARE",
+      "currencyId": "ArbiTen 10SHARE::10SHARE"
+    },
+    "0x2a35c341f4dcf2d18e0fb38e0df50e8a47af1368": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "ArbitrumPad",
+      "address": "0x2a35c341f4dcf2d18e0fb38e0df50e8a47af1368",
+      "symbol": "ARBPAD",
+      "logoURI": "https://metacore.mobula.io/c63545d5eed2514b16e2822e600641ae08b8e9e9425fc2217f2fb03a56bb1b7d.png",
+      "assetGroup": "ArbitrumPad::ARBPAD",
+      "currencyId": "ArbitrumPad::ARBPAD"
+    },
+    "0xf1a82bfa7fceb8b8741e7e04a6b8efd348ca6393": {
+      "chainId": "42161",
+      "decimals": 6,
+      "name": "ArbShib",
+      "address": "0xf1a82bfa7fceb8b8741e7e04a6b8efd348ca6393",
+      "symbol": "AISHIB",
+      "logoURI": "https://metacore.mobula.io/5b45060d87ff1d25e00b70a7b9b074954e4f65f72d85cc261105e5bef6fb26fa.png",
+      "assetGroup": "ArbShib::AISHIB",
+      "currencyId": "ArbShib::AISHIB"
+    },
+    "0x4689e89b57291f3170a4368fa43b1f779258af91": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Darwin Protocol",
+      "address": "0x4689e89b57291f3170a4368fa43b1f779258af91",
+      "symbol": "DARWIN",
+      "logoURI": "https://metacore.mobula.io/b7f51dc149e409db26bce3e1b1cc5f7a6ed2da641d632233c4e6e5168c62061b.png",
+      "assetGroup": "Darwin Protocol::DARWIN",
+      "currencyId": "Darwin Protocol::DARWIN"
+    },
+    "0x7bec229129965714b86d55d5a9325d21f0deeddd": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Pepe Rew",
+      "address": "0x7bec229129965714b86d55d5a9325d21f0deeddd",
+      "symbol": "PEPEREW",
+      "logoURI": "https://metacore.mobula.io/f47cb3618deb5ab871a8de4b693261a5d7875dc453058d224704d3efcc84f26d.png",
+      "assetGroup": "Pepe Rew::PEPEREW",
+      "currencyId": "Pepe Rew::PEPEREW"
+    },
+    "0x8c53fa9e6ad10efc1e9a69e57f3a4b2723920fbd": {
+      "chainId": "42161",
+      "decimals": 6,
+      "name": "DonkeyCoin",
+      "address": "0x8c53fa9e6ad10efc1e9a69e57f3a4b2723920fbd",
+      "symbol": "DKC",
+      "logoURI": "https://metacore.mobula.io/d4502b7fa0bafc8b13104fcbc7d0f6f1093ebcc56b06e784b6b910a374aca61c.png",
+      "assetGroup": "DonkeyCoin::DKC",
+      "currencyId": "DonkeyCoin::DKC"
+    },
+    "0x99f2e02e2a7bb35587baa55680c08febfdfa0497": {
+      "chainId": "42161",
+      "decimals": 6,
+      "name": "PEPEmoon",
+      "address": "0x99f2e02e2a7bb35587baa55680c08febfdfa0497",
+      "symbol": "PEPEmoon",
+      "logoURI": "https://metacore.mobula.io/05c6dbd1b44f6d51efbf0c20147d0a238d404016de0888513453010dee8fbb5e.png",
+      "assetGroup": "PEPEmoon::PEPEmoon",
+      "currencyId": "PEPEmoon::PEPEmoon"
+    },
+    "0xff10886fc52feec34eedb5646a32c79349f8b497": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "LIULIU",
+      "address": "0xff10886fc52feec34eedb5646a32c79349f8b497",
+      "symbol": "LIULIU",
+      "logoURI": "https://metacore.mobula.io/1a26c8ed686adb6b5eb33ccd750bf52d6959b6f2ef69aebc01c6813fbf24d399.png",
+      "assetGroup": "LIULIU::LIULIU",
+      "currencyId": "LIULIU::LIULIU"
+    },
+    "0xaf8b72e2dc20684fd6bd2029fe1530e7618bd394": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "FURBO",
+      "address": "0xaf8b72e2dc20684fd6bd2029fe1530e7618bd394",
+      "symbol": "FURBO",
+      "logoURI": "https://metacore.mobula.io/7ac665e258ac29d98138d10712763c821962475f2b4907a0d4b4af9ea8c24b7d.png",
+      "assetGroup": "FURBO::FURBO",
+      "currencyId": "FURBO::FURBO"
+    },
+    "0xe3c3c95fd09120f9a2fb0a3f6fb443a8433981cc": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Pumpin",
+      "address": "0xe3c3c95fd09120f9a2fb0a3f6fb443a8433981cc",
+      "symbol": "Pumpin",
+      "logoURI": "https://metacore.mobula.io/d8a950eb594fa57acfe4a1f09606e5933605fb688a2ff567754cacaea3c6dcf9.png",
+      "assetGroup": "Pumpin::Pumpin",
+      "currencyId": "Pumpin::Pumpin"
+    },
+    "0x48d6cefa2b3a45a7f8ee07fb77a8fe8bbaf4d031": {
+      "chainId": "42161",
+      "decimals": 9,
+      "name": "monKEYS",
+      "address": "0x48d6cefa2b3a45a7f8ee07fb77a8fe8bbaf4d031",
+      "symbol": "MONKEYS",
+      "logoURI": "https://metacore.mobula.io/8117281dad1c99288addac84a8aedc628c5d118fcf26df10ca43c09c1902619f.png",
+      "assetGroup": "monKEYS::MONKEYS",
+      "currencyId": "monKEYS::MONKEYS"
+    },
+    "0x095e19967c72756c6dd90c4af3426f2bd1c554a5": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Squirtle",
+      "address": "0x095e19967c72756c6dd90c4af3426f2bd1c554a5",
+      "symbol": "Squirtle",
+      "logoURI": "https://metacore.mobula.io/34317b92db5d2e96862f5dcba1b12f117d8d227dc0bf724ab0f2708aef9e2efa.png",
+      "assetGroup": "Squirtle::Squirtle",
+      "currencyId": "Squirtle::Squirtle"
+    },
+    "0xbb25b74a9446185673942099ad766af86b8e11ae": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Gary The Snail",
+      "address": "0xbb25b74a9446185673942099ad766af86b8e11ae",
+      "symbol": "GARY",
+      "logoURI": "https://metacore.mobula.io/8ffc10496997f8bfde59aa181204a483b84ae5870acb17ae13b97fa0fe5c14c6.png",
+      "assetGroup": "Gary The Snail::GARY",
+      "currencyId": "Gary The Snail::GARY"
+    },
+    "0xf4c0ffa585b6a7d78a8a363e98d124a3d7baba50": {
+      "chainId": "42161",
+      "decimals": 9,
+      "name": "PEW PEW",
+      "address": "0xf4c0ffa585b6a7d78a8a363e98d124a3d7baba50",
+      "symbol": "PEWPEW",
+      "logoURI": "https://metacore.mobula.io/6619ecd153a58c91e2096d79f99998788c795c47b2d42de10537149e3881be8d.png",
+      "assetGroup": "PEW PEW::PEWPEW",
+      "currencyId": "PEW PEW::PEWPEW"
+    },
+    "0x847db21ef9de627c23d3dff470af6599b1a30d3f": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Black Rabbit AI",
+      "address": "0x847db21ef9de627c23d3dff470af6599b1a30d3f",
+      "symbol": "BRAIN",
+      "logoURI": "https://metacore.mobula.io/2278519798a92c752cd8384712ba3d9683a51fabcb3a2cab77338e99fb93bb25.png",
+      "assetGroup": "Black Rabbit AI::BRAIN",
+      "currencyId": "Black Rabbit AI::BRAIN"
+    },
+    "0xd6e7c8af05d2d06a76811d44917613bdd258b995": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Brr Protocol",
+      "address": "0xd6e7c8af05d2d06a76811d44917613bdd258b995",
+      "symbol": "BRR",
+      "logoURI": "https://metacore.mobula.io/d0bcf17f0d8630b7bf1ae697a14e8db907c57b1f35f70d4a7a1062b3fe99d345.png",
+      "assetGroup": "Brr Protocol::BRR",
+      "currencyId": "Brr Protocol::BRR"
+    },
+    "0x93c157932e5649e794df8999714af8690226a1c9": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Dragon Arena",
+      "address": "0x93c157932e5649e794df8999714af8690226a1c9",
+      "symbol": "DRA",
+      "logoURI": "https://metacore.mobula.io/90d24fe6d86f1047660f37bf6c8eed47d1a28d13c0a19d5f3abaf98a44398e61.png",
+      "assetGroup": "Dragon Arena::DRA",
+      "currencyId": "Dragon Arena::DRA"
+    },
+    "0x09fd3d6e6889940ca1158b9221309bd69fafa32b": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "DropArb",
+      "address": "0x09fd3d6e6889940ca1158b9221309bd69fafa32b",
+      "symbol": "DROP",
+      "logoURI": "https://metacore.mobula.io/6aac3782c075537bee82150375fc6980611f31d8e103fe890649407b7a142d3c.png",
+      "assetGroup": "DropArb::DROP",
+      "currencyId": "DropArb::DROP"
+    },
+    "0x22ab6bc52cad84aae84bd5781258677a6e0cfab0": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "ELSD Coin",
+      "address": "0x22ab6bc52cad84aae84bd5781258677a6e0cfab0",
+      "symbol": "ELSD",
+      "logoURI": "https://metacore.mobula.io/44fbcc1ca197fd17cfd0ff5c5625c8a17296cf86f54bfd89731ceb67a3a95dec.png",
+      "assetGroup": "ELSD Coin::ELSD",
+      "currencyId": "ELSD Coin::ELSD"
+    },
+    "0xb1070c40d5b3d10e1f1c8876c3d2ff5ffed4b3ac": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "FengLvZiV2",
+      "address": "0xb1070c40d5b3d10e1f1c8876c3d2ff5ffed4b3ac",
+      "symbol": "FENGLVZIV2",
+      "logoURI": "https://metacore.mobula.io/8ae88960437ebf9d46f7ca69cf990bf98bf916403f4862f04f262d949b77d5c5.png",
+      "assetGroup": "FengLvZiV2::FENGLVZIV2",
+      "currencyId": "FengLvZiV2::FENGLVZIV2"
+    },
+    "0x2a3b32ee6b34c27ebc03fa33fd80c42ea5998434": {
+      "chainId": "42161",
+      "decimals": 9,
+      "name": "FTDex",
+      "address": "0x2a3b32ee6b34c27ebc03fa33fd80c42ea5998434",
+      "symbol": "FTD",
+      "logoURI": "https://metacore.mobula.io/cd0a3009b5504a8ea3b70872eb2fb5af029b52070fb176118d618f1ed635e7fd.png",
+      "assetGroup": "FTDex::FTD",
+      "currencyId": "FTDex::FTD"
+    },
+    "0xf40f19cafaaa25bf9b52134646c6e325e76e0e93": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "GLSD Coin",
+      "address": "0xf40f19cafaaa25bf9b52134646c6e325e76e0e93",
+      "symbol": "GLSD",
+      "logoURI": "https://metacore.mobula.io/a9e44f1b9590e6ee9bbeab4178b4c587a936a23de7af4abd5cf79f863c9fdde2.png",
+      "assetGroup": "GLSD Coin::GLSD",
+      "currencyId": "GLSD Coin::GLSD"
+    },
+    "0xbcad8e85669a3fc9ea9b5d692bd8bdcc2464df31": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Goldbank",
+      "address": "0xbcad8e85669a3fc9ea9b5d692bd8bdcc2464df31",
+      "symbol": "GB",
+      "logoURI": "https://metacore.mobula.io/6606e5a2535217be6fb32ab7be8a3fb64df5e4ab4dc36373c4e5d3e5776cb65d.png",
+      "assetGroup": "Goldbank::GB",
+      "currencyId": "Goldbank::GB"
+    },
+    "0x764bfc309090e7f93edce53e5befa374cdcb7b8e": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Grimace",
+      "address": "0x764bfc309090e7f93edce53e5befa374cdcb7b8e",
+      "symbol": "GRIMACE",
+      "logoURI": "https://metacore.mobula.io/98839e16c728cbf4bf3a679f9052e73b865cf7824ae1b729d1a4d45c895a8c0d.png",
+      "assetGroup": "Grimace::GRIMACE",
+      "currencyId": "Grimace::GRIMACE"
+    },
+    "0x1eb747cace61eab366c98a18617b7e210d03818e": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Hood AI",
+      "address": "0x1eb747cace61eab366c98a18617b7e210d03818e",
+      "symbol": "HOOD",
+      "logoURI": "https://metacore.mobula.io/d809bf035cd4abfc3287f021cbabc750cdbc349a74cafb7ff143ca1845445866.png",
+      "assetGroup": "Hood AI::HOOD",
+      "currencyId": "Hood AI::HOOD"
+    },
+    "0x9925130735a30cae869230a9f19eedbaa71a2c02": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Horny Hyenas",
+      "address": "0x9925130735a30cae869230a9f19eedbaa71a2c02",
+      "symbol": "HORNY",
+      "logoURI": "https://metacore.mobula.io/b8ea86635e86292fba1e01adcb297565bcf300fed37bad3e318ae7f3cc377385.png",
+      "assetGroup": "Horny Hyenas::HORNY",
+      "currencyId": "Horny Hyenas::HORNY"
     }
   },
   "mainTokens": [

@@ -491,6 +491,36 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/polygon-zkevm/0x7c2aF1Fb79D0b1c67d4eb802d44C673D0A1D2C04.jpg",
       "assetGroup": "SFRXETH",
       "currencyId": "Staked Frax Ether::sfrxETH"
+    },
+    "0xf329bc8e21da7f278ce806e04c2266974edb1386": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Kokonut Swap",
+      "address": "0xf329bc8e21da7f278ce806e04c2266974edb1386",
+      "symbol": "KOKOS",
+      "logoURI": "https://metacore.mobula.io/ef1f1ec852346266b41000bef0e71ebd49d85a41ad4c48d56dcee696486b73b8.png",
+      "assetGroup": "Kokonut Swap::KOKOS",
+      "currencyId": "Kokonut Swap::KOKOS"
+    },
+    "0x9cbd81b43ba263ca894178366cfb89a246d1159c": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Dyson Sphere",
+      "address": "0x9cbd81b43ba263ca894178366cfb89a246d1159c",
+      "symbol": "DYSN",
+      "logoURI": "https://metacore.mobula.io/21c0240c731372aaf6028a7bbabc1b42e90e63d1fea1a512e534cba22ee927d8.png",
+      "assetGroup": "Dyson Sphere::DYSN",
+      "currencyId": "Dyson Sphere::DYSN"
+    },
+    "0x27a4bf80c2d63e42437258533dac7eaff9881bdb": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "MAI",
+      "address": "0x27a4bf80c2d63e42437258533dac7eaff9881bdb",
+      "symbol": "MIMATIC",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/15264/large/mimatic-red.png?1696514916",
+      "assetGroup": "MAI::MIMATIC",
+      "currencyId": "MAI::MIMATIC"
     }
   },
   "mainTokens": [
