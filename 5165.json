@@ -10,7 +10,8 @@
       "symbol": "WFTN",
       "logoURI": "https://coin-images.coingecko.com/coins/images/28478/large/lightenicon_200x200.png?1696527472",
       "assetGroup": "FTN",
-      "currencyId": "Wrapped FTN::WFTN"
+      "currencyId": "Wrapped FTN::WFTN",
+      "tags": ["wnative"]
     },
     "0xdef886c55a79830c47108eeb9c37e78a49684e41": {
       "chainId": "5165",
@@ -51,6 +52,10 @@
       "currencyId": "Wrapped BONK::WBONK"
     }
   },
-  "mainTokens": ["0xdef886c55a79830c47108eeb9c37e78a49684e41", "0x4237e0a5b55233d5b6d6d1d9bf421723954130d8"],
+  "mainTokens": [
+    "0xdef886c55a79830c47108eeb9c37e78a49684e41",
+    "0x4237e0a5b55233d5b6d6d1d9bf421723954130d8",
+    "0x4084ab20f8ffca76c19aaf854fb5fe9de6217fbb"
+  ],
   "bridgeTokens": ["0xdef886c55a79830c47108eeb9c37e78a49684e41", "0x4237e0a5b55233d5b6d6d1d9bf421723954130d8"]
 }
