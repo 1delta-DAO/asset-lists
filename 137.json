@@ -21272,9 +21272,9 @@
       "name": "Bridged WETH",
       "address": "0x5bcf8d8c097fbb35c371f921e3ff3e6f6eb54b41",
       "symbol": "WETH",
-      "assetGroup": "Wrapped Ether::WETH",
-      "currencyId": "Wrapped Ether::WETH",
-      "tags": ["biconomy-gas-token"]
+      "assetGroup": "ETH",
+      "currencyId": "Bridged WETH::WETH",
+      "tags": ["biconomy-gas-token", "bridged"]
     },
     "0x304e57c752e854e9a233ae82fcc42f7568b81180": {
       "chainId": "137",
@@ -23231,8 +23231,8 @@
       "address": "0xae4efbc7736f963982aacb17efa37fcbab924cb3",
       "symbol": "SolvBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/36800/thumb/solvBTC.png?1719810684",
-      "assetGroup": "Solv Protocol BTC::SOLVBTC",
-      "currencyId": "Solv Protocol BTC::SOLVBTC",
+      "assetGroup": "SOLVBTC",
+      "currencyId": "Solv BTC::SolvBTC",
       "tags": ["biconomy-gas-token"]
     },
     "0xc99f5c922dae05b6e2ff83463ce705ef7c91f077": {
@@ -23242,8 +23242,8 @@
       "address": "0xc99f5c922dae05b6e2ff83463ce705ef7c91f077",
       "symbol": "xSolvBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/39384/thumb/xSolvBTC.png?1744170824",
-      "assetGroup": "Solv Protocol Staked BTC::XSOLVBTC",
-      "currencyId": "Solv Protocol Staked BTC::XSOLVBTC",
+      "assetGroup": "XSOLVBTC",
+      "currencyId": "xSolvBTC::xSolvBTC",
       "tags": ["biconomy-gas-token"]
     },
     "0x1bdf71ede1a4777db1eebe7232bcda20d6fc1610": {
@@ -23447,7 +23447,8 @@
     "0x1280830f690d0e65195b3c61b028244c3a49f26d",
     "0xa649325aa7c5093d12d6f98eb4378deae68ce23f",
     "0xae4efbc7736f963982aacb17efa37fcbab924cb3",
-    "0xc99f5c922dae05b6e2ff83463ce705ef7c91f077"
+    "0xc99f5c922dae05b6e2ff83463ce705ef7c91f077",
+    "0x5c4b7ccbf908e64f32e12c6650ec0c96d717f03f"
   ],
   "bridgeTokens": [
     "0x3ba4c387f786bfee076a58914f5bd38d668b42c3",
