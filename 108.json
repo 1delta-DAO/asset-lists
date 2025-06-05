@@ -40,7 +40,8 @@
       "symbol": "GEM",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0.jpg",
       "assetGroup": "NFTmall GEM Token::GEM",
-      "currencyId": "NFTmall GEM Token::GEM"
+      "currencyId": "NFTmall GEM Token::GEM",
+      "tags": ["coingecko"]
     },
     "0x1d44a37d6104df6cf996425839829be09bee4f33": {
       "chainId": "108",
@@ -120,7 +121,8 @@
       "symbol": "TT-ETH",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x6576Bb918709906DcbFDCeae4bB1e6df7C8a1077.jpg",
       "assetGroup": "ETH::TT-ETH",
-      "currencyId": "ETH::TT-ETH"
+      "currencyId": "ETH::TT-ETH",
+      "tags": ["coingecko"]
     },
     "0x1139136d973323ce500443037fb9741deac0ca16": {
       "chainId": "108",
@@ -140,7 +142,8 @@
       "symbol": "TT-USDC",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x22e89898A04eaf43379BeB70bf4E38b1faf8A31e.jpg",
       "assetGroup": "USDC::TT-USDC",
-      "currencyId": "USDC::TT-USDC"
+      "currencyId": "USDC::TT-USDC",
+      "tags": ["coingecko"]
     },
     "0x4f3c8e20942461e2c3bdd8311ac57b0c222f2b82": {
       "chainId": "108",
@@ -150,7 +153,8 @@
       "symbol": "TT-USDT",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x4f3C8E20942461e2c3Bdd8311AC57B0c222f2b82.jpg",
       "assetGroup": "USDT::TT-USDT",
-      "currencyId": "USDT::TT-USDT"
+      "currencyId": "USDT::TT-USDT",
+      "tags": ["coingecko"]
     },
     "0x18fb0a62f207a2a082ca60aa78f47a1af4985190": {
       "chainId": "108",
@@ -160,7 +164,8 @@
       "symbol": "TT-WBTC",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x18fB0A62f207A2a082cA60aA78F47a1af4985190.jpg",
       "assetGroup": "WBTC::TT-WBTC",
-      "currencyId": "WBTC::TT-WBTC"
+      "currencyId": "WBTC::TT-WBTC",
+      "tags": ["coingecko"]
     },
     "0xc3c857a9e5be042c8acf4f2827aa053e93b5d039": {
       "chainId": "108",
@@ -180,7 +185,29 @@
       "symbol": "WTT",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x413cEFeA29F2d07B8F2acFA69d92466B9535f717.jpg",
       "assetGroup": "Wrapped Thunder Token::WTT",
-      "currencyId": "Wrapped Thunder Token::WTT"
+      "currencyId": "Wrapped Thunder Token::WTT",
+      "tags": ["coingecko"]
+    },
+    "0x8ef1a1e0671aa44852f4d87105ef482470bb3e69": {
+      "chainId": "108",
+      "decimals": 18,
+      "name": "ThunderCore Bridged TT WBNB",
+      "address": "0x8ef1a1e0671aa44852f4d87105ef482470bb3e69",
+      "symbol": "TT-WBNB",
+      "logoURI": "https://assets.coingecko.com/coins/images/53082/thumb/wrapped_bnb.png?1735264587",
+      "assetGroup": "ThunderCore Bridged TT WBNB::TT-WBNB",
+      "currencyId": "ThunderCore Bridged TT WBNB::TT-WBNB",
+      "tags": ["bridged", "coingecko"]
+    },
+    "0xbeb0131d95ac3f03fd15894d0ade5dbf7451d171": {
+      "chainId": "108",
+      "decimals": 18,
+      "name": "Thundercore Bridged BUSD",
+      "address": "0xbeb0131d95ac3f03fd15894d0ade5dbf7451d171",
+      "symbol": "BUSD",
+      "assetGroup": "BUSD",
+      "currencyId": "Thundercore Bridged BUSD::BUSD",
+      "tags": ["bridged", "coingecko"]
     }
   },
   "mainTokens": [
@@ -201,7 +228,9 @@
     "0x1139136d973323ce500443037fb9741deac0ca16",
     "0x18fb0a62f207a2a082ca60aa78f47a1af4985190",
     "0xc3c857a9e5be042c8acf4f2827aa053e93b5d039",
-    "0x413cefea29f2d07b8f2acfa69d92466b9535f717"
+    "0x413cefea29f2d07b8f2acfa69d92466b9535f717",
+    "0x8ef1a1e0671aa44852f4d87105ef482470bb3e69",
+    "0xbeb0131d95ac3f03fd15894d0ade5dbf7451d171"
   ],
   "bridgeTokens": ["0x22e89898a04eaf43379beb70bf4e38b1faf8a31e", "0x4f3c8e20942461e2c3bdd8311ac57b0c222f2b82"]
 }

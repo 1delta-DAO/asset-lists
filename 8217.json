@@ -9328,7 +9328,7 @@
       "address": "0x1dadf066518e2b7064d85ced45625bfec52ca07d",
       "symbol": "TT",
       "logoURI": "https://api.swapscanner.io/v0/tokens/0x1dadf066518e2b7064d85ced45625bfec52ca07d/icon",
-      "assetGroup": "TT",
+      "assetGroup": "TT::TT",
       "currencyId": "TT::TT"
     },
     "0xb546b7a5769ca0ffa04f7ffdff2325841fbf7d31": {
@@ -10360,6 +10360,36 @@
       "logoURI": "https://api.swapscanner.io/v0/tokens/0x8db84331c16c55db1bd220f2a2693a960b5ea62f/icon",
       "assetGroup": "KTT::KTT",
       "currencyId": "KTT::KTT"
+    },
+    "0x971796e4858ea3dd19011199817a0716e62db2f5": {
+      "chainId": "8217",
+      "decimals": 8,
+      "name": "MetaMAFIA",
+      "address": "0x971796e4858ea3dd19011199817a0716e62db2f5",
+      "symbol": "MAF",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/30328/large/logo.png?1725553814",
+      "assetGroup": "MetaMAFIA::MAF",
+      "currencyId": "MetaMAFIA::MAF"
+    },
+    "0x3f56e0c36d275367b8c502090edf38289b3dea0d": {
+      "chainId": "8217",
+      "decimals": 18,
+      "name": "MAI",
+      "address": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
+      "symbol": "MIMATIC",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/15264/large/mimatic-red.png?1696514916",
+      "assetGroup": "MAI::MIMATIC",
+      "currencyId": "MAI::MIMATIC"
+    },
+    "0x6e6c55ac20c41669261969089fad7f7fcd9ba690": {
+      "chainId": "8217",
+      "decimals": 18,
+      "name": "AMO Coin",
+      "address": "0x6e6c55ac20c41669261969089fad7f7fcd9ba690",
+      "symbol": "AMO",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/4009/large/amo-logomark_black.png?1696504648",
+      "assetGroup": "AMO Coin::AMO",
+      "currencyId": "AMO Coin::AMO"
     }
   },
   "mainTokens": [

@@ -11,7 +11,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54454/thumb/frxusd.png?1739789465",
       "assetGroup": "FRXUSD",
       "currencyId": "Bridged frxUSD (LayerZero)::frxUSD",
-      "tags": ["bridged", "layerzero", "coingecko"]
+      "tags": ["bridged", "layerzero", "coingecko", "biconomy-gas-token"]
     },
     "0x37a4dd9ced2b19cfe8fac251cd727b5787e45269": {
       "chainId": "1329",
@@ -22,7 +22,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/50766/thumb/2024-10-16_14.54.03.jpg?1729120051",
       "assetGroup": "Sei fastUSD::FASTUSD",
       "currencyId": "Sei fastUSD::FASTUSD",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x049eaa1b2c9934aaacc12a141484eefd62867653": {
       "chainId": "1329",
@@ -55,7 +55,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/38470/thumb/sei.png?1717644025",
       "assetGroup": "SEI",
       "currencyId": "Wrapped SEI::WSEI",
-      "tags": ["coingecko", "wnative"]
+      "tags": ["coingecko", "wnative", "biconomy-gas-token"]
     },
     "0x805679729df385815c57c24b20f4161bd34b655f": {
       "chainId": "1329",
@@ -121,7 +121,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/38591/thumb/iSEI_logo_200_200.png?1718091709",
       "assetGroup": "Silo Staked SEI::ISEI",
       "currencyId": "Silo Staked SEI::ISEI",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x160345fc359604fc6e70e3c5facbde5f7a9342d8": {
       "chainId": "1329",
@@ -132,7 +132,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54959/thumb/weth_2.jpg?1742886674",
       "assetGroup": "ETH",
       "currencyId": "Bridged WETH::WETH",
-      "tags": ["bridged", "coingecko"]
+      "tags": ["bridged", "coingecko", "biconomy-gas-token"]
     },
     "0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1": {
       "chainId": "1329",
@@ -143,7 +143,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/38604/thumb/usdc.png?1718098770",
       "assetGroup": "USDC",
       "currencyId": "Bridged USDC (IBC)::USDC",
-      "tags": ["bridged", "coingecko"]
+      "tags": ["bridged", "coingecko", "biconomy-gas-token"]
     },
     "0xb75d0b03c06a926e488e2659df1a861f860bd3d1": {
       "chainId": "1329",
@@ -154,7 +154,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/38607/thumb/usdt_%281%29.png?1718099237",
       "assetGroup": "USDT",
       "currencyId": "Bridged USDT (IBC)::USDT",
-      "tags": ["bridged", "coingecko"]
+      "tags": ["bridged", "coingecko", "biconomy-gas-token"]
     },
     "0xe85dc0cceca105755753fef452c091def5324138": {
       "chainId": "1329",
@@ -198,7 +198,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/33830/thumb/seiyanlogo.png?1703069383",
       "assetGroup": "SEIYAN::SEIYAN",
       "currencyId": "SEIYAN::SEIYAN",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x5bff88ca1442c2496f7e475e9e7786383bc070c0": {
       "chainId": "1329",
@@ -307,7 +307,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/34891/thumb/STSEI.jpg?1706547607",
       "assetGroup": "Kryptonite Staked SEI::STSEI",
       "currencyId": "Kryptonite Staked SEI::STSEI",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x80137510979822322193fc997d400d5a6c747bf7": {
       "chainId": "1329",
@@ -363,6 +363,27 @@
       "assetGroup": "M-BTC",
       "currencyId": "Merlin BTC::M-BTC",
       "tags": ["coingecko"]
+    },
+    "0x0555e30da8f98308edb960aa94c0db47230d2b9c": {
+      "chainId": "1329",
+      "decimals": 8,
+      "name": "Wrapped BTC",
+      "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "symbol": "WBTC",
+      "assetGroup": "WBTC",
+      "currencyId": "Wrapped BTC::WBTC",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x43edd7f3831b08fe70b7555ddd373c8bf65a9050": {
+      "chainId": "1329",
+      "decimals": 18,
+      "name": "frxETH",
+      "address": "0x43edd7f3831b08fe70b7555ddd373c8bf65a9050",
+      "symbol": "frxETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/28284/standard/frxETH_icon.png",
+      "assetGroup": "frxETH::frxETH",
+      "currencyId": "frxETH::frxETH",
+      "tags": ["biconomy-gas-token"]
     }
   },
   "mainTokens": [
@@ -393,12 +414,14 @@
     "0x69e48ce9cf965acc1de2ad5ad2fdbc3bdb51509b",
     "0x9151434b16b9763660705744891fa906f660ecc5",
     "0x9bfa177621119e64cecbeabe184ab9993e2ef727",
-    "0x93919784c523f39cacaa98ee0a9d96c3f32b593e"
+    "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
+    "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
   ],
   "bridgeTokens": [
     "0x160345fc359604fc6e70e3c5facbde5f7a9342d8",
     "0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1",
     "0xb75d0b03c06a926e488e2659df1a861f860bd3d1",
-    "0x9151434b16b9763660705744891fa906f660ecc5"
+    "0x9151434b16b9763660705744891fa906f660ecc5",
+    "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
   ]
 }

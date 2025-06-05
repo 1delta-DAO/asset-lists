@@ -11,7 +11,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "tags": ["wnative"]
+      "tags": ["wnative", "biconomy-gas-token"]
     },
     "0x07d83526730c7438048d55a4fc0b850e2aab6f0b": {
       "chainId": "167000",
@@ -21,7 +21,8 @@
       "symbol": "USDC",
       "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
       "assetGroup": "USDC",
-      "currencyId": "USD Coin::USDC"
+      "currencyId": "USD Coin::USDC",
+      "tags": ["biconomy-gas-token"]
     },
     "0x19e26b0638bf63aa9fa4d14c6baf8d52ebe86c5c": {
       "chainId": "167000",
@@ -32,7 +33,7 @@
       "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdce.svg",
       "assetGroup": "USDC",
       "currencyId": "Bridged USDC (Stargate)::USDC.e",
-      "tags": ["stargate", "bridged"]
+      "tags": ["stargate", "bridged", "biconomy-gas-token"]
     },
     "0x9c2dc7377717603eb92b2655c5f2e7997a4945bd": {
       "chainId": "167000",
@@ -53,7 +54,8 @@
       "symbol": "USDT",
       "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdt.png",
       "assetGroup": "USDT",
-      "currencyId": "Tether USD::USDT"
+      "currencyId": "Tether USD::USDT",
+      "tags": ["biconomy-gas-token"]
     },
     "0xc4c410459fbaf8f7f86b6cee52b4fa1282ff9704": {
       "chainId": "167000",
@@ -73,7 +75,8 @@
       "symbol": "TAIKO",
       "logoURI": "https://assets.coingecko.com/coins/images/38058/standard/taiko.jpeg",
       "assetGroup": "TAIKO",
-      "currencyId": "Taiko Token::TAIKO"
+      "currencyId": "Taiko Token::TAIKO",
+      "tags": ["biconomy-gas-token"]
     },
     "0x7e91f29f8a213c8311712a8fc8c61219fb9477cb": {
       "chainId": "167000",
@@ -120,10 +123,9 @@
       "decimals": 18,
       "name": "TaikoSwap",
       "address": "0xf9a06e3afaadbccccc8824a1255a88d648ca0ef6",
-      "symbol": "TKOSWAP",
-      "logoURI": "https://assets.coingecko.com/coins/images/38471/standard/taikoswap.jpeg?1717647381",
-      "assetGroup": "TaikoSwap::TKOSWAP",
-      "currencyId": "TaikoSwap::TKOSWAP"
+      "symbol": "TKS",
+      "assetGroup": "TaikoSwap::TKS",
+      "currencyId": "TaikoSwap::TKS"
     },
     "0x2d9e1da77f086c50f93db46e554974b71536a9ee": {
       "chainId": "167000",
@@ -173,7 +175,8 @@
       "symbol": "SolvBTC",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/SolvBTC.webp",
       "assetGroup": "SOLVBTC",
-      "currencyId": "Solv BTC::SolvBTC"
+      "currencyId": "Solv BTC::SolvBTC",
+      "tags": ["biconomy-gas-token"]
     },
     "0xcc0966d8418d412c599a6421b760a847eb169a8c": {
       "chainId": "167000",
@@ -284,6 +287,17 @@
       "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/telos/0xfB319EA5DDEd8cFe8Bcf9c720ed380b98874Bf63/logo.png",
       "assetGroup": "Robinos::RBN",
       "currencyId": "Robinos::RBN"
+    },
+    "0xed197058a19e3a7c0d1ac402aaadef22a0f31d0b": {
+      "chainId": "167000",
+      "decimals": 18,
+      "name": "TaikoSwap",
+      "address": "0xed197058a19e3a7c0d1ac402aaadef22a0f31d0b",
+      "symbol": "TKOSWAP",
+      "logoURI": "https://assets.coingecko.com/coins/images/38471/standard/taikoswap.jpeg?1717647381",
+      "assetGroup": "TaikoSwap::TKOSWAP",
+      "currencyId": "TaikoSwap::TKOSWAP",
+      "tags": ["biconomy-gas-token"]
     }
   },
   "mainTokens": [
