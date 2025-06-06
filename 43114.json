@@ -6552,7 +6552,8 @@
       "symbol": "UTY",
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdbc5192a6b6ffee7451301bb4ec312f844f02b4a.png",
       "assetGroup": "Unity::UTY",
-      "currencyId": "Unity::UTY"
+      "currencyId": "Unity::UTY",
+      "tags": ["coingecko"]
     },
     "0x580d5e1399157fd0d58218b7a514b60974f2ab01": {
       "chainId": "43114",
@@ -7435,9 +7436,9 @@
       "address": "0x8ce2dee54bb9921a2ae0a63dbb2df8ed88b91dd9",
       "symbol": "AAVE",
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9/7baf403c819f679dc1c6571d9d978f21.png",
-      "assetGroup": "Aave Token::AAVE",
-      "currencyId": "Aave Token::AAVE",
-      "tags": ["biconomy-gas-token"]
+      "assetGroup": "AAVE",
+      "currencyId": "Bridged AAVE (OLD)::AAVE",
+      "tags": ["biconomy-gas-token", "bridged"]
     },
     "0xee396d4ee16fd8c7d9bfb039d05f271d3c92e57d": {
       "chainId": "43114",
@@ -8052,6 +8053,17 @@
       "assetGroup": "Re Protocol reUSD::REUSD",
       "currencyId": "Re Protocol reUSD::REUSD",
       "tags": ["coingecko"]
+    },
+    "0xc55fa890fd62c25c85d46f57ac972f3f30839e2f": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "CRIME",
+      "address": "0xc55fa890fd62c25c85d46f57ac972f3f30839e2f",
+      "symbol": "CRIME",
+      "logoURI": "https://assets.coingecko.com/coins/images/66355/thumb/crime.png?1749244449",
+      "assetGroup": "CRIME::CRIME",
+      "currencyId": "CRIME::CRIME",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -8127,7 +8139,8 @@
     "0xf976ba91b6bb3468c91e4f02e68b37bc64a57e66",
     "0xa6220b4209353dfef03b6ce410c8f01105515f94",
     "0xa56b1b9f4e5a1a1e0868f5fd4352ce7cdf0c2a4f",
-    "0xde3a24028580884448a5397872046a019649b084"
+    "0xde3a24028580884448a5397872046a019649b084",
+    "0xf20d962a6c8f70c731bd838a3a388d7d48fa6e15"
   ],
   "bridgeTokens": [
     "0x49d5c2bdffac6ce2bfdb6640f4f80f226bc10bab",

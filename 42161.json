@@ -18558,9 +18558,9 @@
       "name": "Bridged Ethereum Token",
       "address": "0x6478377a399be8c92bd35254aa7bf287836de32e",
       "symbol": "ETH",
-      "assetGroup": "Ethereum Token::ETH",
-      "currencyId": "Ethereum Token::ETH",
-      "tags": ["biconomy-gas-token"]
+      "assetGroup": "ETH",
+      "currencyId": "Bridged Ethereum Token::ETH",
+      "tags": ["biconomy-gas-token", "bridged"]
     },
     "0x69a1e699f562d7af66fc6cc473d99f4430c3acd2": {
       "chainId": "42161",

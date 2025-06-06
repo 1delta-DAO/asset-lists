@@ -75953,7 +75953,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/38680/thumb/sophon_logo_200.png?1747898236",
       "assetGroup": "Sophon::SOPH",
       "currencyId": "Sophon::SOPH",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xe6d07e1a7c9f8f9826aa82e6faf7feab698dd4fe": {
       "chainId": "1",
@@ -93998,6 +93998,80 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66294/thumb/1000102961.jpg?1749112859",
       "assetGroup": "HALO AI::HALO",
       "currencyId": "HALO AI::HALO",
+      "tags": ["coingecko"]
+    },
+    "0xbc6736d346a5ebc0debc997397912cd9b8fae10a": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "PT Ethena USDe 25SEP2025",
+      "address": "0xbc6736d346a5ebc0debc997397912cd9b8fae10a",
+      "symbol": "PT-USDe-25SEP2025",
+      "logoURI": "https://cdn.morpho.org/assets/logos/pt-usde.svg",
+      "assetGroup": "PT Ethena USDe 25SEP2025::PT-USDe-25SEP2025",
+      "currencyId": "PT Ethena USDe 25SEP2025::PT-USDe-25SEP2025"
+    },
+    "0x9f56094c450763769ba0ea9fe2876070c0fd5f77": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "PT Ethena sUSDE 25SEP2025",
+      "address": "0x9f56094c450763769ba0ea9fe2876070c0fd5f77",
+      "symbol": "PT-sUSDE-25SEP2025",
+      "logoURI": "https://cdn.morpho.org/assets/logos/pt-susde.svg",
+      "assetGroup": "PT Ethena sUSDE 25SEP2025::PT-sUSDE-25SEP2025",
+      "currencyId": "PT Ethena sUSDE 25SEP2025::PT-sUSDE-25SEP2025"
+    },
+    "0x742b4166878bfd339db65a29a17e49b81a6b6aac": {
+      "chainId": "1",
+      "decimals": 6,
+      "name": "PT Resolv Liquidity Provider Token 4SEP2025",
+      "address": "0x742b4166878bfd339db65a29a17e49b81a6b6aac",
+      "symbol": "PT-RLP-4SEP2025",
+      "logoURI": "https://cdn.morpho.org/assets/logos/pt-rlp.svg",
+      "assetGroup": "PT Resolv Liquidity Provider Token 4SEP2025::PT-RLP-4SEP2025",
+      "currencyId": "PT Resolv Liquidity Provider Token 4SEP2025::PT-RLP-4SEP2025"
+    },
+    "0xe9942930a2e3a8a096a8a9637d62219f3159cf4d": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "K KA",
+      "address": "0xe9942930a2e3a8a096a8a9637d62219f3159cf4d",
+      "symbol": "KKA",
+      "logoURI": "https://assets.coingecko.com/coins/images/66321/thumb/kuku.png?1749199271",
+      "assetGroup": "K KA::KKA",
+      "currencyId": "K KA::KKA",
+      "tags": ["coingecko"]
+    },
+    "0x67886ababdd886653b64bb846ea5822a6c353dd4": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "GAME",
+      "address": "0x67886ababdd886653b64bb846ea5822a6c353dd4",
+      "symbol": "GAMES",
+      "logoURI": "https://assets.coingecko.com/coins/images/66350/thumb/game-logo_200x200cmc.jpg?1749243373",
+      "assetGroup": "GAME::GAMES",
+      "currencyId": "GAME::GAMES",
+      "tags": ["coingecko"]
+    },
+    "0xbf3f63d8ac133b16d7d50c015036b33219dd8d23": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "kpk",
+      "address": "0xbf3f63d8ac133b16d7d50c015036b33219dd8d23",
+      "symbol": "KPK",
+      "logoURI": "https://assets.coingecko.com/coins/images/66357/thumb/kpk-mark-neutral.png?1749244699",
+      "assetGroup": "kpk::KPK",
+      "currencyId": "kpk::KPK",
+      "tags": ["coingecko"]
+    },
+    "0xa776a95223c500e81cb0937b291140ff550ac3e4": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "Gradient",
+      "address": "0xa776a95223c500e81cb0937b291140ff550ac3e4",
+      "symbol": "GRAY",
+      "logoURI": "https://assets.coingecko.com/coins/images/66304/thumb/photo_2025-06-04_14.56.52_%281%29_%281%29.jpeg?1749155218",
+      "assetGroup": "Gradient::GRAY",
+      "currencyId": "Gradient::GRAY",
       "tags": ["coingecko"]
     }
   },
