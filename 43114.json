@@ -6553,7 +6553,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdbc5192a6b6ffee7451301bb4ec312f844f02b4a.png",
       "assetGroup": "Unity::UTY",
       "currencyId": "Unity::UTY",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x580d5e1399157fd0d58218b7a514b60974f2ab01": {
       "chainId": "43114",
@@ -8052,7 +8052,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66291/thumb/re_blue.png?1749110516",
       "assetGroup": "Re Protocol reUSD::REUSD",
       "currencyId": "Re Protocol reUSD::REUSD",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xc55fa890fd62c25c85d46f57ac972f3f30839e2f": {
       "chainId": "43114",
@@ -8063,6 +8063,17 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66355/thumb/crime.png?1749244449",
       "assetGroup": "CRIME::CRIME",
       "currencyId": "CRIME::CRIME",
+      "tags": ["coingecko", "biconomy-gas-token"]
+    },
+    "0x39e58c9b8a539e007b4457a5dd1107b1434d278b": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Baby JubJub",
+      "address": "0x39e58c9b8a539e007b4457a5dd1107b1434d278b",
+      "symbol": "BJUB",
+      "logoURI": "https://assets.coingecko.com/coins/images/66392/thumb/favicon.png?1749284942",
+      "assetGroup": "Baby JubJub::BJUB",
+      "currencyId": "Baby JubJub::BJUB",
       "tags": ["coingecko"]
     }
   },

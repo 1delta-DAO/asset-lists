@@ -8454,7 +8454,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/56/0x51363f073b1e4920fda7aa9e9d84ba97ede1560e/small/token-logo.png",
       "assetGroup": "Build On BNB::BOB",
       "currencyId": "Build On BNB::BOB",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0xe80772eaf6e2e18b651f160bc9158b2a5cafca65": {
       "chainId": "56",
@@ -40363,7 +40363,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55901/thumb/naiive.jpg?1747644750",
       "assetGroup": "naiive::NAIIVE",
       "currencyId": "naiive::NAIIVE",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x5dbde81fce337ff4bcaaee4ca3466c00aecae274": {
       "chainId": "56",
@@ -46291,7 +46291,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66296/thumb/cudis.jpg?1749115219",
       "assetGroup": "Cudis::CUDIS",
       "currencyId": "Cudis::CUDIS",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xa734aca500fc7fc43bcafca34d6b46cc8fd7245e": {
       "chainId": "56",
@@ -46335,6 +46335,116 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54873/thumb/defi-app.png?1742235743",
       "assetGroup": "HOME::HOME",
       "currencyId": "HOME::HOME",
+      "tags": ["coingecko"]
+    },
+    "0x389ad4bb96d0d6ee5b6ef0efaf4b7db0ba2e02a0": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Lagrange",
+      "address": "0x389ad4bb96d0d6ee5b6ef0efaf4b7db0ba2e02a0",
+      "symbol": "LA",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x389AD4bb96d0D6EE5B6eF0EFAF4b7db0bA2e02a0.png",
+      "assetGroup": "Lagrange::LA",
+      "currencyId": "Lagrange::LA",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x3c8d20001fe883934a15c949a3355a65ca984444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Janitor",
+      "address": "0x3c8d20001fe883934a15c949a3355a65ca984444",
+      "symbol": "Janitor",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x3c8D20001FE883934A15c949a3355a65Ca984444.png",
+      "assetGroup": "Janitor::Janitor",
+      "currencyId": "Janitor::Janitor",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x68485afea9a4f50d14893defe476970a6e7f4444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Labubu",
+      "address": "0x68485afea9a4f50d14893defe476970a6e7f4444",
+      "symbol": "LABUBU",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x68485AfeA9a4f50D14893defE476970A6E7f4444.png",
+      "assetGroup": "Labubu::LABUBU",
+      "currencyId": "Labubu::LABUBU",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x35e5db674d8e93a03d814fa0ada70731efe8a4b9": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Resolv Liquidity Provider Token",
+      "address": "0x35e5db674d8e93a03d814fa0ada70731efe8a4b9",
+      "symbol": "RLP",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x35E5dB674D8e93a03d814FA0ADa70731efe8a4b9.png",
+      "assetGroup": "Resolv Liquidity Provider Token::RLP",
+      "currencyId": "Resolv Liquidity Provider Token::RLP",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x595e21b20e78674f8a64c1566a20b2b316bc3511": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "BULLA",
+      "address": "0x595e21b20e78674f8a64c1566a20b2b316bc3511",
+      "symbol": "BULLA",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x595E21b20E78674F8a64C1566A20b2b316Bc3511.png",
+      "assetGroup": "BULLA::BULLA",
+      "currencyId": "BULLA::BULLA",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xf4b385849f2e817e92bffbfb9aeb48f950ff4444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "EGL1",
+      "address": "0xf4b385849f2e817e92bffbfb9aeb48f950ff4444",
+      "symbol": "EGL1",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xf4B385849f2e817E92bffBfB9AEb48F950Ff4444.png",
+      "assetGroup": "EGL1::EGL1",
+      "currencyId": "EGL1::EGL1",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x95034f653d5d161890836ad2b6b8cc49d14e029a": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "AB",
+      "address": "0x95034f653d5d161890836ad2b6b8cc49d14e029a",
+      "symbol": "AB",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x95034f653D5D161890836Ad2B6b8cc49D14e029a.png",
+      "assetGroup": "AB::AB",
+      "currencyId": "AB::AB",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x2b41228b4fec7ab712a1a4172c4e6a546ba54444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Big Cousin",
+      "address": "0x2b41228b4fec7ab712a1a4172c4e6a546ba54444",
+      "symbol": "BC",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x2b41228B4Fec7aB712A1A4172c4E6a546BA54444.png",
+      "assetGroup": "Big Cousin::BC",
+      "currencyId": "Big Cousin::BC",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x8db780f5e1238bf3fc0e14c099b98bb63362d16e": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "MimboGameGroup",
+      "address": "0x8db780f5e1238bf3fc0e14c099b98bb63362d16e",
+      "symbol": "MGG",
+      "logoURI": "https://assets.coingecko.com/coins/images/66393/thumb/IMG_0007.png?1749285720",
+      "assetGroup": "MimboGameGroup::MGG",
+      "currencyId": "MimboGameGroup::MGG",
+      "tags": ["coingecko"]
+    },
+    "0xbab528425edb1e0e36d3719bc3307d9c8cce8888": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Moolah",
+      "address": "0xbab528425edb1e0e36d3719bc3307d9c8cce8888",
+      "symbol": "MOOLAH",
+      "logoURI": "https://assets.coingecko.com/coins/images/66397/thumb/cg.png?1749287766",
+      "assetGroup": "Moolah::MOOLAH",
+      "currencyId": "Moolah::MOOLAH",
       "tags": ["coingecko"]
     }
   },

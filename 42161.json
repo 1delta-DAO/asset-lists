@@ -19197,7 +19197,17 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66291/thumb/re_blue.png?1749110516",
       "assetGroup": "Re Protocol reUSD::REUSD",
       "currencyId": "Re Protocol reUSD::REUSD",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
+    },
+    "0x3572f8f8c2d8f4ec9469bb1c8573439c7500771e": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "KNOW",
+      "address": "0x3572f8f8c2d8f4ec9469bb1c8573439c7500771e",
+      "symbol": "KNOW",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/theknowers.jpg",
+      "assetGroup": "KNOW::KNOW",
+      "currencyId": "KNOW::KNOW"
     }
   },
   "mainTokens": [

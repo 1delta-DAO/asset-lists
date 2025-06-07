@@ -783,7 +783,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66276/thumb/TWIN_Asset_Token_Logo_AAPL_CG.png?1749050463",
       "assetGroup": "TWIN ASSET TOKEN AAPL::AAPL",
       "currencyId": "TWIN ASSET TOKEN AAPL::AAPL",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xcb700b56226d3b28a3b897c6ce8881bbfb22d2f8": {
       "chainId": "80094",
@@ -794,7 +794,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66277/thumb/TWIN_Asset_Token_Logo_iAAPL_CG.png?1749050831",
       "assetGroup": "TWIN ASSET TOKEN iAAPL::IAAPL",
       "currencyId": "TWIN ASSET TOKEN iAAPL::IAAPL",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x80d6206c800a6ede51ec52fe724df57fa4b4410b": {
       "chainId": "80094",
@@ -805,7 +805,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66278/thumb/TWIN_Asset_Token_Logo_MSTR_CG.png?1749051204",
       "assetGroup": "TWIN ASSET TOKEN MSTR::MSTR",
       "currencyId": "TWIN ASSET TOKEN MSTR::MSTR",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xe5a08b6f213a7c530e03ad40522befcbaa1a7f8c": {
       "chainId": "80094",
@@ -816,7 +816,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66280/thumb/TWIN_Asset_Token_Logo_iMSTR_CG.png?1749054879",
       "assetGroup": "TWIN ASSET TOKEN iMSTR::IMSTR",
       "currencyId": "TWIN ASSET TOKEN iMSTR::IMSTR",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x65967109401506222609bdc86e3039f910c4d08b": {
       "chainId": "80094",
@@ -827,7 +827,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66282/thumb/TWIN_Asset_Token_Logo_COIN_CG.png?1749056586",
       "assetGroup": "TWIN ASSET TOKEN COIN::COIN",
       "currencyId": "TWIN ASSET TOKEN COIN::COIN",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x1fcca65fb6ae3b2758b9b2b394cb227eae404e1e": {
       "chainId": "80094",
@@ -859,7 +859,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66284/thumb/TWIN_Asset_Token_Logo_iCOIN_CG.png?1749108530",
       "assetGroup": "TWIN Asset Token iCOIN short::ICOIN",
       "currencyId": "TWIN Asset Token iCOIN short::ICOIN",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x3a4b2d07c237c701c68238da07e11302353a16f1": {
       "chainId": "80094",
@@ -870,7 +870,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66286/thumb/TWIN_Asset_Token_Logo_iNVDA_CG.png?1749108927",
       "assetGroup": "TWIN Asset Token iNVDA Short::INVDA",
       "currencyId": "TWIN Asset Token iNVDA Short::INVDA",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x1de7efabfa656d077cfd961e4a83b061d351a83b": {
       "chainId": "80094",
@@ -881,6 +881,17 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66285/thumb/TWIN_Asset_Token_Logo_NVDA_CG.png?1749108863",
       "assetGroup": "TWIN Asset Token NVDA Long::NVDA",
       "currencyId": "TWIN Asset Token NVDA Long::NVDA",
+      "tags": ["coingecko", "biconomy-gas-token"]
+    },
+    "0x804cf700de1e18f2411bd05aad5fa10d60e1900f": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "aSUGAR",
+      "address": "0x804cf700de1e18f2411bd05aad5fa10d60e1900f",
+      "symbol": "ASUGAR",
+      "logoURI": "https://assets.coingecko.com/coins/images/66395/thumb/aSUGAR.png?1749286870",
+      "assetGroup": "aSUGAR::ASUGAR",
+      "currencyId": "aSUGAR::ASUGAR",
       "tags": ["coingecko"]
     }
   },
@@ -909,7 +920,13 @@
     "0xac03caba51e17c86c921e1f6cbfbdc91f8bb2e6b",
     "0x1f7210257fa157227d09449229a9266b0d581337",
     "0x6d4223dae2a8744a85a6d44e97f3f61679f87ee6",
-    "0xab7e0f3d69de8061aa46d7c9964dbc11878468eb"
+    "0xab7e0f3d69de8061aa46d7c9964dbc11878468eb",
+    "0xd3415dcfbda117814e24a4cbaf61128a4d79b860",
+    "0xfaf4c16847bd0ebac546c49a9c9c6b81abd4b08c",
+    "0x66a501076865a2b21df9dbd51fa931317188418b",
+    "0x009af46df68db0e76bfe9ea35663f6ed17877956",
+    "0x0003eedfdd020bf60d10cf684abac7c4534b7ead",
+    "0x804cf700de1e18f2411bd05aad5fa10d60e1900f"
   ],
   "bridgeTokens": [
     "0x0555e30da8f98308edb960aa94c0db47230d2b9c",

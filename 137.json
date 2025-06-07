@@ -23387,6 +23387,17 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/33662/large/cleotechlogo.jpeg?1702601297",
       "assetGroup": "Cleo Tech::$CLEO",
       "currencyId": "Cleo Tech::$CLEO"
+    },
+    "0xcc44674022a792794d219847362bb95c661937a9": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Routine Coin",
+      "address": "0xcc44674022a792794d219847362bb95c661937a9",
+      "symbol": "ROU",
+      "logoURI": "https://assets.coingecko.com/coins/images/66269/thumb/ROU.png?1749024151",
+      "assetGroup": "Routine Coin::ROU",
+      "currencyId": "Routine Coin::ROU",
+      "tags": ["biconomy-gas-token"]
     }
   },
   "mainTokens": [
@@ -23457,7 +23468,9 @@
     "0x1280830f690d0e65195b3c61b028244c3a49f26d",
     "0xa649325aa7c5093d12d6f98eb4378deae68ce23f",
     "0xae4efbc7736f963982aacb17efa37fcbab924cb3",
-    "0xc99f5c922dae05b6e2ff83463ce705ef7c91f077"
+    "0xc99f5c922dae05b6e2ff83463ce705ef7c91f077",
+    "0x5c4b7ccbf908e64f32e12c6650ec0c96d717f03f",
+    "0x5bcf8d8c097fbb35c371f921e3ff3e6f6eb54b41"
   ],
   "bridgeTokens": [
     "0x3ba4c387f786bfee076a58914f5bd38d668b42c3",
