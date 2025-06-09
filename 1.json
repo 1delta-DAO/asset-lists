@@ -27075,7 +27075,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/26127/thumb/ngiBSUT7_400x400.png?1696525216",
       "assetGroup": "ArtCoin::AC",
       "currencyId": "ArtCoin::AC",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token", "coingecko"]
     },
     "0x8a053350ca5f9352a16ded26ab333e2d251dad7c": {
       "chainId": "1",
@@ -94094,6 +94094,50 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66400/thumb/ETH0512px.png?1749288687",
       "assetGroup": "ETH0::ETH0",
       "currencyId": "ETH0::ETH0",
+      "tags": ["coingecko"]
+    },
+    "0x1db1591540d7a6062be0837ca3c808add28844f6": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "Origami hOHM",
+      "address": "0x1db1591540d7a6062be0837ca3c808add28844f6",
+      "symbol": "HOHM",
+      "logoURI": "https://assets.coingecko.com/coins/images/66457/thumb/hOHM_200px.png?1749435178",
+      "assetGroup": "Origami hOHM::HOHM",
+      "currencyId": "Origami hOHM::HOHM",
+      "tags": ["coingecko"]
+    },
+    "0x7059161a6becfce54e8bbd565c11019f2bf54994": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "Axira",
+      "address": "0x7059161a6becfce54e8bbd565c11019f2bf54994",
+      "symbol": "AXI",
+      "logoURI": "https://assets.coingecko.com/coins/images/55745/thumb/axion-05.png?1747289419",
+      "assetGroup": "Axira::AXI",
+      "currencyId": "Axira::AXI",
+      "tags": ["coingecko"]
+    },
+    "0x3ddc84940ab509c11b20b76b466933f40b750dc9": {
+      "chainId": "1",
+      "decimals": 2,
+      "name": "Franklin Templeton BENJI",
+      "address": "0x3ddc84940ab509c11b20b76b466933f40b750dc9",
+      "symbol": "BENJI",
+      "logoURI": "https://assets.coingecko.com/coins/images/66409/thumb/Benji_Logo.png?1749371083",
+      "assetGroup": "Franklin Templeton BENJI::BENJI",
+      "currencyId": "Franklin Templeton BENJI::BENJI",
+      "tags": ["coingecko"]
+    },
+    "0x8080779e8366ea28cd1c99bd66ac6d04fce73bf9": {
+      "chainId": "1",
+      "decimals": 9,
+      "name": "The America Party",
+      "address": "0x8080779e8366ea28cd1c99bd66ac6d04fce73bf9",
+      "symbol": "TAP",
+      "logoURI": "https://assets.coingecko.com/coins/images/66420/thumb/1_%281%29.jpeg?1749374708",
+      "assetGroup": "The America Party::TAP",
+      "currencyId": "The America Party::TAP",
       "tags": ["coingecko"]
     }
   },

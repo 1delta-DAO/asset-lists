@@ -19207,7 +19207,8 @@
       "symbol": "KNOW",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/theknowers.jpg",
       "assetGroup": "KNOW::KNOW",
-      "currencyId": "KNOW::KNOW"
+      "currencyId": "KNOW::KNOW",
+      "tags": ["coingecko"]
     },
     "0x8c1ea32448e09a59f36595abec6207c9ebd590a2": {
       "chainId": "42161",
@@ -19218,6 +19219,28 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/plutus.svg",
       "assetGroup": "Plutus token::PLUTUS",
       "currencyId": "Plutus token::PLUTUS"
+    },
+    "0x8eef5ed361c6823156d936209e23a8e0349e5c61": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "RIF US Dollar",
+      "address": "0x8eef5ed361c6823156d936209e23a8e0349e5c61",
+      "symbol": "USDRIF",
+      "logoURI": "https://assets.coingecko.com/coins/images/39869/thumb/USDRIF.webp?1724500201",
+      "assetGroup": "RIF US Dollar::USDRIF",
+      "currencyId": "RIF US Dollar::USDRIF",
+      "tags": ["coingecko"]
+    },
+    "0x8e4d81cbcbb0cc7fda2b709259dfd28adae7e000": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "RIFPro",
+      "address": "0x8e4d81cbcbb0cc7fda2b709259dfd28adae7e000",
+      "symbol": "RIFP",
+      "logoURI": "https://assets.coingecko.com/coins/images/55609/thumb/rifro_copy.png?1746858777",
+      "assetGroup": "RIFPro::RIFP",
+      "currencyId": "RIFPro::RIFP",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [

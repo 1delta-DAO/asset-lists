@@ -46203,7 +46203,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0xDaC991621fd8048D9f235324780ABD6c3aD26421.png",
       "assetGroup": "Zircuit::ZRC",
       "currencyId": "Zircuit::ZRC",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x5c8daeabc57e9249606d3bd6d1e097ef492ea3c5": {
       "chainId": "56",
@@ -46445,6 +46445,50 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66397/thumb/cg.png?1749287766",
       "assetGroup": "Moolah::MOOLAH",
       "currencyId": "Moolah::MOOLAH",
+      "tags": ["coingecko"]
+    },
+    "0xc28957e946ac244612bcb205c899844cbbcb093d": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "BOOKUSD",
+      "address": "0xc28957e946ac244612bcb205c899844cbbcb093d",
+      "symbol": "BUD",
+      "logoURI": "https://assets.coingecko.com/coins/images/66421/thumb/blue200x200.png?1749374858",
+      "assetGroup": "BOOKUSD::BUD",
+      "currencyId": "BOOKUSD::BUD",
+      "tags": ["coingecko"]
+    },
+    "0x27fc525dc7393a3219bbe8c93b6226e448f52fdf": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "MINE COIN",
+      "address": "0x27fc525dc7393a3219bbe8c93b6226e448f52fdf",
+      "symbol": "MIH",
+      "logoURI": "https://assets.coingecko.com/coins/images/55934/thumb/MIH-logo-black.png?1747822122",
+      "assetGroup": "MINE COIN::MIH::56::0",
+      "currencyId": "MINE COIN::MIH",
+      "tags": ["coingecko"]
+    },
+    "0xfc35bf79270bcad22ce7dd5651aa2435fce9b7c5": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "BOOKUSD Share",
+      "address": "0xfc35bf79270bcad22ce7dd5651aa2435fce9b7c5",
+      "symbol": "BUSS",
+      "logoURI": "https://assets.coingecko.com/coins/images/66405/thumb/gold.png?1749369301",
+      "assetGroup": "BOOKUSD Share::BUSS",
+      "currencyId": "BOOKUSD Share::BUSS",
+      "tags": ["coingecko"]
+    },
+    "0x3f160760535eb715d5809a26cf55408a2d9844c1": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "OPENLOOT",
+      "address": "0x3f160760535eb715d5809a26cf55408a2d9844c1",
+      "symbol": "OL",
+      "logoURI": "https://assets.coingecko.com/coins/images/51801/thumb/_OPENLOOT_token-icon_black_%282%29.png?1731989426",
+      "assetGroup": "OPENLOOT::OL",
+      "currencyId": "OPENLOOT::OL",
       "tags": ["coingecko"]
     }
   },

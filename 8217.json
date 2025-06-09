@@ -9858,8 +9858,9 @@
       "address": "0x2234fb338784f1961af1649f7009ebd44c613856",
       "symbol": "ETH",
       "logoURI": "https://api.swapscanner.io/v0/tokens/0x2234fb338784f1961af1649f7009ebd44c613856/icon",
-      "assetGroup": "Ethereum::ETH",
-      "currencyId": "Ethereum::ETH"
+      "assetGroup": "Bridged ETH::ETH",
+      "currencyId": "Bridged ETH::ETH",
+      "tags": ["bridged"]
     },
     "0x7b79e295930d5cc0b5d1de94be265397fe97b5c0": {
       "chainId": "8217",
