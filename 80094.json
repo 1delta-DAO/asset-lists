@@ -11,7 +11,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x0555E30da8f98308EdB960aa94C0Db47230d2B9c/logo.png",
       "assetGroup": "WBTC",
       "currencyId": "Wrapped BTC::WBTC",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590": {
       "chainId": "80094",
@@ -22,7 +22,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590/logo.png",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x6969696969696969696969696969696969696969": {
       "chainId": "80094",
@@ -33,7 +33,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x6969696969696969696969696969696969696969/logo.png",
       "assetGroup": "BERA",
       "currencyId": "Wrapped Bera::WBERA",
-      "tags": ["coingecko", "wnative", "biconomy-gas-token"]
+      "tags": ["coingecko", "wnative", "biconomy-gas-token", "debridge"]
     },
     "0x688e72142674041f8f6af4c808a4045ca1d6ac82": {
       "chainId": "80094",
@@ -44,7 +44,7 @@
       "logoURI": "https://hub.berachain.com/_next/image/?url=https%3A%2F%2Fres.cloudinary.com%2Fduv0g402y%2Fimage%2Fupload%2Fv1738732576%2Ftokens%2Fy6wa21vehnappbe2cruf.png&w=3840&q=75&dpl=dpl_FBim27rRDfMcGJQxRsgz2AneXzpt",
       "assetGroup": "BYUSD::BYUSD",
       "currencyId": "BYUSD::BYUSD",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "debridge"]
     },
     "0x549943e04f40284185054145c6e4e9568c1d3241": {
       "chainId": "80094",
@@ -55,7 +55,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x549943e04f40284185054145c6E4e9568C1D3241/logo.png",
       "assetGroup": "USDC",
       "currencyId": "Bridged USDC (Stargate)::USDC.e",
-      "tags": ["stargate", "bridged", "coingecko", "biconomy-gas-token"]
+      "tags": ["stargate", "bridged", "coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x9b6761bf2397bb5a6624a856cc84a3a14dcd3fe5": {
       "chainId": "80094",
@@ -66,7 +66,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x9b6761bf2397Bb5a6624a856cC84A3A14Dcd3fe5/logo.png",
       "assetGroup": "Infrared BERA::iBERA",
       "currencyId": "Infrared BERA::iBERA",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xfcbd14dc51f0a4d49d5e53c2e0950e0bc26d0dce": {
       "chainId": "80094",
@@ -77,7 +77,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce/logo.png",
       "assetGroup": "Honey::HONEY",
       "currencyId": "Honey::HONEY",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x779ded0c9e1022225f8e0630b35a9b54be713736": {
       "chainId": "80094",
@@ -99,7 +99,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x1cE0a25D13CE4d52071aE7e02Cf1F6606F4C79d3/logo.png",
       "assetGroup": "NECTAR::NECT",
       "currencyId": "NECTAR::NECT",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x28e0e3b9817012b356119df9e217c25932d609c2": {
       "chainId": "80094",
@@ -121,7 +121,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xac03CABA51e17c86c921E1f6CBFBdC91F8BB2E6b/logo.png",
       "assetGroup": "Infrared BGT::iBGT",
       "currencyId": "Infrared BGT::iBGT",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x541fd749419ca806a8bc7da8ac23d346f2df8b77": {
       "chainId": "80094",
@@ -132,7 +132,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/SolvBTC.webp",
       "assetGroup": "SOLVBTC",
       "currencyId": "Solv BTC::SolvBTC",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xcc0966d8418d412c599a6421b760a847eb169a8c": {
       "chainId": "80094",
@@ -143,7 +143,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/xSolvBTC.webp",
       "assetGroup": "XSOLVBTC",
       "currencyId": "xSolvBTC::xSolvBTC",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xec901da9c68e90798bbbb74c11406a32a70652c3": {
       "chainId": "80094",
@@ -154,7 +154,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xEc901DA9c68E90798BbBb74c11406A32A70652C3/logo.png",
       "assetGroup": "STONE",
       "currencyId": "StakeStone Ether::STONE",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xff12470a969dd362eb6595ffb44c82c959fe9acc": {
       "chainId": "80094",
@@ -217,7 +217,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xC3827A4BC8224ee2D116637023b124CED6db6e90/logo.png",
       "assetGroup": "UNIBTC",
       "currencyId": "uniBTC::uniBTC",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xecac9c5f704e954931349da37f60e39f515c11c1": {
       "chainId": "80094",
@@ -228,7 +228,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xecAc9C5F704e954931349Da37F60E39f515c11c1/logo.png",
       "assetGroup": "LBTC",
       "currencyId": "Lombard Staked BTC::LBTC",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xdcb3d91555385dae23e6b966b5626aa7a75be940": {
       "chainId": "80094",
@@ -299,7 +299,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54525/thumb/janinew.png?1740137171",
       "assetGroup": "janitooor::JANI",
       "currencyId": "janitooor::JANI",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x6fc6545d5cde268d5c7f1e476d444f39c995120d": {
       "chainId": "80094",
@@ -310,7 +310,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54260/thumb/beraETH.png?1738952010",
       "assetGroup": "Berachain Staked ETH::BERAETH",
       "currencyId": "Berachain Staked ETH::BERAETH",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xb749584f9fc418cf905d54f462fdbfdc7462011b": {
       "chainId": "80094",
@@ -321,7 +321,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54413/thumb/photo_2025-02-13_05.15.34.jpeg?1739554671",
       "assetGroup": "bm::BM",
       "currencyId": "bm::BM",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x5c43a5fef2b056934478373a53d1cb08030fd382": {
       "chainId": "80094",
@@ -343,7 +343,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54193/thumb/BGT.png?1738742690",
       "assetGroup": "Berachain Governance Token::BGT",
       "currencyId": "Berachain Governance Token::BGT",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x36e9fe653e673fda3857dbe5afbc884af8a316a2": {
       "chainId": "80094",
@@ -354,7 +354,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54382/thumb/TOKEN_LOGO_%281%29.png?1739459375",
       "assetGroup": "BeraFi::BERAFI",
       "currencyId": "BeraFi::BERAFI",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xb8b1af593dc37b33a2c87c8db1c9051fc32858b7": {
       "chainId": "80094",
@@ -365,7 +365,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54443/thumb/rsz_tokens_1.png?1739772470",
       "assetGroup": "Ramen::RAMEN",
       "currencyId": "Ramen::RAMEN",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x08a38caa631de329ff2dad1656ce789f31af3142": {
       "chainId": "80094",
@@ -376,7 +376,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54416/thumb/IMG_7050.PNG?1739556073",
       "assetGroup": "Yeet::YEET",
       "currencyId": "Yeet::YEET",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x949185d3be66775ea648f4a306740ea9eff9c567": {
       "chainId": "80094",
@@ -387,7 +387,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/17429/thumb/Logo200.png?1696516976",
       "assetGroup": "Yel Finance::YEL",
       "currencyId": "Yel Finance::YEL",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xff0a636dfc44bb0129b631cdd38d21b613290c98": {
       "chainId": "80094",
@@ -398,7 +398,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/32726/thumb/HOLD.png?1699018663",
       "assetGroup": "HOLD",
       "currencyId": "Holdstation::HOLD",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xac611438ae5f3953dedb47c2ea8d6650d601c1b4": {
       "chainId": "80094",
@@ -409,7 +409,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/37421/thumb/AmpedLogoTrans-200.png?1714377313",
       "assetGroup": "AMP",
       "currencyId": "Amped Finance::AMP",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x1f7210257fa157227d09449229a9266b0d581337": {
       "chainId": "80094",
@@ -420,7 +420,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54529/thumb/_BERAMO_logo.png?1740168354",
       "assetGroup": "BeramoniumCoin::BERAMO",
       "currencyId": "BeramoniumCoin::BERAMO",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x047b41a14f0bef681b94f570479ae7208e577a0c": {
       "chainId": "80094",
@@ -431,7 +431,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54552/thumb/HIM_LOGO.jpg?1740307478",
       "assetGroup": "Honey Is Money::HIM",
       "currencyId": "Honey Is Money::HIM",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xa452810a4215fccc834ed241e6667f519b9856ec": {
       "chainId": "80094",
@@ -442,7 +442,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54546/thumb/Berabot_Logo.png?1740220386",
       "assetGroup": "Berabot::BBOT",
       "currencyId": "Berabot::BBOT",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x18878df23e2a36f81e820e4b47b4a40576d3159c": {
       "chainId": "80094",
@@ -453,7 +453,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/14483/thumb/token_OHM_%281%29.png?1696514169",
       "assetGroup": "OHM",
       "currencyId": "Olympus::OHM",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x6536cead649249cae42fc9bfb1f999429b3ec755": {
       "chainId": "80094",
@@ -464,7 +464,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54663/thumb/NAV_Token.png?1740898251",
       "assetGroup": "NAV::NAV",
       "currencyId": "NAV::NAV",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x7838cec5b11298ff6a9513fa385621b765c74174": {
       "chainId": "80094",
@@ -475,7 +475,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54626/thumb/beradrome_logo.webp?1740746547",
       "assetGroup": "Beradrome::BERO",
       "currencyId": "Beradrome::BERO",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xb2f776e9c1c926c4b2e54182fac058da9af0b6a5": {
       "chainId": "80094",
@@ -486,7 +486,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54719/thumb/Full_Circle_Logo_Large_%28YellowBlue%29_%281%29.png?1741193376",
       "assetGroup": "HENLO",
       "currencyId": "Henlo::HENLO",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xd77552d3849ab4d8c3b189a9582d0ba4c1f4f912": {
       "chainId": "80094",
@@ -497,7 +497,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54804/thumb/wgbera.jpg?1741743688",
       "assetGroup": "Wrapped gBera::WGBERA",
       "currencyId": "Wrapped gBera::WGBERA",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x93919784c523f39cacaa98ee0a9d96c3f32b593e": {
       "chainId": "80094",
@@ -508,7 +508,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/53039/thumb/brBTC_200.png?1735074374",
       "assetGroup": "BRBTC",
       "currencyId": "brBTC::brBTC",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xe231db5f348d709239ef1741ea30961b3b635a61": {
       "chainId": "80094",
@@ -519,7 +519,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/51623/thumb/ynETHx.png?1731659494",
       "assetGroup": "ynETH MAX::YNETHX",
       "currencyId": "ynETH MAX::YNETHX",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xbaadcc2962417c01af99fb2b7c75706b9bd6babe": {
       "chainId": "80094",
@@ -530,7 +530,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54878/thumb/lbgt.png?1742327918",
       "assetGroup": "Liquid BGT::LBGT",
       "currencyId": "Liquid BGT::LBGT",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x0003eedfdd020bf60d10cf684abac7c4534b7ead": {
       "chainId": "80094",
@@ -541,7 +541,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54952/thumb/photo_2025-03-21_13.46.43.jpeg?1742805118",
       "assetGroup": "BREAD",
       "currencyId": "Bread::BREAD",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xab7e0f3d69de8061aa46d7c9964dbc11878468eb": {
       "chainId": "80094",
@@ -552,7 +552,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54295/thumb/Dex-01_%282%29.png?1739085758",
       "assetGroup": "Berally Token::BRLY::80094::0",
       "currencyId": "Berally Token::BRLY",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x69f1e971257419b1e9c405a553f252c64a29a30a": {
       "chainId": "80094",
@@ -563,7 +563,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54994/thumb/oriBGT.png?1743069741",
       "assetGroup": "Origami iBGT Auto Compounder::ORIBGT",
       "currencyId": "Origami iBGT Auto Compounder::ORIBGT",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x09d4214c03d01f49544c0448dbe3a27f768f2b34": {
       "chainId": "80094",
@@ -574,7 +574,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54117/thumb/rusd_bera2.png?1738311629",
       "assetGroup": "Reservoir rUSD::RUSD",
       "currencyId": "Reservoir rUSD::RUSD",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x5475611dffb8ef4d697ae39df9395513b6e947d7": {
       "chainId": "80094",
@@ -585,7 +585,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54118/thumb/srUSD.png?1738313910",
       "assetGroup": "Reservoir srUSD::SRUSD",
       "currencyId": "Reservoir srUSD::SRUSD",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x147c9a7f5265d7ca9a671c3817b212a0cf88856e": {
       "chainId": "80094",
@@ -596,7 +596,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55022/thumb/BeraLogo-200px.jpg?1743243276",
       "assetGroup": "BeraXBT::BIXBT",
       "currencyId": "BeraXBT::BIXBT",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x01c8a5ccad23a4d3764ef71c403862160aa2913a": {
       "chainId": "80094",

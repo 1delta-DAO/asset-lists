@@ -1,0 +1,30 @@
+{
+  "chainId": "50104",
+  "version": "0",
+  "list": {
+    "0x2b1a859de6a55c553520d7780bc5805712b128f9": {
+      "chainId": "50104",
+      "decimals": 18,
+      "name": "Wrapped Sophon",
+      "address": "0x2b1a859de6a55c553520d7780bc5805712b128f9",
+      "symbol": "WSOPH",
+      "logoURI": "https://tokens.debridge.finance/Logo/100000025/0x2b1a859de6a55c553520d7780bc5805712b128f9/small/token-logo.png",
+      "assetGroup": "Wrapped Sophon::WSOPH",
+      "currencyId": "Wrapped Sophon::WSOPH",
+      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+    },
+    "0x9aa0f72392b5784ad86c6f3e899bcc053d00db4f": {
+      "chainId": "50104",
+      "decimals": 6,
+      "name": "USDC",
+      "address": "0x9aa0f72392b5784ad86c6f3e899bcc053d00db4f",
+      "symbol": "USDC",
+      "logoURI": "https://tokens.debridge.finance/Logo/100000025/0x9aa0f72392b5784ad86c6f3e899bcc053d00db4f/small/token-logo.png",
+      "assetGroup": "USDC",
+      "currencyId": "USDC::USDC",
+      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+    }
+  },
+  "mainTokens": ["0x9aa0f72392b5784ad86c6f3e899bcc053d00db4f"],
+  "bridgeTokens": ["0x9aa0f72392b5784ad86c6f3e899bcc053d00db4f"]
+}

@@ -1,0 +1,19 @@
+{
+  "chainId": "32769",
+  "version": "0",
+  "list": {
+    "0xd8b73ced1b16c047048f2c5ea42233da33168198": {
+      "chainId": "32769",
+      "decimals": 6,
+      "name": "USDC",
+      "address": "0xd8b73ced1b16c047048f2c5ea42233da33168198",
+      "symbol": "USDC",
+      "logoURI": "https://tokens.debridge.finance/Logo/100000008/0xd8b73ced1b16c047048f2c5ea42233da33168198/small/token-logo.svg",
+      "assetGroup": "USDC",
+      "currencyId": "USDC::USDC",
+      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+    }
+  },
+  "mainTokens": ["0xd8b73ced1b16c047048f2c5ea42233da33168198"],
+  "bridgeTokens": ["0xd8b73ced1b16c047048f2c5ea42233da33168198"]
+}
