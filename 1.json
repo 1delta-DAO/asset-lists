@@ -94083,7 +94083,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66396/thumb/Birdei_200x200.png?1749287522",
       "assetGroup": "Birdei::BIRDEI",
       "currencyId": "Birdei::BIRDEI",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x734eec7930bc84ec5732022b9eb949a81fb89abe": {
       "chainId": "1",
@@ -94094,7 +94094,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66400/thumb/ETH0512px.png?1749288687",
       "assetGroup": "ETH0::ETH0",
       "currencyId": "ETH0::ETH0",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x1db1591540d7a6062be0837ca3c808add28844f6": {
       "chainId": "1",
@@ -94105,7 +94105,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66457/thumb/hOHM_200px.png?1749435178",
       "assetGroup": "Origami hOHM::HOHM",
       "currencyId": "Origami hOHM::HOHM",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x7059161a6becfce54e8bbd565c11019f2bf54994": {
       "chainId": "1",
@@ -94116,7 +94116,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55745/thumb/axion-05.png?1747289419",
       "assetGroup": "Axira::AXI",
       "currencyId": "Axira::AXI",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x3ddc84940ab509c11b20b76b466933f40b750dc9": {
       "chainId": "1",
@@ -94127,7 +94127,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66409/thumb/Benji_Logo.png?1749371083",
       "assetGroup": "Franklin Templeton BENJI::BENJI",
       "currencyId": "Franklin Templeton BENJI::BENJI",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x8080779e8366ea28cd1c99bd66ac6d04fce73bf9": {
       "chainId": "1",
@@ -94138,6 +94138,126 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66420/thumb/1_%281%29.jpeg?1749374708",
       "assetGroup": "The America Party::TAP",
       "currencyId": "The America Party::TAP",
+      "tags": ["coingecko", "biconomy-gas-token"]
+    },
+    "0x0fc2a55d5bd13033f1ee0cdd11f60f7efe66f467": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "Lagrange",
+      "address": "0x0fc2a55d5bd13033f1ee0cdd11f60f7efe66f467",
+      "symbol": "LA",
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/36510.png",
+      "assetGroup": "Lagrange::LA",
+      "currencyId": "Lagrange::LA"
+    },
+    "0x79d464248516bc6977ca2069ba15d8d1044479d8": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "GPUnet",
+      "address": "0x79d464248516bc6977ca2069ba15d8d1044479d8",
+      "symbol": "GPU",
+      "logoURI": "https://assets.coingecko.com/coins/images/66484/thumb/IMG_3154.jpeg?1749505264",
+      "assetGroup": "GPUnet::GPU",
+      "currencyId": "GPUnet::GPU",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x09fd37d9aa613789c517e76df1c53aece2b60df4": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "ebUSD Stablecoin",
+      "address": "0x09fd37d9aa613789c517e76df1c53aece2b60df4",
+      "symbol": "EBUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/66485/thumb/0x09fd37d9aa613789c517e76df1c53aece2b60df4.png?1749505950",
+      "assetGroup": "ebUSD Stablecoin::EBUSD",
+      "currencyId": "ebUSD Stablecoin::EBUSD",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x594dd710e3bef17cb0585ffb863e0fc9e0f257ab": {
+      "chainId": "1",
+      "decimals": 9,
+      "name": "The America Party",
+      "address": "0x594dd710e3bef17cb0585ffb863e0fc9e0f257ab",
+      "symbol": "TAP",
+      "logoURI": "https://assets.coingecko.com/coins/images/66460/thumb/logoTAP.png?1749461244",
+      "assetGroup": "The America Party::TAP::1::0",
+      "currencyId": "The America Party::TAP",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x72e228cdfdc77a36048a7ef62485be11b6d3b25e": {
+      "chainId": "1",
+      "decimals": 9,
+      "name": "Manyu the Shiba Inu",
+      "address": "0x72e228cdfdc77a36048a7ef62485be11b6d3b25e",
+      "symbol": "MANYU",
+      "logoURI": "https://assets.coingecko.com/coins/images/66466/thumb/logo_%281%29.png?1749463153",
+      "assetGroup": "Manyu the Shiba Inu::MANYU",
+      "currencyId": "Manyu the Shiba Inu::MANYU",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x61dbbbb552dc893ab3aad09f289f811e67cef285": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "Skate",
+      "address": "0x61dbbbb552dc893ab3aad09f289f811e67cef285",
+      "symbol": "SKATE",
+      "logoURI": "https://assets.coingecko.com/coins/images/54864/thumb/skate.jpg?1742193428",
+      "assetGroup": "Skate::SKATE",
+      "currencyId": "Skate::SKATE",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x13b22eba36493772b3a75b7217dcbb258ea8b1da": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "Smart Quantum Game",
+      "address": "0x13b22eba36493772b3a75b7217dcbb258ea8b1da",
+      "symbol": "SQMG",
+      "logoURI": "https://assets.coingecko.com/coins/images/66467/thumb/sqmg-200x200.png?1749468354",
+      "assetGroup": "Smart Quantum Game::SQMG",
+      "currencyId": "Smart Quantum Game::SQMG",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xed93a0bcbd7793b4dd6ca0033b813344512c106d": {
+      "chainId": "1",
+      "decimals": 9,
+      "name": "Tuggin",
+      "address": "0xed93a0bcbd7793b4dd6ca0033b813344512c106d",
+      "symbol": "TUGGIN",
+      "logoURI": "https://assets.coingecko.com/coins/images/66472/thumb/0xed93a0bcbd7793b4dd6ca0033b813344512c106d.jpg?1749481284",
+      "assetGroup": "Tuggin::TUGGIN",
+      "currencyId": "Tuggin::TUGGIN",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x259338656198ec7a76c729514d3cb45dfbf768a1": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "Resolv",
+      "address": "0x259338656198ec7a76c729514d3cb45dfbf768a1",
+      "symbol": "RESOLV",
+      "logoURI": "https://assets.coingecko.com/coins/images/56092/thumb/resolv.jpg?1748395654",
+      "assetGroup": "Resolv::RESOLV",
+      "currencyId": "Resolv::RESOLV",
+      "tags": ["coingecko"]
+    },
+    "0x72c440b5a41cd48e4c362c706e3f42000de1d8f7": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "Smart Lending AI",
+      "address": "0x72c440b5a41cd48e4c362c706e3f42000de1d8f7",
+      "symbol": "SLAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/66506/thumb/logo.png?1749576259",
+      "assetGroup": "Smart Lending AI::SLAI",
+      "currencyId": "Smart Lending AI::SLAI",
+      "tags": ["coingecko"]
+    },
+    "0x25517010a154ec41f76d203ab221019a37c2dab6": {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "Neuralis AI",
+      "address": "0x25517010a154ec41f76d203ab221019a37c2dab6",
+      "symbol": "NEURAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/66507/thumb/Neuralis_Round_%282%29.png?1749576506",
+      "assetGroup": "Neuralis AI::NEURAI",
+      "currencyId": "Neuralis AI::NEURAI",
       "tags": ["coingecko"]
     }
   },

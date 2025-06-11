@@ -941,7 +941,7 @@
       "address": "0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be",
       "symbol": "sAVAX",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE/logo.png",
-      "assetGroup": "Staked AVAX::sAVAX",
+      "assetGroup": "SAVAX",
       "currencyId": "Staked AVAX::sAVAX",
       "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token"]
     },
@@ -8074,7 +8074,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66392/thumb/favicon.png?1749284942",
       "assetGroup": "Baby JubJub::BJUB",
       "currencyId": "Baby JubJub::BJUB",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x1bed077195307229fccbc719c5f2ce6416a58180": {
       "chainId": "43114",
@@ -8085,6 +8085,39 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66413/thumb/order-logo.png?1749372552",
       "assetGroup": "ORDER::ORDER",
       "currencyId": "ORDER::ORDER",
+      "tags": ["coingecko", "biconomy-gas-token"]
+    },
+    "0x6f43ff77a9c0cf552b5b653268fbfe26a052429b": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "LAMBO",
+      "address": "0x6f43ff77a9c0cf552b5b653268fbfe26a052429b",
+      "symbol": "LAMBO",
+      "logoURI": "https://assets.coingecko.com/coins/images/66462/thumb/IMG_3249.jpeg?1749461496",
+      "assetGroup": "LAMBO::LAMBO",
+      "currencyId": "LAMBO::LAMBO",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x8f0a35cabd10e830c8c10629cf539c2e0f1f3481": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "XPowermine com XPOW",
+      "address": "0x8f0a35cabd10e830c8c10629cf539c2e0f1f3481",
+      "symbol": "XPOW",
+      "logoURI": "https://assets.coingecko.com/coins/images/66402/thumb/XPOW.png?1749351409",
+      "assetGroup": "XPowermine com XPOW::XPOW",
+      "currencyId": "XPowermine com XPOW::XPOW",
+      "tags": ["coingecko"]
+    },
+    "0xac6e53f1e1ebafda8553c0add8c5b32bcb5890c4": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "FINANCE",
+      "address": "0xac6e53f1e1ebafda8553c0add8c5b32bcb5890c4",
+      "symbol": "FINANCE",
+      "logoURI": "https://assets.coingecko.com/coins/images/66500/thumb/Untitled_%2813%29.jpg?1749573161",
+      "assetGroup": "FINANCE::FINANCE",
+      "currencyId": "FINANCE::FINANCE",
       "tags": ["coingecko"]
     }
   },

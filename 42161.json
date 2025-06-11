@@ -15188,7 +15188,8 @@
       "symbol": "USDAI",
       "logoURI": "https://assets.coingecko.com/coins/images/55857/thumb/USDai_200x200.png?1747469907",
       "assetGroup": "USDai::USDAI",
-      "currencyId": "USDai::USDAI"
+      "currencyId": "USDai::USDAI",
+      "tags": ["coingecko"]
     },
     "0xfe0d2545f9e7f3678cb35ed3cdf70488c5570d11": {
       "chainId": "42161",
@@ -17669,7 +17670,8 @@
       "symbol": "FDUSD",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/fdusd.svg",
       "assetGroup": "FDUSD",
-      "currencyId": "First Digital USD::FDUSD"
+      "currencyId": "First Digital USD::FDUSD",
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x31dba3c96481fde3cd81c2aaf51f2d8bf618c742": {
       "chainId": "42161",
@@ -19208,7 +19210,7 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/theknowers.jpg",
       "assetGroup": "KNOW::KNOW",
       "currencyId": "KNOW::KNOW",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x8c1ea32448e09a59f36595abec6207c9ebd590a2": {
       "chainId": "42161",
@@ -19229,7 +19231,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/39869/thumb/USDRIF.webp?1724500201",
       "assetGroup": "RIF US Dollar::USDRIF",
       "currencyId": "RIF US Dollar::USDRIF",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x8e4d81cbcbb0cc7fda2b709259dfd28adae7e000": {
       "chainId": "42161",
@@ -19240,7 +19242,48 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55609/thumb/rifro_copy.png?1746858777",
       "assetGroup": "RIFPro::RIFP",
       "currencyId": "RIFPro::RIFP",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
+    },
+    "0xcdc343ebf71e38f003ed6c80171f5b8d7cf58860": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "PancakeSwap",
+      "address": "0xcdc343ebf71e38f003ed6c80171f5b8d7cf58860",
+      "symbol": "CAKE",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/12632/large/pancakeswap-cake-logo_%281%29.png?1696512440",
+      "assetGroup": "PancakeSwap::CAKE",
+      "currencyId": "PancakeSwap::CAKE"
+    },
+    "0x6380f3d0c1412a80eb00f49064da30749db991de": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Portal",
+      "address": "0x6380f3d0c1412a80eb00f49064da30749db991de",
+      "symbol": "PORTAL",
+      "logoURI": "https://assets.coingecko.com/coins/images/35436/standard/portal.jpeg",
+      "assetGroup": "Portal::PORTAL",
+      "currencyId": "Portal::PORTAL"
+    },
+    "0x3c45038f4807c5bb72f6bc72c2a2b9c012155e49": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Radicle",
+      "address": "0x3c45038f4807c5bb72f6bc72c2a2b9c012155e49",
+      "symbol": "RAD",
+      "logoURI": "https://assets.coingecko.com/coins/images/14013/thumb/radicle.png?1614402918",
+      "assetGroup": "RAD",
+      "currencyId": "Radicle::RAD"
+    },
+    "0x61dbbbb552dc893ab3aad09f289f811e67cef285": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Skate",
+      "address": "0x61dbbbb552dc893ab3aad09f289f811e67cef285",
+      "symbol": "SKATE",
+      "logoURI": "https://assets.coingecko.com/coins/images/54864/thumb/skate.jpg?1742193428",
+      "assetGroup": "Skate::SKATE",
+      "currencyId": "Skate::SKATE",
+      "tags": ["biconomy-gas-token", "coingecko"]
     }
   },
   "mainTokens": [

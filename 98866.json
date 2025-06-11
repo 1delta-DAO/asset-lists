@@ -11,7 +11,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000024/0xca59ca09e5602fae8b629dee83ffa819741f14be/small/token-logo.svg",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether (Stargate)::WETH",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "stargate", "bridged", "debridge"]
+      "tags": ["stargate", "bridged", "debridge"]
     },
     "0xda6087e69c51e7d31b6dbad276a3c44703dfdcad": {
       "chainId": "98866",
@@ -22,7 +22,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000024/0xda6087e69c51e7d31b6dbad276a3c44703dfdcad/small/token-logo.svg",
       "assetGroup": "USDT",
       "currencyId": "Bridged USDT (Stargate)::USDT",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "stargate", "bridged", "debridge"]
+      "tags": ["stargate", "bridged", "debridge"]
     },
     "0x69020311836d29ba7d38c1d3578736fd3ded03ed": {
       "chainId": "98866",
@@ -33,7 +33,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000024/0x69020311836d29ba7d38c1d3578736fd3ded03ed/small/token-logo.svg",
       "assetGroup": "Midas mEDGE::mEDGE",
       "currencyId": "Midas mEDGE::mEDGE",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0xdea736937d464d288ec80138bcd1a2e109a200e3": {
       "chainId": "98866",
@@ -44,7 +44,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000024/0xdea736937d464d288ec80138bcd1a2e109a200e3/small/token-logo.png",
       "assetGroup": "Nest ETF Vault::nETF",
       "currencyId": "Nest ETF Vault::nETF",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0x1fa3671df7300df728858b88c7216708f22da3fb": {
       "chainId": "98866",
@@ -55,7 +55,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000024/0x1fa3671df7300df728858b88c7216708f22da3fb/small/token-logo.png",
       "assetGroup": "USD+::USD+",
       "currencyId": "USD+::USD+",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0xea237441c92cae6fc17caaf9a7acb3f953be4bd1": {
       "chainId": "98866",
@@ -66,7 +66,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000024/0xea237441c92cae6fc17caaf9a7acb3f953be4bd1/small/token-logo.png",
       "assetGroup": "Wrapped Plume::WPLUME",
       "currencyId": "Wrapped Plume::WPLUME",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge", "wnative"]
     },
     "0x535f7ca9637a5099db568b79a3624cfd6b5fc833": {
       "chainId": "98866",
@@ -77,7 +77,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000024/0x535f7ca9637a5099db568b79a3624cfd6b5fc833/small/token-logo.svg",
       "assetGroup": "f(x) USD Saving::fxSAVE",
       "currencyId": "f(x) USD Saving::fxSAVE",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0xa0c4f78a29ead4abf6b7f5b3f0d05c0f3eab8ddf": {
       "chainId": "98866",
@@ -88,7 +88,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000024/0xa0c4f78a29ead4abf6b7f5b3f0d05c0f3eab8ddf/small/token-logo.svg",
       "assetGroup": "XAUM",
       "currencyId": "Matrixdock Gold::XAUM",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0xe72fe64840f4ef80e3ec73a1c749491b5c938cb9": {
       "chainId": "98866",
@@ -99,7 +99,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000024/0xe72fe64840f4ef80e3ec73a1c749491b5c938cb9/small/token-logo.svg",
       "assetGroup": "Nest Treasuries Vault::nTBILL",
       "currencyId": "Nest Treasuries Vault::nTBILL",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0x9fbc367b9bb966a2a537989817a088afcaffdc4c": {
       "chainId": "98866",
@@ -110,7 +110,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000024/0x9fbc367b9bb966a2a537989817a088afcaffdc4c/small/token-logo.svg",
       "assetGroup": "Nest Institutional Core Vault::nELIXIR",
       "currencyId": "Nest Institutional Core Vault::nELIXIR",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0x2de8a403f7a5c6c5161d4a129918ec9f0b653918": {
       "chainId": "98866",
@@ -121,7 +121,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000024/0x2de8a403f7a5c6c5161d4a129918ec9f0b653918/small/token-logo.svg",
       "assetGroup": "Wrapped Super OETH::wsuperOETHp",
       "currencyId": "Wrapped Super OETH::wsuperOETHp",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0x4c21b7577c8fe8b0b0669165ee7c8f67fa1454cf": {
       "chainId": "98866",
@@ -132,7 +132,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000024/0x4c21b7577c8fe8b0b0669165ee7c8f67fa1454cf/small/token-logo.svg",
       "assetGroup": "Superstate Crypto Carry Fund::USCC",
       "currencyId": "Superstate Crypto Carry Fund::USCC",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0xe4fa682f94610ccd170680cc3b045d77d9e528a8": {
       "chainId": "98866",
@@ -143,7 +143,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000024/0xe4fa682f94610ccd170680cc3b045d77d9e528a8/small/token-logo.svg",
       "assetGroup": "Superstate Short Duration US Government Securities Fund::USTB",
       "currencyId": "Superstate Short Duration US Government Securities Fund::USTB",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0x593ccca4c4bf58b7526a4c164ceef4003c6388db": {
       "chainId": "98866",
@@ -154,7 +154,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000024/0x593ccca4c4bf58b7526a4c164ceef4003c6388db/small/token-logo.svg",
       "assetGroup": "Nest ALPHA Vault::nALPHA",
       "currencyId": "Nest ALPHA Vault::nALPHA",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0xd8724322f44e5c58d7a815f542036fb17dbbf839": {
       "chainId": "98866",
@@ -165,7 +165,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000024/0xd8724322f44e5c58d7a815f542036fb17dbbf839/small/token-logo.svg",
       "assetGroup": "Bridged wOETH::wOETH",
       "currencyId": "Bridged wOETH::wOETH",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "bridged", "debridge"]
+      "tags": ["bridged", "debridge"]
     },
     "0x0c78ca789e826fe339de61934896f5d170b66d78": {
       "chainId": "98866",
@@ -176,7 +176,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000024/0x0c78ca789e826fe339de61934896f5d170b66d78/small/token-logo.svg",
       "assetGroup": "Midas mBASIS::mBASIS",
       "currencyId": "Midas mBASIS::mBASIS",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0x39d1f90ef89c52dda276194e9a832b484ee45574": {
       "chainId": "98866",
@@ -187,7 +187,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000024/0x39d1f90ef89c52dda276194e9a832b484ee45574/small/token-logo.svg",
       "assetGroup": "Plume ETH::pETH",
       "currencyId": "Plume ETH::pETH",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0x11113ff3a60c2450f4b22515cb760417259ee94b": {
       "chainId": "98866",
@@ -198,7 +198,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000024/0x11113ff3a60c2450f4b22515cb760417259ee94b/small/token-logo.svg",
       "assetGroup": "Nest Basis Vault::nBASIS",
       "currencyId": "Nest Basis Vault::nBASIS",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0x6b7e283d5098f3213d01d6cdcc35a217e1a3549f": {
       "chainId": "98866",
@@ -209,7 +209,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000024/0x6b7e283d5098f3213d01d6cdcc35a217e1a3549f/small/token-logo.png",
       "assetGroup": "Wrapped USD+::wUSD+",
       "currencyId": "Wrapped USD+::wUSD+",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0xdddd73f5df1f0dc31373357beac77545dc5a6f3f": {
       "chainId": "98866",
@@ -220,7 +220,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000024/0xdddd73f5df1f0dc31373357beac77545dc5a6f3f/small/token-logo.svg",
       "assetGroup": "Plume USD::pUSD",
       "currencyId": "Plume USD::pUSD",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0xa5f78b2a0ab85429d2dfbf8b60abc70f4cec066c": {
       "chainId": "98866",
@@ -231,7 +231,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000024/0xa5f78b2a0ab85429d2dfbf8b60abc70f4cec066c/small/token-logo.png",
       "assetGroup": "Nest Credit Vault::nCREDIT",
       "currencyId": "Nest Credit Vault::nCREDIT",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0x78add880a697070c1e765ac44d65323a0dcce913": {
       "chainId": "98866",
@@ -242,7 +242,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000024/0x78add880a697070c1e765ac44d65323a0dcce913/small/token-logo.png",
       "assetGroup": "USDC",
       "currencyId": "Bridged USDC (Stargate)::USDC.e",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "stargate", "bridged", "debridge"]
+      "tags": ["stargate", "bridged", "debridge"]
     },
     "0xbfc5770631641719cd1cf809d8325b146aed19de": {
       "chainId": "98866",
@@ -253,7 +253,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000024/0xbfc5770631641719cd1cf809d8325b146aed19de/small/token-logo.png",
       "assetGroup": "Nest Institutional Vault::nINSTO",
       "currencyId": "Nest Institutional Vault::nINSTO",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3": {
       "chainId": "98866",
@@ -264,7 +264,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000024/0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3/small/token-logo.svg",
       "assetGroup": "STBTC",
       "currencyId": "Lorenzo stBTC::stBTC",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0xe9e8330a71912f03e54e7d93795acd9a56f070aa": {
       "chainId": "98866",
@@ -275,7 +275,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000024/0xe9e8330a71912f03e54e7d93795acd9a56f070aa/small/token-logo.png",
       "assetGroup": "PayUSD::PayUSD",
       "currencyId": "PayUSD::PayUSD",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0xb52b090837a035f93a84487e5a7d3719c32aa8a9": {
       "chainId": "98866",
@@ -286,7 +286,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000024/0xb52b090837a035f93a84487e5a7d3719c32aa8a9/small/token-logo.svg",
       "assetGroup": "Nest PayFi Vault::nPAYFI",
       "currencyId": "Nest PayFi Vault::nPAYFI",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0xfcbe50dbe43bf7e5c88c6f6fb9ef432d4165406e": {
       "chainId": "98866",
@@ -297,9 +297,13 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000024/0xfcbe50dbe43bf7e5c88c6f6fb9ef432d4165406e/small/token-logo.svg",
       "assetGroup": "Super OETH::superOETHp",
       "currencyId": "Super OETH::superOETHp",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     }
   },
-  "mainTokens": ["0xca59ca09e5602fae8b629dee83ffa819741f14be", "0xda6087e69c51e7d31b6dbad276a3c44703dfdcad"],
+  "mainTokens": [
+    "0xca59ca09e5602fae8b629dee83ffa819741f14be",
+    "0xda6087e69c51e7d31b6dbad276a3c44703dfdcad",
+    "0xea237441c92cae6fc17caaf9a7acb3f953be4bd1"
+  ],
   "bridgeTokens": ["0xca59ca09e5602fae8b629dee83ffa819741f14be", "0xda6087e69c51e7d31b6dbad276a3c44703dfdcad"]
 }

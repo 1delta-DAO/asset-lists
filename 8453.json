@@ -25380,7 +25380,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/50673/thumb/token2d.jpg?1728682508",
       "assetGroup": "Legacy Token::LGCT",
       "currencyId": "Legacy Token::LGCT",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x01812ca908b5731be0db86000c15c5afa3e834b2": {
       "chainId": "8453",
@@ -25391,7 +25391,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55367/thumb/Yellow_Symbol_Transparent_%281%29.png?1745664842",
       "assetGroup": "Inferium::IFR",
       "currencyId": "Inferium::IFR",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x000307575269863b6cb67916b9e7fc3c6235c000": {
       "chainId": "8453",
@@ -25402,7 +25402,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66419/thumb/myeva_coin_front.png?1749374478",
       "assetGroup": "myEva::MYEVA",
       "currencyId": "myEva::MYEVA",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x8e665c3a3622d7c1bef8ed8ffd7317d3f6318e31": {
       "chainId": "8453",
@@ -25413,6 +25413,83 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66410/thumb/oopz_token_image.png?1749371332",
       "assetGroup": "Oracle of Preferences ZK by Virtuals::OOPZ",
       "currencyId": "Oracle of Preferences ZK by Virtuals::OOPZ",
+      "tags": ["coingecko", "biconomy-gas-token"]
+    },
+    "0xa2d4aec94ba0896d95ccc5451c9525b9ec0314de": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Sniper Search",
+      "address": "0xa2d4aec94ba0896d95ccc5451c9525b9ec0314de",
+      "symbol": "SS",
+      "logoURI": "https://assets.coingecko.com/coins/images/66480/thumb/ttdch2al9o7vv569j2dw70um554u.?1749484976",
+      "assetGroup": "Sniper Search::SS",
+      "currencyId": "Sniper Search::SS",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xd6a34b430c05ac78c24985f8abee2616bc1788cb": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Wrapped Avalanche  Universal ",
+      "address": "0xd6a34b430c05ac78c24985f8abee2616bc1788cb",
+      "symbol": "UAVAX",
+      "logoURI": "https://assets.coingecko.com/coins/images/66473/thumb/UA-AVAX.png?1749481568",
+      "assetGroup": "Wrapped Avalanche  Universal ::UAVAX",
+      "currencyId": "Wrapped Avalanche  Universal ::UAVAX",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x0a455245148fa54129d8266f5d8742dd0d05f0c6": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "ARTSTED",
+      "address": "0x0a455245148fa54129d8266f5d8742dd0d05f0c6",
+      "symbol": "ARTS",
+      "logoURI": "https://assets.coingecko.com/coins/images/66477/thumb/zunzlml0qsw364riq9fpaa4g49z6.?1749483261",
+      "assetGroup": "ARTSTED::ARTS",
+      "currencyId": "ARTSTED::ARTS",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x019029665a6e73ef98e1970f8a5434b3de38d41c": {
+      "chainId": "8453",
+      "decimals": 6,
+      "name": "CalcifyTech",
+      "address": "0x019029665a6e73ef98e1970f8a5434b3de38d41c",
+      "symbol": "CALCIFY",
+      "logoURI": "https://assets.coingecko.com/coins/images/66504/thumb/FIUVQPxr_400x400.jpg?1749575179",
+      "assetGroup": "CalcifyTech::CALCIFY",
+      "currencyId": "CalcifyTech::CALCIFY",
+      "tags": ["coingecko"]
+    },
+    "0x2b5050f01d64fbb3e4ac44dc07f0732bfb5ecadf": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "QR coin",
+      "address": "0x2b5050f01d64fbb3e4ac44dc07f0732bfb5ecadf",
+      "symbol": "QR",
+      "logoURI": "https://assets.coingecko.com/coins/images/66513/thumb/8er336q7c7kf20ul7ag9e2zjptev.?1749596670",
+      "assetGroup": "QR coin::QR",
+      "currencyId": "QR coin::QR",
+      "tags": ["coingecko"]
+    },
+    "0xb8b7dfacec9abbcb0093f1344c41cb7263c4795a": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Arcturian AI by Virtuals",
+      "address": "0xb8b7dfacec9abbcb0093f1344c41cb7263c4795a",
+      "symbol": "LIGHT",
+      "logoURI": "https://assets.coingecko.com/coins/images/66495/thumb/4by4.jpeg?1749570259",
+      "assetGroup": "Arcturian AI by Virtuals::LIGHT",
+      "currencyId": "Arcturian AI by Virtuals::LIGHT",
+      "tags": ["coingecko"]
+    },
+    "0xbe1518af2419b8ead1fbca138a676d559fedb51d": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Nexa",
+      "address": "0xbe1518af2419b8ead1fbca138a676d559fedb51d",
+      "symbol": "NXA",
+      "logoURI": "https://assets.coingecko.com/coins/images/66494/thumb/NXA-cg.png?1749569512",
+      "assetGroup": "Nexa::NXA",
+      "currencyId": "Nexa::NXA",
       "tags": ["coingecko"]
     }
   },

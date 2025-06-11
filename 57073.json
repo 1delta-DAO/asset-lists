@@ -155,6 +155,17 @@
       "assetGroup": "Superseed::SUPR",
       "currencyId": "Superseed::SUPR",
       "tags": ["coingecko"]
+    },
+    "0xa802bccd14f7e78e48ffe0c9cf9ad0273c77d4b0": {
+      "chainId": "57073",
+      "decimals": 6,
+      "name": "Ink USDT Veda Vault",
+      "address": "0xa802bccd14f7e78e48ffe0c9cf9ad0273c77d4b0",
+      "symbol": "INKEDUSDT",
+      "logoURI": "https://assets.coingecko.com/coins/images/66510/thumb/usdt.png?1749593577",
+      "assetGroup": "Ink USDT Veda Vault::INKEDUSDT",
+      "currencyId": "Ink USDT Veda Vault::INKEDUSDT",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -171,7 +182,8 @@
     "0x3d63825b0d8669307366e6c8202f656b9e91d368",
     "0xae4efbc7736f963982aacb17efa37fcbab924cb3",
     "0xc99f5c922dae05b6e2ff83463ce705ef7c91f077",
-    "0x17906b1cd88aa8efaefc5e82891b52a22219bd45"
+    "0x17906b1cd88aa8efaefc5e82891b52a22219bd45",
+    "0xa802bccd14f7e78e48ffe0c9cf9ad0273c77d4b0"
   ],
   "bridgeTokens": [
     "0xf1815bd50389c46847f0bda824ec8da914045d14",

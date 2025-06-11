@@ -137,7 +137,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0xecf21b335b41f9d5a89f6186a99c19a3c467871f/small/token-logo.png",
       "assetGroup": "satUSD::Satoshi Stablecoin V2",
       "currencyId": "satUSD::Satoshi Stablecoin V2",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0xc96de26018a54d51c097160568752c4e3bd6c364": {
       "chainId": "60808",
@@ -148,7 +148,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0xc96de26018a54d51c097160568752c4e3bd6c364/small/token-logo.png",
       "assetGroup": "FBTC",
       "currencyId": "Fire Bitcoin::FBTC",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0x541fd749419ca806a8bc7da8ac23d346f2df8b77": {
       "chainId": "60808",
@@ -159,18 +159,18 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0x541fd749419ca806a8bc7da8ac23d346f2df8b77/small/token-logo.png",
       "assetGroup": "SOLVBTC",
       "currencyId": "Solv BTC::SolvBTC",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0xa45d4121b3d47719ff57a947a9d961539ba33204": {
       "chainId": "60808",
       "decimals": 8,
-      "name": "Lombard Staked Bitcoin",
+      "name": "Lombard Staked BTC",
       "address": "0xa45d4121b3d47719ff57a947a9d961539ba33204",
       "symbol": "LBTC",
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0xa45d4121b3d47719ff57a947a9d961539ba33204/small/token-logo.svg",
       "assetGroup": "Lombard Staked Bitcoin::LBTC",
       "currencyId": "Lombard Staked Bitcoin::LBTC",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0x9998e05030aee3af9ad3df35a34f5c51e1628779": {
       "chainId": "60808",
@@ -181,7 +181,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0x9998e05030aee3af9ad3df35a34f5c51e1628779/small/token-logo.svg",
       "assetGroup": "Hybrid Bitcoin::HybridBTC.pendle",
       "currencyId": "Hybrid Bitcoin::HybridBTC.pendle",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0x2d1da9a6a23724cbd65188b3f9a6758f2a57c059": {
       "chainId": "60808",
@@ -192,7 +192,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0x2d1da9a6a23724cbd65188b3f9a6758f2a57c059/small/token-logo.png",
       "assetGroup": "PepeBOB::PEBOB",
       "currencyId": "PepeBOB::PEBOB",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0x236f8c0a61da474db21b693fb2ea7aab0c803894": {
       "chainId": "60808",
@@ -203,7 +203,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0x236f8c0a61da474db21b693fb2ea7aab0c803894/small/token-logo.png",
       "assetGroup": "UNIBTC",
       "currencyId": "uniBTC::uniBTC",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0xdb3f2cae7e6f711282ecd7cba3739e1f5b4fbb99": {
       "chainId": "60808",
@@ -214,7 +214,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0xdb3f2cae7e6f711282ecd7cba3739e1f5b4fbb99/small/token-logo.svg",
       "assetGroup": "xBTC::xBTC",
       "currencyId": "xBTC::xBTC",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0x78fea795cbfcc5ffd6fb5b845a4f53d25c283bdb": {
       "chainId": "60808",
@@ -225,7 +225,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0x78fea795cbfcc5ffd6fb5b845a4f53d25c283bdb/small/token-logo.png",
       "assetGroup": "Satoshi Stablecoin::satUSD",
       "currencyId": "Satoshi Stablecoin::satUSD",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0x85473255b6a895865a8b5f088dde75d43909d13e": {
       "chainId": "60808",
@@ -235,7 +235,7 @@
       "symbol": "DOG",
       "assetGroup": "DOG::DOG",
       "currencyId": "DOG::DOG",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0x7414f14497be308e30ee345a0dcfc43623c179c2": {
       "chainId": "60808",
@@ -245,7 +245,7 @@
       "symbol": "seUSDT",
       "assetGroup": "Segment USDT::seUSDT",
       "currencyId": "Segment USDT::seUSDT",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0xc344000a28f00e879c566f1ec259da24d6279592": {
       "chainId": "60808",
@@ -255,7 +255,7 @@
       "symbol": "Segment USDC",
       "assetGroup": "seUSDC::Segment USDC",
       "currencyId": "seUSDC::Segment USDC",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0xcc0966d8418d412c599a6421b760a847eb169a8c": {
       "chainId": "60808",
@@ -265,7 +265,7 @@
       "symbol": "SolvBTC Babylon",
       "assetGroup": "SolvBTC.BBN::SolvBTC Babylon",
       "currencyId": "SolvBTC.BBN::SolvBTC Babylon",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     }
   },
   "mainTokens": [

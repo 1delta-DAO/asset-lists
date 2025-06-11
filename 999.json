@@ -595,6 +595,17 @@
       "assetGroup": "PrimeFi::PRFI::999::0",
       "currencyId": "PrimeFi::PRFI",
       "tags": ["biconomy-gas-token"]
+    },
+    "0x738dd55c272b0b686382f62dd4a590056839f4f6": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "Holy Liquid",
+      "address": "0x738dd55c272b0b686382f62dd4a590056839f4f6",
+      "symbol": "HL",
+      "logoURI": "https://assets.coingecko.com/coins/images/66502/thumb/1500x500.jpeg?1749574229",
+      "assetGroup": "Holy Liquid::HL",
+      "currencyId": "Holy Liquid::HL",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -630,7 +641,8 @@
     "0x0ad339d66bf4aed5ce31c64bc37b3244b6394a77",
     "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
     "0x9b530b0ac8817f4b6c29cff236df85ed33ece660",
-    "0xb2589c360fbb7b3a6ee061359c5a9a2714d26006"
+    "0xb2589c360fbb7b3a6ee061359c5a9a2714d26006",
+    "0x738dd55c272b0b686382f62dd4a590056839f4f6"
   ],
   "bridgeTokens": ["0x7410e69958a8ece2a51c231c8528513d4d668c7a"]
 }

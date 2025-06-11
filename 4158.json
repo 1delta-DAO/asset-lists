@@ -11,7 +11,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000006/0x7bbce15166bbc008ec1adf9b3d6bba0602fce7ba/small/token-logo.png",
       "assetGroup": "USDC",
       "currencyId": "USD Coin::USDC",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["debridge"]
     },
     "0xc537d12bd626b135b251cca43283eff69ec109c4": {
       "chainId": "4158",
@@ -22,9 +22,9 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000006/0xc537d12bd626b135b251cca43283eff69ec109c4/small/token-logo.png",
       "assetGroup": "Wrapped XFI::WXFI",
       "currencyId": "Wrapped XFI::WXFI",
-      "tags": [{ "name": "debridge-verified", "sourceUrl": null }, "debridge"]
+      "tags": ["wnative", "debridge"]
     }
   },
-  "mainTokens": ["0x7bbce15166bbc008ec1adf9b3d6bba0602fce7ba"],
+  "mainTokens": ["0x7bbce15166bbc008ec1adf9b3d6bba0602fce7ba", "0xc537d12bd626b135b251cca43283eff69ec109c4"],
   "bridgeTokens": ["0x7bbce15166bbc008ec1adf9b3d6bba0602fce7ba"]
 }
