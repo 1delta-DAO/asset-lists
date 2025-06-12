@@ -261,6 +261,29 @@
       "symbol": "Bridged egETH",
       "assetGroup": "Bridged egETH::Bridged egETH",
       "currencyId": "Bridged egETH::Bridged egETH",
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/egeth.png",
+      "tags": ["bridged"]
+    },
+    "0xbf7d0f62b64b23053949b3a88a03da5bfd35b2e2": {
+      "chainId": "43111",
+      "decimals": 18,
+      "name": "Metronome Synth ETH",
+      "address": "0xbf7d0f62b64b23053949b3a88a03da5bfd35b2e2",
+      "symbol": "msETH",
+      "assetGroup": "msETH::Metronome Synth ETH",
+      "currencyId": "msETH::Metronome Synth ETH",
+      "logoURI": "https://cdn.sushi.com/image/upload/f_auto,c_limit,w_32/d_unknown.png/tokens/43111/0xBF7d0F62B64B23053949B3a88a03da5Bfd35b2E2.jpg",
+      "tags": ["bridged"]
+    },
+    "0x1855911ab07ed5cd056008f409b709dfa9d01183": {
+      "chainId": "43111",
+      "decimals": 18,
+      "name": "Metronome Synth BTC",
+      "address": "0x1855911ab07ed5cd056008f409b709dfa9d01183",
+      "symbol": "msBTC",
+      "assetGroup": "msBTC::Metronome Synth BTC",
+      "currencyId": "msBTC::Metronome Synth BTC",
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/msbtc.png",
       "tags": ["bridged"]
     },
     "0x1c22531aa9747d76fff8f0a43b37954ca67d28e0": {
