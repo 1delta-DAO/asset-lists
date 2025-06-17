@@ -1827,6 +1827,7 @@
       "name": "Staked Stream USD",
       "address": "0x6202b9f02e30e5e1c62cc01e4305450e5d83b926",
       "symbol": "xUSD",
+      "logoURI": "https://app.streamprotocol.money/assets/usdc-a6e16350.svg",
       "assetGroup": "Staked Stream USD::xUSD",
       "currencyId": "Staked Stream USD::xUSD"
     },
@@ -1926,7 +1927,158 @@
       "logoURI": "https://assets.coingecko.com/coins/images/31633/thumb/200x200_Black.png?1747800050",
       "assetGroup": "zkSwap Finance::ZF",
       "currencyId": "zkSwap Finance::ZF",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
+    },
+    "0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Rezerve.money",
+      "address": "0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5",
+      "symbol": "RZR",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/rzr.png",
+      "assetGroup": "Rezerve.money::RZR",
+      "currencyId": "Rezerve.money::RZR"
+    },
+    "0xeeeeeee6d95e55a468d32feb5d6648754d10a967": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "Wrapped Stability USDC",
+      "address": "0xeeeeeee6d95e55a468d32feb5d6648754d10a967",
+      "symbol": "wmetaUSDC",
+      "assetGroup": "Wrapped Stability USDC::wmetaUSDC",
+      "currencyId": "Wrapped Stability USDC::wmetaUSDC"
+    },
+    "0xcccccccca9fc69a2b32408730011edb3205a93a1": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "Wrapped Stability scUSD",
+      "address": "0xcccccccca9fc69a2b32408730011edb3205a93a1",
+      "symbol": "wmetascUSD",
+      "assetGroup": "Wrapped Stability scUSD::wmetascUSD",
+      "currencyId": "Wrapped Stability scUSD::wmetascUSD"
+    },
+    "0x53e24706d6642ca495498557415b1af7a025d8da": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "USD+",
+      "address": "0x53e24706d6642ca495498557415b1af7a025d8da",
+      "symbol": "USD+",
+      "assetGroup": "USD+::USD+",
+      "currencyId": "USD+::USD+"
+    },
+    "0x6ba47940f738175d3f8c22aa8ee8606eaae45eb2": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "SupraFi Staked Sonic",
+      "address": "0x6ba47940f738175d3f8c22aa8ee8606eaae45eb2",
+      "symbol": "sS",
+      "logoURI": "https://static.debank.com/image/sonic_token/logo_url/0x6ba47940f738175d3f8c22aa8ee8606eaae45eb2/ff87efacbb9a3d3cfae7094856de52eb.png",
+      "assetGroup": "SupraFi Staked Sonic::sS",
+      "currencyId": "SupraFi Staked Sonic::sS"
+    },
+    "0x777cf5ba9c291a1a8f57ff14836f6f9dc5c0f9dd": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Solidly",
+      "address": "0x777cf5ba9c291a1a8f57ff14836f6f9dc5c0f9dd",
+      "symbol": "SOLID",
+      "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x777cf5ba9c291a1a8f57ff14836f6f9dc5c0f9dd/44b66c1d52d5ca4fd0f0444d30d240c3.png",
+      "assetGroup": "Solidly::SOLID",
+      "currencyId": "Solidly::SOLID"
+    },
+    "0xc96de26018a54d51c097160568752c4e3bd6c364": {
+      "chainId": "146",
+      "decimals": 8,
+      "name": "Fire Bitcoin",
+      "address": "0xc96de26018a54d51c097160568752c4e3bd6c364",
+      "symbol": "FBTC",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc96de26018a54d51c097160568752c4e3bd6c364/fef24aea0e8d4cdd45f26eb5cd0e6c5e.png",
+      "assetGroup": "FBTC",
+      "currencyId": "Fire Bitcoin::FBTC"
+    },
+    "0x6c5e14a212c1c3e4baf6f871ac9b1a969918c131": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Aave Sonic wS",
+      "address": "0x6c5e14a212c1c3e4baf6f871ac9b1a969918c131",
+      "symbol": "aSonwS",
+      "assetGroup": "Aave Sonic wS::aSonwS",
+      "currencyId": "Aave Sonic wS::aSonwS"
+    },
+    "0x43edd7f3831b08fe70b7555ddd373c8bf65a9050": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Frax Ether",
+      "address": "0x43edd7f3831b08fe70b7555ddd373c8bf65a9050",
+      "symbol": "frxETH",
+      "logoURI": "https://static.debank.com/image/frax_token/logo_url/frax/4313f25f6c5196e8fce2c80fa34c73d0.png",
+      "assetGroup": "FRXETH",
+      "currencyId": "Frax Ether::frxETH"
+    },
+    "0x3ec3849c33291a9ef4c5db86de593eb4a37fde45": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Staked Frax Ether",
+      "address": "0x3ec3849c33291a9ef4c5db86de593eb4a37fde45",
+      "symbol": "sfrxETH",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xac3e018457b222d93114458476f3e3416abbe38f/b0802881acff20fd906a2e189a4ea882.png",
+      "assetGroup": "SFRXETH",
+      "currencyId": "Staked Frax Ether::sfrxETH"
+    },
+    "0xe18ab82c81e7eecff32b8a82b1b7d2d23f1ece96": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Aave Sonic WETH",
+      "address": "0xe18ab82c81e7eecff32b8a82b1b7d2d23f1ece96",
+      "symbol": "aSonWETH",
+      "assetGroup": "Aave Sonic WETH::aSonWETH",
+      "currencyId": "Aave Sonic WETH::aSonWETH"
+    },
+    "0xeaa74d7f42267eb907092af4bc700f667eed0b8b": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Aave Sonic stS",
+      "address": "0xeaa74d7f42267eb907092af4bc700f667eed0b8b",
+      "symbol": "aSonstS",
+      "assetGroup": "Aave Sonic stS::aSonstS",
+      "currencyId": "Aave Sonic stS::aSonstS"
+    },
+    "0x9e462d5603bb983b74e941ebd5ce9ea76f3a9e1e": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "BMX: Sonic Liquidity Token",
+      "address": "0x9e462d5603bb983b74e941ebd5ce9ea76f3a9e1e",
+      "symbol": "SLT",
+      "assetGroup": "BMX: Sonic Liquidity Token::SLT",
+      "currencyId": "BMX: Sonic Liquidity Token::SLT"
+    },
+    "0x2ddcf85d3cf27dea338e0371d38409ba80058630": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "BMX: Wrapped Sonic Liquidity Token",
+      "address": "0x2ddcf85d3cf27dea338e0371d38409ba80058630",
+      "symbol": "wSLT",
+      "logoURI": "https://static.debank.com/image/sonic_token/logo_url/0x2ddcf85d3cf27dea338e0371d38409ba80058630/5e4c9f5fb0caf52fc084489cf79ed1af.png",
+      "assetGroup": "BMX: Wrapped Sonic Liquidity Token::wSLT",
+      "currencyId": "BMX: Wrapped Sonic Liquidity Token::wSLT"
+    },
+    "0xd75787ba9aba324420d522bda84c08c87e5099b1": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "KelpDao Restaked ETH",
+      "address": "0xd75787ba9aba324420d522bda84c08c87e5099b1",
+      "symbol": "rsETH",
+      "assetGroup": "RSETH",
+      "currencyId": "KelpDao Restaked ETH::rsETH"
+    },
+    "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "OpenUSDT",
+      "address": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+      "symbol": "oUSDT",
+      "assetGroup": "OpenUSDT::oUSDT",
+      "currencyId": "OpenUSDT::oUSDT"
     }
   },
   "mainTokens": [

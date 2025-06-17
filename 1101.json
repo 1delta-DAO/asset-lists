@@ -521,6 +521,85 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/15264/large/mimatic-red.png?1696514916",
       "assetGroup": "MAI::MIMATIC",
       "currencyId": "MAI::MIMATIC"
+    },
+    "0xa61beb4a3d02decb01039e378237032b351125b4": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "EURA (previously agEUR)",
+      "address": "0xa61beb4a3d02decb01039e378237032b351125b4",
+      "symbol": "EURA",
+      "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/EURA.svg",
+      "assetGroup": "EURA (previously agEUR)::EURA",
+      "currencyId": "EURA (previously agEUR)::EURA"
+    },
+    "0x615b25500403eb688be49221b303084d9cf0e5b4": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Mai Stablecoin",
+      "address": "0x615b25500403eb688be49221b303084d9cf0e5b4",
+      "symbol": "MAI",
+      "logoURI": "https://static.debank.com/image/pze_token/logo_url/0x615b25500403eb688be49221b303084d9cf0e5b4/c5d9d1dfb990c25f098f53d98e7bf10a.png",
+      "assetGroup": "Mai Stablecoin::MAI",
+      "currencyId": "Mai Stablecoin::MAI"
+    },
+    "0xcd68dff4415358c35a28f96fd5bf7083b22de1d6": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Wrapped eETH",
+      "address": "0xcd68dff4415358c35a28f96fd5bf7083b22de1d6",
+      "symbol": "weETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/33033/small/weETH.png",
+      "assetGroup": "WEETH",
+      "currencyId": "Wrapped eETH::weETH"
+    },
+    "0x0000206329b97db379d5e1bf586bbdb969c63274": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "USDA",
+      "address": "0x0000206329b97db379d5e1bf586bbdb969c63274",
+      "symbol": "USDA",
+      "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg",
+      "assetGroup": "USDA::USDA",
+      "currencyId": "USDA::USDA"
+    },
+    "0x80eede496655fb9047dd39d9f418d5483ed600df": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Frax USD",
+      "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+      "symbol": "frxUSD",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xcacd6fd266af91b8aed52accc382b4e165586e29/7610ebe75cb08ff21ee6dfb7e1592e25.png",
+      "assetGroup": "FRXUSD",
+      "currencyId": "Frax USD::frxUSD"
+    },
+    "0x3ec3849c33291a9ef4c5db86de593eb4a37fde45": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Staked Frax Ether",
+      "address": "0x3ec3849c33291a9ef4c5db86de593eb4a37fde45",
+      "symbol": "sfrxETH",
+      "logoURI": "https://static.debank.com/image/pze_token/logo_url/0x3ec3849c33291a9ef4c5db86de593eb4a37fde45/b0802881acff20fd906a2e189a4ea882.png",
+      "assetGroup": "Staked Frax Ether::sfrxETH",
+      "currencyId": "Staked Frax Ether::sfrxETH"
+    },
+    "0x43edd7f3831b08fe70b7555ddd373c8bf65a9050": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Frax Ether",
+      "address": "0x43edd7f3831b08fe70b7555ddd373c8bf65a9050",
+      "symbol": "frxETH",
+      "assetGroup": "Frax Ether::frxETH",
+      "currencyId": "Frax Ether::frxETH"
+    },
+    "0x5bff88ca1442c2496f7e475e9e7786383bc070c0": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Staked Frax USD",
+      "address": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
+      "symbol": "sfrxUSD",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xcf62f905562626cfcdd2261162a51fd02fc9c5b6/afe8a7ab1731c4322c252e0e38d034f5.png",
+      "assetGroup": "Staked Frax USD::sfrxUSD",
+      "currencyId": "Staked Frax USD::sfrxUSD"
     }
   },
   "mainTokens": [

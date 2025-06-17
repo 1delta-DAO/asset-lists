@@ -499,6 +499,264 @@
       "assetGroup": "Wrapped BTC (Wormhole)::wh.WBTC",
       "currencyId": "Wrapped BTC (Wormhole)::wh.WBTC",
       "tags": ["wormhole", "bridged"]
+    },
+    "0xfa9343c3897324496a05fc75abed6bac29f8a40f": {
+      "chainId": "1284",
+      "decimals": 18,
+      "name": "WETH",
+      "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
+      "symbol": "WETH",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "assetGroup": "ETH",
+      "currencyId": "WETH::WETH"
+    },
+    "0x922d641a426dcffaef11680e5358f34d97d112e1": {
+      "chainId": "1284",
+      "decimals": 8,
+      "name": "WBTC",
+      "address": "0x922d641a426dcffaef11680e5358f34d97d112e1",
+      "symbol": "WBTC",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
+      "assetGroup": "WBTC::WBTC",
+      "currencyId": "WBTC::WBTC"
+    },
+    "0xffffffff15e1b7e3df971dd813bc394deb899abf": {
+      "chainId": "1284",
+      "decimals": 10,
+      "name": "Bifrost Voucher DOT",
+      "address": "0xffffffff15e1b7e3df971dd813bc394deb899abf",
+      "symbol": "xcvDOT",
+      "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0xffffffff15e1b7e3df971dd813bc394deb899abf/e5a3f58c8e94ba24423a1245ba4227cb.png",
+      "assetGroup": "Bifrost Voucher DOT::xcvDOT",
+      "currencyId": "Bifrost Voucher DOT::xcvDOT"
+    },
+    "0xffffffff4c1cbcd97597339702436d4f18a375ab": {
+      "chainId": "1284",
+      "decimals": 10,
+      "name": "Interlay",
+      "address": "0xffffffff4c1cbcd97597339702436d4f18a375ab",
+      "symbol": "xcINTR",
+      "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0xffffffff4c1cbcd97597339702436d4f18a375ab/14d666b3eec8c29f8d507a9b5664a0b4.png",
+      "assetGroup": "Interlay::xcINTR",
+      "currencyId": "Interlay::xcINTR"
+    },
+    "0xffffffff7cc06abdf7201b350a1265c62c8601d2": {
+      "chainId": "1284",
+      "decimals": 12,
+      "name": "BNC",
+      "address": "0xffffffff7cc06abdf7201b350a1265c62c8601d2",
+      "symbol": "xcBNC",
+      "logoURI": "https://static.debank.com/image/project/logo_url/bifrost/12a460bd2dd0f869030571119f280ba0.png",
+      "assetGroup": "BNC::xcBNC",
+      "currencyId": "BNC::xcBNC"
+    },
+    "0xffffffff7d3875460d4509eb8d0362c611b4e841": {
+      "chainId": "1284",
+      "decimals": 18,
+      "name": "Manta",
+      "address": "0xffffffff7d3875460d4509eb8d0362c611b4e841",
+      "symbol": "xcMANTA",
+      "logoURI": "https://static.debank.com/image/project/logo_url/mantabridge/84bd75bca44bd4ce46e14e71bcb3be51.png",
+      "assetGroup": "Manta::xcMANTA",
+      "currencyId": "Manta::xcMANTA"
+    },
+    "0xffffffff99dabe1a8de0ea22baa6fd48fde96f6c": {
+      "chainId": "1284",
+      "decimals": 18,
+      "name": "Bifrost Voucher GLMR",
+      "address": "0xffffffff99dabe1a8de0ea22baa6fd48fde96f6c",
+      "symbol": "xcvGLMR",
+      "logoURI": "https://static.debank.com/image/chain/logo_url/mobm/a8442077d76b258297181c3e6eb8c9cc.png",
+      "assetGroup": "Bifrost Voucher GLMR::xcvGLMR",
+      "currencyId": "Bifrost Voucher GLMR::xcvGLMR"
+    },
+    "0xffffffffa922fef94566104a6e5a35a4fcddaa9f": {
+      "chainId": "1284",
+      "decimals": 12,
+      "name": "Acala",
+      "address": "0xffffffffa922fef94566104a6e5a35a4fcddaa9f",
+      "symbol": "xcACA",
+      "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0xffffffffa922fef94566104a6e5a35a4fcddaa9f/a0078a52d053752b1a83206de57101a4.png",
+      "assetGroup": "Acala::xcACA",
+      "currencyId": "Acala::xcACA"
+    },
+    "0xffffffff5da2d7214d268375cf8fb1715705fdc6": {
+      "chainId": "1284",
+      "decimals": 10,
+      "name": "DED",
+      "address": "0xffffffff5da2d7214d268375cf8fb1715705fdc6",
+      "symbol": "xcDED",
+      "assetGroup": "DED::xcDED",
+      "currencyId": "DED::xcDED"
+    },
+    "0x29c795559e4db87054ba70fafc454214c20adbd4": {
+      "chainId": "1284",
+      "decimals": 18,
+      "name": "frxETH",
+      "address": "0x29c795559e4db87054ba70fafc454214c20adbd4",
+      "symbol": "frxETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/28284/standard/frxETH_icon.png",
+      "assetGroup": "frxETH::frxETH",
+      "currencyId": "frxETH::frxETH"
+    },
+    "0x1d4c2a246311bb9f827f4c768e277ff5787b7d7e": {
+      "chainId": "1284",
+      "decimals": 18,
+      "name": "MOVR",
+      "address": "0x1d4c2a246311bb9f827f4c768e277ff5787b7d7e",
+      "symbol": "MOVR",
+      "logoURI": "https://assets.coingecko.com/coins/images/17984/small/9285.png",
+      "assetGroup": "MOVR::MOVR",
+      "currencyId": "MOVR::MOVR"
+    },
+    "0xc9baa8cfdde8e328787e29b4b078abf2dadc2055": {
+      "chainId": "1284",
+      "decimals": 18,
+      "name": "BNB",
+      "address": "0xc9baa8cfdde8e328787e29b4b078abf2dadc2055",
+      "symbol": "BNB",
+      "logoURI": "https://assets.coingecko.com/coins/images/825/small/binance-coin-logo.png?1547034615",
+      "assetGroup": "BNB",
+      "currencyId": "BNB::BNB"
+    },
+    "0x0db6729c03c85b0708166ca92801bcb5cac781fc": {
+      "chainId": "1284",
+      "decimals": 18,
+      "name": "Vested SolarBeam Token",
+      "address": "0x0db6729c03c85b0708166ca92801bcb5cac781fc",
+      "symbol": "veSOLAR",
+      "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0x0db6729c03c85b0708166ca92801bcb5cac781fc/dc9aa56dfcfbe3f90c68fbc41ccc4d23.png",
+      "assetGroup": "Vested SolarBeam Token::veSOLAR",
+      "currencyId": "Vested SolarBeam Token::veSOLAR"
+    },
+    "0x0e67601818237834ff8a280312a6f4f4934e6283": {
+      "chainId": "1284",
+      "decimals": 18,
+      "name": "TreasureMaps",
+      "address": "0x0e67601818237834ff8a280312a6f4f4934e6283",
+      "symbol": "TMAP",
+      "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0x0e67601818237834ff8a280312a6f4f4934e6283/e7f6b895d77304c9097701eb43bf0021.png",
+      "assetGroup": "TreasureMaps::TMAP",
+      "currencyId": "TreasureMaps::TMAP"
+    },
+    "0x191cf2602ca2e534c5ccae7bcbf4c46a704bb949": {
+      "chainId": "1284",
+      "decimals": 10,
+      "name": "Wrapped liquid staked DOT",
+      "address": "0x191cf2602ca2e534c5ccae7bcbf4c46a704bb949",
+      "symbol": "wstDOT",
+      "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0x191cf2602ca2e534c5ccae7bcbf4c46a704bb949/679fe2fb09a0893185a761389a4a4e26.png",
+      "assetGroup": "Wrapped liquid staked DOT::wstDOT",
+      "currencyId": "Wrapped liquid staked DOT::wstDOT"
+    },
+    "0x27292cf0016e5df1d8b37306b2a98588acbd6fca": {
+      "chainId": "1284",
+      "decimals": 6,
+      "name": "Axelar Wrapped ATOM",
+      "address": "0x27292cf0016e5df1d8b37306b2a98588acbd6fca",
+      "symbol": "axlATOM",
+      "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x0eb3a705fc54725037cc9e008bdede697f62f335/b91685db7e70217cf1c7f1bb7993ab40.png",
+      "assetGroup": "Axelar Wrapped ATOM::axlATOM",
+      "currencyId": "Axelar Wrapped ATOM::axlATOM",
+      "tags": ["axelar", "bridged"]
+    },
+    "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73": {
+      "chainId": "1284",
+      "decimals": 6,
+      "name": "USDT",
+      "address": "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73",
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+      "assetGroup": "USDT",
+      "currencyId": "USDT::USDT"
+    },
+    "0x4bde98731149093a12579d71338fd3741fe6e5ce": {
+      "chainId": "1284",
+      "decimals": 18,
+      "name": "RiverBoat",
+      "address": "0x4bde98731149093a12579d71338fd3741fe6e5ce",
+      "symbol": "RIB",
+      "assetGroup": "RiverBoat::RIB",
+      "currencyId": "RiverBoat::RIB"
+    },
+    "0x4eeaa1fd27c50c64e77272bcdde68c28f0a3c3d7": {
+      "chainId": "1284",
+      "decimals": 18,
+      "name": "ORB token",
+      "address": "0x4eeaa1fd27c50c64e77272bcdde68c28f0a3c3d7",
+      "symbol": "ORB",
+      "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0x4eeaa1fd27c50c64e77272bcdde68c28f0a3c3d7/b10b66717228a20f48c8175e0d63163f.png",
+      "assetGroup": "ORB token::ORB",
+      "currencyId": "ORB token::ORB"
+    },
+    "0x5b08c27c10927ecd8b75edd8e16cfc448d4bf1e4": {
+      "chainId": "1284",
+      "decimals": 18,
+      "name": "DPS Rum",
+      "address": "0x5b08c27c10927ecd8b75edd8e16cfc448d4bf1e4",
+      "symbol": "RUM",
+      "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0x5b08c27c10927ecd8b75edd8e16cfc448d4bf1e4/8e401a729056daf7fc6cdccc805e4082.png",
+      "assetGroup": "DPS Rum::RUM",
+      "currencyId": "DPS Rum::RUM"
+    },
+    "0x65b09ef8c5a096c5fd3a80f1f7369e56eb932412": {
+      "chainId": "1284",
+      "decimals": 18,
+      "name": "MoonBeans",
+      "address": "0x65b09ef8c5a096c5fd3a80f1f7369e56eb932412",
+      "symbol": "BEANS",
+      "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0x65b09ef8c5a096c5fd3a80f1f7369e56eb932412/3a1cd2dc2076a9e18ea3317df15af50c.png",
+      "assetGroup": "MoonBeans::BEANS",
+      "currencyId": "MoonBeans::BEANS"
+    },
+    "0xecf2adaff1de8a512f6e8bfe67a2c836edb25da3": {
+      "chainId": "1284",
+      "decimals": 10,
+      "name": "xcRMRK",
+      "address": "0xecf2adaff1de8a512f6e8bfe67a2c836edb25da3",
+      "symbol": "xcRMRK",
+      "logoURI": "https://static.debank.com/image/movr_token/logo_url/0xffffffff893264794d9d57e1e0e21e0042af5a0a/fd049786331b33bc6205de366961bb2d.png",
+      "assetGroup": "xcRMRK::xcRMRK",
+      "currencyId": "xcRMRK::xcRMRK"
+    },
+    "0xc806b0600cbafa0b197562a9f7e3b9856866e9bf": {
+      "chainId": "1284",
+      "decimals": 18,
+      "name": "Deuterium",
+      "address": "0xc806b0600cbafa0b197562a9f7e3b9856866e9bf",
+      "symbol": "d2O",
+      "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0xc806b0600cbafa0b197562a9f7e3b9856866e9bf/2b3c2f093ff364558d0a106bf177a051.png",
+      "assetGroup": "Deuterium::d2O",
+      "currencyId": "Deuterium::d2O"
+    },
+    "0xd10078fdbc835726c79533a4a19db40cfad69d7f": {
+      "chainId": "1284",
+      "decimals": 18,
+      "name": "Bananas",
+      "address": "0xd10078fdbc835726c79533a4a19db40cfad69d7f",
+      "symbol": "GLMB",
+      "assetGroup": "Bananas::GLMB",
+      "currencyId": "Bananas::GLMB"
+    },
+    "0xe065ffaf3f7ded69bb5cf5fdd1fd1dda2eee8493": {
+      "chainId": "1284",
+      "decimals": 18,
+      "name": "Take Flight Alpha",
+      "address": "0xe065ffaf3f7ded69bb5cf5fdd1fd1dda2eee8493",
+      "symbol": "TFA",
+      "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0xe065ffaf3f7ded69bb5cf5fdd1fd1dda2eee8493/f1f1c2ec16e8e9c0213ca6b84f82c126.png",
+      "assetGroup": "Take Flight Alpha::TFA",
+      "currencyId": "Take Flight Alpha::TFA"
+    },
+    "0xfa36fe1da08c89ec72ea1f0143a35bfd5daea108": {
+      "chainId": "1284",
+      "decimals": 10,
+      "name": "Liquid staked DOT",
+      "address": "0xfa36fe1da08c89ec72ea1f0143a35bfd5daea108",
+      "symbol": "stDOT",
+      "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0xfa36fe1da08c89ec72ea1f0143a35bfd5daea108/5c351b89eff88c4849a90db8d4216a2d.png",
+      "assetGroup": "Liquid staked DOT::stDOT",
+      "currencyId": "Liquid staked DOT::stDOT"
     }
   },
   "mainTokens": [
@@ -537,7 +795,12 @@
     "0xc234a67a4f840e61ade794be47de455361b52413",
     "0x2cc0a9d8047a5011defe85328a6f26968c8aaa1c",
     "0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
-    "0x085416975fe14c2a731a97ec38b9bf8135231f62"
+    "0x085416975fe14c2a731a97ec38b9bf8135231f62",
+    "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
+    "0x922d641a426dcffaef11680e5358f34d97d112e1",
+    "0xc9baa8cfdde8e328787e29b4b078abf2dadc2055",
+    "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73",
+    "0xe57ebd2d67b462e9926e04a8e33f01cd0d64346d"
   ],
   "bridgeTokens": [
     "0xffffffffea09fb06d082fd1275cd48b191cbcd1d",

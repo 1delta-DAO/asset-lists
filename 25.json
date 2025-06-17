@@ -41,7 +41,7 @@
       "name": "SCRATCH",
       "address": "0x14fb0e7640e7fb7765cfa87cec973ff5465d1c66",
       "symbol": "SCRATCH",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/1666927476896_155315615139336.jpg",
+      "logoURI": "https://static.debank.com/image/cro_token/logo_url/0x14fb0e7640e7fb7765cfa87cec973ff5465d1c66/915735133c3b885c78b8bddb9915f3e9.png",
       "assetGroup": "SCRATCH::SCRATCH",
       "currencyId": "SCRATCH::SCRATCH",
       "tags": ["openocean"]
@@ -140,7 +140,7 @@
       "name": "ToxicDeer Share",
       "address": "0x6f715158d4b1468528da002f5941c72fe4159520",
       "symbol": "XDSHARE",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/1655876302262_17528430919036775.png",
+      "logoURI": "https://static.debank.com/image/cro_token/logo_url/0x6f715158d4b1468528da002f5941c72fe4159520/84d8197bc87f82efc052f3a15897fe9f.png",
       "assetGroup": "ToxicDeer Share::XDSHARE",
       "currencyId": "ToxicDeer Share::XDSHARE",
       "tags": ["openocean"]
@@ -272,7 +272,7 @@
       "name": "Lion Scrub Finance",
       "address": "0x49fb98f9b4a3183cd88e7a115144fdf00fa6fb95",
       "symbol": "LION",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/1650430481582_5122270502592332.png",
+      "logoURI": "https://static.debank.com/image/cro_token/logo_url/0x49fb98f9b4a3183cd88e7a115144fdf00fa6fb95/9da80e442e288567309962fbd94445b6.png",
       "assetGroup": "Lion Scrub Finance::LION",
       "currencyId": "Lion Scrub Finance::LION",
       "tags": ["openocean"]
@@ -294,7 +294,7 @@
       "name": "Tiger Shares",
       "address": "0xd6597aa36dd90d7fccbd7b8a228f2d5cdc88ead0",
       "symbol": "TIGER",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/1650430600190_7772992712943938.png",
+      "logoURI": "https://static.debank.com/image/cro_token/logo_url/0xd6597aa36dd90d7fccbd7b8a228f2d5cdc88ead0/d908a1893d423f5836f30769de564f61.png",
       "assetGroup": "Tiger Shares::TIGER",
       "currencyId": "Tiger Shares::TIGER",
       "tags": ["openocean"]
@@ -360,7 +360,7 @@
       "name": "MIM",
       "address": "0x2bc472832eb20c65f82d6a869db845ab0c0099ba",
       "symbol": "MIM",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/1650434095088_15833178333774311.png",
+      "logoURI": "https://static.debank.com/image/cro_token/logo_url/0x2bc472832eb20c65f82d6a869db845ab0c0099ba/aa79f041c1e6e1f1405963bae9ac1068.png",
       "assetGroup": "MIM::MIM",
       "currencyId": "MIM::MIM",
       "tags": ["openocean"]
@@ -371,7 +371,7 @@
       "name": "Mai Stablecoin",
       "address": "0x1c965d8e53fb1a448789e2b0fa5abc3eb2c36993",
       "symbol": "miMATIC",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/1650434131387_9560618029699941.png",
+      "logoURI": "https://static.debank.com/image/cro_token/logo_url/0x1c965d8e53fb1a448789e2b0fa5abc3eb2c36993/be77e8e47016b1e9d3f01b7edc9b8d4f.png",
       "assetGroup": "MIMATIC",
       "currencyId": "Mai Stablecoin::miMATIC",
       "tags": ["openocean"]
@@ -404,7 +404,7 @@
       "name": "BNB",
       "address": "0xfa9343c3897324496a05fc75abed6bac29f8a40f",
       "symbol": "BNB",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/1650434825923_02176798471215524.png",
+      "logoURI": "https://assets.coingecko.com/coins/images/825/small/binance-coin-logo.png?1547034615",
       "assetGroup": "BNB",
       "currencyId": "BNB::BNB",
       "tags": ["openocean"]
@@ -2904,6 +2904,84 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66399/thumb/46fc1018-20f2-4c15-83ba-f91dc9fcbc58-r222movebg-preview__1_-removebg-preview.png?1749288506",
       "assetGroup": "SCHNITZEL::SNTZL",
       "currencyId": "SCHNITZEL::SNTZL",
+      "tags": ["coingecko"]
+    },
+    "0x0dcb0cb0120d355cde1ce56040be57add0185baa": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "AUTOv2",
+      "address": "0x0dcb0cb0120d355cde1ce56040be57add0185baa",
+      "symbol": "AUTO",
+      "assetGroup": "AUTOv2::AUTO",
+      "currencyId": "AUTOv2::AUTO"
+    },
+    "0x4ff6334aa95affc85f09738eefc866cbea7dc7c6": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "DUO",
+      "address": "0x4ff6334aa95affc85f09738eefc866cbea7dc7c6",
+      "symbol": "DUO",
+      "assetGroup": "DUO::DUO",
+      "currencyId": "DUO::DUO"
+    },
+    "0x637cb66526244029407046867e1e0dfd28b2294e": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "Salem Finance",
+      "address": "0x637cb66526244029407046867e1e0dfd28b2294e",
+      "symbol": "SALEM",
+      "assetGroup": "Salem Finance::SALEM",
+      "currencyId": "Salem Finance::SALEM"
+    },
+    "0x6b66fcb66dba37f99876a15303b759c73fc54ed0": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "Hibiki.finance",
+      "address": "0x6b66fcb66dba37f99876a15303b759c73fc54ed0",
+      "symbol": "cHIBIKI",
+      "logoURI": "https://static.debank.com/image/cro_token/logo_url/0x6b66fcb66dba37f99876a15303b759c73fc54ed0/3ed301e5ca9de79541e656dee2e8ecb7.png",
+      "assetGroup": "Hibiki.finance::cHIBIKI",
+      "currencyId": "Hibiki.finance::cHIBIKI"
+    },
+    "0x4e57e27e4166275eb7f4966b42a201d76e481b03": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "Cougar Token",
+      "address": "0x4e57e27e4166275eb7f4966b42a201d76e481b03",
+      "symbol": "CGS",
+      "logoURI": "https://static.debank.com/image/cro_token/logo_url/0x4e57e27e4166275eb7f4966b42a201d76e481b03/014e7b303e135eb53667f4cd9e78751e.png",
+      "assetGroup": "Cougar Token::CGS",
+      "currencyId": "Cougar Token::CGS"
+    },
+    "0x55210c2a69b4c52a9d9289a257d54d35c4a2d2ec": {
+      "chainId": "25",
+      "decimals": 9,
+      "name": "CroBank",
+      "address": "0x55210c2a69b4c52a9d9289a257d54d35c4a2d2ec",
+      "symbol": "BANK",
+      "logoURI": "https://static.debank.com/image/cro_token/logo_url/0x55210c2a69b4c52a9d9289a257d54d35c4a2d2ec/94ca2de5274e0fee72a93029efa44a39.png",
+      "assetGroup": "CroBank::BANK",
+      "currencyId": "CroBank::BANK"
+    },
+    "0xc9fde867a14376829ab759f4c4871f67e2d3e441": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "Cronosphere",
+      "address": "0xc9fde867a14376829ab759f4c4871f67e2d3e441",
+      "symbol": "SPHERE",
+      "logoURI": "https://static.debank.com/image/cro_token/logo_url/0xc9fde867a14376829ab759f4c4871f67e2d3e441/7323304572b030d0e9f15a2fa3128e46.png",
+      "assetGroup": "Cronosphere::SPHERE",
+      "currencyId": "Cronosphere::SPHERE"
+    },
+    "0x707056bcaf0cd3d2ffa148c5d5771da4efa174ca": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "Eric",
+      "address": "0x707056bcaf0cd3d2ffa148c5d5771da4efa174ca",
+      "symbol": "ERIC",
+      "logoURI": "https://assets.coingecko.com/coins/images/66599/thumb/Screenshot_20250331_210240_Photos__videos.png?1749886241",
+      "assetGroup": "Eric::ERIC",
+      "currencyId": "Eric::ERIC",
       "tags": ["coingecko"]
     }
   },

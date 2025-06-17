@@ -443,6 +443,7 @@
       "name": "Wrapped eETH",
       "address": "0x028227c4dd1e5419d11bb6fa6e661920c519d4f5",
       "symbol": "weETH",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee/6c02f6b3bcd264d433c3676100ad8da6.png",
       "assetGroup": "WEETH",
       "currencyId": "Wrapped eETH::weETH"
     },
@@ -511,8 +512,186 @@
       "name": "Angle USDA",
       "address": "0x0000206329b97db379d5e1bf586bbdb969c63274",
       "symbol": "USDA",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x0000206329b97db379d5e1bf586bbdb969c63274/48490bbb482704401030d0e0eae43610.png",
       "assetGroup": "USDA",
       "currencyId": "Angle USDA::USDA"
+    },
+    "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a": {
+      "chainId": "34443",
+      "decimals": 18,
+      "name": "Wrapped eETH",
+      "address": "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
+      "symbol": "weETH.mode",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee/6c02f6b3bcd264d433c3676100ad8da6.png",
+      "assetGroup": "Wrapped eETH::weETH.mode",
+      "currencyId": "Wrapped eETH::weETH.mode"
+    },
+    "0x59e710215d45f584f44c0fee83da6d43d762d857": {
+      "chainId": "34443",
+      "decimals": 18,
+      "name": "Renzo Restaked ETH",
+      "address": "0x59e710215d45f584f44c0fee83da6d43d762d857",
+      "symbol": "ezETH",
+      "assetGroup": "Renzo Restaked ETH::ezETH",
+      "currencyId": "Renzo Restaked ETH::ezETH"
+    },
+    "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34": {
+      "chainId": "34443",
+      "decimals": 18,
+      "name": "USDe",
+      "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+      "symbol": "USDe",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x4c9edd5852cd905f086c759e8383e09bff1e68b3/734064e545eabfc501b9d0e752644b7d.png",
+      "assetGroup": "USDE",
+      "currencyId": "USDe::USDe"
+    },
+    "0x71ef7eda2be775e5a7aa8afd02c45f059833e9d2": {
+      "chainId": "34443",
+      "decimals": 18,
+      "name": "Ionic Wrapped Ether",
+      "address": "0x71ef7eda2be775e5a7aa8afd02c45f059833e9d2",
+      "symbol": "ionWETH",
+      "assetGroup": "Ionic Wrapped Ether::ionWETH",
+      "currencyId": "Ionic Wrapped Ether::ionWETH"
+    },
+    "0x2be717340023c9e14c1bb12cb3ecbcfd3c3fb038": {
+      "chainId": "34443",
+      "decimals": 6,
+      "name": "Ionic USD Coin",
+      "address": "0x2be717340023c9e14c1bb12cb3ecbcfd3c3fb038",
+      "symbol": "ionUSDC",
+      "assetGroup": "Ionic USD Coin::ionUSDC",
+      "currencyId": "Ionic USD Coin::ionUSDC"
+    },
+    "0x7f9adfbd38b669f03d1d11000bc76b9aaea28a81": {
+      "chainId": "34443",
+      "decimals": 18,
+      "name": "Superchain Velodrome",
+      "address": "0x7f9adfbd38b669f03d1d11000bc76b9aaea28a81",
+      "symbol": "XVELO",
+      "assetGroup": "Superchain Velodrome::XVELO",
+      "currencyId": "Superchain Velodrome::XVELO"
+    },
+    "0x00ea4344e90c741560f08667961a8de39ff506d7": {
+      "chainId": "34443",
+      "decimals": 18,
+      "name": "Dola USD Stablecoin",
+      "address": "0x00ea4344e90c741560f08667961a8de39ff506d7",
+      "symbol": "DOLA",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x865377367054516e17014ccded1e7d814edc9ce4/0c348eedfa7f89d3db2919e0a18988ea.png",
+      "assetGroup": "DOLA",
+      "currencyId": "Dola USD Stablecoin::DOLA"
+    },
+    "0x19f245782b1258cf3e11eda25784a378cc18c108": {
+      "chainId": "34443",
+      "decimals": 18,
+      "name": "Ionic Merlin BTC",
+      "address": "0x19f245782b1258cf3e11eda25784a378cc18c108",
+      "symbol": "ionM-BTC",
+      "assetGroup": "Ionic Merlin BTC::ionM-BTC",
+      "currencyId": "Ionic Merlin BTC::ionM-BTC"
+    },
+    "0x49950319abe7ce5c3a6c90698381b45989c99b46": {
+      "chainId": "34443",
+      "decimals": 18,
+      "name": "Ionic rsETHWrapper",
+      "address": "0x49950319abe7ce5c3a6c90698381b45989c99b46",
+      "symbol": "ionwrsETH",
+      "assetGroup": "Ionic rsETHWrapper::ionwrsETH",
+      "currencyId": "Ionic rsETHWrapper::ionwrsETH"
+    },
+    "0x58538e6a46e07434d7e7375bc268d3cb839c0133": {
+      "chainId": "34443",
+      "decimals": 18,
+      "name": "ENA",
+      "address": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
+      "symbol": "ENA",
+      "logoURI": "https://static.debank.com/image/mode_token/logo_url/0x58538e6a46e07434d7e7375bc268d3cb839c0133/20d567bc301b43d0d2131731f7ac4736.png",
+      "assetGroup": "ENA::ENA",
+      "currencyId": "ENA::ENA"
+    },
+    "0x94812f2eea03a49869f95e1b5868c6f3206ee3d3": {
+      "chainId": "34443",
+      "decimals": 6,
+      "name": "Ionic Tether USD",
+      "address": "0x94812f2eea03a49869f95e1b5868c6f3206ee3d3",
+      "symbol": "ionUSDT",
+      "assetGroup": "Ionic Tether USD::ionUSDT",
+      "currencyId": "Ionic Tether USD::ionUSDT"
+    },
+    "0x959fa710ccbb22c7ce1e59da82a247e686629310": {
+      "chainId": "34443",
+      "decimals": 18,
+      "name": "Ionic StakeStone Ether",
+      "address": "0x959fa710ccbb22c7ce1e59da82a247e686629310",
+      "symbol": "ionSTONE",
+      "assetGroup": "Ionic StakeStone Ether::ionSTONE",
+      "currencyId": "Ionic StakeStone Ether::ionSTONE"
+    },
+    "0x9a9072302b775ffbd3db79a7766e75cf82bcac0a": {
+      "chainId": "34443",
+      "decimals": 18,
+      "name": "Ionic Wrapped eETH",
+      "address": "0x9a9072302b775ffbd3db79a7766e75cf82bcac0a",
+      "symbol": "ionweETH",
+      "assetGroup": "Ionic Wrapped eETH::ionweETH",
+      "currencyId": "Ionic Wrapped eETH::ionweETH"
+    },
+    "0xa0d844742b4abbbc43d8931a6edb00c56325aa18": {
+      "chainId": "34443",
+      "decimals": 18,
+      "name": "Ionic Wrapped eETH",
+      "address": "0xa0d844742b4abbbc43d8931a6edb00c56325aa18",
+      "symbol": "ionweETH.mode",
+      "assetGroup": "Ionic Wrapped eETH::ionweETH.mode",
+      "currencyId": "Ionic Wrapped eETH::ionweETH.mode"
+    },
+    "0xd70254c3bad29504789714a7c69d60ec1127375c": {
+      "chainId": "34443",
+      "decimals": 8,
+      "name": "Ionic Wrapped Bitcoin",
+      "address": "0xd70254c3bad29504789714a7c69d60ec1127375c",
+      "symbol": "ionWBTC",
+      "assetGroup": "Ionic Wrapped Bitcoin::ionWBTC",
+      "currencyId": "Ionic Wrapped Bitcoin::ionWBTC"
+    },
+    "0x183e3691eff3524b2315d3703d94f922cbe51f54": {
+      "chainId": "34443",
+      "decimals": 18,
+      "name": "ChainLink Token",
+      "address": "0x183e3691eff3524b2315d3703d94f922cbe51f54",
+      "symbol": "LINK",
+      "assetGroup": "LINK",
+      "currencyId": "ChainLink Token::LINK"
+    },
+    "0x43edd7f3831b08fe70b7555ddd373c8bf65a9050": {
+      "chainId": "34443",
+      "decimals": 18,
+      "name": "Frax Ether",
+      "address": "0x43edd7f3831b08fe70b7555ddd373c8bf65a9050",
+      "symbol": "frxETH",
+      "assetGroup": "FRXETH",
+      "currencyId": "Frax Ether::frxETH"
+    },
+    "0x98f96a4b34d03a2e6f225b28b8f8cb1279562d81": {
+      "chainId": "34443",
+      "decimals": 18,
+      "name": "Wrapped liquid staked Ether 2.0",
+      "address": "0x98f96a4b34d03a2e6f225b28b8f8cb1279562d81",
+      "symbol": "wstETH",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0/d0405a0d11669d4e75286d8dd808e19b.png",
+      "assetGroup": "WSTETH",
+      "currencyId": "Wrapped liquid staked Ether 2.0::wstETH"
+    },
+    "0x3ec3849c33291a9ef4c5db86de593eb4a37fde45": {
+      "chainId": "34443",
+      "decimals": 18,
+      "name": "Staked Frax Ether",
+      "address": "0x3ec3849c33291a9ef4c5db86de593eb4a37fde45",
+      "symbol": "sfrxETH",
+      "logoURI": "https://static.debank.com/image/mode_token/logo_url/0x3ec3849c33291a9ef4c5db86de593eb4a37fde45/b0802881acff20fd906a2e189a4ea882.png",
+      "assetGroup": "SFRXETH",
+      "currencyId": "Staked Frax Ether::sfrxETH"
     }
   },
   "mainTokens": [

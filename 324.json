@@ -162,6 +162,7 @@
       "name": "Bridged BUSD (Celer)",
       "address": "0x2039bb4116b4efc145ec4f0e2ea75012d6c0f181",
       "symbol": "BUSD",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x4fabb145d64652a948d72533023f6e7a623c7c53/a2442d82345bd7fcba54c5b380aeaf36.png",
       "assetGroup": "BUSD",
       "currencyId": "Bridged BUSD (Celer)::BUSD",
       "tags": ["celer", "bridged", "coingecko"]
@@ -1187,6 +1188,304 @@
       "assetGroup": "Tradable NA Rent Financing Platform SST::PC0000031",
       "currencyId": "Tradable NA Rent Financing Platform SST::PC0000031",
       "tags": ["coingecko"]
+    },
+    "0xc1fa6e2e8667d9be0ca938a54c7e0285e9df924a": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "Wrapped eETH",
+      "address": "0xc1fa6e2e8667d9be0ca938a54c7e0285e9df924a",
+      "symbol": "weETH",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee/6c02f6b3bcd264d433c3676100ad8da6.png",
+      "assetGroup": "WEETH",
+      "currencyId": "Wrapped eETH::weETH"
+    },
+    "0x016341e6da8da66b33fd32189328c102f32da7cc": {
+      "chainId": "324",
+      "decimals": 6,
+      "name": "ZeroLend zK USDC",
+      "address": "0x016341e6da8da66b33fd32189328c102f32da7cc",
+      "symbol": "z0USDC",
+      "assetGroup": "ZeroLend zK USDC::z0USDC",
+      "currencyId": "ZeroLend zK USDC::z0USDC"
+    },
+    "0xdb89d7b0dccd0c0e5ac3571133a9aa1a037945cb": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "dForce USD",
+      "address": "0xdb89d7b0dccd0c0e5ac3571133a9aa1a037945cb",
+      "symbol": "USX",
+      "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xcf66eb3d546f0415b368d98a95eaf56ded7aa752/09298f687c07bdcfab0137f654cd17e9.png",
+      "assetGroup": "dForce USD::USX",
+      "currencyId": "dForce USD::USX"
+    },
+    "0x28a487240e4d45cff4a2980d334cc933b7483842": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "Matic Token",
+      "address": "0x28a487240e4d45cff4a2980d334cc933b7483842",
+      "symbol": "MATIC",
+      "logoURI": "https://static.debank.com/image/era_token/logo_url/0x28a487240e4d45cff4a2980d334cc933b7483842/f6e604ba0324726a3d687c618aa4f163.png",
+      "assetGroup": "POL",
+      "currencyId": "Matic Token::MATIC"
+    },
+    "0x7400793aad94c8ca801aa036357d10f5fd0ce08f": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "Binance Coin",
+      "address": "0x7400793aad94c8ca801aa036357d10f5fd0ce08f",
+      "symbol": "BNB",
+      "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c/1177dec1b9b7f58a799c3f22d93b04e1.png",
+      "assetGroup": "BNB",
+      "currencyId": "Binance Coin::BNB"
+    },
+    "0x32fd44bb869620c0ef993754c8a00be67c464806": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "Rocket Pool ETH",
+      "address": "0x32fd44bb869620c0ef993754c8a00be67c464806",
+      "symbol": "rETH",
+      "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8/6c8aa3f550d300ce84e06f95c496af69.png",
+      "assetGroup": "RETH",
+      "currencyId": "Rocket Pool ETH::rETH"
+    },
+    "0x9002ecb8a06060e3b56669c6b8f18e1c3b119914": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "ZeroLend zK WETH",
+      "address": "0x9002ecb8a06060e3b56669c6b8f18e1c3b119914",
+      "symbol": "z0WETH",
+      "assetGroup": "ZeroLend zK WETH::z0WETH",
+      "currencyId": "ZeroLend zK WETH::z0WETH"
+    },
+    "0x6a5279e99ca7786fb13f827fc1fb4f61684933d6": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "Avalanche",
+      "address": "0x6a5279e99ca7786fb13f827fc1fb4f61684933d6",
+      "symbol": "AVAX",
+      "logoURI": "https://static.debank.com/image/era_token/logo_url/0x6a5279e99ca7786fb13f827fc1fb4f61684933d6/bd8f9f89cdbc0a488114d9a9d5d16b3c.png",
+      "assetGroup": "AVAX",
+      "currencyId": "Avalanche::AVAX"
+    },
+    "0x1382628e018010035999a1ff330447a0751aa84f": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "iZUMi Bond USD",
+      "address": "0x1382628e018010035999a1ff330447a0751aa84f",
+      "symbol": "iUSD",
+      "logoURI": "https://static.debank.com/image/era_token/logo_url/0x1382628e018010035999a1ff330447a0751aa84f/2d4db2979af0e4662d39888f57c4d9d2.png",
+      "assetGroup": "IUSD",
+      "currencyId": "iZUMi Bond USD::iUSD"
+    },
+    "0x7bcd44c0b91be28827426f607424e1a8a02d4e69": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "Ethereum",
+      "address": "0x7bcd44c0b91be28827426f607424e1a8a02d4e69",
+      "symbol": "anyETH",
+      "logoURI": "https://static.debank.com/image/coin/logo_url/eth/6443cdccced33e204d90cb723c632917.png",
+      "assetGroup": "Ethereum::anyETH",
+      "currencyId": "Ethereum::anyETH"
+    },
+    "0xb4c1544cb4163f4c2eca1ae9ce999f63892d912a": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "Frax",
+      "address": "0xb4c1544cb4163f4c2eca1ae9ce999f63892d912a",
+      "symbol": "FRAX",
+      "logoURI": "https://static.debank.com/image/era_token/logo_url/0xb4c1544cb4163f4c2eca1ae9ce999f63892d912a/b51f74f3b0cd24c8d6e4e7297c20ac3d.png",
+      "assetGroup": "FRAX",
+      "currencyId": "Frax::FRAX"
+    },
+    "0xbbd1ba24d589c319c86519646817f2f153c9b716": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "DeversiFi Token",
+      "address": "0xbbd1ba24d589c319c86519646817f2f153c9b716",
+      "symbol": "DVF",
+      "logoURI": "https://static.debank.com/image/era_token/logo_url/0xbbd1ba24d589c319c86519646817f2f153c9b716/f9b255bcd23f4fd182c1c1d462a28fb3.png",
+      "assetGroup": "DeversiFi Token::DVF",
+      "currencyId": "DeversiFi Token::DVF"
+    },
+    "0xc2b13bb90e33f1e191b8aa8f44ce11534d5698e3": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "Furucombo",
+      "address": "0xc2b13bb90e33f1e191b8aa8f44ce11534d5698e3",
+      "symbol": "COMBO",
+      "logoURI": "https://static.debank.com/image/era_token/logo_url/0xc2b13bb90e33f1e191b8aa8f44ce11534d5698e3/30203e2d7d71ff9d10075b214127a06f.png",
+      "assetGroup": "COMBO",
+      "currencyId": "Furucombo::COMBO"
+    },
+    "0xd0ea21ba66b67be636de1ec4bd9696eb8c61e9aa": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "OT",
+      "address": "0xd0ea21ba66b67be636de1ec4bd9696eb8c61e9aa",
+      "symbol": "OT",
+      "logoURI": "https://static.debank.com/image/era_token/logo_url/0xd0ea21ba66b67be636de1ec4bd9696eb8c61e9aa/32b8bba836c356e6f9f35cf4ce9e414b.png",
+      "assetGroup": "OT::OT",
+      "currencyId": "OT::OT"
+    },
+    "0x42c1c56be243c250ab24d2ecdcc77f9ccaa59601": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "Perpetual",
+      "address": "0x42c1c56be243c250ab24d2ecdcc77f9ccaa59601",
+      "symbol": "PERP",
+      "logoURI": "https://static.debank.com/image/era_token/logo_url/0x42c1c56be243c250ab24d2ecdcc77f9ccaa59601/45bdd0d6f76f08ff00481e2ee65ef293.png",
+      "assetGroup": "Perpetual::PERP",
+      "currencyId": "Perpetual::PERP"
+    },
+    "0x75af292c1c9a37b3ea2e6041168b4e48875b9ed5": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "Coinbase Wrapped Staked ETH",
+      "address": "0x75af292c1c9a37b3ea2e6041168b4e48875b9ed5",
+      "symbol": "cbETH",
+      "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x1debd73e752beaf79865fd6446b0c970eae7732f/e5ec1d605518e827e08594b2aff84d7f.png",
+      "assetGroup": "CBETH",
+      "currencyId": "Coinbase Wrapped Staked ETH::cbETH"
+    },
+    "0x7c65e6ec6feceb333092e6fe69672a3475c591fb": {
+      "chainId": "324",
+      "decimals": 8,
+      "name": "ZeroLend zK WBTC",
+      "address": "0x7c65e6ec6feceb333092e6fe69672a3475c591fb",
+      "symbol": "z0WBTC",
+      "assetGroup": "ZeroLend zK WBTC::z0WBTC",
+      "currencyId": "ZeroLend zK WBTC::z0WBTC"
+    },
+    "0x8483bf6d5e45e467f2979c5d51b76100aab60294": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "Okse",
+      "address": "0x8483bf6d5e45e467f2979c5d51b76100aab60294",
+      "symbol": "OKSE",
+      "assetGroup": "Okse::OKSE",
+      "currencyId": "Okse::OKSE"
+    },
+    "0x9ca4806fa54984bf5da4e280b7aa8bb821d21505": {
+      "chainId": "324",
+      "decimals": 6,
+      "name": "ZeroLend zK USDT",
+      "address": "0x9ca4806fa54984bf5da4e280b7aa8bb821d21505",
+      "symbol": "z0USDT",
+      "assetGroup": "ZeroLend zK USDT::z0USDT",
+      "currencyId": "ZeroLend zK USDT::z0USDT"
+    },
+    "0xa51710195cdc29c43d3beeeb6b255cfd97b3dd88": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "Zks",
+      "address": "0xa51710195cdc29c43d3beeeb6b255cfd97b3dd88",
+      "symbol": "ZKS",
+      "assetGroup": "Zks::ZKS",
+      "currencyId": "Zks::ZKS"
+    },
+    "0xb727f8e11bc417c90d4dcaf82eda06cf590533b5": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "ZeroLend zK BUSD",
+      "address": "0xb727f8e11bc417c90d4dcaf82eda06cf590533b5",
+      "symbol": "z0BUSD",
+      "assetGroup": "ZeroLend zK BUSD::z0BUSD",
+      "currencyId": "ZeroLend zK BUSD::z0BUSD"
+    },
+    "0x43cd37cc4b9ec54833c8ac362dd55e58bfd62b86": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "Curve.Fi USD Stablecoin",
+      "address": "0x43cd37cc4b9ec54833c8ac362dd55e58bfd62b86",
+      "symbol": "crvUSD",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xf939e0a03fb07f59a73314e73794be0e57ac1b4e/74af2588cde0b3c6e34e5efb271fb1f3.png",
+      "assetGroup": "CRVUSD",
+      "currencyId": "Curve.Fi USD Stablecoin::crvUSD"
+    },
+    "0xb7b93bcf82519bb757fd18b23a389245dbd8ca64": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "Aave ZkSync WETH",
+      "address": "0xb7b93bcf82519bb757fd18b23a389245dbd8ca64",
+      "symbol": "aZksWETH",
+      "assetGroup": "Aave ZkSync WETH::aZksWETH",
+      "currencyId": "Aave ZkSync WETH::aZksWETH"
+    },
+    "0xc48574bc5358c967d9447e7df70230fdb469e4e7": {
+      "chainId": "324",
+      "decimals": 6,
+      "name": "Aave ZkSync USDT",
+      "address": "0xc48574bc5358c967d9447e7df70230fdb469e4e7",
+      "symbol": "aZksUSDT",
+      "assetGroup": "Aave ZkSync USDT::aZksUSDT",
+      "currencyId": "Aave ZkSync USDT::aZksUSDT"
+    },
+    "0xd4e607633f3d984633e946aea4eb71f92564c1c9": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "Aave ZkSync wstETH",
+      "address": "0xd4e607633f3d984633e946aea4eb71f92564c1c9",
+      "symbol": "aZkswstETH",
+      "assetGroup": "Aave ZkSync wstETH::aZkswstETH",
+      "currencyId": "Aave ZkSync wstETH::aZkswstETH"
+    },
+    "0xd6cd2c0fc55936498726cacc497832052a9b2d1b": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "Aave ZkSync ZK",
+      "address": "0xd6cd2c0fc55936498726cacc497832052a9b2d1b",
+      "symbol": "aZksZK",
+      "assetGroup": "Aave ZkSync ZK::aZksZK",
+      "currencyId": "Aave ZkSync ZK::aZksZK"
+    },
+    "0xe977f9b2a5ccf0457870a67231f23be4daecfbdb": {
+      "chainId": "324",
+      "decimals": 6,
+      "name": "Aave ZkSync USDC",
+      "address": "0xe977f9b2a5ccf0457870a67231f23be4daecfbdb",
+      "symbol": "aZksUSDC",
+      "assetGroup": "Aave ZkSync USDC::aZksUSDC",
+      "currencyId": "Aave ZkSync USDC::aZksUSDC"
+    },
+    "0xe818a67ee5c0531afaa31aa6e20bcac36227a641": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "Aave ZkSync weETH",
+      "address": "0xe818a67ee5c0531afaa31aa6e20bcac36227a641",
+      "symbol": "aZksweETH",
+      "assetGroup": "Aave ZkSync weETH::aZksweETH",
+      "currencyId": "Aave ZkSync weETH::aZksweETH"
+    },
+    "0x5722921bb6c37eaeb78b993765aa5d79cc50052f": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "Aave ZkSync wrsETH",
+      "address": "0x5722921bb6c37eaeb78b993765aa5d79cc50052f",
+      "symbol": "aZkswrsETH",
+      "assetGroup": "Aave ZkSync wrsETH::aZkswrsETH",
+      "currencyId": "Aave ZkSync wrsETH::aZkswrsETH"
+    },
+    "0xfb3fccdd38a96c3f769c62e578323f22c3bfcbec": {
+      "chainId": "324",
+      "decimals": 6,
+      "name": "LatAm Residential SSTL",
+      "address": "0xfb3fccdd38a96c3f769c62e578323f22c3bfcbec",
+      "symbol": "PC0000089",
+      "logoURI": "https://assets.coingecko.com/coins/images/66590/thumb/tradable.jpg?1749832358",
+      "assetGroup": "LatAm Residential SSTL::PC0000089",
+      "currencyId": "LatAm Residential SSTL::PC0000089",
+      "tags": ["coingecko"]
+    },
+    "0xe3d53addadb3f87adc38b4192171aaf5a07a3738": {
+      "chainId": "324",
+      "decimals": 6,
+      "name": "NA Capital as a Service SSTN",
+      "address": "0xe3d53addadb3f87adc38b4192171aaf5a07a3738",
+      "symbol": "PC0016245",
+      "logoURI": "https://assets.coingecko.com/coins/images/66593/thumb/tradable.jpg?1749883324",
+      "assetGroup": "NA Capital as a Service SSTN::PC0016245",
+      "currencyId": "NA Capital as a Service SSTN::PC0016245",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -1223,7 +1522,9 @@
     "0x57fd71a86522dc06d6255537521886057c1772a3",
     "0xac4de1e9a9e83524f24af77972dd39d588de8164",
     "0x2ab105a3ead22731082b790ca9a00d9a3a7627f9",
-    "0xb72207e1fb50f341415999732a20b6d25d8127aa"
+    "0xb72207e1fb50f341415999732a20b6d25d8127aa",
+    "0x7400793aad94c8ca801aa036357d10f5fd0ce08f",
+    "0x6a5279e99ca7786fb13f827fc1fb4f61684933d6"
   ],
   "bridgeTokens": [
     "0xaf08a9d918f16332f22cf8dc9abe9d9e14ddcbc2",

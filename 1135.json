@@ -1,0 +1,74 @@
+{
+  "chainId": "1135",
+  "version": "0",
+  "list": {
+    "0x4200000000000000000000000000000000000006": {
+      "chainId": "1135",
+      "decimals": 18,
+      "name": "WETH",
+      "address": "0x4200000000000000000000000000000000000006",
+      "symbol": "WETH",
+      "logoURI": "https://static.debank.com/image/lyra_token/logo_url/lyra/48bfb74adddd170e936578aec422836d.png",
+      "assetGroup": "ETH",
+      "currencyId": "WETH::WETH"
+    },
+    "0x05d032ac25d322df992303dca074ee7392c117b9": {
+      "chainId": "1135",
+      "decimals": 6,
+      "name": "USDT",
+      "address": "0x05d032ac25d322df992303dca074ee7392c117b9",
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+      "assetGroup": "USDT",
+      "currencyId": "USDT::USDT"
+    },
+    "0xf242275d3a6527d877f2c927a82d9b057609cc71": {
+      "chainId": "1135",
+      "decimals": 6,
+      "name": "Bridged USDC (Lisk)",
+      "address": "0xf242275d3a6527d877f2c927a82d9b057609cc71",
+      "symbol": "USDC.e",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+      "assetGroup": "USDC",
+      "currencyId": "Bridged USDC (Lisk)::USDC.e",
+      "tags": ["bridged"]
+    },
+    "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3": {
+      "chainId": "1135",
+      "decimals": 8,
+      "name": "WBTC",
+      "address": "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
+      "symbol": "WBTC",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
+      "assetGroup": "WBTC::WBTC",
+      "currencyId": "WBTC::WBTC"
+    },
+    "0xac485391eb2d7d88253a7f1ef18c37f4242d1a24": {
+      "chainId": "1135",
+      "decimals": 18,
+      "name": "LSK",
+      "address": "0xac485391eb2d7d88253a7f1ef18c37f4242d1a24",
+      "symbol": "LSK",
+      "logoURI": "https://static.debank.com/image/lisk_token/logo_url/0xac485391eb2d7d88253a7f1ef18c37f4242d1a24/b8f1b2ca1cb34102fe9118b5670c07e2.png",
+      "assetGroup": "LSK::LSK",
+      "currencyId": "LSK::LSK"
+    },
+    "0x43f2376d5d03553ae72f4a8093bbe9de4336eb08": {
+      "chainId": "1135",
+      "decimals": 6,
+      "name": "Stargate USD₮0 (Bridged)",
+      "address": "0x43f2376d5d03553ae72f4a8093bbe9de4336eb08",
+      "symbol": "USDT0",
+      "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/tokens/USDT0.svg",
+      "assetGroup": "Stargate USD₮0 (Bridged)::USDT0",
+      "currencyId": "Stargate USD₮0 (Bridged)::USDT0",
+      "tags": ["stargate", "bridged"]
+    }
+  },
+  "mainTokens": [
+    "0x4200000000000000000000000000000000000006",
+    "0x05d032ac25d322df992303dca074ee7392c117b9",
+    "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3"
+  ],
+  "bridgeTokens": ["0x4200000000000000000000000000000000000006", "0x05d032ac25d322df992303dca074ee7392c117b9"]
+}

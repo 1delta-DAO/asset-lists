@@ -243,6 +243,73 @@
       "assetGroup": "Wild Goat Coin::WGC",
       "currencyId": "Wild Goat Coin::WGC",
       "tags": ["coingecko"]
+    },
+    "0x2fc9a87b1ef46dcddf4801c36d752e0d5f243e4b": {
+      "chainId": "1868",
+      "decimals": 18,
+      "name": "Neemo ReStaked Ether",
+      "address": "0x2fc9a87b1ef46dcddf4801c36d752e0d5f243e4b",
+      "symbol": "nrETH",
+      "logoURI": "https://static.debank.com/image/soneium_token/logo_url/0x2fc9a87b1ef46dcddf4801c36d752e0d5f243e4b/fe282321e0d63db2fd54e93bab447658.png",
+      "assetGroup": "Neemo ReStaked Ether::nrETH",
+      "currencyId": "Neemo ReStaked Ether::nrETH"
+    },
+    "0xea1e08a176528e2d7250a6f7001f18edf0caecf0": {
+      "chainId": "1868",
+      "decimals": 18,
+      "name": "Algem xnASTR",
+      "address": "0xea1e08a176528e2d7250a6f7001f18edf0caecf0",
+      "symbol": "xnASTR",
+      "logoURI": "https://img.sonex.so/xnASTR-logo.png",
+      "assetGroup": "Algem xnASTR::xnASTR",
+      "currencyId": "Algem xnASTR::xnASTR"
+    },
+    "0xaa9bd8c957d803466fa92504bdd728cc140f8941": {
+      "chainId": "1868",
+      "decimals": 18,
+      "name": "Wrapped liquid staked Ether 2.0",
+      "address": "0xaa9bd8c957d803466fa92504bdd728cc140f8941",
+      "symbol": "wstETH",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0/d0405a0d11669d4e75286d8dd808e19b.png",
+      "assetGroup": "WSTETH",
+      "currencyId": "Wrapped liquid staked Ether 2.0::wstETH"
+    },
+    "0x0ce031aed457c870d74914ecaa7971dd3176cdaf": {
+      "chainId": "1868",
+      "decimals": 18,
+      "name": "Liquid staked Ether 2.0",
+      "address": "0x0ce031aed457c870d74914ecaa7971dd3176cdaf",
+      "symbol": "stETH",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0/7e931af8cb34b6f5671ca2eb1b847849.png",
+      "assetGroup": "Liquid staked Ether 2.0::stETH",
+      "currencyId": "Liquid staked Ether 2.0::stETH"
+    },
+    "0x1bd45cc20ce61be344a64218e6ade01e72b08f39": {
+      "chainId": "1868",
+      "decimals": 18,
+      "name": "Aave Soneium WETH",
+      "address": "0x1bd45cc20ce61be344a64218e6ade01e72b08f39",
+      "symbol": "aSoneWETH",
+      "assetGroup": "Aave Soneium WETH::aSoneWETH",
+      "currencyId": "Aave Soneium WETH::aSoneWETH"
+    },
+    "0xb2c9e934a55b58d20496a5019f8722a96d8a44d8": {
+      "chainId": "1868",
+      "decimals": 6,
+      "name": "Aave Soneium USDCe",
+      "address": "0xb2c9e934a55b58d20496a5019f8722a96d8a44d8",
+      "symbol": "aSoneUSDCe",
+      "assetGroup": "Aave Soneium USDCe::aSoneUSDCe",
+      "currencyId": "Aave Soneium USDCe::aSoneUSDCe"
+    },
+    "0xbab0366adda6d2845c6bb5db4339a824350d24f7": {
+      "chainId": "1868",
+      "decimals": 6,
+      "name": "Aave Soneium USDT",
+      "address": "0xbab0366adda6d2845c6bb5db4339a824350d24f7",
+      "symbol": "aSoneUSDT",
+      "assetGroup": "Aave Soneium USDT::aSoneUSDT",
+      "currencyId": "Aave Soneium USDT::aSoneUSDT"
     }
   },
   "mainTokens": [

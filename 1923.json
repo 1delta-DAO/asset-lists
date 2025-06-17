@@ -165,6 +165,46 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55079/thumb/uBTC.png?1743613297",
       "assetGroup": "UBTC",
       "currencyId": "uBTC::uBTC"
+    },
+    "0xc3eacf0612346366db554c991d7858716db09f58": {
+      "chainId": "1923",
+      "decimals": 18,
+      "name": "KelpDao Restaked ETH",
+      "address": "0xc3eacf0612346366db554c991d7858716db09f58",
+      "symbol": "rsETH",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xa1290d69c65a6fe4df752f95823fae25cb99e5a7/9b29efed86aff5a64f238d6d30032f40.png",
+      "assetGroup": "RSETH",
+      "currencyId": "KelpDao Restaked ETH::rsETH"
+    },
+    "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2": {
+      "chainId": "1923",
+      "decimals": 18,
+      "name": "Staked USDe",
+      "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+      "symbol": "sUSDe",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x9d39a5de30e57443bff2a8307a4256c8797a3497/a9969be31b8f85c69b4cdf7b1a6f5dc5.png",
+      "assetGroup": "SUSDE",
+      "currencyId": "Staked USDe::sUSDe"
+    },
+    "0x58538e6a46e07434d7e7375bc268d3cb839c0133": {
+      "chainId": "1923",
+      "decimals": 18,
+      "name": "ENA",
+      "address": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
+      "symbol": "ENA",
+      "logoURI": "https://static.debank.com/image/frax_token/logo_url/0x58538e6a46e07434d7e7375bc268d3cb839c0133/20d567bc301b43d0d2131731f7ac4736.png",
+      "assetGroup": "ENA::ENA",
+      "currencyId": "ENA::ENA"
+    },
+    "0x0555e30da8f98308edb960aa94c0db47230d2b9c": {
+      "chainId": "1923",
+      "decimals": 8,
+      "name": "Wrapped BTC",
+      "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "symbol": "WBTC",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599/d3c52e7c7449afa8bd4fad1c93f50d93.png",
+      "assetGroup": "WBTC",
+      "currencyId": "Wrapped BTC::WBTC"
     }
   },
   "mainTokens": [
@@ -182,7 +222,12 @@
     "0x3d63825b0d8669307366e6c8202f656b9e91d368",
     "0x9ab96a4668456896d45c301bc3a15cee76aa7b8d",
     "0xc2606aade4bdd978a4fa5a6edb3b66657acee6f8",
-    "0x0000baa0b1678229863c0a941c1056b83a1955f5"
+    "0x0000baa0b1678229863c0a941c1056b83a1955f5",
+    "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
   ],
-  "bridgeTokens": ["0x4200000000000000000000000000000000000006", "0x9ab96a4668456896d45c301bc3a15cee76aa7b8d"]
+  "bridgeTokens": [
+    "0x4200000000000000000000000000000000000006",
+    "0x9ab96a4668456896d45c301bc3a15cee76aa7b8d",
+    "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
+  ]
 }

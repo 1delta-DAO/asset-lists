@@ -98,6 +98,17 @@
       "assetGroup": "Bitlayer::BTR",
       "currencyId": "Bitlayer::BTR",
       "tags": ["coingecko"]
+    },
+    "0xba50ddac6b2f5482ca064efac621e0c7c0f6a783": {
+      "chainId": "200901",
+      "decimals": 18,
+      "name": "Satoshi Stablecoin",
+      "address": "0xba50ddac6b2f5482ca064efac621e0c7c0f6a783",
+      "symbol": "SATUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/37760/thumb/Instagram_post_-_25.png?1715475306",
+      "assetGroup": "Satoshi Stablecoin::SATUSD",
+      "currencyId": "Satoshi Stablecoin::SATUSD",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -110,7 +121,8 @@
     "0xd68458f51ce9feb238cdcf4cbcddf010eead01b4",
     "0xc65d8d96cdddb31328186efa113a460b0af9ec63",
     "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
-    "0x0e4cf4affdb72b39ea91fa726d291781cbd020bf"
+    "0x0e4cf4affdb72b39ea91fa726d291781cbd020bf",
+    "0xba50ddac6b2f5482ca064efac621e0c7c0f6a783"
   ],
   "bridgeTokens": [
     "0x4200000000000000000000000000000000000006",

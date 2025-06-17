@@ -8010,6 +8010,110 @@
       "assetGroup": "Super Savings xDAI::sDAIx",
       "currencyId": "Super Savings xDAI::sDAIx",
       "tags": ["biconomy-gas-token"]
+    },
+    "0xfa9454bbba1ddf83747bdc42bea8641475753c42": {
+      "chainId": "100",
+      "decimals": 18,
+      "name": "Peerion",
+      "address": "0xfa9454bbba1ddf83747bdc42bea8641475753c42",
+      "symbol": "ION",
+      "assetGroup": "Peerion::ION",
+      "currencyId": "Peerion::ION"
+    },
+    "0xe83fd17028c2dd3ca4a9b75f2836d4558fe00686": {
+      "chainId": "100",
+      "decimals": 18,
+      "name": "HAUSx",
+      "address": "0xe83fd17028c2dd3ca4a9b75f2836d4558fe00686",
+      "symbol": "HAUSx",
+      "logoURI": "https://raw.githubusercontent.com/superfluid-finance/assets/master/public/tokens/haus/icon.svg",
+      "assetGroup": "HAUSx::HAUSx",
+      "currencyId": "HAUSx::HAUSx"
+    },
+    "0xd843fb478c5aa9759fea3f3c98d467e2f136190a": {
+      "chainId": "100",
+      "decimals": 18,
+      "name": "Static Aave Gnosis WETH",
+      "address": "0xd843fb478c5aa9759fea3f3c98d467e2f136190a",
+      "symbol": "stataGnoWETH",
+      "assetGroup": "Static Aave Gnosis WETH::stataGnoWETH",
+      "currencyId": "Static Aave Gnosis WETH::stataGnoWETH"
+    },
+    "0x2d737e2b0e175f05d0904c208d6c4e40da570f65": {
+      "chainId": "100",
+      "decimals": 18,
+      "name": "Static Aave Gnosis GNO",
+      "address": "0x2d737e2b0e175f05d0904c208d6c4e40da570f65",
+      "symbol": "stataGnoGNO",
+      "assetGroup": "Static Aave Gnosis GNO::stataGnoGNO",
+      "currencyId": "Static Aave Gnosis GNO::stataGnoGNO"
+    },
+    "0x263647097a185ee0a9ded3e3e46d7eb931c23dda": {
+      "chainId": "100",
+      "decimals": 18,
+      "name": "Super Peerion",
+      "address": "0x263647097a185ee0a9ded3e3e46d7eb931c23dda",
+      "symbol": "IONx",
+      "assetGroup": "Super Peerion::IONx",
+      "currencyId": "Super Peerion::IONx"
+    },
+    "0x7c78aa599bbaea6e8784880173eb74b2f9c46025": {
+      "chainId": "100",
+      "decimals": 18,
+      "name": "Super STREETBASED Community Token",
+      "address": "0x7c78aa599bbaea6e8784880173eb74b2f9c46025",
+      "symbol": "SBCx",
+      "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/sbc.png",
+      "assetGroup": "Super STREETBASED Community Token::SBCx",
+      "currencyId": "Super STREETBASED Community Token::SBCx"
+    },
+    "0x3b6a1b76d772a771bf3fce802bead6ff196b84d5": {
+      "chainId": "100",
+      "decimals": 18,
+      "name": "STREETBASED Community Token",
+      "address": "0x3b6a1b76d772a771bf3fce802bead6ff196b84d5",
+      "symbol": "SBC",
+      "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/sbc.png",
+      "assetGroup": "STREETBASED Community Token::SBC",
+      "currencyId": "STREETBASED Community Token::SBC"
+    },
+    "0x481d6104761442f162d1f7ac3dc6f98896e7a4ef": {
+      "chainId": "100",
+      "decimals": 18,
+      "name": "MoonRock from Mainnet",
+      "address": "0x481d6104761442f162d1f7ac3dc6f98896e7a4ef",
+      "symbol": "MR",
+      "assetGroup": "MoonRock from Mainnet::MR",
+      "currencyId": "MoonRock from Mainnet::MR",
+      "tags": ["mainnet", "bridged"]
+    },
+    "0x6689a8f4fdad6712888682c9ce81b26762389f40": {
+      "chainId": "100",
+      "decimals": 18,
+      "name": "Commons WORK",
+      "address": "0x6689a8f4fdad6712888682c9ce81b26762389f40",
+      "symbol": "WORK",
+      "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/work.png",
+      "assetGroup": "Commons WORK::WORK",
+      "currencyId": "Commons WORK::WORK"
+    },
+    "0x7f0eae87df30c468e0680c83549d0b3de7664d4b": {
+      "chainId": "100",
+      "decimals": 18,
+      "name": "Static Aave Gnosis WXDAI",
+      "address": "0x7f0eae87df30c468e0680c83549d0b3de7664d4b",
+      "symbol": "stataGnoWXDAI",
+      "assetGroup": "Static Aave Gnosis WXDAI::stataGnoWXDAI",
+      "currencyId": "Static Aave Gnosis WXDAI::stataGnoWXDAI"
+    },
+    "0x8418d17640a74f1614ac3e1826f29e78714488a1": {
+      "chainId": "100",
+      "decimals": 18,
+      "name": "Static Aave Gnosis EURe",
+      "address": "0x8418d17640a74f1614ac3e1826f29e78714488a1",
+      "symbol": "stataGnoEURe",
+      "assetGroup": "Static Aave Gnosis EURe::stataGnoEURe",
+      "currencyId": "Static Aave Gnosis EURe::stataGnoEURe"
     }
   },
   "mainTokens": [

@@ -202,6 +202,15 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/rootstock/0x1BDA44fda023f2aF8280A16FD1b01d1a493BA6C4.jpg",
       "assetGroup": "rUSDC::rUSDC",
       "currencyId": "rUSDC::rUSDC"
+    },
+    "0xaf368c91793cb22739386dfcbbb2f1a9e4bcbebf": {
+      "chainId": "30",
+      "decimals": 6,
+      "name": "USDT",
+      "address": "0xaf368c91793cb22739386dfcbbb2f1a9e4bcbebf",
+      "symbol": "USDT",
+      "assetGroup": "USDT",
+      "currencyId": "USDT::USDT"
     }
   },
   "mainTokens": [
@@ -221,7 +230,12 @@
     "0x440cd83c160de5c96ddb20246815ea44c7abbca8",
     "0x1d931bf8656d795e50ef6d639562c5bd8ac2b78f",
     "0x6b1a73d547f4009a26b8485b63d7015d248ad406",
-    "0xf4d27c56595ed59b66cc7f03cff5193e4bd74a61"
+    "0xf4d27c56595ed59b66cc7f03cff5193e4bd74a61",
+    "0xaf368c91793cb22739386dfcbbb2f1a9e4bcbebf"
   ],
-  "bridgeTokens": ["0xef213441a85df4d7acbdae0cf78004e1e486bb96", "0x1bda44fda023f2af8280a16fd1b01d1a493ba6c4"]
+  "bridgeTokens": [
+    "0xef213441a85df4d7acbdae0cf78004e1e486bb96",
+    "0x1bda44fda023f2af8280a16fd1b01d1a493ba6c4",
+    "0xaf368c91793cb22739386dfcbbb2f1a9e4bcbebf"
+  ]
 }

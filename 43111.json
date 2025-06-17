@@ -259,9 +259,9 @@
       "name": "Bridged egETH",
       "address": "0x027a9d301fb747cd972cfb29a63f3bda551dfc5c",
       "symbol": "Bridged egETH",
+      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/egeth.png",
       "assetGroup": "Bridged egETH::Bridged egETH",
       "currencyId": "Bridged egETH::Bridged egETH",
-      "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/egeth.png",
       "tags": ["bridged"]
     },
     "0xbf7d0f62b64b23053949b3a88a03da5bfd35b2e2": {
@@ -270,9 +270,9 @@
       "name": "Metronome Synth ETH",
       "address": "0xbf7d0f62b64b23053949b3a88a03da5bfd35b2e2",
       "symbol": "msETH",
-      "assetGroup": "msETH::Metronome Synth ETH",
-      "currencyId": "msETH::Metronome Synth ETH",
       "logoURI": "https://cdn.sushi.com/image/upload/f_auto,c_limit,w_32/d_unknown.png/tokens/43111/0xBF7d0F62B64B23053949B3a88a03da5Bfd35b2E2.jpg",
+      "assetGroup": "Metronome Synth ETH::msETH",
+      "currencyId": "Metronome Synth ETH::msETH",
       "tags": ["bridged"]
     },
     "0x1855911ab07ed5cd056008f409b709dfa9d01183": {
@@ -281,9 +281,9 @@
       "name": "Metronome Synth BTC",
       "address": "0x1855911ab07ed5cd056008f409b709dfa9d01183",
       "symbol": "msBTC",
-      "assetGroup": "msBTC::Metronome Synth BTC",
-      "currencyId": "msBTC::Metronome Synth BTC",
       "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/msbtc.png",
+      "assetGroup": "Metronome Synth BTC::msBTC",
+      "currencyId": "Metronome Synth BTC::msBTC",
       "tags": ["bridged"]
     },
     "0x3ea24e3727a85a479e29e02cc70e792936fbbcad": {
@@ -292,9 +292,9 @@
       "name": "Metronome Synth USD",
       "address": "0x3ea24e3727a85a479e29e02cc70e792936fbbcad",
       "symbol": "msUSD",
-      "assetGroup": "msUSD::Metronome Synth USD",
-      "currencyId": "msUSD::Metronome Synth USD",
       "logoURI": "https://cdn.sushi.com/image/upload/f_auto,c_limit,w_48/d_unknown.png/tokens/43111/0x3EA24E3727a85A479E29E02Cc70e792936FbBcaD.jpg",
+      "assetGroup": "Metronome Synth USD::msUSD",
+      "currencyId": "Metronome Synth USD::msUSD",
       "tags": ["bridged"]
     },
     "0x1c22531aa9747d76fff8f0a43b37954ca67d28e0": {

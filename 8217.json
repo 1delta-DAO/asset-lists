@@ -128,7 +128,7 @@
       "name": "Wrapped Klay",
       "address": "0x19aac5f612f524b754ca7e7c41cbfa2e981a4432",
       "symbol": "WKLAY",
-      "logoURI": "https://api.swapscanner.io/v0/tokens/0x19aac5f612f524b754ca7e7c41cbfa2e981a4432/icon",
+      "logoURI": "https://static.debank.com/image/klay_token/logo_url/0x19aac5f612f524b754ca7e7c41cbfa2e981a4432/1866fc790849a903e0594ce0f55b758d.png",
       "assetGroup": "Wrapped Klay::WKLAY",
       "currencyId": "Wrapped Klay::WKLAY"
     },
@@ -520,7 +520,7 @@
       "name": "Bridged USDT (Stargate)",
       "address": "0x9025095263d1e548dc890a7589a4c78038ac40ab",
       "symbol": "USDT",
-      "logoURI": "https://api.swapscanner.io/v0/tokens/0x9025095263d1e548dc890a7589a4c78038ac40ab/icon",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
       "assetGroup": "USDT",
       "currencyId": "Bridged USDT (Stargate)::USDT",
       "tags": ["stargate", "bridged"]
@@ -531,7 +531,7 @@
       "name": "Bridged USDC (Stargate)",
       "address": "0xe2053bcf56d2030d2470fb454574237cf9ee3d4b",
       "symbol": "USDC.e",
-      "logoURI": "https://api.swapscanner.io/v0/tokens/0xe2053bcf56d2030d2470fb454574237cf9ee3d4b/icon",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
       "assetGroup": "USDC",
       "currencyId": "Bridged USDC (Stargate)::USDC.e",
       "tags": ["stargate", "bridged"]
@@ -4513,7 +4513,7 @@
       "name": "USD Coin (Synapse)",
       "address": "0x6270b58be569a7c0b8f47594f191631ae5b2c86c",
       "symbol": "USDC",
-      "logoURI": "https://api.swapscanner.io/v0/tokens/0x6270b58be569a7c0b8f47594f191631ae5b2c86c/icon",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
       "assetGroup": "USD Coin (Synapse)::USDC",
       "currencyId": "USD Coin (Synapse)::USDC"
     },
@@ -9267,7 +9267,7 @@
       "name": "WETH",
       "address": "0x55acee547df909cf844e32dd66ee55a6f81dc71b",
       "symbol": "WETH",
-      "logoURI": "https://api.swapscanner.io/v0/tokens/0x55acee547df909cf844e32dd66ee55a6f81dc71b/icon",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "assetGroup": "WETH::WETH",
       "currencyId": "WETH::WETH"
     },
@@ -10561,6 +10561,26 @@
       "logoURI": "",
       "assetGroup": "Token(https://swap-tokens.com)::Token",
       "currencyId": "Token(https://swap-tokens.com)::Token"
+    },
+    "0x0ba2ba407e80bcb8a314649d9bc12efeecc81519": {
+      "chainId": "8217",
+      "decimals": 18,
+      "name": "Bombie",
+      "address": "0x0ba2ba407e80bcb8a314649d9bc12efeecc81519",
+      "symbol": "BOMB",
+      "logoURI": "https://api.swapscanner.io/v0/tokens/0x0ba2ba407e80bcb8a314649d9bc12efeecc81519/icon",
+      "assetGroup": "Bombie::BOMB",
+      "currencyId": "Bombie::BOMB"
+    },
+    "0x032ee3261ee64748390e944d69cf87e60ad588fa": {
+      "chainId": "8217",
+      "decimals": 18,
+      "name": "Kaia Token Creator",
+      "address": "0x032ee3261ee64748390e944d69cf87e60ad588fa",
+      "symbol": "KTC",
+      "logoURI": "https://api.swapscanner.io/v0/tokens/0x032ee3261ee64748390e944d69cf87e60ad588fa/icon",
+      "assetGroup": "Kaia Token Creator::KTC",
+      "currencyId": "Kaia Token Creator::KTC"
     }
   },
   "mainTokens": [

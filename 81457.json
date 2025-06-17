@@ -2402,6 +2402,93 @@
       "assetGroup": "nETH::nETH",
       "currencyId": "nETH::nETH",
       "tags": ["biconomy-gas-token"]
+    },
+    "0x20fe91f17ec9080e3cac2d688b4ecb48c5ac3a9c": {
+      "chainId": "81457",
+      "decimals": 18,
+      "name": "YES Money",
+      "address": "0x20fe91f17ec9080e3cac2d688b4ecb48c5ac3a9c",
+      "symbol": "YES",
+      "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/blast/0x20fe91f17ec9080e3cac2d688b4ecb48c5ac3a9c.png",
+      "assetGroup": "YES Money::YES",
+      "currencyId": "YES Money::YES"
+    },
+    "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34": {
+      "chainId": "81457",
+      "decimals": 18,
+      "name": "USDe",
+      "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+      "symbol": "USDe",
+      "assetGroup": "USDE",
+      "currencyId": "USDe::USDe"
+    },
+    "0x58538e6a46e07434d7e7375bc268d3cb839c0133": {
+      "chainId": "81457",
+      "decimals": 18,
+      "name": "ENA",
+      "address": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
+      "symbol": "ENA",
+      "logoURI": "https://ethena.fi/shared/ecosystem/ENA.svg",
+      "assetGroup": "ENA::ENA",
+      "currencyId": "ENA::ENA"
+    },
+    "0x3ec3849c33291a9ef4c5db86de593eb4a37fde45": {
+      "chainId": "81457",
+      "decimals": 18,
+      "name": "Staked Frax Ether",
+      "address": "0x3ec3849c33291a9ef4c5db86de593eb4a37fde45",
+      "symbol": "sfrxETH",
+      "logoURI": "https://static.debank.com/image/blast_token/logo_url/0x3ec3849c33291a9ef4c5db86de593eb4a37fde45/b0802881acff20fd906a2e189a4ea882.png",
+      "assetGroup": "SFRXETH",
+      "currencyId": "Staked Frax Ether::sfrxETH"
+    },
+    "0x43edd7f3831b08fe70b7555ddd373c8bf65a9050": {
+      "chainId": "81457",
+      "decimals": 18,
+      "name": "Frax Ether",
+      "address": "0x43edd7f3831b08fe70b7555ddd373c8bf65a9050",
+      "symbol": "frxETH",
+      "assetGroup": "FRXETH",
+      "currencyId": "Frax Ether::frxETH"
+    },
+    "0x5bff88ca1442c2496f7e475e9e7786383bc070c0": {
+      "chainId": "81457",
+      "decimals": 18,
+      "name": "Staked Frax USD",
+      "address": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
+      "symbol": "sfrxUSD",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xcf62f905562626cfcdd2261162a51fd02fc9c5b6/afe8a7ab1731c4322c252e0e38d034f5.png",
+      "assetGroup": "Staked Frax USD::sfrxUSD",
+      "currencyId": "Staked Frax USD::sfrxUSD"
+    },
+    "0x80eede496655fb9047dd39d9f418d5483ed600df": {
+      "chainId": "81457",
+      "decimals": 18,
+      "name": "Frax USD",
+      "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+      "symbol": "frxUSD",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xcacd6fd266af91b8aed52accc382b4e165586e29/7610ebe75cb08ff21ee6dfb7e1592e25.png",
+      "assetGroup": "FRXUSD",
+      "currencyId": "Frax USD::frxUSD"
+    },
+    "0x93202ec683288a9ea75bb829c6bacfb2bfea9013": {
+      "chainId": "81457",
+      "decimals": 18,
+      "name": "ChainLink Token",
+      "address": "0x93202ec683288a9ea75bb829c6bacfb2bfea9013",
+      "symbol": "LINK",
+      "assetGroup": "LINK",
+      "currencyId": "ChainLink Token::LINK"
+    },
+    "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2": {
+      "chainId": "81457",
+      "decimals": 18,
+      "name": "sUSDe",
+      "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+      "symbol": "sUSDe",
+      "logoURI": "https://ethena.fi/shared/ecosystem/sUSDe.svg",
+      "assetGroup": "SUSDE",
+      "currencyId": "sUSDe::sUSDe"
     }
   },
   "mainTokens": [

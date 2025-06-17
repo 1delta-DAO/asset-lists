@@ -4304,6 +4304,7 @@
       "name": "Equilibria Pendle",
       "address": "0x76c37f9949e05b37c8373d155c1fef46a6858481",
       "symbol": "ePendle",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x22fc5a29bd3d6cce19a06f844019fd506fce4455/b3e3c75901380ae92404f84c2f30d1ee.png",
       "assetGroup": "Equilibria Pendle::ePendle",
       "currencyId": "Equilibria Pendle::ePendle",
       "tags": ["biconomy-gas-token"]
@@ -4336,6 +4337,7 @@
       "name": "ValleyDAO Token",
       "address": "0xc871ccf95024efa2cbce69b5b775d2a1dcf49c1b",
       "symbol": "GROW",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x761a3557184cbc07b7493da0661c41177b2f97fa/897c6892d1afdfa6fd0b2a98c8fbe03a.png",
       "assetGroup": "ValleyDAO Token::GROW",
       "currencyId": "ValleyDAO Token::GROW",
       "tags": ["biconomy-gas-token"]
@@ -5822,6 +5824,215 @@
       "assetGroup": "Superseed::SUPR",
       "currencyId": "Superseed::SUPR",
       "tags": ["biconomy-gas-token"]
+    },
+    "0xb260d236f5ea5094d31f016160705ff53ac45028": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "BTREE",
+      "address": "0xb260d236f5ea5094d31f016160705ff53ac45028",
+      "symbol": "BTREE",
+      "logoURI": "https://ethereum-optimism.github.io/data/BTREE/logo.svg",
+      "assetGroup": "BTREE::BTREE",
+      "currencyId": "BTREE::BTREE",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x4518231a8fdf6ac553b9bbd51bbb86825b583263": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Kyber Network Crystal v2",
+      "address": "0x4518231a8fdf6ac553b9bbd51bbb86825b583263",
+      "symbol": "KNC",
+      "assetGroup": "Kyber Network Crystal v2::KNC",
+      "currencyId": "Kyber Network Crystal v2::KNC"
+    },
+    "0x84648dc3cefb601bc28a49a07a1a8bad04d30ad3": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Static Aave Optimism LUSD",
+      "address": "0x84648dc3cefb601bc28a49a07a1a8bad04d30ad3",
+      "symbol": "stataOptLUSD",
+      "assetGroup": "Static Aave Optimism LUSD::stataOptLUSD",
+      "currencyId": "Static Aave Optimism LUSD::stataOptLUSD"
+    },
+    "0x58538e6a46e07434d7e7375bc268d3cb839c0133": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "ENA",
+      "address": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
+      "symbol": "ENA",
+      "logoURI": "https://static.debank.com/image/op_token/logo_url/0x58538e6a46e07434d7e7375bc268d3cb839c0133/20d567bc301b43d0d2131731f7ac4736.png",
+      "assetGroup": "ENA::ENA",
+      "currencyId": "ENA::ENA"
+    },
+    "0xb01cf1be9568f09449382a47cd5bf58e2a9d5922": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "LightSpeed",
+      "address": "0xb01cf1be9568f09449382a47cd5bf58e2a9d5922",
+      "symbol": "Speed",
+      "logoURI": "https://static.debank.com/image/op_token/logo_url/0xb01cf1be9568f09449382a47cd5bf58e2a9d5922/38d6daf5ebbed007bfcda887dd47b011.png",
+      "assetGroup": "LightSpeed::Speed",
+      "currencyId": "LightSpeed::Speed"
+    },
+    "0x806041b6473da60abbe1b256d9a2749a151be6c6": {
+      "chainId": "10",
+      "decimals": 9,
+      "name": "Tensorplex Staked TAO",
+      "address": "0x806041b6473da60abbe1b256d9a2749a151be6c6",
+      "symbol": "stTAO",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xb60acd2057067dc9ed8c083f5aa227a244044fd6/dfb4a60394c622082ff8ade8398e3171.png",
+      "assetGroup": "Tensorplex Staked TAO::stTAO",
+      "currencyId": "Tensorplex Staked TAO::stTAO"
+    },
+    "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "sUSDe",
+      "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+      "symbol": "sUSDe",
+      "logoURI": "https://ethena.fi/shared/ecosystem/sUSDe.svg",
+      "assetGroup": "SUSDE",
+      "currencyId": "sUSDe::sUSDe"
+    },
+    "0xa52e38a9147f5ea9e0c5547376c21c9e3f3e5e1f": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Prize POOL",
+      "address": "0xa52e38a9147f5ea9e0c5547376c21c9e3f3e5e1f",
+      "symbol": "przPOOL",
+      "assetGroup": "Prize POOL::przPOOL",
+      "currencyId": "Prize POOL::przPOOL"
+    },
+    "0xae0ca1b1bc6cac26981b5e2b9c40f8ce8a9082ee": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Static Aave Optimism AAVE",
+      "address": "0xae0ca1b1bc6cac26981b5e2b9c40f8ce8a9082ee",
+      "symbol": "stataOptAAVE",
+      "assetGroup": "Static Aave Optimism AAVE::stataOptAAVE",
+      "currencyId": "Static Aave Optimism AAVE::stataOptAAVE"
+    },
+    "0x76a50b8c7349ccddb7578c6627e79b5d99d24138": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Liquid staked Ether 2.0",
+      "address": "0x76a50b8c7349ccddb7578c6627e79b5d99d24138",
+      "symbol": "stETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/13442/standard/steth_logo.png",
+      "assetGroup": "Liquid staked Ether 2.0::stETH",
+      "currencyId": "Liquid staked Ether 2.0::stETH"
+    },
+    "0x2461a364e659abb05019ca8a68bb57fabd18821f": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Super ParaSwap",
+      "address": "0x2461a364e659abb05019ca8a68bb57fabd18821f",
+      "symbol": "PSPx",
+      "logoURI": "https://tokenlist.superfluid.org/icons/psp.svg",
+      "assetGroup": "Super ParaSwap::PSPx",
+      "currencyId": "Super ParaSwap::PSPx"
+    },
+    "0xe36c02471e708a9f16da58168da744b059a1c6fe": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "OFFICIAL TRUMP",
+      "address": "0xe36c02471e708a9f16da58168da744b059a1c6fe",
+      "symbol": "TRUMP",
+      "assetGroup": "TRUMP",
+      "currencyId": "OFFICIAL TRUMP::TRUMP"
+    },
+    "0x048c6bad48c51436764ed1fdb3c9d1c25d2c0ada": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Bolide",
+      "address": "0x048c6bad48c51436764ed1fdb3c9d1c25d2c0ada",
+      "symbol": "BLID",
+      "assetGroup": "Bolide::BLID",
+      "currencyId": "Bolide::BLID"
+    },
+    "0x340fe1d898eccaad394e2ba0fc1f93d27c7b717a": {
+      "chainId": "10",
+      "decimals": 9,
+      "name": "Wrapped USDR",
+      "address": "0x340fe1d898eccaad394e2ba0fc1f93d27c7b717a",
+      "symbol": "wUSDR",
+      "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/optimism/0x340fe1d898eccaad394e2ba0fc1f93d27c7b717a.png",
+      "assetGroup": "Wrapped USDR::wUSDR::10::0",
+      "currencyId": "Wrapped USDR::wUSDR"
+    },
+    "0x5d47baba0d66083c52009271faf3f50dcc01023c": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "UniDex",
+      "address": "0x5d47baba0d66083c52009271faf3f50dcc01023c",
+      "symbol": "UNIDX",
+      "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/optimism/0x5d47baba0d66083c52009271faf3f50dcc01023c.png",
+      "assetGroup": "UniDex::UNIDX",
+      "currencyId": "UniDex::UNIDX"
+    },
+    "0x39bcf217acc4bf2fcaf7bc8800e69d986912c75e": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Static Aave Optimism LINK",
+      "address": "0x39bcf217acc4bf2fcaf7bc8800e69d986912c75e",
+      "symbol": "stataOptLINK",
+      "assetGroup": "Static Aave Optimism LINK::stataOptLINK",
+      "currencyId": "Static Aave Optimism LINK::stataOptLINK"
+    },
+    "0x6d998feefc7b3664ead09caf02b5a0fc2e365f18": {
+      "chainId": "10",
+      "decimals": 8,
+      "name": "Static Aave Optimism WBTC",
+      "address": "0x6d998feefc7b3664ead09caf02b5a0fc2e365f18",
+      "symbol": "stataOptWBTC",
+      "assetGroup": "Static Aave Optimism WBTC::stataOptWBTC",
+      "currencyId": "Static Aave Optimism WBTC::stataOptWBTC"
+    },
+    "0x3a956e2fcc7e71ea14b0257d40bebdb287d19652": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Static Aave Optimism SUSD",
+      "address": "0x3a956e2fcc7e71ea14b0257d40bebdb287d19652",
+      "symbol": "stataOptSUSD",
+      "assetGroup": "Static Aave Optimism SUSD::stataOptSUSD",
+      "currencyId": "Static Aave Optimism SUSD::stataOptSUSD"
+    },
+    "0xf9ce3c97b4b54f3d16861420f4816d9f68190b7b": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Static Aave Optimism rETH",
+      "address": "0xf9ce3c97b4b54f3d16861420f4816d9f68190b7b",
+      "symbol": "stataOptrETH",
+      "assetGroup": "Static Aave Optimism rETH::stataOptrETH",
+      "currencyId": "Static Aave Optimism rETH::stataOptrETH"
+    },
+    "0x03569cc076654f82679c4ba2124d64774781b01d": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "BOLD Stablecoin",
+      "address": "0x03569cc076654f82679c4ba2124d64774781b01d",
+      "symbol": "BOLD",
+      "logoURI": "https://assets.coingecko.com/coins/images/53755/standard/BOLD_logo.png?1737183873",
+      "assetGroup": "BOLD Stablecoin::BOLD",
+      "currencyId": "BOLD Stablecoin::BOLD"
+    },
+    "0x0555e30da8f98308edb960aa94c0db47230d2b9c": {
+      "chainId": "10",
+      "decimals": 8,
+      "name": "Wrapped BTC",
+      "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "symbol": "WBTC",
+      "assetGroup": "Wrapped BTC::WBTC",
+      "currencyId": "Wrapped BTC::WBTC"
+    },
+    "0x978b9de4d8a41b023408383e3b4f760932aaddc1": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Lumia Token",
+      "address": "0x978b9de4d8a41b023408383e3b4f760932aaddc1",
+      "symbol": "LUMIA",
+      "assetGroup": "Lumia Token::LUMIA",
+      "currencyId": "Lumia Token::LUMIA"
     }
   },
   "mainTokens": [

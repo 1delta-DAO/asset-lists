@@ -230,6 +230,38 @@
       "assetGroup": "PrimeFi::PRFI",
       "currencyId": "PrimeFi::PRFI",
       "tags": ["coingecko"]
+    },
+    "0xcc0587aebda397146cc828b445db130a94486e74": {
+      "chainId": "50",
+      "decimals": 6,
+      "name": "USDC.e (Stargate)",
+      "address": "0xcc0587aebda397146cc828b445db130a94486e74",
+      "symbol": "USDCe",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+      "assetGroup": "USDC.e (Stargate)::USDCe",
+      "currencyId": "USDC.e (Stargate)::USDCe",
+      "tags": ["stargate", "bridged"]
+    },
+    "0xa7348290de5cf01772479c48d50dec791c3fc212": {
+      "chainId": "50",
+      "decimals": 18,
+      "name": "WETH",
+      "address": "0xa7348290de5cf01772479c48d50dec791c3fc212",
+      "symbol": "WETH",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "assetGroup": "WETH::WETH",
+      "currencyId": "WETH::WETH"
+    },
+    "0xcda5b77e2e2268d9e09c874c1b9a4c3f07b37555": {
+      "chainId": "50",
+      "decimals": 6,
+      "name": "Bridged stgUSDT",
+      "address": "0xcda5b77e2e2268d9e09c874c1b9a4c3f07b37555",
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+      "assetGroup": "USDT",
+      "currencyId": "Bridged stgUSDT::USDT",
+      "tags": ["bridged"]
     }
   },
   "mainTokens": [
@@ -245,13 +277,16 @@
     "0x951857744785e80e2de051c32ee7b25f9c458c42",
     "0x05940b2df33d6371201e7ae099ced4c363855dfe",
     "0x49d3f7543335cf38fa10889ccff10207e22110b5",
-    "0x81b244d0be055ef3bef1b09b7826cc2b108b2cbd"
+    "0x81b244d0be055ef3bef1b09b7826cc2b108b2cbd",
+    "0xa7348290de5cf01772479c48d50dec791c3fc212",
+    "0xcda5b77e2e2268d9e09c874c1b9a4c3f07b37555"
   ],
   "bridgeTokens": [
     "0x867f08a3ab824b42e8058a1b48e32e1df205b092",
     "0xdc2393dc10734bf153153038943a5deb42b209cd",
     "0xb25cb6a275a8d6a613228fb161eb3627b50eb696",
     "0xc57f0eb99363e747d637b17bbdb4e1ab85e60631",
-    "0x2a8e898b6242355c290e1f4fc966b8788729a4d4"
+    "0x2a8e898b6242355c290e1f4fc966b8788729a4d4",
+    "0xcda5b77e2e2268d9e09c874c1b9a4c3f07b37555"
   ]
 }

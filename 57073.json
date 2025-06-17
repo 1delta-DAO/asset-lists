@@ -166,6 +166,66 @@
       "assetGroup": "Ink USDT Veda Vault::INKEDUSDT",
       "currencyId": "Ink USDT Veda Vault::INKEDUSDT",
       "tags": ["coingecko"]
+    },
+    "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189": {
+      "chainId": "57073",
+      "decimals": 6,
+      "name": "Super USDT",
+      "address": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+      "symbol": "OpenUSDT",
+      "logoURI": "https://static.debank.com/image/celo_token/logo_url/0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189/57033d27afe3975bf4d498799a8bc396.png",
+      "assetGroup": "Super USDT::OpenUSDT",
+      "currencyId": "Super USDT::OpenUSDT"
+    },
+    "0x5bff88ca1442c2496f7e475e9e7786383bc070c0": {
+      "chainId": "57073",
+      "decimals": 18,
+      "name": "Staked Frax USD",
+      "address": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
+      "symbol": "sfrxUSD",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xcf62f905562626cfcdd2261162a51fd02fc9c5b6/afe8a7ab1731c4322c252e0e38d034f5.png",
+      "assetGroup": "Staked Frax USD::sfrxUSD",
+      "currencyId": "Staked Frax USD::sfrxUSD"
+    },
+    "0x43edd7f3831b08fe70b7555ddd373c8bf65a9050": {
+      "chainId": "57073",
+      "decimals": 18,
+      "name": "Frax Ether",
+      "address": "0x43edd7f3831b08fe70b7555ddd373c8bf65a9050",
+      "symbol": "frxETH",
+      "logoURI": "https://static.debank.com/image/ink_token/logo_url/0x43edd7f3831b08fe70b7555ddd373c8bf65a9050/4313f25f6c5196e8fce2c80fa34c73d0.png",
+      "assetGroup": "FRXETH",
+      "currencyId": "Frax Ether::frxETH"
+    },
+    "0x80eede496655fb9047dd39d9f418d5483ed600df": {
+      "chainId": "57073",
+      "decimals": 18,
+      "name": "Frax USD",
+      "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+      "symbol": "frxUSD",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xcacd6fd266af91b8aed52accc382b4e165586e29/7610ebe75cb08ff21ee6dfb7e1592e25.png",
+      "assetGroup": "FRXUSD",
+      "currencyId": "Frax USD::frxUSD"
+    },
+    "0x3ec3849c33291a9ef4c5db86de593eb4a37fde45": {
+      "chainId": "57073",
+      "decimals": 18,
+      "name": "Staked Frax Ether",
+      "address": "0x3ec3849c33291a9ef4c5db86de593eb4a37fde45",
+      "symbol": "sfrxETH",
+      "logoURI": "https://static.debank.com/image/ink_token/logo_url/0x3ec3849c33291a9ef4c5db86de593eb4a37fde45/b0802881acff20fd906a2e189a4ea882.png",
+      "assetGroup": "SFRXETH",
+      "currencyId": "Staked Frax Ether::sfrxETH"
+    },
+    "0xecac9c5f704e954931349da37f60e39f515c11c1": {
+      "chainId": "57073",
+      "decimals": 8,
+      "name": "Lombard Staked Bitcoin",
+      "address": "0xecac9c5f704e954931349da37f60e39f515c11c1",
+      "symbol": "LBTC",
+      "logoURI": "https://static.debank.com/image/corn_token/logo_url/0xecac9c5f704e954931349da37f60e39f515c11c1/fb1b1e3acbf982e46618edc9e4fa09b7.png",
+      "assetGroup": "Lombard Staked Bitcoin::LBTC",
+      "currencyId": "Lombard Staked Bitcoin::LBTC"
     }
   },
   "mainTokens": [

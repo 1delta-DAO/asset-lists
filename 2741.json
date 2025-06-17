@@ -331,6 +331,26 @@
       "assetGroup": "Rich Whale Alliance::RWA",
       "currencyId": "Rich Whale Alliance::RWA",
       "tags": ["coingecko"]
+    },
+    "0x0709f39376deee2a2dfc94a58edeb2eb9df012bd": {
+      "chainId": "2741",
+      "decimals": 6,
+      "name": "USDT",
+      "address": "0x0709f39376deee2a2dfc94a58edeb2eb9df012bd",
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+      "assetGroup": "USDT",
+      "currencyId": "USDT::USDT"
+    },
+    "0x9ebe3a824ca958e4b3da772d2065518f009cba62": {
+      "chainId": "2741",
+      "decimals": 18,
+      "name": "Pudgy Penguins",
+      "address": "0x9ebe3a824ca958e4b3da772d2065518f009cba62",
+      "symbol": "PENGU",
+      "logoURI": "https://img.reservoir.tools/images/v2/abstract/SOH16Rml4teTwteHGv7mzFPoR1RDmrxetEov4ZKPdr8CYgqfVfhFwsW1UkTuBQ3a%2FNdYKidF15cP4O5fsctct9K93ey9EXyv2l1YcYkecnLIFh7o7jtBa8LTRZ%2BhHcil?width=250",
+      "assetGroup": "Pudgy Penguins::PENGU",
+      "currencyId": "Pudgy Penguins::PENGU"
     }
   },
   "mainTokens": [
@@ -362,7 +382,12 @@
     "0xa9053dc939d74222f7aa0b3a2be407abbfd56c6a",
     "0x44cca204fd7a6b357ed88c2c5fefa667ee7be305",
     "0x143bd0eac0a811aac43e8aae5d28b624b6b63489",
-    "0xaf31d07af1602dfce07fba81bca5f9570ca83983"
+    "0xaf31d07af1602dfce07fba81bca5f9570ca83983",
+    "0x0709f39376deee2a2dfc94a58edeb2eb9df012bd"
   ],
-  "bridgeTokens": ["0x84a71ccd554cc1b02749b35d22f684cc8ec987e1", "0x3439153eb7af838ad19d56e1571fbd09333c2809"]
+  "bridgeTokens": [
+    "0x84a71ccd554cc1b02749b35d22f684cc8ec987e1",
+    "0x3439153eb7af838ad19d56e1571fbd09333c2809",
+    "0x0709f39376deee2a2dfc94a58edeb2eb9df012bd"
+  ]
 }

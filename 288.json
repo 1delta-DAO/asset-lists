@@ -202,6 +202,60 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
       "assetGroup": "SUSHI",
       "currencyId": "Sushi::SUSHI"
+    },
+    "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73": {
+      "chainId": "288",
+      "decimals": 18,
+      "name": "Fantom",
+      "address": "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73",
+      "symbol": "FTM",
+      "assetGroup": "FTM",
+      "currencyId": "Fantom::FTM"
+    },
+    "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b": {
+      "chainId": "288",
+      "decimals": 18,
+      "name": "Binance",
+      "address": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
+      "symbol": "BNB",
+      "assetGroup": "BNB",
+      "currencyId": "Binance::BNB"
+    },
+    "0xc67b9b1b0557aeafa10aa1ffa1d7c87087a6149e": {
+      "chainId": "288",
+      "decimals": 18,
+      "name": "Banana",
+      "address": "0xc67b9b1b0557aeafa10aa1ffa1d7c87087a6149e",
+      "symbol": "BANA",
+      "assetGroup": "Banana::BANA",
+      "currencyId": "Banana::BANA"
+    },
+    "0x8493c4d9cd1a79be0523791e3331c78abb3f9672": {
+      "chainId": "288",
+      "decimals": 18,
+      "name": "Boba WAGMI v0 Option",
+      "address": "0x8493c4d9cd1a79be0523791e3331c78abb3f9672",
+      "symbol": "WAGMIv0",
+      "assetGroup": "Boba WAGMI v0 Option::WAGMIv0",
+      "currencyId": "Boba WAGMI v0 Option::WAGMIv0"
+    },
+    "0xce055ea4f29ffb8bf35e852522b96ab67cbe8197": {
+      "chainId": "288",
+      "decimals": 18,
+      "name": "Boba WAGMI v1 Option",
+      "address": "0xce055ea4f29ffb8bf35e852522b96ab67cbe8197",
+      "symbol": "WAGMIv1",
+      "assetGroup": "Boba WAGMI v1 Option::WAGMIv1",
+      "currencyId": "Boba WAGMI v1 Option::WAGMIv1"
+    },
+    "0x49a3e4a1284829160f95ee785a1a5ffe2dd5eb1d": {
+      "chainId": "288",
+      "decimals": 18,
+      "name": "Boba WAGMI v2 Oolong Option",
+      "address": "0x49a3e4a1284829160f95ee785a1a5ffe2dd5eb1d",
+      "symbol": "WAGMIv2-Oolong",
+      "assetGroup": "Boba WAGMI v2 Oolong Option::WAGMIv2-Oolong",
+      "currencyId": "Boba WAGMI v2 Oolong Option::WAGMIv2-Oolong"
     }
   },
   "mainTokens": [
@@ -220,7 +274,8 @@
     "0x618cc6549ddf12de637d46cddadafc0c2951131c",
     "0x7562f525106f5d54e891e005867bf489b5988cd9",
     "0xe1e2ec9a85c607092668789581251115bcbd20de",
-    "0x3f56e0c36d275367b8c502090edf38289b3dea0d"
+    "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
+    "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b"
   ],
   "bridgeTokens": [
     "0x5de1677344d3cb0d7d465c10b72a8f60699c062d",

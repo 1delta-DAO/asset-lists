@@ -3455,6 +3455,34 @@
       "assetGroup": "RETH",
       "currencyId": "Rocket Pool ETH::rETH",
       "tags": ["biconomy-gas-token"]
+    },
+    "0x0555e30da8f98308edb960aa94c0db47230d2b9c": {
+      "chainId": "130",
+      "decimals": 8,
+      "name": "Wrapped BTC",
+      "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "symbol": "WBTC",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599/d3c52e7c7449afa8bd4fad1c93f50d93.png",
+      "assetGroup": "Wrapped BTC::WBTC",
+      "currencyId": "Wrapped BTC::WBTC"
+    },
+    "0x81f2508aac59757ef7425ddc9717ab5c2aa0a84f": {
+      "chainId": "130",
+      "decimals": 18,
+      "name": "Liquid staked Ether 2.0",
+      "address": "0x81f2508aac59757ef7425ddc9717ab5c2aa0a84f",
+      "symbol": "stETH",
+      "assetGroup": "Liquid staked Ether 2.0::stETH",
+      "currencyId": "Liquid staked Ether 2.0::stETH"
+    },
+    "0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5": {
+      "chainId": "130",
+      "decimals": 18,
+      "name": "BetSwirl v2",
+      "address": "0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5",
+      "symbol": "BETS",
+      "assetGroup": "BetSwirl v2::BETS",
+      "currencyId": "BetSwirl v2::BETS"
     }
   },
   "mainTokens": [
@@ -3476,7 +3504,8 @@
     "0xc02fe7317d4eb8753a02c35fe019786854a92001",
     "0x3d63825b0d8669307366e6c8202f656b9e91d368",
     "0x73e0c0d45e048d25fc26fa3159b0aa04bfa4db98",
-    "0x849f05f7cfdc4215b16a3c5a58361445c4d56c8e"
+    "0x849f05f7cfdc4215b16a3c5a58361445c4d56c8e",
+    "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
   ],
   "bridgeTokens": [
     "0xbf678793522638f7439afe3b94d2d2a3a4cbf2c9",

@@ -257,6 +257,7 @@
       "name": "Bridged BUSD",
       "address": "0x6a5f6a8121592becd6747a38d67451b310f7f156",
       "symbol": "BUSD",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png",
       "assetGroup": "BUSD",
       "currencyId": "Bridged BUSD::BUSD",
       "tags": ["bridged", "coingecko"]
@@ -361,6 +362,201 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/fuse/0x90708b20ccC1eb95a4FA7C8b18Fd2C22a0Ff9E78.jpg",
       "assetGroup": "SUSHI",
       "currencyId": "Sushi::SUSHI"
+    },
+    "0x117c0419352ddb6fe575a67faa70315bdc4a93f3": {
+      "chainId": "122",
+      "decimals": 18,
+      "name": "BNB",
+      "address": "0x117c0419352ddb6fe575a67faa70315bdc4a93f3",
+      "symbol": "BNB",
+      "logoURI": "https://static.debank.com/image/coin/logo_url/bnb/9784283a36f23a58982fc964574ea530.png",
+      "assetGroup": "BNB",
+      "currencyId": "BNB::BNB"
+    },
+    "0x2363df84fdb7d4ee9d4e1a15c763bb6b7177eaee": {
+      "chainId": "122",
+      "decimals": 18,
+      "name": "MST",
+      "address": "0x2363df84fdb7d4ee9d4e1a15c763bb6b7177eaee",
+      "symbol": "MST",
+      "logoURI": "https://static.debank.com/image/project/logo_url/base_meridianfinance/70622d429db5c1ae0ce2d33b64836242.png",
+      "assetGroup": "MST::MST",
+      "currencyId": "MST::MST"
+    },
+    "0x2502f488d481df4f5054330c71b95d93d41625c2": {
+      "chainId": "122",
+      "decimals": 18,
+      "name": "Dai Stablecoin",
+      "address": "0x2502f488d481df4f5054330c71b95d93d41625c2",
+      "symbol": "DAI",
+      "logoURI": "https://static.debank.com/image/fuse_token/logo_url/0x2502f488d481df4f5054330c71b95d93d41625c2/b0f7e93ed5d6314101bb6c225e8141ac.png",
+      "assetGroup": "Dai Stablecoin::DAI",
+      "currencyId": "Dai Stablecoin::DAI"
+    },
+    "0x2b09179d26fddb27a24ee25328890791c7a984c2": {
+      "chainId": "122",
+      "decimals": 18,
+      "name": "Ampere",
+      "address": "0x2b09179d26fddb27a24ee25328890791c7a984c2",
+      "symbol": "AMP",
+      "assetGroup": "Ampere::AMP",
+      "currencyId": "Ampere::AMP"
+    },
+    "0x303cc3f27034c4e3933dab8e601178ed3d2a1e3c": {
+      "chainId": "122",
+      "decimals": 18,
+      "name": "Maker",
+      "address": "0x303cc3f27034c4e3933dab8e601178ed3d2a1e3c",
+      "symbol": "MKR",
+      "logoURI": "https://static.debank.com/image/fuse_token/logo_url/0x303cc3f27034c4e3933dab8e601178ed3d2a1e3c/9cb777472c8f67432206da896e1548dc.png",
+      "assetGroup": "MKR",
+      "currencyId": "Maker::MKR"
+    },
+    "0x3c5dd992d72d082b44c7505015e09fdb1e975ec2": {
+      "chainId": "122",
+      "decimals": 18,
+      "name": "stETH",
+      "address": "0x3c5dd992d72d082b44c7505015e09fdb1e975ec2",
+      "symbol": "stETH",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0/7e931af8cb34b6f5671ca2eb1b847849.png",
+      "assetGroup": "STETH",
+      "currencyId": "stETH::stETH"
+    },
+    "0x4b9ae621e54bf1ecfe39366bca0018d97a2d510b": {
+      "chainId": "122",
+      "decimals": 18,
+      "name": "Qiji",
+      "address": "0x4b9ae621e54bf1ecfe39366bca0018d97a2d510b",
+      "symbol": "Qiji",
+      "logoURI": "https://static.debank.com/image/fuse_token/logo_url/0x4b9ae621e54bf1ecfe39366bca0018d97a2d510b/32082d8c86c108f516a7a06108bbb8fe.png",
+      "assetGroup": "Qiji::Qiji",
+      "currencyId": "Qiji::Qiji"
+    },
+    "0x4e69ae0cd024754655b4ef74f24a8dcb39ba07e8": {
+      "chainId": "122",
+      "decimals": 18,
+      "name": "Coineus",
+      "address": "0x4e69ae0cd024754655b4ef74f24a8dcb39ba07e8",
+      "symbol": "CEUS",
+      "logoURI": "https://static.debank.com/image/fuse_token/logo_url/0x4e69ae0cd024754655b4ef74f24a8dcb39ba07e8/d03f1f13bd1ac88afab64a4bfa869839.png",
+      "assetGroup": "Coineus::CEUS",
+      "currencyId": "Coineus::CEUS"
+    },
+    "0x587983b895db50ddabc0aac8adc592b29bb30d80": {
+      "chainId": "122",
+      "decimals": 18,
+      "name": "stETH",
+      "address": "0x587983b895db50ddabc0aac8adc592b29bb30d80",
+      "symbol": "stETH",
+      "logoURI": "https://static.debank.com/image/fuse_token/logo_url/0x587983b895db50ddabc0aac8adc592b29bb30d80/1ee6279eb283ca3131f834da8ff7db09.png",
+      "assetGroup": "stETH::stETH",
+      "currencyId": "stETH::stETH"
+    },
+    "0x5cb5249d420639619ffd637c79f0aa5c0a9fcd4b": {
+      "chainId": "122",
+      "decimals": 9,
+      "name": "SOL (Allbridge)",
+      "address": "0x5cb5249d420639619ffd637c79f0aa5c0a9fcd4b",
+      "symbol": "asSOL",
+      "logoURI": "https://static.debank.com/image/fuse_token/logo_url/0x5cb5249d420639619ffd637c79f0aa5c0a9fcd4b/89ab5562bab1624672dcbadcc1c86aa7.png",
+      "assetGroup": "SOL (Allbridge)::asSOL",
+      "currencyId": "SOL (Allbridge)::asSOL"
+    },
+    "0x74616164eb1892cec5fa553d45b3e5d6df7bc7b9": {
+      "chainId": "122",
+      "decimals": 18,
+      "name": "Foo",
+      "address": "0x74616164eb1892cec5fa553d45b3e5d6df7bc7b9",
+      "symbol": "$Foo",
+      "assetGroup": "Foo::$Foo",
+      "currencyId": "Foo::$Foo"
+    },
+    "0x7641d492c17795fb4cbaa8df99116c9c482c81a8": {
+      "chainId": "122",
+      "decimals": 18,
+      "name": "Bitazza Token on Fuse",
+      "address": "0x7641d492c17795fb4cbaa8df99116c9c482c81a8",
+      "symbol": "BTZ",
+      "assetGroup": "Bitazza Token on Fuse::BTZ",
+      "currencyId": "Bitazza Token on Fuse::BTZ"
+    },
+    "0x861bf3d382593ed848972cadfacba9749adce101": {
+      "chainId": "122",
+      "decimals": 18,
+      "name": "Matic Token",
+      "address": "0x861bf3d382593ed848972cadfacba9749adce101",
+      "symbol": "MATIC",
+      "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0xfbdd194376de19a88118e84e279b977f165d01b8/0f047f368f8c0dc532085075956cdadc.png",
+      "assetGroup": "POL",
+      "currencyId": "Matic Token::MATIC"
+    },
+    "0xa28a758619ba32b11f8d55eb6c0e1c7e5929bf61": {
+      "chainId": "122",
+      "decimals": 18,
+      "name": "Fates Violent Kiss Sends Reaper Grim",
+      "address": "0xa28a758619ba32b11f8d55eb6c0e1c7e5929bf61",
+      "symbol": "FVKSRG",
+      "assetGroup": "Fates Violent Kiss Sends Reaper Grim::FVKSRG",
+      "currencyId": "Fates Violent Kiss Sends Reaper Grim::FVKSRG"
+    },
+    "0xcc9d144a8a8a1e71d5ec66a13f301b9e0137e71c": {
+      "chainId": "122",
+      "decimals": 18,
+      "name": "ETH (Allbridge)",
+      "address": "0xcc9d144a8a8a1e71d5ec66a13f301b9e0137e71c",
+      "symbol": "aeETH",
+      "logoURI": "https://static.debank.com/image/fuse_token/logo_url/0xcc9d144a8a8a1e71d5ec66a13f301b9e0137e71c/562846b78b33ad7ab6087a20457f3d67.png",
+      "assetGroup": "ETH (Allbridge)::aeETH",
+      "currencyId": "ETH (Allbridge)::aeETH"
+    },
+    "0xd0ce1b4a349c35e61af02f5971e71ac502441e49": {
+      "chainId": "122",
+      "decimals": 18,
+      "name": "Fuse Dollar",
+      "address": "0xd0ce1b4a349c35e61af02f5971e71ac502441e49",
+      "symbol": "fUSD",
+      "logoURI": "https://static.debank.com/image/fuse_token/logo_url/0xd0ce1b4a349c35e61af02f5971e71ac502441e49/4db7f2d35e6ae655690aeb75dbdfd99a.png",
+      "assetGroup": "Fuse Dollar::fUSD::122::0",
+      "currencyId": "Fuse Dollar::fUSD"
+    },
+    "0xd1b300aec14c5ddb934c5bbcba4e9f7463b9e3ca": {
+      "chainId": "122",
+      "decimals": 18,
+      "name": "Maker",
+      "address": "0xd1b300aec14c5ddb934c5bbcba4e9f7463b9e3ca",
+      "symbol": "MKR",
+      "assetGroup": "Maker::MKR",
+      "currencyId": "Maker::MKR"
+    },
+    "0xde4b9879b56187d13b2c41da24c72ff100a5ac9a": {
+      "chainId": "122",
+      "decimals": 9,
+      "name": "Ladybot",
+      "address": "0xde4b9879b56187d13b2c41da24c72ff100a5ac9a",
+      "symbol": "$Lady",
+      "logoURI": "https://static.debank.com/image/fuse_token/logo_url/0xde4b9879b56187d13b2c41da24c72ff100a5ac9a/2b7ab8b8a87cb547b9afd8c3fa4e9e10.png",
+      "assetGroup": "Ladybot::$Lady",
+      "currencyId": "Ladybot::$Lady"
+    },
+    "0xe3df2c1f1ca54707ab49747eebc7658bb1c8bf1c": {
+      "chainId": "122",
+      "decimals": 18,
+      "name": "Freedom",
+      "address": "0xe3df2c1f1ca54707ab49747eebc7658bb1c8bf1c",
+      "symbol": "FDM",
+      "logoURI": "https://static.debank.com/image/fuse_token/logo_url/0xe3df2c1f1ca54707ab49747eebc7658bb1c8bf1c/63a3b989a39a2ac5efa08894527ea10a.png",
+      "assetGroup": "Freedom::FDM",
+      "currencyId": "Freedom::FDM"
+    },
+    "0xf2c6c1aa2bf8ec40f564ea8a483f64907ea37a3f": {
+      "chainId": "122",
+      "decimals": 18,
+      "name": "Lightning",
+      "address": "0xf2c6c1aa2bf8ec40f564ea8a483f64907ea37a3f",
+      "symbol": "LIT",
+      "logoURI": "https://static.debank.com/image/fuse_token/logo_url/0xf2c6c1aa2bf8ec40f564ea8a483f64907ea37a3f/377487d690354af60fff867c0c889a4f.png",
+      "assetGroup": "Lightning::LIT",
+      "currencyId": "Lightning::LIT"
     }
   },
   "mainTokens": [
@@ -392,7 +588,8 @@
     "0x43b17749b246fd2a96de25d9e4184e27e09765b0",
     "0x0972f26e8943679b043de23df2fd3852177a7c48",
     "0x7f59ae3a787c0d1d640f99883d0e48c22188c54f",
-    "0x90708b20ccc1eb95a4fa7c8b18fd2c22a0ff9e78"
+    "0x90708b20ccc1eb95a4fa7c8b18fd2c22a0ff9e78",
+    "0x117c0419352ddb6fe575a67faa70315bdc4a93f3"
   ],
   "bridgeTokens": [
     "0x33284f95ccb7b948d9d352e1439561cf83d8d00d",

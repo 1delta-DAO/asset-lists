@@ -893,6 +893,24 @@
       "assetGroup": "aSUGAR::ASUGAR",
       "currencyId": "aSUGAR::ASUGAR",
       "tags": ["coingecko", "biconomy-gas-token"]
+    },
+    "0x2416092f143378750bb29b79ed961ab195cceea5": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "Renzo Restaked ETH",
+      "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
+      "symbol": "ezETH",
+      "assetGroup": "EZETH",
+      "currencyId": "Renzo Restaked ETH::ezETH"
+    },
+    "0xff9c599d51c407a45d631c6e89cb047efb88aef6": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "Pendle",
+      "address": "0xff9c599d51c407a45d631c6e89cb047efb88aef6",
+      "symbol": "PENDLE",
+      "assetGroup": "PENDLE",
+      "currencyId": "Pendle::PENDLE"
     }
   },
   "mainTokens": [

@@ -33,6 +33,25 @@
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
       "tags": ["wnative"]
+    },
+    "0x2cfc85d8e48f8eab294be644d9e25c3030863003": {
+      "chainId": "480",
+      "decimals": 18,
+      "name": "WLD",
+      "address": "0x2cfc85d8e48f8eab294be644d9e25c3030863003",
+      "symbol": "WLD",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x163f8c2467924be0ae7b5347228cabf260318753/30ac094d49a4b6e7561810c16ddc8c69.png",
+      "assetGroup": "WLD::WLD",
+      "currencyId": "WLD::WLD"
+    },
+    "0x7077c71b4af70737a08287e279b717dcf64fdc57": {
+      "chainId": "480",
+      "decimals": 18,
+      "name": "PoolTogether",
+      "address": "0x7077c71b4af70737a08287e279b717dcf64fdc57",
+      "symbol": "POOL",
+      "assetGroup": "POOL",
+      "currencyId": "PoolTogether::POOL"
     }
   },
   "mainTokens": [

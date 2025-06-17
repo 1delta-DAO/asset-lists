@@ -721,6 +721,101 @@
       "assetGroup": "LUSD Stablecoin::LUSD",
       "currencyId": "LUSD Stablecoin::LUSD",
       "tags": ["biconomy-gas-token"]
+    },
+    "0x58538e6a46e07434d7e7375bc268d3cb839c0133": {
+      "chainId": "534352",
+      "decimals": 18,
+      "name": "ENA",
+      "address": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
+      "symbol": "ENA",
+      "logoURI": "https://ethena.fi/shared/ecosystem/ENA.svg",
+      "assetGroup": "ENA::ENA",
+      "currencyId": "ENA::ENA"
+    },
+    "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2": {
+      "chainId": "534352",
+      "decimals": 18,
+      "name": "sUSDe",
+      "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+      "symbol": "sUSDe",
+      "logoURI": "https://ethena.fi/shared/ecosystem/sUSDe.svg",
+      "assetGroup": "SUSDE",
+      "currencyId": "sUSDe::sUSDe"
+    },
+    "0x188b158caf5ea252012dbd6030afc030329c4961": {
+      "chainId": "534352",
+      "decimals": 18,
+      "name": "Zen",
+      "address": "0x188b158caf5ea252012dbd6030afc030329c4961",
+      "symbol": "ZEN",
+      "logoURI": "https://static.debank.com/image/scrl_token/logo_url/0x188b158caf5ea252012dbd6030afc030329c4961/f88759f32db49aa9c026e3f2d398b1d4.png",
+      "assetGroup": "Zen::ZEN",
+      "currencyId": "Zen::ZEN"
+    },
+    "0x1b896893dfc86bb67cf57767298b9073d2c1ba2c": {
+      "chainId": "534352",
+      "decimals": 18,
+      "name": "PancakeSwap Token",
+      "address": "0x1b896893dfc86bb67cf57767298b9073d2c1ba2c",
+      "symbol": "Cake",
+      "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82/9003539eb61139bd494b7412b785d482.png",
+      "assetGroup": "CAKE",
+      "currencyId": "PancakeSwap Token::Cake"
+    },
+    "0x25718130c2a8eb94e2e1fafb5f1cdd4b459acf64": {
+      "chainId": "534352",
+      "decimals": 18,
+      "name": "Aave Scroll SCR",
+      "address": "0x25718130c2a8eb94e2e1fafb5f1cdd4b459acf64",
+      "symbol": "aScrSCR",
+      "assetGroup": "Aave Scroll SCR::aScrSCR",
+      "currencyId": "Aave Scroll SCR::aScrSCR"
+    },
+    "0x548c6944cba02b9d1c0570102c89de64d258d3ac": {
+      "chainId": "534352",
+      "decimals": 18,
+      "name": "ChainLink Token",
+      "address": "0x548c6944cba02b9d1c0570102c89de64d258d3ac",
+      "symbol": "LINK",
+      "assetGroup": "LINK",
+      "currencyId": "ChainLink Token::LINK"
+    },
+    "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f": {
+      "chainId": "534352",
+      "decimals": 6,
+      "name": "Axelar",
+      "address": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f",
+      "symbol": "AXL",
+      "assetGroup": "AXL",
+      "currencyId": "Axelar::AXL"
+    },
+    "0x2a00647f45047f05bded961eb8ecabc42780e604": {
+      "chainId": "534352",
+      "decimals": 18,
+      "name": "LayerBank Token",
+      "address": "0x2a00647f45047f05bded961eb8ecabc42780e604",
+      "symbol": "LAB.s",
+      "assetGroup": "LayerBank Token::LAB.s",
+      "currencyId": "LayerBank Token::LAB.s"
+    },
+    "0xc4d46e8402f476f269c379677c99f18e22ea030e": {
+      "chainId": "534352",
+      "decimals": 18,
+      "name": "PufferVault",
+      "address": "0xc4d46e8402f476f269c379677c99f18e22ea030e",
+      "symbol": "PufETH",
+      "assetGroup": "PufferVault::PufETH",
+      "currencyId": "PufferVault::PufETH"
+    },
+    "0xc19669a405067927865b40ea045a2baabbbe57f5": {
+      "chainId": "534352",
+      "decimals": 18,
+      "name": "STAR",
+      "address": "0xc19669a405067927865b40ea045a2baabbbe57f5",
+      "symbol": "STAR",
+      "logoURI": "https://static.debank.com/image/base_token/logo_url/0xc19669a405067927865b40ea045a2baabbbe57f5/66449fd5f81477ead76339849c10b024.png",
+      "assetGroup": "STAR::STAR",
+      "currencyId": "STAR::STAR"
     }
   },
   "mainTokens": [

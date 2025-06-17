@@ -360,7 +360,7 @@
       "name": "DODO Bird",
       "address": "0xe9460bd2ffb12b668fa32919c785c239f974d37c",
       "symbol": "DODO",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/1645695886269_18104466444652156.png",
+      "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0xe301ed8c7630c9678c39e4e45193d1e7dfb914f7/4eb236e922847981d548c13faa346670.png",
       "assetGroup": "DODO",
       "currencyId": "DODO Bird::DODO",
       "tags": ["openocean"]
@@ -546,6 +546,120 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/yfi.jpg",
       "assetGroup": "yearn.finance (Anyswap)::anyYFI",
       "currencyId": "yearn.finance (Anyswap)::anyYFI"
+    },
+    "0x3bf21ce864e58731b6f28d68d5928bcbeb0ad172": {
+      "chainId": "1285",
+      "decimals": 18,
+      "name": "Governance OHM",
+      "address": "0x3bf21ce864e58731b6f28d68d5928bcbeb0ad172",
+      "symbol": "gOHM",
+      "logoURI": "https://static.debank.com/image/movr_token/logo_url/0x3bf21ce864e58731b6f28d68d5928bcbeb0ad172/6452ac694998bcd3defc6b5cc3e68926.png",
+      "assetGroup": "GOHM",
+      "currencyId": "Governance OHM::gOHM"
+    },
+    "0x3bfd113ad0329a7994a681236323fb16e16790e3": {
+      "chainId": "1285",
+      "decimals": 12,
+      "name": "Wrapped liquid staked KSM",
+      "address": "0x3bfd113ad0329a7994a681236323fb16e16790e3",
+      "symbol": "wstKSM",
+      "logoURI": "https://static.debank.com/image/movr_token/logo_url/0x3bfd113ad0329a7994a681236323fb16e16790e3/cf291bb1cf4dcd80b38704b61f0894ed.png",
+      "assetGroup": "Wrapped liquid staked KSM::wstKSM",
+      "currencyId": "Wrapped liquid staked KSM::wstKSM"
+    },
+    "0x48421ff1c6b93988138130865c4b7cce10358271": {
+      "chainId": "1285",
+      "decimals": 18,
+      "name": "Celer-Pegged miMATIC",
+      "address": "0x48421ff1c6b93988138130865c4b7cce10358271",
+      "symbol": "celrMAI",
+      "assetGroup": "Celer-Pegged miMATIC::celrMAI",
+      "currencyId": "Celer-Pegged miMATIC::celrMAI",
+      "tags": ["celer", "bridged"]
+    },
+    "0x6fc9651f45b262ae6338a701d563ab118b1ec0ce": {
+      "chainId": "1285",
+      "decimals": 18,
+      "name": "Crowns",
+      "address": "0x6fc9651f45b262ae6338a701d563ab118b1ec0ce",
+      "symbol": "CWS",
+      "logoURI": "https://static.debank.com/image/movr_token/logo_url/0x6fc9651f45b262ae6338a701d563ab118b1ec0ce/33c7c4befd9639fce64869ef05883118.png",
+      "assetGroup": "Crowns::CWS",
+      "currencyId": "Crowns::CWS"
+    },
+    "0x900f1ec5819fa087d368877cd03b265bf1802667": {
+      "chainId": "1285",
+      "decimals": 18,
+      "name": "IMX@moonriver",
+      "address": "0x900f1ec5819fa087d368877cd03b265bf1802667",
+      "symbol": "IMX.m",
+      "logoURI": "https://static.debank.com/image/movr_token/logo_url/0x900f1ec5819fa087d368877cd03b265bf1802667/d97ac21536f359918cb686deb22311f7.png",
+      "assetGroup": "IMX@moonriver::IMX.m",
+      "currencyId": "IMX@moonriver::IMX.m"
+    },
+    "0xfb2019dfd635a03cfff624d210aee6af2b00fc2c": {
+      "chainId": "1285",
+      "decimals": 18,
+      "name": "Mai Stablecoin",
+      "address": "0xfb2019dfd635a03cfff624d210aee6af2b00fc2c",
+      "symbol": "MAI",
+      "logoURI": "https://static.debank.com/image/coin/logo_url/mai/295a642804394964de762d65824294cf.png",
+      "assetGroup": "Mai Stablecoin::MAI",
+      "currencyId": "Mai Stablecoin::MAI"
+    },
+    "0xffffffff08220ad2e6e157f26ed8bd22a336a0a5": {
+      "chainId": "1285",
+      "decimals": 12,
+      "name": "Karura",
+      "address": "0xffffffff08220ad2e6e157f26ed8bd22a336a0a5",
+      "symbol": "xcKAR",
+      "assetGroup": "Karura::xcKAR",
+      "currencyId": "Karura::xcKAR"
+    },
+    "0xffffffff0ca324c842330521525e7de111f38972": {
+      "chainId": "1285",
+      "decimals": 18,
+      "name": "Shiden",
+      "address": "0xffffffff0ca324c842330521525e7de111f38972",
+      "symbol": "xcSDN",
+      "assetGroup": "Shiden::xcSDN",
+      "currencyId": "Shiden::xcSDN"
+    },
+    "0xffffffff83f4f317d3cbf6ec6250aec3697b3ff2": {
+      "chainId": "1285",
+      "decimals": 12,
+      "name": "Kintsugi Native Token",
+      "address": "0xffffffff83f4f317d3cbf6ec6250aec3697b3ff2",
+      "symbol": "xcKINT",
+      "assetGroup": "Kintsugi Native Token::xcKINT",
+      "currencyId": "Kintsugi Native Token::xcKINT"
+    },
+    "0xffffffffa083189f870640b141ae1e882c2b5bad": {
+      "chainId": "1285",
+      "decimals": 12,
+      "name": "Calamari",
+      "address": "0xffffffffa083189f870640b141ae1e882c2b5bad",
+      "symbol": "xcKMA",
+      "assetGroup": "Calamari::xcKMA",
+      "currencyId": "Calamari::xcKMA"
+    },
+    "0xfffffffff075423be54811ecb478e911f22dde7d": {
+      "chainId": "1285",
+      "decimals": 12,
+      "name": "xcBNC",
+      "address": "0xfffffffff075423be54811ecb478e911f22dde7d",
+      "symbol": "xcBNC",
+      "assetGroup": "xcBNC::xcBNC",
+      "currencyId": "xcBNC::xcBNC"
+    },
+    "0xfffffffff6e528ad57184579beee00c5d5e646f0": {
+      "chainId": "1285",
+      "decimals": 8,
+      "name": "Kintsugi Wrapped BTC",
+      "address": "0xfffffffff6e528ad57184579beee00c5d5e646f0",
+      "symbol": "xcKBTC",
+      "assetGroup": "Kintsugi Wrapped BTC::xcKBTC",
+      "currencyId": "Kintsugi Wrapped BTC::xcKBTC"
     }
   },
   "mainTokens": [
@@ -579,7 +693,8 @@
     "0x5d4360f1be94bd6f182f09cfe5ef9832e65eb1ac",
     "0x3d593056f3e34db7a4720d7f171447c489cfa195",
     "0x4a436073552044d5f2f49b176853ad3ad473d9d6",
-    "0xf480f38c366daac4305dc484b2ad7a496ff00cea"
+    "0xf480f38c366daac4305dc484b2ad7a496ff00cea",
+    "0xe6a991ffa8cfe62b0bf6bf72959a3d4f11b2e0f5"
   ],
   "bridgeTokens": [
     "0x682f81e57eaa716504090c3ecba8595fb54561d8",
