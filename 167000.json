@@ -118,6 +118,16 @@
       "assetGroup": "RETH",
       "currencyId": "Rocket Pool ETH::rETH"
     },
+    "0x756b6574b3162077a630895995b443aa68cd2015": {
+      "chainId": "167000",
+      "decimals": 18,
+      "name": "Wrapped eETH",
+      "address": "0x756b6574b3162077a630895995b443aa68cd2015",
+      "symbol": "weETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/33033/thumb/weETH.png?1701438396",
+      "assetGroup": "weETH",
+      "currencyId": "Wrapped eETH::weETH"
+    },
     "0xf9a06e3afaadbccccc8824a1255a88d648ca0ef6": {
       "chainId": "167000",
       "decimals": 18,
@@ -308,6 +318,7 @@
     "0xc8f4518ed4bab9a972808a493107926ce8237068",
     "0x09413312b263fd252c16e592a45f4689f26cb79d",
     "0x07d83526730c7438048d55a4fc0b850e2aab6f0b",
+    "0x756b6574b3162077a630895995b443aa68cd2015",
     "0xe3c0ff176ef92fc225096c6d1788ccb818808b35",
     "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3",
     "0xc4c410459fbaf8f7f86b6cee52b4fa1282ff9704",
