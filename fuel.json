@@ -8602,6 +8602,16 @@
       "logoURI": "https://verified-assets.fuel.network/images/USDF.png",
       "assetGroup": "USDF::USDF::fuel",
       "currencyId": "USDF::USDF"
+    },
+    "0x5505d0f58bea82a052bc51d2f67ab82e9735f0a98ca5d064ecb964b8fd30c474": {
+      "chainId": "fuel",
+      "decimals": 9,
+      "name": "Staked FUEL",
+      "address": "0x5505d0f58bea82a052bc51d2f67ab82e9735f0a98ca5d064ecb964b8fd30c474",
+      "symbol": "stFUEL",
+      "logoURI": "https://app.fuel.network/_next/image?url=https%3A%2F%2Fverified-assets.fuel.network%2Fimages%2FstFUEL.png&w=48&q=75",
+      "assetGroup": "stFUEL::Staked FUEL",
+      "currencyId": "stFUEL::Staked FUEL"
     }
   },
   "mainTokens": [
@@ -8614,6 +8624,7 @@
     "0xb5ecb0a1e08e2abbabf624ffea089df933376855f468ade35c6375b00c33996a",
     "0x1186afea9affb88809c210e13e2330b5258c2cef04bb8fff5eff372b7bd3f40f",
     "0x7a4f087c957d30218223c2baaaa365355c9ca81b6ea49004cfb1590a5399216f",
+    "0x5505d0f58bea82a052bc51d2f67ab82e9735f0a98ca5d064ecb964b8fd30c474",
     "0x642a5db59ec323c2f846d4d4cf3e58d78aff64accf4f8f6455ba0aa3ef000a3b",
     "0x9e46f919fbf978f3cad7cd34cca982d5613af63ff8aab6c379e4faa179552958",
     "0xa0265fb5c32f6e8db3197af3c7eb05c48ae373605b8165b6f4a51c5b0ba4812e",
