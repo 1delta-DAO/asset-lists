@@ -1282,7 +1282,7 @@
       "name": "Jun Share",
       "address": "0x69df45d36341f6bad3c4beffb9e77f2b74709c40",
       "symbol": "JUNS",
-      "logoURI": "https://api.swapscanner.io/v0/tokens/0x69df45d36341f6bad3c4beffb9e77f2b74709c40/icon",
+      "logoURI": "https://ss.new.klayswap.com/data/img/token/0x69DF45D36341F6BAD3c4bEfFb9e77f2b74709C40.png",
       "assetGroup": "Jun Share::JUNS",
       "currencyId": "Jun Share::JUNS"
     },
@@ -10581,6 +10581,16 @@
       "logoURI": "https://api.swapscanner.io/v0/tokens/0x032ee3261ee64748390e944d69cf87e60ad588fa/icon",
       "assetGroup": "Kaia Token Creator::KTC",
       "currencyId": "Kaia Token Creator::KTC"
+    },
+    "0x8d79be437076a0fb244f5f441c16e174b1bb074e": {
+      "chainId": "8217",
+      "decimals": 6,
+      "name": "KRWO-B",
+      "address": "0x8d79be437076a0fb244f5f441c16e174b1bb074e",
+      "symbol": "KRWO-B",
+      "logoURI": "https://api.swapscanner.io/v0/tokens/0x8d79be437076a0fb244f5f441c16e174b1bb074e/icon",
+      "assetGroup": "KRWO-B::KRWO-B",
+      "currencyId": "KRWO-B::KRWO-B"
     }
   },
   "mainTokens": [
@@ -10615,7 +10625,10 @@
     "0x0f921c39efd98809fe6d20a88a4357454578987a",
     "0xf8053b1ee65e12dee64b8d9f6e0d5d6a35be4445",
     "0xa2edb25c0ece2ad64eec7fca2d40ff6d22d87fbd",
-    "0xfd844c2fca5e595004b17615f891620d1cb9bbb2"
+    "0xfd844c2fca5e595004b17615f891620d1cb9bbb2",
+    "0x673547482afa5b629e53f90d6bb94d097e6da0ca",
+    "0x2234fb338784f1961af1649f7009ebd44c613856",
+    "0xd17795a7783dd1be6c21a5b54b89f5c5806d1ed5"
   ],
   "bridgeTokens": [
     "0x98a8345bb9d3dda9d808ca1c9142a28f6b0430e1",

@@ -63,6 +63,26 @@
       "assetGroup": "Stargate USD₮0 (Bridged)::USDT0",
       "currencyId": "Stargate USD₮0 (Bridged)::USDT0",
       "tags": ["stargate", "bridged"]
+    },
+    "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189": {
+      "chainId": "1135",
+      "decimals": 6,
+      "name": "Super USDT",
+      "address": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+      "symbol": "OpenUSDT",
+      "logoURI": "https://static.debank.com/image/celo_token/logo_url/0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189/57033d27afe3975bf4d498799a8bc396.png",
+      "assetGroup": "Super USDT::OpenUSDT",
+      "currencyId": "Super USDT::OpenUSDT"
+    },
+    "0x9bfa177621119e64cecbeabe184ab9993e2ef727": {
+      "chainId": "1135",
+      "decimals": 18,
+      "name": "Merlin BTC",
+      "address": "0x9bfa177621119e64cecbeabe184ab9993e2ef727",
+      "symbol": "M-BTC",
+      "logoURI": "https://static.debank.com/image/lisk_token/logo_url/0x9bfa177621119e64cecbeabe184ab9993e2ef727/4fbfc21e21f337f3221adea0b75baf63.png",
+      "assetGroup": "M-BTC",
+      "currencyId": "Merlin BTC::M-BTC"
     }
   },
   "mainTokens": [

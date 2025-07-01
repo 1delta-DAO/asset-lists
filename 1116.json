@@ -883,6 +883,17 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/core/0xeAB3aC417c4d6dF6b143346a46fEe1B847B50296.jpg",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH"
+    },
+    "0x00000000efe302beaa2b3e6e1b18d08d69a9012a": {
+      "chainId": "1116",
+      "decimals": 6,
+      "name": "AUSD",
+      "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+      "symbol": "AUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/Circle_Agora_White_on_Olive_1080px.png?1722961274",
+      "assetGroup": "AUSD",
+      "currencyId": "AUSD::AUSD",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -912,7 +923,8 @@
     "0xd60d60b168360dbd3496ec0ed0afe4a7498de3ce",
     "0x1a639e150d2210a4be4a5f0857a9151b241e7ae4",
     "0x30a540b05468a250fcc17da2d9d4aaa84b358ea7",
-    "0x0fd98374ee05d059885ba70988ea2d072f6fd981"
+    "0x0fd98374ee05d059885ba70988ea2d072f6fd981",
+    "0xe9aece1ba8bbd429a1ed33349c61280441ac8f99"
   ],
   "bridgeTokens": [
     "0xdd5d49910c5d475c984ee891a928de6658d2042d",

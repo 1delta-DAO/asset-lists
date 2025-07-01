@@ -65,7 +65,8 @@
       "symbol": "WBTC",
       "logoURI": "https://tokens.pancakeswap.finance/images/symbol/wbtc.png",
       "assetGroup": "WBTC",
-      "currencyId": "Wrapped BTC::WBTC"
+      "currencyId": "Wrapped BTC::WBTC",
+      "tags": ["coingecko"]
     },
     "0xaa40a1cc1561c584b675cbd12f1423a32e2a0d8c": {
       "chainId": "42793",
@@ -118,6 +119,48 @@
       "assetGroup": "Stacy Staked XTZ::STXTZ",
       "currencyId": "Stacy Staked XTZ::STXTZ",
       "tags": ["coingecko"]
+    },
+    "0xecac9c5f704e954931349da37f60e39f515c11c1": {
+      "chainId": "42793",
+      "decimals": 8,
+      "name": "Lombard Staked BTC",
+      "address": "0xecac9c5f704e954931349da37f60e39f515c11c1",
+      "symbol": "LBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/39969/standard/LBTC_Logo.png?1724959872",
+      "assetGroup": "LBTC",
+      "currencyId": "Lombard Staked BTC::LBTC"
+    },
+    "0x6b43732a9ae9f8654d496c0a075aa4aa43057a0b": {
+      "chainId": "42793",
+      "decimals": 18,
+      "name": "Sugarverse",
+      "address": "0x6b43732a9ae9f8654d496c0a075aa4aa43057a0b",
+      "symbol": "CNDY",
+      "logoURI": "https://static.debank.com/image/ethlink_token/logo_url/0x6b43732a9ae9f8654d496c0a075aa4aa43057a0b/f05befb1cb616d84b999d7096f266e50.png",
+      "assetGroup": "Sugarverse::CNDY",
+      "currencyId": "Sugarverse::CNDY"
+    },
+    "0x2247b5a46bb79421a314ab0f0b67ffd11dd37ee4": {
+      "chainId": "42793",
+      "decimals": 18,
+      "name": "Midas mBASIS",
+      "address": "0x2247b5a46bb79421a314ab0f0b67ffd11dd37ee4",
+      "symbol": "MBASIS",
+      "logoURI": "https://assets.coingecko.com/coins/images/50593/thumb/mBASIS_logo.png?1728444389",
+      "assetGroup": "Midas mBASIS::MBASIS",
+      "currencyId": "Midas mBASIS::MBASIS",
+      "tags": ["coingecko"]
+    },
+    "0xdd629e5241cbc5919847783e6c96b2de4754e438": {
+      "chainId": "42793",
+      "decimals": 18,
+      "name": "Midas mTBILL",
+      "address": "0xdd629e5241cbc5919847783e6c96b2de4754e438",
+      "symbol": "MTBILL",
+      "logoURI": "https://assets.coingecko.com/coins/images/37839/thumb/mTBILL_token.png?1728417279",
+      "assetGroup": "Midas mTBILL::MTBILL",
+      "currencyId": "Midas mTBILL::MTBILL",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -130,7 +173,9 @@
     "0xaa40a1cc1561c584b675cbd12f1423a32e2a0d8c",
     "0xe820995cd39b6e09eaa7e4e16337184b4a61b644",
     "0x18bc5bcc660cf2b9ce3cd51a404afe1a0cbd3c22",
-    "0x01f07f4d78d47a64f4c3b2b65f513f15be6e1854"
+    "0x01f07f4d78d47a64f4c3b2b65f513f15be6e1854",
+    "0x2247b5a46bb79421a314ab0f0b67ffd11dd37ee4",
+    "0xdd629e5241cbc5919847783e6c96b2de4754e438"
   ],
   "bridgeTokens": [
     "0x2c03058c8afc06713be23e58d2febc8337dbfe6a",

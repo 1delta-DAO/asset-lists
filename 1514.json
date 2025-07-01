@@ -77,6 +77,17 @@
       "assetGroup": "MUSIC by Virtuals::MUSIC",
       "currencyId": "MUSIC by Virtuals::MUSIC",
       "tags": ["debridge"]
+    },
+    "0xfe82012ecce57a188e5f9f3fc1cb2d335c58f1f5": {
+      "chainId": "1514",
+      "decimals": 18,
+      "name": "Aria Premier Launch",
+      "address": "0xfe82012ecce57a188e5f9f3fc1cb2d335c58f1f5",
+      "symbol": "APL",
+      "logoURI": "https://assets.coingecko.com/coins/images/66927/thumb/download.png?1751093687",
+      "assetGroup": "Aria Premier Launch::APL",
+      "currencyId": "Aria Premier Launch::APL",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -85,7 +96,8 @@
     "0x1514000000000000000000000000000000000000",
     "0xa4f5c615f72ddeb2220471694fff1c0c3de051e1",
     "0x2460e95f24bbd21d1fba27a751970c2455e9d7e9",
-    "0x5a212776066b81e449fe74396cce368dc4b14043"
+    "0x5a212776066b81e449fe74396cce368dc4b14043",
+    "0xfe82012ecce57a188e5f9f3fc1cb2d335c58f1f5"
   ],
   "bridgeTokens": ["0xf1815bd50389c46847f0bda824ec8da914045d14"]
 }

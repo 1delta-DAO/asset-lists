@@ -23,8 +23,22 @@
       "assetGroup": "USDC",
       "currencyId": "USDC::USDC",
       "tags": ["debridge"]
+    },
+    "0x6386da73545ae4e2b2e0393688fa8b65bb9a7169": {
+      "chainId": "50104",
+      "decimals": 6,
+      "name": "Sophon Bridged USDT (Sophon)",
+      "address": "0x6386da73545ae4e2b2e0393688fa8b65bb9a7169",
+      "symbol": "USDT",
+      "assetGroup": "USDT",
+      "currencyId": "Sophon Bridged USDT (Sophon)::USDT",
+      "tags": ["bridged", "debridge"]
     }
   },
-  "mainTokens": ["0x9aa0f72392b5784ad86c6f3e899bcc053d00db4f", "0x2b1a859de6a55c553520d7780bc5805712b128f9"],
-  "bridgeTokens": ["0x9aa0f72392b5784ad86c6f3e899bcc053d00db4f"]
+  "mainTokens": [
+    "0x9aa0f72392b5784ad86c6f3e899bcc053d00db4f",
+    "0x2b1a859de6a55c553520d7780bc5805712b128f9",
+    "0x6386da73545ae4e2b2e0393688fa8b65bb9a7169"
+  ],
+  "bridgeTokens": ["0x9aa0f72392b5784ad86c6f3e899bcc053d00db4f", "0x6386da73545ae4e2b2e0393688fa8b65bb9a7169"]
 }

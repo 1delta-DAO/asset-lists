@@ -1127,7 +1127,8 @@
       "symbol": "aLinUSDC",
       "logoURI": "https://assets.coingecko.com/coins/images/14318/standard/aUSDC.e260d492.png",
       "assetGroup": "Aave Linea USDC::aLinUSDC",
-      "currencyId": "Aave Linea USDC::aLinUSDC"
+      "currencyId": "Aave Linea USDC::aLinUSDC",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x88231dfec71d4ff5c1e466d08c321944a7adc673": {
       "chainId": "59144",
@@ -1181,7 +1182,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/21401/thumb/SIDUS_coin_logo.png?1696520765",
       "assetGroup": "SIDUS",
       "currencyId": "Sidus::SIDUS",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xcc0966d8418d412c599a6421b760a847eb169a8c": {
       "chainId": "59144",
@@ -1192,7 +1193,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/xSolvBTC.webp",
       "assetGroup": "XSOLVBTC",
       "currencyId": "xSolvBTC::xSolvBTC",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x5c7e299cf531eb66f2a1df637d37abb78e6200c7": {
       "chainId": "59144",

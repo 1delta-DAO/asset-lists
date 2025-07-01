@@ -9862,7 +9862,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/56/0x8683ba2f8b0f69b2105f26f488bade1d3ab4dec8/small/token-logo.png",
       "assetGroup": "Alephium::ALPH",
       "currencyId": "Alephium::ALPH",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0xe2dca969624795985f2f083bcd0b674337ba130a": {
       "chainId": "56",
@@ -17273,7 +17273,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/25057/thumb/fhD9Xs16_400x400.jpg?1696524208",
       "assetGroup": "Sweat Economy::SWEAT",
       "currencyId": "Sweat Economy::SWEAT",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x103071da56e7cd95b415320760d6a0ddc4da1ca5": {
       "chainId": "56",
@@ -39331,7 +39331,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55564/thumb/gorilla.png?1746688867",
       "assetGroup": "Gorilla::GORILLA",
       "currencyId": "Gorilla::GORILLA",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xaa9f209c295437c31bde75eee1aa8453f2acabcd": {
       "chainId": "56",
@@ -46161,7 +46161,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x2492D0006411Af6C8bbb1c8afc1B0197350a79e9.png",
       "assetGroup": "Resolv USD::USR",
       "currencyId": "Resolv USD::USR",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x7b4bf9feccff207ef2cb7101ceb15b8516021acd": {
       "chainId": "56",
@@ -46194,7 +46194,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x30C60b20C25b2810cA524810467A0c342294FC61.png",
       "assetGroup": "TAIKO",
       "currencyId": "Taiko Token::TAIKO",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0xdac991621fd8048d9f235324780abd6c3ad26421": {
       "chainId": "56",
@@ -46359,7 +46359,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x3c8D20001FE883934A15c949a3355a65Ca984444.png",
       "assetGroup": "Janitor::Janitor",
       "currencyId": "Janitor::Janitor",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x68485afea9a4f50d14893defe476970a6e7f4444": {
       "chainId": "56",
@@ -46414,7 +46414,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x95034f653D5D161890836Ad2B6b8cc49D14e029a.png",
       "assetGroup": "AB::AB",
       "currencyId": "AB::AB",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x2b41228b4fec7ab712a1a4172c4e6a546ba54444": {
       "chainId": "56",
@@ -46645,7 +46645,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x39702843A6733932ec7CE0dde404e5A6DBd8C989.png",
       "assetGroup": "Avail (Wormhole)::AVAIL",
       "currencyId": "Avail (Wormhole)::AVAIL",
-      "tags": ["wormhole", "bridged", "biconomy-gas-token"]
+      "tags": ["wormhole", "bridged", "biconomy-gas-token", "coingecko"]
     },
     "0x3fefe29da25bea166fb5f6ade7b5976d2b0e586b": {
       "chainId": "56",
@@ -46995,8 +46995,10 @@
       "name": "Spark",
       "address": "0xaff2e841851700d1fc101995ee6b81ae21bb87d7",
       "symbol": "SPK",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xAfF2e841851700D1Fc101995Ee6b81Ae21Bb87D7.png",
       "assetGroup": "Spark::SPK",
-      "currencyId": "Spark::SPK"
+      "currencyId": "Spark::SPK",
+      "tags": ["biconomy-gas-token"]
     },
     "0x7e975d85714b11d862c7cffee3c88d565a139eb7": {
       "chainId": "56",
@@ -47007,7 +47009,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66628/thumb/bombie.jpg?1750069327",
       "assetGroup": "Bombie::BOMB",
       "currencyId": "Bombie::BOMB",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x0292280a1a45cbc01b7311137f4017c3fb014444": {
       "chainId": "56",
@@ -47051,7 +47053,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66648/thumb/matchain_2.jpg?1750129785",
       "assetGroup": "Matchain::MAT",
       "currencyId": "Matchain::MAT",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x7d1aed70edde00feb46d70d8f74e8f9879bc0e36": {
       "chainId": "56",
@@ -47161,6 +47163,391 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66128/thumb/ynd.png?1748425341",
       "assetGroup": "YieldNest::YND",
       "currencyId": "YieldNest::YND",
+      "tags": ["coingecko"]
+    },
+    "0x19683a9d2a31508847a026dfe77f53a05a084444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "W",
+      "address": "0x19683a9d2a31508847a026dfe77f53a05a084444",
+      "symbol": "W",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x19683a9d2a31508847a026DfE77f53A05A084444.png",
+      "assetGroup": "W::W::56::0",
+      "currencyId": "W::W",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xdb6f1f098b55e36b036603c8e54663a8d907d6e1": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "BEE",
+      "address": "0xdb6f1f098b55e36b036603c8e54663a8d907d6e1",
+      "symbol": "BEE",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xDB6f1F098B55E36B036603c8e54663a8D907D6E1.png",
+      "assetGroup": "BEE::BEE",
+      "currencyId": "BEE::BEE",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x7528bd0f620d1568c307cc8d5db481a29e8d4e37": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "THE P33L",
+      "address": "0x7528bd0f620d1568c307cc8d5db481a29e8d4e37",
+      "symbol": "P33L",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x7528BD0F620d1568c307cc8d5db481A29E8d4E37.png",
+      "assetGroup": "THE P33L::P33L",
+      "currencyId": "THE P33L::P33L",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x872109274218cb50f310e2bfb160d135b502a9d5": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Paimon SpaceX SPV Token",
+      "address": "0x872109274218cb50f310e2bfb160d135b502a9d5",
+      "symbol": "SPCX",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x872109274218cB50F310E2bFb160D135B502A9d5.png",
+      "assetGroup": "Paimon SpaceX SPV Token::SPCX",
+      "currencyId": "Paimon SpaceX SPV Token::SPCX",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xb40f2e5291c3db45abb0ca8df76f1c21e9f112a9": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "BRIC",
+      "address": "0xb40f2e5291c3db45abb0ca8df76f1c21e9f112a9",
+      "symbol": "BRIC",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xb40f2e5291c3Db45AbB0Ca8DF76F1C21E9f112a9.png",
+      "assetGroup": "BRIC::BRIC",
+      "currencyId": "BRIC::BRIC",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x8a0db359c38414b5f145f65cc1c69d9253067c43": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "UPTOP",
+      "address": "0x8a0db359c38414b5f145f65cc1c69d9253067c43",
+      "symbol": "UPTOP",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x8a0DB359c38414B5F145F65cc1c69d9253067c43.png",
+      "assetGroup": "UPTOP::UPTOP",
+      "currencyId": "UPTOP::UPTOP",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x5e0d6791edbeeba6a14d1d38e2b8233257118eb1": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "MGO",
+      "address": "0x5e0d6791edbeeba6a14d1d38e2b8233257118eb1",
+      "symbol": "MGO",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x5e0d6791EdbEEBa6a14D1d38e2b8233257118EB1.png",
+      "assetGroup": "MGO::MGO",
+      "currencyId": "MGO::MGO",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xb8a677e6d805c8d743e6f14c8bc9c19305b5defc": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Newton",
+      "address": "0xb8a677e6d805c8d743e6f14c8bc9c19305b5defc",
+      "symbol": "NEWT",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xB8A677E6D805c8d743e6f14c8bC9C19305b5deFC.png",
+      "assetGroup": "Newton::NEWT",
+      "currencyId": "Newton::NEWT",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x44f161ae29361e332dea039dfa2f404e0bc5b5cc": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Humanity",
+      "address": "0x44f161ae29361e332dea039dfa2f404e0bc5b5cc",
+      "symbol": "H",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x44F161aE29361E332dEA039DFA2F404E0bC5B5Cc.png",
+      "assetGroup": "Humanity::H",
+      "currencyId": "Humanity::H",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xabd834a7823567673e1ac07635d5d9857b34a8d3": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "AIFlow Token",
+      "address": "0xabd834a7823567673e1ac07635d5d9857b34a8d3",
+      "symbol": "AFT",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xaBd834A7823567673e1Ac07635d5D9857b34A8d3.png",
+      "assetGroup": "AIFlow Token::AFT",
+      "currencyId": "AIFlow Token::AFT",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xfdffb411c4a70aa7c95d5c981a6fb4da867e1111": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Sahara AI",
+      "address": "0xfdffb411c4a70aa7c95d5c981a6fb4da867e1111",
+      "symbol": "SAHARA",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xFDFfB411C4A70AA7C95D5C981a6Fb4Da867e1111.png",
+      "assetGroup": "Sahara AI::SAHARA",
+      "currencyId": "Sahara AI::SAHARA",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xfe723495f73714426493384eb5e49aa5b827e1d5": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Moonveil",
+      "address": "0xfe723495f73714426493384eb5e49aa5b827e1d5",
+      "symbol": "MORE",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xFe723495f73714426493384eb5e49Aa5b827e1D5.png",
+      "assetGroup": "Moonveil::MORE",
+      "currencyId": "Moonveil::MORE",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x2f714d7b9a035d4ce24af8d9b6091c07e37f43fb": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "NodeOps",
+      "address": "0x2f714d7b9a035d4ce24af8d9b6091c07e37f43fb",
+      "symbol": "NODE",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x2F714d7b9A035d4ce24af8d9b6091c07E37f43Fb.png",
+      "assetGroup": "NodeOps::NODE",
+      "currencyId": "NodeOps::NODE",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x91f9cc2649ac70a071602cade9b0c1a5868af51d": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Wrapped XTZ",
+      "address": "0x91f9cc2649ac70a071602cade9b0c1a5868af51d",
+      "symbol": "WXTZ",
+      "logoURI": "https://assets.coingecko.com/coins/images/51172/thumb/WXTZ_Logo_Black.png?1750764795",
+      "assetGroup": "XTZ",
+      "currencyId": "Wrapped XTZ::WXTZ",
+      "tags": ["coingecko"]
+    },
+    "0xffffff9936bd58a008855b0812b44d2c8dffe2aa": {
+      "chainId": "56",
+      "decimals": 6,
+      "name": "GGUSD",
+      "address": "0xffffff9936bd58a008855b0812b44d2c8dffe2aa",
+      "symbol": "GGUSD",
+      "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xffffff9936bd58a008855b0812b44d2c8dffe2aa/f03ca07ecaa32a17b4120b1b248f18ff.png",
+      "assetGroup": "GGUSD::GGUSD",
+      "currencyId": "GGUSD::GGUSD",
+      "tags": ["coingecko"]
+    },
+    "0x099ea74ed0a30f6dcc5c7d5630ece2ab5d147812": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Kepithor",
+      "address": "0x099ea74ed0a30f6dcc5c7d5630ece2ab5d147812",
+      "symbol": "KEPI",
+      "logoURI": "https://assets.coingecko.com/coins/images/66743/thumb/200.png?1750359715",
+      "assetGroup": "Kepithor::KEPI",
+      "currencyId": "Kepithor::KEPI",
+      "tags": ["coingecko"]
+    },
+    "0x18952ad1269767ffec5c39d87de6bba3320dc6c6": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "EnteriseCoin",
+      "address": "0x18952ad1269767ffec5c39d87de6bba3320dc6c6",
+      "symbol": "ENT",
+      "logoURI": "https://assets.coingecko.com/coins/images/66746/thumb/200x200.png?1750360554",
+      "assetGroup": "EnteriseCoin::ENT",
+      "currencyId": "EnteriseCoin::ENT",
+      "tags": ["coingecko"]
+    },
+    "0x55b0faf9818074716f622453abc296839d559120": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "X20 USD",
+      "address": "0x55b0faf9818074716f622453abc296839d559120",
+      "symbol": "USDX",
+      "logoURI": "https://assets.coingecko.com/coins/images/66684/thumb/200x200x20.png?1750253290",
+      "assetGroup": "X20 USD::USDX",
+      "currencyId": "X20 USD::USDX",
+      "tags": ["coingecko"]
+    },
+    "0xfbf01979ec728e043eb988b9778f2ff974422963": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Oracle Finance Network",
+      "address": "0xfbf01979ec728e043eb988b9778f2ff974422963",
+      "symbol": "ONF",
+      "logoURI": "https://assets.coingecko.com/coins/images/66815/thumb/ONF.png?1750583788",
+      "assetGroup": "Oracle Finance Network::ONF",
+      "currencyId": "Oracle Finance Network::ONF",
+      "tags": ["coingecko"]
+    },
+    "0x7c1941e49e388daf3d75ec2d187d49eca86392ea": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "LICKO",
+      "address": "0x7c1941e49e388daf3d75ec2d187d49eca86392ea",
+      "symbol": "LICKO",
+      "logoURI": "https://assets.coingecko.com/coins/images/66985/thumb/licko.jpg?1751362406",
+      "assetGroup": "LICKO::LICKO",
+      "currencyId": "LICKO::LICKO",
+      "tags": ["coingecko"]
+    },
+    "0x4a13a71d29b4e678497efd4d230c5e324cb9e5c7": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "FUSIO",
+      "address": "0x4a13a71d29b4e678497efd4d230c5e324cb9e5c7",
+      "symbol": "FUSIO",
+      "logoURI": "https://assets.coingecko.com/coins/images/66776/thumb/FusioByBgTransparent.png?1750489404",
+      "assetGroup": "FUSIO::FUSIO",
+      "currencyId": "FUSIO::FUSIO",
+      "tags": ["coingecko"]
+    },
+    "0x8459ab8d6aa488716c568896c0502c0af0eb6983": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Timeworx",
+      "address": "0x8459ab8d6aa488716c568896c0502c0af0eb6983",
+      "symbol": "TIX",
+      "logoURI": "https://assets.coingecko.com/coins/images/66903/thumb/logo-color-submark-circle-200.png?1751010332",
+      "assetGroup": "Timeworx::TIX",
+      "currencyId": "Timeworx::TIX",
+      "tags": ["coingecko"]
+    },
+    "0x7677cfeb8cad684a1a6c9a8cb1335e680065d11e": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Vulpe Finance",
+      "address": "0x7677cfeb8cad684a1a6c9a8cb1335e680065d11e",
+      "symbol": "VULPEFI",
+      "logoURI": "https://assets.coingecko.com/coins/images/66974/thumb/output-onlinepngtools.png?1751307335",
+      "assetGroup": "Vulpe Finance::VULPEFI",
+      "currencyId": "Vulpe Finance::VULPEFI",
+      "tags": ["coingecko"]
+    },
+    "0x11f4ac6c5778d68501372760e941e4192c72d559": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Tesseract",
+      "address": "0x11f4ac6c5778d68501372760e941e4192c72d559",
+      "symbol": "T4D",
+      "logoURI": "https://assets.coingecko.com/coins/images/66952/thumb/t4d-logo.jpg?1751214297",
+      "assetGroup": "Tesseract::T4D",
+      "currencyId": "Tesseract::T4D",
+      "tags": ["coingecko"]
+    },
+    "0x9495ab3549338bf14ad2f86cbcf79c7b574bba37": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Hermes AI Investment Fund",
+      "address": "0x9495ab3549338bf14ad2f86cbcf79c7b574bba37",
+      "symbol": "HERMES",
+      "logoURI": "https://assets.coingecko.com/coins/images/66784/thumb/hermes_ai_logo_200.jpg?1750522340",
+      "assetGroup": "Hermes AI Investment Fund::HERMES",
+      "currencyId": "Hermes AI Investment Fund::HERMES",
+      "tags": ["coingecko"]
+    },
+    "0x16f0d99be1fbd0312641e318c53a63b40aaf5df6": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Storepay Fintech",
+      "address": "0x16f0d99be1fbd0312641e318c53a63b40aaf5df6",
+      "symbol": "SPCFIN",
+      "logoURI": "https://assets.coingecko.com/coins/images/28601/thumb/spc.png?1696527587",
+      "assetGroup": "Storepay Fintech::SPCFIN",
+      "currencyId": "Storepay Fintech::SPCFIN",
+      "tags": ["coingecko"]
+    },
+    "0x06f5f4875652e9aa871bfeb444bb80e2b2071d7a": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "RIG TOKEN",
+      "address": "0x06f5f4875652e9aa871bfeb444bb80e2b2071d7a",
+      "symbol": "RIG",
+      "logoURI": "https://assets.coingecko.com/coins/images/66733/thumb/RIG-200.png?1750322813",
+      "assetGroup": "RIG TOKEN::RIG",
+      "currencyId": "RIG TOKEN::RIG",
+      "tags": ["coingecko"]
+    },
+    "0xbfe78de7d1c51e0868501d5fa3e88e674c79acdd": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "League of Traders",
+      "address": "0xbfe78de7d1c51e0868501d5fa3e88e674c79acdd",
+      "symbol": "LOT",
+      "logoURI": "https://assets.coingecko.com/coins/images/66739/thumb/lot-logo.jpg?1750328062",
+      "assetGroup": "League of Traders::LOT",
+      "currencyId": "League of Traders::LOT",
+      "tags": ["coingecko"]
+    },
+    "0x2e156a3e09782a785345b7a33c46c71596ffd551": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Imagen Network",
+      "address": "0x2e156a3e09782a785345b7a33c46c71596ffd551",
+      "symbol": "IMAGE",
+      "logoURI": "https://assets.coingecko.com/coins/images/66923/thumb/ImagenLogo.png?1751056043",
+      "assetGroup": "Imagen Network::IMAGE",
+      "currencyId": "Imagen Network::IMAGE",
+      "tags": ["coingecko"]
+    },
+    "0xbcab65c4951defcc8530a0dbb6c4a4e307c54ce2": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YETI",
+      "address": "0xbcab65c4951defcc8530a0dbb6c4a4e307c54ce2",
+      "symbol": "YETI",
+      "logoURI": "https://assets.coingecko.com/coins/images/66969/thumb/1000212706.png?1751268358",
+      "assetGroup": "YETI::YETI",
+      "currencyId": "YETI::YETI",
+      "tags": ["coingecko"]
+    },
+    "0x0c78d4605c2972e5f989de9019de1fb00c5d3462": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "CESS Network",
+      "address": "0x0c78d4605c2972e5f989de9019de1fb00c5d3462",
+      "symbol": "CESS",
+      "logoURI": "https://assets.coingecko.com/coins/images/32628/thumb/logo2.png?1740822959",
+      "assetGroup": "CESS Network::CESS",
+      "currencyId": "CESS Network::CESS",
+      "tags": ["coingecko"]
+    },
+    "0x76e8e912097f0e6b81cab73147161bb616df1d7d": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "KelVPN",
+      "address": "0x76e8e912097f0e6b81cab73147161bb616df1d7d",
+      "symbol": "KEL",
+      "logoURI": "https://assets.coingecko.com/coins/images/14851/thumb/logokelvpn200x200.png?1696514517",
+      "assetGroup": "KelVPN::KEL",
+      "currencyId": "KelVPN::KEL",
+      "tags": ["coingecko"]
+    },
+    "0x978ab3d5a5c39bcbb2a15f2ad324187dd7cbf952": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Rank",
+      "address": "0x978ab3d5a5c39bcbb2a15f2ad324187dd7cbf952",
+      "symbol": "RAN",
+      "logoURI": "https://assets.coingecko.com/coins/images/51928/thumb/Asset_2_2x.png?1750494485",
+      "assetGroup": "Rank::RAN",
+      "currencyId": "Rank::RAN",
+      "tags": ["coingecko"]
+    },
+    "0x00000000efe302beaa2b3e6e1b18d08d69a9012a": {
+      "chainId": "56",
+      "decimals": 6,
+      "name": "AUSD",
+      "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+      "symbol": "AUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/Circle_Agora_White_on_Olive_1080px.png?1722961274",
+      "assetGroup": "AUSD",
+      "currencyId": "AUSD::AUSD",
+      "tags": ["coingecko"]
+    },
+    "0x20482b0b4d9d8f60d3ab432b92f4c4b901a0d10c": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Rekt",
+      "address": "0x20482b0b4d9d8f60d3ab432b92f4c4b901a0d10c",
+      "symbol": "REKT",
+      "logoURI": "https://assets.coingecko.com/coins/images/51727/thumb/rektcion_trans_200px.png?1731910587",
+      "assetGroup": "Rekt::REKT",
+      "currencyId": "Rekt::REKT",
       "tags": ["coingecko"]
     }
   },

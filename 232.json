@@ -31,6 +31,15 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "assetGroup": "ETH",
       "currencyId": "WETH::WETH"
+    },
+    "0xb0588f9a9cade7cd5f194a5fe77acd6a58250f82": {
+      "chainId": "232",
+      "decimals": 18,
+      "name": "Bonsai Token",
+      "address": "0xb0588f9a9cade7cd5f194a5fe77acd6a58250f82",
+      "symbol": "BONSAI",
+      "assetGroup": "Bonsai Token::BONSAI",
+      "currencyId": "Bonsai Token::BONSAI"
     }
   },
   "mainTokens": ["0x88f08e304ec4f90d644cec3fb69b8ad414acf884", "0xe5ecd226b3032910ceaa43ba92ee8232f8237553"],

@@ -67,6 +67,17 @@
       "assetGroup": "Ankr Staked FLOW::ankrFLOWEVM",
       "currencyId": "Ankr Staked FLOW::ankrFLOWEVM",
       "tags": ["debridge"]
+    },
+    "0xb73bf8e6a4477a952e0338e6cc00cc0ce5ad04ba": {
+      "chainId": "747",
+      "decimals": 18,
+      "name": "Froth",
+      "address": "0xb73bf8e6a4477a952e0338e6cc00cc0ce5ad04ba",
+      "symbol": "FROTH",
+      "logoURI": "https://tokens.debridge.finance/Logo/100000009/0xb73bf8e6a4477a952e0338e6cc00cc0ce5ad04ba/small/token-logo.png",
+      "assetGroup": "Froth::FROTH",
+      "currencyId": "Froth::FROTH",
+      "tags": ["debridge"]
     }
   },
   "mainTokens": ["0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590", "0xd3bf53dac106a0290b0483ecbc89d40fcc961f3e"],

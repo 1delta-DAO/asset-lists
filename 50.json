@@ -240,7 +240,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
       "assetGroup": "USDC.e (Stargate)::USDCe",
       "currencyId": "USDC.e (Stargate)::USDCe",
-      "tags": ["stargate", "bridged"]
+      "tags": ["stargate", "bridged", "coingecko"]
     },
     "0xa7348290de5cf01772479c48d50dec791c3fc212": {
       "chainId": "50",
@@ -250,7 +250,8 @@
       "symbol": "WETH",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "assetGroup": "WETH::WETH",
-      "currencyId": "WETH::WETH"
+      "currencyId": "WETH::WETH",
+      "tags": ["coingecko"]
     },
     "0xcda5b77e2e2268d9e09c874c1b9a4c3f07b37555": {
       "chainId": "50",
@@ -261,7 +262,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
       "assetGroup": "USDT",
       "currencyId": "Bridged stgUSDT::USDT",
-      "tags": ["bridged"]
+      "tags": ["bridged", "coingecko"]
     }
   },
   "mainTokens": [
@@ -279,7 +280,8 @@
     "0x49d3f7543335cf38fa10889ccff10207e22110b5",
     "0x81b244d0be055ef3bef1b09b7826cc2b108b2cbd",
     "0xa7348290de5cf01772479c48d50dec791c3fc212",
-    "0xcda5b77e2e2268d9e09c874c1b9a4c3f07b37555"
+    "0xcda5b77e2e2268d9e09c874c1b9a4c3f07b37555",
+    "0xcc0587aebda397146cc828b445db130a94486e74"
   ],
   "bridgeTokens": [
     "0x867f08a3ab824b42e8058a1b48e32e1df205b092",

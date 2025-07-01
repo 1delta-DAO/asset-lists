@@ -3080,7 +3080,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
       "assetGroup": "USDT",
       "currencyId": "Tether USD::USDT",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0xc7ba59c95ba747a7c374dc7208a0513798bc5950": {
       "chainId": "130",
@@ -3135,7 +3135,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
       "assetGroup": "WBTC",
       "currencyId": "Wrapped BTC::WBTC",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0xae87b8eb5e313ac72b306cba7c1e3f23d72e82c4": {
       "chainId": "130",
@@ -3399,7 +3399,7 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/weeth.svg",
       "assetGroup": "WEETH",
       "currencyId": "Wrapped eETH::weETH",
-      "tags": ["lrt", "yield", "eth"]
+      "tags": ["lrt", "yield", "eth", "coingecko"]
     },
     "0x849f05f7cfdc4215b16a3c5a58361445c4d56c8e": {
       "chainId": "130",
@@ -3464,7 +3464,8 @@
       "symbol": "WBTC",
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599/d3c52e7c7449afa8bd4fad1c93f50d93.png",
       "assetGroup": "Wrapped BTC::WBTC",
-      "currencyId": "Wrapped BTC::WBTC"
+      "currencyId": "Wrapped BTC::WBTC",
+      "tags": ["coingecko"]
     },
     "0x81f2508aac59757ef7425ddc9717ab5c2aa0a84f": {
       "chainId": "130",
@@ -3483,6 +3484,17 @@
       "symbol": "BETS",
       "assetGroup": "BetSwirl v2::BETS",
       "currencyId": "BetSwirl v2::BETS"
+    },
+    "0x830898200f0e8be8dc1c9a836f4ab29ecedf76eb": {
+      "chainId": "130",
+      "decimals": 18,
+      "name": "Gauntlet WETH Vault",
+      "address": "0x830898200f0e8be8dc1c9a836f4ab29ecedf76eb",
+      "symbol": "gtwethc",
+      "logoURI": "https://cdn.morpho.org/assets/logos/weth.svg",
+      "assetGroup": "Gauntlet WETH Vault::gtwethc",
+      "currencyId": "Gauntlet WETH Vault::gtwethc",
+      "tags": ["erc4626"]
     }
   },
   "mainTokens": [
