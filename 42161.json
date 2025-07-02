@@ -2400,8 +2400,8 @@
         "VENUS"
       ]
     },
-    "0xf469fbd2abcd6b9de8e169d128226c0fc90a012e":{
-     "chainId": "42161",
+    "0xf469fbd2abcd6b9de8e169d128226c0fc90a012e": {
+      "chainId": "42161",
       "decimals": 8,
       "name": "pumpBTC",
       "address": "0xf469fbd2abcd6b9de8e169d128226c0fc90a012e",
@@ -2409,7 +2409,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/39232/thumb/200pxPumpBTCLogo.png?1721227861",
       "assetGroup": "PUMPBTC",
       "currencyId": "pumpBTC::pumpBTC",
-      "tags": ["AVALON_PUMP_BTC"]
+      "tags": ["AVALON_PUMP_BTC", "AVALON_UNIBTC"]
     },
     "0x82af49447d8a07e3bd95bd0d56f35241523fbab1": {
       "chainId": "42161",
@@ -21604,7 +21604,8 @@
       "address": "0x7424f00845777a06e21f0bd8873f814a8a814b2d",
       "symbol": "WXTZ",
       "assetGroup": "XTZ",
-      "currencyId": "Wrapped XTZ::WXTZ"
+      "currencyId": "Wrapped XTZ::WXTZ",
+      "tags": ["debridge"]
     },
     "0x03569cc076654f82679c4ba2124d64774781b01d": {
       "chainId": "42161",
