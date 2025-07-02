@@ -55,7 +55,7 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/aave.jpg",
       "assetGroup": "Aave Token::1AAVE",
       "currencyId": "Aave Token::1AAVE",
-      "tags": ["openocean"]
+      "tags": ["openocean", "AAVE_V3"]
     },
     "0x218532a12a389a4a92fc0c5fb22901d1c19198aa": {
       "chainId": "1666600000",
@@ -66,7 +66,7 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/link.jpg",
       "assetGroup": "LINK",
       "currencyId": "ChainLink Token::LINK",
-      "tags": ["openocean"]
+      "tags": ["openocean", "AAVE_V3"]
     },
     "0xfa7191d292d5633f702b0bd7e3e3bccc0e633200": {
       "chainId": "1666600000",
@@ -154,7 +154,7 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/one.jpg",
       "assetGroup": "ONE",
       "currencyId": "Wrapped ONE::WONE",
-      "tags": ["openocean", "wnative"]
+      "tags": ["openocean", "wnative", "AAVE_V3"]
     },
     "0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f": {
       "chainId": "1666600000",
@@ -165,7 +165,7 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
       "assetGroup": "Tether USD::1USDT",
       "currencyId": "Tether USD::1USDT",
-      "tags": ["openocean"]
+      "tags": ["openocean", "AAVE_V3"]
     },
     "0xbc594cabd205bd993e7ffa6f3e9cea75c1110da5": {
       "chainId": "1666600000",
@@ -187,7 +187,7 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
       "assetGroup": "Ethereum::1ETH",
       "currencyId": "Ethereum::1ETH",
-      "tags": ["openocean"]
+      "tags": ["openocean", "AAVE_V3"]
     },
     "0xef977d2f931c1978db5f6747666fa1eacb0d0339": {
       "chainId": "1666600000",
@@ -198,7 +198,7 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
       "assetGroup": "Dai Stablecoin::1DAI",
       "currencyId": "Dai Stablecoin::1DAI",
-      "tags": ["openocean"]
+      "tags": ["openocean", "AAVE_V3"]
     },
     "0x72cb10c6bfa5624dd07ef608027e366bd690048f": {
       "chainId": "1666600000",
@@ -264,7 +264,7 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
       "assetGroup": "Wrapped BTC::1WBTC",
       "currencyId": "Wrapped BTC::1WBTC",
-      "tags": ["openocean"]
+      "tags": ["openocean", "AAVE_V3"]
     },
     "0xe176ebe47d621b984a73036b9da5d834411ef734": {
       "chainId": "1666600000",
@@ -545,7 +545,8 @@
       "symbol": "USDC",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
       "assetGroup": "USDC",
-      "currencyId": "USD Coin::USDC"
+      "currencyId": "USD Coin::USDC",
+      "tags": ["AAVE_V3"]
     },
     "0x471f66f75af9238a2fa23ba23862b5957109fb21": {
       "chainId": "1666600000",

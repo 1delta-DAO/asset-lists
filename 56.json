@@ -11,7 +11,20 @@
       "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
       "assetGroup": "BNB",
       "currencyId": "Wrapped BNB::WBNB",
-      "tags": ["openocean", "coingecko", "debridge", "wnative", "biconomy-gas-token"]
+      "tags": [
+        "openocean",
+        "coingecko",
+        "debridge",
+        "wnative",
+        "biconomy-gas-token",
+        "AAVE_V3",
+        "AVALON_SOLV_BTC",
+        "AVALON_WBTC",
+        "AVALON_LISTA",
+        "KINZA",
+        "GRANARY",
+        "VENUS_BNB"
+      ]
     },
     "0xe9e7cea3dedca5984780bafc599bd69add087d56": {
       "chainId": "56",
@@ -22,7 +35,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/9576/thumb/BUSD.png?1568947766",
       "assetGroup": "BUSD",
       "currencyId": "BUSD Token::BUSD",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "KINZA", "VENUS"]
     },
     "0x2170ed0880ac9a755fd29b2688956bd959f933f8": {
       "chainId": "56",
@@ -33,7 +46,20 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "assetGroup": "ETH",
       "currencyId": "Ethereum Token::ETH",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token"]
+      "tags": [
+        "openocean",
+        "coingecko",
+        "debridge",
+        "biconomy-gas-token",
+        "AAVE_V3",
+        "AVALON_SOLV_BTC",
+        "AVALON_WBTC",
+        "AVALON_LISTA",
+        "KINZA",
+        "GRANARY",
+        "VENUS",
+        "SEGMENT"
+      ]
     },
     "0x55d398326f99059ff775485246999027b3197955": {
       "chainId": "56",
@@ -44,7 +70,27 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
       "assetGroup": "USDT",
       "currencyId": "Tether USD::USDT",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token"]
+      "tags": [
+        "openocean",
+        "coingecko",
+        "debridge",
+        "biconomy-gas-token",
+        "AAVE_V3",
+        "AVALON_SOLV_BTC",
+        "AVALON_USDX",
+        "AVALON_XAUM",
+        "AVALON_WBTC",
+        "AVALON_LISTA",
+        "KINZA",
+        "GRANARY",
+        "VENUS",
+        "VENUS_GAMEFI",
+        "VENUS_MEME",
+        "VENUS_STABLE",
+        "VENUS_TRON",
+        "VENUS_DEFI",
+        "SEGMENT"
+      ]
     },
     "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82": {
       "chainId": "56",
@@ -55,7 +101,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png",
       "assetGroup": "CAKE",
       "currencyId": "PancakeSwap::CAKE",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "AAVE_V3", "KINZA", "VENUS"]
     },
     "0x22a213852cee93eb6d41601133414d180c5684c2": {
       "chainId": "56",
@@ -88,7 +134,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/aave.webp",
       "assetGroup": "AAVE",
       "currencyId": "Aave::AAVE",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "VENUS"]
     },
     "0xbc7d6b50616989655afd682fb42743507003056d": {
       "chainId": "56",
@@ -219,7 +265,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/4324/thumb/U85xTl2.png?1608111978",
       "assetGroup": "ANKR",
       "currencyId": "Ankr Network::ANKR",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "VENUS_DEFI"]
     },
     "0xe2e7329499e8ddb1f2b04ee4b35a8d7f6881e4ea": {
       "chainId": "56",
@@ -327,7 +373,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/16125/large/babydoge.jpg?1676303229",
       "assetGroup": "BABYDOGE",
       "currencyId": "Baby Doge Coin::BABYDOGE",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "VENUS_MEME"]
     },
     "0xf4b5470523ccd314c6b9da041076e7d79e0df267": {
       "chainId": "56",
@@ -686,7 +732,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
       "assetGroup": "DAI",
       "currencyId": "Dai Stablecoin::DAI",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "GRANARY", "VENUS"]
     },
     "0x4d2d32d8652058bf98c772953e1df5c5c85d9f45": {
       "chainId": "56",
@@ -1136,7 +1182,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/16746/large/PNG_image.png?1643184642",
       "assetGroup": "FLOKI",
       "currencyId": "FLOKI::FLOKI",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "VENUS_GAMEFI"]
     },
     "0x681fd3e49a6188fc526784ee70aa1c269ee2b887": {
       "chainId": "56",
@@ -1678,7 +1724,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png",
       "assetGroup": "LINK",
       "currencyId": "ChainLink Token::LINK",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "VENUS"]
     },
     "0xa5ff48e326958e0ce6fdf9518de561f2b5f57da3": {
       "chainId": "56",
@@ -1764,7 +1810,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912",
       "assetGroup": "POL",
       "currencyId": "Polygon::MATIC",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "VENUS"]
     },
     "0xc32bb619966b9a56cf2472528a36fd099ce979e0": {
       "chainId": "56",
@@ -2392,7 +2438,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/17841/large/ez44_BSs_400x400.jpg?1629464170",
       "assetGroup": "RACA",
       "currencyId": "Radio Caca::RACA",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "VENUS_GAMEFI"]
     },
     "0x489580eb70a50515296ef31e8179ff3e77e24965": {
       "chainId": "56",
@@ -2837,7 +2883,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/9368/thumb/swipe.png?1566792311",
       "assetGroup": "SXP",
       "currencyId": "Swipe::SXP",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "VENUS"]
     },
     "0xa4080f1778e69467e905b8d6f72f6e441f9e9484": {
       "chainId": "56",
@@ -2936,7 +2982,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/3449/large/tusd.png?1618395665",
       "assetGroup": "TUSD",
       "currencyId": "TrueUSD::TUSD",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "VENUS"]
     },
     "0x1ffd0b47127fdd4097e54521c9e2c7f0d66aafc5": {
       "chainId": "56",
@@ -3034,7 +3080,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/UNI.webp",
       "assetGroup": "UNI",
       "currencyId": "Uniswap::UNI",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "VENUS"]
     },
     "0x474021845c4643113458ea4414bdb7fb74a01a77": {
       "chainId": "56",
@@ -3078,7 +3124,22 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
       "assetGroup": "USDC",
       "currencyId": "USD Coin::USDC",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token"]
+      "tags": [
+        "openocean",
+        "coingecko",
+        "debridge",
+        "biconomy-gas-token",
+        "AAVE_V3",
+        "AVALON_SOLV_BTC",
+        "AVALON_USDX",
+        "AVALON_XAUM",
+        "AVALON_WBTC",
+        "AVALON_LISTA",
+        "KINZA",
+        "GRANARY",
+        "VENUS",
+        "SEGMENT"
+      ]
     },
     "0x01e04c6e0b2c93bb4f8ee4b71072b861f9352660": {
       "chainId": "56",
@@ -3372,7 +3433,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/19479/standard/agEUR.png?1696518915",
       "assetGroup": "EURA",
       "currencyId": "EURA::EURA",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "VENUS_STABLE"]
     },
     "0x073690e6ce25be816e68f32dca3e11067c9fb5cc": {
       "chainId": "56",
@@ -3405,7 +3466,24 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png",
       "assetGroup": "BTCB",
       "currencyId": "Binance Pegged Bitcoin::BTCB",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token"]
+      "tags": [
+        "openocean",
+        "coingecko",
+        "debridge",
+        "biconomy-gas-token",
+        "AAVE_V3",
+        "AVALON_SOLV_BTC",
+        "AVALON_PUMP_BTC",
+        "AVALON_UNIBTC",
+        "AVALON_LBTC",
+        "AVALON_LISTA",
+        "AVALON_STBTC",
+        "KINZA",
+        "GRANARY",
+        "VENUS",
+        "VENUS_BTC",
+        "SEGMENT"
+      ]
     },
     "0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51": {
       "chainId": "56",
@@ -3427,7 +3505,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0xcF6BB5389c92Bdda8a3747Ddb454cB7a64626C63.png",
       "assetGroup": "Venus::XVS",
       "currencyId": "Venus::XVS",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "VENUS"]
     },
     "0x8f0528ce5ef7b51152a59745befdd91d97091d2f": {
       "chainId": "56",
@@ -3438,7 +3516,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F.png",
       "assetGroup": "Alpaca::ALPACA",
       "currencyId": "Alpaca::ALPACA",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "VENUS_DEFI"]
     },
     "0x7083609fce4d1d8dc0c979aab8c869ea2c873402": {
       "chainId": "56",
@@ -3449,7 +3527,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402.png",
       "assetGroup": "Polkadot Token::DOT",
       "currencyId": "Polkadot Token::DOT",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "VENUS"]
     },
     "0x4e6415a5727ea08aae4580057187923aec331227": {
       "chainId": "56",
@@ -3515,7 +3593,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE.png",
       "assetGroup": "XRP Token::XRP",
       "currencyId": "XRP Token::XRP",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "VENUS"]
     },
     "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf": {
       "chainId": "56",
@@ -3526,7 +3604,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf.png",
       "assetGroup": "Bitcoin Cash Token::BCH",
       "currencyId": "Bitcoin Cash Token::BCH",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "VENUS"]
     },
     "0x4338665cbb7b2485a8855a139b75d5e34ab0db94": {
       "chainId": "56",
@@ -3537,7 +3615,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94.png",
       "assetGroup": "Litecoin Token::LTC",
       "currencyId": "Litecoin Token::LTC",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "VENUS"]
     },
     "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47": {
       "chainId": "56",
@@ -3548,7 +3626,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47.png",
       "assetGroup": "Cardano Token::ADA",
       "currencyId": "Cardano Token::ADA",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "VENUS"]
     },
     "0x0eb3a705fc54725037cc9e008bdede697f62f335": {
       "chainId": "56",
@@ -3658,7 +3736,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x4B0F1812e5Df2A09796481Ff14017e6005508003.png",
       "assetGroup": "Trust Wallet::TWT",
       "currencyId": "Trust Wallet::TWT",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "VENUS", "VENUS_DEFI"]
     },
     "0xca3f508b8e4dd382ee878a314789373d80a5190a": {
       "chainId": "56",
@@ -3691,7 +3769,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153.png",
       "assetGroup": "Filecoin::FIL",
       "currencyId": "Filecoin::FIL",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "VENUS"]
     },
     "0x5f88ab06e8dfe89df127b2430bba4af600866035": {
       "chainId": "56",
@@ -4043,7 +4121,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x250632378E573c6Be1AC2f97Fcdf00515d0Aa91B.png",
       "assetGroup": "Beacon ETH::BETH",
       "currencyId": "Beacon ETH::BETH",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "VENUS"]
     },
     "0x23e8a70534308a4aaf76fb8c32ec13d17a3bd89e": {
       "chainId": "56",
@@ -4472,7 +4550,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x352Cb5E19b12FC216548a2677bD0fce83BaE434B.png",
       "assetGroup": "BTT",
       "currencyId": "BitTorrent::BTT",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "VENUS_TRON"]
     },
     "0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b": {
       "chainId": "56",
@@ -4483,7 +4561,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x85EAC5Ac2F758618dFa09bDbe0cf174e7d574D5B.png",
       "assetGroup": "Tron::TRX",
       "currencyId": "Tron::TRX",
-      "tags": ["openocean", "biconomy-gas-token"]
+      "tags": ["openocean", "biconomy-gas-token", "VENUS"]
     },
     "0xce7de646e7208a4ef112cb6ed5038fa6cc6b12e3": {
       "chainId": "56",
@@ -4494,7 +4572,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0xCE7de646e7208a4Ef112cb6ed5038FA6cC6b12e3.png",
       "assetGroup": "Tron V2::TRX",
       "currencyId": "Tron V2::TRX",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "VENUS", "VENUS_TRON"]
     },
     "0xaef0d72a118ce24fee3cd1d43d383897d05b4e99": {
       "chainId": "56",
@@ -4505,7 +4583,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0xaeF0d72a118ce24feE3cD1d43d383897D05B4e99.png",
       "assetGroup": "WINk::WIN",
       "currencyId": "WINk::WIN",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "VENUS_TRON"]
     },
     "0x49022089e78a8d46ec87a3af86a1db6c189afa6f": {
       "chainId": "56",
@@ -4538,7 +4616,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0xbA2aE424d960c26247Dd6c32edC70B295c744C43.png",
       "assetGroup": "DOGE",
       "currencyId": "Dogecoin::DOGE",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "VENUS"]
     },
     "0x658e64ffcf40d240a43d52ca9342140316ae44fa": {
       "chainId": "56",
@@ -5550,7 +5628,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x965F527D9159dCe6288a2219DB51fc6Eef120dD1.png",
       "assetGroup": "Biswap::BSW",
       "currencyId": "Biswap::BSW",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "VENUS_DEFI"]
     },
     "0x6a0b66710567b6beb81a71f7e9466450a91a384b": {
       "chainId": "56",
@@ -5649,7 +5727,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x52F24a5e03aee338Da5fd9Df68D2b6FAe1178827.png",
       "assetGroup": "Ankr Staked BNB::ankrBNB",
       "currencyId": "Ankr Staked BNB::ankrBNB",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "VENUS_BNB", "VENUS_DEFI"]
     },
     "0x67b725d7e342d7b611fa85e859df9697d9378b2e": {
       "chainId": "56",
@@ -5836,7 +5914,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0xc2E9d07F66A89c44062459A47a0D2Dc038E4fb16.png",
       "assetGroup": "Staked BNB::stkBNB",
       "currencyId": "Staked BNB::stkBNB",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "VENUS_BNB"]
     },
     "0xad6742a35fb341a9cc6ad674738dd8da98b94fb1": {
       "chainId": "56",
@@ -5858,7 +5936,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x0782b6d8c4551B9760e74c0545a9bCD90bdc41E5.png",
       "assetGroup": "Lista USD::lisUSD",
       "currencyId": "Lista USD::lisUSD",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "AVALON_LISTA", "KINZA", "VENUS", "VENUS_STABLE"]
     },
     "0x6aa217312960a21adbde1478dc8cbcf828110a67": {
       "chainId": "56",
@@ -6034,7 +6112,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x1bdd3Cf7F79cfB8EdbB955f20ad99211551BA275.png",
       "assetGroup": "Liquid Staking BNB::BNBx",
       "currencyId": "Liquid Staking BNB::BNBx",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "VENUS_BNB"]
     },
     "0xb64e280e9d1b5dbec4accedb2257a87b400db149": {
       "chainId": "56",
@@ -6133,7 +6211,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0xa2E3356610840701BDf5611a53974510Ae27E2e1.png",
       "assetGroup": "Wrapped Binance Beacon ETH::wBETH",
       "currencyId": "Wrapped Binance Beacon ETH::wBETH",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "KINZA", "VENUS"]
     },
     "0xbdeae1ca48894a1759a8374d63925f21f2ee2639": {
       "chainId": "56",
@@ -6188,7 +6266,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x40af3827F39D0EAcBF4A168f8D4ee67c121D11c9.png",
       "assetGroup": "TrueUSD::TUSD",
       "currencyId": "TrueUSD::TUSD",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "KINZA", "VENUS"]
     },
     "0x0034719300501b06e10ebb1d07ea5967301f0941": {
       "chainId": "56",
@@ -6243,7 +6321,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0xB0b84D294e0C75A6abe60171b70edEb2EFd14A1B.png",
       "assetGroup": "Staked Lista BNB::slisBNB",
       "currencyId": "Staked Lista BNB::slisBNB",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "AVALON_LISTA", "KINZA", "VENUS_BNB"]
     },
     "0xca6d678e74f553f0e59cccc03ae644a3c2c5ee7d": {
       "chainId": "56",
@@ -6254,7 +6332,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0xCa6d678e74f553f0E59cccC03ae644a3c2c5EE7d.png",
       "assetGroup": "PLANET::PLANET",
       "currencyId": "PLANET::PLANET",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "VENUS_DEFI"]
     },
     "0x16faf9daa401aa42506af503aa3d80b871c467a3": {
       "chainId": "56",
@@ -6331,7 +6409,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409.png",
       "assetGroup": "FDUSD",
       "currencyId": "First Digital USD::FDUSD",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "AAVE_V3", "AVALON_LISTA", "KINZA", "VENUS"]
     },
     "0xf00600ebc7633462bc4f9c61ea2ce99f5aaebd4a": {
       "chainId": "56",
@@ -6628,7 +6706,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x570A5D26f7765Ecb712C0924E4De545B89fD43dF.png",
       "assetGroup": "SOL",
       "currencyId": "SOLANA::SOL",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "VENUS"]
     },
     "0x6d106c0b8d2f47c5465bdbd58d1be253762cbbc1": {
       "chainId": "56",
@@ -6705,7 +6783,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x2416092f143378750bb29b79eD961ab195CcEea5.png",
       "assetGroup": "EZETH",
       "currencyId": "Renzo Restaked ETH::ezETH",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "KINZA"]
     },
     "0x4ea98c1999575aaadfb38237dd015c5e773f75a2": {
       "chainId": "56",
@@ -6837,7 +6915,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/SolvBTC.webp",
       "assetGroup": "SOLVBTC",
       "currencyId": "Solv BTC::SolvBTC",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "AVALON_SOLV_BTC", "KINZA", "VENUS"]
     },
     "0x80137510979822322193fc997d400d5a6c747bf7": {
       "chainId": "56",
@@ -6848,7 +6926,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x80137510979822322193FC997d400D5A6C747bf7.png",
       "assetGroup": "STONE",
       "currencyId": "StakeStone Ether::STONE",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "KINZA", "SEGMENT"]
     },
     "0xfceb31a79f71ac9cbdcf853519c1b12d379edc46": {
       "chainId": "56",
@@ -6859,7 +6937,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0xFceB31A79F71AC9CBDCF853519c1b12D379EdC46.png",
       "assetGroup": "LISTA",
       "currencyId": "Lista DAO::LISTA",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "AVALON_LISTA"]
     },
     "0x0203d275d2a65030889af45ed91d472be3948b92": {
       "chainId": "56",
@@ -6892,7 +6970,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x53E63a31fD1077f949204b94F431bCaB98F72BCE.png",
       "assetGroup": "SOLVBTC.ENA",
       "currencyId": "SolvBTC Ethena::SolvBTC.ENA",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "AVALON_SOLV_BTC"]
     },
     "0x9f5d4479b783327b61718fa13b3a0583869a80c1": {
       "chainId": "56",
@@ -6947,7 +7025,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/xSolvBTC.webp",
       "assetGroup": "XSOLVBTC",
       "currencyId": "xSolvBTC::xSolvBTC",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "AVALON_SOLV_BTC", "KINZA", "VENUS"]
     },
     "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3": {
       "chainId": "56",
@@ -6958,7 +7036,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/stBTC.webp",
       "assetGroup": "STBTC",
       "currencyId": "Lorenzo stBTC::stBTC",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "AVALON_STBTC", "KINZA"]
     },
     "0x654a32542a84bea7d2c2c1a1ed1aaaf26888e6bd": {
       "chainId": "56",
@@ -6980,7 +7058,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x26c5e01524d2E6280A48F2c50fF6De7e52E9611C.png",
       "assetGroup": "WSTETH",
       "currencyId": "Wrapped liquid staked Ether 2.0::wstETH",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "AAVE_V3"]
     },
     "0x9356f6d95b8e109f4b7ce3e49d672967d3b48383": {
       "chainId": "56",
@@ -7046,7 +7124,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x6B2a01A5f79dEb4c2f3c0eDa7b01DF456FbD726a.png",
       "assetGroup": "UNIBTC",
       "currencyId": "uniBTC::uniBTC",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "AVALON_UNIBTC"]
     },
     "0x0555e30da8f98308edb960aa94c0db47230d2b9c": {
       "chainId": "56",
@@ -7057,7 +7135,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x0555E30da8f98308EdB960aa94C0Db47230d2B9c.png",
       "assetGroup": "WBTC",
       "currencyId": "Wrapped BTC::WBTC",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "AVALON_WBTC"]
     },
     "0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07": {
       "chainId": "56",
@@ -7200,7 +7278,15 @@
       "logoURI": "https://tokens.debridge.finance/Logo/56/0xd17479997f34dd9156deef8f95a52d81d265be9c/small/token-logo.png",
       "assetGroup": "USDD",
       "currencyId": "USDD::USDD",
-      "tags": ["openocean", "debridge", "biconomy-gas-token"]
+      "tags": [
+        "openocean",
+        "debridge",
+        "biconomy-gas-token",
+        "VENUS_GAMEFI",
+        "VENUS_STABLE",
+        "VENUS_TRON",
+        "VENUS_DEFI"
+      ]
     },
     "0x738d96caf7096659db4c1afbf1e1bdfd281f388c": {
       "chainId": "56",
@@ -8575,7 +8661,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/56/0xf4c8e32eadec4bfe97e0f595add0f4450a863a11/small/token-logo.png",
       "assetGroup": "THE",
       "currencyId": "Thena::THE",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "VENUS"]
     },
     "0xb04906e95ab5d797ada81508115611fee694c2b3": {
       "chainId": "56",
@@ -8718,7 +8804,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/56/0xecac9c5f704e954931349da37f60e39f515c11c1/small/token-logo.png",
       "assetGroup": "LBTC",
       "currencyId": "Lombard Staked BTC::LBTC",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "AVALON_LBTC"]
     },
     "0xfebe8c1ed424dbf688551d4e2267e7a53698f0aa": {
       "chainId": "56",
@@ -9411,7 +9497,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/56/0x156ab3346823b651294766e23e6cf87254d68962/small/token-logo.png",
       "assetGroup": "LUNA",
       "currencyId": "Terra Classic (Wormhole)::LUNA",
-      "tags": ["wormhole", "bridged", "coingecko", "debridge"]
+      "tags": ["wormhole", "bridged", "coingecko", "debridge", "VENUS"]
     },
     "0xfebfa339e44c28e2aa9e62ea1027c9cb4e378605": {
       "chainId": "56",
@@ -10500,7 +10586,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/56/0xf3527ef8de265eaa3716fb312c12847bfba66cef/small/token-logo.png",
       "assetGroup": "USDX",
       "currencyId": "Stables Labs USDX::USDX",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "AVALON_USDX"]
     },
     "0x9356086146be5158e98ad827e21b5cf944699894": {
       "chainId": "56",
@@ -16987,7 +17073,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/56/0xf9c4ff105803a77ecb5dae300871ad76c2794fa4/small/token-logo.png",
       "assetGroup": "PUMPBTC",
       "currencyId": "pumpBTC::pumpBTC",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "AVALON_PUMP_BTC"]
     },
     "0xdc49a53e1f15fd7fd522e0691cb570f442e9ca6c": {
       "chainId": "56",
@@ -17130,7 +17216,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/56/0x77734e70b6e88b4d82fe632a168edf6e700912b6/small/token-logo.png",
       "assetGroup": "Astherus Staked BNB::asBNB",
       "currencyId": "Astherus Staked BNB::asBNB",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "VENUS", "VENUS_BNB"]
     },
     "0x80eede496655fb9047dd39d9f418d5483ed600df": {
       "chainId": "56",
@@ -19690,7 +19776,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/56/0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92/small/token-logo.png",
       "assetGroup": "SUSDX",
       "currencyId": "Staked USDX::sUSDX",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "AVALON_USDX"]
     },
     "0x414f9e74ba3a9d0acce65182809492f41ac671e0": {
       "chainId": "56",
@@ -30511,7 +30597,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/56/0x23ae4fd8e7844cdbc97775496ebd0e8248656028/small/token-logo.png",
       "assetGroup": "XAUM",
       "currencyId": "Matrixdock Gold::XAUM",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "AVALON_XAUM", "KINZA"]
     },
     "0x6fa9c0ee8a1f237466bb9cac8466bfa2aa63a978": {
       "chainId": "56",
@@ -34240,7 +34326,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/56/0x3d4350cd54aef9f9b2c29435e0fa809957b3f30a/small/token-logo.png",
       "assetGroup": "UST",
       "currencyId": "TerraUSD (Wormhole)::UST",
-      "tags": ["wormhole", "bridged", "coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["wormhole", "bridged", "coingecko", "debridge", "biconomy-gas-token", "VENUS"]
     },
     "0xb2343143f814639c9b1f42961c698247171df34a": {
       "chainId": "56",
@@ -39562,7 +39648,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54977/thumb/30Q2SFVH_400x400.jpg?1742998328",
       "assetGroup": "USD1::USD1",
       "currencyId": "USD1::USD1",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "KINZA", "VENUS"]
     },
     "0xb7c0007ab75350c582d5eab1862b872b5cf53f0c": {
       "chainId": "56",
@@ -41922,7 +42008,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/37760/thumb/Instagram_post_-_25.png?1715475306",
       "assetGroup": "Satoshi Stablecoin::SATUSD",
       "currencyId": "Satoshi Stablecoin::SATUSD",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "SEGMENT"]
     },
     "0x67aa700ab0110cc52bf7f308fe25068e87a0f581": {
       "chainId": "56",
@@ -42822,7 +42908,7 @@
       "symbol": "xPufETH",
       "assetGroup": "pufETH::xPufETH",
       "currencyId": "pufETH::xPufETH",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "KINZA", "SEGMENT"]
     },
     "0xffeb8287de7dc756067e171e9919c730f0636680": {
       "chainId": "56",
@@ -46139,7 +46225,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34.png",
       "assetGroup": "USDE",
       "currencyId": "USDe::USDe",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "VENUS"]
     },
     "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2": {
       "chainId": "56",
@@ -46150,7 +46236,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2.png",
       "assetGroup": "SUSDE",
       "currencyId": "Staked USDe::sUSDe",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "VENUS"]
     },
     "0x2492d0006411af6c8bbb1c8afc1b0197350a79e9": {
       "chainId": "56",
@@ -47548,6 +47634,59 @@
       "logoURI": "https://assets.coingecko.com/coins/images/51727/thumb/rektcion_trans_200px.png?1731910587",
       "assetGroup": "Rekt::REKT",
       "currencyId": "Rekt::REKT",
+      "tags": ["coingecko"]
+    },
+    "0x308f4f8979285416d21876843ee67e79b086fa3a": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Descipher Fund",
+      "address": "0x308f4f8979285416d21876843ee67e79b086fa3a",
+      "symbol": "DESCI",
+      "logoURI": "https://assets.coingecko.com/coins/images/66987/thumb/Descipher-200x200.png?1751379648",
+      "assetGroup": "Descipher Fund::DESCI",
+      "currencyId": "Descipher Fund::DESCI",
+      "tags": ["coingecko"]
+    },
+    "0x06238c1b8e618abedf17669228dc95fb2d2e210b": {
+      "chainId": "56",
+      "decimals": 8,
+      "name": "Echo",
+      "address": "0x06238c1b8e618abedf17669228dc95fb2d2e210b",
+      "symbol": "ECHO",
+      "assetGroup": "Echo::ECHO",
+      "currencyId": "Echo::ECHO"
+    },
+    "0x00e2a5eb6369be46a35da704b9b6d3711ed70186": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "G8DAY",
+      "address": "0x00e2a5eb6369be46a35da704b9b6d3711ed70186",
+      "symbol": "G8D",
+      "logoURI": "https://assets.coingecko.com/coins/images/67007/thumb/IMG_20250630_234301_108.jpg?1751450083",
+      "assetGroup": "G8DAY::G8D",
+      "currencyId": "G8DAY::G8D",
+      "tags": ["coingecko"]
+    },
+    "0x26b20ea5c29b12abeb27b521045d823b24222fc8": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Paynetic",
+      "address": "0x26b20ea5c29b12abeb27b521045d823b24222fc8",
+      "symbol": "PYN",
+      "logoURI": "https://assets.coingecko.com/coins/images/66988/thumb/WgpeGgfB_400x400.png?1751382655",
+      "assetGroup": "Paynetic::PYN",
+      "currencyId": "Paynetic::PYN",
+      "tags": ["coingecko"]
+    },
+    "0xd6752d1c7fcec58bffe3898eb31453b9e35d47e6": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Baldor",
+      "address": "0xd6752d1c7fcec58bffe3898eb31453b9e35d47e6",
+      "symbol": "BALDOR",
+      "logoURI": "https://assets.coingecko.com/coins/images/66991/thumb/BALDOR_%28200_x_200_px%29.png?1751388218",
+      "assetGroup": "Baldor::BALDOR",
+      "currencyId": "Baldor::BALDOR",
       "tags": ["coingecko"]
     }
   },

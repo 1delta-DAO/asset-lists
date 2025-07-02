@@ -22,7 +22,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/662/thumb/logo_square_simple_300px.png?1696501854",
       "assetGroup": "GNO",
       "currencyId": "Gnosis Token::GNO",
-      "tags": ["openocean", "coingecko", "biconomy-gas-token"]
+      "tags": ["openocean", "coingecko", "biconomy-gas-token", "AAVE_V3", "SPARK", "AGAVE"]
     },
     "0xd3dff217818b4f33eb38a243158fbed2bbb029d3": {
       "chainId": "100",
@@ -31,7 +31,8 @@
       "address": "0xd3dff217818b4f33eb38a243158fbed2bbb029d3",
       "symbol": "RTW-USD-01",
       "assetGroup": "RealToken Wrapped USD 01::RTW-USD-01",
-      "currencyId": "RealToken Wrapped USD 01::RTW-USD-01"
+      "currencyId": "RealToken Wrapped USD 01::RTW-USD-01",
+      "tags": ["RMM"]
     },
     "0x2995d1317dcd4f0ab89f4ae60f3f020a4f17c7ce": {
       "chainId": "100",
@@ -53,7 +54,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
       "assetGroup": "LINK",
       "currencyId": "ChainLink Token::LINK",
-      "tags": ["openocean", "coingecko", "biconomy-gas-token"]
+      "tags": ["openocean", "coingecko", "biconomy-gas-token", "AGAVE"]
     },
     "0x8e5bbbb09ed1ebde8674cda39a0c169401db4252": {
       "chainId": "100",
@@ -64,7 +65,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/39595/thumb/wbtc.png?1723016785",
       "assetGroup": "WBTC",
       "currencyId": "Wrapped BTC::WBTC",
-      "tags": ["openocean", "coingecko", "biconomy-gas-token"]
+      "tags": ["openocean", "coingecko", "biconomy-gas-token", "AGAVE"]
     },
     "0xb7d311e2eb55f2f68a9440da38e7989210b9a05e": {
       "chainId": "100",
@@ -119,7 +120,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/11062/thumb/Identity-Primary-DarkBG.png?1696511004",
       "assetGroup": "XDAI",
       "currencyId": "Wrapped xDAI::WXDAI",
-      "tags": ["openocean", "coingecko", "wnative", "biconomy-gas-token"]
+      "tags": ["openocean", "coingecko", "wnative", "biconomy-gas-token", "AAVE_V3", "SPARK", "RMM", "AGAVE"]
     },
     "0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1": {
       "chainId": "100",
@@ -130,7 +131,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "tags": ["openocean", "coingecko", "biconomy-gas-token"]
+      "tags": ["openocean", "coingecko", "biconomy-gas-token", "AAVE_V3", "SPARK", "AGAVE"]
     },
     "0xddafbb505ad214d7b80b1f830fccc89b60fb7a83": {
       "chainId": "100",
@@ -141,7 +142,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/35300/thumb/USDC_Icon.png?1708083625",
       "assetGroup": "USDC",
       "currencyId": "USD Coin::USDC",
-      "tags": ["openocean", "coingecko", "biconomy-gas-token"]
+      "tags": ["openocean", "coingecko", "biconomy-gas-token", "AAVE_V3", "SPARK", "RMM", "AGAVE"]
     },
     "0x4ecaba5870353805a9f068101a40e0f32ed605c6": {
       "chainId": "100",
@@ -152,7 +153,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/35072/thumb/logo.png?1707292488",
       "assetGroup": "USDT",
       "currencyId": "Tether USD::USDT",
-      "tags": ["openocean", "coingecko", "biconomy-gas-token"]
+      "tags": ["openocean", "coingecko", "biconomy-gas-token", "SPARK", "AGAVE"]
     },
     "0xd4fdec44db9d44b8f2b6d529620f9c0c7066a2c1": {
       "chainId": "100",
@@ -273,7 +274,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/33017/thumb/wStETH.png?1700190250",
       "assetGroup": "WSTETH",
       "currencyId": "Wrapped liquid staked Ether 2.0::wstETH",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "AAVE_V3", "SPARK", "AGAVE"]
     },
     "0xa1fa064a85266e2ca82dee5c5ccec84df445760e": {
       "chainId": "100",
@@ -306,7 +307,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/32066/thumb/sDAI_Logo_%281%29.png?1696530863",
       "assetGroup": "SDAI",
       "currencyId": "Savings Dai::sDAI",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "AAVE_V3", "SPARK", "AGAVE"]
     },
     "0x18e9262e68cc6c6004db93105cc7c001bb103e49": {
       "chainId": "100",
@@ -339,7 +340,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/38775/thumb/USDC_Icon.webp?1718798033",
       "assetGroup": "USDC",
       "currencyId": "Bridged USDC::USDC.e",
-      "tags": ["bridged", "coingecko", "biconomy-gas-token"]
+      "tags": ["bridged", "coingecko", "biconomy-gas-token", "AAVE_V3", "SPARK"]
     },
     "0x0aa1e96d2a46ec6beb2923de1e61addf5f5f1dce": {
       "chainId": "100",
@@ -526,7 +527,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/9988/thumb/fox_token.png?1728373561",
       "assetGroup": "ShapeShift FOX::FOX",
       "currencyId": "ShapeShift FOX::FOX",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "AGAVE"]
     },
     "0x2d5563da42b06fbbf9c67b7dc073cf6a7842239e": {
       "chainId": "100",
@@ -823,7 +824,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/23354/thumb/eur.png?1696522569",
       "assetGroup": "Monerium EUR emoney::EURE",
       "currencyId": "Monerium EUR emoney::EURE",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "AAVE_V3", "SPARK", "AGAVE"]
     },
     "0xaad66432d27737ecf6ed183160adc5ef36ab99f2": {
       "chainId": "100",

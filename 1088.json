@@ -66,7 +66,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "AAVE_V3", "GRANARY"]
     },
     "0xa5b55ab1daf0f8e1efc0eb1931a957fd89b918f4": {
       "chainId": "1088",
@@ -77,7 +77,7 @@
       "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2/logo.png",
       "assetGroup": "WBTC",
       "currencyId": "Wrapped BTC::WBTC",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "GRANARY"]
     },
     "0xa11dd414ad9b68cc1fe4d0a256f0f4413169dd5e": {
       "chainId": "1088",
@@ -263,7 +263,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/35001/thumb/logo.png?1706959346",
       "assetGroup": "USDT",
       "currencyId": "Bridged USDT::m.USDT",
-      "tags": ["bridged", "coingecko", "debridge"]
+      "tags": ["bridged", "coingecko", "debridge", "AAVE_V3", "GRANARY"]
     },
     "0x85abaddcae06efee2cb5f75f33b6471759efde24": {
       "chainId": "1088",
@@ -296,7 +296,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/35218/thumb/USDC_Icon.png?1707908537",
       "assetGroup": "USDC",
       "currencyId": "Bridged USDC::m.USDC",
-      "tags": ["bridged", "coingecko", "debridge"]
+      "tags": ["bridged", "coingecko", "debridge", "AAVE_V3", "GRANARY"]
     },
     "0x80eede496655fb9047dd39d9f418d5483ed600df": {
       "chainId": "1088",
@@ -318,7 +318,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/15595/thumb/Metis_Black_Bg.png?1702968192",
       "assetGroup": "METIS",
       "currencyId": "Metis::METIS",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "AAVE_V3", "GRANARY"]
     },
     "0x1affbc17938a25d245e1b7ec6f2fc949df8e9760": {
       "chainId": "1088",
@@ -471,7 +471,8 @@
       "symbol": "DAI",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
       "assetGroup": "DAI",
-      "currencyId": "Dai Stablecoin::DAI"
+      "currencyId": "Dai Stablecoin::DAI",
+      "tags": ["AAVE_V3"]
     },
     "0x17ee7e4da37b01fc1bcc908fa63df343f23b4b7c": {
       "chainId": "1088",

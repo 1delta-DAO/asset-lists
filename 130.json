@@ -2992,7 +2992,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/UNI.webp",
       "assetGroup": "UNI",
       "currencyId": "Uniswap::UNI",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "COMPOUND_V3_USDC", "VENUS"]
     },
     "0x5eaff8fa6f3831bb86feeb701e6f98293e264d36": {
       "chainId": "130",
@@ -3014,7 +3014,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
       "assetGroup": "USDC",
       "currencyId": "USD Coin::USDC",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "COMPOUND_V3_USDC", "VENUS"]
     },
     "0x2a22868610610199d43fe93a16661473a9f86f1e": {
       "chainId": "130",
@@ -3267,7 +3267,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54331/thumb/weth_2.jpg?1739325052",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "tags": ["coingecko", "wnative", "biconomy-gas-token"]
+      "tags": ["coingecko", "wnative", "biconomy-gas-token", "COMPOUND_V3_USDC", "VENUS"]
     },
     "0x926dc7b96bb2f4a91c2a67e291faf482691a3001": {
       "chainId": "130",
@@ -3322,7 +3322,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/18834/thumb/wstETH.png?1696518295",
       "assetGroup": "Wrapped stETH::WSTETH",
       "currencyId": "Wrapped stETH::WSTETH",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "VENUS"]
     },
     "0xec4a56061d86955d0df883efb2e5791d99ea71f2": {
       "chainId": "130",
@@ -3344,7 +3344,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183",
       "assetGroup": "USDT0::USDT0",
       "currencyId": "USDT0::USDT0",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "VENUS"]
     },
     "0x3d63825b0d8669307366e6c8202f656b9e91d368": {
       "chainId": "130",
@@ -3399,7 +3399,7 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/weeth.svg",
       "assetGroup": "WEETH",
       "currencyId": "Wrapped eETH::weETH",
-      "tags": ["lrt", "yield", "eth", "coingecko"]
+      "tags": ["lrt", "yield", "eth", "coingecko", "VENUS"]
     },
     "0x849f05f7cfdc4215b16a3c5a58361445c4d56c8e": {
       "chainId": "130",
@@ -3465,7 +3465,7 @@
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599/d3c52e7c7449afa8bd4fad1c93f50d93.png",
       "assetGroup": "Wrapped BTC::WBTC",
       "currencyId": "Wrapped BTC::WBTC",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "VENUS"]
     },
     "0x81f2508aac59757ef7425ddc9717ab5c2aa0a84f": {
       "chainId": "130",

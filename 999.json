@@ -736,6 +736,829 @@
       "assetGroup": "HLP0::HLP0",
       "currencyId": "HLP0::HLP0",
       "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x2fd2ee2c17ace078960028a0970beccaae1d822b": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "Decentralized Nasdaq",
+      "address": "0x2fd2ee2c17ace078960028a0970beccaae1d822b",
+      "symbol": "DNDX",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x2fd2ee2c17ace078960028a0970beccaae1d822b/a70db85e1ee5a5910ed6d5a0a181bd17.png",
+      "assetGroup": "Decentralized Nasdaq::DNDX",
+      "currencyId": "Decentralized Nasdaq::DNDX"
+    },
+    "0xe45b3fc1f0032532e3d8a3c141cd258bd3eed368": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Odd Otties: Cute otters will overtake hyperliquid",
+      "address": "0xe45b3fc1f0032532e3d8a3c141cd258bd3eed368",
+      "symbol": "OTTI",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0xe45b3fc1f0032532e3d8a3c141cd258bd3eed368/1c1e810602a5813d25aaccf2b2a63143.png",
+      "assetGroup": "Odd Otties: Cute otters will overtake hyperliquid::OTTI",
+      "currencyId": "Odd Otties: Cute otters will overtake hyperliquid::OTTI"
+    },
+    "0x62d5dd0190376c444a4b2e2e860aa392ec83ed80": {
+      "chainId": "999",
+      "decimals": 8,
+      "name": "Chomolon Joff",
+      "address": "0x62d5dd0190376c444a4b2e2e860aa392ec83ed80",
+      "symbol": "JOFF",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x62d5dd0190376c444a4b2e2e860aa392ec83ed80/468b95a3fd3a89c378f8b8b1a80e1601.png",
+      "assetGroup": "Chomolon Joff::JOFF",
+      "currencyId": "Chomolon Joff::JOFF"
+    },
+    "0xc13242a7864f812bba566dc2ff12075252bec97b": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "gm",
+      "address": "0xc13242a7864f812bba566dc2ff12075252bec97b",
+      "symbol": "gm",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0xc13242a7864f812bba566dc2ff12075252bec97b/46844c5045370add460b3e1fb04c33ea.png",
+      "assetGroup": "gm::gm",
+      "currencyId": "gm::gm"
+    },
+    "0xe3d5f45d97fee83b48c85e00c8359a2e07d68fee": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "ADHD",
+      "address": "0xe3d5f45d97fee83b48c85e00c8359a2e07d68fee",
+      "symbol": "ADHD",
+      "assetGroup": "ADHD::ADHD",
+      "currencyId": "ADHD::ADHD"
+    },
+    "0xfdd1834677a50e61fe13e6bce49c8144e333fcbe": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "CZ",
+      "address": "0xfdd1834677a50e61fe13e6bce49c8144e333fcbe",
+      "symbol": "CZ",
+      "assetGroup": "CZ::CZ",
+      "currencyId": "CZ::CZ"
+    },
+    "0xd2567ee20d75e8b74b44875173054365f6eb5052": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "perpcoin",
+      "address": "0xd2567ee20d75e8b74b44875173054365f6eb5052",
+      "symbol": "perpcoin",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0xd2567ee20d75e8b74b44875173054365f6eb5052/f1aa59551df21b50c0d4392140519374.png",
+      "assetGroup": "perpcoin::perpcoin",
+      "currencyId": "perpcoin::perpcoin"
+    },
+    "0x27542a8d608ee16322fae739c46e6e6ae6d2828a": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "The blue sheep on HyperLiquiq  Don't Miss It",
+      "address": "0x27542a8d608ee16322fae739c46e6e6ae6d2828a",
+      "symbol": "SHEEP",
+      "assetGroup": "The blue sheep on HyperLiquiq  Don't Miss It::SHEEP",
+      "currencyId": "The blue sheep on HyperLiquiq  Don't Miss It::SHEEP"
+    },
+    "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "HeyAnon",
+      "address": "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+      "symbol": "Anon",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c/bbfd674a269bd0c02b7b90740795d1a1.png",
+      "assetGroup": "ANON",
+      "currencyId": "HeyAnon::Anon"
+    },
+    "0xc1631903081b19f0b7117f34192c7db48960989c": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Finding Niggo in the vast hyperliquid ocean",
+      "address": "0xc1631903081b19f0b7117f34192c7db48960989c",
+      "symbol": "NIGGO",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0xc1631903081b19f0b7117f34192c7db48960989c/6ad76956cdd0357e4c01791ed517d31e.png",
+      "assetGroup": "Finding Niggo in the vast hyperliquid ocean::NIGGO",
+      "currencyId": "Finding Niggo in the vast hyperliquid ocean::NIGGO"
+    },
+    "0x710a6c044d23949ba3b98ce13d762503c9708ba3": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "BEATS AI - the agentic music creation lab",
+      "address": "0x710a6c044d23949ba3b98ce13d762503c9708ba3",
+      "symbol": "BEATS",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x710a6c044d23949ba3b98ce13d762503c9708ba3/d40aba24c8fbc25aee9359c3a00b6543.png",
+      "assetGroup": "BEATS AI - the agentic music creation lab::BEATS",
+      "currencyId": "BEATS AI - the agentic music creation lab::BEATS"
+    },
+    "0x7f5ab8f7974fccd857163e5da649eb2588201df1": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "HyperGun",
+      "address": "0x7f5ab8f7974fccd857163e5da649eb2588201df1",
+      "symbol": "HGUN",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x7f5ab8f7974fccd857163e5da649eb2588201df1/349dee7dce92fb84f3d77486780503eb.png",
+      "assetGroup": "HyperGun::HGUN",
+      "currencyId": "HyperGun::HGUN"
+    },
+    "0x5e105266db42f78fa814322bce7f388b4c2e61eb": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Hyperbeat USDT",
+      "address": "0x5e105266db42f78fa814322bce7f388b4c2e61eb",
+      "symbol": "hbUSDT",
+      "assetGroup": "Hyperbeat USDT::hbUSDT",
+      "currencyId": "Hyperbeat USDT::hbUSDT"
+    },
+    "0x835febf893c6dddee5cf762b0f8e31c5b06938ab": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Felix USDe",
+      "address": "0x835febf893c6dddee5cf762b0f8e31c5b06938ab",
+      "symbol": "feUSDe",
+      "assetGroup": "Felix USDe::feUSDe",
+      "currencyId": "Felix USDe::feUSDe"
+    },
+    "0x3feb6c3fa7759a9df653946104a6ac3ce6a7828a": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Hytrade",
+      "address": "0x3feb6c3fa7759a9df653946104a6ac3ce6a7828a",
+      "symbol": "TRADE",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x3feb6c3fa7759a9df653946104a6ac3ce6a7828a/cb86a2ea63beb69744becd712f258074.png",
+      "assetGroup": "Hytrade::TRADE",
+      "currencyId": "Hytrade::TRADE"
+    },
+    "0xa7e48f961f04e8091fffe6331935ea71a5a5273b": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "HyperPepe",
+      "address": "0xa7e48f961f04e8091fffe6331935ea71a5a5273b",
+      "symbol": "HyperPepe",
+      "assetGroup": "HyperPepe::HyperPepe",
+      "currencyId": "HyperPepe::HyperPepe"
+    },
+    "0xe513ea692202dba4184ef4c00ba8a6eac36c4907": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "Liquid Synthetic Derivative ",
+      "address": "0xe513ea692202dba4184ef4c00ba8a6eac36c4907",
+      "symbol": "LSD888",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0xe513ea692202dba4184ef4c00ba8a6eac36c4907/b1f046406eccac75601910032d0a2eeb.png",
+      "assetGroup": "Liquid Synthetic Derivative ::LSD888",
+      "currencyId": "Liquid Synthetic Derivative ::LSD888"
+    },
+    "0x3e5fba5dd52e931276b3c84df7542c2eeea1440b": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "HYPESPHERE",
+      "address": "0x3e5fba5dd52e931276b3c84df7542c2eeea1440b",
+      "symbol": "SPHERE",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x3e5fba5dd52e931276b3c84df7542c2eeea1440b/38b1fd82d511744da1692d314bccf0eb.png",
+      "assetGroup": "HYPESPHERE::SPHERE",
+      "currencyId": "HYPESPHERE::SPHERE"
+    },
+    "0x5875fc0d25a48c17da1147dd1f432c6b54fb7e67": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "Flip",
+      "address": "0x5875fc0d25a48c17da1147dd1f432c6b54fb7e67",
+      "symbol": "FLIP",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x5875fc0d25a48c17da1147dd1f432c6b54fb7e67/8ddbf866b0fac48b70559e5f9c9e323e.png",
+      "assetGroup": "Flip::FLIP",
+      "currencyId": "Flip::FLIP"
+    },
+    "0xe9e70b7c9d108011c5ab15ce9bf6ef21d0cf8363": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "peanut is gay",
+      "address": "0xe9e70b7c9d108011c5ab15ce9bf6ef21d0cf8363",
+      "symbol": "PGAY",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0xe9e70b7c9d108011c5ab15ce9bf6ef21d0cf8363/079dec24ff7f993926ea522c746f061f.png",
+      "assetGroup": "peanut is gay::PGAY",
+      "currencyId": "peanut is gay::PGAY"
+    },
+    "0x9cd6d343654549f88e8d5bebbb028919bc4bf35e": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "BABYLICKO",
+      "address": "0x9cd6d343654549f88e8d5bebbb028919bc4bf35e",
+      "symbol": "BABYLICKO",
+      "assetGroup": "BABYLICKO::BABYLICKO",
+      "currencyId": "BABYLICKO::BABYLICKO"
+    },
+    "0x101ce20864f0483843a9c41a2f3a8bad7569b04a": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "SuperMegaUltraHyperLiquid",
+      "address": "0x101ce20864f0483843a9c41a2f3a8bad7569b04a",
+      "symbol": "ULTRA",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x101ce20864f0483843a9c41a2f3a8bad7569b04a/36bb37dadf0176d6ede31ad5e91dbb2a.png",
+      "assetGroup": "SuperMegaUltraHyperLiquid::ULTRA",
+      "currencyId": "SuperMegaUltraHyperLiquid::ULTRA"
+    },
+    "0x219289f5af40e35d23beca6ae193e3ed3a00ad43": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "James Wynn",
+      "address": "0x219289f5af40e35d23beca6ae193e3ed3a00ad43",
+      "symbol": "WHALE",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x219289f5af40e35d23beca6ae193e3ed3a00ad43/395fa1ee796b12892706ecb2aced290b.png",
+      "assetGroup": "James Wynn::WHALE",
+      "currencyId": "James Wynn::WHALE"
+    },
+    "0xa3d68b74bf0528fdd07263c60d6488749044914b": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Wrapped eETH",
+      "address": "0xa3d68b74bf0528fdd07263c60d6488749044914b",
+      "symbol": "weETH",
+      "logoURI": "https://static.debank.com/image/uni_token/logo_url/0x7dcc39b4d1c53cb31e1abc0e358b43987fef80f7/6c02f6b3bcd264d433c3676100ad8da6.png",
+      "assetGroup": "WEETH",
+      "currencyId": "Wrapped eETH::weETH"
+    },
+    "0xe3c80b7a1a8631e8cfd59c61e2a74eb497db28f6": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Paws",
+      "address": "0xe3c80b7a1a8631e8cfd59c61e2a74eb497db28f6",
+      "symbol": "PAWS",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0xe3c80b7a1a8631e8cfd59c61e2a74eb497db28f6/7c313722f3e6fee0249f5de5a8b5a95f.png",
+      "assetGroup": "Paws::PAWS",
+      "currencyId": "Paws::PAWS"
+    },
+    "0xc061d38903b99ac12713b550c2cb44b221674f94": {
+      "chainId": "999",
+      "decimals": 8,
+      "name": "Hyperbeat Ultra uBTC",
+      "address": "0xc061d38903b99ac12713b550c2cb44b221674f94",
+      "symbol": "hbBTC",
+      "assetGroup": "Hyperbeat Ultra uBTC::hbBTC",
+      "currencyId": "Hyperbeat Ultra uBTC::hbBTC"
+    },
+    "0x618275f8efe54c2afa87bfb9f210a52f0ff89364": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Kittenswap",
+      "address": "0x618275f8efe54c2afa87bfb9f210a52f0ff89364",
+      "symbol": "KITTEN",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x618275f8efe54c2afa87bfb9f210a52f0ff89364/307006746560efcf09c100016e500776.png",
+      "assetGroup": "Kittenswap::KITTEN",
+      "currencyId": "Kittenswap::KITTEN"
+    },
+    "0x1bb86d3c4b0ecc291041f86a487d34180b1aa9ac": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "HyperSwap",
+      "address": "0x1bb86d3c4b0ecc291041f86a487d34180b1aa9ac",
+      "symbol": "SWAP",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x1bb86d3c4b0ecc291041f86a487d34180b1aa9ac/b9b80ac25b0c9e307b7be69d4d4e4c1d.png",
+      "assetGroup": "HyperSwap::SWAP",
+      "currencyId": "HyperSwap::SWAP"
+    },
+    "0x0c9943dae040a546b34906dcf63a7bcc828929e5": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "Liquid Asset",
+      "address": "0x0c9943dae040a546b34906dcf63a7bcc828929e5",
+      "symbol": "Diarrhea",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x0c9943dae040a546b34906dcf63a7bcc828929e5/a3fc6d9a161feb77180eca741816a45d.png",
+      "assetGroup": "Liquid Asset::Diarrhea",
+      "currencyId": "Liquid Asset::Diarrhea"
+    },
+    "0x2831775cb5e64b1d892853893858a261e898fbeb": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "wHYPE",
+      "address": "0x2831775cb5e64b1d892853893858a261e898fbeb",
+      "symbol": "wHYPE",
+      "assetGroup": "wHYPE::wHYPE",
+      "currencyId": "wHYPE::wHYPE"
+    },
+    "0x42a1a6d32c819cbcbfad7483b574776e42964682": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "The Cult",
+      "address": "0x42a1a6d32c819cbcbfad7483b574776e42964682",
+      "symbol": "CULT",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x42a1a6d32c819cbcbfad7483b574776e42964682/15c9061b8149a4e9e727cf1ebfc0ee67.png",
+      "assetGroup": "The Cult::CULT",
+      "currencyId": "The Cult::CULT"
+    },
+    "0x5eec795d919fa97688fb9844eeb0072e6b846f9d": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Gauntlet USDe Core",
+      "address": "0x5eec795d919fa97688fb9844eeb0072e6b846f9d",
+      "symbol": "gtUSDe",
+      "assetGroup": "Gauntlet USDe Core::gtUSDe",
+      "currencyId": "Gauntlet USDe Core::gtUSDe"
+    },
+    "0x775b693cdba143bda819f1eb3e51be4feb4d52ea": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "HyperVision",
+      "address": "0x775b693cdba143bda819f1eb3e51be4feb4d52ea",
+      "symbol": "VISION",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x775b693cdba143bda819f1eb3e51be4feb4d52ea/0e1be9972be0fb3d4531196f6aa47aff.png",
+      "assetGroup": "HyperVision::VISION",
+      "currencyId": "HyperVision::VISION"
+    },
+    "0xaf220bf434122b431395d8782c6fc61771102e59": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Hobos",
+      "address": "0xaf220bf434122b431395d8782c6fc61771102e59",
+      "symbol": "HOBO",
+      "assetGroup": "Hobos::HOBO",
+      "currencyId": "Hobos::HOBO"
+    },
+    "0xb351802c2a92feb0fae770c3c896d78615653212": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "TurboTurtle",
+      "address": "0xb351802c2a92feb0fae770c3c896d78615653212",
+      "symbol": "$TT",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0xb351802c2a92feb0fae770c3c896d78615653212/87ba3f1a1fc493121f199dafa0984f9a.png",
+      "assetGroup": "TurboTurtle::$TT",
+      "currencyId": "TurboTurtle::$TT"
+    },
+    "0xe7f4a036b6ffa9ef7bc6be13f47d93d9c482aa9f": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "HyperDoge",
+      "address": "0xe7f4a036b6ffa9ef7bc6be13f47d93d9c482aa9f",
+      "symbol": "HPDOGE",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0xe7f4a036b6ffa9ef7bc6be13f47d93d9c482aa9f/b9ed28317004d1a3fb73a946db167328.png",
+      "assetGroup": "HyperDoge::HPDOGE",
+      "currencyId": "HyperDoge::HPDOGE"
+    },
+    "0xfceb0b02c8972977fac85c476d4354f501b9c6e4": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "PEPE",
+      "address": "0xfceb0b02c8972977fac85c476d4354f501b9c6e4",
+      "symbol": "PEPE",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0xfceb0b02c8972977fac85c476d4354f501b9c6e4/383d5d675e1cc433f1bf9f4fe9a17967.png",
+      "assetGroup": "PEPE::PEPE",
+      "currencyId": "PEPE::PEPE"
+    },
+    "0xc801b601186cd96abc22a6657765f8a850c50de1": {
+      "chainId": "999",
+      "decimals": 8,
+      "name": "spam spam",
+      "address": "0xc801b601186cd96abc22a6657765f8a850c50de1",
+      "symbol": "SPAM",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0xc801b601186cd96abc22a6657765f8a850c50de1/2f30711fc2272694c9de0da2e8a3ee81.png",
+      "assetGroup": "spam spam::SPAM",
+      "currencyId": "spam spam::SPAM"
+    },
+    "0xfcbc8cc69a312937f8308305acc79d91aea77080": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Hypio Unit Bias",
+      "address": "0xfcbc8cc69a312937f8308305acc79d91aea77080",
+      "symbol": "HUB",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0xfcbc8cc69a312937f8308305acc79d91aea77080/cb1d9bc297eb3f15bb866d2abd1e64dc.png",
+      "assetGroup": "Hypio Unit Bias::HUB",
+      "currencyId": "Hypio Unit Bias::HUB"
+    },
+    "0x60c1debc99e420574057b90d295e38059a1259c0": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "800",
+      "address": "0x60c1debc99e420574057b90d295e38059a1259c0",
+      "symbol": "800",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x60c1debc99e420574057b90d295e38059a1259c0/c8cd0ff09722037d2832ef1c00278f8a.png",
+      "assetGroup": "800::800",
+      "currencyId": "800::800"
+    },
+    "0x7c97cd7b57b736c6ad74fae97c0e21e856251dcf": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "WHYPE Hypurr",
+      "address": "0x7c97cd7b57b736c6ad74fae97c0e21e856251dcf",
+      "symbol": "hyWHYPE",
+      "assetGroup": "WHYPE Hypurr::hyWHYPE",
+      "currencyId": "WHYPE Hypurr::hyWHYPE"
+    },
+    "0x9c59a9389d8f72de2cdaf1126f36ea4790e2275e": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Felix USDhl",
+      "address": "0x9c59a9389d8f72de2cdaf1126f36ea4790e2275e",
+      "symbol": "feUSDhl",
+      "assetGroup": "Felix USDhl::feUSDhl",
+      "currencyId": "Felix USDhl::feUSDhl"
+    },
+    "0x02379e4a55111d999ac18c367f5920119398b94b": {
+      "chainId": "999",
+      "decimals": 8,
+      "name": "UBTC Hypurr",
+      "address": "0x02379e4a55111d999ac18c367f5920119398b94b",
+      "symbol": "hyUBTC",
+      "assetGroup": "UBTC Hypurr::hyUBTC",
+      "currencyId": "UBTC Hypurr::hyUBTC"
+    },
+    "0x0571362ba5ea9784a97605f57483f865a37dbeaa": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Gauntlet uETH Vault",
+      "address": "0x0571362ba5ea9784a97605f57483f865a37dbeaa",
+      "symbol": "gtuETH",
+      "assetGroup": "Gauntlet uETH Vault::gtuETH",
+      "currencyId": "Gauntlet uETH Vault::gtuETH"
+    },
+    "0x0fe958d31c0aa613a0b08901fb26a7761c5b14f4": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Cow Hyperswap Hyperevm USDT0-WHYPE",
+      "address": "0x0fe958d31c0aa613a0b08901fb26a7761c5b14f4",
+      "symbol": "cowHyperswapHyperevmUSDT0-WHYPE",
+      "assetGroup": "Cow Hyperswap Hyperevm USDT0-WHYPE::cowHyperswapHyperevmUSDT0-WHYPE",
+      "currencyId": "Cow Hyperswap Hyperevm USDT0-WHYPE::cowHyperswapHyperevmUSDT0-WHYPE"
+    },
+    "0x2900abd73631b2f60747e687095537b673c06a76": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Felix HYPE",
+      "address": "0x2900abd73631b2f60747e687095537b673c06a76",
+      "symbol": "feHYPE",
+      "assetGroup": "Felix HYPE::feHYPE",
+      "currencyId": "Felix HYPE::feHYPE"
+    },
+    "0x34b2b0de7d288e79bbcfcee6c2a222dae25ff88d": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "Sentiment USDT0-1",
+      "address": "0x34b2b0de7d288e79bbcfcee6c2a222dae25ff88d",
+      "symbol": "seUSDT0",
+      "assetGroup": "Sentiment USDT0-1::seUSDT0",
+      "currencyId": "Sentiment USDT0-1::seUSDT0"
+    },
+    "0x3bee53e887d52d9cba177396aa44810904d501ff": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "USH/USDe",
+      "address": "0x3bee53e887d52d9cba177396aa44810904d501ff",
+      "symbol": "USHUSDe",
+      "assetGroup": "USH/USDe::USHUSDe",
+      "currencyId": "USH/USDe::USHUSDe"
+    },
+    "0x453fe0184a38e0344081301be3c320af4459f0ac": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "HyperYield feUSD",
+      "address": "0x453fe0184a38e0344081301be3c320af4459f0ac",
+      "symbol": "hyfeUSD",
+      "assetGroup": "HyperYield feUSD::hyfeUSD",
+      "currencyId": "HyperYield feUSD::hyfeUSD"
+    },
+    "0x53a333e51e96fe288bc9add7cdc4b1ead2cd2ffa": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Gauntlet USDT0 Vault",
+      "address": "0x53a333e51e96fe288bc9add7cdc4b1ead2cd2ffa",
+      "symbol": "gtUSDT0",
+      "assetGroup": "Gauntlet USDT0 Vault::gtUSDT0",
+      "currencyId": "Gauntlet USDT0 Vault::gtUSDT0"
+    },
+    "0x599d155d5c97335c026f9ff7d8ef26753a609272": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "HyperYield STHYPE",
+      "address": "0x599d155d5c97335c026f9ff7d8ef26753a609272",
+      "symbol": "hYSTHYPE",
+      "assetGroup": "HyperYield STHYPE::hYSTHYPE",
+      "currencyId": "HyperYield STHYPE::hYSTHYPE"
+    },
+    "0x68717797aaae1b009c258b6ff5403aeccb7010c0": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "UETH Hypurr",
+      "address": "0x68717797aaae1b009c258b6ff5403aeccb7010c0",
+      "symbol": "hyUETH",
+      "assetGroup": "UETH Hypurr::hyUETH",
+      "currencyId": "UETH Hypurr::hyUETH"
+    },
+    "0x749ef4ab10aef61151e14c9336b07727ffa5a323": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "USH/WHYPE",
+      "address": "0x749ef4ab10aef61151e14c9336b07727ffa5a323",
+      "symbol": "USHWHYPE",
+      "assetGroup": "USH/WHYPE::USHWHYPE",
+      "currencyId": "USH/WHYPE::USHWHYPE"
+    },
+    "0x89b0fe193887d731a2b48a5d87a1185214482ad5": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "HL Fund",
+      "address": "0x89b0fe193887d731a2b48a5d87a1185214482ad5",
+      "symbol": "FUND",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x89b0fe193887d731a2b48a5d87a1185214482ad5/4e49f9d37640a31cb323f21f5b1b85fc.png",
+      "assetGroup": "HL Fund::FUND",
+      "currencyId": "HL Fund::FUND"
+    },
+    "0x9992ed1214ea2bc91b0587b37c3e03d5e2a242c1": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Staked USDXL",
+      "address": "0x9992ed1214ea2bc91b0587b37c3e03d5e2a242c1",
+      "symbol": "stkUSDXL",
+      "assetGroup": "Staked USDXL::stkUSDXL",
+      "currencyId": "Staked USDXL::stkUSDXL"
+    },
+    "0x9c90921ad69069f386488321b95e25bf7f0310a7": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "hwHLP/USDhl",
+      "address": "0x9c90921ad69069f386488321b95e25bf7f0310a7",
+      "symbol": "hwHLP-USDh",
+      "assetGroup": "hwHLP/USDhl::hwHLP-USDh",
+      "currencyId": "hwHLP/USDhl::hwHLP-USDh"
+    },
+    "0x9f0c013016e8656bc256f948cd4b79ab25c7b94d": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "COOK",
+      "address": "0x9f0c013016e8656bc256f948cd4b79ab25c7b94d",
+      "symbol": "COOK",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x9f0c013016e8656bc256f948cd4b79ab25c7b94d/7b16beb2a458f3f5052189783f46885c.png",
+      "assetGroup": "COOK",
+      "currencyId": "COOK::COOK"
+    },
+    "0xa3f4962b4de6c0cc2bff758a4cf4f5a8a310fade": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "HyperYield WHYPE",
+      "address": "0xa3f4962b4de6c0cc2bff758a4cf4f5a8a310fade",
+      "symbol": "hYWHYPE",
+      "assetGroup": "HyperYield WHYPE::hYWHYPE",
+      "currencyId": "HyperYield WHYPE::hYWHYPE"
+    },
+    "0xaa00bf46394774938922e282f6c4b07f5059651f": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "feUSD/USDe",
+      "address": "0xaa00bf46394774938922e282f6c4b07f5059651f",
+      "symbol": "feUSD-USDe",
+      "assetGroup": "feUSD/USDe::feUSD-USDe",
+      "currencyId": "feUSD/USDe::feUSD-USDe"
+    },
+    "0xaea02692f502b47e116bdfa9a4ceb3138bd8b516": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "feUSD Hypurr",
+      "address": "0xaea02692f502b47e116bdfa9a4ceb3138bd8b516",
+      "symbol": "hyfeUSD",
+      "assetGroup": "feUSD Hypurr::hyfeUSD",
+      "currencyId": "feUSD Hypurr::hyfeUSD"
+    },
+    "0xc8b6e0acf159e058e22c564c0c513ec21f8a1bf5": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "wstHYPE Hypurr",
+      "address": "0xc8b6e0acf159e058e22c564c0c513ec21f8a1bf5",
+      "symbol": "hywstHYPE",
+      "assetGroup": "wstHYPE Hypurr::hywstHYPE",
+      "currencyId": "wstHYPE Hypurr::hywstHYPE"
+    },
+    "0xcf03fd0f7c0d96c56bd36d27b4ba854f7822ce7b": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "HyperYield Last USD",
+      "address": "0xcf03fd0f7c0d96c56bd36d27b4ba854f7822ce7b",
+      "symbol": "hyUSDXL",
+      "assetGroup": "HyperYield Last USD::hyUSDXL",
+      "currencyId": "HyperYield Last USD::hyUSDXL"
+    },
+    "0xd19e3d00f8547f7d108abfd4bbb015486437b487": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "MEV Capital HYPE",
+      "address": "0xd19e3d00f8547f7d108abfd4bbb015486437b487",
+      "symbol": "mcHYPE",
+      "assetGroup": "MEV Capital HYPE::mcHYPE",
+      "currencyId": "MEV Capital HYPE::mcHYPE"
+    },
+    "0xe45e7272da7208c7a137505dfb9491e330bf1a4e": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Sentiment USDe-1",
+      "address": "0xe45e7272da7208c7a137505dfb9491e330bf1a4e",
+      "symbol": "seUSDe",
+      "assetGroup": "Sentiment USDe-1::seUSDe",
+      "currencyId": "Sentiment USDe-1::seUSDe"
+    },
+    "0xe8f7d82a73f13a64d689e7ddad06139bfb51f9c6": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "USDe Hypurr",
+      "address": "0xe8f7d82a73f13a64d689e7ddad06139bfb51f9c6",
+      "symbol": "hyUSDe",
+      "assetGroup": "USDe Hypurr::hyUSDe",
+      "currencyId": "USDe Hypurr::hyUSDe"
+    },
+    "0xefbd9cfe88235f0e648aefb52c8e8dc152a9ad6f": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Felix - Unit Bitcoin",
+      "address": "0xefbd9cfe88235f0e648aefb52c8e8dc152a9ad6f",
+      "symbol": "feUBTC",
+      "assetGroup": "Felix - Unit Bitcoin::feUBTC",
+      "currencyId": "Felix - Unit Bitcoin::feUBTC"
+    },
+    "0xfc5126377f0efc0041c0969ef9ba903ce67d151e": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Felix USDT0",
+      "address": "0xfc5126377f0efc0041c0969ef9ba903ce67d151e",
+      "symbol": "feUSDT0",
+      "assetGroup": "Felix USDT0::feUSDT0",
+      "currencyId": "Felix USDT0::feUSDT0"
+    },
+    "0xfde5b0626fc80e36885e2fa9cd5ad9d7768d725c": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "haHYPE",
+      "address": "0xfde5b0626fc80e36885e2fa9cd5ad9d7768d725c",
+      "symbol": "haHYPE",
+      "assetGroup": "haHYPE::haHYPE",
+      "currencyId": "haHYPE::haHYPE"
+    },
+    "0x1d3f7a57abf144049bacc79b1e85e185dcd8414c": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Manadotwin V2",
+      "address": "0x1d3f7a57abf144049bacc79b1e85e185dcd8414c",
+      "symbol": "MANA-V2",
+      "assetGroup": "Manadotwin V2::MANA-V2",
+      "currencyId": "Manadotwin V2::MANA-V2"
+    },
+    "0x69f3ac26f615a3517c8193d7d3faf18bb9f22775": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "hwHLP/USD₮0/USDe",
+      "address": "0x69f3ac26f615a3517c8193d7d3faf18bb9f22775",
+      "symbol": "tri-hwHLP",
+      "assetGroup": "hwHLP/USD₮0/USDe::tri-hwHLP",
+      "currencyId": "hwHLP/USD₮0/USDe::tri-hwHLP"
+    },
+    "0x6bf9345b5d6b27b5cbf2e463dc5e0b2afcedc21c": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "dgnUpside",
+      "address": "0x6bf9345b5d6b27b5cbf2e463dc5e0b2afcedc21c",
+      "symbol": "dgnUpside",
+      "assetGroup": "dgnUpside::dgnUpside",
+      "currencyId": "dgnUpside::dgnUpside"
+    },
+    "0x716d2dd531d826eb3fa1f1ffcfdd7102217a3199": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Cow Kittenswap Hyperevm USDT0-WHYPE",
+      "address": "0x716d2dd531d826eb3fa1f1ffcfdd7102217a3199",
+      "symbol": "cowKittenswapHyperevmUSDT0-WHYPE",
+      "assetGroup": "Cow Kittenswap Hyperevm USDT0-WHYPE::cowKittenswapHyperevmUSDT0-WHYPE",
+      "currencyId": "Cow Kittenswap Hyperevm USDT0-WHYPE::cowKittenswapHyperevmUSDT0-WHYPE"
+    },
+    "0xb537c62307d25f1eb70b720f5850b8c638240f1b": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Weighted USDT-UETH",
+      "address": "0xb537c62307d25f1eb70b720f5850b8c638240f1b",
+      "symbol": "W-USDT-UETH",
+      "assetGroup": "Weighted USDT-UETH::W-USDT-UETH",
+      "currencyId": "Weighted USDT-UETH::W-USDT-UETH"
+    },
+    "0xc55fab3ddcab42b6dd2358fbdc59950f832f67fc": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "HyperStable Wrapped Staked Hype",
+      "address": "0xc55fab3ddcab42b6dd2358fbdc59950f832f67fc",
+      "symbol": "HyperStable wstHYPE",
+      "assetGroup": "HyperStable Wrapped Staked Hype::HyperStable wstHYPE",
+      "currencyId": "HyperStable Wrapped Staked Hype::HyperStable wstHYPE"
+    },
+    "0xc8819a6ce017139cceb5710b44be104667187a7c": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "USDT0/USDe",
+      "address": "0xc8819a6ce017139cceb5710b44be104667187a7c",
+      "symbol": "USDT0-USDe",
+      "assetGroup": "USDT0/USDe::USDT0-USDe",
+      "currencyId": "USDT0/USDe::USDT0-USDe"
+    },
+    "0xda92bbc1ba3345f3df82a34299f3aafc04397738": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "HyperYield Purr",
+      "address": "0xda92bbc1ba3345f3df82a34299f3aafc04397738",
+      "symbol": "hyPURR",
+      "assetGroup": "HyperYield Purr::hyPURR",
+      "currencyId": "HyperYield Purr::hyPURR"
+    },
+    "0xfd32712a1cb152c03a62d54557fcb1de372abfe9": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "USDHL Hypurr",
+      "address": "0xfd32712a1cb152c03a62d54557fcb1de372abfe9",
+      "symbol": "hyUSDHL",
+      "assetGroup": "USDHL Hypurr::hyUSDHL",
+      "currencyId": "USDHL Hypurr::hyUSDHL"
+    },
+    "0x073dda19364bb91ddb5e838ca57ebd36353e4061": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Cow Hyperswap Hyperevm PiP-WHYPE",
+      "address": "0x073dda19364bb91ddb5e838ca57ebd36353e4061",
+      "symbol": "cowHyperswapHyperevmPiP-WHYPE",
+      "assetGroup": "Cow Hyperswap Hyperevm PiP-WHYPE::cowHyperswapHyperevmPiP-WHYPE",
+      "currencyId": "Cow Hyperswap Hyperevm PiP-WHYPE::cowHyperswapHyperevmPiP-WHYPE"
+    },
+    "0x0a591a85cbb6d8c1c07deaf2e3ff241b9ea698f7": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "tri-stable",
+      "address": "0x0a591a85cbb6d8c1c07deaf2e3ff241b9ea698f7",
+      "symbol": "tri-stable",
+      "assetGroup": "tri-stable::tri-stable",
+      "currencyId": "tri-stable::tri-stable"
+    },
+    "0x43f62aaeb31258fcde8475734724607da3fc72ac": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Manadotwin V2",
+      "address": "0x43f62aaeb31258fcde8475734724607da3fc72ac",
+      "symbol": "MANA-V2",
+      "assetGroup": "Manadotwin V2::MANA-V2::999::0",
+      "currencyId": "Manadotwin V2::MANA-V2"
+    },
+    "0xad036fac77c7973440b9a7344bc1a2b282899ade": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Ticket",
+      "address": "0xad036fac77c7973440b9a7344bc1a2b282899ade",
+      "symbol": "TICKET",
+      "assetGroup": "Ticket::TICKET",
+      "currencyId": "Ticket::TICKET"
+    },
+    "0xd4f8a40f5fc83234ae917e4389236ed52f3d3b0d": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Manadotwin V2",
+      "address": "0xd4f8a40f5fc83234ae917e4389236ed52f3d3b0d",
+      "symbol": "MANA-V2",
+      "assetGroup": "Manadotwin V2::MANA-V2::999::1",
+      "currencyId": "Manadotwin V2::MANA-V2"
+    },
+    "0xd7321be27ae84f0d302815fb400e03e32a055fdb": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Manadotwin V2",
+      "address": "0xd7321be27ae84f0d302815fb400e03e32a055fdb",
+      "symbol": "MANA-V2",
+      "assetGroup": "Manadotwin V2::MANA-V2::999::2",
+      "currencyId": "Manadotwin V2::MANA-V2"
+    },
+    "0x4538191ddcf5798e6e27d2830121649653a2c067": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "HyperYield Unit Ethereum",
+      "address": "0x4538191ddcf5798e6e27d2830121649653a2c067",
+      "symbol": "hyUETH",
+      "assetGroup": "HyperYield Unit Ethereum::hyUETH",
+      "currencyId": "HyperYield Unit Ethereum::hyUETH"
+    },
+    "0xc3de4bab30aeb98bcc062cd4b1768cd5a5caccc3": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Cow Hyperswap Hyperevm feUSD-WHYPE",
+      "address": "0xc3de4bab30aeb98bcc062cd4b1768cd5a5caccc3",
+      "symbol": "cowHyperswapHyperevmfeUSD-WHYPE",
+      "assetGroup": "Cow Hyperswap Hyperevm feUSD-WHYPE::cowHyperswapHyperevmfeUSD-WHYPE",
+      "currencyId": "Cow Hyperswap Hyperevm feUSD-WHYPE::cowHyperswapHyperevmfeUSD-WHYPE"
+    },
+    "0x98870db3d3c8577ddb58835c59420646b1634205": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "haHYPE_Test",
+      "address": "0x98870db3d3c8577ddb58835c59420646b1634205",
+      "symbol": "haHYPE_Test",
+      "assetGroup": "haHYPE_Test::haHYPE_Test",
+      "currencyId": "haHYPE_Test::haHYPE_Test"
+    },
+    "0xe7ceaccaa613d8fde4e214d7f71c85933cd1f531": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Hyperstable Unit Ethereum",
+      "address": "0xe7ceaccaa613d8fde4e214d7f71c85933cd1f531",
+      "symbol": "Hyperstable UETH",
+      "assetGroup": "Hyperstable Unit Ethereum::Hyperstable UETH",
+      "currencyId": "Hyperstable Unit Ethereum::Hyperstable UETH"
+    },
+    "0x82e9db204d8243538e04958fdaedfaf21b58d014": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Cow Kittenswap Hyperevm USDe-WHYPE",
+      "address": "0x82e9db204d8243538e04958fdaedfaf21b58d014",
+      "symbol": "cowKittenswapHyperevmUSDe-WHYPE",
+      "assetGroup": "Cow Kittenswap Hyperevm USDe-WHYPE::cowKittenswapHyperevmUSDe-WHYPE",
+      "currencyId": "Cow Kittenswap Hyperevm USDe-WHYPE::cowKittenswapHyperevmUSDe-WHYPE"
     }
   },
   "mainTokens": [

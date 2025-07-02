@@ -11,7 +11,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/38043/large/ZKTokenBlack.png?17186145029",
       "assetGroup": "ZK",
       "currencyId": "ZKsync::ZK",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "AAVE_V3", "ZEROLEND", "VENUS"]
     },
     "0x533b5f887383196c6bc642f83338a69596465307": {
       "chainId": "324",
@@ -33,7 +33,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/53019/thumb/steth.png?1734998126",
       "assetGroup": "WSTETH",
       "currencyId": "Wrapped liquid staked Ether 2.0::wstETH",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "AAVE_V3", "ZEROLEND", "VENUS"]
     },
     "0x71fd7dfa7db7094e0f857ad3040f1afef76fef85": {
       "chainId": "324",
@@ -88,7 +88,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/32970/thumb/onez.jpg?1700056810",
       "assetGroup": "ONEZ::ONEZ",
       "currencyId": "ONEZ::ONEZ",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "ZEROLEND"]
     },
     "0x60e7fe7ae4461b535bb9eb40c20424c7c61063d0": {
       "chainId": "324",
@@ -165,7 +165,7 @@
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x4fabb145d64652a948d72533023f6e7a623c7c53/a2442d82345bd7fcba54c5b380aeaf36.png",
       "assetGroup": "BUSD",
       "currencyId": "Bridged BUSD (Celer)::BUSD",
-      "tags": ["celer", "bridged", "coingecko"]
+      "tags": ["celer", "bridged", "coingecko", "ZEROLEND"]
     },
     "0x3beff5cc75f04e3717676dae3eeac8f57a8ca493": {
       "chainId": "324",
@@ -316,7 +316,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/30722/thumb/leaf.png?1696529593",
       "assetGroup": "eZKalibur::SWORD",
       "currencyId": "eZKalibur::SWORD",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "ZEROLEND"]
     },
     "0xc3a3aa99b80845d22cc41dea3bdb9b2a9ebe199a": {
       "chainId": "324",
@@ -484,7 +484,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/39805/thumb/dai.png?1724126260",
       "assetGroup": "DAI",
       "currencyId": "Dai Stablecoin::DAI",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "ZEROLEND"]
     },
     "0xe7895ed01a1a6aacf1c2e955af14e7cf612e7f9d": {
       "chainId": "324",
@@ -539,7 +539,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/35262/thumb/USDC_Icon.png?1708008941",
       "assetGroup": "USDC",
       "currencyId": "Bridged USDC::USDC.e",
-      "tags": ["bridged", "coingecko"]
+      "tags": ["bridged", "coingecko", "ZEROLEND", "VENUS"]
     },
     "0x31c2c031fdc9d33e974f327ab0d9883eae06ca4a": {
       "chainId": "324",
@@ -638,7 +638,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/39592/thumb/wbtc.png?1723016108",
       "assetGroup": "WBTC",
       "currencyId": "Wrapped BTC::WBTC",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "ZEROLEND", "VENUS"]
     },
     "0xcd2cfa60f04f3421656d6eebee122b3973b3f60c": {
       "chainId": "324",
@@ -682,7 +682,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/39723/thumb/WETH.PNG?1723733967",
       "assetGroup": "ETH",
       "currencyId": "Bridged WETH::WETH",
-      "tags": ["bridged", "coingecko"]
+      "tags": ["bridged", "coingecko", "AAVE_V3", "ZEROLEND", "VENUS"]
     },
     "0xd4169e045bcf9a86cc00101225d9ed61d2f51af2": {
       "chainId": "324",
@@ -693,7 +693,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/37919/thumb/rseth.png?1715936438",
       "assetGroup": "WRSETH",
       "currencyId": "Wrapped rsETH::wrsETH",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "AAVE_V3"]
     },
     "0xafe4ca0bbe6215cbda12857e723134bc3809f766": {
       "chainId": "324",
@@ -770,7 +770,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/14331/thumb/MUTE.png?1696514019",
       "assetGroup": "MUTE",
       "currencyId": "Mute::MUTE",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "ZEROLEND"]
     },
     "0xbe9f8c0d6f0fd7e46cdacca340747ea2f247991d": {
       "chainId": "324",
@@ -814,7 +814,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/35001/thumb/logo.png?1706959346",
       "assetGroup": "USDT",
       "currencyId": "Bridged USDT::USDT",
-      "tags": ["bridged", "coingecko"]
+      "tags": ["bridged", "coingecko", "AAVE_V3", "ZEROLEND", "VENUS"]
     },
     "0x16a9494e257703797d747540f01683952547ee5b": {
       "chainId": "324",
@@ -968,7 +968,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/14666/thumb/Group_3.png?1696514341",
       "assetGroup": "LUSD",
       "currencyId": "Liquity USD::LUSD",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "ZEROLEND"]
     },
     "0x1d17cbcf0d6d143135ae902365d2e5e2a16538d4": {
       "chainId": "324",
@@ -979,7 +979,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/usdc.png?1696506694",
       "assetGroup": "USDC",
       "currencyId": "USD Coin::USDC",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "AAVE_V3", "ZEROLEND", "VENUS"]
     },
     "0x8e86e46278518efc1c5ced245cba2c7e3ef11557": {
       "chainId": "324",
@@ -1012,7 +1012,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/36566/thumb/photo_2024-03-25_22-04-42.jpg?1711936162",
       "assetGroup": "M-BTC",
       "currencyId": "Merlin BTC::M-BTC",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "ZEROLEND"]
     },
     "0x0bf4cb727b3f8092534d793893b2cc3348963dbf": {
       "chainId": "324",
@@ -1056,7 +1056,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/12632/thumb/pancakeswap-cake-logo_%281%29.png?1696512440",
       "assetGroup": "CAKE",
       "currencyId": "PancakeSwap::CAKE",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "ZEROLEND"]
     },
     "0xb2c5a37a4c37c16ddd21181f6ddbc989c3d36cdc": {
       "chainId": "324",
@@ -1088,7 +1088,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/33785/thumb/wUSDM_PNG_240px.png?1702981552",
       "assetGroup": "WUSDM",
       "currencyId": "Wrapped USDM::WUSDM",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "ZEROLEND", "VENUS"]
     },
     "0xe75a17b4f5c4f844688d5670b684515d7c785e63": {
       "chainId": "324",
@@ -1121,7 +1121,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/53948/thumb/image_%289%29.png?1737788246",
       "assetGroup": "Noon USN::USN",
       "currencyId": "Noon USN::USN",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "ZEROLEND"]
     },
     "0xb72207e1fb50f341415999732a20b6d25d8127aa": {
       "chainId": "324",
@@ -1132,7 +1132,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54826/thumb/zkETH-token_icon.png?1741932164",
       "assetGroup": "ZKsync Staked ETH::ZKETH",
       "currencyId": "ZKsync Staked ETH::ZKETH",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "VENUS"]
     },
     "0xb6a09d426861c63722aa0b333a9ce5d5a9b04c4f": {
       "chainId": "324",
@@ -1197,7 +1197,8 @@
       "symbol": "weETH",
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee/6c02f6b3bcd264d433c3676100ad8da6.png",
       "assetGroup": "WEETH",
-      "currencyId": "Wrapped eETH::weETH"
+      "currencyId": "Wrapped eETH::weETH",
+      "tags": ["AAVE_V3", "ZEROLEND"]
     },
     "0x016341e6da8da66b33fd32189328c102f32da7cc": {
       "chainId": "324",

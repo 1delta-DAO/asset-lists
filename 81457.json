@@ -32,7 +32,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/35595/thumb/65c67f0ebf2f6a1bd0feb13c_usdb-icon-yellow.png?1709255427",
       "assetGroup": "USDB::USDB",
       "currencyId": "USDB::USDB",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "PAC_FINANCE", "ZEROLEND", "SEISMIC"]
     },
     "0xd810a437e334b9c3660c18b38fb3c01000b91dd3": {
       "chainId": "81457",
@@ -125,7 +125,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/39727/thumb/weth.png?1723758119",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "tags": ["coingecko", "wnative", "biconomy-gas-token"]
+      "tags": ["coingecko", "wnative", "biconomy-gas-token", "PAC_FINANCE", "ZEROLEND", "SEISMIC"]
     },
     "0xb1a5700fa2358173fe465e6ea4ff52e36e88e2ad": {
       "chainId": "81457",
@@ -136,7 +136,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/35494/standard/Blast.jpg?1719385662",
       "assetGroup": "Blast::BLAST",
       "currencyId": "Blast::BLAST",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "SEISMIC", "INIT"]
     },
     "0xd1fedd031b92f50a50c05e2c45af1adb4cea82f4": {
       "chainId": "81457",
@@ -565,7 +565,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/35657/thumb/yes-money.jpeg?1709437181",
       "assetGroup": "YES",
       "currencyId": "YES Money::YES",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "SEISMIC"]
     },
     "0xd582879453337bd149ae53ec2092b0af5281d1d7": {
       "chainId": "81457",
@@ -862,7 +862,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/37919/thumb/rseth.png?1715936438",
       "assetGroup": "WRSETH",
       "currencyId": "Wrapped rsETH::wrsETH",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "PAC_FINANCE", "SEISMIC", "INIT"]
     },
     "0x73d23f3778a90be8846e172354a115543df2a7e4": {
       "chainId": "81457",
@@ -917,7 +917,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/39864/thumb/affine-ultra-eths-cg-logo.png?1724379373",
       "assetGroup": "Affine ultraETHs 2 0::ULTRAETHS",
       "currencyId": "Affine ultraETHs 2 0::ULTRAETHS",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "INIT"]
     },
     "0x764933fbad8f5d04ccd088602096655c2ed9879f": {
       "chainId": "81457",
@@ -1026,7 +1026,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/34753/thumb/Ezeth_logo_circle.png?1713496404",
       "assetGroup": "EZETH",
       "currencyId": "Renzo Restaked ETH::ezETH",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "PAC_FINANCE", "ZEROLEND", "INIT"]
     },
     "0xb5a86030b64afaa75c42c0d28f8d5ce5f9f61401": {
       "chainId": "81457",
@@ -2037,7 +2037,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55674/thumb/wrapped-eth-logo.png?1746978129",
       "assetGroup": "Few Wrapped Wrapped Ether::FWWETH",
       "currencyId": "Few Wrapped Wrapped Ether::FWWETH",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "PAC_FINANCE"]
     },
     "0x04d4fd245acd3d7b3a1126ae27173fca354f658b": {
       "chainId": "81457",
@@ -2059,7 +2059,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55673/thumb/usdb-logo.png?1746977964",
       "assetGroup": "Few Wrapped USDB::FWUSDB",
       "currencyId": "Few Wrapped USDB::FWUSDB",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "PAC_FINANCE"]
     },
     "0x97ecad323f63060df37ff0cf05350803db4d17bd": {
       "chainId": "81457",
@@ -2166,7 +2166,7 @@
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee/6c02f6b3bcd264d433c3676100ad8da6.png",
       "assetGroup": "WEETH",
       "currencyId": "Wrapped eETH::weETH",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "ZEROLEND", "SEISMIC", "INIT"]
     },
     "0x73c369f61c90f03eb0dd172e95c90208a28dc5bc": {
       "chainId": "81457",
@@ -2263,7 +2263,7 @@
       "logoURI": "https://static.debank.com/image/blast_token/logo_url/0x1da40c742f32bbee81694051c0ee07485fc630f6/af6871ca983f8b3be9393025cf9e0ab5.png",
       "assetGroup": "Duo ETH::DETH",
       "currencyId": "Duo ETH::DETH",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "PAC_FINANCE"]
     },
     "0xcc50560827465f25132929711d5b2cf78625d399": {
       "chainId": "81457",
@@ -2317,7 +2317,7 @@
       "logoURI": "https://static.debank.com/image/blast_token/logo_url/0xf7bc58b8d8f97adc129cfc4c9f45ce3c0e1d2692/e58455cbeb72be75c798588eb6f2cda3.png",
       "assetGroup": "WBTC",
       "currencyId": "Wrapped BTC::WBTC",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "PAC_FINANCE"]
     },
     "0xf8797db8a9eed416ca14e8dfaede2bf4e1aabfc3": {
       "chainId": "81457",
@@ -2420,7 +2420,8 @@
       "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
       "symbol": "USDe",
       "assetGroup": "USDE",
-      "currencyId": "USDe::USDe"
+      "currencyId": "USDe::USDe",
+      "tags": ["INIT"]
     },
     "0x58538e6a46e07434d7e7375bc268d3cb839c0133": {
       "chainId": "81457",
@@ -2488,7 +2489,8 @@
       "symbol": "sUSDe",
       "logoURI": "https://ethena.fi/shared/ecosystem/sUSDe.svg",
       "assetGroup": "SUSDE",
-      "currencyId": "sUSDe::sUSDe"
+      "currencyId": "sUSDe::sUSDe",
+      "tags": ["INIT"]
     }
   },
   "mainTokens": [

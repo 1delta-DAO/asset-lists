@@ -42,7 +42,8 @@
       "symbol": "stBTC",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/stBTC.webp",
       "assetGroup": "STBTC",
-      "currencyId": "Lorenzo stBTC::stBTC"
+      "currencyId": "Lorenzo stBTC::stBTC",
+      "tags": ["AVALON", "AVALON_LORENZO"]
     },
     "0x3228995749610bea00b59c44f8d1df21c14027f1": {
       "chainId": "200901",
@@ -75,7 +76,7 @@
       "logoURI": "https://raw.githubusercontent.com/Bedrock-Technology/bedrock-static/39b68b34ecef136a7f57720ac6ac8773606539da/logo/unibtc.svg",
       "assetGroup": "UNIBTC",
       "currencyId": "uniBTC::uniBTC",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "AVALON_UNIBTC"]
     },
     "0xc65d8d96cdddb31328186efa113a460b0af9ec63": {
       "chainId": "200901",

@@ -22,7 +22,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0x05d032ac25d322df992303dca074ee7392c117b9/small/token-logo.png",
       "assetGroup": "USDT",
       "currencyId": "Tether USD::USDT",
-      "tags": ["debridge"]
+      "tags": ["debridge", "SEGMENT"]
     },
     "0xb5686c4f60904ec2bda6277d6fe1f7caa8d1b41a": {
       "chainId": "60808",
@@ -32,7 +32,8 @@
       "symbol": "rETH",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/60808/0xB5686c4f60904Ec2BDA6277d6FE1F7cAa8D1b41a.png",
       "assetGroup": "RETH",
-      "currencyId": "Rocket Pool ETH::rETH"
+      "currencyId": "Rocket Pool ETH::rETH",
+      "tags": ["SEGMENT"]
     },
     "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3": {
       "chainId": "60808",
@@ -43,7 +44,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3/small/token-logo.png",
       "assetGroup": "WBTC",
       "currencyId": "Wrapped BTC::WBTC",
-      "tags": ["debridge"]
+      "tags": ["debridge", "AVALON_UNIBTC", "AVALON_BOB", "SEGMENT"]
     },
     "0xbba2ef945d523c4e2608c9e1214c2cc64d4fc2e2": {
       "chainId": "60808",
@@ -54,7 +55,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0xbba2ef945d523c4e2608c9e1214c2cc64d4fc2e2/small/token-logo.png",
       "assetGroup": "TBTC",
       "currencyId": "tBTC v2::tBTC",
-      "tags": ["debridge"]
+      "tags": ["debridge", "AVALON_BOB", "SEGMENT"]
     },
     "0x85008ae6198bc91ac0735cb5497cf125ddaac528": {
       "chainId": "60808",
@@ -64,7 +65,8 @@
       "symbol": "wstETH",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/60808/0x85008aE6198BC91aC0735CB5497CF125ddAAc528.png",
       "assetGroup": "WSTETH",
-      "currencyId": "Wrapped liquid staked Ether 2.0::wstETH"
+      "currencyId": "Wrapped liquid staked Ether 2.0::wstETH",
+      "tags": ["SEGMENT"]
     },
     "0xe75d0fb2c24a55ca1e3f96781a2bcc7bdba058f0": {
       "chainId": "60808",
@@ -75,7 +77,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0xe75d0fb2c24a55ca1e3f96781a2bcc7bdba058f0/small/token-logo.png",
       "assetGroup": "USDC",
       "currencyId": "Bridged USDC::USDC.e",
-      "tags": ["bridged", "debridge"]
+      "tags": ["bridged", "debridge", "SEGMENT"]
     },
     "0x6c851f501a3f24e29a8e39a29591cddf09369080": {
       "chainId": "60808",
@@ -86,7 +88,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0x6c851f501a3f24e29a8e39a29591cddf09369080/small/token-logo.png",
       "assetGroup": "DAI",
       "currencyId": "Dai Stablecoin::DAI",
-      "tags": ["debridge"]
+      "tags": ["debridge", "SEGMENT"]
     },
     "0xba20a5e63eeefffa6fd365e7e540628f8fc61474": {
       "chainId": "60808",
@@ -96,7 +98,8 @@
       "symbol": "SOV",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/60808/0xba20a5e63eeEFfFA6fD365E7e540628F8fC61474.png",
       "assetGroup": "SOV::SOV",
-      "currencyId": "SOV::SOV"
+      "currencyId": "SOV::SOV",
+      "tags": ["SEGMENT"]
     },
     "0x96147a9ae9a42d7da551fd2322ca15b71032f342": {
       "chainId": "60808",
@@ -106,7 +109,8 @@
       "symbol": "STONE",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/60808/0x96147A9Ae9a42d7Da551fD2322ca15B71032F342.png",
       "assetGroup": "STONE",
-      "currencyId": "StakeStone Ether::STONE"
+      "currencyId": "StakeStone Ether::STONE",
+      "tags": ["SEGMENT"]
     },
     "0x6db2721586abcc682b44c5425b97f3c27ffb5b27": {
       "chainId": "60808",
@@ -137,7 +141,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0xecf21b335b41f9d5a89f6186a99c19a3c467871f/small/token-logo.png",
       "assetGroup": "satUSD::Satoshi Stablecoin V2",
       "currencyId": "satUSD::Satoshi Stablecoin V2",
-      "tags": ["debridge"]
+      "tags": ["debridge", "SEGMENT"]
     },
     "0xc96de26018a54d51c097160568752c4e3bd6c364": {
       "chainId": "60808",
@@ -148,7 +152,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0xc96de26018a54d51c097160568752c4e3bd6c364/small/token-logo.png",
       "assetGroup": "FBTC",
       "currencyId": "Fire Bitcoin::FBTC",
-      "tags": ["debridge"]
+      "tags": ["debridge", "SEGMENT"]
     },
     "0x541fd749419ca806a8bc7da8ac23d346f2df8b77": {
       "chainId": "60808",
@@ -159,7 +163,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0x541fd749419ca806a8bc7da8ac23d346f2df8b77/small/token-logo.png",
       "assetGroup": "SOLVBTC",
       "currencyId": "Solv BTC::SolvBTC",
-      "tags": ["debridge"]
+      "tags": ["debridge", "AVALON_BOB", "SEGMENT"]
     },
     "0xa45d4121b3d47719ff57a947a9d961539ba33204": {
       "chainId": "60808",
@@ -170,7 +174,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0xa45d4121b3d47719ff57a947a9d961539ba33204/small/token-logo.svg",
       "assetGroup": "LBTC",
       "currencyId": "Lombard Staked BTC::LBTC",
-      "tags": ["debridge"]
+      "tags": ["debridge", "SEGMENT"]
     },
     "0x9998e05030aee3af9ad3df35a34f5c51e1628779": {
       "chainId": "60808",
@@ -203,7 +207,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0x236f8c0a61da474db21b693fb2ea7aab0c803894/small/token-logo.png",
       "assetGroup": "UNIBTC",
       "currencyId": "uniBTC::uniBTC",
-      "tags": ["debridge"]
+      "tags": ["debridge", "AVALON_UNIBTC", "SEGMENT"]
     },
     "0xdb3f2cae7e6f711282ecd7cba3739e1f5b4fbb99": {
       "chainId": "60808",
@@ -225,7 +229,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0x78fea795cbfcc5ffd6fb5b845a4f53d25c283bdb/small/token-logo.png",
       "assetGroup": "Satoshi Stablecoin::satUSD",
       "currencyId": "Satoshi Stablecoin::satUSD",
-      "tags": ["debridge"]
+      "tags": ["debridge", "SEGMENT"]
     },
     "0x85473255b6a895865a8b5f088dde75d43909d13e": {
       "chainId": "60808",
@@ -265,7 +269,7 @@
       "symbol": "SolvBTC Babylon",
       "assetGroup": "SolvBTC.BBN::SolvBTC Babylon",
       "currencyId": "SolvBTC.BBN::SolvBTC Babylon",
-      "tags": ["debridge"]
+      "tags": ["debridge", "AVALON_BOB", "SEGMENT"]
     }
   },
   "mainTokens": [

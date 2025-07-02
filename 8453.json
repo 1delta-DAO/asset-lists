@@ -32,7 +32,7 @@
       "logoURI": "https://basescan.org/token/images/usdbc_ofc_32.png",
       "assetGroup": "USDBC",
       "currencyId": "USD Base Coin::USDbC",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "AAVE_V3", "GRANARY", "YLDR", "COMPOUND_V3_USDBC"]
     },
     "0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22": {
       "chainId": "8453",
@@ -43,7 +43,18 @@
       "logoURI": "https://ethereum-optimism.github.io/data/cbETH/logo.svg",
       "assetGroup": "CBETH",
       "currencyId": "Coinbase Wrapped Staked ETH::cbETH",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": [
+        "coingecko",
+        "debridge",
+        "biconomy-gas-token",
+        "AAVE_V3",
+        "ZEROLEND",
+        "GRANARY",
+        "XLEND",
+        "COMPOUND_V3_USDC",
+        "COMPOUND_V3_WETH",
+        "COMPOUND_V3_USDBC"
+      ]
     },
     "0xeb466342c4d449bc9f53a865d5cb90586f405215": {
       "chainId": "8453",
@@ -76,7 +87,7 @@
       "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
       "assetGroup": "DAI",
       "currencyId": "Dai Stablecoin::DAI",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "GRANARY"]
     },
     "0xd5046b976188eb40f6de40fb527f89c05b323385": {
       "chainId": "8453",
@@ -153,7 +164,21 @@
       "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
       "assetGroup": "USDC",
       "currencyId": "USD Coin::USDC",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": [
+        "coingecko",
+        "debridge",
+        "biconomy-gas-token",
+        "AAVE_V3",
+        "ZEROLEND",
+        "GRANARY",
+        "YLDR",
+        "POLTER",
+        "XLEND",
+        "COMPOUND_V3_USDC",
+        "COMPOUND_V3_WETH",
+        "COMPOUND_V3_AERO",
+        "VENUS"
+      ]
     },
     "0x998b3fd0998bfff66d28ab03dfe417fc3b884188": {
       "chainId": "8453",
@@ -417,7 +442,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/20764/large/reth.png?1637652366",
       "assetGroup": "RETH",
       "currencyId": "Rocket Pool ETH::rETH",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "XLEND"]
     },
     "0x1f73eaf55d696bffa9b0ea16fa987b93b0f4d302": {
       "chainId": "8453",
@@ -538,7 +563,18 @@
       "logoURI": "https://assets.coingecko.com/coins/images/18834/large/wstETH.png?1633565443",
       "assetGroup": "WSTETH",
       "currencyId": "Wrapped liquid staked Ether 2.0::wstETH",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": [
+        "coingecko",
+        "debridge",
+        "biconomy-gas-token",
+        "AAVE_V3",
+        "YLDR",
+        "XLEND",
+        "COMPOUND_V3_USDC",
+        "COMPOUND_V3_WETH",
+        "COMPOUND_V3_AERO",
+        "VENUS"
+      ]
     },
     "0xc5fecc3a29fb57b5024eec8a2239d4621e111cbe": {
       "chainId": "8453",
@@ -560,7 +596,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/aave.webp",
       "assetGroup": "AAVE",
       "currencyId": "Aave::AAVE",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "AAVE_V3"]
     },
     "0xe2a8ccb00e328a0ec2204cb0c736309d7c1fa556": {
       "chainId": "8453",
@@ -593,7 +629,16 @@
       "logoURI": "https://basescan.org/token/images/aerodrome_32.png",
       "assetGroup": "AERO",
       "currencyId": "Aerodrome Finance::AERO",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": [
+        "coingecko",
+        "debridge",
+        "biconomy-gas-token",
+        "ZEROLEND",
+        "GRANARY",
+        "POLTER",
+        "XLEND",
+        "COMPOUND_V3_AERO"
+      ]
     },
     "0x97c806e7665d3afd84a8fe1837921403d59f3dcc": {
       "chainId": "8453",
@@ -703,7 +748,21 @@
       "logoURI": "https://assets.coingecko.com/coins/images/40143/standard/cbbtc.webp",
       "assetGroup": "CBBTC",
       "currencyId": "Coinbase Wrapped BTC::cbBTC",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": [
+        "coingecko",
+        "debridge",
+        "biconomy-gas-token",
+        "AAVE_V3",
+        "AVALON",
+        "ZEROLEND",
+        "GRANARY",
+        "POLTER",
+        "XLEND",
+        "COMPOUND_V3_USDC",
+        "COMPOUND_V3_WETH",
+        "COMPOUND_V3_AERO",
+        "VENUS"
+      ]
     },
     "0x9e1028f5f1d5ede59748ffcee5532509976840e0": {
       "chainId": "8453",
@@ -780,7 +839,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/26045/standard/euro.png",
       "assetGroup": "EURC",
       "currencyId": "Euro Coin::EURC",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "AAVE_V3", "XLEND"]
     },
     "0xd08a2917653d4e460893203471f0000826fb4034": {
       "chainId": "8453",
@@ -1077,7 +1136,7 @@
       "logoURI": "https://raw.githubusercontent.com/uniswap/assets/master/blockchains/ethereum/assets/0x18084fbA666a33d37592fA2633fD49a74DD93a88/logo.png",
       "assetGroup": "tBTC::tBTC",
       "currencyId": "tBTC::tBTC",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "XLEND"]
     },
     "0xac1bd2486aaf3b5c0fc3fd868558b082a531b2b4": {
       "chainId": "8453",
@@ -1165,7 +1224,23 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "tags": ["coingecko", "debridge", "wnative", "biconomy-gas-token"]
+      "tags": [
+        "coingecko",
+        "debridge",
+        "wnative",
+        "biconomy-gas-token",
+        "AAVE_V3",
+        "ZEROLEND",
+        "GRANARY",
+        "YLDR",
+        "POLTER",
+        "XLEND",
+        "COMPOUND_V3_USDC",
+        "COMPOUND_V3_WETH",
+        "COMPOUND_V3_USDBC",
+        "COMPOUND_V3_AERO",
+        "VENUS"
+      ]
     },
     "0xd7b99ffb8b2afc6fe013a17207cbe50f223adc94": {
       "chainId": "8453",
@@ -1743,7 +1818,7 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/main/images/USDz.png",
       "assetGroup": "USDz::USDz",
       "currencyId": "USDz::USDz",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "ZEROLEND"]
     },
     "0x25e58984a39eb5aac0b66110bc3ca03fc0e5832d": {
       "chainId": "8453",
@@ -1808,7 +1883,7 @@
       "logoURI": "https://raw.githubusercontent.com/baseswapfi/default-token-list/refs/heads/main/images/VIRTUAL.webp",
       "assetGroup": "Virtual Protocol::VIRTUAL",
       "currencyId": "Virtual Protocol::VIRTUAL",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "XLEND"]
     },
     "0x4154550f4db74dc38d1fe98e1f3f28ed6dad627d": {
       "chainId": "8453",
@@ -6694,7 +6769,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/33033/thumb/weETH.png?1701438396",
       "assetGroup": "WEETH",
       "currencyId": "Wrapped eETH::weETH",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "AAVE_V3", "XLEND", "COMPOUND_V3_WETH"]
     },
     "0xce74702e67e3127613f3465384282bad77757ca3": {
       "chainId": "8453",
@@ -6903,7 +6978,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/39829/thumb/Wrapped_Super_OETH.png?1724208632",
       "assetGroup": "WSUPEROETHB",
       "currencyId": "Wrapped Super OETH::wsuperOETHb",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "ZEROLEND", "COMPOUND_V3_WETH", "VENUS"]
     },
     "0x543ba622733bc9a7bfadd1d07b6c35ae1f9659d9": {
       "chainId": "8453",
@@ -11886,7 +11961,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/37919/thumb/rseth.png?1715936438",
       "assetGroup": "WRSETH",
       "currencyId": "Wrapped rsETH::wrsETH",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "AAVE_V3", "XLEND", "COMPOUND_V3_WETH"]
     },
     "0xca30c93b02514f86d5c86a6e375e3a330b435fb5": {
       "chainId": "8453",
@@ -11974,7 +12049,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/38040/thumb/susdz-symbol-200x200.png?1716334492",
       "assetGroup": "Anzen Staked USDz::SUSDZ",
       "currencyId": "Anzen Staked USDz::SUSDZ",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "ZEROLEND"]
     },
     "0x1eefd52f6e218f262da7b0089b9e343a1eb5c9f4": {
       "chainId": "8453",
@@ -12040,7 +12115,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/52721/thumb/sUSDS_Coin.png?1734086971",
       "assetGroup": "sUSDS::SUSDS",
       "currencyId": "sUSDS::SUSDS",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "XLEND"]
     },
     "0x59f680f431f5280e7662b96f2dfa195d1693852d": {
       "chainId": "8453",
@@ -12568,7 +12643,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/39969/thumb/LBTC_Logo.png?1724959872",
       "assetGroup": "LBTC",
       "currencyId": "Lombard Staked BTC::LBTC",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "AAVE_V3", "ZEROLEND", "XLEND"]
     },
     "0x7f05a7a9af2f5a07d1e64877c8dc37a64a22508e": {
       "chainId": "8453",
@@ -12755,7 +12830,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/39926/thumb/usds.webp?1726666683",
       "assetGroup": "USDS Stablecoin::USDS",
       "currencyId": "USDS Stablecoin::USDS",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "XLEND"]
     },
     "0x49d803d2df2295185610f44961f2dcd40326f25c": {
       "chainId": "8453",
@@ -13558,7 +13633,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/34753/thumb/Ezeth_logo_circle.png?1713496404",
       "assetGroup": "EZETH",
       "currencyId": "Renzo Restaked ETH::ezETH",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "AAVE_V3", "COMPOUND_V3_WETH"]
     },
     "0x3fbde9864362ce4abb244ebef2ef0482aba8ea39": {
       "chainId": "8453",
@@ -14108,7 +14183,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/39733/thumb/Group_4.png?1723771588",
       "assetGroup": "ZAI Stablecoin (legacy)::xUSDz",
       "currencyId": "ZAI Stablecoin (legacy)::xUSDz",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "ZEROLEND"]
     },
     "0xa9f5031b54c44c3603b4300fde9b8f5cd18ad06f": {
       "chainId": "8453",
@@ -14163,7 +14238,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/xSolvBTC.webp",
       "assetGroup": "XSOLVBTC",
       "currencyId": "xSolvBTC::xSolvBTC",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "AVALON"]
     },
     "0x3b86ad95859b6ab773f55f8d94b4b9d443ee931f": {
       "chainId": "8453",
@@ -14174,7 +14249,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/SolvBTC.webp",
       "assetGroup": "SOLVBTC",
       "currencyId": "Solv BTC::SolvBTC",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "AVALON"]
     },
     "0xb8a9a92dfe1303728394dd0f8362a09962dec24f": {
       "chainId": "8453",
@@ -15923,7 +15998,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/30663/thumb/gho-token-logo.png?1720517092",
       "assetGroup": "GHO",
       "currencyId": "GHO Token::GHO",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "AAVE_V3"]
     },
     "0x25aa7b1ecf5d3fcd1b3b9f2445a4fa5597ffb189": {
       "chainId": "8453",
@@ -16592,7 +16667,8 @@
       "address": "0x1097dfe9539350cb466df9ca89a5e61195a520b0",
       "symbol": "sUSDZUSDC",
       "assetGroup": "Staked xUSDz/USDC Pool::sUSDZUSDC",
-      "currencyId": "Staked xUSDz/USDC Pool::sUSDZUSDC"
+      "currencyId": "Staked xUSDz/USDC Pool::sUSDZUSDC",
+      "tags": ["ZEROLEND"]
     },
     "0xdbfefd2e8460a6ee4955a68582f85708baea60a3": {
       "chainId": "8453",
@@ -16603,7 +16679,7 @@
       "logoURI": "https://basescan.org/token/images/superoeth_base_32.png",
       "assetGroup": "Super OETH::superOETHb",
       "currencyId": "Super OETH::superOETHb",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token", "ZEROLEND"]
     },
     "0xf469fbd2abcd6b9de8e169d128226c0fc90a012e": {
       "chainId": "8453",
@@ -16614,7 +16690,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/39232/thumb/200pxPumpBTCLogo.png?1721227861",
       "assetGroup": "PUMPBTC",
       "currencyId": "pumpBTC::pumpBTC",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "ZEROLEND"]
     },
     "0xe46c8ba948f8071b425a1f7ba45c0a65cbacea2e": {
       "chainId": "8453",
@@ -16624,7 +16700,8 @@
       "symbol": "PT-cbETH-25DEC2025",
       "logoURI": "https://basescan.org/token/images/ptcbeth_32.svg",
       "assetGroup": "PT Coinbase Wrapped Staked ETH 25DEC2025::PT-cbETH-25DEC2025",
-      "currencyId": "PT Coinbase Wrapped Staked ETH 25DEC2025::PT-cbETH-25DEC2025"
+      "currencyId": "PT Coinbase Wrapped Staked ETH 25DEC2025::PT-cbETH-25DEC2025",
+      "tags": ["ZEROLEND"]
     },
     "0x5d746848005507da0b1717c137a10c30ad9ee307": {
       "chainId": "8453",
@@ -16634,7 +16711,8 @@
       "symbol": "PT-LBTC-29MAY2025",
       "logoURI": "https://basescan.org/token/images/ptlbtc_32.svg",
       "assetGroup": "PT Lombard LBTC 29MAY2025::PT-LBTC-29MAY2025",
-      "currencyId": "PT Lombard LBTC 29MAY2025::PT-LBTC-29MAY2025"
+      "currencyId": "PT Lombard LBTC 29MAY2025::PT-LBTC-29MAY2025",
+      "tags": ["ZEROLEND"]
     },
     "0x69000dfd5025e82f48eb28325a2b88a241182ced": {
       "chainId": "8453",
@@ -16644,7 +16722,8 @@
       "symbol": "ZAI",
       "logoURI": "https://basescan.org/token/images/mahazaistablecoin_32.png",
       "assetGroup": "ZAI Stablecoin::ZAI",
-      "currencyId": "ZAI Stablecoin::ZAI"
+      "currencyId": "ZAI Stablecoin::ZAI",
+      "tags": ["ZEROLEND"]
     },
     "0x35e5db674d8e93a03d814fa0ada70731efe8a4b9": {
       "chainId": "8453",
@@ -16655,7 +16734,7 @@
       "logoURI": "https://zerolend.github.io/token-lists/src/tokens/usr.svg",
       "assetGroup": "Resolv USD::USR",
       "currencyId": "Resolv USD::USR",
-      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge", "ZEROLEND", "XLEND"]
     },
     "0x6cdcb1c4a4d1c3c6d054b27ac5b77e89eafb971d": {
       "chainId": "8453",
@@ -16664,7 +16743,8 @@
       "address": "0x6cdcb1c4a4d1c3c6d054b27ac5b77e89eafb971d",
       "symbol": "vAMM-USDC/AERO",
       "assetGroup": "Volatile AMM - USDC/AERO::vAMM-USDC/AERO",
-      "currencyId": "Volatile AMM - USDC/AERO::vAMM-USDC/AERO"
+      "currencyId": "Volatile AMM - USDC/AERO::vAMM-USDC/AERO",
+      "tags": ["ZEROLEND"]
     },
     "0x0000206329b97db379d5e1bf586bbdb969c63274": {
       "chainId": "8453",
@@ -18895,7 +18975,8 @@
       "symbol": "PT-USR-25SEP2025",
       "logoURI": "https://cdn.morpho.org/assets/logos/ptusr.svg",
       "assetGroup": "PT Resolv USD 25SEP2025::PT-USR-25SEP2025",
-      "currencyId": "PT Resolv USD 25SEP2025::PT-USR-25SEP2025"
+      "currencyId": "PT Resolv USD 25SEP2025::PT-USR-25SEP2025",
+      "tags": ["XLEND"]
     },
     "0x715509bde846104cf2ccebf6fdf7ef1bb874bc45": {
       "chainId": "8453",
@@ -26629,6 +26710,27 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54817/thumb/AITV_Logo.png?1741850718",
       "assetGroup": "AITV::AITV",
       "currencyId": "AITV::AITV",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x320c99aeddf34721b8a566ba2540f8fb72400e88": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Frost",
+      "address": "0x320c99aeddf34721b8a566ba2540f8fb72400e88",
+      "symbol": "FROST",
+      "assetGroup": "Frost::FROST",
+      "currencyId": "Frost::FROST",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0xe014d2a4da6e450f21b5050120d291e63c8940fd": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Sogni AI",
+      "address": "0xe014d2a4da6e450f21b5050120d291e63c8940fd",
+      "symbol": "SOGNI",
+      "logoURI": "https://assets.coingecko.com/coins/images/67008/thumb/sogni.jpg?1751450446",
+      "assetGroup": "Sogni AI::SOGNI",
+      "currencyId": "Sogni AI::SOGNI",
       "tags": ["coingecko", "debridge"]
     }
   },

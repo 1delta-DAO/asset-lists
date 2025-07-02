@@ -207,7 +207,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/50781/thumb/20241016-213746.jpeg?1729143995",
       "assetGroup": "SolvBTC Core::SolvBTC.CORE",
       "currencyId": "SolvBTC Core::SolvBTC.CORE",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "COLEND_LSTBTC"]
     },
     "0xe8b0df74192cca9c4de66f23653476f6e6cd1d98": {
       "chainId": "1116",
@@ -228,7 +228,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/29276/thumb/wcore.png?1696528228",
       "assetGroup": "Wrapped CORE Old::WCORE_OLD",
       "currencyId": "Wrapped CORE Old::WCORE_OLD",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "COLEND", "COLEND_LSTBTC", "AVALON"]
     },
     "0xe56016187c0fb36f76c33d0d0b36b47648a42d0a": {
       "chainId": "1116",
@@ -280,7 +280,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/34423/thumb/usdc.png?1704857726",
       "assetGroup": "USDC",
       "currencyId": "USD Coin (Layer0 Bridge)::USDC",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "COLEND", "AVALON"]
     },
     "0xcfd38184c30832917a2871695f91e5e61bbd41ff": {
       "chainId": "1116",
@@ -324,7 +324,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/34424/thumb/usdt_logo.png?1704857706",
       "assetGroup": "USDT",
       "currencyId": "Tether USD::USDT",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "COLEND", "AVALON"]
     },
     "0x81bcea03678d1cef4830942227720d542aa15817": {
       "chainId": "1116",
@@ -481,7 +481,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/39945/thumb/stcore.png?1724886271",
       "assetGroup": "Liquid staked CORE::stCORE",
       "currencyId": "Liquid staked CORE::stCORE",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "COLEND"]
     },
     "0x7bb0996354ab99fadd6a9fd0bf6ac40fa7e54b6f": {
       "chainId": "1116",
@@ -551,7 +551,8 @@
       "symbol": "COREBTC",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x8034aB88C3512246Bf7894f57C834DdDBd1De01F.png",
       "assetGroup": "Core Wrapped BTC Token::COREBTC",
-      "currencyId": "Core Wrapped BTC Token::COREBTC"
+      "currencyId": "Core Wrapped BTC Token::COREBTC",
+      "tags": ["COLEND", "COLEND_LSTBTC", "AVALON"]
     },
     "0x7a6888c85edba8e38f6c7e0485212da602761c08": {
       "chainId": "1116",
@@ -561,7 +562,8 @@
       "symbol": "BTCB",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x7A6888c85eDBA8E38F6C7E0485212da602761C08.png",
       "assetGroup": "BTCB::BTCB",
-      "currencyId": "BTCB::BTCB"
+      "currencyId": "BTCB::BTCB",
+      "tags": ["COLEND", "COLEND_LSTBTC"]
     },
     "0x5b1fb849f1f76217246b8aaac053b5c7b15b7dc3": {
       "chainId": "1116",
@@ -572,7 +574,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/36800/standard/solvBTC.png?1719810684",
       "assetGroup": "Bridged SolvBTC.b (Free)::SolvBTC.b",
       "currencyId": "Bridged SolvBTC.b (Free)::SolvBTC.b",
-      "tags": ["bridged", "coingecko"]
+      "tags": ["bridged", "coingecko", "COLEND", "COLEND_LSTBTC", "AVALON"]
     },
     "0x9a9bc340103c462365db54e423f95784c664d3df": {
       "chainId": "1116",
@@ -593,7 +595,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/SolvBTC.webp",
       "assetGroup": "Bridged SolvBTC (Free)::SolvBTC.m",
       "currencyId": "Bridged SolvBTC (Free)::SolvBTC.m",
-      "tags": ["bridged"]
+      "tags": ["bridged", "COLEND", "AVALON"]
     },
     "0x068a8819bd526c0480c190d1f902f1e0a5bbb139": {
       "chainId": "1116",
@@ -646,7 +648,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/51445/thumb/CLND_200.png?1731238732",
       "assetGroup": "Colend::CLND",
       "currencyId": "Colend::CLND",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "COLEND"]
     },
     "0xc5cd3f4029269fe9f2d2d154594d02f13c9a5214": {
       "chainId": "1116",
@@ -734,7 +736,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/33363/thumb/abtc_%281%29.png?1701606956",
       "assetGroup": "ABTC",
       "currencyId": "XLink Bridged BTC::ABTC",
-      "tags": ["bridged", "coingecko"]
+      "tags": ["bridged", "coingecko", "COLEND"]
     },
     "0xf6f46bd1f85ebf00c6d7490678ad020bc73969a7": {
       "chainId": "1116",
@@ -809,7 +811,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55079/thumb/uBTC.png?1743613297",
       "assetGroup": "UBTC",
       "currencyId": "uBTC::uBTC",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "AVALON_UBTC"]
     },
     "0xd60d60b168360dbd3496ec0ed0afe4a7498de3ce": {
       "chainId": "1116",

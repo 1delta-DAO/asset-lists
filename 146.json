@@ -33,7 +33,18 @@
       "logoURI": "https://assets.coingecko.com/coins/images/53064/thumb/logo.png?1735179479",
       "assetGroup": "USDC",
       "currencyId": "Bridged USDC::USDC.e",
-      "tags": ["bridged", "coingecko", "biconomy-gas-token", "debridge"]
+      "tags": [
+        "bridged",
+        "coingecko",
+        "biconomy-gas-token",
+        "debridge",
+        "AAVE_V3",
+        "AVALON_USDA",
+        "POLTER",
+        "MAGSIN",
+        "ENCLABS",
+        "ENCLABS_LST"
+      ]
     },
     "0x50c42deacd8fc9773493ed674b675be577f2634b": {
       "chainId": "146",
@@ -44,7 +55,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge", "AAVE_V3", "POLTER", "MAGSIN", "ENCLABS"]
     },
     "0xe51ee9868c1f0d6cd968a8b8c8376dc2991bfe44": {
       "chainId": "146",
@@ -121,7 +132,18 @@
       "logoURI": "https://assets.coingecko.com/coins/images/52857/thumb/wrapped_sonic.png?1734536585",
       "assetGroup": "S",
       "currencyId": "Wrapped Sonic::wS",
-      "tags": ["coingecko", "wnative", "biconomy-gas-token", "debridge"]
+      "tags": [
+        "coingecko",
+        "wnative",
+        "biconomy-gas-token",
+        "debridge",
+        "AAVE_V3",
+        "AVALON_BEETS",
+        "POLTER",
+        "MAGSIN",
+        "ENCLABS",
+        "ENCLABS_LST"
+      ]
     },
     "0xb0695ce12c56aae40894235e2d1888d0b62dd110": {
       "chainId": "146",
@@ -143,7 +165,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/26045/standard/euro.png?1696525125",
       "assetGroup": "Bridged EURC::EURC.e",
       "currencyId": "Bridged EURC::EURC.e",
-      "tags": ["bridged", "debridge"]
+      "tags": ["bridged", "debridge", "ENCLABS"]
     },
     "0x6fb9897896fe5d05025eb43306675727887d0b7c": {
       "chainId": "146",
@@ -396,7 +418,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/53774/thumb/wos-256x256.png?1737271865",
       "assetGroup": "Wrapped Origin Sonic::WOS",
       "currencyId": "Wrapped Origin Sonic::WOS",
-      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge", "ENCLABS_LST"]
     },
     "0x3bce5cb273f0f148010bbea2470e7b5df84c7812": {
       "chainId": "146",
@@ -407,7 +429,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54461/thumb/sceth.png?1739847097",
       "assetGroup": "Rings scETH::SCETH",
       "currencyId": "Rings scETH::SCETH",
-      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge", "ENCLABS", "ENCLABS_PT_USD"]
     },
     "0xe6cc4d855b4fd4a9d02f46b9adae4c5efb1764b5": {
       "chainId": "146",
@@ -462,7 +484,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/52937/thumb/token-beets-staked-sonic.png?1734712659",
       "assetGroup": "Beets Staked Sonic::STS",
       "currencyId": "Beets Staked Sonic::STS",
-      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge", "AAVE_V3", "AVALON_BEETS", "MAGSIN", "ENCLABS"]
     },
     "0x068e9e009fda970fa953e1f6a43d982ca991f4ba": {
       "chainId": "146",
@@ -671,7 +693,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/36800/thumb/solvBTC.png?1719810684",
       "assetGroup": "SOLVBTC",
       "currencyId": "Solv BTC::SolvBTC",
-      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge", "AVALON"]
     },
     "0x80eede496655fb9047dd39d9f418d5483ed600df": {
       "chainId": "146",
@@ -693,7 +715,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/53456/thumb/scusd_%281%29.png?1736404738",
       "assetGroup": "Rings scUSD::SCUSD",
       "currencyId": "Rings scUSD::SCUSD",
-      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge", "ENCLABS", "ENCLABS_PT_ETH"]
     },
     "0x5bff88ca1442c2496f7e475e9e7786383bc070c0": {
       "chainId": "146",
@@ -715,7 +737,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/39384/thumb/unnamed.png?1721961640",
       "assetGroup": "XSOLVBTC",
       "currencyId": "xSolvBTC::xSolvBTC",
-      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge", "AVALON"]
     },
     "0xe4a4353cd8f008f1a70f1a564535990479e8ceb7": {
       "chainId": "146",
@@ -1454,7 +1476,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/31185/large/anyusdt_32.png?1696530013",
       "assetGroup": "USDT",
       "currencyId": "Tether USD::USDT",
-      "tags": ["biconomy-gas-token", "debridge"]
+      "tags": ["biconomy-gas-token", "debridge", "POLTER"]
     },
     "0x9bcea390ff97e0d3362bf726820776a4df8add9a": {
       "chainId": "146",
@@ -1560,7 +1582,8 @@
       "address": "0xff12470a969dd362eb6595ffb44c82c959fe9acc",
       "symbol": "USDa",
       "assetGroup": "USDa::USDa",
-      "currencyId": "USDa::USDa"
+      "currencyId": "USDa::USDa",
+      "tags": ["AVALON_USDA"]
     },
     "0x2840f9d9f96321435ab0f977e7fdbf32ea8b304f": {
       "chainId": "146",
@@ -1569,7 +1592,8 @@
       "address": "0x2840f9d9f96321435ab0f977e7fdbf32ea8b304f",
       "symbol": "sUSDa",
       "assetGroup": "SUSDA",
-      "currencyId": "sUSDa::sUSDa"
+      "currencyId": "sUSDa::sUSDa",
+      "tags": ["AVALON_USDA"]
     },
     "0x6646248971427b80ce531bdd793e2eb859347e55": {
       "chainId": "146",
@@ -1830,7 +1854,8 @@
       "symbol": "xUSD",
       "logoURI": "https://app.streamprotocol.money/assets/usdc-a6e16350.svg",
       "assetGroup": "Staked Stream USD::xUSD",
-      "currencyId": "Staked Stream USD::xUSD"
+      "currencyId": "Staked Stream USD::xUSD",
+      "tags": ["ENCLABS"]
     },
     "0xd9d6f92df52716835594ab41ea6f3bb994da98b6": {
       "chainId": "146",
@@ -2144,6 +2169,17 @@
       "symbol": "crvUSD",
       "assetGroup": "CRVUSD",
       "currencyId": "Curve.Fi USD Stablecoin::crvUSD"
+    },
+    "0xe5fb2ed6832def99dde57c0b9d9a56537c89121d": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Main Street USD",
+      "address": "0xe5fb2ed6832def99dde57c0b9d9a56537c89121d",
+      "symbol": "MSUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/66996/thumb/msUSD.png?1751389184",
+      "assetGroup": "Main Street USD::MSUSD",
+      "currencyId": "Main Street USD::MSUSD",
+      "tags": ["coingecko", "debridge"]
     }
   },
   "mainTokens": [

@@ -566,6 +566,15 @@
       "symbol": "agEUR",
       "assetGroup": "AGEUR",
       "currencyId": "agEUR::agEUR"
+    },
+    "0xd8bf72f3e163b9cf0c73dfdcc316417a5ac20670": {
+      "chainId": "122",
+      "decimals": 18,
+      "name": "Wrapped Ether on Fuse",
+      "address": "0xd8bf72f3e163b9cf0c73dfdcc316417a5ac20670",
+      "symbol": "WETH",
+      "assetGroup": "ETH",
+      "currencyId": "Wrapped Ether on Fuse::WETH"
     }
   },
   "mainTokens": [
@@ -598,7 +607,8 @@
     "0x0972f26e8943679b043de23df2fd3852177a7c48",
     "0x7f59ae3a787c0d1d640f99883d0e48c22188c54f",
     "0x90708b20ccc1eb95a4fa7c8b18fd2c22a0ff9e78",
-    "0x117c0419352ddb6fe575a67faa70315bdc4a93f3"
+    "0x117c0419352ddb6fe575a67faa70315bdc4a93f3",
+    "0xd8bf72f3e163b9cf0c73dfdcc316417a5ac20670"
   ],
   "bridgeTokens": [
     "0x33284f95ccb7b948d9d352e1439561cf83d8d00d",

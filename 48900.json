@@ -22,7 +22,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/52628/thumb/wETH_32.png?1733823830",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "ZEROLEND"]
     },
     "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742": {
       "chainId": "48900",
@@ -33,7 +33,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/52629/thumb/USDT.png?1733824032",
       "assetGroup": "USDT",
       "currencyId": "Tether USD::USDT",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "ZEROLEND"]
     },
     "0xa608512bbc9934e4b1ddecf0f5fb38b6ad93308d": {
       "chainId": "48900",
@@ -55,7 +55,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/35960/thumb/zircuit_token_icon_2.png?1732502352",
       "assetGroup": "Zircuit::ZRC",
       "currencyId": "Zircuit::ZRC",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "ZEROLEND"]
     },
     "0x80137510979822322193fc997d400d5a6c747bf7": {
       "chainId": "48900",
@@ -88,7 +88,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000015/0x3b952c8c9c44e8fe201e2b26f6b2200203214cff/small/token-logo.svg",
       "assetGroup": "USDC",
       "currencyId": "USD Coin::USDC",
-      "tags": ["debridge"]
+      "tags": ["debridge", "ZEROLEND"]
     },
     "0x5b77baa28e134444ca5cbb67e4e5691087ed28fa": {
       "chainId": "48900",
@@ -110,7 +110,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000015/0x3535df6e1d776631d0cba53fe9efd34bcbdceed4/small/token-logo.svg",
       "assetGroup": "WEETH",
       "currencyId": "Wrapped eETH::weETH",
-      "tags": ["debridge"]
+      "tags": ["debridge", "ZEROLEND"]
     },
     "0x2416092f143378750bb29b79ed961ab195cceea5": {
       "chainId": "48900",
@@ -121,7 +121,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000015/0x2416092f143378750bb29b79ed961ab195cceea5/small/token-logo.svg",
       "assetGroup": "EZETH",
       "currencyId": "Renzo Restaked ETH::ezETH",
-      "tags": ["debridge"]
+      "tags": ["debridge", "ZEROLEND"]
     },
     "0xf0e673bc224a8ca3ff67a61605814666b1234833": {
       "chainId": "48900",
@@ -143,7 +143,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000015/0x19df5689cfce64bc2a55f7220b0cd522659955ef/small/token-logo.svg",
       "assetGroup": "WBTC",
       "currencyId": "Wrapped BTC::WBTC",
-      "tags": ["debridge"]
+      "tags": ["debridge", "ZEROLEND"]
     }
   },
   "mainTokens": [

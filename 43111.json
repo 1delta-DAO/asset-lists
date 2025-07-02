@@ -11,7 +11,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "tags": ["wnative"]
+      "tags": ["wnative", "LAYERBANK_V3", "ZEROLEND", "LENDOS"]
     },
     "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa": {
       "chainId": "43111",
@@ -22,7 +22,7 @@
       "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdce.svg",
       "assetGroup": "USDC",
       "currencyId": "Bridged USDC (Stargate)::USDC.e",
-      "tags": ["stargate", "bridged"]
+      "tags": ["stargate", "bridged", "LAYERBANK_V3", "ZEROLEND", "LENDOS"]
     },
     "0x7a06c4aef988e7925575c50261297a946ad204a8": {
       "chainId": "43111",
@@ -32,7 +32,8 @@
       "symbol": "VUSD",
       "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/vusd.png",
       "assetGroup": "VUSD",
-      "currencyId": "Vesper V-Dollar::VUSD"
+      "currencyId": "Vesper V-Dollar::VUSD",
+      "tags": ["LAYERBANK_V3", "ZEROLEND", "LENDOS"]
     },
     "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e": {
       "chainId": "43111",
@@ -42,7 +43,8 @@
       "symbol": "USDT",
       "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdt.png",
       "assetGroup": "USDT",
-      "currencyId": "Tether USD::USDT"
+      "currencyId": "Tether USD::USDT",
+      "tags": ["LAYERBANK_V3", "ZEROLEND", "LENDOS"]
     },
     "0xaa40c0c7644e0b2b224509571e10ad20d9c4ef28": {
       "chainId": "43111",
@@ -52,7 +54,8 @@
       "symbol": "hemiBTC",
       "logoURI": "https://raw.githubusercontent.com/hemilabs/token-list/master/src/logos/hemibtc.svg",
       "assetGroup": "HEMIBTC",
-      "currencyId": "Hemi Bitcoin::hemiBTC"
+      "currencyId": "Hemi Bitcoin::hemiBTC",
+      "tags": ["LAYERBANK_V3", "ZEROLEND", "LENDOS"]
     },
     "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3": {
       "chainId": "43111",
@@ -62,7 +65,8 @@
       "symbol": "WBTC",
       "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2/logo.png",
       "assetGroup": "WBTC",
-      "currencyId": "Wrapped BTC::WBTC"
+      "currencyId": "Wrapped BTC::WBTC",
+      "tags": ["LAYERBANK_V3", "ZEROLEND", "LENDOS"]
     },
     "0x93919784c523f39cacaa98ee0a9d96c3f32b593e": {
       "chainId": "43111",
@@ -72,7 +76,8 @@
       "symbol": "brBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/53039/standard/brBTC_200.png?1735074374",
       "assetGroup": "BRBTC",
-      "currencyId": "brBTC::brBTC"
+      "currencyId": "brBTC::brBTC",
+      "tags": ["LAYERBANK_V3", "ZEROLEND"]
     },
     "0x6a9a65b84843f5fd4ac9a0471c4fc11afffbce4a": {
       "chainId": "43111",
@@ -82,7 +87,8 @@
       "symbol": "enzoBTC",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/enzoBTC.webp",
       "assetGroup": "ENZOBTC",
-      "currencyId": "Lorenzo Wrapped Bitcoin::enzoBTC"
+      "currencyId": "Lorenzo Wrapped Bitcoin::enzoBTC",
+      "tags": ["LAYERBANK_V3"]
     },
     "0x1b529b888d15711b4baeb5a3b12465dc3e2520a3": {
       "chainId": "43111",
@@ -152,7 +158,8 @@
       "symbol": "IBTC",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/iBTC.webp",
       "assetGroup": "IBTC",
-      "currencyId": "iBTC::IBTC"
+      "currencyId": "iBTC::IBTC",
+      "tags": ["LAYERBANK_V3"]
     },
     "0xe3c0ff176ef92fc225096c6d1788ccb818808b35": {
       "chainId": "43111",
@@ -172,7 +179,8 @@
       "symbol": "uBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/55079/thumb/uBTC.png?1743613297",
       "assetGroup": "UBTC",
-      "currencyId": "uBTC::uBTC"
+      "currencyId": "uBTC::uBTC",
+      "tags": ["LAYERBANK_V3"]
     },
     "0x9bfa177621119e64cecbeabe184ab9993e2ef727": {
       "chainId": "43111",
@@ -182,7 +190,8 @@
       "symbol": "M-BTC",
       "logoURI": "https://assets.coingecko.com/coins/images/36566/standard/photo_2024-03-25_22-04-42.jpg?1711936162",
       "assetGroup": "M-BTC",
-      "currencyId": "Merlin BTC::M-BTC"
+      "currencyId": "Merlin BTC::M-BTC",
+      "tags": ["LAYERBANK_V3", "ZEROLEND"]
     },
     "0xf469fbd2abcd6b9de8e169d128226c0fc90a012e": {
       "chainId": "43111",
@@ -192,7 +201,8 @@
       "symbol": "pumpBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/39232/thumb/200pxPumpBTCLogo.png?1721227861",
       "assetGroup": "PUMPBTC",
-      "currencyId": "pumpBTC::pumpBTC"
+      "currencyId": "pumpBTC::pumpBTC",
+      "tags": ["ZEROLEND"]
     },
     "0x12b6e6fc45f81cda81d2656b974e8190e4ab8d93": {
       "chainId": "43111",
@@ -212,7 +222,8 @@
       "symbol": "uniBTC",
       "logoURI": "https://raw.githubusercontent.com/Bedrock-Technology/bedrock-static/39b68b34ecef136a7f57720ac6ac8773606539da/logo/unibtc.svg",
       "assetGroup": "UNIBTC",
-      "currencyId": "uniBTC::uniBTC"
+      "currencyId": "uniBTC::uniBTC",
+      "tags": ["LAYERBANK_V3", "ZEROLEND"]
     },
     "0x0af3ec6f9592c193196bef220bc0ce4d9311527d": {
       "chainId": "43111",
@@ -251,7 +262,8 @@
       "symbol": "rsETH",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x4186BFC76E2E237523CBC30FD220FE055156b41F/logo.png",
       "assetGroup": "RSETH",
-      "currencyId": "KelpDao Restaked ETH::rsETH"
+      "currencyId": "KelpDao Restaked ETH::rsETH",
+      "tags": ["ZEROLEND"]
     },
     "0x027a9d301fb747cd972cfb29a63f3bda551dfc5c": {
       "chainId": "43111",
@@ -453,7 +465,8 @@
       "address": "0x0ffb62483517309afd039b117d795521e8320a1b",
       "symbol": "SLP",
       "assetGroup": "SushiSwap LP Token (VUSD-hemiBTC)::SLP",
-      "currencyId": "SushiSwap LP Token (VUSD-hemiBTC)::SLP"
+      "currencyId": "SushiSwap LP Token (VUSD-hemiBTC)::SLP",
+      "tags": ["LENDOS"]
     },
     "0xaf6ed58980b5a0732423469dd9f3f69d9dc6dab5": {
       "chainId": "43111",
@@ -462,7 +475,8 @@
       "address": "0xaf6ed58980b5a0732423469dd9f3f69d9dc6dab5",
       "symbol": "SLP",
       "assetGroup": "SushiSwap LP Token (WETH-USDC.e)::SLP",
-      "currencyId": "SushiSwap LP Token (WETH-USDC.e)::SLP"
+      "currencyId": "SushiSwap LP Token (WETH-USDC.e)::SLP",
+      "tags": ["LENDOS"]
     },
     "0xf23eec60263de9b0c8472c58be10feba28d9eb53": {
       "chainId": "43111",
@@ -471,7 +485,8 @@
       "address": "0xf23eec60263de9b0c8472c58be10feba28d9eb53",
       "symbol": "SLP",
       "assetGroup": "SushiSwap LP Token (VUSD-USDC.e)::SLP",
-      "currencyId": "SushiSwap LP Token (VUSD-USDC.e)::SLP"
+      "currencyId": "SushiSwap LP Token (VUSD-USDC.e)::SLP",
+      "tags": ["LENDOS"]
     }
   },
   "mainTokens": [

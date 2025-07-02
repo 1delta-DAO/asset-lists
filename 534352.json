@@ -32,7 +32,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "tags": ["coingecko", "wnative", "biconomy-gas-token"]
+      "tags": ["coingecko", "wnative", "biconomy-gas-token", "AAVE_V3", "LORE", "COMPOUND_V3_USDC"]
     },
     "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4": {
       "chainId": "534352",
@@ -43,7 +43,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/32611/thumb/USDC.png?1698733754",
       "assetGroup": "USDC",
       "currencyId": "USD Coin::USDC",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "AAVE_V3", "AVALON", "LORE", "COMPOUND_V3_USDC"]
     },
     "0xf55bec9cafdbe8730f096aa55dad6d22d44099df": {
       "chainId": "534352",
@@ -54,7 +54,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/32610/thumb/usdt_%281%29.png?1698733524",
       "assetGroup": "USDT",
       "currencyId": "Tether USD::USDT",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "LORE"]
     },
     "0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1": {
       "chainId": "534352",
@@ -87,7 +87,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/32615/thumb/wsteth.png?1698735772",
       "assetGroup": "WSTETH",
       "currencyId": "Wrapped liquid staked Ether 2.0::wstETH",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "AAVE_V3", "AVALON", "LORE", "COMPOUND_V3_USDC"]
     },
     "0xdd6a49995ad38fe7409b5d5cb5539261bd1bc901": {
       "chainId": "534352",
@@ -164,7 +164,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/50571/thumb/scroll.jpg?1728376125",
       "assetGroup": "Scroll::SCR",
       "currencyId": "Scroll::SCR",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "AAVE_V3", "LORE"]
     },
     "0x0fc479e2f9b7310bfb1db606cf565dea6910eedc": {
       "chainId": "534352",
@@ -274,7 +274,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/33103/thumb/200_200.png?1702602672",
       "assetGroup": "STONE",
       "currencyId": "StakeStone Ether::STONE",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "LORE"]
     },
     "0x78ab77f7d590fb101aa18affc238cbfea31ead5b": {
       "chainId": "534352",
@@ -307,7 +307,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/37919/thumb/rseth.png?1715936438",
       "assetGroup": "WRSETH",
       "currencyId": "Wrapped rsETH::wrsETH",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "LORE"]
     },
     "0x0018d96c579121a94307249d47f053e2d687b5e7": {
       "chainId": "534352",
@@ -549,7 +549,7 @@
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee/6c02f6b3bcd264d433c3676100ad8da6.png",
       "assetGroup": "WEETH",
       "currencyId": "Wrapped eETH::weETH",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "AAVE_V3", "LORE"]
     },
     "0x8731d54e9d02c286767d56ac03e8037c07e01e98": {
       "chainId": "534352",

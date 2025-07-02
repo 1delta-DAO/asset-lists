@@ -22,7 +22,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590/logo.png",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge", "ZEROLEND"]
     },
     "0x6969696969696969696969696969696969696969": {
       "chainId": "80094",
@@ -33,7 +33,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x6969696969696969696969696969696969696969/logo.png",
       "assetGroup": "BERA",
       "currencyId": "Wrapped Bera::WBERA",
-      "tags": ["coingecko", "wnative", "biconomy-gas-token", "debridge"]
+      "tags": ["coingecko", "wnative", "biconomy-gas-token", "debridge", "ZEROLEND"]
     },
     "0x688e72142674041f8f6af4c808a4045ca1d6ac82": {
       "chainId": "80094",
@@ -55,7 +55,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x549943e04f40284185054145c6E4e9568C1D3241/logo.png",
       "assetGroup": "USDC",
       "currencyId": "Bridged USDC (Stargate)::USDC.e",
-      "tags": ["stargate", "bridged", "coingecko", "biconomy-gas-token", "debridge"]
+      "tags": ["stargate", "bridged", "coingecko", "biconomy-gas-token", "debridge", "ZEROLEND"]
     },
     "0x9b6761bf2397bb5a6624a856cc84a3a14dcd3fe5": {
       "chainId": "80094",
@@ -77,7 +77,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce/logo.png",
       "assetGroup": "Honey::HONEY",
       "currencyId": "Honey::HONEY",
-      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge", "ZEROLEND"]
     },
     "0x779ded0c9e1022225f8e0630b35a9b54be713736": {
       "chainId": "80094",
@@ -88,7 +88,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x779Ded0c9e1022225f8E0630b35a9b54bE713736/logo.png",
       "assetGroup": "USDT",
       "currencyId": "Tether USD::USDT",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "ZEROLEND"]
     },
     "0x1ce0a25d13ce4d52071ae7e02cf1f6606f4c79d3": {
       "chainId": "80094",
@@ -99,7 +99,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x1cE0a25D13CE4d52071aE7e02Cf1F6606F4C79d3/logo.png",
       "assetGroup": "NECTAR::NECT",
       "currencyId": "NECTAR::NECT",
-      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge", "ZEROLEND"]
     },
     "0x28e0e3b9817012b356119df9e217c25932d609c2": {
       "chainId": "80094",
@@ -121,7 +121,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xac03CABA51e17c86c921E1f6CBFBdC91F8BB2E6b/logo.png",
       "assetGroup": "Infrared BGT::iBGT",
       "currencyId": "Infrared BGT::iBGT",
-      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge", "ZEROLEND"]
     },
     "0x541fd749419ca806a8bc7da8ac23d346f2df8b77": {
       "chainId": "80094",
@@ -186,7 +186,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34/logo.png",
       "assetGroup": "USDE",
       "currencyId": "USDe::USDe",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "ZEROLEND"]
     },
     "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2": {
       "chainId": "80094",
@@ -196,7 +196,8 @@
       "symbol": "sUSDe",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2/logo.png",
       "assetGroup": "SUSDE",
-      "currencyId": "Staked USDe::sUSDe"
+      "currencyId": "Staked USDe::sUSDe",
+      "tags": ["ZEROLEND"]
     },
     "0x7dcc39b4d1c53cb31e1abc0e358b43987fef80f7": {
       "chainId": "80094",
@@ -206,7 +207,8 @@
       "symbol": "weETH",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x7DCC39B4d1C53CB31e1aBc0e358b43987FEF80f7/logo.png",
       "assetGroup": "WEETH",
-      "currencyId": "Wrapped eETH::weETH"
+      "currencyId": "Wrapped eETH::weETH",
+      "tags": ["ZEROLEND"]
     },
     "0xc3827a4bc8224ee2d116637023b124ced6db6e90": {
       "chainId": "80094",
@@ -228,7 +230,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0xecAc9C5F704e954931349Da37F60E39f515c11c1/logo.png",
       "assetGroup": "LBTC",
       "currencyId": "Lombard Staked BTC::LBTC",
-      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge", "ZEROLEND"]
     },
     "0xdcb3d91555385dae23e6b966b5626aa7a75be940": {
       "chainId": "80094",
@@ -278,7 +280,8 @@
       "symbol": "rswETH",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x850CDF416668210ED0c36bfFF5d21921C7adA3b8/logo.png",
       "assetGroup": "rswETH::rswETH",
-      "currencyId": "rswETH::rswETH"
+      "currencyId": "rswETH::rswETH",
+      "tags": ["ZEROLEND"]
     },
     "0x4186bfc76e2e237523cbc30fd220fe055156b41f": {
       "chainId": "80094",
@@ -288,7 +291,8 @@
       "symbol": "rsETH",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x4186BFC76E2E237523CBC30FD220FE055156b41F/logo.png",
       "assetGroup": "RSETH",
-      "currencyId": "KelpDao Restaked ETH::rsETH"
+      "currencyId": "KelpDao Restaked ETH::rsETH",
+      "tags": ["ZEROLEND"]
     },
     "0x8f06863df59a042bcc2c86cc8ca1709ec1ee316b": {
       "chainId": "80094",

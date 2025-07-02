@@ -22,7 +22,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/34979/thumb/MODE.jpg?1714561871",
       "assetGroup": "MODE",
       "currencyId": "Mode::MODE",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "IRONCLAD_FINANCE", "MOLEND"]
     },
     "0x6863fb62ed27a9ddf458105b507c15b5d741d62e": {
       "chainId": "34443",
@@ -66,7 +66,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/52912/thumb/susde.jpg?1734676361",
       "assetGroup": "SUSDE",
       "currencyId": "Ethena Staked USDe::sUSDE",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "IRONCLAD_FINANCE"]
     },
     "0xcda802a5bffaa02b842651266969a5bba0c66d3e": {
       "chainId": "34443",
@@ -120,7 +120,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/35809/thumb/usdc_%281%29.png?1709867043",
       "assetGroup": "USDC",
       "currencyId": "USD Coin::USDC",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "IRONCLAD_FINANCE", "MOLEND"]
     },
     "0xf0f161fda2712db8b566946122a5af183995e2ed": {
       "chainId": "34443",
@@ -131,7 +131,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/35808/thumb/usdt_%281%29.png?1709866389",
       "assetGroup": "USDT",
       "currencyId": "Tether USD::USDT",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "IRONCLAD_FINANCE", "MOLEND"]
     },
     "0xc53edeafb6d502daec5a7015d67936cea0cd0f52": {
       "chainId": "34443",
@@ -175,7 +175,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "tags": ["coingecko", "wnative"]
+      "tags": ["coingecko", "wnative", "IRONCLAD_FINANCE", "MOLEND"]
     },
     "0x6b2a01a5f79deb4c2f3c0eda7b01df456fbd726a": {
       "chainId": "34443",
@@ -186,7 +186,7 @@
       "logoURI": "https://raw.githubusercontent.com/Bedrock-Technology/bedrock-static/39b68b34ecef136a7f57720ac6ac8773606539da/logo/unibtc.svg",
       "assetGroup": "UNIBTC",
       "currencyId": "uniBTC::uniBTC",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "AVALON_UNIBTC", "IRONCLAD_FINANCE"]
     },
     "0x02f92800f57bcd74066f5709f1daa1a4302df875": {
       "chainId": "34443",
@@ -229,7 +229,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/33103/thumb/200_200.png?1702602672",
       "assetGroup": "STONE",
       "currencyId": "StakeStone Ether::STONE",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "MOLEND"]
     },
     "0x66eed5ff1701e6ed8470dc391f05e27b1d0657eb": {
       "chainId": "34443",
@@ -251,7 +251,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/37919/thumb/rseth.png?1715936438",
       "assetGroup": "WRSETH",
       "currencyId": "Wrapped rsETH::WRSETH",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "IRONCLAD_FINANCE"]
     },
     "0x5a7a183b6b44dc4ec2e3d2ef43f98c5152b1d76d": {
       "chainId": "34443",
@@ -316,7 +316,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/36566/thumb/photo_2024-03-25_22-04-42.jpg?1711936162",
       "assetGroup": "M-BTC",
       "currencyId": "Merlin BTC::M-BTC",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "AVALON_SOLV_BTC", "AVALON_UNIBTC", "IRONCLAD_FINANCE", "MOLEND"]
     },
     "0x819d1daa794c1c46b841981b61cc978d95a17b8e": {
       "chainId": "34443",
@@ -360,7 +360,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/34753/thumb/Ezeth_logo_circle.png?1713496404",
       "assetGroup": "EZETH",
       "currencyId": "Renzo Restaked ETH::ezETH",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "IRONCLAD_FINANCE", "MOLEND"]
     },
     "0xd678b48dc9b92626b5c406c3f07a153fb9f23687": {
       "chainId": "34443",
@@ -404,7 +404,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/SolvBTC.webp",
       "assetGroup": "SOLVBTC",
       "currencyId": "Solv BTC::SolvBTC",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "AVALON_SOLV_BTC"]
     },
     "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189": {
       "chainId": "34443",
@@ -445,7 +445,8 @@
       "symbol": "weETH",
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee/6c02f6b3bcd264d433c3676100ad8da6.png",
       "assetGroup": "WEETH",
-      "currencyId": "Wrapped eETH::weETH"
+      "currencyId": "Wrapped eETH::weETH",
+      "tags": ["IRONCLAD_FINANCE"]
     },
     "0xe7798f023fc62146e8aa1b36da45fb70855a77ea": {
       "chainId": "34443",
@@ -524,7 +525,8 @@
       "symbol": "weETH.mode",
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee/6c02f6b3bcd264d433c3676100ad8da6.png",
       "assetGroup": "Wrapped eETH::weETH.mode",
-      "currencyId": "Wrapped eETH::weETH.mode"
+      "currencyId": "Wrapped eETH::weETH.mode",
+      "tags": ["IRONCLAD_FINANCE"]
     },
     "0x59e710215d45f584f44c0fee83da6d43d762d857": {
       "chainId": "34443",

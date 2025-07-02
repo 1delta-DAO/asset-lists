@@ -22,7 +22,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/16036/thumb/Fantom.png?1696515646",
       "assetGroup": "FTM",
       "currencyId": "Wrapped FTM::WFTM",
-      "tags": ["openocean", "coingecko", "debridge", "wnative"]
+      "tags": ["openocean", "coingecko", "debridge", "wnative", "GRANARY"]
     },
     "0x04068da6c83afcfa0e13ba15a6696662335d5b75": {
       "chainId": "250",
@@ -946,7 +946,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "tags": ["openocean", "coingecko", "debridge"]
+      "tags": ["openocean", "coingecko", "debridge", "GRANARY"]
     },
     "0x29b0da86e484e1c0029b56e817912d778ac0ec69": {
       "chainId": "250",
@@ -1342,7 +1342,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/31185/thumb/anyusdt_32.png?1696530013",
       "assetGroup": "USDT",
       "currencyId": "Bridged USDT (Stargate)::USDT.e",
-      "tags": ["stargate", "bridged", "debridge"]
+      "tags": ["stargate", "bridged", "debridge", "GRANARY"]
     },
     "0x117db78176c8ede4f12fcd29d85cd96b91a4cbbb": {
       "chainId": "250",
@@ -1375,7 +1375,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/31134/thumb/USDC-icon.png?1696529963",
       "assetGroup": "Bridged USDC (LayerZero)::LZUSDC",
       "currencyId": "Bridged USDC (LayerZero)::LZUSDC",
-      "tags": ["bridged", "layerzero", "coingecko", "debridge"]
+      "tags": ["bridged", "layerzero", "coingecko", "debridge", "GRANARY"]
     },
     "0x174c7106aeecdc11389f7dd21342f05f46ccb40f": {
       "chainId": "250",
@@ -1562,7 +1562,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/31179/thumb/wBTC_32.png?1696530007",
       "assetGroup": "Bridged WBTC (Stargate)::WBTC",
       "currencyId": "Bridged WBTC (Stargate)::WBTC",
-      "tags": ["stargate", "bridged", "debridge"]
+      "tags": ["stargate", "bridged", "debridge", "GRANARY"]
     },
     "0x49894fcc07233957c35462cfc3418ef0cc26129f": {
       "chainId": "250",
@@ -3179,7 +3179,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x91a40C733c97a6e1BF876EaF9ed8c08102eB491f.png",
       "assetGroup": "LayerZero Dai::lzDAI",
       "currencyId": "LayerZero Dai::lzDAI",
-      "tags": ["layerzero", "bridged"]
+      "tags": ["layerzero", "bridged", "GRANARY"]
     },
     "0xde1e704dae0b4051e80dabb26ab6ad6c12262da0": {
       "chainId": "250",
