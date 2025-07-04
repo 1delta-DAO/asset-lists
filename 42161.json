@@ -18443,7 +18443,7 @@
       "symbol": "PT-ezETH-27JUN2024",
       "assetGroup": "PT Renzo ezETH 27JUN2024::PT-ezETH-27JUN2024",
       "currencyId": "PT Renzo ezETH 27JUN2024::PT-ezETH-27JUN2024",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "PENDLE-PT"]
     },
     "0xdd69db25f6d620a7bad3023c5d32761d353d3de9": {
       "chainId": "42161",
@@ -21603,9 +21603,10 @@
       "name": "Wrapped XTZ",
       "address": "0x7424f00845777a06e21f0bd8873f814a8a814b2d",
       "symbol": "WXTZ",
+      "logoURI": "https://assets.coingecko.com/coins/images/51172/thumb/WXTZ_Logo_Black.png?1750764795",
       "assetGroup": "XTZ",
       "currencyId": "Wrapped XTZ::WXTZ",
-      "tags": ["debridge"]
+      "tags": ["debridge", "coingecko"]
     },
     "0x03569cc076654f82679c4ba2124d64774781b01d": {
       "chainId": "42161",
@@ -21684,6 +21685,48 @@
       "symbol": "FOR",
       "assetGroup": "The Force Token::FOR",
       "currencyId": "The Force Token::FOR"
+    },
+    "0x454f676d44df315eef9b5425178d5a8b524cea03": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Lockquidity",
+      "address": "0x454f676d44df315eef9b5425178d5a8b524cea03",
+      "symbol": "LOCK",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x454f676d44df315eef9b5425178d5a8b524cea03.png",
+      "assetGroup": "Lockquidity::LOCK",
+      "currencyId": "Lockquidity::LOCK"
+    },
+    "0x4b74a6a7285d3fb5731d634fc02c1caa1534cb6d": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "LakeView",
+      "address": "0x4b74a6a7285d3fb5731d634fc02c1caa1534cb6d",
+      "symbol": "LVM",
+      "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x4b74a6a7285d3fb5731d634fc02c1caa1534cb6d/d90bbafe3e228a9466ebbef5738171e0.png",
+      "assetGroup": "LakeView::LVM",
+      "currencyId": "LakeView::LVM"
+    },
+    "0x747952a59292a9b3862f3c59664b95e8b461ef45": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Arowana",
+      "address": "0x747952a59292a9b3862f3c59664b95e8b461ef45",
+      "symbol": "ARW",
+      "logoURI": "https://assets.coingecko.com/coins/images/67039/thumb/arw-logo.jpg?1751539721",
+      "assetGroup": "Arowana::ARW",
+      "currencyId": "Arowana::ARW",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x113a05170273e9087f5d0e0cdee0388478a1546d": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Yieldflow",
+      "address": "0x113a05170273e9087f5d0e0cdee0388478a1546d",
+      "symbol": "YFLOW",
+      "logoURI": "https://assets.coingecko.com/coins/images/67032/thumb/yieldflow-logo.png?1751524569",
+      "assetGroup": "Yieldflow::YFLOW",
+      "currencyId": "Yieldflow::YFLOW",
+      "tags": ["coingecko", "debridge"]
     }
   },
   "mainTokens": [

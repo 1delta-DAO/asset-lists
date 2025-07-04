@@ -23,7 +23,8 @@
         "AVALON_LISTA",
         "KINZA",
         "GRANARY",
-        "VENUS_BNB"
+        "VENUS_BNB",
+        "VALAS_FINANCE"
       ]
     },
     "0xe9e7cea3dedca5984780bafc599bd69add087d56": {
@@ -35,7 +36,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/9576/thumb/BUSD.png?1568947766",
       "assetGroup": "BUSD",
       "currencyId": "BUSD Token::BUSD",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "KINZA", "VENUS"]
+      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "KINZA", "VENUS", "VALAS_FINANCE"]
     },
     "0x2170ed0880ac9a755fd29b2688956bd959f933f8": {
       "chainId": "56",
@@ -58,7 +59,8 @@
         "KINZA",
         "GRANARY",
         "VENUS",
-        "SEGMENT"
+        "SEGMENT",
+        "VALAS_FINANCE"
       ]
     },
     "0x55d398326f99059ff775485246999027b3197955": {
@@ -89,7 +91,8 @@
         "VENUS_STABLE",
         "VENUS_TRON",
         "VENUS_DEFI",
-        "SEGMENT"
+        "SEGMENT",
+        "VALAS_FINANCE"
       ]
     },
     "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82": {
@@ -101,7 +104,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png",
       "assetGroup": "CAKE",
       "currencyId": "PancakeSwap::CAKE",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "AAVE_V3", "KINZA", "VENUS"]
+      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "AAVE_V3", "KINZA", "VENUS", "VALAS_FINANCE"]
     },
     "0x22a213852cee93eb6d41601133414d180c5684c2": {
       "chainId": "56",
@@ -732,7 +735,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
       "assetGroup": "DAI",
       "currencyId": "Dai Stablecoin::DAI",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "GRANARY", "VENUS"]
+      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "GRANARY", "VENUS", "VALAS_FINANCE"]
     },
     "0x4d2d32d8652058bf98c772953e1df5c5c85d9f45": {
       "chainId": "56",
@@ -2982,7 +2985,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/3449/large/tusd.png?1618395665",
       "assetGroup": "TUSD",
       "currencyId": "TrueUSD::TUSD",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token", "VENUS"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "VENUS", "VALAS_FINANCE"]
     },
     "0x1ffd0b47127fdd4097e54521c9e2c7f0d66aafc5": {
       "chainId": "56",
@@ -3138,7 +3141,8 @@
         "KINZA",
         "GRANARY",
         "VENUS",
-        "SEGMENT"
+        "SEGMENT",
+        "VALAS_FINANCE"
       ]
     },
     "0x01e04c6e0b2c93bb4f8ee4b71072b861f9352660": {
@@ -3482,7 +3486,8 @@
         "GRANARY",
         "VENUS",
         "VENUS_BTC",
-        "SEGMENT"
+        "SEGMENT",
+        "VALAS_FINANCE"
       ]
     },
     "0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51": {
@@ -6266,7 +6271,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x40af3827F39D0EAcBF4A168f8D4ee67c121D11c9.png",
       "assetGroup": "TrueUSD::TUSD",
       "currencyId": "TrueUSD::TUSD",
-      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "KINZA", "VENUS"]
+      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "KINZA", "VENUS", "VALAS_FINANCE"]
     },
     "0x0034719300501b06e10ebb1d07ea5967301f0941": {
       "chainId": "56",
@@ -47260,7 +47265,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x19683a9d2a31508847a026DfE77f53A05A084444.png",
       "assetGroup": "W::W::56::0",
       "currencyId": "W::W",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0xdb6f1f098b55e36b036603c8e54663a8d907d6e1": {
       "chainId": "56",
@@ -47687,6 +47692,57 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66991/thumb/BALDOR_%28200_x_200_px%29.png?1751388218",
       "assetGroup": "Baldor::BALDOR",
       "currencyId": "Baldor::BALDOR",
+      "tags": ["coingecko"]
+    },
+    "0x57df399cace62f98a74bffdffbb264e6f31bd982": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Puffverse Token",
+      "address": "0x57df399cace62f98a74bffdffbb264e6f31bd982",
+      "symbol": "PFVS",
+      "assetGroup": "Puffverse Token::PFVS",
+      "currencyId": "Puffverse Token::PFVS"
+    },
+    "0x22b1458e780f8fa71e2f84502cee8b5a3cc731fa": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "MemeCore",
+      "address": "0x22b1458e780f8fa71e2f84502cee8b5a3cc731fa",
+      "symbol": "M",
+      "assetGroup": "MemeCore::M",
+      "currencyId": "MemeCore::M"
+    },
+    "0x4ade32598fe2caa549fd7c720bb91c0111314444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "CrystalMine",
+      "address": "0x4ade32598fe2caa549fd7c720bb91c0111314444",
+      "symbol": "CRYSTAL",
+      "logoURI": "https://assets.coingecko.com/coins/images/67031/thumb/crystal.jpg?1751523916",
+      "assetGroup": "CrystalMine::CRYSTAL",
+      "currencyId": "CrystalMine::CRYSTAL",
+      "tags": ["coingecko"]
+    },
+    "0x9558a9254890b2a8b057a789f413631b9084f4a3": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Infinity Ground",
+      "address": "0x9558a9254890b2a8b057a789f413631b9084f4a3",
+      "symbol": "AIN",
+      "logoURI": "https://assets.coingecko.com/coins/images/67034/thumb/ain.jpg?1751527676",
+      "assetGroup": "Infinity Ground::AIN",
+      "currencyId": "Infinity Ground::AIN",
+      "tags": ["coingecko"]
+    },
+    "0x7bedaa6e5f43e1d83d667cfe770252a32532369e": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "GG3",
+      "address": "0x7bedaa6e5f43e1d83d667cfe770252a32532369e",
+      "symbol": "GGX",
+      "logoURI": "https://assets.coingecko.com/coins/images/56015/thumb/ggx.png?1748023015",
+      "assetGroup": "GG3::GGX",
+      "currencyId": "GG3::GGX",
       "tags": ["coingecko"]
     }
   },

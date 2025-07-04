@@ -633,6 +633,28 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/telos/0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73.jpg",
       "assetGroup": "Tether USD (Anyswap)::anyUSDT",
       "currencyId": "Tether USD (Anyswap)::anyUSDT"
+    },
+    "0xf1815bd50389c46847f0bda824ec8da914045d14": {
+      "chainId": "40",
+      "decimals": 6,
+      "name": "Stargate Bridged USDC",
+      "address": "0xf1815bd50389c46847f0bda824ec8da914045d14",
+      "symbol": "USDCE",
+      "logoURI": "https://assets.coingecko.com/coins/images/67022/thumb/usdc.jpg?1751513017",
+      "assetGroup": "Stargate Bridged USDC::USDCE",
+      "currencyId": "Stargate Bridged USDC::USDCE",
+      "tags": ["stargate", "bridged", "coingecko"]
+    },
+    "0x0555e30da8f98308edb960aa94c0db47230d2b9c": {
+      "chainId": "40",
+      "decimals": 8,
+      "name": "Telos Bridged WBTC",
+      "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "symbol": "WBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/67023/thumb/wbtc.jpg?1751513120",
+      "assetGroup": "Telos Bridged WBTC::WBTC",
+      "currencyId": "Telos Bridged WBTC::WBTC",
+      "tags": ["bridged", "coingecko"]
     }
   },
   "mainTokens": [

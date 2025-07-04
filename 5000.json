@@ -53,7 +53,9 @@
         "AURELIUS",
         "KINZA",
         "COMPOUND_V3_USDE",
-        "INIT"
+        "INIT",
+        "LENDLE_CMETH",
+        "LENDLE_PT_CMETH"
       ]
     },
     "0xcabae6f6ea1ecab08ad02fe02ce9a44f09aebfa2": {
@@ -203,7 +205,8 @@
         "AURELIUS",
         "KINZA",
         "COMPOUND_V3_USDE",
-        "INIT"
+        "INIT",
+        "LENDLE_SUSDE"
       ]
     },
     "0x58538e6a46e07434d7e7375bc268d3cb839c0133": {
@@ -355,7 +358,16 @@
       "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0xE6829d9a7eE3040e1276Fa75293Bde931859e8fA/logo.png",
       "assetGroup": "CMETH",
       "currencyId": "cmETH::cmETH",
-      "tags": ["mantlelist", "coingecko", "biconomy-gas-token", "debridge", "LENDLE", "AURELIUS", "INIT"]
+      "tags": [
+        "mantlelist",
+        "coingecko",
+        "biconomy-gas-token",
+        "debridge",
+        "LENDLE",
+        "AURELIUS",
+        "INIT",
+        "LENDLE_CMETH"
+      ]
     },
     "0xd2b4c9b0d70e3da1fbdd98f469bd02e77e12fc79": {
       "chainId": "5000",
@@ -377,7 +389,7 @@
       "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2/logo.png",
       "assetGroup": "SUSDE",
       "currencyId": "Staked USDe::sUSDe",
-      "tags": ["mantlelist", "biconomy-gas-token", "LENDLE", "AURELIUS"]
+      "tags": ["mantlelist", "biconomy-gas-token", "LENDLE", "AURELIUS", "LENDLE_SUSDE"]
     },
     "0x96630b0d78d29e7e8d87f8703de7c14b2d5ae413": {
       "chainId": "5000",
@@ -1307,6 +1319,17 @@
       "assetGroup": "Mantle Index Four Fund::MI4",
       "currencyId": "Mantle Index Four Fund::MI4",
       "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x698eb002a4ec013a33286f7f2ba0be3970e66455": {
+      "chainId": "5000",
+      "decimals": 18,
+      "name": "PT cmETH 18SEP2025",
+      "address": "0x698eb002a4ec013a33286f7f2ba0be3970e66455",
+      "symbol": "PT-cmETH-18SEP2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/16ebbece-2e29-4e7b-acba-d3d23fa8dec0.svg",
+      "assetGroup": "PT cmETH 18SEP2025::PT-cmETH-18SEP2025",
+      "currencyId": "PT cmETH 18SEP2025::PT-cmETH-18SEP2025",
+      "tags": ["PENDLE-PT"]
     }
   },
   "mainTokens": [

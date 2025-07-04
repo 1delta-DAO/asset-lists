@@ -16701,7 +16701,7 @@
       "logoURI": "https://basescan.org/token/images/ptcbeth_32.svg",
       "assetGroup": "PT Coinbase Wrapped Staked ETH 25DEC2025::PT-cbETH-25DEC2025",
       "currencyId": "PT Coinbase Wrapped Staked ETH 25DEC2025::PT-cbETH-25DEC2025",
-      "tags": ["ZEROLEND"]
+      "tags": ["ZEROLEND", "PENDLE-PT"]
     },
     "0x5d746848005507da0b1717c137a10c30ad9ee307": {
       "chainId": "8453",
@@ -16712,7 +16712,7 @@
       "logoURI": "https://basescan.org/token/images/ptlbtc_32.svg",
       "assetGroup": "PT Lombard LBTC 29MAY2025::PT-LBTC-29MAY2025",
       "currencyId": "PT Lombard LBTC 29MAY2025::PT-LBTC-29MAY2025",
-      "tags": ["ZEROLEND"]
+      "tags": ["ZEROLEND", "PENDLE-PT"]
     },
     "0x69000dfd5025e82f48eb28325a2b88a241182ced": {
       "chainId": "8453",
@@ -16854,7 +16854,8 @@
       "symbol": "PT-USR-24APR2025",
       "logoURI": "https://cdn.morpho.org/assets/logos/ptusr.svg",
       "assetGroup": "PT Resolv USD 24APR2025::PT-USR-24APR2025",
-      "currencyId": "PT Resolv USD 24APR2025::PT-USR-24APR2025"
+      "currencyId": "PT Resolv USD 24APR2025::PT-USR-24APR2025",
+      "tags": ["PENDLE-PT"]
     },
     "0x9a52fcd13fb9927d884b7eae826697c0aa0659cc": {
       "chainId": "8453",
@@ -18976,7 +18977,7 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/ptusr.svg",
       "assetGroup": "PT Resolv USD 25SEP2025::PT-USR-25SEP2025",
       "currencyId": "PT Resolv USD 25SEP2025::PT-USR-25SEP2025",
-      "tags": ["XLEND"]
+      "tags": ["XLEND", "PENDLE-PT"]
     },
     "0x715509bde846104cf2ccebf6fdf7ef1bb874bc45": {
       "chainId": "8453",
@@ -25391,7 +25392,8 @@
       "symbol": "PT-LBTC-scaled18-25SEP2025",
       "logoURI": "https://cdn.morpho.org/assets/logos/pt-lbtc.svg",
       "assetGroup": "PT Lombard LBTC scaled18 25SEP2025::PT-LBTC-scaled18-25SEP2025",
-      "currencyId": "PT Lombard LBTC scaled18 25SEP2025::PT-LBTC-scaled18-25SEP2025"
+      "currencyId": "PT Lombard LBTC scaled18 25SEP2025::PT-LBTC-scaled18-25SEP2025",
+      "tags": ["PENDLE-PT"]
     },
     "0xaa5ad1f869b910e5f794b9366e05e5f2cab4bfad": {
       "chainId": "8453",
@@ -26718,6 +26720,7 @@
       "name": "Frost",
       "address": "0x320c99aeddf34721b8a566ba2540f8fb72400e88",
       "symbol": "FROST",
+      "logoURI": "https://assets.coingecko.com/coins/images/66997/thumb/IMG_9617.png?1751526196",
       "assetGroup": "Frost::FROST",
       "currencyId": "Frost::FROST",
       "tags": ["coingecko", "debridge"]
@@ -26739,9 +26742,10 @@
       "name": "PATHOS",
       "address": "0x046c9bf6bb1dfde64417f03ae2146dfafe0b7596",
       "symbol": "PATHOS",
+      "logoURI": "https://assets.coingecko.com/coins/images/67012/thumb/logo-image.png?1751466000",
       "assetGroup": "PATHOS::PATHOS",
       "currencyId": "PATHOS::PATHOS",
-      "tags": ["debridge"]
+      "tags": ["debridge", "coingecko"]
     }
   },
   "mainTokens": [
