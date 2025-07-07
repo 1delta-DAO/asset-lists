@@ -311,6 +311,28 @@
       "assetGroup": "TaikoSwap::TKOSWAP",
       "currencyId": "TaikoSwap::TKOSWAP",
       "tags": ["biconomy-gas-token"]
+    },
+    "0xff12470a969dd362eb6595ffb44c82c959fe9acc": {
+      "chainId": "167000",
+      "decimals": 18,
+      "name": "USDa",
+      "address": "0xff12470a969dd362eb6595ffb44c82c959fe9acc",
+      "symbol": "USDa",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/USDa.webp",
+      "assetGroup": "USDa::USDa",
+      "currencyId": "USDa::USDa",
+      "tags": ["AVALON_USDA"]
+    },
+    "0x5d5c8aec46661f029a5136a4411c73647a5714a7": {
+      "chainId": "167000",
+      "decimals": 18,
+      "name": "sUSDa",
+      "address": "0x5d5c8aec46661f029a5136a4411c73647a5714a7",
+      "symbol": "sUSDa",
+      "logoURI": "https://tokens.debridge.finance/Logo/56/0x73a325103935b0b5e7aa3aca6dba74ad22f82b03/small/token-logo.png",
+      "assetGroup": "SUSDA",
+      "currencyId": "sUSDa::sUSDa",
+      "tags": ["AVALON_USDA"]
     }
   },
   "mainTokens": [
@@ -330,6 +352,8 @@
     "0xe9ca67e5051e1806546d0a06ee465221c5877fee",
     "0x7e91f29f8a213c8311712a8fc8c61219fb9477cb",
     "0x473c58b748156d3249ca31baa3cad9781eb6d97e",
+    "0xff12470a969dd362eb6595ffb44c82c959fe9acc",
+    "0x5d5c8aec46661f029a5136a4411c73647a5714a7",
     "0xf7fb2df9280eb0a76427dc3b34761db8b1441a49",
     "0x36bfe1f1b36cfdb4fe75cc592ff5dc6200ad3e0f",
     "0x2d9e1da77f086c50f93db46e554974b71536a9ee",
