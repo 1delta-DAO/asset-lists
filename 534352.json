@@ -816,6 +816,25 @@
       "logoURI": "https://static.debank.com/image/base_token/logo_url/0xc19669a405067927865b40ea045a2baabbbe57f5/66449fd5f81477ead76339849c10b024.png",
       "assetGroup": "STAR::STAR",
       "currencyId": "STAR::STAR"
+    },
+    "0x056a5fa5da84ceb7f93d36e545c5905607d8bd81": {
+      "chainId": "534352",
+      "decimals": 18,
+      "name": "ether.fi governance token",
+      "address": "0x056a5fa5da84ceb7f93d36e545c5905607d8bd81",
+      "symbol": "ETHFI",
+      "assetGroup": "ether.fi governance token::ETHFI",
+      "currencyId": "ether.fi governance token::ETHFI"
+    },
+    "0x657e8c867d8b37dcc18fa4caead9c45eb088c642": {
+      "chainId": "534352",
+      "decimals": 8,
+      "name": "ether.fi BTC",
+      "address": "0x657e8c867d8b37dcc18fa4caead9c45eb088c642",
+      "symbol": "eBTC",
+      "logoURI": "https://static.debank.com/image/scrl_token/logo_url/0x657e8c867d8b37dcc18fa4caead9c45eb088c642/71bde2eda82ede34c1cc72b32213948c.png",
+      "assetGroup": "ether.fi BTC::eBTC",
+      "currencyId": "ether.fi BTC::eBTC"
     }
   },
   "mainTokens": [

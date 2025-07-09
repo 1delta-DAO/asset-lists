@@ -8666,6 +8666,57 @@
       "assetGroup": "SecureChain AI::SCAI",
       "currencyId": "SecureChain AI::SCAI",
       "tags": ["debridge"]
+    },
+    "0x2cd3cdb3bd68eea0d3be81da707bc0c8743d7335": {
+      "chainId": "43114",
+      "decimals": 8,
+      "name": "Yield BTC.B",
+      "address": "0x2cd3cdb3bd68eea0d3be81da707bc0c8743d7335",
+      "symbol": "YBTC.B",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2cd3cdb3bd68eea0d3be81da707bc0c8743d7335.png",
+      "assetGroup": "Yield BTC.B::YBTC.B",
+      "currencyId": "Yield BTC.B::YBTC.B",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x9d15a28fcb96af5e26dd0ef546d6a777c0ec34cd": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Yak Milk Suzaku Restaked ggAVAX",
+      "address": "0x9d15a28fcb96af5e26dd0ef546d6a777c0ec34cd",
+      "symbol": "rggAVAX",
+      "assetGroup": "Yak Milk Suzaku Restaked ggAVAX::rggAVAX",
+      "currencyId": "Yak Milk Suzaku Restaked ggAVAX::rggAVAX"
+    },
+    "0x2fb74dcac32c49030d34649f0794f517f69b733a": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Yield Token rsAVAX",
+      "address": "0x2fb74dcac32c49030d34649f0794f517f69b733a",
+      "symbol": "YT-rsAVAX",
+      "assetGroup": "Yield Token rsAVAX::YT-rsAVAX",
+      "currencyId": "Yield Token rsAVAX::YT-rsAVAX"
+    },
+    "0x9261330c6a2b472c58dbc149ca9dfc20e6861d66": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "SUMMIT",
+      "address": "0x9261330c6a2b472c58dbc149ca9dfc20e6861d66",
+      "symbol": "SUMMIT",
+      "logoURI": "https://assets.coingecko.com/coins/images/67197/thumb/SUMMIT.png?1752055918",
+      "assetGroup": "SUMMIT::SUMMIT",
+      "currencyId": "SUMMIT::SUMMIT",
+      "tags": ["coingecko"]
+    },
+    "0x840b20fa3d48ac709fd841fcd878c3e8aabd7087": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Glue",
+      "address": "0x840b20fa3d48ac709fd841fcd878c3e8aabd7087",
+      "symbol": "GLUE",
+      "logoURI": "https://assets.coingecko.com/coins/images/54538/thumb/GlueLogo200px.png?1740215317",
+      "assetGroup": "Glue::GLUE",
+      "currencyId": "Glue::GLUE",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [

@@ -405,6 +405,16 @@
       "assetGroup": "Real GEM Token::GEM",
       "currencyId": "Real GEM Token::GEM",
       "tags": ["coingecko"]
+    },
+    "0x3ec3849c33291a9ef4c5db86de593eb4a37fde45": {
+      "chainId": "1329",
+      "decimals": 18,
+      "name": "Staked Frax Ether",
+      "address": "0x3ec3849c33291a9ef4c5db86de593eb4a37fde45",
+      "symbol": "sfrxETH",
+      "logoURI": "https://static.debank.com/image/pze_token/logo_url/0x7c2af1fb79d0b1c67d4eb802d44c673d0a1d2c04/b0802881acff20fd906a2e189a4ea882.png",
+      "assetGroup": "SFRXETH",
+      "currencyId": "Staked Frax Ether::sfrxETH"
     }
   },
   "mainTokens": [
@@ -436,7 +446,8 @@
     "0x9151434b16b9763660705744891fa906f660ecc5",
     "0x9bfa177621119e64cecbeabe184ab9993e2ef727",
     "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
-    "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
+    "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+    "0x372b2dc06478aa2c8182eee0f12ea0e9a15e2913"
   ],
   "bridgeTokens": [
     "0x160345fc359604fc6e70e3c5facbde5f7a9342d8",

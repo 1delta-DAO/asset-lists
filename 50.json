@@ -263,6 +263,17 @@
       "assetGroup": "USDT",
       "currencyId": "Bridged stgUSDT::USDT",
       "tags": ["bridged", "coingecko"]
+    },
+    "0x3a170c7c987f55c84f28733bfa27962d8cdd5d3b": {
+      "chainId": "50",
+      "decimals": 18,
+      "name": "Gama Token",
+      "address": "0x3a170c7c987f55c84f28733bfa27962d8cdd5d3b",
+      "symbol": "GAMA",
+      "logoURI": "https://assets.coingecko.com/coins/images/67167/thumb/GAMA.jpg?1751973823",
+      "assetGroup": "Gama Token::GAMA",
+      "currencyId": "Gama Token::GAMA",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -281,7 +292,8 @@
     "0x81b244d0be055ef3bef1b09b7826cc2b108b2cbd",
     "0xa7348290de5cf01772479c48d50dec791c3fc212",
     "0xcda5b77e2e2268d9e09c874c1b9a4c3f07b37555",
-    "0xcc0587aebda397146cc828b445db130a94486e74"
+    "0xcc0587aebda397146cc828b445db130a94486e74",
+    "0x3a170c7c987f55c84f28733bfa27962d8cdd5d3b"
   ],
   "bridgeTokens": [
     "0x867f08a3ab824b42e8058a1b48e32e1df205b092",

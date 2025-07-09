@@ -5516,7 +5516,7 @@
         "AAVE_V3",
         "AAVE_V2",
         "YLDR",
-        "COMPOUND_V3_USDC_E"
+        "COMPOUND_V3_USDCE"
       ]
     },
     "0x6f3b3286fd86d8b47ec737ceb3d0d354cc657b3e": {
@@ -5705,7 +5705,7 @@
         "AAVE_V2",
         "YLDR",
         "COMPOUND_V3_USDT",
-        "COMPOUND_V3_USDC_E"
+        "COMPOUND_V3_USDCE"
       ]
     },
     "0x90bb6feb70a9a43cfaaa615f856ba309fd759a90": {
@@ -5736,7 +5736,7 @@
         "AAVE_V2",
         "YLDR",
         "COMPOUND_V3_USDT",
-        "COMPOUND_V3_USDC_E"
+        "COMPOUND_V3_USDCE"
       ]
     },
     "0x157b28e46f301c596668a4b85c59f710f9c4bbaa": {
@@ -5799,7 +5799,7 @@
         "AAVE_V2",
         "YLDR",
         "COMPOUND_V3_USDT",
-        "COMPOUND_V3_USDC_E"
+        "COMPOUND_V3_USDCE"
       ]
     },
     "0x0539f01d9ed66c3133a0b0fab83f4fa69b3608e8": {
@@ -6223,7 +6223,13 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/maticx.svg",
       "assetGroup": "MATICX",
       "currencyId": "Stader MaticX::MaticX",
-      "tags": ["debridge", "biconomy-gas-token", "AAVE_V3", "COMPOUND_V3_USDT", "COMPOUND_V3_USDC_E"]
+      "tags": [
+        "debridge",
+        "biconomy-gas-token",
+        "AAVE_V3",
+        "COMPOUND_V3_USDT",
+        "COMPOUND_V3_USDCE"
+      ]
     },
     "0x9d60947d49911e3c262c108f97fe07cde209f9a7": {
       "chainId": "137",
@@ -6244,7 +6250,14 @@
       "logoURI": "https://assets.coingecko.com/coins/images/24185/standard/stMATIC.png?1696523373",
       "assetGroup": "STMATIC",
       "currencyId": "Staked MATIC::stMATIC",
-      "tags": ["openocean", "debridge", "biconomy-gas-token", "AAVE_V3", "COMPOUND_V3_USDT", "COMPOUND_V3_USDC_E"]
+      "tags": [
+        "openocean",
+        "debridge",
+        "biconomy-gas-token",
+        "AAVE_V3",
+        "COMPOUND_V3_USDT",
+        "COMPOUND_V3_USDCE"
+      ]
     },
     "0x55555555a687343c6ce28c8e1f6641dc71659fad": {
       "chainId": "137",
@@ -26517,7 +26530,7 @@
       "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/137/0x2f4efd3aa42e15a1ec6114547151b63ee5d39958/logo.png",
       "assetGroup": "COW",
       "currencyId": "CoW Protocol::COW",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "debridge"]
     },
     "0xffffff9936bd58a008855b0812b44d2c8dffe2aa": {
       "chainId": "137",
@@ -26611,7 +26624,7 @@
       "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xee997788f625809332baabb3110bcf1ba7400824/8dcb4ab9bb7b85473c73e2653b684212.png",
       "assetGroup": "Felysyum::FELY",
       "currencyId": "Felysyum::FELY",
-      "tags": ["debridge"]
+      "tags": ["debridge", "biconomy-gas-token"]
     },
     "0xf1815bd50389c46847f0bda824ec8da914045d14": {
       "chainId": "137",
@@ -26641,6 +26654,56 @@
       "symbol": "CMT",
       "assetGroup": "CommitDAO::CMT",
       "currencyId": "CommitDAO::CMT"
+    },
+    "0x06737d16ad9c1e41aa44fee2a952b26723b20673": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "GT3 Finance",
+      "address": "0x06737d16ad9c1e41aa44fee2a952b26723b20673",
+      "symbol": "GT3",
+      "logoURI": "https://assets.coingecko.com/coins/images/67083/thumb/GT3_token.png?1751700482",
+      "assetGroup": "GT3 Finance::GT3",
+      "currencyId": "GT3 Finance::GT3",
+      "tags": ["biconomy-gas-token", "debridge"]
+    },
+    "0xf9a3e803ed270cf0ca6cd76ea40b8cc8562cf93f": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "IRIS Chain",
+      "address": "0xf9a3e803ed270cf0ca6cd76ea40b8cc8562cf93f",
+      "symbol": "IRC",
+      "logoURI": "https://assets.coingecko.com/coins/images/67084/thumb/coingecko_logo.png?1751700644",
+      "assetGroup": "IRIS Chain::IRC",
+      "currencyId": "IRIS Chain::IRC",
+      "tags": ["biconomy-gas-token", "debridge"]
+    },
+    "0x46d3ec8ce3ec767414f16fe12176de23e3e5b46a": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "SupremeX Token",
+      "address": "0x46d3ec8ce3ec767414f16fe12176de23e3e5b46a",
+      "symbol": "SXC",
+      "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x46d3ec8ce3ec767414f16fe12176de23e3e5b46a/10fcf3edb35242815812f18af6202fe3.png",
+      "assetGroup": "SupremeX Token::SXC",
+      "currencyId": "SupremeX Token::SXC"
+    },
+    "0x2e789b197a1874ca6384082090e0ebed30f16e1a": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "blocsport1 (PoS)",
+      "address": "0x2e789b197a1874ca6384082090e0ebed30f16e1a",
+      "symbol": "BS1",
+      "assetGroup": "blocsport1 (PoS)::BS1",
+      "currencyId": "blocsport1 (PoS)::BS1"
+    },
+    "0x6a174b728d8b7c0c1f239910bb90b3540e1cc0dd": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "GrumpySat",
+      "address": "0x6a174b728d8b7c0c1f239910bb90b3540e1cc0dd",
+      "symbol": "gSAT",
+      "assetGroup": "GrumpySat::gSAT",
+      "currencyId": "GrumpySat::gSAT"
     }
   },
   "mainTokens": [

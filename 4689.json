@@ -296,6 +296,17 @@
       "assetGroup": "SENTAI::SENTAI",
       "currencyId": "SENTAI::SENTAI",
       "tags": ["coingecko"]
+    },
+    "0x6fbcdc1169b5130c59e72e51ed68a84841c98cd1": {
+      "chainId": "4689",
+      "decimals": 6,
+      "name": "Bridged Tether",
+      "address": "0x6fbcdc1169b5130c59e72e51ed68a84841c98cd1",
+      "symbol": "IOUSDT",
+      "logoURI": "https://assets.coingecko.com/coins/images/19345/thumb/io1d77dcytfk5fsck089eg7669gfpqunrx35ue5ln.png?1696518786",
+      "assetGroup": "Bridged Tether::IOUSDT",
+      "currencyId": "Bridged Tether::IOUSDT",
+      "tags": ["bridged", "AVALON_UNIBTC", "AVALON", "coingecko"]
     }
   },
   "mainTokens": [
@@ -325,7 +336,8 @@
     "0x99b2b0efb56e62e36960c20cd5ca8ec6abd5557a",
     "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
     "0x7f6f149fec648abf4ee8c559eb24d8010ab1025e",
-    "0xeaaf0e6be5b33ee472e93ac7c1fcc10f57186986"
+    "0xeaaf0e6be5b33ee472e93ac7c1fcc10f57186986",
+    "0x6fbcdc1169b5130c59e72e51ed68a84841c98cd1"
   ],
   "bridgeTokens": ["0x3b2bf2b523f54c4e454f08aa286d03115aff326c", "0x3cdb7c48e70b854ed2fa392e21687501d84b3afc"]
 }

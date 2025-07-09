@@ -226,6 +226,28 @@
       "logoURI": "https://static.debank.com/image/corn_token/logo_url/0xecac9c5f704e954931349da37f60e39f515c11c1/fb1b1e3acbf982e46618edc9e4fa09b7.png",
       "assetGroup": "Lombard Staked Bitcoin::LBTC",
       "currencyId": "Lombard Staked Bitcoin::LBTC"
+    },
+    "0x53eb0098d09b8d1008f382bbd2a5d4f649111710": {
+      "chainId": "57073",
+      "decimals": 18,
+      "name": "WATCHDOGS",
+      "address": "0x53eb0098d09b8d1008f382bbd2a5d4f649111710",
+      "symbol": "WATCH",
+      "logoURI": "https://assets.coingecko.com/coins/images/67089/thumb/GkveKRgXcAESEPj_%281%29.png?1751702681",
+      "assetGroup": "WATCHDOGS::WATCH",
+      "currencyId": "WATCHDOGS::WATCH",
+      "tags": ["coingecko"]
+    },
+    "0xe343167631d89b6ffc58b88d6b7fb0228795491d": {
+      "chainId": "57073",
+      "decimals": 6,
+      "name": "Global Dollar",
+      "address": "0xe343167631d89b6ffc58b88d6b7fb0228795491d",
+      "symbol": "USDG",
+      "logoURI": "https://assets.coingecko.com/coins/images/51281/thumb/GDN_USDG_Token_200x200.png?1730484111",
+      "assetGroup": "Global Dollar::USDG",
+      "currencyId": "Global Dollar::USDG",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -243,7 +265,9 @@
     "0xae4efbc7736f963982aacb17efa37fcbab924cb3",
     "0xc99f5c922dae05b6e2ff83463ce705ef7c91f077",
     "0x17906b1cd88aa8efaefc5e82891b52a22219bd45",
-    "0xa802bccd14f7e78e48ffe0c9cf9ad0273c77d4b0"
+    "0xa802bccd14f7e78e48ffe0c9cf9ad0273c77d4b0",
+    "0x53eb0098d09b8d1008f382bbd2a5d4f649111710",
+    "0xe343167631d89b6ffc58b88d6b7fb0228795491d"
   ],
   "bridgeTokens": [
     "0xf1815bd50389c46847f0bda824ec8da914045d14",

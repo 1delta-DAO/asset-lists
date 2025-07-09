@@ -362,6 +362,28 @@
       "assetGroup": "Rekt::REKT",
       "currencyId": "Rekt::REKT",
       "tags": ["coingecko"]
+    },
+    "0xeef8fcc4f2d3630efac672814732579b0e2ca800": {
+      "chainId": "2741",
+      "decimals": 18,
+      "name": "GRONKE",
+      "address": "0xeef8fcc4f2d3630efac672814732579b0e2ca800",
+      "symbol": "GRONKE",
+      "logoURI": "https://assets.coingecko.com/coins/images/67067/thumb/gronke-logo.jpg?1751631396",
+      "assetGroup": "GRONKE::GRONKE",
+      "currencyId": "GRONKE::GRONKE",
+      "tags": ["coingecko"]
+    },
+    "0xea08d82824e871a163fdeb7d7c6000521f1be4dd": {
+      "chainId": "2741",
+      "decimals": 18,
+      "name": "Gugo",
+      "address": "0xea08d82824e871a163fdeb7d7c6000521f1be4dd",
+      "symbol": "GUGO",
+      "logoURI": "https://assets.coingecko.com/coins/images/67081/thumb/2kleSOZDHRsCDbyZ.png?1751699412",
+      "assetGroup": "Gugo::GUGO",
+      "currencyId": "Gugo::GUGO",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -394,7 +416,8 @@
     "0x44cca204fd7a6b357ed88c2c5fefa667ee7be305",
     "0x143bd0eac0a811aac43e8aae5d28b624b6b63489",
     "0xaf31d07af1602dfce07fba81bca5f9570ca83983",
-    "0x0709f39376deee2a2dfc94a58edeb2eb9df012bd"
+    "0x0709f39376deee2a2dfc94a58edeb2eb9df012bd",
+    "0xeef8fcc4f2d3630efac672814732579b0e2ca800"
   ],
   "bridgeTokens": [
     "0x84a71ccd554cc1b02749b35d22f684cc8ec987e1",

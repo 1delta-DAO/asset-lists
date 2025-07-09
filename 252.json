@@ -280,6 +280,28 @@
       "assetGroup": "Frax Price Index::FPI",
       "currencyId": "Frax Price Index::FPI",
       "tags": ["coingecko"]
+    },
+    "0x00000000efe302beaa2b3e6e1b18d08d69a9012a": {
+      "chainId": "252",
+      "decimals": 6,
+      "name": "AUSD",
+      "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+      "symbol": "AUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/Circle_Agora_White_on_Olive_1080px.png?1722961274",
+      "assetGroup": "AUSD",
+      "currencyId": "AUSD::AUSD",
+      "tags": ["coingecko"]
+    },
+    "0xfc00000000000000000000000000000000000004": {
+      "chainId": "252",
+      "decimals": 18,
+      "name": "Frax Price Index Share",
+      "address": "0xfc00000000000000000000000000000000000004",
+      "symbol": "FPIS",
+      "logoURI": "https://assets.coingecko.com/coins/images/24944/thumb/FPIS_icon.png?1696524099",
+      "assetGroup": "FPIS",
+      "currencyId": "Frax Price Index Share::FPIS",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -303,7 +325,9 @@
     "0xe231db5f348d709239ef1741ea30961b3b635a61",
     "0x4c0bd74da8237c08840984fdb33a84b4586aaee6",
     "0x418126bb59457afdba1ecf376f97400b4157425d",
-    "0xfc00000000000000000000000000000000000003"
+    "0xfc00000000000000000000000000000000000003",
+    "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+    "0xfc00000000000000000000000000000000000004"
   ],
   "bridgeTokens": [
     "0x4d15ea9c2573addaed814e48c148b5262694646a",

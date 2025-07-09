@@ -1731,7 +1731,8 @@
       "symbol": "wstkscUSD",
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wstkscusd.png",
       "assetGroup": "Wrapped stkscUSD::wstkscUSD",
-      "currencyId": "Wrapped stkscUSD::wstkscUSD"
+      "currencyId": "Wrapped stkscUSD::wstkscUSD",
+      "tags": ["coingecko", "debridge"]
     },
     "0x9a08cd5691e009cc72e2a4d8e7f2e6ee14e96d6d": {
       "chainId": "146",
@@ -2179,6 +2180,56 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66996/thumb/msUSD.png?1751389184",
       "assetGroup": "Main Street USD::MSUSD",
       "currencyId": "Main Street USD::MSUSD",
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+    },
+    "0x67a298e5b65db2b4616e05c3b455e017275f53cb": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Liquid Staked Rezerve.money",
+      "address": "0x67a298e5b65db2b4616e05c3b455e017275f53cb",
+      "symbol": "lstRZR",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/lstrzr.png",
+      "assetGroup": "Liquid Staked Rezerve.money::lstRZR",
+      "currencyId": "Liquid Staked Rezerve.money::lstRZR"
+    },
+    "0x64445f0aecc51e94ad52d8ac56b7190e764e561a": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Frax Share",
+      "address": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+      "symbol": "FXS",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0/eeccdc91b87a4e2db914d0290eea8e6d.png",
+      "assetGroup": "FXS",
+      "currencyId": "Frax Share::FXS"
+    },
+    "0x97a10beebb25e0ebfa55ca0a7d00e37afe957dea": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Stout",
+      "address": "0x97a10beebb25e0ebfa55ca0a7d00e37afe957dea",
+      "symbol": "STTX",
+      "assetGroup": "Stout::STTX",
+      "currencyId": "Stout::STTX"
+    },
+    "0xe30e73cc52ef50a4e4a8b1a3dd0b002b2276f854": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "DUSX Stablecoin",
+      "address": "0xe30e73cc52ef50a4e4a8b1a3dd0b002b2276f854",
+      "symbol": "DUSX",
+      "logoURI": "https://static.debank.com/image/sonic_token/logo_url/0xe30e73cc52ef50a4e4a8b1a3dd0b002b2276f854/7d22910e2b9cb5d5f1891cb17636fca7.png",
+      "assetGroup": "DUSX Stablecoin::DUSX",
+      "currencyId": "DUSX Stablecoin::DUSX"
+    },
+    "0x3e08cb3067dc198fc313e1789347c9ae72c079d4": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Womo",
+      "address": "0x3e08cb3067dc198fc313e1789347c9ae72c079d4",
+      "symbol": "WM",
+      "logoURI": "https://assets.coingecko.com/coins/images/67129/thumb/WOMO_LOGO.jpg?1751839587",
+      "assetGroup": "Womo::WM",
+      "currencyId": "Womo::WM",
       "tags": ["coingecko", "debridge"]
     }
   },

@@ -944,6 +944,54 @@
       "symbol": "pufETH",
       "assetGroup": "PUFETH",
       "currencyId": "pufETH::pufETH"
+    },
+    "0x40a8d9efe6a2c6c9d193cc0a4476767748e68133": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "Beradrome Call Option",
+      "address": "0x40a8d9efe6a2c6c9d193cc0a4476767748e68133",
+      "symbol": "oBERO",
+      "logoURI": "https://static.debank.com/image/bera_token/logo_url/0x40a8d9efe6a2c6c9d193cc0a4476767748e68133/a8fe9d056ad86ec235f3d74d3b757fbf.png",
+      "assetGroup": "Beradrome Call Option::oBERO",
+      "currencyId": "Beradrome Call Option::oBERO"
+    },
+    "0x7e768f47dfdd5dae874aac233f1bc5817137e453": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "Bearn BGT",
+      "address": "0x7e768f47dfdd5dae874aac233f1bc5817137e453",
+      "symbol": "yBGT",
+      "assetGroup": "Bearn BGT::yBGT",
+      "currencyId": "Bearn BGT::yBGT"
+    },
+    "0x982940ebfc5caa2f5b5a82aac2dfa99f18bb7da4": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "Bearn BERA",
+      "address": "0x982940ebfc5caa2f5b5a82aac2dfa99f18bb7da4",
+      "symbol": "yBERA",
+      "assetGroup": "Bearn BERA::yBERA",
+      "currencyId": "Bearn BERA::yBERA"
+    },
+    "0xc82971bcff09171e16ac08aee9f4ea3fb16c3bdc": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "Bearn Honey",
+      "address": "0xc82971bcff09171e16ac08aee9f4ea3fb16c3bdc",
+      "symbol": "yHONEY",
+      "assetGroup": "Bearn Honey::yHONEY",
+      "currencyId": "Bearn Honey::yHONEY"
+    },
+    "0xd2c41bf4033a83c0fc3a7f58a392bf37d6dcdb58": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "OpenState BGT",
+      "address": "0xd2c41bf4033a83c0fc3a7f58a392bf37d6dcdb58",
+      "symbol": "OSBGT",
+      "logoURI": "https://assets.coingecko.com/coins/images/67157/thumb/osbgt.jpg?1751938475",
+      "assetGroup": "OpenState BGT::OSBGT",
+      "currencyId": "OpenState BGT::OSBGT",
+      "tags": ["coingecko", "debridge"]
     }
   },
   "mainTokens": [

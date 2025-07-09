@@ -202,8 +202,8 @@
         "YLDR",
         "COMPOUND_V3_USDC",
         "COMPOUND_V3_USDT",
-        "COMPOUND_V3_USDC_E",
-        "VENUS"
+        "VENUS",
+        "COMPOUND_V3_USDCE"
       ]
     },
     "0xe85411c030fb32a9d8b14bbbc6cb19417391f711": {
@@ -2277,7 +2277,7 @@
         "AAVE_V3",
         "GRANARY",
         "YLDR",
-        "COMPOUND_V3_USDC_E"
+        "COMPOUND_V3_USDCE"
       ]
     },
     "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9": {
@@ -2388,7 +2388,6 @@
         "debridge",
         "biconomy-gas-token",
         "AAVE_V3",
-        "AVALON_PUMP_BTC",
         "AVALON_UNIBTC",
         "AVALON",
         "GRANARY",
@@ -2396,8 +2395,9 @@
         "COMPOUND_V3_USDC",
         "COMPOUND_V3_WETH",
         "COMPOUND_V3_USDT",
-        "COMPOUND_V3_USDC_E",
-        "VENUS"
+        "VENUS",
+        "AVALON_PUMPBTC",
+        "COMPOUND_V3_USDCE"
       ]
     },
     "0xf469fbd2abcd6b9de8e169d128226c0fc90a012e": {
@@ -2409,7 +2409,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/39232/thumb/200pxPumpBTCLogo.png?1721227861",
       "assetGroup": "PUMPBTC",
       "currencyId": "pumpBTC::pumpBTC",
-      "tags": ["AVALON_PUMP_BTC", "AVALON_UNIBTC"]
+      "tags": ["AVALON_UNIBTC", "AVALON_PUMPBTC"]
     },
     "0x82af49447d8a07e3bd95bd0d56f35241523fbab1": {
       "chainId": "42161",
@@ -2433,9 +2433,9 @@
         "COMPOUND_V3_USDC",
         "COMPOUND_V3_WETH",
         "COMPOUND_V3_USDT",
-        "COMPOUND_V3_USDC_E",
         "VENUS",
-        "VENUS_ETH"
+        "VENUS_ETH",
+        "COMPOUND_V3_USDCE"
       ]
     },
     "0xcafcd85d8ca7ad1e1c6f82f651fa15e33aefd07b": {
@@ -2724,7 +2724,7 @@
         "biconomy-gas-token",
         "COMPOUND_V3_USDC",
         "COMPOUND_V3_USDT",
-        "COMPOUND_V3_USDC_E"
+        "COMPOUND_V3_USDCE"
       ]
     },
     "0x25f05699548d3a0820b99f93c10c8bb573e27083": {
@@ -21606,7 +21606,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/51172/thumb/WXTZ_Logo_Black.png?1750764795",
       "assetGroup": "XTZ",
       "currencyId": "Wrapped XTZ::WXTZ",
-      "tags": ["debridge", "coingecko"]
+      "tags": ["debridge", "coingecko", "biconomy-gas-token"]
     },
     "0x03569cc076654f82679c4ba2124d64774781b01d": {
       "chainId": "42161",
@@ -21675,7 +21675,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/33234/thumb/ehmnd.png?1701147033",
       "assetGroup": "Wrapped eHMND  eHMND ::WEHMND",
       "currencyId": "Wrapped eHMND  eHMND ::WEHMND",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x3816e40c1eb106c8fb7c05f901cfd58c7292d051": {
       "chainId": "42161",
@@ -21715,7 +21715,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67039/thumb/arw-logo.jpg?1751539721",
       "assetGroup": "Arowana::ARW",
       "currencyId": "Arowana::ARW",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x113a05170273e9087f5d0e0cdee0388478a1546d": {
       "chainId": "42161",
@@ -21726,7 +21726,60 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67032/thumb/yieldflow-logo.png?1751524569",
       "assetGroup": "Yieldflow::YFLOW",
       "currencyId": "Yieldflow::YFLOW",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+    },
+    "0x250caff618cf205997309940c14c52b5dceb351e": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "CrowdToken Wrapper",
+      "address": "0x250caff618cf205997309940c14c52b5dceb351e",
+      "symbol": "CROWD",
+      "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x250caff618cf205997309940c14c52b5dceb351e/97aea5972113c9d6b7fec944c9a28bb0.png",
+      "assetGroup": "CrowdToken Wrapper::CROWD",
+      "currencyId": "CrowdToken Wrapper::CROWD"
+    },
+    "0x61e030a56d33e8260fdd81f03b162a79fe3449cd": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Fluid",
+      "address": "0x61e030a56d33e8260fdd81f03b162a79fe3449cd",
+      "symbol": "FLUID",
+      "logoURI": "https://assets.coingecko.com/coins/images/14688/thumb/Logo_1_%28brighter%29.png?1734430693",
+      "assetGroup": "Fluid::FLUID::42161::0",
+      "currencyId": "Fluid::FLUID",
+      "tags": ["coingecko"]
+    },
+    "0xd6c0156e85decdf2983c7a2c4a3015ed268d6f8a": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Roseon",
+      "address": "0xd6c0156e85decdf2983c7a2c4a3015ed268d6f8a",
+      "symbol": "ROSX",
+      "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/arbitrum/0xd6c0156e85decdf2983c7a2c4a3015ed268d6f8a.png",
+      "assetGroup": "Roseon::ROSX",
+      "currencyId": "Roseon::ROSX"
+    },
+    "0x077574441c4f8763a37a2cfee2ecb444aa60a15e": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "RCADE Network",
+      "address": "0x077574441c4f8763a37a2cfee2ecb444aa60a15e",
+      "symbol": "RCADE",
+      "logoURI": "https://assets.coingecko.com/coins/images/67060/thumb/rcade.jpg?1751624344",
+      "assetGroup": "RCADE Network::RCADE",
+      "currencyId": "RCADE Network::RCADE",
+      "tags": ["coingecko"]
+    },
+    "0x866a2bf4e572cbcf37d5071a7a58503bfb36be1b": {
+      "chainId": "42161",
+      "decimals": 6,
+      "name": "M by M0",
+      "address": "0x866a2bf4e572cbcf37d5071a7a58503bfb36be1b",
+      "symbol": "M",
+      "logoURI": "https://assets.coingecko.com/coins/images/40048/thumb/M_Symbol_256.png?1739323798",
+      "assetGroup": "M by M0::M",
+      "currencyId": "M by M0::M",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [

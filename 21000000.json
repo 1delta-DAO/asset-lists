@@ -11,7 +11,15 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/btcn.svg",
       "assetGroup": "Wrapped Bitcorn::WBTCN",
       "currencyId": "Wrapped Bitcorn::WBTCN",
-      "tags": ["coingecko", "wnative", "AVALON_SOLV_BTC", "AVALON_PUMP_BTC", "AVALON", "AVALON_LBTC", "ZEROLEND"]
+      "tags": [
+        "coingecko",
+        "wnative",
+        "AVALON",
+        "AVALON_LBTC",
+        "ZEROLEND",
+        "AVALON_SOLVBTC",
+        "AVALON_PUMPBTC"
+      ]
     },
     "0xdf0b24095e15044538866576754f3c964e902ee6": {
       "chainId": "21000000",
@@ -84,7 +92,7 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/pumpbtc.png",
       "assetGroup": "PUMPBTC",
       "currencyId": "pumpBTC::pumpBTC",
-      "tags": ["AVALON_PUMP_BTC", "ZEROLEND"]
+      "tags": ["ZEROLEND", "AVALON_PUMPBTC"]
     },
     "0xa540133ce4be89dfcddbb6a6d5fb132676a21aa7": {
       "chainId": "21000000",
@@ -105,7 +113,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/SolvBTC.webp",
       "assetGroup": "SOLVBTC",
       "currencyId": "Solv BTC::SolvBTC",
-      "tags": ["coingecko", "AVALON_SOLV_BTC"]
+      "tags": ["coingecko", "AVALON_SOLVBTC"]
     },
     "0xcc0966d8418d412c599a6421b760a847eb169a8c": {
       "chainId": "21000000",
@@ -116,7 +124,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/xSolvBTC.webp",
       "assetGroup": "XSOLVBTC",
       "currencyId": "xSolvBTC::xSolvBTC",
-      "tags": ["coingecko", "AVALON_SOLV_BTC"]
+      "tags": ["coingecko", "AVALON_SOLVBTC"]
     },
     "0x2840f9d9f96321435ab0f977e7fdbf32ea8b304f": {
       "chainId": "21000000",

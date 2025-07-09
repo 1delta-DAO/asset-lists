@@ -909,6 +909,115 @@
       "symbol": "LINK",
       "assetGroup": "LINK",
       "currencyId": "ChainLink Token::LINK"
+    },
+    "0x617f3112bf5397d0467d315cc709ef968d9ba546": {
+      "chainId": "42220",
+      "decimals": 6,
+      "name": "Tether USD",
+      "address": "0x617f3112bf5397d0467d315cc709ef968d9ba546",
+      "symbol": "USDT",
+      "logoURI": "https://static.debank.com/image/celo_token/logo_url/0x617f3112bf5397d0467d315cc709ef968d9ba546/f1992d97a61c154a388c0de34cb136f3.png",
+      "assetGroup": "Tether USD::USDT::42220::0",
+      "currencyId": "Tether USD::USDT"
+    },
+    "0x73f93dcc49cb8a239e2032663e9475dd5ef29a08": {
+      "chainId": "42220",
+      "decimals": 18,
+      "name": "ECO CFA",
+      "address": "0x73f93dcc49cb8a239e2032663e9475dd5ef29a08",
+      "symbol": "eXOF",
+      "assetGroup": "ECO CFA::eXOF",
+      "currencyId": "ECO CFA::eXOF"
+    },
+    "0x8a567e2ae79ca692bd748ab832081c45de4041ea": {
+      "chainId": "42220",
+      "decimals": 18,
+      "name": "Celo Colombian Peso",
+      "address": "0x8a567e2ae79ca692bd748ab832081c45de4041ea",
+      "symbol": "cCOP",
+      "logoURI": "https://static.debank.com/image/celo_token/logo_url/0x8a567e2ae79ca692bd748ab832081c45de4041ea/0402a982676b5bae413cfbe5c7f37c67.png",
+      "assetGroup": "Celo Colombian Peso::cCOP",
+      "currencyId": "Celo Colombian Peso::cCOP"
+    },
+    "0xfaea5f3404bba20d3cc2f8c4b0a888f55a3c7313": {
+      "chainId": "42220",
+      "decimals": 18,
+      "name": "Celo Ghanian Cedi",
+      "address": "0xfaea5f3404bba20d3cc2f8c4b0a888f55a3c7313",
+      "symbol": "cGHS",
+      "logoURI": "https://static.debank.com/image/celo_token/logo_url/0xfaea5f3404bba20d3cc2f8c4b0a888f55a3c7313/a1f534f5a59076c7b9448b17403a1a63.png",
+      "assetGroup": "Celo Ghanian Cedi::cGHS",
+      "currencyId": "Celo Ghanian Cedi::cGHS"
+    },
+    "0x7175504c455076f15c04a2f90a8e352281f492f9": {
+      "chainId": "42220",
+      "decimals": 18,
+      "name": "Celo Australian Dollar",
+      "address": "0x7175504c455076f15c04a2f90a8e352281f492f9",
+      "symbol": "cAUD",
+      "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/celo/0x7175504c455076f15c04a2f90a8e352281f492f9.png",
+      "assetGroup": "Celo Australian Dollar::cAUD",
+      "currencyId": "Celo Australian Dollar::cAUD"
+    },
+    "0xff4ab19391af240c311c54200a492233052b6325": {
+      "chainId": "42220",
+      "decimals": 18,
+      "name": "Celo Canadian Dollar",
+      "address": "0xff4ab19391af240c311c54200a492233052b6325",
+      "symbol": "cCAD",
+      "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/celo/0xff4ab19391af240c311c54200a492233052b6325.png",
+      "assetGroup": "Celo Canadian Dollar::cCAD",
+      "currencyId": "Celo Canadian Dollar::cCAD"
+    },
+    "0xe2702bd97ee33c88c8f6f92da3b733608aa76f71": {
+      "chainId": "42220",
+      "decimals": 18,
+      "name": "Celo Nigerian Naira",
+      "address": "0xe2702bd97ee33c88c8f6f92da3b733608aa76f71",
+      "symbol": "cNGN",
+      "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/celo/0xe2702bd97ee33c88c8f6f92da3b733608aa76f71.png",
+      "assetGroup": "Celo Nigerian Naira::cNGN",
+      "currencyId": "Celo Nigerian Naira::cNGN"
+    },
+    "0xccf663b1ff11028f0b19058d0f7b674004a40746": {
+      "chainId": "42220",
+      "decimals": 18,
+      "name": "Celo British Pound",
+      "address": "0xccf663b1ff11028f0b19058d0f7b674004a40746",
+      "symbol": "cGBP",
+      "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/celo/0xccf663b1ff11028f0b19058d0f7b674004a40746.png",
+      "assetGroup": "Celo British Pound::cGBP",
+      "currencyId": "Celo British Pound::cGBP"
+    },
+    "0x4c35853a3b4e647fd266f4de678dcc8fec410bf6": {
+      "chainId": "42220",
+      "decimals": 18,
+      "name": "Celo South African Rand",
+      "address": "0x4c35853a3b4e647fd266f4de678dcc8fec410bf6",
+      "symbol": "cZAR",
+      "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/celo/0x4c35853a3b4e647fd266f4de678dcc8fec410bf6.png",
+      "assetGroup": "Celo South African Rand::cZAR",
+      "currencyId": "Celo South African Rand::cZAR"
+    },
+    "0xc45ecf20f3cd864b32d9794d6f76814ae8892e20": {
+      "chainId": "42220",
+      "decimals": 18,
+      "name": "Celo Japanese Yen",
+      "address": "0xc45ecf20f3cd864b32d9794d6f76814ae8892e20",
+      "symbol": "cJPY",
+      "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/celo/0xc45ecf20f3cd864b32d9794d6f76814ae8892e20.png",
+      "assetGroup": "Celo Japanese Yen::cJPY",
+      "currencyId": "Celo Japanese Yen::cJPY"
+    },
+    "0xb55a79f398e759e43c95b979163f30ec87ee131d": {
+      "chainId": "42220",
+      "decimals": 18,
+      "name": "Celo Swiss Franc",
+      "address": "0xb55a79f398e759e43c95b979163f30ec87ee131d",
+      "symbol": "cCHF",
+      "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/celo/0xb55a79f398e759e43c95b979163f30ec87ee131d.png",
+      "assetGroup": "Celo Swiss Franc::cCHF",
+      "currencyId": "Celo Swiss Franc::cCHF"
     }
   },
   "mainTokens": [
