@@ -26867,7 +26867,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67180/thumb/OlvBEjkF_400x400.jpg?1751991499",
       "assetGroup": "Based Manyu::MANYU",
       "currencyId": "Based Manyu::MANYU",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x0215ed0fe07951b2cd68e1b39ffbd0a841fe3c6e": {
       "chainId": "8453",
@@ -26878,7 +26878,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67130/thumb/BOMO_BLue.png?1751862970",
       "assetGroup": "BOMO on Base::BOMO",
       "currencyId": "BOMO on Base::BOMO",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x3b53604113b5677291bfc0bc255379e7a796559b": {
       "chainId": "8453",
@@ -26889,7 +26889,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/11605/thumb/200-200.png?1740625606",
       "assetGroup": "Assemble AI::ASM",
       "currencyId": "Assemble AI::ASM",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x44f77502418c9b225ad8f80a9def915c8c271a19": {
       "chainId": "8453",
@@ -26900,7 +26900,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67133/thumb/photo_2025-06-10_20-21-04.jpg?1751868308",
       "assetGroup": "Catchcoin ::CATCH",
       "currencyId": "Catchcoin ::CATCH",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x16d5765e3dea16a6cdfcb24b5e05480dbaef798f": {
       "chainId": "8453",
@@ -26911,7 +26911,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67174/thumb/Kibo.png?1751986610",
       "assetGroup": "KIBO::KIBO",
       "currencyId": "KIBO::KIBO",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xcc309867cea3c1cf7c7829838f72ff70d17ceb07": {
       "chainId": "8453",
@@ -26922,7 +26922,28 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67149/thumb/820p2pjikwj7sy8gdymhfkq71pmx.?1751890894",
       "assetGroup": "Asterion::ASTERION",
       "currencyId": "Asterion::ASTERION",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+    },
+    "0x616b416f777e3dc904a44aa259a475bf26d06ef9": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "blai",
+      "address": "0x616b416f777e3dc904a44aa259a475bf26d06ef9",
+      "symbol": "BLAI",
+      "assetGroup": "blai::BLAI",
+      "currencyId": "blai::BLAI",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xaed7c2ed7bb84396afcb55ff72c8f8e87ffb68f3": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Glif Staked ICNT",
+      "address": "0xaed7c2ed7bb84396afcb55ff72c8f8e87ffb68f3",
+      "symbol": "STICNT",
+      "logoURI": "https://assets.coingecko.com/coins/images/67228/thumb/sticnt.png?1752132153",
+      "assetGroup": "Glif Staked ICNT::STICNT",
+      "currencyId": "Glif Staked ICNT::STICNT",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [

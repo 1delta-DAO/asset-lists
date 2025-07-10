@@ -415,6 +415,17 @@
       "logoURI": "https://static.debank.com/image/pze_token/logo_url/0x7c2af1fb79d0b1c67d4eb802d44c673d0a1d2c04/b0802881acff20fd906a2e189a4ea882.png",
       "assetGroup": "SFRXETH",
       "currencyId": "Staked Frax Ether::sfrxETH"
+    },
+    "0x0a526e425809aea71eb279d24ae22dee6c92a4fe": {
+      "chainId": "1329",
+      "decimals": 18,
+      "name": "DragonSwap",
+      "address": "0x0a526e425809aea71eb279d24ae22dee6c92a4fe",
+      "symbol": "DRG",
+      "logoURI": "https://assets.coingecko.com/coins/images/67207/thumb/_DRG_token_.png?1752088626",
+      "assetGroup": "DragonSwap::DRG",
+      "currencyId": "DragonSwap::DRG",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [

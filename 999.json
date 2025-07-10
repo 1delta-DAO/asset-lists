@@ -231,7 +231,7 @@
       "logoURI": "https://www.hyperbeat.org/assets/images/vaults/hbhype.svg",
       "assetGroup": "Hyperbeat Ultra Hype::hbHYPE",
       "currencyId": "Hyperbeat Ultra Hype::hbHYPE",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x7dcffcb06b40344eeced2d1cbf096b299fe4b405": {
       "chainId": "999",
@@ -450,7 +450,7 @@
       "logoURI": "https://raw.githubusercontent.com/HyperSwapX/hyperswap-token-list/refs/heads/main/assets/ufart.jpg",
       "assetGroup": "Unit Fartcoin::UFART",
       "currencyId": "Unit Fartcoin::UFART",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x8ff0dd9f9c40a0d76ef1bcfaf5f98c1610c74bd8": {
       "chainId": "999",
@@ -504,7 +504,7 @@
       "logoURI": "https://app.hyperliquid.xyz/coins/SOL_USDC.svg",
       "assetGroup": "Unit Solana::USOL",
       "currencyId": "Unit Solana::USOL",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x0a3d8466f5de586fa5f6de117301e2f90bcc5c48": {
       "chainId": "999",
@@ -807,7 +807,7 @@
       "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0xd2567ee20d75e8b74b44875173054365f6eb5052/f1aa59551df21b50c0d4392140519374.png",
       "assetGroup": "perpcoin::perpcoin",
       "currencyId": "perpcoin::perpcoin",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x27542a8d608ee16322fae739c46e6e6ae6d2828a": {
       "chainId": "999",
@@ -867,7 +867,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67161/thumb/hyperbeat_usdt.jpg?1751940634",
       "assetGroup": "Hyperbeat USDT::hbUSDT",
       "currencyId": "Hyperbeat USDT::hbUSDT",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x835febf893c6dddee5cf762b0f8e31c5b06938ab": {
       "chainId": "999",
@@ -1004,7 +1004,7 @@
       "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x618275f8efe54c2afa87bfb9f210a52f0ff89364/307006746560efcf09c100016e500776.png",
       "assetGroup": "Kittenswap::KITTEN",
       "currencyId": "Kittenswap::KITTEN",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x1bb86d3c4b0ecc291041f86a487d34180b1aa9ac": {
       "chainId": "999",
@@ -1685,7 +1685,17 @@
       "logoURI": "https://assets.coingecko.com/coins/images/40048/thumb/M_Symbol_256.png?1739323798",
       "assetGroup": "M by M0::M",
       "currencyId": "M by M0::M",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
+    },
+    "0x74a40455ff49ece02009bee405154ac9ac3fa340": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "Stonks",
+      "address": "0x74a40455ff49ece02009bee405154ac9ac3fa340",
+      "symbol": "STONKS",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x74a40455ff49ece02009bee405154ac9ac3fa340/6e3d0eae3b3077041190564571e841c4.png",
+      "assetGroup": "Stonks::STONKS",
+      "currencyId": "Stonks::STONKS"
     }
   },
   "mainTokens": [

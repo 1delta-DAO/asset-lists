@@ -1339,6 +1339,17 @@
       "symbol": "UXLINK",
       "assetGroup": "UXLINK Token::UXLINK",
       "currencyId": "UXLINK Token::UXLINK"
+    },
+    "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000": {
+      "chainId": "5000",
+      "decimals": 18,
+      "name": "Mantle (as ERC20)",
+      "address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000",
+      "symbol": "MNT",
+      "logoURI": "https://token-list.mantle.xyz/data/Mantle/logo.svg",
+      "assetGroup": "MNT",
+      "currencyId": "Mantle::MNT",
+      "tags": ["mantlelist", "coingecko", "debridge"]
     }
   },
   "mainTokens": [

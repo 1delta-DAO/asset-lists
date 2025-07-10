@@ -6223,13 +6223,7 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/maticx.svg",
       "assetGroup": "MATICX",
       "currencyId": "Stader MaticX::MaticX",
-      "tags": [
-        "debridge",
-        "biconomy-gas-token",
-        "AAVE_V3",
-        "COMPOUND_V3_USDT",
-        "COMPOUND_V3_USDCE"
-      ]
+      "tags": ["debridge", "biconomy-gas-token", "AAVE_V3", "COMPOUND_V3_USDT", "COMPOUND_V3_USDCE"]
     },
     "0x9d60947d49911e3c262c108f97fe07cde209f9a7": {
       "chainId": "137",
@@ -6250,14 +6244,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/24185/standard/stMATIC.png?1696523373",
       "assetGroup": "STMATIC",
       "currencyId": "Staked MATIC::stMATIC",
-      "tags": [
-        "openocean",
-        "debridge",
-        "biconomy-gas-token",
-        "AAVE_V3",
-        "COMPOUND_V3_USDT",
-        "COMPOUND_V3_USDCE"
-      ]
+      "tags": ["openocean", "debridge", "biconomy-gas-token", "AAVE_V3", "COMPOUND_V3_USDT", "COMPOUND_V3_USDCE"]
     },
     "0x55555555a687343c6ce28c8e1f6641dc71659fad": {
       "chainId": "137",
@@ -26704,6 +26691,46 @@
       "symbol": "gSAT",
       "assetGroup": "GrumpySat::gSAT",
       "currencyId": "GrumpySat::gSAT"
+    },
+    "0x0000000000000000000000000000000000001010": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Polygon (as ERC20)",
+      "address": "0x0000000000000000000000000000000000001010",
+      "symbol": "POL",
+      "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912",
+      "assetGroup": "POL",
+      "currencyId": "Polygon::MATIC",
+      "tags": ["biconomy-gas-token", "openocean", "debridge"]
+    },
+    "0x8689aedf32d35aa9a90849f59ba6841c389e6cf9": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Xpedition",
+      "address": "0x8689aedf32d35aa9a90849f59ba6841c389e6cf9",
+      "symbol": "XPED",
+      "logoURI": "https://assets.coingecko.com/coins/images/67209/thumb/SITElogo_-_circular_200_x_200.png?1752089195",
+      "assetGroup": "Xpedition::XPED",
+      "currencyId": "Xpedition::XPED",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x35128c6d835a00f2fdee970119bce22597eba999": {
+      "chainId": "137",
+      "decimals": 9,
+      "name": "Qrolli (PoS)",
+      "address": "0x35128c6d835a00f2fdee970119bce22597eba999",
+      "symbol": "QR",
+      "assetGroup": "Qrolli (PoS)::QR",
+      "currencyId": "Qrolli (PoS)::QR"
+    },
+    "0x2746c4637926577ad53092656f4c4525dd111794": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Evo Exchange(PoS)",
+      "address": "0x2746c4637926577ad53092656f4c4525dd111794",
+      "symbol": "EvoX",
+      "assetGroup": "Evo Exchange(PoS)::EvoX",
+      "currencyId": "Evo Exchange(PoS)::EvoX"
     }
   },
   "mainTokens": [

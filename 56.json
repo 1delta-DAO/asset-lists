@@ -104,16 +104,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png",
       "assetGroup": "CAKE",
       "currencyId": "PancakeSwap::CAKE",
-      "tags": [
-        "openocean",
-        "coingecko",
-        "debridge",
-        "biconomy-gas-token",
-        "AAVE_V3",
-        "KINZA",
-        "VENUS",
-        "VALAS"
-      ]
+      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token", "AAVE_V3", "KINZA", "VENUS", "VALAS"]
     },
     "0x22a213852cee93eb6d41601133414d180c5684c2": {
       "chainId": "56",
@@ -47806,8 +47797,10 @@
       "name": "GridiumAI",
       "address": "0xf625b131336b4544907e160507aa8d8568104444",
       "symbol": "GRDM",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xF625B131336b4544907e160507aa8d8568104444.png",
       "assetGroup": "GridiumAI::GRDM",
-      "currencyId": "GridiumAI::GRDM"
+      "currencyId": "GridiumAI::GRDM",
+      "tags": ["biconomy-gas-token"]
     },
     "0x75a5863a19af60ec0098d62ed8c34cc594fb470f": {
       "chainId": "56",
@@ -47818,7 +47811,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/27344/thumb/mplx.png?1696526391",
       "assetGroup": "Metaplex::MPLX",
       "currencyId": "Metaplex::MPLX",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xb7e548c4f133adbb910914d7529d5cb00c2e9051": {
       "chainId": "56",
@@ -47829,7 +47822,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67037/thumb/palio-ai-logo.png?1751536260",
       "assetGroup": "Palio::PAL",
       "currencyId": "Palio::PAL",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xce7c3b5e058c196a0eaaa21f8e4bf8c2c07c2935": {
       "chainId": "56",
@@ -47840,7 +47833,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67063/thumb/boom.jpg?1751629829",
       "assetGroup": "Boom::BOOM",
       "currencyId": "Boom::BOOM",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xde914ed9f96853ab95df19481bd14f0fd9dc2249": {
       "chainId": "56",
@@ -47983,6 +47976,46 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54538/thumb/GlueLogo200px.png?1740215317",
       "assetGroup": "Glue::GLUE",
       "currencyId": "Glue::GLUE",
+      "tags": ["coingecko"]
+    },
+    "0x2f971b8b22a57a82a08ebf708a23de24e9f091e2": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Grok",
+      "address": "0x2f971b8b22a57a82a08ebf708a23de24e9f091e2",
+      "symbol": "Grok",
+      "assetGroup": "Grok::Grok",
+      "currencyId": "Grok::Grok"
+    },
+    "0x8b194370825e37b33373e74a41009161808c1488": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Velvet",
+      "address": "0x8b194370825e37b33373e74a41009161808c1488",
+      "symbol": "VELVET",
+      "assetGroup": "Velvet::VELVET",
+      "currencyId": "Velvet::VELVET"
+    },
+    "0x95eda7e54220c6ebf5a8a0d40672849ff029ca6e": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Stella Armada",
+      "address": "0x95eda7e54220c6ebf5a8a0d40672849ff029ca6e",
+      "symbol": "SARM",
+      "logoURI": "https://assets.coingecko.com/coins/images/67232/thumb/sarm-logo.jpg?1752136016",
+      "assetGroup": "Stella Armada::SARM",
+      "currencyId": "Stella Armada::SARM",
+      "tags": ["coingecko"]
+    },
+    "0x374c5fb7979d5fdbaad2d95409e235e5cbdfd43c": {
+      "chainId": "56",
+      "decimals": 8,
+      "name": "MiL k",
+      "address": "0x374c5fb7979d5fdbaad2d95409e235e5cbdfd43c",
+      "symbol": "MLK",
+      "logoURI": "https://assets.coingecko.com/coins/images/11978/thumb/2.png?1696511836",
+      "assetGroup": "MiL k::MLK",
+      "currencyId": "MiL k::MLK",
       "tags": ["coingecko"]
     }
   },
