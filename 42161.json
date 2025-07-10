@@ -18443,7 +18443,7 @@
       "symbol": "PT-ezETH-27JUN2024",
       "assetGroup": "PT Renzo ezETH 27JUN2024::PT-ezETH-27JUN2024",
       "currencyId": "PT Renzo ezETH 27JUN2024::PT-ezETH-27JUN2024",
-      "tags": ["biconomy-gas-token", "PENDLE-PT"]
+      "tags": ["biconomy-gas-token", "PENDLE-PT", "YT:0x05735b65686635f5c87aa9d2dae494fb2e838f38"]
     },
     "0xdd69db25f6d620a7bad3023c5d32761d353d3de9": {
       "chainId": "42161",
@@ -21780,6 +21780,16 @@
       "assetGroup": "M by M0::M",
       "currencyId": "M by M0::M",
       "tags": ["coingecko", "biconomy-gas-token"]
+    },
+    "0xe47ba52f326806559c1dec7ddd997f6957d0317d": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Shell",
+      "address": "0xe47ba52f326806559c1dec7ddd997f6957d0317d",
+      "symbol": "SHELL",
+      "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xe47ba52f326806559c1dec7ddd997f6957d0317d/924c432d549df219bae43f5e81741672.png",
+      "assetGroup": "Shell::SHELL",
+      "currencyId": "Shell::SHELL"
     }
   },
   "mainTokens": [

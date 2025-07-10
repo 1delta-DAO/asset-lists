@@ -47993,8 +47993,10 @@
       "name": "Velvet",
       "address": "0x8b194370825e37b33373e74a41009161808c1488",
       "symbol": "VELVET",
+      "logoURI": "https://assets.coingecko.com/coins/images/67194/thumb/velvet.jpg?1752054592",
       "assetGroup": "Velvet::VELVET",
-      "currencyId": "Velvet::VELVET"
+      "currencyId": "Velvet::VELVET",
+      "tags": ["coingecko"]
     },
     "0x95eda7e54220c6ebf5a8a0d40672849ff029ca6e": {
       "chainId": "56",
@@ -48016,6 +48018,50 @@
       "logoURI": "https://assets.coingecko.com/coins/images/11978/thumb/2.png?1696511836",
       "assetGroup": "MiL k::MLK",
       "currencyId": "MiL k::MLK",
+      "tags": ["coingecko"]
+    },
+    "0xf9a2e332b1ecd3d6ab51618432d68c8d5995c992": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "COREX",
+      "address": "0xf9a2e332b1ecd3d6ab51618432d68c8d5995c992",
+      "symbol": "CORX",
+      "logoURI": "https://assets.coingecko.com/coins/images/67240/thumb/200x200.png?1752160672",
+      "assetGroup": "COREX::CORX",
+      "currencyId": "COREX::CORX",
+      "tags": ["coingecko"]
+    },
+    "0x8428f3c2ee618528ad71db6cfd3d3205e5e6685d": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Hybrid",
+      "address": "0x8428f3c2ee618528ad71db6cfd3d3205e5e6685d",
+      "symbol": "HYB",
+      "logoURI": "https://assets.coingecko.com/coins/images/67243/thumb/Hybrid_logo_%28200_x_200_px%29_ROUND.png?1752161822",
+      "assetGroup": "Hybrid::HYB",
+      "currencyId": "Hybrid::HYB",
+      "tags": ["coingecko"]
+    },
+    "0xe32f9e8f7f7222fcd83ee0fc68baf12118448eaf": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Xeleb Protocol",
+      "address": "0xe32f9e8f7f7222fcd83ee0fc68baf12118448eaf",
+      "symbol": "XCX",
+      "logoURI": "https://assets.coingecko.com/coins/images/66191/thumb/20250524_170344.jpg?1748622556",
+      "assetGroup": "Xeleb Protocol::XCX",
+      "currencyId": "Xeleb Protocol::XCX",
+      "tags": ["coingecko"]
+    },
+    "0xc61eb549acf4a05ed6e3fe0966f5e213b23541ce": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "NUMINE Token",
+      "address": "0xc61eb549acf4a05ed6e3fe0966f5e213b23541ce",
+      "symbol": "NUMI",
+      "logoURI": "https://assets.coingecko.com/coins/images/55029/thumb/Token_Logo_NUMI_200.png?1743320367",
+      "assetGroup": "NUMINE Token::NUMI",
+      "currencyId": "NUMINE Token::NUMI",
       "tags": ["coingecko"]
     }
   },
