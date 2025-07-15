@@ -5333,7 +5333,7 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/ape.svg",
       "assetGroup": "ApeCoin::APE",
       "currencyId": "ApeCoin::APE",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x68e92a82e2fb7b7539f51ae2fcfb98e775f463b9": {
       "chainId": "42161",
@@ -19327,7 +19327,8 @@
       "symbol": "PLUTUS",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/plutus.svg",
       "assetGroup": "Plutus token::PLUTUS",
-      "currencyId": "Plutus token::PLUTUS"
+      "currencyId": "Plutus token::PLUTUS",
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x8eef5ed361c6823156d936209e23a8e0349e5c61": {
       "chainId": "42161",
@@ -21799,6 +21800,49 @@
       "symbol": "JANET",
       "assetGroup": "Janet::JANET",
       "currencyId": "Janet::JANET"
+    },
+    "0x76a9a0062ec6712b99b4f63bd2b4270185759dd5": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "USDp",
+      "address": "0x76a9a0062ec6712b99b4f63bd2b4270185759dd5",
+      "symbol": "USDp",
+      "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg",
+      "assetGroup": "USDp::USDp",
+      "currencyId": "USDp::USDp"
+    },
+    "0xe061aa40be525a13296cb4bf69f513242349d708": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "XVGARB",
+      "address": "0xe061aa40be525a13296cb4bf69f513242349d708",
+      "symbol": "XVGARB",
+      "logoURI": "https://assets.coingecko.com/coins/images/67254/thumb/xvgarb-200x200.png?1752221368",
+      "assetGroup": "XVGARB::XVGARB",
+      "currencyId": "XVGARB::XVGARB",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x437cc33344a0b27a429f795ff6b469c72698b291": {
+      "chainId": "42161",
+      "decimals": 6,
+      "name": "WrappedM by M^0",
+      "address": "0x437cc33344a0b27a429f795ff6b469c72698b291",
+      "symbol": "WM",
+      "logoURI": "https://assets.coingecko.com/coins/images/55070/thumb/wm.jpg?1743589588",
+      "assetGroup": "WrappedM by M^0::WM",
+      "currencyId": "WrappedM by M^0::WM",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x4ecf61a6c2fab8a047ceb3b3b263b401763e9d49": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "US Nerite Dollar",
+      "address": "0x4ecf61a6c2fab8a047ceb3b3b263b401763e9d49",
+      "symbol": "USND",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/USND.png",
+      "assetGroup": "US Nerite Dollar::USND",
+      "currencyId": "US Nerite Dollar::USND",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [

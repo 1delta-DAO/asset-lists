@@ -336,6 +336,26 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/pepe.jpg",
       "assetGroup": "PEPE",
       "currencyId": "Pepe::PEPE"
+    },
+    "0x72cddb64a72176b442bdfd9c8bb7968e652d8d1a": {
+      "chainId": "33139",
+      "decimals": 18,
+      "name": "Not a Gold Token",
+      "address": "0x72cddb64a72176b442bdfd9c8bb7968e652d8d1a",
+      "symbol": "NGT",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/ngt.png",
+      "assetGroup": "Not a Gold Token::NGT",
+      "currencyId": "Not a Gold Token::NGT"
+    },
+    "0x54a70516e9c0223f4a92be3a4832a06f546e783b": {
+      "chainId": "33139",
+      "decimals": 18,
+      "name": "Geez PNutz",
+      "address": "0x54a70516e9c0223f4a92be3a4832a06f546e783b",
+      "symbol": "PNutz",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/pnutz.png",
+      "assetGroup": "Geez PNutz::PNutz",
+      "currencyId": "Geez PNutz::PNutz"
     }
   },
   "mainTokens": [

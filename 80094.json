@@ -992,6 +992,17 @@
       "assetGroup": "OpenState BGT::OSBGT",
       "currencyId": "OpenState BGT::OSBGT",
       "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+    },
+    "0x6698ede14709a9dd8379744cc2d28f276e3d2eac": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "Plutus",
+      "address": "0x6698ede14709a9dd8379744cc2d28f276e3d2eac",
+      "symbol": "PLUTUS",
+      "logoURI": "https://assets.coingecko.com/coins/images/67346/thumb/plutus.jpg?1752473074",
+      "assetGroup": "Plutus::PLUTUS",
+      "currencyId": "Plutus::PLUTUS",
+      "tags": ["biconomy-gas-token", "coingecko"]
     }
   },
   "mainTokens": [

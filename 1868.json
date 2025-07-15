@@ -310,6 +310,17 @@
       "symbol": "aSoneUSDT",
       "assetGroup": "Aave Soneium USDT::aSoneUSDT",
       "currencyId": "Aave Soneium USDT::aSoneUSDT"
+    },
+    "0x102d758f688a4c1c5a80b116bd945d4455460282": {
+      "chainId": "1868",
+      "decimals": 6,
+      "name": "Stargate Bridged USDT0",
+      "address": "0x102d758f688a4c1c5a80b116bd945d4455460282",
+      "symbol": "USDT0",
+      "logoURI": "https://assets.coingecko.com/coins/images/67284/thumb/usdt0.jpg?1752298536",
+      "assetGroup": "Stargate Bridged USDT0::USDT0",
+      "currencyId": "Stargate Bridged USDT0::USDT0",
+      "tags": ["stargate", "bridged", "SAKE", "coingecko"]
     }
   },
   "mainTokens": [
@@ -333,7 +344,8 @@
     "0x6c460b2c6d6719562d5da43e5152b375e79b9a8b",
     "0x570f09ac53b96929e3868f71864e36ff6b1b67d7",
     "0x8cd846c404c7267350a2920576816603cd5c6539",
-    "0x61f2993a644762a345b483adf0d6351c5edfb3b5"
+    "0x61f2993a644762a345b483adf0d6351c5edfb3b5",
+    "0x102d758f688a4c1c5a80b116bd945d4455460282"
   ],
   "bridgeTokens": [
     "0xba9986d2381edf1da03b0b9c1f8b00dc4aacc369",

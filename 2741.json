@@ -340,7 +340,8 @@
       "symbol": "USDT",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
       "assetGroup": "USDT",
-      "currencyId": "USDT::USDT"
+      "currencyId": "USDT::USDT",
+      "tags": ["coingecko"]
     },
     "0x9ebe3a824ca958e4b3da772d2065518f009cba62": {
       "chainId": "2741",
@@ -350,7 +351,8 @@
       "symbol": "PENGU",
       "logoURI": "https://img.reservoir.tools/images/v2/abstract/SOH16Rml4teTwteHGv7mzFPoR1RDmrxetEov4ZKPdr8CYgqfVfhFwsW1UkTuBQ3a%2FNdYKidF15cP4O5fsctct9K93ey9EXyv2l1YcYkecnLIFh7o7jtBa8LTRZ%2BhHcil?width=250",
       "assetGroup": "Pudgy Penguins::PENGU",
-      "currencyId": "Pudgy Penguins::PENGU"
+      "currencyId": "Pudgy Penguins::PENGU",
+      "tags": ["coingecko"]
     },
     "0xd63b0e99303d51713f947195bf37188a943255a1": {
       "chainId": "2741",
@@ -383,6 +385,17 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67081/thumb/2kleSOZDHRsCDbyZ.png?1751699412",
       "assetGroup": "Gugo::GUGO",
       "currencyId": "Gugo::GUGO",
+      "tags": ["coingecko"]
+    },
+    "0x1c26da604221466976beeb509698152ba8a3a13f": {
+      "chainId": "2741",
+      "decimals": 18,
+      "name": "GRIND",
+      "address": "0x1c26da604221466976beeb509698152ba8a3a13f",
+      "symbol": "GRIND",
+      "logoURI": "https://assets.coingecko.com/coins/images/67316/thumb/Gh6NH9mXcAEKJSy.jpeg?1752393360",
+      "assetGroup": "GRIND::GRIND",
+      "currencyId": "GRIND::GRIND",
       "tags": ["coingecko"]
     }
   },
@@ -417,7 +430,9 @@
     "0x143bd0eac0a811aac43e8aae5d28b624b6b63489",
     "0xaf31d07af1602dfce07fba81bca5f9570ca83983",
     "0x0709f39376deee2a2dfc94a58edeb2eb9df012bd",
-    "0xeef8fcc4f2d3630efac672814732579b0e2ca800"
+    "0xeef8fcc4f2d3630efac672814732579b0e2ca800",
+    "0xea08d82824e871a163fdeb7d7c6000521f1be4dd",
+    "0x1c26da604221466976beeb509698152ba8a3a13f"
   ],
   "bridgeTokens": [
     "0x84a71ccd554cc1b02749b35d22f684cc8ec987e1",

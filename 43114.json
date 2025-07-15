@@ -776,7 +776,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0555E30da8f98308EdB960aa94C0Db47230d2B9c/logo.png",
       "assetGroup": "Wrapped BTC::WBTC",
       "currencyId": "Wrapped BTC::WBTC",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x00000000efe302beaa2b3e6e1b18d08d69a9012a": {
       "chainId": "43114",
@@ -6186,8 +6186,8 @@
       "symbol": "CRV.e",
       "logoURI": "https://assets-cdn.trustwallet.com/blockchains/avalanchec/assets/0x249848BeCA43aC405b8102Ec90Dd5F22CA513c06/logo.png",
       "assetGroup": "CRV",
-      "currencyId": "Curve DAO Token::CRV.e",
-      "tags": ["biconomy-gas-token", "NEREUS"]
+      "currencyId": "Bridged CRV::CRV.e",
+      "tags": ["biconomy-gas-token", "NEREUS", "bridged"]
     },
     "0x57319d41f71e81f3c65f2a47ca4e001ebafd4f33": {
       "chainId": "43114",
@@ -8727,7 +8727,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67222/thumb/avaxpixel_square.png?1752127991",
       "assetGroup": "APIX::APIX",
       "currencyId": "APIX::APIX",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x9b3a8159e119eb09822115ae08ee1526849e1116": {
       "chainId": "43114",
@@ -8738,7 +8738,48 @@
       "logoURI": "https://assets.coingecko.com/coins/images/33765/thumb/200x200.png?1709978615",
       "assetGroup": "Meme Alliance::MMA",
       "currencyId": "Meme Alliance::MMA",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
+    },
+    "0x9ee1963f05553ef838604dd39403be21cef26aa4": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "USDp",
+      "address": "0x9ee1963f05553ef838604dd39403be21cef26aa4",
+      "symbol": "USDp",
+      "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg",
+      "assetGroup": "USDp::USDp",
+      "currencyId": "USDp::USDp"
+    },
+    "0x9b9fd410d5f01a6a60acf4678a5a99d8027fa5a7": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Mythos",
+      "address": "0x9b9fd410d5f01a6a60acf4678a5a99d8027fa5a7",
+      "symbol": "MYTH",
+      "logoURI": "https://assets.coingecko.com/coins/images/28045/thumb/Mythos_Logos_200x200.png?1696527059",
+      "assetGroup": "Mythos::MYTH",
+      "currencyId": "Mythos::MYTH",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x694207a9f708355ee3119f11e55bc5c0b1845ba2": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Red Pepe",
+      "address": "0x694207a9f708355ee3119f11e55bc5c0b1845ba2",
+      "symbol": "RPEPE",
+      "logoURI": "https://assets.coingecko.com/coins/images/67319/thumb/RPEPE.jpg?1752397109",
+      "assetGroup": "Red Pepe::RPEPE::43114::0",
+      "currencyId": "Red Pepe::RPEPE",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x853ea32391aaa14c112c645fd20ba389ab25c5e0": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "dForce USD",
+      "address": "0x853ea32391aaa14c112c645fd20ba389ab25c5e0",
+      "symbol": "USX",
+      "assetGroup": "dForce USD::USX",
+      "currencyId": "dForce USD::USX"
     }
   },
   "mainTokens": [

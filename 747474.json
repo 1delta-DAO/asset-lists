@@ -1,0 +1,225 @@
+{
+  "chainId": "747474",
+  "version": "0",
+  "list": {
+    "0x7f1f4b4b29f5058fa32cc7a97141b8d7e5abdc2d": {
+      "chainId": "747474",
+      "decimals": 18,
+      "name": "Katana Network Token",
+      "address": "0x7f1f4b4b29f5058fa32cc7a97141b8d7e5abdc2d",
+      "symbol": "KAT",
+      "logoURI": "https://cdn.morpho.org/assets/logos/kat.svg",
+      "assetGroup": "Katana Network Token::KAT",
+      "currencyId": "Katana Network Token::KAT"
+    },
+    "0x3ba1fbc4c3aea775d335b31fb53778f46fd3a330": {
+      "chainId": "747474",
+      "decimals": 18,
+      "name": "Katana Network Token (wrapped)",
+      "address": "0x3ba1fbc4c3aea775d335b31fb53778f46fd3a330",
+      "symbol": "KAT",
+      "logoURI": "https://cdn.morpho.org/assets/logos/kat.svg",
+      "assetGroup": "Katana Network Token (wrapped)::KAT",
+      "currencyId": "Katana Network Token (wrapped)::KAT"
+    },
+    "0x6e9c1f88a960fe63387eb4b71bc525a9313d8461": {
+      "chainId": "747474",
+      "decimals": 18,
+      "name": "Katana Network Token (wrapped v2)",
+      "address": "0x6e9c1f88a960fe63387eb4b71bc525a9313d8461",
+      "symbol": "KAT",
+      "logoURI": "https://cdn.morpho.org/assets/logos/kat.svg",
+      "assetGroup": "Katana Network Token (wrapped v2)::KAT",
+      "currencyId": "Katana Network Token (wrapped v2)::KAT"
+    },
+    "0x17bff452dae47e07cea877ff0e1aba17eb62b0ab": {
+      "chainId": "747474",
+      "decimals": 18,
+      "name": "SushiToken",
+      "address": "0x17bff452dae47e07cea877ff0e1aba17eb62b0ab",
+      "symbol": "SUSHI",
+      "logoURI": "https://cdn.morpho.org/assets/logos/sushi.svg",
+      "assetGroup": "SushiToken::SUSHI",
+      "currencyId": "SushiToken::SUSHI"
+    },
+    "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62": {
+      "chainId": "747474",
+      "decimals": 18,
+      "name": "Vault Bridge ETH",
+      "address": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
+      "symbol": "vbETH",
+      "logoURI": "https://cdn.morpho.org/assets/logos/vbeth.svg",
+      "assetGroup": "Vault Bridge ETH::vbETH",
+      "currencyId": "Vault Bridge ETH::vbETH",
+      "tags": ["eth", "coingecko"]
+    },
+    "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36": {
+      "chainId": "747474",
+      "decimals": 6,
+      "name": "Vault Bridge USDC",
+      "address": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
+      "symbol": "vbUSDC",
+      "logoURI": "https://cdn.morpho.org/assets/logos/vbusdc.svg",
+      "assetGroup": "Vault Bridge USDC::vbUSDC",
+      "currencyId": "Vault Bridge USDC::vbUSDC",
+      "tags": ["stablecoin", "usd-pegged", "coingecko"]
+    },
+    "0x2dca96907fde857dd3d816880a0df407eeb2d2f2": {
+      "chainId": "747474",
+      "decimals": 6,
+      "name": "Vault Bridge USDT",
+      "address": "0x2dca96907fde857dd3d816880a0df407eeb2d2f2",
+      "symbol": "vbUSDT",
+      "logoURI": "https://cdn.morpho.org/assets/logos/vbusdt.svg",
+      "assetGroup": "Vault Bridge USDT::vbUSDT",
+      "currencyId": "Vault Bridge USDT::vbUSDT",
+      "tags": ["stablecoin", "usd-pegged", "coingecko"]
+    },
+    "0x0913da6da4b42f538b445599b46bb4622342cf52": {
+      "chainId": "747474",
+      "decimals": 8,
+      "name": "Vault Bridge WBTC",
+      "address": "0x0913da6da4b42f538b445599b46bb4622342cf52",
+      "symbol": "vbWBTC",
+      "logoURI": "https://cdn.morpho.org/assets/logos/vbwbtc.svg",
+      "assetGroup": "Vault Bridge WBTC::vbWBTC",
+      "currencyId": "Vault Bridge WBTC::vbWBTC",
+      "tags": ["btc", "coingecko"]
+    },
+    "0x00000000efe302beaa2b3e6e1b18d08d69a9012a": {
+      "chainId": "747474",
+      "decimals": 6,
+      "name": "Agora Dollar",
+      "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+      "symbol": "AUSD",
+      "logoURI": "https://cdn.morpho.org/assets/logos/ausd.svg",
+      "assetGroup": "Agora Dollar::AUSD",
+      "currencyId": "Agora Dollar::AUSD",
+      "tags": ["stablecoin", "usd-pegged", "coingecko"]
+    },
+    "0x1e5efca3d0db2c6d5c67a4491845c43253eb9e4e": {
+      "chainId": "747474",
+      "decimals": 18,
+      "name": "Morpho Token",
+      "address": "0x1e5efca3d0db2c6d5c67a4491845c43253eb9e4e",
+      "symbol": "MORPHO",
+      "logoURI": "https://cdn.morpho.org/assets/logos/morpho.svg",
+      "assetGroup": "MORPHO",
+      "currencyId": "Morpho Token::MORPHO"
+    },
+    "0x9b8df6e244526ab5f6e6400d331db28c8fdddb55": {
+      "chainId": "747474",
+      "decimals": 18,
+      "name": "Solana (Universal)",
+      "address": "0x9b8df6e244526ab5f6e6400d331db28c8fdddb55",
+      "symbol": "uSOL",
+      "logoURI": "https://cdn.morpho.org/assets/logos/usol.svg",
+      "assetGroup": "Solana (Universal)::uSOL",
+      "currencyId": "Solana (Universal)::uSOL"
+    },
+    "0x7fb4d0f51544f24f385a421db6e7d4fc71ad8e5c": {
+      "chainId": "747474",
+      "decimals": 18,
+      "name": "Wrapped liquid staked Ether 2.0",
+      "address": "0x7fb4d0f51544f24f385a421db6e7d4fc71ad8e5c",
+      "symbol": "wstETH",
+      "logoURI": "https://cdn.morpho.org/assets/logos/wsteth.svg",
+      "assetGroup": "WSTETH",
+      "currencyId": "Wrapped liquid staked Ether 2.0::wstETH",
+      "tags": ["yield", "lst", "eth"]
+    },
+    "0xb24e3035d1fcbc0e43cf3143c3fd92e53df2009b": {
+      "chainId": "747474",
+      "decimals": 18,
+      "name": "Polygon Ecosystem Token",
+      "address": "0xb24e3035d1fcbc0e43cf3143c3fd92e53df2009b",
+      "symbol": "POL",
+      "logoURI": "https://cdn.morpho.org/assets/logos/pol.svg",
+      "assetGroup": "Polygon Ecosystem Token::POL",
+      "currencyId": "Polygon Ecosystem Token::POL",
+      "tags": ["coingecko"]
+    },
+    "0xecac9c5f704e954931349da37f60e39f515c11c1": {
+      "chainId": "747474",
+      "decimals": 8,
+      "name": "Lombard Staked Bitcoin",
+      "address": "0xecac9c5f704e954931349da37f60e39f515c11c1",
+      "symbol": "LBTC",
+      "logoURI": "https://cdn.morpho.org/assets/logos/lbtc.svg",
+      "assetGroup": "Lombard Staked Bitcoin::LBTC",
+      "currencyId": "Lombard Staked Bitcoin::LBTC",
+      "tags": ["btc", "lst"]
+    },
+    "0xb0f70c0bd6fd87dbeb7c10dc692a2a6106817072": {
+      "chainId": "747474",
+      "decimals": 8,
+      "name": "Bitcoin on Katana",
+      "address": "0xb0f70c0bd6fd87dbeb7c10dc692a2a6106817072",
+      "symbol": "BTCK",
+      "logoURI": "https://cdn.morpho.org/assets/logos/btck.svg",
+      "assetGroup": "Bitcoin on Katana::BTCK",
+      "currencyId": "Bitcoin on Katana::BTCK",
+      "tags": ["btc"]
+    },
+    "0x9893989433e7a383cb313953e4c2365107dc19a7": {
+      "chainId": "747474",
+      "decimals": 18,
+      "name": "Wrapped eETH",
+      "address": "0x9893989433e7a383cb313953e4c2365107dc19a7",
+      "symbol": "weETH",
+      "logoURI": "https://cdn.morpho.org/assets/logos/weeth.svg",
+      "assetGroup": "WEETH",
+      "currencyId": "Wrapped eETH::weETH",
+      "tags": ["lrt", "yield", "eth"]
+    },
+    "0x62d6a123e8d19d06d68cf0d2294f9a3a0362c6b3": {
+      "chainId": "747474",
+      "decimals": 18,
+      "name": "Vault Bridge USDS",
+      "address": "0x62d6a123e8d19d06d68cf0d2294f9a3a0362c6b3",
+      "symbol": "vbUSDS",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xdc035d45d973e3ec169d2276ddab16f1e407384f/78fbc2e73e33fa80fcecfaafa2074887.png",
+      "assetGroup": "Vault Bridge USDS::vbUSDS",
+      "currencyId": "Vault Bridge USDS::vbUSDS"
+    },
+    "0xb0505e5a99abd03d94a1169e638b78edfed26ea4": {
+      "chainId": "747474",
+      "decimals": 18,
+      "name": "Sui (Universal)",
+      "address": "0xb0505e5a99abd03d94a1169e638b78edfed26ea4",
+      "symbol": "uSUI",
+      "logoURI": "https://static.debank.com/image/world_token/logo_url/0xb0505e5a99abd03d94a1169e638b78edfed26ea4/3ded500b84a0ee8ed79f088e96f841d9.png",
+      "assetGroup": "Sui (Universal)::uSUI",
+      "currencyId": "Sui (Universal)::uSUI"
+    },
+    "0x2615a94df961278dcbc41fb0a54fec5f10a693ae": {
+      "chainId": "747474",
+      "decimals": 18,
+      "name": "XRP (Universal)",
+      "address": "0x2615a94df961278dcbc41fb0a54fec5f10a693ae",
+      "symbol": "uXRP",
+      "logoURI": "https://static.debank.com/image/world_token/logo_url/0x2615a94df961278dcbc41fb0a54fec5f10a693ae/33060c349aaec14e8ca665fba57b9c4c.png",
+      "assetGroup": "XRP (Universal)::uXRP",
+      "currencyId": "XRP (Universal)::uXRP"
+    },
+    "0x476eacd417cd65421bd34fca054377658bb5e02b": {
+      "chainId": "747474",
+      "decimals": 18,
+      "name": "yearn.finance",
+      "address": "0x476eacd417cd65421bd34fca054377658bb5e02b",
+      "symbol": "YFI",
+      "logoURI": "https://static.debank.com/image/coin/logo_url/yearn/f14ac7f4efe5c51e1c6b32add3dea10c.png",
+      "assetGroup": "yearn.finance::YFI",
+      "currencyId": "yearn.finance::YFI"
+    }
+  },
+  "mainTokens": [
+    "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
+    "0x2dca96907fde857dd3d816880a0df407eeb2d2f2",
+    "0x0913da6da4b42f538b445599b46bb4622342cf52",
+    "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
+    "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+    "0xb24e3035d1fcbc0e43cf3143c3fd92e53df2009b"
+  ],
+  "bridgeTokens": ["0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62", "0x2dca96907fde857dd3d816880a0df407eeb2d2f2"]
+}

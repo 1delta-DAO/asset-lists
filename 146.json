@@ -1476,7 +1476,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/31185/large/anyusdt_32.png?1696530013",
       "assetGroup": "USDT",
       "currencyId": "Tether USD::USDT",
-      "tags": ["biconomy-gas-token", "debridge", "POLTER"]
+      "tags": ["biconomy-gas-token", "debridge", "POLTER", "coingecko"]
     },
     "0x9bcea390ff97e0d3362bf726820776a4df8add9a": {
       "chainId": "146",
@@ -1555,7 +1555,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0555e30da8f98308edb960aa94c0db47230d2b9c.png",
       "assetGroup": "WBTC",
       "currencyId": "Wrapped BTC::WBTC",
-      "tags": ["debridge"]
+      "tags": ["debridge", "biconomy-gas-token", "coingecko"]
     },
     "0xb97af8cbd08d182cc118439ff5d4b547ec16258c": {
       "chainId": "146",
@@ -2231,6 +2231,58 @@
       "assetGroup": "Womo::WM",
       "currencyId": "Womo::WM",
       "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+    },
+    "0xc7990369da608c2f4903715e3bd22f2970536c29": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Staked msUSD",
+      "address": "0xc7990369da608c2f4903715e3bd22f2970536c29",
+      "symbol": "smsUSD",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/smsusd.png",
+      "assetGroup": "Staked msUSD::smsUSD",
+      "currencyId": "Staked msUSD::smsUSD"
+    },
+    "0x08417cdb7f52a5021bb4eb6e0deaf3f295c3f182": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "USDp",
+      "address": "0x08417cdb7f52a5021bb4eb6e0deaf3f295c3f182",
+      "symbol": "USDp",
+      "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg",
+      "assetGroup": "USDp::USDp",
+      "currencyId": "USDp::USDp"
+    },
+    "0xe8a3da6f5ed1cf04c58ac7f6a7383641e877517b": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Staked USDp",
+      "address": "0xe8a3da6f5ed1cf04c58ac7f6a7383641e877517b",
+      "symbol": "sUSDp",
+      "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/sUSDp.svg",
+      "assetGroup": "Staked USDp::sUSDp",
+      "currencyId": "Staked USDp::sUSDp"
+    },
+    "0x4cae73a23078e7a94d1e828fa3baba5080c04fca": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Amped Finance",
+      "address": "0x4cae73a23078e7a94d1e828fa3baba5080c04fca",
+      "symbol": "AMP",
+      "logoURI": "https://assets.coingecko.com/coins/images/37421/thumb/AmpedLogoTrans-200.png?1714377313",
+      "assetGroup": "Amped Finance::AMP",
+      "currencyId": "Amped Finance::AMP",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xe061aa40be525a13296cb4bf69f513242349d708": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "XVGSON",
+      "address": "0xe061aa40be525a13296cb4bf69f513242349d708",
+      "symbol": "XVGSON",
+      "logoURI": "https://assets.coingecko.com/coins/images/67363/thumb/xvgson-logo-200x200.png?1752564785",
+      "assetGroup": "XVGSON::XVGSON",
+      "currencyId": "XVGSON::XVGSON",
+      "tags": ["biconomy-gas-token", "coingecko"]
     }
   },
   "mainTokens": [
