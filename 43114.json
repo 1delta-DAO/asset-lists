@@ -6572,7 +6572,8 @@
       "symbol": "yUTY",
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x580d5e1399157fd0d58218b7a514b60974f2ab01.png",
       "assetGroup": "Staked UTY::yUTY",
-      "currencyId": "Staked UTY::yUTY"
+      "currencyId": "Staked UTY::yUTY",
+      "tags": ["coingecko"]
     },
     "0xe80772eaf6e2e18b651f160bc9158b2a5cafca65": {
       "chainId": "43114",
@@ -8780,9 +8781,21 @@
       "symbol": "USX",
       "assetGroup": "dForce USD::USX",
       "currencyId": "dForce USD::USX"
+    },
+    "0xcd94a87696fac69edae3a70fe5725307ae1c43f6": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Blackhole",
+      "address": "0xcd94a87696fac69edae3a70fe5725307ae1c43f6",
+      "symbol": "BLACK",
+      "logoURI": "https://assets.coingecko.com/coins/images/67389/thumb/black.jpg?1752638424",
+      "assetGroup": "Blackhole::BLACK",
+      "currencyId": "Blackhole::BLACK",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
+    "0xcd94a87696fac69edae3a70fe5725307ae1c43f6",
     "0xd501281565bf7789224523144fe5d98e8b28f267",
     "0x63a72806098bd3d9520cc43356dd78afe5d386d9",
     "0xaec8318a9a59baeb39861d10ff6c7f7bf1f96c57",

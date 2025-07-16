@@ -9333,7 +9333,7 @@
       "address": "0xf33687811f3ad0cd6b48dd4b39f9f977bd7165a2",
       "symbol": "TruMATIC",
       "logoURI": "https://tokens.debridge.finance/Logo/137/0xf33687811f3ad0cd6b48dd4b39f9f977bd7165a2/small/token-logo.png",
-      "assetGroup": "TruFin Staked MATIC::TruMATIC",
+      "assetGroup": "TRUMATIC",
       "currencyId": "TruFin Staked MATIC::TruMATIC",
       "tags": ["debridge", "biconomy-gas-token"]
     },
@@ -26788,6 +26788,24 @@
       "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/bsct.svg",
       "assetGroup": "Super Dog Biscuits::BSCTx",
       "currencyId": "Super Dog Biscuits::BSCTx"
+    },
+    "0xfb65ef42f7c8a70ff73f627db6e9ba2aff1f20fa": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "NodeRunners (PoS)",
+      "address": "0xfb65ef42f7c8a70ff73f627db6e9ba2aff1f20fa",
+      "symbol": "NDR",
+      "assetGroup": "NodeRunners (PoS)::NDR",
+      "currencyId": "NodeRunners (PoS)::NDR"
+    },
+    "0xf6a38ce301700e28e0d0a3b021bae6d4fa1b5d1b": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "BASENJI (PoS)",
+      "address": "0xf6a38ce301700e28e0d0a3b021bae6d4fa1b5d1b",
+      "symbol": "BSJ",
+      "assetGroup": "BASENJI (PoS)::BSJ",
+      "currencyId": "BASENJI (PoS)::BSJ"
     }
   },
   "mainTokens": [

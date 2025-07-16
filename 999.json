@@ -915,7 +915,8 @@
       "symbol": "SPHERE",
       "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x3e5fba5dd52e931276b3c84df7542c2eeea1440b/38b1fd82d511744da1692d314bccf0eb.png",
       "assetGroup": "HYPESPHERE::SPHERE",
-      "currencyId": "HYPESPHERE::SPHERE"
+      "currencyId": "HYPESPHERE::SPHERE",
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x5875fc0d25a48c17da1147dd1f432c6b54fb7e67": {
       "chainId": "999",
@@ -926,7 +927,7 @@
       "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x5875fc0d25a48c17da1147dd1f432c6b54fb7e67/8ddbf866b0fac48b70559e5f9c9e323e.png",
       "assetGroup": "Flip::FLIP",
       "currencyId": "Flip::FLIP",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xe9e70b7c9d108011c5ab15ce9bf6ef21d0cf8363": {
       "chainId": "999",
@@ -1707,6 +1708,77 @@
       "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x5c2c41bf9f0465d95f67e0ecc979037f19045f48/108a6063dcc285c726b0e5266488edf5.png",
       "assetGroup": "HypeBoost::HBOOST",
       "currencyId": "HypeBoost::HBOOST"
+    },
+    "0xbe65f0f410a72bec163dc65d46c83699e957d588": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "USDp",
+      "address": "0xbe65f0f410a72bec163dc65d46c83699e957d588",
+      "symbol": "USDp",
+      "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg",
+      "assetGroup": "USDp::USDp",
+      "currencyId": "USDp::USDp"
+    },
+    "0x9b3a8f7cec208e247d97dee13313690977e24459": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Staked USDp",
+      "address": "0x9b3a8f7cec208e247d97dee13313690977e24459",
+      "symbol": "sUSDp",
+      "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/sUSDp.svg",
+      "assetGroup": "Staked USDp::sUSDp",
+      "currencyId": "Staked USDp::sUSDp"
+    },
+    "0xfd739d4e423301ce9385c1fb8850539d657c296d": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Kinetiq Staked HYPE",
+      "address": "0xfd739d4e423301ce9385c1fb8850539d657c296d",
+      "symbol": "kHYPE",
+      "logoURI": "https://app.valantis.xyz/khype.svg",
+      "assetGroup": "Kinetiq Staked HYPE::kHYPE",
+      "currencyId": "Kinetiq Staked HYPE::kHYPE",
+      "tags": ["NATIVE", "VERIFIED", "WRAPPED", "biconomy-gas-token", "coingecko"]
+    },
+    "0xcae9e2a86c146b084169e170e63d340bf34d6b83": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Hypurr kHYPE",
+      "address": "0xcae9e2a86c146b084169e170e63d340bf34d6b83",
+      "symbol": "hykHYPE",
+      "logoURI": "",
+      "assetGroup": "Hypurr kHYPE::hykHYPE",
+      "currencyId": "Hypurr kHYPE::hykHYPE",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x27ec642013bcb3d80ca3706599d3cda04f6f4452": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "Unit Pump",
+      "address": "0x27ec642013bcb3d80ca3706599d3cda04f6f4452",
+      "symbol": "UPUMP",
+      "logoURI": "https://assets.coingecko.com/coins/images/67362/thumb/pump.jpg?1752548000",
+      "assetGroup": "Unit Pump::UPUMP",
+      "currencyId": "Unit Pump::UPUMP",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x9ac8192a68f5174e8ac8546856e0e48d346f8240": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "IVX Liquidity pool token",
+      "address": "0x9ac8192a68f5174e8ac8546856e0e48d346f8240",
+      "symbol": "IVLP",
+      "assetGroup": "IVX Liquidity pool token::IVLP",
+      "currencyId": "IVX Liquidity pool token::IVLP"
+    },
+    "0xfa44c2634ff17cbe26dc3007d36bd61c79068c14": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Pudgy Penguins",
+      "address": "0xfa44c2634ff17cbe26dc3007d36bd61c79068c14",
+      "symbol": "PENGU",
+      "assetGroup": "Pudgy Penguins::PENGU",
+      "currencyId": "Pudgy Penguins::PENGU"
     }
   },
   "mainTokens": [
@@ -1749,7 +1821,8 @@
     "0xf4d9235269a96aadafc9adae454a0618ebe37949",
     "0x7dcffcb06b40344eeced2d1cbf096b299fe4b405",
     "0x1359b05241ca5076c9f59605214f4f84114c0de8",
-    "0xdabb040c428436d41cecd0fb06bcfdbaad3a9aa8"
+    "0xdabb040c428436d41cecd0fb06bcfdbaad3a9aa8",
+    "0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1"
   ],
   "bridgeTokens": ["0x7410e69958a8ece2a51c231c8528513d4d668c7a", "0x0555e30da8f98308edb960aa94c0db47230d2b9c"]
 }

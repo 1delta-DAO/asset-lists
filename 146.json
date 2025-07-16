@@ -2240,7 +2240,8 @@
       "symbol": "smsUSD",
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/smsusd.png",
       "assetGroup": "Staked msUSD::smsUSD",
-      "currencyId": "Staked msUSD::smsUSD"
+      "currencyId": "Staked msUSD::smsUSD",
+      "tags": ["coingecko"]
     },
     "0x08417cdb7f52a5021bb4eb6e0deaf3f295c3f182": {
       "chainId": "146",
@@ -2283,6 +2284,17 @@
       "assetGroup": "XVGSON::XVGSON",
       "currencyId": "XVGSON::XVGSON",
       "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xb4818bb69478730ef4e33cc068dd94278e2766cb": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Satoshi Stablecoin",
+      "address": "0xb4818bb69478730ef4e33cc068dd94278e2766cb",
+      "symbol": "SATUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/37760/thumb/Instagram_post_-_25.png?1715475306",
+      "assetGroup": "Satoshi Stablecoin::SATUSD",
+      "currencyId": "Satoshi Stablecoin::SATUSD",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [

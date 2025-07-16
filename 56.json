@@ -48844,6 +48844,69 @@
       "assetGroup": "pump.fun::PUMP",
       "currencyId": "pump.fun::PUMP",
       "tags": ["debridge"]
+    },
+    "0xbcd9c0c24375f109b216b3486a30f886fffa759f": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "FLOKI",
+      "address": "0xbcd9c0c24375f109b216b3486a30f886fffa759f",
+      "symbol": "FLOKI",
+      "assetGroup": "FLOKI::FLOKI",
+      "currencyId": "FLOKI::FLOKI"
+    },
+    "0xc0c240c870606a5cb3150795e2d0dfff9f1f7456": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Hyperion",
+      "address": "0xc0c240c870606a5cb3150795e2d0dfff9f1f7456",
+      "symbol": "RION",
+      "logoURI": "https://assets.coingecko.com/coins/images/67252/thumb/Hyperion_logo.jpg?1752219706",
+      "assetGroup": "Hyperion::RION",
+      "currencyId": "Hyperion::RION",
+      "tags": ["coingecko"]
+    },
+    "0x834ee470ddb53b9337f07d909b10461c3035bb38": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "Alphaterra",
+      "address": "0x834ee470ddb53b9337f07d909b10461c3035bb38",
+      "symbol": "Alfat",
+      "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x834ee470ddb53b9337f07d909b10461c3035bb38/6e153512cb3bb087b6fef3dc18872130.png",
+      "assetGroup": "Alphaterra::Alfat",
+      "currencyId": "Alphaterra::Alfat"
+    },
+    "0xa71b404f6b35c6ae119d33f1c4885d8ad8b54444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "DARUMA",
+      "address": "0xa71b404f6b35c6ae119d33f1c4885d8ad8b54444",
+      "symbol": "D",
+      "logoURI": "https://assets.coingecko.com/coins/images/67393/thumb/IMG_8828.jpeg?1752662000",
+      "assetGroup": "DARUMA::D",
+      "currencyId": "DARUMA::D",
+      "tags": ["coingecko"]
+    },
+    "0x2826fa2ea984622d5b3f6c38a5090aebc71c7777": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "SAFU",
+      "address": "0x2826fa2ea984622d5b3f6c38a5090aebc71c7777",
+      "symbol": "SAFU",
+      "logoURI": "https://assets.coingecko.com/coins/images/67396/thumb/SAFU_LOGO_%281%29.png?1752673259",
+      "assetGroup": "SAFU::SAFU::56::0",
+      "currencyId": "SAFU::SAFU",
+      "tags": ["coingecko"]
+    },
+    "0xd3e261612e1d0076153c1d1c37585f7dec6aeca5": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Evolve PRO",
+      "address": "0xd3e261612e1d0076153c1d1c37585f7dec6aeca5",
+      "symbol": "EVOP",
+      "logoURI": "https://assets.coingecko.com/coins/images/67407/thumb/20250711_013347.png?1752681286",
+      "assetGroup": "Evolve PRO::EVOP",
+      "currencyId": "Evolve PRO::EVOP",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [

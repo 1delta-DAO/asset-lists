@@ -1136,7 +1136,7 @@
       "logoURI": "https://raw.githubusercontent.com/uniswap/assets/master/blockchains/ethereum/assets/0x18084fbA666a33d37592fA2633fD49a74DD93a88/logo.png",
       "assetGroup": "tBTC::tBTC",
       "currencyId": "tBTC::tBTC",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token", "XLEND"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "XLEND", "COMPOUND_V3_USDC"]
     },
     "0xac1bd2486aaf3b5c0fc3fd868558b082a531b2b4": {
       "chainId": "8453",
@@ -25872,7 +25872,8 @@
       "symbol": "BOLD",
       "logoURI": "https://assets.coingecko.com/coins/images/53755/standard/BOLD_logo.png?1737183873",
       "assetGroup": "BOLD Stablecoin::BOLD",
-      "currencyId": "BOLD Stablecoin::BOLD"
+      "currencyId": "BOLD Stablecoin::BOLD",
+      "tags": ["coingecko"]
     },
     "0x3e2b7d17b980a4ca6f07cd8f1e994e15eec6c46d": {
       "chainId": "8453",
@@ -27161,6 +27162,58 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67379/thumb/IMG_2769_imresizer.png?1752598664",
       "assetGroup": "What The Firkin ::WTF",
       "currencyId": "What The Firkin ::WTF",
+      "tags": ["coingecko", "biconomy-gas-token"]
+    },
+    "0x35c8afb7d3ad01b154a5e8e0f92f31181d101a3d": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Big Tom Coin",
+      "address": "0x35c8afb7d3ad01b154a5e8e0f92f31181d101a3d",
+      "symbol": "BTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/67381/thumb/Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_Untitled_Design_%2821%29.png?1752609345",
+      "assetGroup": "Big Tom Coin::BTC",
+      "currencyId": "Big Tom Coin::BTC",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x7233062d88133b5402d39d62bfa23a1b6c8d0898": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Citadel",
+      "address": "0x7233062d88133b5402d39d62bfa23a1b6c8d0898",
+      "symbol": "FORT",
+      "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/base/0x7233062d88133b5402d39d62bfa23a1b6c8d0898.png",
+      "assetGroup": "Citadel::FORT",
+      "currencyId": "Citadel::FORT"
+    },
+    "0x2af0e90f055c4f0aa5161c81bc0936a256238355": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Felicity Cheng by Virtuals",
+      "address": "0x2af0e90f055c4f0aa5161c81bc0936a256238355",
+      "symbol": "FELICITY",
+      "assetGroup": "Felicity Cheng by Virtuals::FELICITY",
+      "currencyId": "Felicity Cheng by Virtuals::FELICITY"
+    },
+    "0x4444489570afd4261d616df00de1668dad5f8cee": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "PSX",
+      "address": "0x4444489570afd4261d616df00de1668dad5f8cee",
+      "symbol": "PSX",
+      "logoURI": "https://assets.coingecko.com/coins/images/67402/thumb/PSX.jpg?1752679014",
+      "assetGroup": "PSX::PSX",
+      "currencyId": "PSX::PSX",
+      "tags": ["coingecko"]
+    },
+    "0x2a6eb279117bfdcc069c3a272cd3911d88635162": {
+      "chainId": "8453",
+      "decimals": 6,
+      "name": "GCoin",
+      "address": "0x2a6eb279117bfdcc069c3a272cd3911d88635162",
+      "symbol": "GC",
+      "logoURI": "https://assets.coingecko.com/coins/images/52486/thumb/image_1_1.webp?1733429194",
+      "assetGroup": "GCoin::GC",
+      "currencyId": "GCoin::GC",
       "tags": ["coingecko"]
     }
   },
