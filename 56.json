@@ -48907,6 +48907,171 @@
       "assetGroup": "Evolve PRO::EVOP",
       "currencyId": "Evolve PRO::EVOP",
       "tags": ["coingecko"]
+    },
+    "0xe8f1c9804770e11ab73395be54686ad656601e9e": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT Lista collateral BNB 24APR2025",
+      "address": "0xe8f1c9804770e11ab73395be54686ad656601e9e",
+      "symbol": "PT-clisBNB-24APR2025",
+      "assetGroup": "PT Lista collateral BNB 24APR2025::PT-clisBNB-24APR2025",
+      "currencyId": "PT Lista collateral BNB 24APR2025::PT-clisBNB-24APR2025",
+      "tags": ["PENDLE-PT", "VENUS_BNB"]
+    },
+    "0x541b5eeac7d4434c8f87e2d32019d67611179606": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT SolvBTC Babylon 27MAR2025",
+      "address": "0x541b5eeac7d4434c8f87e2d32019d67611179606",
+      "symbol": "PT-SolvBTC.BBN-27MAR2025",
+      "assetGroup": "PT SolvBTC Babylon 27MAR2025::PT-SolvBTC.BBN-27MAR2025",
+      "currencyId": "PT SolvBTC Babylon 27MAR2025::PT-SolvBTC.BBN-27MAR2025",
+      "tags": ["PENDLE-PT", "AVALON_SOLVBTC", "VENUS_BTC"]
+    },
+    "0x20bff4bbeda07536ff00e073bd8359e5d80d733d": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Cannon",
+      "address": "0x20bff4bbeda07536ff00e073bd8359e5d80d733d",
+      "symbol": "CAN",
+      "assetGroup": "Cannon::CAN",
+      "currencyId": "Cannon::CAN",
+      "tags": ["VENUS"]
+    },
+    "0xdd809435ba6c9d6903730f923038801781ca66ce": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT Ethena sUSDE 26JUN2025",
+      "address": "0xdd809435ba6c9d6903730f923038801781ca66ce",
+      "symbol": "PT-sUSDE-26JUN2025",
+      "assetGroup": "PT Ethena sUSDE 26JUN2025::PT-sUSDE-26JUN2025",
+      "currencyId": "PT Ethena sUSDE 26JUN2025::PT-sUSDE-26JUN2025",
+      "tags": ["PENDLE-PT", "VENUS"]
+    },
+    "0xeeaa03ed0aa69fcb6e340d47ffa91a0b3426e1cd": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Kinza Protected Tether USD",
+      "address": "0xeeaa03ed0aa69fcb6e340d47ffa91a0b3426e1cd",
+      "symbol": "pUSDT",
+      "assetGroup": "Kinza Protected Tether USD::pUSDT",
+      "currencyId": "Kinza Protected Tether USD::pUSDT",
+      "tags": ["KINZA"]
+    },
+    "0x45b817b36cadba2c3b6c2427db5b22e2e65400dd": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Kinza Protected USD Coin",
+      "address": "0x45b817b36cadba2c3b6c2427db5b22e2e65400dd",
+      "symbol": "pUSDC",
+      "assetGroup": "Kinza Protected USD Coin::pUSDC",
+      "currencyId": "Kinza Protected USD Coin::pUSDC",
+      "tags": ["KINZA"]
+    },
+    "0xcee8c9ccd07ac0981ef42f80fb63df3cc36f196e": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Kinza Protected Wrapped BNB",
+      "address": "0xcee8c9ccd07ac0981ef42f80fb63df3cc36f196e",
+      "symbol": "pWBNB",
+      "assetGroup": "Kinza Protected Wrapped BNB::pWBNB",
+      "currencyId": "Kinza Protected Wrapped BNB::pWBNB",
+      "tags": ["KINZA"]
+    },
+    "0x2dd73dcc565761b684c56908fa01ac270a03f70f": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Kinza Protected BTCB Token",
+      "address": "0x2dd73dcc565761b684c56908fa01ac270a03f70f",
+      "symbol": "pBTCB",
+      "assetGroup": "Kinza Protected BTCB Token::pBTCB",
+      "currencyId": "Kinza Protected BTCB Token::pBTCB",
+      "tags": ["KINZA"]
+    },
+    "0xf0daf89f387d9d4ac5e3326eadb20e7bec0ffc7c": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Kinza Protected Ethereum Token",
+      "address": "0xf0daf89f387d9d4ac5e3326eadb20e7bec0ffc7c",
+      "symbol": "pETH",
+      "assetGroup": "Kinza Protected Ethereum Token::pETH",
+      "currencyId": "Kinza Protected Ethereum Token::pETH",
+      "tags": ["KINZA"]
+    },
+    "0xba38b3c706f7a515ff7c8db04daa0a134ec46d2b": {
+      "chainId": "56",
+      "decimals": 6,
+      "name": "USELESS COIN",
+      "address": "0xba38b3c706f7a515ff7c8db04daa0a134ec46d2b",
+      "symbol": "USELESS",
+      "assetGroup": "USELESS COIN::USELESS",
+      "currencyId": "USELESS COIN::USELESS"
+    },
+    "0x00312400303d02c323295f6e8b7309bc30fb6bce": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Caldera",
+      "address": "0x00312400303d02c323295f6e8b7309bc30fb6bce",
+      "symbol": "ERA",
+      "logoURI": "https://assets.coingecko.com/coins/images/54475/thumb/Token_Logo.png?1749676251",
+      "assetGroup": "Caldera::ERA",
+      "currencyId": "Caldera::ERA",
+      "tags": ["coingecko"]
+    },
+    "0x8e3f0b0b604bc69ea98a8039ff7884047bc3bd55": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Crypticorn",
+      "address": "0x8e3f0b0b604bc69ea98a8039ff7884047bc3bd55",
+      "symbol": "AIC",
+      "logoURI": "https://assets.coingecko.com/coins/images/67418/thumb/Crypticorn.jpg?1752735341",
+      "assetGroup": "Crypticorn::AIC",
+      "currencyId": "Crypticorn::AIC",
+      "tags": ["coingecko"]
+    },
+    "0xd743d3c50ebd82f9173b599383979d10f3494444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Dark Cheems",
+      "address": "0xd743d3c50ebd82f9173b599383979d10f3494444",
+      "symbol": "TOTAKEKE",
+      "logoURI": "https://assets.coingecko.com/coins/images/67421/thumb/IMG_5536.jpg?1752736626",
+      "assetGroup": "Dark Cheems::TOTAKEKE",
+      "currencyId": "Dark Cheems::TOTAKEKE",
+      "tags": ["coingecko"]
+    },
+    "0xb3d1df1852e7ed3f4d056c7f7d9c0d340a3b78ac": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "SEKA",
+      "address": "0xb3d1df1852e7ed3f4d056c7f7d9c0d340a3b78ac",
+      "symbol": "SEKA",
+      "logoURI": "https://assets.coingecko.com/coins/images/67426/thumb/SEKA_logo_LAST.png?1752739828",
+      "assetGroup": "SEKA::SEKA",
+      "currencyId": "SEKA::SEKA",
+      "tags": ["coingecko"]
+    },
+    "0x64445f0aecc51e94ad52d8ac56b7190e764e561a": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Wrapped FRAX",
+      "address": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+      "symbol": "WFRAX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624",
+      "assetGroup": "Wrapped FRAX::WFRAX",
+      "currencyId": "Wrapped FRAX::WFRAX",
+      "tags": ["coingecko"]
+    },
+    "0x4343e178c37556e708e65c1d7be0cb2537b50d7d": {
+      "chainId": "56",
+      "decimals": 8,
+      "name": "Weecoins",
+      "address": "0x4343e178c37556e708e65c1d7be0cb2537b50d7d",
+      "symbol": "WCS",
+      "logoURI": "https://assets.coingecko.com/coins/images/16655/thumb/weecoins.PNG?1696516215",
+      "assetGroup": "Weecoins::WCS",
+      "currencyId": "Weecoins::WCS",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [

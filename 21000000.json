@@ -182,6 +182,16 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/popcorn.png",
       "assetGroup": "popCORN::POPCORN",
       "currencyId": "popCORN::POPCORN"
+    },
+    "0x657e8c867d8b37dcc18fa4caead9c45eb088c642": {
+      "chainId": "21000000",
+      "decimals": 8,
+      "name": "ether.fi BTC",
+      "address": "0x657e8c867d8b37dcc18fa4caead9c45eb088c642",
+      "symbol": "eBTC",
+      "assetGroup": "ether.fi BTC::eBTC",
+      "currencyId": "ether.fi BTC::eBTC",
+      "tags": ["ZEROLEND"]
     }
   },
   "mainTokens": [

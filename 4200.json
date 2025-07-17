@@ -264,6 +264,106 @@
       "assetGroup": "STONE",
       "currencyId": "StakeStone Ether::STONE",
       "tags": ["coingecko", "AVALON"]
+    },
+    "0x4dcb91cc19aadfe5a6672781eb09abad00c19e4c": {
+      "chainId": "4200",
+      "decimals": 18,
+      "name": "Merlin's Seal sats",
+      "address": "0x4dcb91cc19aadfe5a6672781eb09abad00c19e4c",
+      "symbol": "M-sats",
+      "assetGroup": "Merlin's Seal sats::M-sats",
+      "currencyId": "Merlin's Seal sats::M-sats",
+      "tags": ["AVALON_INNOVATION"]
+    },
+    "0x69181a1f082ea83a152621e4fa527c936abfa501": {
+      "chainId": "4200",
+      "decimals": 18,
+      "name": "Merlin's Seal rats",
+      "address": "0x69181a1f082ea83a152621e4fa527c936abfa501",
+      "symbol": "M-rats",
+      "assetGroup": "Merlin's Seal rats::M-rats",
+      "currencyId": "Merlin's Seal rats::M-rats",
+      "tags": ["AVALON_INNOVATION"]
+    },
+    "0x7126bd63713a7212792b08fa2c39d39190a4cf5b": {
+      "chainId": "4200",
+      "decimals": 18,
+      "name": "Escrow MerlinSwap Token",
+      "address": "0x7126bd63713a7212792b08fa2c39d39190a4cf5b",
+      "symbol": "esMP",
+      "assetGroup": "Escrow MerlinSwap Token::esMP",
+      "currencyId": "Escrow MerlinSwap Token::esMP",
+      "tags": ["AVALON_INNOVATION"]
+    },
+    "0x27622b326ff3ffa7dc10ae291800c3073b55aa39": {
+      "chainId": "4200",
+      "decimals": 18,
+      "name": "Bridged BRC20 MNER",
+      "address": "0x27622b326ff3ffa7dc10ae291800c3073b55aa39",
+      "symbol": "MNER",
+      "assetGroup": "Bridged BRC20 MNER::MNER",
+      "currencyId": "Bridged BRC20 MNER::MNER",
+      "tags": ["bridged", "AVALON_INNOVATION"]
+    },
+    "0x33c70a08d0d427ee916576a7594b50d7f8f3fbe1": {
+      "chainId": "4200",
+      "decimals": 18,
+      "name": "Bridged bsc-20 bnbs",
+      "address": "0x33c70a08d0d427ee916576a7594b50d7f8f3fbe1",
+      "symbol": "BNBS",
+      "assetGroup": "Bridged bsc-20 bnbs::BNBS",
+      "currencyId": "Bridged bsc-20 bnbs::BNBS",
+      "tags": ["bridged", "AVALON_INNOVATION"]
+    },
+    "0x4920fb03f3ea1c189dd216751f8d073dd680a136": {
+      "chainId": "4200",
+      "decimals": 18,
+      "name": "SURF Solv BTC LP TOKEN",
+      "address": "0x4920fb03f3ea1c189dd216751f8d073dd680a136",
+      "symbol": "SolvBTCSLP",
+      "assetGroup": "SURF Solv BTC LP TOKEN::SolvBTCSLP",
+      "currencyId": "SURF Solv BTC LP TOKEN::SolvBTCSLP",
+      "tags": ["AVALON_INNOVATION"]
+    },
+    "0xb00db5faae7682d80ca3ce5019e710ca08bfbd66": {
+      "chainId": "4200",
+      "decimals": 18,
+      "name": "SURF WBTC LP TOKEN",
+      "address": "0xb00db5faae7682d80ca3ce5019e710ca08bfbd66",
+      "symbol": "WBTCSLP",
+      "assetGroup": "SURF WBTC LP TOKEN::WBTCSLP",
+      "currencyId": "SURF WBTC LP TOKEN::WBTCSLP",
+      "tags": ["AVALON_INNOVATION"]
+    },
+    "0xa41a8c64a324cd00cb70c2448697e248ea0b1ff2": {
+      "chainId": "4200",
+      "decimals": 18,
+      "name": "SURF MBTC LP TOKEN",
+      "address": "0xa41a8c64a324cd00cb70c2448697e248ea0b1ff2",
+      "symbol": "MBTCSLP",
+      "assetGroup": "SURF MBTC LP TOKEN::MBTCSLP",
+      "currencyId": "SURF MBTC LP TOKEN::MBTCSLP",
+      "tags": ["AVALON_INNOVATION"]
+    },
+    "0x0726523eba12edad467c55a962842ef358865559": {
+      "chainId": "4200",
+      "decimals": 18,
+      "name": "Merlin's Seal ordi",
+      "address": "0x0726523eba12edad467c55a962842ef358865559",
+      "symbol": "M-ordi",
+      "assetGroup": "Merlin's Seal ordi::M-ordi",
+      "currencyId": "Merlin's Seal ordi::M-ordi",
+      "tags": ["AVALON"]
+    },
+    "0x7dcb50b2180bc896da1200d2726a88af5d2cbb5a": {
+      "chainId": "4200",
+      "decimals": 18,
+      "name": "Bridged BRC20 ordi",
+      "address": "0x7dcb50b2180bc896da1200d2726a88af5d2cbb5a",
+      "symbol": "ordi",
+      "assetGroup": "Bridged BRC20 ordi::ordi",
+      "currencyId": "Bridged BRC20 ordi::ordi",
+      "tags": ["bridged", "AVALON"]
     }
   },
   "mainTokens": [

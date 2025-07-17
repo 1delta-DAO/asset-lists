@@ -270,6 +270,46 @@
       "assetGroup": "SolvBTC.BBN::SolvBTC Babylon",
       "currencyId": "SolvBTC.BBN::SolvBTC Babylon",
       "tags": ["debridge", "AVALON_BOB", "SEGMENT"]
+    },
+    "0x59889b7021243db5b1e065385f918316cd90d46c": {
+      "chainId": "60808",
+      "decimals": 18,
+      "name": "Free Bridged SolvBTC.b",
+      "address": "0x59889b7021243db5b1e065385f918316cd90d46c",
+      "symbol": "SolvBTC.b",
+      "assetGroup": "Free Bridged SolvBTC.b::SolvBTC.b",
+      "currencyId": "Free Bridged SolvBTC.b::SolvBTC.b",
+      "tags": ["bridged", "SEGMENT"]
+    },
+    "0xf7ef136751d7496021858c048ffa4f978c27831a": {
+      "chainId": "60808",
+      "decimals": 18,
+      "name": "Threshold USD",
+      "address": "0xf7ef136751d7496021858c048ffa4f978c27831a",
+      "symbol": "thUSD",
+      "assetGroup": "Threshold USD::thUSD",
+      "currencyId": "Threshold USD::thUSD",
+      "tags": ["SEGMENT"]
+    },
+    "0x1fcca65fb6ae3b2758b9b2b394cb227eae404e1e": {
+      "chainId": "60808",
+      "decimals": 8,
+      "name": "pumpBTC",
+      "address": "0x1fcca65fb6ae3b2758b9b2b394cb227eae404e1e",
+      "symbol": "pumpBTC",
+      "assetGroup": "PUMPBTC",
+      "currencyId": "pumpBTC::pumpBTC",
+      "tags": ["SEGMENT"]
+    },
+    "0x2fece49b79292c2cf6218b2bc657fddfd2941e18": {
+      "chainId": "60808",
+      "decimals": 18,
+      "name": "Segment USD",
+      "address": "0x2fece49b79292c2cf6218b2bc657fddfd2941e18",
+      "symbol": "S1",
+      "assetGroup": "Segment USD::S1",
+      "currencyId": "Segment USD::S1",
+      "tags": ["SEGMENT"]
     }
   },
   "mainTokens": [

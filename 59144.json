@@ -1769,6 +1769,17 @@
       "symbol": "oUSDT",
       "assetGroup": "OpenUSDT::oUSDT",
       "currencyId": "OpenUSDT::oUSDT"
+    },
+    "0x5217ab28ece654aab2c68efedb6a22739df6c3d5": {
+      "chainId": "59144",
+      "decimals": 18,
+      "name": "Wrapped FRAX",
+      "address": "0x5217ab28ece654aab2c68efedb6a22739df6c3d5",
+      "symbol": "WFRAX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624",
+      "assetGroup": "Wrapped FRAX::WFRAX",
+      "currencyId": "Wrapped FRAX::WFRAX",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [

@@ -144,6 +144,46 @@
       "assetGroup": "WBTC",
       "currencyId": "Wrapped BTC::WBTC",
       "tags": ["debridge", "ZEROLEND"]
+    },
+    "0x4b03831043082e3e5191218ad5331e99aaac4a81": {
+      "chainId": "48900",
+      "decimals": 18,
+      "name": "Super Symbiotic LRT",
+      "address": "0x4b03831043082e3e5191218ad5331e99aaac4a81",
+      "symbol": "weETHs",
+      "assetGroup": "Super Symbiotic LRT::weETHs",
+      "currencyId": "Super Symbiotic LRT::weETHs",
+      "tags": ["ZEROLEND"]
+    },
+    "0x1c1fb35334290b5ff1bf7b4c09130885b10fc0f4": {
+      "chainId": "48900",
+      "decimals": 18,
+      "name": "Bridged mstETh",
+      "address": "0x1c1fb35334290b5ff1bf7b4c09130885b10fc0f4",
+      "symbol": "Bridged mstETh",
+      "assetGroup": "Bridged mstETh::Bridged mstETh",
+      "currencyId": "Bridged mstETh::Bridged mstETh",
+      "tags": ["bridged", "ZEROLEND"]
+    },
+    "0x4bcc7c793534246bc18acd3737aa4897ff23b458": {
+      "chainId": "48900",
+      "decimals": 18,
+      "name": "Bridged egETH",
+      "address": "0x4bcc7c793534246bc18acd3737aa4897ff23b458",
+      "symbol": "Bridged egETH",
+      "assetGroup": "Bridged egETH::Bridged egETH",
+      "currencyId": "Bridged egETH::Bridged egETH",
+      "tags": ["bridged", "ZEROLEND"]
+    },
+    "0x4186bfc76e2e237523cbc30fd220fe055156b41f": {
+      "chainId": "48900",
+      "decimals": 18,
+      "name": "KelpDao Restaked ETH",
+      "address": "0x4186bfc76e2e237523cbc30fd220fe055156b41f",
+      "symbol": "rsETH",
+      "assetGroup": "RSETH",
+      "currencyId": "KelpDao Restaked ETH::rsETH",
+      "tags": ["ZEROLEND"]
     }
   },
   "mainTokens": [

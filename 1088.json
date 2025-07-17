@@ -562,6 +562,16 @@
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x4c9edd5852cd905f086c759e8383e09bff1e68b3/1228d6e73f70f37ec1f6fe02a3bbe6ff.png",
       "assetGroup": "USDE",
       "currencyId": "USDe::USDe"
+    },
+    "0x433e43047b95cb83517abd7c9978bdf7005e9938": {
+      "chainId": "1088",
+      "decimals": 8,
+      "name": "WBTC Token",
+      "address": "0x433e43047b95cb83517abd7c9978bdf7005e9938",
+      "symbol": "m.WBTC",
+      "assetGroup": "WBTC Token::m.WBTC",
+      "currencyId": "WBTC Token::m.WBTC",
+      "tags": ["GRANARY"]
     }
   },
   "mainTokens": [

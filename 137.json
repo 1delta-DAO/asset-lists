@@ -26806,6 +26806,45 @@
       "symbol": "BSJ",
       "assetGroup": "BASENJI (PoS)::BSJ",
       "currencyId": "BASENJI (PoS)::BSJ"
+    },
+    "0x7b99506c8e89d5ba835e00e2bc48e118264d44ff": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "STEER_QUICKSWAP_VAULT_536",
+      "address": "0x7b99506c8e89d5ba835e00e2bc48e118264d44ff",
+      "symbol": "STEERQV536",
+      "assetGroup": "STEER_QUICKSWAP_VAULT_536::STEERQV536",
+      "currencyId": "STEER_QUICKSWAP_VAULT_536::STEERQV536",
+      "tags": ["YLDR"]
+    },
+    "0x3974fbdc22741a1632e024192111107b202f214f": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "aUSDC-WETH",
+      "address": "0x3974fbdc22741a1632e024192111107b202f214f",
+      "symbol": "aUSDC-WETH",
+      "assetGroup": "aUSDC-WETH::aUSDC-WETH",
+      "currencyId": "aUSDC-WETH::aUSDC-WETH",
+      "tags": ["YLDR"]
+    },
+    "0x4cb9050ea02395a8941715ceeffe0cdf60c59f07": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Wallstreetbets",
+      "address": "0x4cb9050ea02395a8941715ceeffe0cdf60c59f07",
+      "symbol": "WSB",
+      "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x4cb9050ea02395a8941715ceeffe0cdf60c59f07/2825acc37903a13ed055230987f44317.png",
+      "assetGroup": "Wallstreetbets::WSB",
+      "currencyId": "Wallstreetbets::WSB"
+    },
+    "0xdcffa515620def25d18f8d2c8aeca67f9ad31f58": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "SkyBridge Aviator",
+      "address": "0xdcffa515620def25d18f8d2c8aeca67f9ad31f58",
+      "symbol": "sAVI",
+      "assetGroup": "SkyBridge Aviator::sAVI",
+      "currencyId": "SkyBridge Aviator::sAVI"
     }
   },
   "mainTokens": [

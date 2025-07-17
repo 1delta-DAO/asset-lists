@@ -21854,6 +21854,17 @@
       "assetGroup": "VNX::VNX",
       "currencyId": "VNX::VNX",
       "tags": ["coingecko"]
+    },
+    "0x0fbcbaea96ce0cf7ee00a8c19c3ab6f5dc8e1921": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Wrapped liquid staked Ether 2.0",
+      "address": "0x0fbcbaea96ce0cf7ee00a8c19c3ab6f5dc8e1921",
+      "symbol": "wstETH",
+      "logoURI": "https://cdn.morpho.org/assets/logos/wsteth.svg",
+      "assetGroup": "Wrapped liquid staked Ether 2.0::wstETH",
+      "currencyId": "Wrapped liquid staked Ether 2.0::wstETH",
+      "tags": ["yield", "lst", "eth"]
     }
   },
   "mainTokens": [

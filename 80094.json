@@ -1003,6 +1003,27 @@
       "assetGroup": "Plutus::PLUTUS",
       "currencyId": "Plutus::PLUTUS",
       "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x657e8c867d8b37dcc18fa4caead9c45eb088c642": {
+      "chainId": "80094",
+      "decimals": 8,
+      "name": "ether.fi BTC",
+      "address": "0x657e8c867d8b37dcc18fa4caead9c45eb088c642",
+      "symbol": "eBTC",
+      "assetGroup": "ether.fi BTC::eBTC",
+      "currencyId": "ether.fi BTC::eBTC",
+      "tags": ["ZEROLEND"]
+    },
+    "0x64445f0aecc51e94ad52d8ac56b7190e764e561a": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "Wrapped FRAX",
+      "address": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+      "symbol": "WFRAX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624",
+      "assetGroup": "Wrapped FRAX::WFRAX",
+      "currencyId": "Wrapped FRAX::WFRAX",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [

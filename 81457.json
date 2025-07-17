@@ -2491,6 +2491,96 @@
       "assetGroup": "SUSDE",
       "currencyId": "sUSDe::sUSDe",
       "tags": ["INIT"]
+    },
+    "0x4b246c4c41c4e5ec1d4a8453c313cbc57bf0993a": {
+      "chainId": "81457",
+      "decimals": 26,
+      "name": "USDB Wrapper",
+      "address": "0x4b246c4c41c4e5ec1d4a8453c313cbc57bf0993a",
+      "symbol": "WUSDB",
+      "assetGroup": "USDB Wrapper::WUSDB",
+      "currencyId": "USDB Wrapper::WUSDB",
+      "tags": ["INIT"]
+    },
+    "0xf683ce59521aa464066783d78e40cd9412f33d21": {
+      "chainId": "81457",
+      "decimals": 26,
+      "name": "WETH Wrapper",
+      "address": "0xf683ce59521aa464066783d78e40cd9412f33d21",
+      "symbol": "WWETH",
+      "assetGroup": "WETH Wrapper::WWETH",
+      "currencyId": "WETH Wrapper::WWETH",
+      "tags": ["INIT"]
+    },
+    "0x9be8a40c9cf00fe33fd84eaedaa5c4fe3f04cbc3": {
+      "chainId": "81457",
+      "decimals": 18,
+      "name": "Ring V2",
+      "address": "0x9be8a40c9cf00fe33fd84eaedaa5c4fe3f04cbc3",
+      "symbol": "RING-V2",
+      "assetGroup": "Ring V2::RING-V2",
+      "currencyId": "Ring V2::RING-V2",
+      "tags": ["PAC"]
+    },
+    "0x0872b71efc37cb8dde22b2118de3d800427fdba0": {
+      "chainId": "81457",
+      "decimals": 18,
+      "name": "oEther V2",
+      "address": "0x0872b71efc37cb8dde22b2118de3d800427fdba0",
+      "symbol": "oETH",
+      "assetGroup": "oEther V2::oETH",
+      "currencyId": "oEther V2::oETH",
+      "tags": ["PAC"]
+    },
+    "0x9aecedcd6a82d26f2f86d331b17a1c1676442a87": {
+      "chainId": "81457",
+      "decimals": 18,
+      "name": "Orbit USDB",
+      "address": "0x9aecedcd6a82d26f2f86d331b17a1c1676442a87",
+      "symbol": "oUSDB",
+      "assetGroup": "Orbit USDB::oUSDB",
+      "currencyId": "Orbit USDB::oUSDB",
+      "tags": ["PAC"]
+    },
+    "0x56e0f6df03883611c9762e78d4091e39ad9c420e": {
+      "chainId": "81457",
+      "decimals": 18,
+      "name": "DTX Standard LP Token - USDB",
+      "address": "0x56e0f6df03883611c9762e78d4091e39ad9c420e",
+      "symbol": "SLP-USDB",
+      "assetGroup": "DTX Standard LP Token - USDB::SLP-USDB",
+      "currencyId": "DTX Standard LP Token - USDB::SLP-USDB",
+      "tags": ["PAC"]
+    },
+    "0x3d4621fa5ff784dfb2fcdfd5b293224167f239db": {
+      "chainId": "81457",
+      "decimals": 18,
+      "name": "DTX Standard LP Token - WETH",
+      "address": "0x3d4621fa5ff784dfb2fcdfd5b293224167f239db",
+      "symbol": "SLP-WETH",
+      "assetGroup": "DTX Standard LP Token - WETH::SLP-WETH",
+      "currencyId": "DTX Standard LP Token - WETH::SLP-WETH",
+      "tags": ["PAC"]
+    },
+    "0x12c69bfa3fb3cba75a1defa6e976b87e233fc7df": {
+      "chainId": "81457",
+      "decimals": 18,
+      "name": "Thruster LP",
+      "address": "0x12c69bfa3fb3cba75a1defa6e976b87e233fc7df",
+      "symbol": "T-LP",
+      "assetGroup": "Thruster LP::T-LP",
+      "currencyId": "Thruster LP::T-LP",
+      "tags": ["PAC"]
+    },
+    "0x1a3d9b2fa5c6522c8c071dc07125ce55df90b253": {
+      "chainId": "81457",
+      "decimals": 18,
+      "name": "Duo USD",
+      "address": "0x1a3d9b2fa5c6522c8c071dc07125ce55df90b253",
+      "symbol": "DUSD",
+      "assetGroup": "Duo USD::DUSD",
+      "currencyId": "Duo USD::DUSD",
+      "tags": ["PAC"]
     }
   },
   "mainTokens": [

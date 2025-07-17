@@ -10630,6 +10630,26 @@
       "logoURI": "https://api.swapscanner.io/v0/tokens/0x9c2c65af7dd93d700e73a2ff604bc07a18eaf6f4/icon",
       "assetGroup": "WWBTC::WWBTC",
       "currencyId": "WWBTC::WWBTC"
+    },
+    "0xe4f05a66ec68b54a58b17c22107b02e0232cc817": {
+      "chainId": "8217",
+      "decimals": 18,
+      "name": "Wrapped Klay",
+      "address": "0xe4f05a66ec68b54a58b17c22107b02e0232cc817",
+      "symbol": "WKLAY",
+      "assetGroup": "Wrapped Klay::WKLAY::8217::0",
+      "currencyId": "Wrapped Klay::WKLAY",
+      "tags": ["KLAP", "KLAYBANK"]
+    },
+    "0xe2765f3721dab5f080cf14ace661529e1ab9ade7": {
+      "chainId": "8217",
+      "decimals": 18,
+      "name": "BUSD Token",
+      "address": "0xe2765f3721dab5f080cf14ace661529e1ab9ade7",
+      "symbol": "BUSD",
+      "assetGroup": "BUSD",
+      "currencyId": "BUSD Token::BUSD",
+      "tags": ["KLAP"]
     }
   },
   "mainTokens": [

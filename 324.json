@@ -1673,6 +1673,46 @@
       "logoURI": "https://static.debank.com/image/era_token/logo_url/0xf6d9a093a1c69a152d87e269a7d909e9d76b1815/f4993be7525b6ef51034fc67f26abfa3.png",
       "assetGroup": "Super Launcher::LAUNCH",
       "currencyId": "Super Launcher::LAUNCH"
+    },
+    "0xfd282f16a64c6d304ac05d1a58da15bed0467c71": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "Pepe",
+      "address": "0xfd282f16a64c6d304ac05d1a58da15bed0467c71",
+      "symbol": "PEPE",
+      "assetGroup": "PEPE",
+      "currencyId": "Pepe::PEPE",
+      "tags": ["ZEROLEND"]
+    },
+    "0x4d321cd88c5680ce4f85bb58c578dfe9c2cc1ef6": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "KyberSwap LP USDC.e-USDT",
+      "address": "0x4d321cd88c5680ce4f85bb58c578dfe9c2cc1ef6",
+      "symbol": "KS-LP USDC.e-USDT",
+      "assetGroup": "KyberSwap LP USDC.e-USDT::KS-LP USDC.e-USDT",
+      "currencyId": "KyberSwap LP USDC.e-USDT::KS-LP USDC.e-USDT",
+      "tags": ["ZEROLEND"]
+    },
+    "0x99bbe51be7cce6c8b84883148fd3d12ace5787f2": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "Velocore",
+      "address": "0x99bbe51be7cce6c8b84883148fd3d12ace5787f2",
+      "symbol": "VC",
+      "assetGroup": "Velocore::VC",
+      "currencyId": "Velocore::VC",
+      "tags": ["ZEROLEND"]
+    },
+    "0xad17da2f6ac76746ef261e835c50b2651ce36da8": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "Staked USDe",
+      "address": "0xad17da2f6ac76746ef261e835c50b2651ce36da8",
+      "symbol": "sUSDe",
+      "assetGroup": "SUSDE",
+      "currencyId": "Staked USDe::sUSDe",
+      "tags": ["AAVE_V3"]
     }
   },
   "mainTokens": [

@@ -122,6 +122,16 @@
       "assetGroup": "UNIBTC",
       "currencyId": "uniBTC::uniBTC",
       "tags": ["coingecko"]
+    },
+    "0x1fcca65fb6ae3b2758b9b2b394cb227eae404e1e": {
+      "chainId": "7000",
+      "decimals": 8,
+      "name": "pumpBTC",
+      "address": "0x1fcca65fb6ae3b2758b9b2b394cb227eae404e1e",
+      "symbol": "pumpBTC",
+      "assetGroup": "PUMPBTC",
+      "currencyId": "pumpBTC::pumpBTC",
+      "tags": ["AVALON_PUMPBTC"]
     }
   },
   "mainTokens": [

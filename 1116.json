@@ -896,6 +896,36 @@
       "assetGroup": "AUSD",
       "currencyId": "AUSD::AUSD",
       "tags": ["coingecko"]
+    },
+    "0x5832f53d147b3d6cd4578b9cbd62425c7ea9d0bd": {
+      "chainId": "1116",
+      "decimals": 8,
+      "name": "WBTC",
+      "address": "0x5832f53d147b3d6cd4578b9cbd62425c7ea9d0bd",
+      "symbol": "WBTC",
+      "assetGroup": "WBTC::WBTC",
+      "currencyId": "WBTC::WBTC",
+      "tags": ["COLEND", "AVALON_OBTC", "AVALON_UBTC"]
+    },
+    "0x000734cf9e469bad78c8ec1b0deed83d0a03c1f8": {
+      "chainId": "1116",
+      "decimals": 8,
+      "name": "oBTC",
+      "address": "0x000734cf9e469bad78c8ec1b0deed83d0a03c1f8",
+      "symbol": "oBTC",
+      "assetGroup": "oBTC::oBTC",
+      "currencyId": "oBTC::oBTC",
+      "tags": ["AVALON_OBTC"]
+    },
+    "0x5a2aa871954ebdf89b1547e75d032598356caad5": {
+      "chainId": "1116",
+      "decimals": 8,
+      "name": "pumpBTC",
+      "address": "0x5a2aa871954ebdf89b1547e75d032598356caad5",
+      "symbol": "pumpBTC",
+      "assetGroup": "PUMPBTC",
+      "currencyId": "pumpBTC::pumpBTC",
+      "tags": ["COLEND_LSTBTC"]
     }
   },
   "mainTokens": [
@@ -926,7 +956,9 @@
     "0x1a639e150d2210a4be4a5f0857a9151b241e7ae4",
     "0x30a540b05468a250fcc17da2d9d4aaa84b358ea7",
     "0x0fd98374ee05d059885ba70988ea2d072f6fd981",
-    "0xe9aece1ba8bbd429a1ed33349c61280441ac8f99"
+    "0xe9aece1ba8bbd429a1ed33349c61280441ac8f99",
+    "0x5832f53d147b3d6cd4578b9cbd62425c7ea9d0bd",
+    "0x5a2aa871954ebdf89b1547e75d032598356caad5"
   ],
   "bridgeTokens": [
     "0xdd5d49910c5d475c984ee891a928de6658d2042d",

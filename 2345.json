@@ -1,0 +1,68 @@
+{
+  "chainId": "2345",
+  "version": "0",
+  "list": {
+    "0xe1ad845d93853fff44990ae0dcecd8575293681e": {
+      "chainId": "2345",
+      "decimals": 6,
+      "name": "Bridged stgUSDT",
+      "address": "0xe1ad845d93853fff44990ae0dcecd8575293681e",
+      "symbol": "USDT",
+      "assetGroup": "USDT",
+      "currencyId": "Bridged stgUSDT::USDT",
+      "tags": ["bridged", "AVALON"]
+    },
+    "0x3022b87ac063de95b1570f46f5e470f8b53112d8": {
+      "chainId": "2345",
+      "decimals": 6,
+      "name": "Bridged USDC (Stargate)",
+      "address": "0x3022b87ac063de95b1570f46f5e470f8b53112d8",
+      "symbol": "USDC.e",
+      "assetGroup": "USDC",
+      "currencyId": "Bridged USDC (Stargate)::USDC.e",
+      "tags": ["stargate", "bridged", "AVALON"]
+    },
+    "0xbc10000000000000000000000000000000000000": {
+      "chainId": "2345",
+      "decimals": 18,
+      "name": "Wrapped Goat Bitcoin",
+      "address": "0xbc10000000000000000000000000000000000000",
+      "symbol": "WGBTC",
+      "assetGroup": "Wrapped Goat Bitcoin::WGBTC",
+      "currencyId": "Wrapped Goat Bitcoin::WGBTC",
+      "tags": ["AVALON"]
+    },
+    "0xfe41e7e5cb3460c483ab2a38eb605cda9e2d248e": {
+      "chainId": "2345",
+      "decimals": 18,
+      "name": "BTCB Token",
+      "address": "0xfe41e7e5cb3460c483ab2a38eb605cda9e2d248e",
+      "symbol": "BTCB",
+      "assetGroup": "BTCB Token::BTCB",
+      "currencyId": "BTCB Token::BTCB",
+      "tags": ["AVALON"]
+    },
+    "0x1e0d0303a8c4ad428953f5acb1477db42bb838cf": {
+      "chainId": "2345",
+      "decimals": 18,
+      "name": "GOAT BSC DOGE",
+      "address": "0x1e0d0303a8c4ad428953f5acb1477db42bb838cf",
+      "symbol": "DOGEB",
+      "assetGroup": "GOAT BSC DOGE::DOGEB",
+      "currencyId": "GOAT BSC DOGE::DOGEB",
+      "tags": ["AVALON"]
+    },
+    "0x3a1293bdb83bbbdd5ebf4fac96605ad2021bbc0f": {
+      "chainId": "2345",
+      "decimals": 18,
+      "name": "WETH",
+      "address": "0x3a1293bdb83bbbdd5ebf4fac96605ad2021bbc0f",
+      "symbol": "WETH",
+      "assetGroup": "ETH",
+      "currencyId": "WETH::WETH",
+      "tags": ["AVALON"]
+    }
+  },
+  "mainTokens": ["0xe1ad845d93853fff44990ae0dcecd8575293681e", "0x3a1293bdb83bbbdd5ebf4fac96605ad2021bbc0f"],
+  "bridgeTokens": ["0xe1ad845d93853fff44990ae0dcecd8575293681e", "0x3a1293bdb83bbbdd5ebf4fac96605ad2021bbc0f"]
+}

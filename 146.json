@@ -2200,7 +2200,8 @@
       "symbol": "FXS",
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0/eeccdc91b87a4e2db914d0290eea8e6d.png",
       "assetGroup": "FXS",
-      "currencyId": "Frax Share::FXS"
+      "currencyId": "Frax Share::FXS",
+      "tags": ["coingecko"]
     },
     "0x97a10beebb25e0ebfa55ca0a7d00e37afe957dea": {
       "chainId": "146",
@@ -2295,6 +2296,106 @@
       "assetGroup": "Satoshi Stablecoin::SATUSD",
       "currencyId": "Satoshi Stablecoin::SATUSD",
       "tags": ["coingecko"]
+    },
+    "0x3a7ba84bbe869ed318e654dd9b6ff3cf6d531e91": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Principal Token: sw-wstkscETH-1751241605",
+      "address": "0x3a7ba84bbe869ed318e654dd9b6ff3cf6d531e91",
+      "symbol": "PT-sw-wstkscETH-1751241605",
+      "assetGroup": "Principal Token: sw-wstkscETH-1751241605::PT-sw-wstkscETH-1751241605",
+      "currencyId": "Principal Token: sw-wstkscETH-1751241605::PT-sw-wstkscETH-1751241605",
+      "tags": ["ENCLABS_PT_USD"]
+    },
+    "0x7002383d2305b8f3b2b7786f50c13d132a22076d": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "Principal Token: sw-wstkscUSD-1751241607",
+      "address": "0x7002383d2305b8f3b2b7786f50c13d132a22076d",
+      "symbol": "PT-sw-wstkscUSD-1751241607",
+      "assetGroup": "Principal Token: sw-wstkscUSD-1751241607::PT-sw-wstkscUSD-1751241607",
+      "currencyId": "Principal Token: sw-wstkscUSD-1751241607::PT-sw-wstkscUSD-1751241607",
+      "tags": ["ENCLABS_PT_ETH"]
+    },
+    "0xbe27993204ec64238f71a527b4c4d5f4949034c3": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "PT Wrapped stkscUSD 29MAY2025",
+      "address": "0xbe27993204ec64238f71a527b4c4d5f4949034c3",
+      "symbol": "PT-wstkscUSD-29MAY2025",
+      "assetGroup": "PT Wrapped stkscUSD 29MAY2025::PT-wstkscUSD-29MAY2025",
+      "currencyId": "PT Wrapped stkscUSD 29MAY2025::PT-wstkscUSD-29MAY2025",
+      "tags": ["PENDLE-PT", "ENCLABS"]
+    },
+    "0xd2901d474b351bc6ee7b119f9c920863b0f781b2": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "SJ Yield Token scUSD",
+      "address": "0xd2901d474b351bc6ee7b119f9c920863b0f781b2",
+      "symbol": "YT-scUSD",
+      "assetGroup": "SJ Yield Token scUSD::YT-scUSD",
+      "currencyId": "SJ Yield Token scUSD::YT-scUSD",
+      "tags": ["ENCLABS"]
+    },
+    "0xaaaaaaaac311d0572bffb4772fe985a750e88805": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Wrapped Stability USD",
+      "address": "0xaaaaaaaac311d0572bffb4772fe985a750e88805",
+      "symbol": "wmetaUSD",
+      "assetGroup": "Wrapped Stability USD::wmetaUSD",
+      "currencyId": "Wrapped Stability USD::wmetaUSD",
+      "tags": ["ENCLABS"]
+    },
+    "0x57203a8aec5c03dd48050cd599deb24ba669ad95": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "Enclabs Trevee VeUSD",
+      "address": "0x57203a8aec5c03dd48050cd599deb24ba669ad95",
+      "symbol": "enclabsVeUSD",
+      "assetGroup": "Enclabs Trevee VeUSD::enclabsVeUSD",
+      "currencyId": "Enclabs Trevee VeUSD::enclabsVeUSD",
+      "tags": ["ENCLABS"]
+    },
+    "0xd02962dc00a058a00fc07a8aa9f760ab6d9bd163": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "Enclabs Trevee VeUSD",
+      "address": "0xd02962dc00a058a00fc07a8aa9f760ab6d9bd163",
+      "symbol": "enclabsVeUSD",
+      "assetGroup": "Enclabs Trevee VeUSD::enclabsVeUSD::146::0",
+      "currencyId": "Enclabs Trevee VeUSD::enclabsVeUSD",
+      "tags": ["ENCLABS"]
+    },
+    "0xb9ea44d1aa76d5cfd475c2800e186d3dea2141a4": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Enclabs Trevee VeETH",
+      "address": "0xb9ea44d1aa76d5cfd475c2800e186d3dea2141a4",
+      "symbol": "enclabsVeETH",
+      "assetGroup": "Enclabs Trevee VeETH::enclabsVeETH",
+      "currencyId": "Enclabs Trevee VeETH::enclabsVeETH",
+      "tags": ["ENCLABS"]
+    },
+    "0x0525cb0064efff807fd0cd231544b9208fc215a9": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Chips USD",
+      "address": "0x0525cb0064efff807fd0cd231544b9208fc215a9",
+      "symbol": "cUSD",
+      "assetGroup": "Chips USD::cUSD",
+      "currencyId": "Chips USD::cUSD",
+      "tags": ["MAGSIN"]
+    },
+    "0x5ba1d96907b075c490f641bd30551e1af9c40721": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Chips USD",
+      "address": "0x5ba1d96907b075c490f641bd30551e1af9c40721",
+      "symbol": "cUSD",
+      "assetGroup": "Chips USD::cUSD::146::0",
+      "currencyId": "Chips USD::cUSD",
+      "tags": ["MAGSIN"]
     }
   },
   "mainTokens": [

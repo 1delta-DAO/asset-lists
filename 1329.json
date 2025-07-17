@@ -393,7 +393,8 @@
       "symbol": "FXS",
       "logoURI": "https://static.debank.com/image/sei_token/logo_url/0x64445f0aecc51e94ad52d8ac56b7190e764e561a/612e73622330e163485b6b1835d4714e.png",
       "assetGroup": "FXS",
-      "currencyId": "Frax Share::FXS"
+      "currencyId": "Frax Share::FXS",
+      "tags": ["coingecko"]
     },
     "0x372b2dc06478aa2c8182eee0f12ea0e9a15e2913": {
       "chainId": "1329",
@@ -426,6 +427,26 @@
       "assetGroup": "DragonSwap::DRG",
       "currencyId": "DragonSwap::DRG",
       "tags": ["coingecko"]
+    },
+    "0x6ab5d5e96ac59f66bab57450275cc16961219796": {
+      "chainId": "1329",
+      "decimals": 18,
+      "name": "sUSDa",
+      "address": "0x6ab5d5e96ac59f66bab57450275cc16961219796",
+      "symbol": "sUSDa",
+      "assetGroup": "SUSDA",
+      "currencyId": "sUSDa::sUSDa",
+      "tags": ["AVALON_USDA"]
+    },
+    "0xff12470a969dd362eb6595ffb44c82c959fe9acc": {
+      "chainId": "1329",
+      "decimals": 18,
+      "name": "USDa",
+      "address": "0xff12470a969dd362eb6595ffb44c82c959fe9acc",
+      "symbol": "USDa",
+      "assetGroup": "USDa::USDa",
+      "currencyId": "USDa::USDa",
+      "tags": ["AVALON_USDA"]
     }
   },
   "mainTokens": [

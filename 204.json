@@ -177,6 +177,26 @@
       "assetGroup": "Wild Goat Coin::WGC",
       "currencyId": "Wild Goat Coin::WGC",
       "tags": ["coingecko"]
+    },
+    "0x50c5725949a6f0c72e6c4a641f24049a917db0cb": {
+      "chainId": "204",
+      "decimals": 18,
+      "name": "First Digital USD",
+      "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
+      "symbol": "FDUSD",
+      "assetGroup": "FDUSD",
+      "currencyId": "First Digital USD::FDUSD",
+      "tags": ["VENUS", "SEGMENT"]
+    },
+    "0x7c6b91d9be155a6db01f749217d76ff02a7227f2": {
+      "chainId": "204",
+      "decimals": 18,
+      "name": "BTCB Token",
+      "address": "0x7c6b91d9be155a6db01f749217d76ff02a7227f2",
+      "symbol": "BTCB",
+      "assetGroup": "BTCB Token::BTCB",
+      "currencyId": "BTCB Token::BTCB",
+      "tags": ["VENUS", "SEGMENT"]
     }
   },
   "mainTokens": [

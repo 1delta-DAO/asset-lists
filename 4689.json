@@ -307,6 +307,36 @@
       "assetGroup": "Bridged Tether::IOUSDT",
       "currencyId": "Bridged Tether::IOUSDT",
       "tags": ["bridged", "AVALON_UNIBTC", "AVALON", "coingecko"]
+    },
+    "0x236f8c0a61da474db21b693fb2ea7aab0c803894": {
+      "chainId": "4689",
+      "decimals": 18,
+      "name": "Universal IOTX",
+      "address": "0x236f8c0a61da474db21b693fb2ea7aab0c803894",
+      "symbol": "uniIOTX",
+      "assetGroup": "Universal IOTX::uniIOTX",
+      "currencyId": "Universal IOTX::uniIOTX",
+      "tags": ["AVALON_UNILOTX"]
+    },
+    "0x2d9526e2cabd30c6e8f89ea60d230503c59c6603": {
+      "chainId": "4689",
+      "decimals": 18,
+      "name": "USDa",
+      "address": "0x2d9526e2cabd30c6e8f89ea60d230503c59c6603",
+      "symbol": "USDa",
+      "assetGroup": "USDa::USDa",
+      "currencyId": "USDa::USDa",
+      "tags": ["AVALON_USDA"]
+    },
+    "0xcdf79194c6c285077a58da47641d4dbe51f63542": {
+      "chainId": "4689",
+      "decimals": 6,
+      "name": "Bridged USDC",
+      "address": "0xcdf79194c6c285077a58da47641d4dbe51f63542",
+      "symbol": "USDC.e",
+      "assetGroup": "USDC",
+      "currencyId": "Bridged USDC::USDC.e",
+      "tags": ["bridged", "AVALON"]
     }
   },
   "mainTokens": [
