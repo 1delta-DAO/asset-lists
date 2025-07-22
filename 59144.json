@@ -1650,9 +1650,10 @@
       "name": "Alchemix ETH",
       "address": "0x303241e2b3b4aed0bb0f8623e7442368fed8faf3",
       "symbol": "alETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/16271/thumb/aleth.png?1696515869",
       "assetGroup": "Alchemix ETH::alETH",
       "currencyId": "Alchemix ETH::alETH",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0xb171ef5cd8d320d52f257924a0e0d41e6f5c40d9": {
       "chainId": "59144",
@@ -1779,7 +1780,18 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624",
       "assetGroup": "Wrapped FRAX::WFRAX",
       "currencyId": "Wrapped FRAX::WFRAX",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
+    },
+    "0x539ae81a166e5e80aed211731563e549c411b140": {
+      "chainId": "59144",
+      "decimals": 18,
+      "name": "Trusta AI",
+      "address": "0x539ae81a166e5e80aed211731563e549c411b140",
+      "symbol": "TA",
+      "logoURI": "https://assets.coingecko.com/coins/images/67453/thumb/trusta.jpg?1752832178",
+      "assetGroup": "Trusta AI::TA",
+      "currencyId": "Trusta AI::TA",
+      "tags": ["biconomy-gas-token", "coingecko"]
     }
   },
   "mainTokens": [

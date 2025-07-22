@@ -2153,7 +2153,8 @@
       "symbol": "Anon",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C/logo.png",
       "assetGroup": "ANON",
-      "currencyId": "HeyAnon::Anon"
+      "currencyId": "HeyAnon::Anon",
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x4269b4d1f9d195b3a248e39bcc052958e91544f8": {
       "chainId": "43114",
@@ -6573,7 +6574,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x580d5e1399157fd0d58218b7a514b60974f2ab01.png",
       "assetGroup": "Staked UTY::yUTY",
       "currencyId": "Staked UTY::yUTY",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xe80772eaf6e2e18b651f160bc9158b2a5cafca65": {
       "chainId": "43114",
@@ -8409,8 +8410,10 @@
       "name": "MXNB",
       "address": "0xf197ffc28c23e0309b5559e7a166f2c6164c80aa",
       "symbol": "MXNB",
+      "logoURI": "https://assets.coingecko.com/coins/images/39136/thumb/MNXB_Logo.png?1746088156",
       "assetGroup": "MXNB::MXNB",
-      "currencyId": "MXNB::MXNB"
+      "currencyId": "MXNB::MXNB",
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x3ec3849c33291a9ef4c5db86de593eb4a37fde45": {
       "chainId": "43114",
@@ -8647,7 +8650,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfc421ad3c883bf9e7c4f42de845c4e4405799e73.png",
       "assetGroup": "GHO",
       "currencyId": "Gho Token::GHO",
-      "tags": ["AAVE_V3"]
+      "tags": ["AAVE_V3", "biconomy-gas-token", "coingecko"]
     },
     "0x2775d5105276781b4b85ba6ea6a6653beed1dd32": {
       "chainId": "43114",
@@ -8791,7 +8794,117 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67389/thumb/black.jpg?1752638424",
       "assetGroup": "Blackhole::BLACK",
       "currencyId": "Blackhole::BLACK",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
+    },
+    "0xdae17b65718bc4fc306aaa4fa64c8ad2cc4b7d97": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Galaxy Lab",
+      "address": "0xdae17b65718bc4fc306aaa4fa64c8ad2cc4b7d97",
+      "symbol": "GAGA",
+      "logoURI": "https://assets.coingecko.com/coins/images/67463/thumb/gaga200x200.png?1752867279",
+      "assetGroup": "Galaxy Lab::GAGA",
+      "currencyId": "Galaxy Lab::GAGA",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xd4423795fd904d9b87554940a95fb7016f172773": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "AI Network",
+      "address": "0xd4423795fd904d9b87554940a95fb7016f172773",
+      "symbol": "AIN",
+      "logoURI": "https://assets.coingecko.com/coins/images/13211/thumb/AI_Network_Logo_200x200.png?1696512991",
+      "assetGroup": "AI Network::AIN",
+      "currencyId": "AI Network::AIN",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x09fa58228bb791ea355c90da1e4783452b9bd8c3": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "SuperVerse",
+      "address": "0x09fa58228bb791ea355c90da1e4783452b9bd8c3",
+      "symbol": "SUPER",
+      "logoURI": "https://assets.coingecko.com/coins/images/14040/thumb/SV-Logo-200x200.png?1706880312",
+      "assetGroup": "SuperVerse::SUPER",
+      "currencyId": "SuperVerse::SUPER",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x9209e7ebd056d72c5996220e99df6049253debcf": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Meow",
+      "address": "0x9209e7ebd056d72c5996220e99df6049253debcf",
+      "symbol": "MEOW",
+      "logoURI": "https://assets.coingecko.com/coins/images/67516/thumb/meow.jpg?1753072849",
+      "assetGroup": "Meow::MEOW",
+      "currencyId": "Meow::MEOW",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xe061aa40be525a13296cb4bf69f513242349d708": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "XVGAVA",
+      "address": "0xe061aa40be525a13296cb4bf69f513242349d708",
+      "symbol": "XVGAVA",
+      "logoURI": "https://assets.coingecko.com/coins/images/67497/thumb/xvgava-200x200.png?1752991211",
+      "assetGroup": "XVGAVA::XVGAVA",
+      "currencyId": "XVGAVA::XVGAVA",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x67ea3abd5cee0b99d743155051c191b09135f93c": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Aesyx Dollar",
+      "address": "0x67ea3abd5cee0b99d743155051c191b09135f93c",
+      "symbol": "AXD",
+      "logoURI": "https://assets.coingecko.com/coins/images/67499/thumb/axd.jpg?1753012191",
+      "assetGroup": "Aesyx Dollar::AXD",
+      "currencyId": "Aesyx Dollar::AXD",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x6edac263561da41ade155a992759260fafb87b43": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Vertical AI",
+      "address": "0x6edac263561da41ade155a992759260fafb87b43",
+      "symbol": "VERTAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/51520/thumb/favicon.png?1731449166",
+      "assetGroup": "Vertical AI::VERTAI",
+      "currencyId": "Vertical AI::VERTAI",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x5c09a9ce08c4b332ef1cc5f7cadb1158c32767ce": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Fantom Bomb",
+      "address": "0x5c09a9ce08c4b332ef1cc5f7cadb1158c32767ce",
+      "symbol": "FBOMB",
+      "logoURI": "https://assets.coingecko.com/coins/images/24109/thumb/fBomb_Brandmark_BlackBlue_%282%29.png?1751872081",
+      "assetGroup": "FBOMB",
+      "currencyId": "Fantom Bomb::FBOMB",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x6aa38edd7f32a28b7b2c2dc86fc5b0bf2ae61579": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Super Champs",
+      "address": "0x6aa38edd7f32a28b7b2c2dc86fc5b0bf2ae61579",
+      "symbol": "CHAMP",
+      "logoURI": "https://assets.coingecko.com/coins/images/51900/thumb/CHAMP_Token_256x256.png?1732131989",
+      "assetGroup": "Super Champs::CHAMP",
+      "currencyId": "Super Champs::CHAMP",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x153374c6d6786b6ca2c4bc96f9c3a471428f2bc7": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Wilder World",
+      "address": "0x153374c6d6786b6ca2c4bc96f9c3a471428f2bc7",
+      "symbol": "WILD",
+      "logoURI": "https://assets.coingecko.com/coins/images/15407/thumb/wld-logo.png?1712273448",
+      "assetGroup": "Wilder World::WILD",
+      "currencyId": "Wilder World::WILD",
+      "tags": ["biconomy-gas-token", "coingecko"]
     }
   },
   "mainTokens": [

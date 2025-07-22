@@ -21853,7 +21853,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55605/thumb/VNX_Token_Icon.png?1746858432",
       "assetGroup": "VNX::VNX",
       "currencyId": "VNX::VNX",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x0fbcbaea96ce0cf7ee00a8c19c3ab6f5dc8e1921": {
       "chainId": "42161",
@@ -21865,6 +21865,81 @@
       "assetGroup": "Wrapped liquid staked Ether 2.0::wstETH",
       "currencyId": "Wrapped liquid staked Ether 2.0::wstETH",
       "tags": ["yield", "lst", "eth"]
+    },
+    "0xa891b374942cde9061e044c1d19c5b5de06a68e1": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "KardiaChain",
+      "address": "0xa891b374942cde9061e044c1d19c5b5de06a68e1",
+      "symbol": "KAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/7942/thumb/profile_pic_scaled.png?1752155266",
+      "assetGroup": "KardiaChain::KAI",
+      "currencyId": "KardiaChain::KAI",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x6ba19ee69d5dde3ab70185c801fa404f66fedb58": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Kinto",
+      "address": "0x6ba19ee69d5dde3ab70185c801fa404f66fedb58",
+      "symbol": "K",
+      "logoURI": "https://assets.coingecko.com/coins/images/54964/thumb/k200.png?1742894885",
+      "assetGroup": "Kinto::K::42161::0",
+      "currencyId": "Kinto::K",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x46850ad61c2b7d64d08c9c754f45254596696984": {
+      "chainId": "42161",
+      "decimals": 6,
+      "name": "PayPal USD",
+      "address": "0x46850ad61c2b7d64d08c9c754f45254596696984",
+      "symbol": "PYUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/31212/thumb/PYUSD_Logo_%282%29.png?1696530039",
+      "assetGroup": "PayPal USD::PYUSD",
+      "currencyId": "PayPal USD::PYUSD",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xf0d43f46cea02bbb5e616bf6d795d4f8719cd80d": {
+      "chainId": "42161",
+      "decimals": 9,
+      "name": "ZELEBOBA",
+      "address": "0xf0d43f46cea02bbb5e616bf6d795d4f8719cd80d",
+      "symbol": "ZELEBOBA",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/zeleboba.png",
+      "assetGroup": "ZELEBOBA::ZELEBOBA",
+      "currencyId": "ZELEBOBA::ZELEBOBA"
+    },
+    "0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Rezerve.money",
+      "address": "0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5",
+      "symbol": "RZR",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/rezerve.png",
+      "assetGroup": "Rezerve.money::RZR",
+      "currencyId": "Rezerve.money::RZR"
+    },
+    "0x30a538effd91acefb1b12ce9bc0074ed18c9dfc9": {
+      "chainId": "42161",
+      "decimals": 9,
+      "name": "Talos",
+      "address": "0x30a538effd91acefb1b12ce9bc0074ed18c9dfc9",
+      "symbol": "T",
+      "logoURI": "https://assets.coingecko.com/coins/images/67570/thumb/talos.jpg?1753181426",
+      "assetGroup": "Talos::T",
+      "currencyId": "Talos::T",
+      "tags": ["coingecko"]
+    },
+    "0xd4423795fd904d9b87554940a95fb7016f172773": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "AI Network",
+      "address": "0xd4423795fd904d9b87554940a95fb7016f172773",
+      "symbol": "AIN",
+      "logoURI": "https://assets.coingecko.com/coins/images/13211/thumb/AI_Network_Logo_200x200.png?1696512991",
+      "assetGroup": "AI Network::AIN",
+      "currencyId": "AI Network::AIN",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [

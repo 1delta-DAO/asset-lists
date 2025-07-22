@@ -26843,8 +26843,50 @@
       "name": "SkyBridge Aviator",
       "address": "0xdcffa515620def25d18f8d2c8aeca67f9ad31f58",
       "symbol": "sAVI",
+      "logoURI": "https://assets.coingecko.com/coins/images/31024/thumb/avi-200x200png.png?1711119363",
       "assetGroup": "SkyBridge Aviator::sAVI",
-      "currencyId": "SkyBridge Aviator::sAVI"
+      "currencyId": "SkyBridge Aviator::sAVI",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x10961d03c3c98f981d445681a4e30847a5541227": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "STBL Gold",
+      "address": "0x10961d03c3c98f981d445681a4e30847a5541227",
+      "symbol": "STBLG",
+      "logoURI": "https://assets.coingecko.com/coins/images/67494/thumb/stbl-gold-200x200.png?1752990075",
+      "assetGroup": "STBL Gold::STBLG",
+      "currencyId": "STBL Gold::STBLG",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x3e15cd00b456b0fb33827e3c9b49952bb0ec126c": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Hibiki Utility Token",
+      "address": "0x3e15cd00b456b0fb33827e3c9b49952bb0ec126c",
+      "symbol": "HUT",
+      "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x3e15cd00b456b0fb33827e3c9b49952bb0ec126c/255d7f932e17b68bf700c14f9848e872.png",
+      "assetGroup": "Hibiki Utility Token::HUT",
+      "currencyId": "Hibiki Utility Token::HUT"
+    },
+    "0x04ae4ae7f9af802de5a2da9561948f6f24d4b043": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "BoughtThe.top",
+      "address": "0x04ae4ae7f9af802de5a2da9561948f6f24d4b043",
+      "symbol": "BTT",
+      "assetGroup": "BoughtThe.top::BTT",
+      "currencyId": "BoughtThe.top::BTT"
+    },
+    "0xd4423795fd904d9b87554940a95fb7016f172773": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "AI Network",
+      "address": "0xd4423795fd904d9b87554940a95fb7016f172773",
+      "symbol": "AIN",
+      "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/polygon/0xd4423795fd904d9b87554940a95fb7016f172773.png",
+      "assetGroup": "AI Network::AIN",
+      "currencyId": "AI Network::AIN"
     }
   },
   "mainTokens": [

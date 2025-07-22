@@ -447,6 +447,28 @@
       "assetGroup": "USDa::USDa",
       "currencyId": "USDa::USDa",
       "tags": ["AVALON_USDA"]
+    },
+    "0xe15fc38f6d8c56af07bbcbe3baf5708a2bf42392": {
+      "chainId": "1329",
+      "decimals": 6,
+      "name": "USDC",
+      "address": "0xe15fc38f6d8c56af07bbcbe3baf5708a2bf42392",
+      "symbol": "USDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/usdc.png?1696506694",
+      "assetGroup": "USDC",
+      "currencyId": "USDC::USDC",
+      "tags": ["coingecko"]
+    },
+    "0x481fe356df88169f5f38203dd7f3c67b7559fda5": {
+      "chainId": "1329",
+      "decimals": 18,
+      "name": "Raiinmaker",
+      "address": "0x481fe356df88169f5f38203dd7f3c67b7559fda5",
+      "symbol": "RAIIN",
+      "logoURI": "https://assets.coingecko.com/coins/images/67517/thumb/raiin.png?1753077955",
+      "assetGroup": "Raiinmaker::RAIIN",
+      "currencyId": "Raiinmaker::RAIIN",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [

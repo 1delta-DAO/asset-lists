@@ -16834,7 +16834,7 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/mseth.svg",
       "assetGroup": "Metronome Synth ETH::msETH",
       "currencyId": "Metronome Synth ETH::msETH",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x59aaf835d34b1e3df2170e4872b785f11e2a964b": {
       "chainId": "8453",
@@ -22150,7 +22150,7 @@
       "logoURI": "https://static.debank.com/image/base_token/logo_url/0x88a78c5035bdc8c9a8bb5c029e6cfcdd14b822fe/3657f8212d5bea53647f7f2b110ba603.png",
       "assetGroup": "Froggi::$froggi",
       "currencyId": "Froggi::$froggi",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x7de95f41c4b3dc5161df94cf3711b7e673e62e6d": {
       "chainId": "8453",
@@ -22920,7 +22920,7 @@
       "logoURI": "https://static.debank.com/image/base_token/logo_url/0xaf6b42a3fe548c0ce73269235817fd47d8c149cd/cdef8d6c03b974477937de0bad40061f.png",
       "assetGroup": "LUMPY::LUMPY",
       "currencyId": "LUMPY::LUMPY",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x5420716b499bbaf431215688dcb45e898276f1c5": {
       "chainId": "8453",
@@ -23292,7 +23292,7 @@
       "logoURI": "https://static.debank.com/image/base_token/logo_url/0xd461a534af11ef58e9f9add73129a1f45485a8dc/8cbad725cd6fcf0ac30032bf08afb84e.png",
       "assetGroup": "Kevin::KEVIN",
       "currencyId": "Kevin::KEVIN",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x6745bd10c2b5524842a58d1e3b83d90bdaf4fafc": {
       "chainId": "8453",
@@ -24490,9 +24490,10 @@
       "name": "SigmaGyattOhioFanumSkibidiGooner",
       "address": "0x58d6e314755c2668f3d7358cc7a7a06c4314b238",
       "symbol": "Rizz",
+      "logoURI": "https://assets.coingecko.com/coins/images/67475/thumb/Screenshot_2025-07-17_at_3.20.59%E2%80%AFPM.png?1752898917",
       "assetGroup": "SigmaGyattOhioFanumSkibidiGooner::Rizz",
       "currencyId": "SigmaGyattOhioFanumSkibidiGooner::Rizz",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x9f43d83950ee387443d1f1765065d461e7ef42f3": {
       "chainId": "8453",
@@ -25873,7 +25874,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/53755/standard/BOLD_logo.png?1737183873",
       "assetGroup": "BOLD Stablecoin::BOLD",
       "currencyId": "BOLD Stablecoin::BOLD",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x3e2b7d17b980a4ca6f07cd8f1e994e15eec6c46d": {
       "chainId": "8453",
@@ -27203,7 +27204,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67402/thumb/PSX.jpg?1752679014",
       "assetGroup": "PSX::PSX",
       "currencyId": "PSX::PSX",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x2a6eb279117bfdcc069c3a272cd3911d88635162": {
       "chainId": "8453",
@@ -27214,7 +27215,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/52486/thumb/image_1_1.webp?1733429194",
       "assetGroup": "GCoin::GC",
       "currencyId": "GCoin::GC",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x0ceac003b0d2479bebec9f4b2ebad0a803759bbf": {
       "chainId": "8453",
@@ -27225,6 +27226,226 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624",
       "assetGroup": "Wrapped FRAX::WFRAX",
       "currencyId": "Wrapped FRAX::WFRAX",
+      "tags": ["coingecko", "biconomy-gas-token"]
+    },
+    "0xdf0e063a72bf51768402ca7f7fe39cb4a4c6ff43": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "REI AI by Virtuals",
+      "address": "0xdf0e063a72bf51768402ca7f7fe39cb4a4c6ff43",
+      "symbol": "REI",
+      "logoURI": "https://assets.coingecko.com/coins/images/67435/thumb/REI5-removebg-preview_%281%29.png?1752777627",
+      "assetGroup": "REI AI by Virtuals::REI",
+      "currencyId": "REI AI by Virtuals::REI",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x3eea5eed99dd064c0629f18b8eea51270d5910eb": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Rizzy",
+      "address": "0x3eea5eed99dd064c0629f18b8eea51270d5910eb",
+      "symbol": "RIZZY",
+      "logoURI": "https://assets.coingecko.com/coins/images/67437/thumb/ng3mjua3fhmlb4xow8q0oji73z9p.?1752789587",
+      "assetGroup": "Rizzy::RIZZY",
+      "currencyId": "Rizzy::RIZZY",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x3489256febdb1dc930dc3743617ad387cd6d3568": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "GraphAI",
+      "address": "0x3489256febdb1dc930dc3743617ad387cd6d3568",
+      "symbol": "GAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/67449/thumb/Screenshot_2025-07-16_alle_16.13.12.png?1752818029",
+      "assetGroup": "GraphAI::GAI",
+      "currencyId": "GraphAI::GAI",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x2c55d571b6355415cf503f3b6d759231312cd520": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Xpunk Labs",
+      "address": "0x2c55d571b6355415cf503f3b6d759231312cd520",
+      "symbol": "XPUNK",
+      "logoURI": "https://assets.coingecko.com/coins/images/67461/thumb/XPUNK.png?1752867014",
+      "assetGroup": "Xpunk Labs::XPUNK",
+      "currencyId": "Xpunk Labs::XPUNK",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xd4423795fd904d9b87554940a95fb7016f172773": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "AI Network",
+      "address": "0xd4423795fd904d9b87554940a95fb7016f172773",
+      "symbol": "AIN",
+      "logoURI": "https://assets.coingecko.com/coins/images/13211/thumb/AI_Network_Logo_200x200.png?1696512991",
+      "assetGroup": "AI Network::AIN",
+      "currencyId": "AI Network::AIN",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xff1c3e5e98dd709eaffed63a3f8b817e80209e10": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Coach Bucko",
+      "address": "0xff1c3e5e98dd709eaffed63a3f8b817e80209e10",
+      "symbol": "BUCKO",
+      "logoURI": "https://assets.coingecko.com/coins/images/67540/thumb/ChatGPT_Image_Jun_30__2025__10_59_58_PM.png?1753130287",
+      "assetGroup": "Coach Bucko::BUCKO",
+      "currencyId": "Coach Bucko::BUCKO",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xd0924fa4c6ba194294a414d0fb826739ded98b24": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "aibrk",
+      "address": "0xd0924fa4c6ba194294a414d0fb826739ded98b24",
+      "symbol": "AIBRK",
+      "logoURI": "https://assets.coingecko.com/coins/images/67481/thumb/aibrk_headshot.png?1752922585",
+      "assetGroup": "aibrk::AIBRK",
+      "currencyId": "aibrk::AIBRK",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x024fb52e5b7b7a2baf4c6e7632317d9029d54b6c": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "ChadFi",
+      "address": "0x024fb52e5b7b7a2baf4c6e7632317d9029d54b6c",
+      "symbol": "CHADFI",
+      "logoURI": "https://assets.coingecko.com/coins/images/67545/thumb/CoinGecko_Logo_512.png?1753132105",
+      "assetGroup": "ChadFi::CHADFI",
+      "currencyId": "ChadFi::CHADFI",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x60a5aa13d4c3046cf75e05ee1d5ce59025be000c": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Raiinmaker",
+      "address": "0x60a5aa13d4c3046cf75e05ee1d5ce59025be000c",
+      "symbol": "RAIIN",
+      "logoURI": "https://assets.coingecko.com/coins/images/67517/thumb/raiin.png?1753077955",
+      "assetGroup": "Raiinmaker::RAIIN",
+      "currencyId": "Raiinmaker::RAIIN",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x3313338fe4bb2a166b81483bfcb2d4a6a1ebba8d": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "jungle bay memes",
+      "address": "0x3313338fe4bb2a166b81483bfcb2d4a6a1ebba8d",
+      "symbol": "JBM",
+      "logoURI": "https://assets.coingecko.com/coins/images/67496/thumb/ISIMG-833774.jpg?1752990582",
+      "assetGroup": "jungle bay memes::JBM",
+      "currencyId": "jungle bay memes::JBM",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x948d07d30400518f2c57ba24bafbb1d71f9c2b07": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "chatr",
+      "address": "0x948d07d30400518f2c57ba24bafbb1d71f9c2b07",
+      "symbol": "CHATR",
+      "logoURI": "https://assets.coingecko.com/coins/images/67509/thumb/tfwtizl0z56blb5buaeelafujx2t.?1753016485",
+      "assetGroup": "chatr::CHATR",
+      "currencyId": "chatr::CHATR",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x6d96f18f00b815b2109a3766e79f6a7ad7785624": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Patience Token",
+      "address": "0x6d96f18f00b815b2109a3766e79f6a7ad7785624",
+      "symbol": "PATIENCE",
+      "logoURI": "https://assets.coingecko.com/coins/images/67543/thumb/patience.png?1753131513",
+      "assetGroup": "Patience Token::PATIENCE",
+      "currencyId": "Patience Token::PATIENCE",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xc7167e360bd63696a7870c0ef66939e882249f20": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Retail DAO",
+      "address": "0xc7167e360bd63696a7870c0ef66939e882249f20",
+      "symbol": "RETAIL",
+      "logoURI": "https://assets.coingecko.com/coins/images/67470/thumb/Retail_DAO_logo.png?1752895988",
+      "assetGroup": "Retail DAO::RETAIL",
+      "currencyId": "Retail DAO::RETAIL",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x0d3d122b7fecbe38deb42c1d0c64e2e35a891b07": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Yachtcoin",
+      "address": "0x0d3d122b7fecbe38deb42c1d0c64e2e35a891b07",
+      "symbol": "YACHT",
+      "logoURI": "https://assets.coingecko.com/coins/images/67478/thumb/IMG_2130.png?1752900189",
+      "assetGroup": "Yachtcoin::YACHT",
+      "currencyId": "Yachtcoin::YACHT",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x1e339a1785b8114eef43e471c49c6ca327479aca": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Bingo",
+      "address": "0x1e339a1785b8114eef43e471c49c6ca327479aca",
+      "symbol": "BINGO",
+      "logoURI": "https://assets.coingecko.com/coins/images/67539/thumb/Untitled_Artwork_2.JPG?1753129707",
+      "assetGroup": "Bingo::BINGO",
+      "currencyId": "Bingo::BINGO",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xa992ffb0c9b753307b9704079c61db4e405deffd": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Alliance Games",
+      "address": "0xa992ffb0c9b753307b9704079c61db4e405deffd",
+      "symbol": "COA",
+      "logoURI": "https://assets.coingecko.com/coins/images/67537/thumb/coa.jpg?1753109254",
+      "assetGroup": "Alliance Games::COA",
+      "currencyId": "Alliance Games::COA",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x6f8c1de07c9e59a8289705b1033af383dc3681b1": {
+      "chainId": "8453",
+      "decimals": 6,
+      "name": "BlockChainCoinX",
+      "address": "0x6f8c1de07c9e59a8289705b1033af383dc3681b1",
+      "symbol": "XCCX",
+      "logoURI": "https://assets.coingecko.com/coins/images/32276/thumb/xccxx.png?1697180263",
+      "assetGroup": "BlockChainCoinX::XCCX",
+      "currencyId": "BlockChainCoinX::XCCX",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x526728dbc96689597f85ae4cd716d4f7fccbae9d": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Metronome Synth USD",
+      "address": "0x526728dbc96689597f85ae4cd716d4f7fccbae9d",
+      "symbol": "MSUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/67504/thumb/metronome_msusd.png?1753015705",
+      "assetGroup": "Metronome Synth USD::MSUSD",
+      "currencyId": "Metronome Synth USD::MSUSD",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x20429f731096e359910921994a267d32ef576720": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "SCAN",
+      "address": "0x20429f731096e359910921994a267d32ef576720",
+      "symbol": "SCAN",
+      "logoURI": "https://assets.coingecko.com/coins/images/67569/thumb/02rav5hmv58ax1451trmrus3kvy9.?1753181139",
+      "assetGroup": "SCAN::SCAN",
+      "currencyId": "SCAN::SCAN",
+      "tags": ["coingecko"]
+    },
+    "0x205344efad0a46329b752fb6e33cb6f28d6db2f4": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Conspiracy Guy",
+      "address": "0x205344efad0a46329b752fb6e33cb6f28d6db2f4",
+      "symbol": "CGUY",
+      "logoURI": "https://assets.coingecko.com/coins/images/67557/thumb/pp_%282%29.jpg?1753176275",
+      "assetGroup": "Conspiracy Guy::CGUY",
+      "currencyId": "Conspiracy Guy::CGUY",
       "tags": ["coingecko"]
     }
   },

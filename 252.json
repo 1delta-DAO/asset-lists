@@ -302,6 +302,28 @@
       "assetGroup": "FPIS",
       "currencyId": "Frax Price Index Share::FPIS",
       "tags": ["coingecko"]
+    },
+    "0xb102f7efa0d5de071a8d37b3548e1c7cb148caf3": {
+      "chainId": "252",
+      "decimals": 18,
+      "name": "crvUSD",
+      "address": "0xb102f7efa0d5de071a8d37b3548e1c7cb148caf3",
+      "symbol": "CRVUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/30118/thumb/crvusd.jpg?1746670973",
+      "assetGroup": "crvUSD::CRVUSD",
+      "currencyId": "crvUSD::CRVUSD",
+      "tags": ["coingecko"]
+    },
+    "0x2416092f143378750bb29b79ed961ab195cceea5": {
+      "chainId": "252",
+      "decimals": 18,
+      "name": "Renzo Restaked ETH",
+      "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
+      "symbol": "EZETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/34753/thumb/Ezeth_logo_circle.png?1713496404",
+      "assetGroup": "EZETH",
+      "currencyId": "Renzo Restaked ETH::EZETH",
+      "tags": ["coingecko"]
     }
   },
   "mainTokens": [
@@ -327,7 +349,9 @@
     "0x418126bb59457afdba1ecf376f97400b4157425d",
     "0xfc00000000000000000000000000000000000003",
     "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
-    "0xfc00000000000000000000000000000000000004"
+    "0xfc00000000000000000000000000000000000004",
+    "0xb102f7efa0d5de071a8d37b3548e1c7cb148caf3",
+    "0x2416092f143378750bb29b79ed961ab195cceea5"
   ],
   "bridgeTokens": [
     "0x4d15ea9c2573addaed814e48c148b5262694646a",

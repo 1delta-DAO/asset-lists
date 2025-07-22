@@ -19308,7 +19308,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/56/0x3235b13708f178af6f110de7177ed5de10c1093d/small/token-logo.png",
       "assetGroup": "Mongol NFT::MNFT",
       "currencyId": "Mongol NFT::MNFT",
-      "tags": ["debridge"]
+      "tags": ["debridge", "coingecko"]
     },
     "0x163f182c32d24a09d91eb75820cde9fd5832b329": {
       "chainId": "56",
@@ -46263,7 +46263,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x7b4Bf9fEcCfF207eF2CB7101Ceb15b8516021AcD.png",
       "assetGroup": "MilkyWay::MILK",
       "currencyId": "MilkyWay::MILK",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0xf2b51cc1850fed939658317a22d73d3482767591": {
       "chainId": "56",
@@ -46340,7 +46340,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x6c58E4a513D3A8062E57f41a1442e003aF14eBb5.png",
       "assetGroup": "TGT::TGT",
       "currencyId": "TGT::TGT",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x722294f6c97102fb0ddb5b907c8d16bdeab3f6d9": {
       "chainId": "56",
@@ -46351,7 +46351,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x722294F6c97102fB0DDb5b907c8d16BDEAB3f6D9.png",
       "assetGroup": "Doodles::DOOD",
       "currencyId": "Doodles::DOOD",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x1036b2379f506761f237fba7463857924ef21ce3": {
       "chainId": "56",
@@ -46362,7 +46362,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x1036b2379F506761f237FBa7463857924Ef21Ce3.png",
       "assetGroup": "Bondex Token::BDXN",
       "currencyId": "Bondex Token::BDXN",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0xe2b16f618eb6016bc2625e98335f1844ee90236a": {
       "chainId": "56",
@@ -47353,7 +47353,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x44F161aE29361E332dEA039DFA2F404E0bC5B5Cc.png",
       "assetGroup": "Humanity::H",
       "currencyId": "Humanity::H",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0xabd834a7823567673e1ac07635d5d9857b34a8d3": {
       "chainId": "56",
@@ -47397,7 +47397,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x2F714d7b9A035d4ce24af8d9b6091c07E37f43Fb.png",
       "assetGroup": "NodeOps::NODE",
       "currencyId": "NodeOps::NODE",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x91f9cc2649ac70a071602cade9b0c1a5868af51d": {
       "chainId": "56",
@@ -47705,7 +47705,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x57df399CAcE62f98a74BFfdFfbB264E6F31Bd982.png",
       "assetGroup": "Puffverse Token::PFVS",
       "currencyId": "Puffverse Token::PFVS",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x22b1458e780f8fa71e2f84502cee8b5a3cc731fa": {
       "chainId": "56",
@@ -48150,7 +48150,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0xc32cc70741c3A8433dCbcB5adE071c299B55FfC8.png",
       "assetGroup": "Chainbase Token::C",
       "currencyId": "Chainbase Token::C",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x1219c409fabe2c27bd0d1a565daeed9bd9f271de": {
       "chainId": "56",
@@ -48863,7 +48863,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67252/thumb/Hyperion_logo.jpg?1752219706",
       "assetGroup": "Hyperion::RION",
       "currencyId": "Hyperion::RION",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x834ee470ddb53b9337f07d909b10461c3035bb38": {
       "chainId": "56",
@@ -48873,7 +48873,8 @@
       "symbol": "Alfat",
       "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x834ee470ddb53b9337f07d909b10461c3035bb38/6e153512cb3bb087b6fef3dc18872130.png",
       "assetGroup": "Alphaterra::Alfat",
-      "currencyId": "Alphaterra::Alfat"
+      "currencyId": "Alphaterra::Alfat",
+      "tags": ["biconomy-gas-token"]
     },
     "0xa71b404f6b35c6ae119d33f1c4885d8ad8b54444": {
       "chainId": "56",
@@ -49004,8 +49005,10 @@
       "name": "USELESS COIN",
       "address": "0xba38b3c706f7a515ff7c8db04daa0a134ec46d2b",
       "symbol": "USELESS",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xbA38B3C706f7A515Ff7C8Db04Daa0A134eC46D2b.png",
       "assetGroup": "USELESS COIN::USELESS",
-      "currencyId": "USELESS COIN::USELESS"
+      "currencyId": "USELESS COIN::USELESS",
+      "tags": ["biconomy-gas-token"]
     },
     "0x00312400303d02c323295f6e8b7309bc30fb6bce": {
       "chainId": "56",
@@ -49016,7 +49019,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54475/thumb/Token_Logo.png?1749676251",
       "assetGroup": "Caldera::ERA",
       "currencyId": "Caldera::ERA",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x8e3f0b0b604bc69ea98a8039ff7884047bc3bd55": {
       "chainId": "56",
@@ -49071,6 +49074,310 @@
       "logoURI": "https://assets.coingecko.com/coins/images/16655/thumb/weecoins.PNG?1696516215",
       "assetGroup": "Weecoins::WCS",
       "currencyId": "Weecoins::WCS",
+      "tags": ["coingecko"]
+    },
+    "0xc19539eb93444523ec8f1432624924d2e6226546": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "TAKER",
+      "address": "0xc19539eb93444523ec8f1432624924d2e6226546",
+      "symbol": "TAKER",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xc19539eB93444523Ec8F1432624924d2e6226546.png",
+      "assetGroup": "TAKER::TAKER",
+      "currencyId": "TAKER::TAKER",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xf39e4b21c84e737df08e2c3b32541d856f508e48": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Yooldo Games",
+      "address": "0xf39e4b21c84e737df08e2c3b32541d856f508e48",
+      "symbol": "ESPORTS",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xF39e4b21c84e737Df08e2C3b32541d856f508E48.png",
+      "assetGroup": "Yooldo Games::ESPORTS",
+      "currencyId": "Yooldo Games::ESPORTS",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x4f2760b32720f013e900dc92f65480137391199b": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "sUSD1+",
+      "address": "0x4f2760b32720f013e900dc92f65480137391199b",
+      "symbol": "sUSD1+",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x4F2760B32720F013E900DC92F65480137391199b.png",
+      "assetGroup": "sUSD1+::sUSD1+",
+      "currencyId": "sUSD1+::sUSD1+",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x539ae81a166e5e80aed211731563e549c411b140": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Trusta.AI",
+      "address": "0x539ae81a166e5e80aed211731563e549c411b140",
+      "symbol": "TA",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x539AE81A166E5E80aEd211731563e549c411b140.png",
+      "assetGroup": "Trusta.AI::TA",
+      "currencyId": "Trusta.AI::TA",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xaf6bd11a6f8f9c44b9d18f5fa116e403db599f8e": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "AlinX",
+      "address": "0xaf6bd11a6f8f9c44b9d18f5fa116e403db599f8e",
+      "symbol": "ALIX",
+      "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xaf6bd11a6f8f9c44b9d18f5fa116e403db599f8e/a495117afc6c96910d72092527eb4b11.png",
+      "assetGroup": "AlinX::ALIX",
+      "currencyId": "AlinX::ALIX"
+    },
+    "0x7df06bcea114c51ce2031bd2e9f50a62284d5d3c": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Grok",
+      "address": "0x7df06bcea114c51ce2031bd2e9f50a62284d5d3c",
+      "symbol": "Grok",
+      "assetGroup": "Grok::Grok::56::0",
+      "currencyId": "Grok::Grok"
+    },
+    "0x5519a479da8ce3af7f373c16f14870bbeafda265": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "bnb USD",
+      "address": "0x5519a479da8ce3af7f373c16f14870bbeafda265",
+      "symbol": "bnbUSD",
+      "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x5519a479da8ce3af7f373c16f14870bbeafda265/083fd204e295aadd84c1b76ac96d80a2.png",
+      "assetGroup": "bnb USD::bnbUSD",
+      "currencyId": "bnb USD::bnbUSD"
+    },
+    "0xa8d3dee6671c4fdac4743a1eb1f276eabd4ba302": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "ZKWASM",
+      "address": "0xa8d3dee6671c4fdac4743a1eb1f276eabd4ba302",
+      "symbol": "ZKWASM",
+      "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/binance-smart-chain/0xa8d3dee6671c4fdac4743a1eb1f276eabd4ba302.png",
+      "assetGroup": "ZKWASM::ZKWASM",
+      "currencyId": "ZKWASM::ZKWASM",
+      "tags": ["coingecko"]
+    },
+    "0xf970706063b7853877f39515c96932d49d5ac9cd": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Yala Token",
+      "address": "0xf970706063b7853877f39515c96932d49d5ac9cd",
+      "symbol": "YALA",
+      "logoURI": "https://assets.coingecko.com/coins/images/67498/thumb/yala.jpg?1752994443",
+      "assetGroup": "Yala Token::YALA",
+      "currencyId": "Yala Token::YALA",
+      "tags": ["coingecko"]
+    },
+    "0xa992ffb0c9b753307b9704079c61db4e405deffd": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Alliance Games",
+      "address": "0xa992ffb0c9b753307b9704079c61db4e405deffd",
+      "symbol": "COA",
+      "logoURI": "https://assets.coingecko.com/coins/images/67537/thumb/coa.jpg?1753109254",
+      "assetGroup": "Alliance Games::COA",
+      "currencyId": "Alliance Games::COA",
+      "tags": ["coingecko"]
+    },
+    "0x35ae9accf59d646b181e816fdb86811671919d74": {
+      "chainId": "56",
+      "decimals": 8,
+      "name": "Gold Park",
+      "address": "0x35ae9accf59d646b181e816fdb86811671919d74",
+      "symbol": "GPT",
+      "logoURI": "https://assets.coingecko.com/coins/images/67489/thumb/Gold_Park.jpg?1752986605",
+      "assetGroup": "Gold Park::GPT",
+      "currencyId": "Gold Park::GPT",
+      "tags": ["coingecko"]
+    },
+    "0x6a37f1219f367f8a369a2e2d00c8dbe0354086dd": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Caliber",
+      "address": "0x6a37f1219f367f8a369a2e2d00c8dbe0354086dd",
+      "symbol": "CAL50",
+      "logoURI": "https://assets.coingecko.com/coins/images/67460/thumb/logo.png?1752866229",
+      "assetGroup": "Caliber::CAL50",
+      "currencyId": "Caliber::CAL50",
+      "tags": ["coingecko"]
+    },
+    "0x4345a1056e614e61c877ec1cb90510afc8753123": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Blue Snakes",
+      "address": "0x4345a1056e614e61c877ec1cb90510afc8753123",
+      "symbol": "SNAKES",
+      "logoURI": "https://assets.coingecko.com/coins/images/67585/thumb/x4qcuR0G_400x400.jpg?1753191092",
+      "assetGroup": "Blue Snakes::SNAKES",
+      "currencyId": "Blue Snakes::SNAKES",
+      "tags": ["coingecko"]
+    },
+    "0x23fe903be385832fd7bb82bf1fee93f696278888": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "DORA",
+      "address": "0x23fe903be385832fd7bb82bf1fee93f696278888",
+      "symbol": "DORA",
+      "logoURI": "https://assets.coingecko.com/coins/images/67443/thumb/IMG_2582.jpeg?1752812755",
+      "assetGroup": "DORA::DORA",
+      "currencyId": "DORA::DORA",
+      "tags": ["coingecko"]
+    },
+    "0xd63143f1ec2eaf65329fb2b67b6f50e457b49719": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PEPECASH",
+      "address": "0xd63143f1ec2eaf65329fb2b67b6f50e457b49719",
+      "symbol": "PECH",
+      "logoURI": "https://assets.coingecko.com/coins/images/67446/thumb/pechlogo200x200.png?1752813778",
+      "assetGroup": "PEPECASH::PECH",
+      "currencyId": "PEPECASH::PECH",
+      "tags": ["coingecko"]
+    },
+    "0xe3225e11cab122f1a126a28997788e5230838ab9": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Codatta",
+      "address": "0xe3225e11cab122f1a126a28997788e5230838ab9",
+      "symbol": "XNY",
+      "logoURI": "https://assets.coingecko.com/coins/images/66837/thumb/Vfmvu9y0_400x400.jpg?1750751757",
+      "assetGroup": "Codatta::XNY",
+      "currencyId": "Codatta::XNY",
+      "tags": ["coingecko"]
+    },
+    "0x1c0acc34747a61fa9a4008b590319e0488eebdc8": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "NIMO Protocol",
+      "address": "0x1c0acc34747a61fa9a4008b590319e0488eebdc8",
+      "symbol": "NIM",
+      "logoURI": "https://assets.coingecko.com/coins/images/67477/thumb/IMG_0211.jpeg?1752899946",
+      "assetGroup": "NIMO Protocol::NIM",
+      "currencyId": "NIMO Protocol::NIM",
+      "tags": ["coingecko"]
+    },
+    "0x9c27c4072738cf4b7b0b7071af0ad5666bddc096": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "NianNian",
+      "address": "0x9c27c4072738cf4b7b0b7071af0ad5666bddc096",
+      "symbol": "NIANNIAN",
+      "logoURI": "https://assets.coingecko.com/coins/images/67480/thumb/500.jpg?1752900999",
+      "assetGroup": "NianNian::NIANNIAN",
+      "currencyId": "NianNian::NIANNIAN",
+      "tags": ["coingecko"]
+    },
+    "0x5ac0c096549d9df6bf2f709d8c169ceb92470267": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "SAFEcoin",
+      "address": "0x5ac0c096549d9df6bf2f709d8c169ceb92470267",
+      "symbol": "SAFE",
+      "logoURI": "https://assets.coingecko.com/coins/images/67434/thumb/200x200_%281%29.png?1752777433",
+      "assetGroup": "SAFEcoin::SAFE",
+      "currencyId": "SAFEcoin::SAFE",
+      "tags": ["coingecko"]
+    },
+    "0x3834f788f1b580bf5a1112be398ff70ce178922a": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "Baby Manyu",
+      "address": "0x3834f788f1b580bf5a1112be398ff70ce178922a",
+      "symbol": "BABYMANYU",
+      "logoURI": "https://assets.coingecko.com/coins/images/67484/thumb/babymanyu-logo.jpg?1752940711",
+      "assetGroup": "Baby Manyu::BABYMANYU",
+      "currencyId": "Baby Manyu::BABYMANYU",
+      "tags": ["coingecko"]
+    },
+    "0x47b1db3d0dbb4757f908cc496ff50798d704efb9": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "NoNoCoin",
+      "address": "0x47b1db3d0dbb4757f908cc496ff50798d704efb9",
+      "symbol": "NOC",
+      "logoURI": "https://assets.coingecko.com/coins/images/51819/thumb/logo_NoNoCoin_png.png?1732034823",
+      "assetGroup": "NoNoCoin::NOC",
+      "currencyId": "NoNoCoin::NOC",
+      "tags": ["coingecko"]
+    },
+    "0xa8eed49642fcca1504a0060d0b7daae4697e4444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Hold Sloth",
+      "address": "0xa8eed49642fcca1504a0060d0b7daae4697e4444",
+      "symbol": "ZZZ",
+      "logoURI": "https://assets.coingecko.com/coins/images/67524/thumb/IMG_6704.png?1753082843",
+      "assetGroup": "Hold Sloth::ZZZ",
+      "currencyId": "Hold Sloth::ZZZ",
+      "tags": ["coingecko"]
+    },
+    "0x3834303483f139c26bc282528adee6b7da103d54": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "UltraXRP",
+      "address": "0x3834303483f139c26bc282528adee6b7da103d54",
+      "symbol": "ULTRAXRP",
+      "logoURI": "https://assets.coingecko.com/coins/images/67529/thumb/UltraXRP_logo.png?1753084490",
+      "assetGroup": "UltraXRP::ULTRAXRP",
+      "currencyId": "UltraXRP::ULTRAXRP",
+      "tags": ["coingecko"]
+    },
+    "0x79a4baa491fecc00a3b81a281bd97abca932f5f6": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Coresky",
+      "address": "0x79a4baa491fecc00a3b81a281bd97abca932f5f6",
+      "symbol": "CSKY",
+      "logoURI": "https://assets.coingecko.com/coins/images/67354/thumb/csky.jpg?1752484239",
+      "assetGroup": "Coresky::CSKY",
+      "currencyId": "Coresky::CSKY",
+      "tags": ["coingecko"]
+    },
+    "0x8888888809b788cd6e40a2d27e67425d5d0b5d3b": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Changcoin",
+      "address": "0x8888888809b788cd6e40a2d27e67425d5d0b5d3b",
+      "symbol": "CTH",
+      "logoURI": "https://assets.coingecko.com/coins/images/67561/thumb/Chang_Coin.jpg?1753177476",
+      "assetGroup": "Changcoin::CTH",
+      "currencyId": "Changcoin::CTH",
+      "tags": ["coingecko"]
+    },
+    "0xe41de737f691847bc5ea486f2adc443936e5010c": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "AIX Wallet",
+      "address": "0xe41de737f691847bc5ea486f2adc443936e5010c",
+      "symbol": "AIX",
+      "logoURI": "https://assets.coingecko.com/coins/images/67563/thumb/aix_logo_200.png?1753178357",
+      "assetGroup": "AIX Wallet::AIX",
+      "currencyId": "AIX Wallet::AIX",
+      "tags": ["coingecko"]
+    },
+    "0xd4423795fd904d9b87554940a95fb7016f172773": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "AI Network",
+      "address": "0xd4423795fd904d9b87554940a95fb7016f172773",
+      "symbol": "AIN",
+      "logoURI": "https://assets.coingecko.com/coins/images/13211/thumb/AI_Network_Logo_200x200.png?1696512991",
+      "assetGroup": "AI Network::AIN",
+      "currencyId": "AI Network::AIN",
+      "tags": ["coingecko"]
+    },
+    "0xaf48b7e315a52518cfbf7d96c455d9dfad94cb48": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "IOST",
+      "address": "0xaf48b7e315a52518cfbf7d96c455d9dfad94cb48",
+      "symbol": "IOST",
+      "logoURI": "https://assets.coingecko.com/coins/images/2523/thumb/IOST.png?1696503337",
+      "assetGroup": "IOST::IOST",
+      "currencyId": "IOST::IOST",
       "tags": ["coingecko"]
     }
   },

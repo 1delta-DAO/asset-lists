@@ -262,7 +262,8 @@
       "symbol": "BULBUL",
       "logoURI": "https://github.com/user-attachments/assets/2d5b0d9c-a537-4480-b6ff-5264b5d5ab43",
       "assetGroup": "BULBUL2DAO::BULBUL",
-      "currencyId": "BULBUL2DAO::BULBUL"
+      "currencyId": "BULBUL2DAO::BULBUL",
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0xfe69bc93b936b34d371defa873686c116c8488c2": {
       "chainId": "999",
@@ -1779,6 +1780,27 @@
       "symbol": "PENGU",
       "assetGroup": "Pudgy Penguins::PENGU",
       "currencyId": "Pudgy Penguins::PENGU"
+    },
+    "0xa94676f34f6a2764c7fde5611b53834b71f228ec": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Liquina",
+      "address": "0xa94676f34f6a2764c7fde5611b53834b71f228ec",
+      "symbol": "LQNA",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0xa94676f34f6a2764c7fde5611b53834b71f228ec/e1039a554b32e9b10520be8c38a143b8.png",
+      "assetGroup": "Liquina::LQNA",
+      "currencyId": "Liquina::LQNA"
+    },
+    "0xe7eaa46c2ac8470d622ada1538fede6242cebe53": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Latina",
+      "address": "0xe7eaa46c2ac8470d622ada1538fede6242cebe53",
+      "symbol": "LATINA",
+      "logoURI": "https://tokens.debridge.finance/Logo/100000022/0xe7eaa46c2ac8470d622ada1538fede6242cebe53/small/token-logo.svg",
+      "assetGroup": "Latina::LATINA",
+      "currencyId": "Latina::LATINA",
+      "tags": ["debridge"]
     }
   },
   "mainTokens": [
