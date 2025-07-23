@@ -32,8 +32,23 @@
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
       "tags": ["wnative"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "360",
+      "decimals": 18,
+      "name": "Ether",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/360.webp",
+      "assetGroup": "ETH",
+      "currencyId": "Ether::ETH",
+      "tags": ["native", "wnative", "wrapped:0x09bf29b44130e88f113c1fb0487bcb97b6920c31"]
     }
   },
-  "mainTokens": ["0x135b641e61cfc9a068b82e02ff0f051f6e5d4721", "0x09bf29b44130e88f113c1fb0487bcb97b6920c31"],
+  "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
+    "0x135b641e61cfc9a068b82e02ff0f051f6e5d4721",
+    "0x09bf29b44130e88f113c1fb0487bcb97b6920c31"
+  ],
   "bridgeTokens": ["0x135b641e61cfc9a068b82e02ff0f051f6e5d4721", "0x09bf29b44130e88f113c1fb0487bcb97b6920c31"]
 }

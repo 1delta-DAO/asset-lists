@@ -8905,9 +8905,43 @@
       "assetGroup": "Wilder World::WILD",
       "currencyId": "Wilder World::WILD",
       "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x803f5e3d74e17e3be3f2a2bfbd5d9f9b44e9488b": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Just Woot",
+      "address": "0x803f5e3d74e17e3be3f2a2bfbd5d9f9b44e9488b",
+      "symbol": "WOOT",
+      "logoURI": "https://assets.coingecko.com/coins/images/67588/thumb/woot_%281%29.jpg?1753211634",
+      "assetGroup": "Just Woot::WOOT",
+      "currencyId": "Just Woot::WOOT",
+      "tags": ["coingecko"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Avalanche",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "AVAX",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/43114.webp",
+      "assetGroup": "AVAX",
+      "currencyId": "Avalanche::AVAX",
+      "tags": [
+        "native",
+        "openocean",
+        "coingecko",
+        "debridge",
+        "wnative",
+        "biconomy-gas-token",
+        "AAVE_V3",
+        "NEREUS",
+        "GRANARY",
+        "wrapped:0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7"
+      ]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0xcd94a87696fac69edae3a70fe5725307ae1c43f6",
     "0xd501281565bf7789224523144fe5d98e8b28f267",
     "0x63a72806098bd3d9520cc43356dd78afe5d386d9",

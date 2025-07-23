@@ -7860,7 +7860,7 @@
       "name": "DMOD",
       "address": "0x002d8563759f5e1eaf8784181f3973288f6856e4",
       "symbol": "DMOD",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/bsc/0x002d8563759f5e1eaf8784181f3973288f6856e4.png",
+      "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x002d8563759f5e1eaf8784181f3973288f6856e4/a2eb1d602bfe12cffef9ed776a5572d7.png",
       "assetGroup": "DMOD",
       "currencyId": "DMOD::DMOD",
       "tags": ["openocean"]
@@ -49379,9 +49379,132 @@
       "assetGroup": "IOST::IOST",
       "currencyId": "IOST::IOST",
       "tags": ["coingecko"]
+    },
+    "0x6b9481fb5465ef9ab9347b332058d894ab09b2f6": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Dinoland Metaverse",
+      "address": "0x6b9481fb5465ef9ab9347b332058d894ab09b2f6",
+      "symbol": "DNL",
+      "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x6b9481fb5465ef9ab9347b332058d894ab09b2f6/8404637bdf4fc6b3bbd0bbda084eed1f.png",
+      "assetGroup": "Dinoland Metaverse::DNL",
+      "currencyId": "Dinoland Metaverse::DNL"
+    },
+    "0xe85afccdafbe7f2b096f268e31cce3da8da2990a": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Ankr BNB Reward Bearing Certificate",
+      "address": "0xe85afccdafbe7f2b096f268e31cce3da8da2990a",
+      "symbol": "aBNBc",
+      "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xe85afccdafbe7f2b096f268e31cce3da8da2990a/58bffc8fdf3463751aa80933b3258565.png",
+      "assetGroup": "Ankr BNB Reward Bearing Certificate::aBNBc",
+      "currencyId": "Ankr BNB Reward Bearing Certificate::aBNBc"
+    },
+    "0x92da433da84d58dfe2aade1943349e491cbd6820": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Rise of Defenders Token",
+      "address": "0x92da433da84d58dfe2aade1943349e491cbd6820",
+      "symbol": "RDR",
+      "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x92da433da84d58dfe2aade1943349e491cbd6820/13c195a6c52909a43843acac27e1001e.png",
+      "assetGroup": "Rise of Defenders Token::RDR",
+      "currencyId": "Rise of Defenders Token::RDR"
+    },
+    "0xa2a26349448ddafae34949a6cc2cecf78c0497ac": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "TrusterCoin",
+      "address": "0xa2a26349448ddafae34949a6cc2cecf78c0497ac",
+      "symbol": "TSC",
+      "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xa2a26349448ddafae34949a6cc2cecf78c0497ac/f84a89cb45f9025779823fd6ab86b725.png",
+      "assetGroup": "TrusterCoin::TSC",
+      "currencyId": "TrusterCoin::TSC"
+    },
+    "0x985bfed8248ed108c2accd3f9f09add84b005872": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "B1OAI",
+      "address": "0x985bfed8248ed108c2accd3f9f09add84b005872",
+      "symbol": "B1OAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/67590/thumb/b1o_logo_200x200.jpg?1753212841",
+      "assetGroup": "B1OAI::B1OAI",
+      "currencyId": "B1OAI::B1OAI",
+      "tags": ["coingecko"]
+    },
+    "0xddcc809c4c26572c768e47015f7fd14ac1e74444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "FOUR",
+      "address": "0xddcc809c4c26572c768e47015f7fd14ac1e74444",
+      "symbol": "FOUR",
+      "logoURI": "https://assets.coingecko.com/coins/images/67593/thumb/4-logo.jpg?1753214161",
+      "assetGroup": "FOUR::FOUR",
+      "currencyId": "FOUR::FOUR",
+      "tags": ["coingecko"]
+    },
+    "0x43ad1bd4c08e024f9f17acff5719a8da8e3689f1": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "IRIS Chain",
+      "address": "0x43ad1bd4c08e024f9f17acff5719a8da8e3689f1",
+      "symbol": "IRC",
+      "logoURI": "https://assets.coingecko.com/coins/images/67084/thumb/iris_logo_200.png?1752479853",
+      "assetGroup": "IRIS Chain::IRC",
+      "currencyId": "IRIS Chain::IRC",
+      "tags": ["coingecko"]
+    },
+    "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf": {
+      "chainId": "56",
+      "decimals": 6,
+      "name": "Wild Goat Coin",
+      "address": "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
+      "symbol": "WGC",
+      "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831",
+      "assetGroup": "Wild Goat Coin::WGC",
+      "currencyId": "Wild Goat Coin::WGC",
+      "tags": ["coingecko"]
+    },
+    "0x7a986ba67227acfab86385ff33436a80e2bb4cc5": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Pundi AI",
+      "address": "0x7a986ba67227acfab86385ff33436a80e2bb4cc5",
+      "symbol": "PUNDIAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/54579/thumb/pundiai.jpg?1740538459",
+      "assetGroup": "Pundi AI::PUNDIAI::56::0",
+      "currencyId": "Pundi AI::PUNDIAI",
+      "tags": ["coingecko"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "BNB Chain Native Token",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "BNB",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/56.webp",
+      "assetGroup": "BNB",
+      "currencyId": "BNB Chain Native Token::BNB",
+      "tags": [
+        "native",
+        "openocean",
+        "coingecko",
+        "debridge",
+        "wnative",
+        "biconomy-gas-token",
+        "AAVE_V3",
+        "AVALON_WBTC",
+        "AVALON_LISTA",
+        "KINZA",
+        "GRANARY",
+        "VENUS_BNB",
+        "AVALON_SOLVBTC",
+        "VALAS",
+        "wrapped:0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+      ]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x111111111117dc0aa78b770fa6a738034120c302",
     "0xfb6115445bff7b52feb98650c87f44907e58f802",
     "0xbc7d6b50616989655afd682fb42743507003056d",

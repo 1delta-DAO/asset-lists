@@ -208,9 +208,21 @@
       "assetGroup": "BUSD",
       "currencyId": "Thundercore Bridged BUSD::BUSD",
       "tags": ["bridged", "coingecko"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "108",
+      "decimals": 18,
+      "name": "ThunderCore Token",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "TT",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/108.webp",
+      "assetGroup": "WTT",
+      "currencyId": "ThunderCore Token::TT",
+      "tags": ["native", "coingecko", "wnative", "wrapped:0x413cefea29f2d07b8f2acfa69d92466b9535f717"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x22e89898a04eaf43379beb70bf4e38b1faf8a31e",
     "0x4f3c8e20942461e2c3bdd8311ac57b0c222f2b82",
     "0xabd380327fe66724ffda91a87c772fb8d00be488",

@@ -52,8 +52,23 @@
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/8082/0x3c9D3A28dc949B3f66728C57Cfdaf698e585E536.png",
       "assetGroup": "Plena Finance::PLENA",
       "currencyId": "Plena Finance::PLENA"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "8082",
+      "decimals": 18,
+      "name": "Shardeum SHM",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "SHM",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/8082.webp",
+      "assetGroup": "Wrapped SHM::WSHM",
+      "currencyId": "Shardeum SHM::SHM",
+      "tags": ["native", "wnative", "wrapped:0x5eb65c6fec23d4eb36bc9966aa110fe13fbd7c7f"]
     }
   },
-  "mainTokens": ["0x43891084581fd07ee1189f3a2f04e51c26a95b77", "0x5eb65c6fec23d4eb36bc9966aa110fe13fbd7c7f"],
+  "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
+    "0x43891084581fd07ee1189f3a2f04e51c26a95b77",
+    "0x5eb65c6fec23d4eb36bc9966aa110fe13fbd7c7f"
+  ],
   "bridgeTokens": ["0x43891084581fd07ee1189f3a2f04e51c26a95b77"]
 }

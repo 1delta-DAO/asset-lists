@@ -4319,7 +4319,7 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/sol.png",
       "assetGroup": "SOL",
       "currencyId": "Wrapped SOL (Wormhole)::SOL",
-      "tags": ["wormhole", "bridged", "biconomy-gas-token"]
+      "tags": ["wormhole", "bridged", "biconomy-gas-token", "coingecko"]
     },
     "0x004626a008b1acdc4c74ab51644093b155e59a23": {
       "chainId": "42161",
@@ -6546,7 +6546,7 @@
       "name": "Amy Finance Token",
       "address": "0x8fbd420956fdd301f4493500fd0bcaaa80f2389c",
       "symbol": "AMY",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/1637893005424_2740901520185888.png",
+      "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x8fbd420956fdd301f4493500fd0bcaaa80f2389c/449deb21bab53f2edf51eee9914a2f94.png",
       "assetGroup": "Amy Finance Token::AMY",
       "currencyId": "Amy Finance Token::AMY",
       "tags": ["openocean"]
@@ -18443,7 +18443,11 @@
       "symbol": "PT-ezETH-27JUN2024",
       "assetGroup": "PT Renzo ezETH 27JUN2024::PT-ezETH-27JUN2024",
       "currencyId": "PT Renzo ezETH 27JUN2024::PT-ezETH-27JUN2024",
-      "tags": ["biconomy-gas-token", "PENDLE-PT", "YT:0x05735b65686635f5c87aa9d2dae494fb2e838f38"]
+      "tags": [
+        "biconomy-gas-token",
+        "PENDLE-PT",
+        "PENDLE-YT:0x05735b65686635f5c87aa9d2dae494fb2e838f38"
+      ]
     },
     "0xdd69db25f6d620a7bad3023c5d32761d353d3de9": {
       "chainId": "42161",
@@ -21940,9 +21944,70 @@
       "assetGroup": "AI Network::AIN",
       "currencyId": "AI Network::AIN",
       "tags": ["coingecko"]
+    },
+    "0xb348b87b23d5977e2948e6f36ca07e1ec94d7328": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "SwapFish",
+      "address": "0xb348b87b23d5977e2948e6f36ca07e1ec94d7328",
+      "symbol": "FISH",
+      "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xb348b87b23d5977e2948e6f36ca07e1ec94d7328/917a90784a7e005a55c179a1c7e132dc.png",
+      "assetGroup": "SwapFish::FISH",
+      "currencyId": "SwapFish::FISH"
+    },
+    "0x73ed68b834e44096eb4bea6edead038c945722f1": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "SharkySwap",
+      "address": "0x73ed68b834e44096eb4bea6edead038c945722f1",
+      "symbol": "SHARKY",
+      "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x73ed68b834e44096eb4bea6edead038c945722f1/bc865caf3e18e816a774169dae4abebe.png",
+      "assetGroup": "SharkySwap::SHARKY",
+      "currencyId": "SharkySwap::SHARKY"
+    },
+    "0x00000000efe302beaa2b3e6e1b18d08d69a9012a": {
+      "chainId": "42161",
+      "decimals": 6,
+      "name": "AUSD",
+      "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+      "symbol": "AUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/Circle_Agora_White_on_Olive_1080px.png?1722961274",
+      "assetGroup": "AUSD",
+      "currencyId": "AUSD::AUSD",
+      "tags": ["coingecko"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Ether",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/42161.webp",
+      "assetGroup": "ETH",
+      "currencyId": "Ether::ETH",
+      "tags": [
+        "native",
+        "openocean",
+        "coingecko",
+        "debridge",
+        "wnative",
+        "biconomy-gas-token",
+        "AAVE_V3",
+        "AVALON",
+        "GRANARY",
+        "YLDR",
+        "COMPOUND_V3_USDC",
+        "COMPOUND_V3_WETH",
+        "COMPOUND_V3_USDT",
+        "VENUS",
+        "VENUS_ETH",
+        "COMPOUND_V3_USDCE",
+        "wrapped:0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
+      ]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x3d9907f9a368ad0a51be60f7da3b97cf940982d8",
     "0x912ce59144191c1204e64559fe8253a0e49e6548",
     "0x3caae25ee616f2c8e13c74da0813402eae3f496b",

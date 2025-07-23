@@ -86,9 +86,21 @@
       "assetGroup": "Latch staked USD::atUSD",
       "currencyId": "Latch staked USD::atUSD",
       "tags": ["coingecko"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "1625",
+      "decimals": 18,
+      "name": "Gravity",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "G",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/1625.webp",
+      "assetGroup": "G",
+      "currencyId": "Gravity::G",
+      "tags": ["native", "coingecko", "wnative", "wrapped:0xbb859e225ac8fb6be1c7e38d87b767e95fef0ebd"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x729ed87bbe7b7e4b7f09bcb9c668580818d98bb9",
     "0xf6f832466cd6c21967e0d954109403f36bc8ceaa",
     "0x816e810f9f787d669fb71932deabf6c83781cd48",

@@ -10660,9 +10660,21 @@
       "logoURI": "https://api.swapscanner.io/v0/tokens/0xd0b995aebb7f0abf470f3ad90a9b1cd800f5417e/icon",
       "assetGroup": "Dynamite::DNMT",
       "currencyId": "Dynamite::DNMT"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "8217",
+      "decimals": 18,
+      "name": "KAIA",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "KAIA",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/8217.webp",
+      "assetGroup": "KAIA",
+      "currencyId": "KAIA::KAIA",
+      "tags": ["native", "wnative", "wrapped:0xfd844c2fca5e595004b17615f891620d1cb9bbb2"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x98a8345bb9d3dda9d808ca1c9142a28f6b0430e1",
     "0x5c13e303a62fc5dedf5b52d66873f2e59fedadc2",
     "0x5166fa1acba89e5e0de27841a1110b7f9ac112da",

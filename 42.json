@@ -41,8 +41,18 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "42",
+      "address": "0x0000000000000000000000000000000000000000",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/42.webp",
+      "currencyId": "LUKSO::LYX",
+      "tags": ["native"],
+      "name": "LUKSO",
+      "symbol": "LYX",
+      "decimals": 18
     }
   },
-  "mainTokens": ["0xd0a1e359811322d97991e03f863a0c30c2cf029c"],
+  "mainTokens": ["0x0000000000000000000000000000000000000000", "0xd0a1e359811322d97991e03f863a0c30c2cf029c"],
   "bridgeTokens": ["0xd0a1e359811322d97991e03f863a0c30c2cf029c"]
 }

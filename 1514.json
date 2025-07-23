@@ -88,9 +88,21 @@
       "assetGroup": "Aria Premier Launch::APL",
       "currencyId": "Aria Premier Launch::APL",
       "tags": ["coingecko"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "1514",
+      "decimals": 18,
+      "name": "IP Token",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "IP",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/1514.webp",
+      "assetGroup": "IP",
+      "currencyId": "IP Token::IP",
+      "tags": ["native", "coingecko", "wnative", "debridge", "wrapped:0x1514000000000000000000000000000000000000"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0xf1815bd50389c46847f0bda824ec8da914045d14",
     "0x25f9c9715d1d700a50b2a9a06d80fe9f98ccb549",
     "0x1514000000000000000000000000000000000000",

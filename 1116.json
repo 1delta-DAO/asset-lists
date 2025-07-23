@@ -926,9 +926,21 @@
       "assetGroup": "PUMPBTC",
       "currencyId": "pumpBTC::pumpBTC",
       "tags": ["COLEND_LSTBTC"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "1116",
+      "decimals": 18,
+      "name": "Core Blockchain Native Token",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "CORE",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/1116.webp",
+      "assetGroup": "CORE",
+      "currencyId": "Core Blockchain Native Token::CORE",
+      "tags": ["native", "coingecko", "wnative", "wrapped:0xb0788b601c0d712702bc829b52771199ad8e33ff"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0xdd5d49910c5d475c984ee891a928de6658d2042d",
     "0x12aa82525deff84777fa78578a68ceb854a85f43",
     "0xef6b7bc74c9354bcf2e3f2a068e4b0b5cdf08f29",

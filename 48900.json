@@ -184,9 +184,20 @@
       "assetGroup": "RSETH",
       "currencyId": "KelpDao Restaked ETH::rsETH",
       "tags": ["ZEROLEND"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "48900",
+      "address": "0x0000000000000000000000000000000000000000",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/48900.webp",
+      "currencyId": "ETH::ETH",
+      "tags": ["native"],
+      "name": "ETH",
+      "symbol": "ETH",
+      "decimals": 18
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x58024021fe3ef613fa76e2f36a3da97eb1454c36",
     "0x4200000000000000000000000000000000000006",
     "0x46dda6a5a559d861c06ec9a95fb395f5c3db0742",

@@ -482,9 +482,21 @@
       "logoURI": "https://hecoinfo.com/images/main/empty-token.png",
       "assetGroup": "Heco-Peg YFI Token::YFI",
       "currencyId": "Heco-Peg YFI Token::YFI"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "128",
+      "decimals": 18,
+      "name": "Huobi ECO Chain Native Token",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "HT",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/128.webp",
+      "assetGroup": "Wrapped HT::WHT",
+      "currencyId": "Huobi ECO Chain Native Token::HT",
+      "tags": ["native", "wnative", "wrapped:0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
     "0x9362bbef4b8313a8aa9f0c9808b80577aa26b73b",
     "0xa71edc38d189767582c38a3145b5873052c3e47a",

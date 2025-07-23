@@ -235,9 +235,20 @@
       "assetGroup": "USDC",
       "currencyId": "USD Coin (PolyNetwork)::USDC",
       "tags": ["polynetwork", "bridged"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "32520",
+      "address": "0x0000000000000000000000000000000000000000",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/32520.webp",
+      "currencyId": "Bitrise Token::Brise",
+      "tags": ["native"],
+      "name": "Bitrise Token",
+      "symbol": "Brise",
+      "decimals": 18
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0xc7e6d7e08a89209f02af47965337714153c529f0",
     "0xaedd3ff7b9fc5fc4e44d140b80f0b1c7fdb6102c",
     "0xee448bc6a8dc14d1faa2bfa567f1874f1b62c267"

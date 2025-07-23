@@ -248,9 +248,21 @@
       "assetGroup": "Global Dollar::USDG",
       "currencyId": "Global Dollar::USDG",
       "tags": ["coingecko"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "57073",
+      "decimals": 18,
+      "name": "Ether",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/57073.webp",
+      "assetGroup": "ETH",
+      "currencyId": "Ether::ETH",
+      "tags": ["native", "coingecko", "wnative", "wrapped:0x4200000000000000000000000000000000000006"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x20c69c12abf2b6f8d8ca33604dd25c700c7e70a5",
     "0xca5f2ccbd9c40b32657df57c716de44237f80f05",
     "0x0c5e2d1c98cd265c751e02f8f3293bc5764f9111",

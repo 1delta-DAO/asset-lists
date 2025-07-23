@@ -6129,9 +6129,35 @@
       "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg",
       "assetGroup": "USDp::USDp",
       "currencyId": "USDp::USDp"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Ether",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/10.webp",
+      "assetGroup": "ETH",
+      "currencyId": "Ether::ETH",
+      "tags": [
+        "native",
+        "openocean",
+        "debridge",
+        "wnative",
+        "biconomy-gas-token",
+        "AAVE_V3",
+        "GRANARY",
+        "XLEND",
+        "COMPOUND_V3_USDC",
+        "COMPOUND_V3_WETH",
+        "COMPOUND_V3_USDT",
+        "VENUS",
+        "wrapped:0x4200000000000000000000000000000000000006"
+      ]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x1f32b1c2345538c0c6f582fcb022739c4a194ebb",
     "0xb4bc46bc6cb217b59ea8f4530bae26bf69f677f0",
     "0x0b2c639c533813f4aa9d7837caf62653d097ff85",

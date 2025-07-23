@@ -205,9 +205,21 @@
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599/d3c52e7c7449afa8bd4fad1c93f50d93.png",
       "assetGroup": "WBTC",
       "currencyId": "Wrapped BTC::WBTC"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "1923",
+      "decimals": 18,
+      "name": "Ether",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/1923.webp",
+      "assetGroup": "ETH",
+      "currencyId": "Ether::ETH",
+      "tags": ["native", "coingecko", "wnative", "wrapped:0x4200000000000000000000000000000000000006"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
     "0x4200000000000000000000000000000000000006",
     "0x18d33689ae5d02649a859a1cf16c9f0563975258",

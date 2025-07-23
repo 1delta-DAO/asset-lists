@@ -549,7 +549,7 @@
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee/6c02f6b3bcd264d433c3676100ad8da6.png",
       "assetGroup": "WEETH",
       "currencyId": "Wrapped eETH::weETH",
-      "tags": ["biconomy-gas-token", "AAVE_V3", "LORE"]
+      "tags": ["biconomy-gas-token", "AAVE_V3", "LORE", "coingecko"]
     },
     "0x8731d54e9d02c286767d56ac03e8037c07e01e98": {
       "chainId": "534352",
@@ -835,9 +835,30 @@
       "logoURI": "https://static.debank.com/image/scrl_token/logo_url/0x657e8c867d8b37dcc18fa4caead9c45eb088c642/71bde2eda82ede34c1cc72b32213948c.png",
       "assetGroup": "ether.fi BTC::eBTC",
       "currencyId": "ether.fi BTC::eBTC"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "534352",
+      "decimals": 18,
+      "name": "Ether",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/534352.webp",
+      "assetGroup": "ETH",
+      "currencyId": "Ether::ETH",
+      "tags": [
+        "native",
+        "coingecko",
+        "wnative",
+        "biconomy-gas-token",
+        "AAVE_V3",
+        "LORE",
+        "COMPOUND_V3_USDC",
+        "wrapped:0x5300000000000000000000000000000000000004"
+      ]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0xc0e49f8c615d3d4c245970f6dc528e4a47d69a44",
     "0x5300000000000000000000000000000000000004",
     "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",

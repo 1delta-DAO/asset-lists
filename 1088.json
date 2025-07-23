@@ -574,9 +574,28 @@
       "assetGroup": "WBTC Token::m.WBTC",
       "currencyId": "WBTC Token::m.WBTC",
       "tags": ["GRANARY"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "1088",
+      "decimals": 18,
+      "name": "Metis",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "METIS",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/1088.webp",
+      "assetGroup": "METIS",
+      "currencyId": "Metis::METIS",
+      "tags": [
+        "native",
+        "coingecko",
+        "debridge",
+        "wnative",
+        "wrapped:0x75cb093e4d61d2a2e65d8e0bbb01de8d89b53481",
+        "erc20:0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000"
+      ]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x420000000000000000000000000000000000000a",
     "0xa5b55ab1daf0f8e1efc0eb1931a957fd89b918f4",
     "0xbb06dca3ae6887fabf931640f67cab3e3a16f4dc",

@@ -172,9 +172,21 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/simstim.jpg",
       "assetGroup": "SimStim::SimStim",
       "currencyId": "SimStim::SimStim"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "1996",
+      "decimals": 18,
+      "name": "DMT",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "DMT",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/1996.webp",
+      "assetGroup": "Wrapped DMT::wDMT",
+      "currencyId": "DMT::DMT",
+      "tags": ["native", "wnative", "wrapped:0x754cdad6f5821077d6915004be2ce05f93d176f8"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x13d675bc5e659b11cfa331594cf35a20815dcf02",
     "0xe01e3b20c5819cf919f7f1a2b4c18bbfd222f376",
     "0x754cdad6f5821077d6915004be2ce05f93d176f8"

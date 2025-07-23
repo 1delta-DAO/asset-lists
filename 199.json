@@ -225,9 +225,21 @@
       "assetGroup": "Bridged SUSHI::SUSHI.e",
       "currencyId": "Bridged SUSHI::SUSHI.e",
       "tags": ["bridged"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "199",
+      "decimals": 18,
+      "name": "BitTorrent",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "BTT",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/199.webp",
+      "assetGroup": "Wrapped BitTorrent::WBTT",
+      "currencyId": "BitTorrent::BTT",
+      "tags": ["native", "wnative", "wrapped:0x23181f21dea5936e24163ffaba4ea3b316b57f3c"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x1249c65afb11d179ffb3ce7d4eedd1d9b98ad006",
     "0x9b5f27f6ea9bbd753ce3793a07cba3c74644330d",
     "0xe887512ab8bc60bcc9224e1c3b5be68e26048b8b",

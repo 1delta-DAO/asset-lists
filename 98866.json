@@ -298,9 +298,21 @@
       "assetGroup": "Super OETH::superOETHp",
       "currencyId": "Super OETH::superOETHp",
       "tags": ["debridge"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "98866",
+      "decimals": 18,
+      "name": "Plume",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "PLUME",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/98866.webp",
+      "assetGroup": "Wrapped Plume::WPLUME",
+      "currencyId": "Plume::PLUME",
+      "tags": ["native", "debridge", "wnative", "wrapped:0xea237441c92cae6fc17caaf9a7acb3f953be4bd1"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0xca59ca09e5602fae8b629dee83ffa819741f14be",
     "0xda6087e69c51e7d31b6dbad276a3c44703dfdcad",
     "0xea237441c92cae6fc17caaf9a7acb3f953be4bd1"

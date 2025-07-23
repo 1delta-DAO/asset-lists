@@ -192,9 +192,31 @@
       "assetGroup": "ether.fi BTC::eBTC",
       "currencyId": "ether.fi BTC::eBTC",
       "tags": ["ZEROLEND"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "21000000",
+      "decimals": 18,
+      "name": "Bitcorn",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "BTCN",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/21000000.webp",
+      "assetGroup": "Wrapped Bitcorn::WBTCN",
+      "currencyId": "Bitcorn::BTCN",
+      "tags": [
+        "native",
+        "coingecko",
+        "wnative",
+        "AVALON",
+        "AVALON_LBTC",
+        "ZEROLEND",
+        "AVALON_SOLVBTC",
+        "AVALON_PUMPBTC",
+        "wrapped:0xda5ddd7270381a7c2717ad10d1c0ecb19e3cdfb2"
+      ]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0xdf0b24095e15044538866576754f3c964e902ee6",
     "0x485bbc4f98c071c9bd74ac255262e61f866f071a",
     "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",

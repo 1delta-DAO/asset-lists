@@ -5043,9 +5043,79 @@
       "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x87d57f92852d7357cf32ac4f6952204f2b0c1a27/434826c374d87912b9aa494b90e45992.png",
       "assetGroup": "Random::RNDM::250::0",
       "currencyId": "Random::RNDM"
+    },
+    "0xf24be6c063bee7c7844dd90a21fdf7d783d41a94": {
+      "chainId": "250",
+      "decimals": 18,
+      "name": "WingSwap",
+      "address": "0xf24be6c063bee7c7844dd90a21fdf7d783d41a94",
+      "symbol": "WIS",
+      "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0xf24be6c063bee7c7844dd90a21fdf7d783d41a94/0fc54e8905e2ed95d1a4673d1fb515d9.png",
+      "assetGroup": "WingSwap::WIS",
+      "currencyId": "WingSwap::WIS"
+    },
+    "0x260b3e40c714ce8196465ec824cd8bb915081812": {
+      "chainId": "250",
+      "decimals": 18,
+      "name": "Iron Finance ICE Token",
+      "address": "0x260b3e40c714ce8196465ec824cd8bb915081812",
+      "symbol": "IronICE",
+      "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x260b3e40c714ce8196465ec824cd8bb915081812/32984ad401e1ecbe7753ede31276a2e1.png",
+      "assetGroup": "Iron Finance ICE Token::IronICE",
+      "currencyId": "Iron Finance ICE Token::IronICE"
+    },
+    "0x2787bea3366335068bf8b4a253044d09ea4e1c96": {
+      "chainId": "250",
+      "decimals": 18,
+      "name": "GinSpirit",
+      "address": "0x2787bea3366335068bf8b4a253044d09ea4e1c96",
+      "symbol": "GINSPIRIT",
+      "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x2787bea3366335068bf8b4a253044d09ea4e1c96/353abfff891c46109481c3729c762292.png",
+      "assetGroup": "GinSpirit::GINSPIRIT",
+      "currencyId": "GinSpirit::GINSPIRIT"
+    },
+    "0x9b2e37cdc711cfcac1e1482b5741c74dd3924199": {
+      "chainId": "250",
+      "decimals": 9,
+      "name": "Bloom",
+      "address": "0x9b2e37cdc711cfcac1e1482b5741c74dd3924199",
+      "symbol": "BLOOM",
+      "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0x9b2e37cdc711cfcac1e1482b5741c74dd3924199/d9b76025c233bacdcdfdf1301a12de38.png",
+      "assetGroup": "Bloom::BLOOM",
+      "currencyId": "Bloom::BLOOM"
+    },
+    "0xfbc3c04845162f067a0b6f8934383e63899c3524": {
+      "chainId": "250",
+      "decimals": 18,
+      "name": "Fantums of Opera Token",
+      "address": "0xfbc3c04845162f067a0b6f8934383e63899c3524",
+      "symbol": "FOO",
+      "logoURI": "https://static.debank.com/image/ftm_token/logo_url/0xfbc3c04845162f067a0b6f8934383e63899c3524/1bc34c01391c7ee682709d0726fd3f23.png",
+      "assetGroup": "Fantums of Opera Token::FOO",
+      "currencyId": "Fantums of Opera Token::FOO"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "250",
+      "decimals": 18,
+      "name": "Fantom",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "FTM",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/250.webp",
+      "assetGroup": "FTM",
+      "currencyId": "Fantom::FTM",
+      "tags": [
+        "native",
+        "openocean",
+        "coingecko",
+        "debridge",
+        "wnative",
+        "GRANARY",
+        "wrapped:0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83"
+      ]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x04068da6c83afcfa0e13ba15a6696662335d5b75",
     "0x049d68029688eabf473097a2fc38ef61633a3c7a",
     "0x511d35c52a3c244e7b8bd92c0c297755fbd89212",

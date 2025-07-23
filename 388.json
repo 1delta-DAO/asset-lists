@@ -188,9 +188,20 @@
       "assetGroup": "POL",
       "currencyId": "Wrapped Matic::WMATIC",
       "tags": ["debridge"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "388",
+      "address": "0x0000000000000000000000000000000000000000",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/388.webp",
+      "currencyId": "Cronos zkEVM CRO::zkCRO",
+      "tags": ["native"],
+      "name": "Cronos zkEVM CRO",
+      "symbol": "zkCRO",
+      "decimals": 18
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x271602a97027ee1dd03b1e6e5db153eb659a80b1",
     "0xd65e5dba71231d35a5802ba83dc6cb6746c9758d",
     "0x18d40bd95e34d1a4fcaf9027db11f6988e5b860a",

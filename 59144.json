@@ -1792,9 +1792,33 @@
       "assetGroup": "Trusta AI::TA",
       "currencyId": "Trusta AI::TA",
       "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "59144",
+      "decimals": 18,
+      "name": "Ether",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/59144.webp",
+      "assetGroup": "ETH",
+      "currencyId": "Ether::ETH",
+      "tags": [
+        "native",
+        "coingecko",
+        "debridge",
+        "wnative",
+        "biconomy-gas-token",
+        "AAVE_V3",
+        "ZEROLEND",
+        "ZEROLEND_CROAK",
+        "ZEROLEND_FOXY",
+        "GRANARY",
+        "wrapped:0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f"
+      ]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x3d4b2132ed4ea0aa93903713a4de9f98e625a5c7",
     "0x1578f35532fa091eced8638730f9db829930ce16",
     "0x6baa318cf7c51c76e17ae1ebe9bbff96ae017acb",

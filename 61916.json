@@ -101,9 +101,20 @@
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/61916/0x8e6dAa037b7F130020b30562f1E2a5D02233E6c5.png",
       "assetGroup": "USDT",
       "currencyId": "Tether USD::USDT"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "61916",
+      "address": "0x0000000000000000000000000000000000000000",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/61916.webp",
+      "currencyId": "DoKEN::DKN",
+      "tags": ["native"],
+      "name": "DoKEN",
+      "symbol": "DKN",
+      "decimals": 18
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x867f08a3ab824b42e8058a1b48e32e1df205b092",
     "0xdc2393dc10734bf153153038943a5deb42b209cd",
     "0xb25cb6a275a8d6a613228fb161eb3627b50eb696",

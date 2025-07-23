@@ -33,9 +33,21 @@
       "assetGroup": "USDT",
       "currencyId": "Sophon Bridged USDT (Sophon)::USDT",
       "tags": ["bridged", "debridge"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "50104",
+      "decimals": 18,
+      "name": "Sophon",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "SOPH",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/50104.webp",
+      "assetGroup": "Wrapped Sophon::WSOPH",
+      "currencyId": "Sophon::SOPH",
+      "tags": ["native", "debridge", "wnative", "wrapped:0x2b1a859de6a55c553520d7780bc5805712b128f9"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x9aa0f72392b5784ad86c6f3e899bcc053d00db4f",
     "0x2b1a859de6a55c553520d7780bc5805712b128f9",
     "0x6386da73545ae4e2b2e0393688fa8b65bb9a7169"

@@ -197,9 +197,21 @@
       "assetGroup": "BTCB Token::BTCB",
       "currencyId": "BTCB Token::BTCB",
       "tags": ["VENUS", "SEGMENT"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "204",
+      "decimals": 18,
+      "name": "BNB Chain Native Token",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "BNB",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/204.webp",
+      "assetGroup": "BNB",
+      "currencyId": "BNB Chain Native Token::BNB",
+      "tags": ["native", "coingecko", "wnative", "KINZA", "VENUS", "wrapped:0x4200000000000000000000000000000000000006"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x4200000000000000000000000000000000000006",
     "0xb01d49c26416a352fac4fbb3d555d5f2543e3247",
     "0x317bc431f7ef8b012dfbb563814de202f5469516",

@@ -3495,9 +3495,40 @@
       "assetGroup": "Gauntlet WETH Vault::gtwethc",
       "currencyId": "Gauntlet WETH Vault::gtwethc",
       "tags": ["erc4626"]
+    },
+    "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad": {
+      "chainId": "130",
+      "decimals": 18,
+      "name": "Catex",
+      "address": "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad",
+      "symbol": "CATX",
+      "logoURI": "https://assets.coingecko.com/coins/images/67331/thumb/Catex_logo_Coinbgecko.png?1752402945",
+      "assetGroup": "Catex::CATX",
+      "currencyId": "Catex::CATX",
+      "tags": ["coingecko"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "130",
+      "decimals": 18,
+      "name": "Ether",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/130.webp",
+      "assetGroup": "ETH",
+      "currencyId": "Ether::ETH",
+      "tags": [
+        "native",
+        "coingecko",
+        "wnative",
+        "biconomy-gas-token",
+        "COMPOUND_V3_USDC",
+        "VENUS",
+        "wrapped:0x4200000000000000000000000000000000000006"
+      ]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0xbf678793522638f7439afe3b94d2d2a3a4cbf2c9",
     "0xf6ac97b05b3bc92f829c7584b25839906507176b",
     "0x078d782b760474a361dda0af3839290b0ef57ad6",

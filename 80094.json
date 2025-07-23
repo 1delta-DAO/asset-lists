@@ -1024,9 +1024,29 @@
       "assetGroup": "Wrapped FRAX::WFRAX",
       "currencyId": "Wrapped FRAX::WFRAX",
       "tags": ["coingecko", "biconomy-gas-token"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "BERA Token",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "BERA",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/80094.webp",
+      "assetGroup": "BERA",
+      "currencyId": "BERA Token::BERA",
+      "tags": [
+        "native",
+        "coingecko",
+        "wnative",
+        "biconomy-gas-token",
+        "debridge",
+        "ZEROLEND",
+        "wrapped:0x6969696969696969696969696969696969696969"
+      ]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
     "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
     "0x549943e04f40284185054145c6e4e9568c1d3241",

@@ -337,9 +337,29 @@
       "assetGroup": "USDC",
       "currencyId": "Bridged USDC::USDC.e",
       "tags": ["bridged", "AVALON"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "4689",
+      "decimals": 18,
+      "name": "IoTeX",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "IOTX",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/4689.webp",
+      "assetGroup": "IOTX",
+      "currencyId": "IoTeX::IOTX",
+      "tags": [
+        "native",
+        "coingecko",
+        "wnative",
+        "AVALON",
+        "AVALON_USDA",
+        "AVALON_UNILOTX",
+        "wrapped:0xa00744882684c3e4747faefd68d283ea44099d03"
+      ]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x8e33229206f726993e4a7bf7da2347f3743bf8b4",
     "0x17df9fbfc1cdab0f90eddc318c4f6fcada730cf2",
     "0xa7108637552cec7e8c2dd08a9cd995caff8b4280",

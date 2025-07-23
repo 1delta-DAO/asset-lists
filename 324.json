@@ -1700,6 +1700,7 @@
       "name": "Velocore",
       "address": "0x99bbe51be7cce6c8b84883148fd3d12ace5787f2",
       "symbol": "VC",
+      "logoURI": "https://static.debank.com/image/era_token/logo_url/0x85d84c774cf8e9ff85342684b0e795df72a24908/a82c2af76646d40308be938c9a001c7c.png",
       "assetGroup": "Velocore::VC",
       "currencyId": "Velocore::VC",
       "tags": ["ZEROLEND"]
@@ -1713,9 +1714,20 @@
       "assetGroup": "SUSDE",
       "currencyId": "Staked USDe::sUSDe",
       "tags": ["AAVE_V3"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "324",
+      "address": "0x0000000000000000000000000000000000000000",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/324.webp",
+      "currencyId": "Ether::ETH",
+      "tags": ["native"],
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0xaf08a9d918f16332f22cf8dc9abe9d9e14ddcbc2",
     "0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4",
     "0xbbeb516fb02a01611cbbe0453fe3c580d7281011",

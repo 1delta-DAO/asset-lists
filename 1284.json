@@ -757,9 +757,21 @@
       "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0xfa36fe1da08c89ec72ea1f0143a35bfd5daea108/5c351b89eff88c4849a90db8d4216a2d.png",
       "assetGroup": "Liquid staked DOT::stDOT",
       "currencyId": "Liquid staked DOT::stDOT"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "1284",
+      "decimals": 18,
+      "name": "Glimmer",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "GLMR",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/1284.webp",
+      "assetGroup": "WGLMR",
+      "currencyId": "Glimmer::GLMR",
+      "tags": ["native", "coingecko", "wnative", "wrapped:0xacc15dc74880c9944775448304b263d191c6077f"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0xffffffff63d24ecc8eb8a7b5d0803e900f7b6ced",
     "0xffffffff43b4560bc0c451a3386e082bff50ac90",
     "0xacc15dc74880c9944775448304b263d191c6077f",

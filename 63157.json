@@ -22,8 +22,23 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdc.svg",
       "assetGroup": "USDC",
       "currencyId": "USD Coin::USDC"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "63157",
+      "decimals": 18,
+      "name": "Aavegotchi GHST Token",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "GHST",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/63157.webp",
+      "assetGroup": "WGHST",
+      "currencyId": "Aavegotchi GHST Token::GHST",
+      "tags": ["native", "wnative", "wrapped:0x74e2051a9cd994f83f2d789448dca4a3e879964c"]
     }
   },
-  "mainTokens": ["0xcfa0bc1ed6135166e9163211b4ca566a0ee81e35", "0x74e2051a9cd994f83f2d789448dca4a3e879964c"],
+  "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
+    "0xcfa0bc1ed6135166e9163211b4ca566a0ee81e35",
+    "0x74e2051a9cd994f83f2d789448dca4a3e879964c"
+  ],
   "bridgeTokens": ["0xcfa0bc1ed6135166e9163211b4ca566a0ee81e35"]
 }

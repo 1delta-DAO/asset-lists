@@ -21,8 +21,18 @@
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/8081/0xb5C7882e37359572FD1cCFAA276e7Fdf70145D42.png",
       "assetGroup": "USDT",
       "currencyId": "Tether USD::USDT"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "8081",
+      "address": "0x0000000000000000000000000000000000000000",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/8081.webp",
+      "currencyId": "Shardeum SHM::SHM",
+      "tags": ["native"],
+      "name": "Shardeum SHM",
+      "symbol": "SHM",
+      "decimals": 18
     }
   },
-  "mainTokens": ["0xb5c7882e37359572fd1ccfaa276e7fdf70145d42"],
+  "mainTokens": ["0x0000000000000000000000000000000000000000", "0xb5c7882e37359572fd1ccfaa276e7fdf70145d42"],
   "bridgeTokens": ["0xb5c7882e37359572fd1ccfaa276e7fdf70145d42"]
 }

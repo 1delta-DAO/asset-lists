@@ -31,8 +31,18 @@
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/254/0x00313eAC7eDC05412749bd65422B0Cb1fd4632E1.png",
       "assetGroup": "Parasail SWAN::pSWAN",
       "currencyId": "Parasail SWAN::pSWAN"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "254",
+      "address": "0x0000000000000000000000000000000000000000",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/254.webp",
+      "currencyId": "Ether::ETH",
+      "tags": ["native"],
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
     }
   },
-  "mainTokens": [],
+  "mainTokens": ["0x0000000000000000000000000000000000000000"],
   "bridgeTokens": []
 }

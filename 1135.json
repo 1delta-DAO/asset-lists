@@ -83,9 +83,20 @@
       "logoURI": "https://static.debank.com/image/lisk_token/logo_url/0x9bfa177621119e64cecbeabe184ab9993e2ef727/4fbfc21e21f337f3221adea0b75baf63.png",
       "assetGroup": "M-BTC",
       "currencyId": "Merlin BTC::M-BTC"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "1135",
+      "address": "0x0000000000000000000000000000000000000000",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/1135.webp",
+      "currencyId": "Ether::ETH",
+      "tags": ["native"],
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x4200000000000000000000000000000000000006",
     "0x05d032ac25d322df992303dca074ee7392c117b9",
     "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3"

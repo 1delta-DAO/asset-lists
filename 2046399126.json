@@ -141,9 +141,20 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/network/skale-europa/0xcb011E86DF014a46F4e3AC3F3cbB114A4EB80870.jpg",
       "assetGroup": "Wrapped WBTC::WBTC",
       "currencyId": "Wrapped WBTC::WBTC"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "2046399126",
+      "address": "0x0000000000000000000000000000000000000000",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/2046399126.webp",
+      "currencyId": "sFUEL::sFUEL",
+      "tags": ["native"],
+      "name": "sFUEL",
+      "symbol": "sFUEL",
+      "decimals": 18
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0xd2aaa00700000000000000000000000000000000",
     "0x5f795bb52dac3085f578f4877d450e2929d2f13d",
     "0x1c0491e3396ad6a35f061c62387a95d7218fc515",

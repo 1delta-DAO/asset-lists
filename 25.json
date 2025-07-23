@@ -173,7 +173,7 @@
       "name": "Annex Finance",
       "address": "0x98936bde1cf1bff1e7a8012cee5e2583851f2067",
       "symbol": "ANN",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/1655873147666_6141204196652459.png",
+      "logoURI": "https://static.debank.com/image/cro_token/logo_url/0x98936bde1cf1bff1e7a8012cee5e2583851f2067/98d2ff49015755fde69e325aa756147a.png",
       "assetGroup": "ANN",
       "currencyId": "Annex Finance::ANN",
       "tags": ["openocean"]
@@ -3043,9 +3043,21 @@
       "assetGroup": "NeurotiCat::NEURO",
       "currencyId": "NeurotiCat::NEURO",
       "tags": ["coingecko"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "Cronos",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "CRO",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/25.webp",
+      "assetGroup": "Wrapped CRO::WCRO",
+      "currencyId": "Cronos::CRO",
+      "tags": ["native", "openocean", "coingecko", "wnative", "wrapped:0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x66e428c3f67a68878562e79a0234c1f83c208770",
     "0xc21223249ca28397b4b6541dffaecc539bff0c59",
     "0xe44fd7fcb2b1581822d0c862b68222998a0c299a",

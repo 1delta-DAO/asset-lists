@@ -66,9 +66,21 @@
       "assetGroup": "BLEND::BLEND",
       "currencyId": "BLEND::BLEND",
       "tags": ["coingecko"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "41923",
+      "decimals": 18,
+      "name": "EDU",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "EDU",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/41923.webp",
+      "assetGroup": "Wrapped EDU::WEDU",
+      "currencyId": "EDU::EDU",
+      "tags": ["native", "wnative", "coingecko", "wrapped:0xd02e8c38a8e3db71f8b2ae30b8186d7874934e12"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x836d275563bab5e93fd6ca62a95db7065da94342",
     "0x7277cc818e3f3ffbb169c6da9cc77fc2d2a34895",
     "0xd02e8c38a8e3db71f8b2ae30b8186d7874934e12",

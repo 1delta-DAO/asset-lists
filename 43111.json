@@ -487,9 +487,28 @@
       "assetGroup": "SushiSwap LP Token (VUSD-USDC.e)::SLP",
       "currencyId": "SushiSwap LP Token (VUSD-USDC.e)::SLP",
       "tags": ["LENDOS"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "43111",
+      "decimals": 18,
+      "name": "Ether",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/43111.webp",
+      "assetGroup": "ETH",
+      "currencyId": "Ether::ETH",
+      "tags": [
+        "native",
+        "wnative",
+        "LAYERBANK_V3",
+        "ZEROLEND",
+        "LENDOS",
+        "wrapped:0x4200000000000000000000000000000000000006"
+      ]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x4200000000000000000000000000000000000006",
     "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa",
     "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e",

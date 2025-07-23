@@ -1932,7 +1932,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000014/0x7a0c53f7eb34c5bc8b01691723669ada9d6cb384/small/token-logo.png",
       "assetGroup": "SpookyToken V::BOO",
       "currencyId": "SpookyToken V::BOO",
-      "tags": ["debridge"]
+      "tags": ["debridge", "coingecko"]
     },
     "0x1cefa23c160ba7f11fd770d51822254238dba3e5": {
       "chainId": "146",
@@ -2406,9 +2406,44 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/vs.png",
       "assetGroup": "vS Token::vS",
       "currencyId": "vS Token::vS"
+    },
+    "0x92ebf5a1fb4061b45222a6d76accf4698bde4b95": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Gami Capital scUSD",
+      "address": "0x92ebf5a1fb4061b45222a6d76accf4698bde4b95",
+      "symbol": "Gami_scUSD",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-silo.svg",
+      "assetGroup": "Gami Capital scUSD::Gami_scUSD",
+      "currencyId": "Gami Capital scUSD::Gami_scUSD"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Sonic",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "S",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/146.webp",
+      "assetGroup": "S",
+      "currencyId": "Sonic::S",
+      "tags": [
+        "native",
+        "coingecko",
+        "wnative",
+        "biconomy-gas-token",
+        "debridge",
+        "AAVE_V3",
+        "AVALON_BEETS",
+        "POLTER",
+        "MAGSIN",
+        "ENCLABS",
+        "ENCLABS_LST",
+        "wrapped:0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38"
+      ]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x29219dd400f2bf60e5a23d13be72b486d4038894",
     "0x50c42deacd8fc9773493ed674b675be577f2634b",
     "0xbf5899166ac476370b3117c9256b7fc45624f4ea",

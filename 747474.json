@@ -221,10 +221,23 @@
       "symbol": "WETH",
       "logoURI": "https://static.debank.com/image/katana_token/logo_url/0x4200000000000000000000000000000000000006/61844453e63cf81301f845d7864236f6.png",
       "assetGroup": "ETH",
-      "currencyId": "Wrapped Ether::WETH"
+      "currencyId": "Wrapped Ether::WETH",
+      "tags": ["wnative"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "747474",
+      "decimals": 18,
+      "name": "Ether",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/747474.webp",
+      "assetGroup": "ETH",
+      "currencyId": "Ether::ETH",
+      "tags": ["native", "wnative", "wrapped:0x4200000000000000000000000000000000000006"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
     "0x2dca96907fde857dd3d816880a0df407eeb2d2f2",
     "0x0913da6da4b42f538b445599b46bb4622342cf52",

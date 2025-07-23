@@ -33,8 +33,23 @@
       "assetGroup": "Wrapped MEER::WMEER",
       "currencyId": "Wrapped MEER::WMEER",
       "tags": ["wnative"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "813",
+      "decimals": 18,
+      "name": "Qitmeer",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "MEER",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/813.webp",
+      "assetGroup": "Wrapped MEER::WMEER",
+      "currencyId": "Qitmeer::MEER",
+      "tags": ["native", "wnative", "wrapped:0x470cbfb236860eb5257bbf78715fb5bd77119c2f"]
     }
   },
-  "mainTokens": ["0x7d5a56742c082fcdfc240cd7d1775f00e059771f", "0x470cbfb236860eb5257bbf78715fb5bd77119c2f"],
+  "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
+    "0x7d5a56742c082fcdfc240cd7d1775f00e059771f",
+    "0x470cbfb236860eb5257bbf78715fb5bd77119c2f"
+  ],
   "bridgeTokens": ["0x7d5a56742c082fcdfc240cd7d1775f00e059771f"]
 }

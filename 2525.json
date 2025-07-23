@@ -22,8 +22,23 @@
       "assetGroup": "Wrapped Injective::WINJ",
       "currencyId": "Wrapped Injective::WINJ",
       "tags": ["wnative"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "2525",
+      "decimals": 18,
+      "name": "Injective",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "INJ",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/2525.webp",
+      "assetGroup": "Wrapped Injective::WINJ",
+      "currencyId": "Injective::INJ",
+      "tags": ["native", "wnative", "wrapped:0x69011706b3f6c6eaed7d2bc13801558b4fd94cbf"]
     }
   },
-  "mainTokens": ["0x97423a68bae94b5de52d767a17abcc54c157c0e5", "0x69011706b3f6c6eaed7d2bc13801558b4fd94cbf"],
+  "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
+    "0x97423a68bae94b5de52d767a17abcc54c157c0e5",
+    "0x69011706b3f6c6eaed7d2bc13801558b4fd94cbf"
+  ],
   "bridgeTokens": ["0x97423a68bae94b5de52d767a17abcc54c157c0e5"]
 }

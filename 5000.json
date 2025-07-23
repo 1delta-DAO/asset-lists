@@ -1329,7 +1329,12 @@
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/16ebbece-2e29-4e7b-acba-d3d23fa8dec0.svg",
       "assetGroup": "PT cmETH 18SEP2025::PT-cmETH-18SEP2025",
       "currencyId": "PT cmETH 18SEP2025::PT-cmETH-18SEP2025",
-      "tags": ["PENDLE-PT", "LENDLE_PT_CMETH", "YT:0xaffe4b1b1eebe6dd1ee31ad27c88a918825c89f8"]
+      "tags": [
+        "PENDLE-PT",
+        "LENDLE_PT_CMETH",
+        "PENDLE-YT:0xaffe4b1b1eebe6dd1ee31ad27c88a918825c89f8",
+        "PENDLE-MARKET:0x6304ccbda63a7fb94919c705de54f9889f3ce047"
+      ]
     },
     "0x482deb2f7b9608a80ea91e71f06380e9891501c6": {
       "chainId": "5000",
@@ -1350,9 +1355,32 @@
       "assetGroup": "MNT",
       "currencyId": "Mantle (as ERC20)::MNT",
       "tags": ["mantlelist", "coingecko", "debridge"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "5000",
+      "decimals": 18,
+      "name": "Mantle",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "MNT",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/5000.webp",
+      "assetGroup": "MNT",
+      "currencyId": "Mantle::MNT",
+      "tags": [
+        "native",
+        "coingecko",
+        "wnative",
+        "biconomy-gas-token",
+        "debridge",
+        "LENDLE",
+        "AURELIUS",
+        "KINZA",
+        "INIT",
+        "wrapped:0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8"
+      ]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
     "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
     "0x94a42083948d86432246ead625b30d49014a4bff",

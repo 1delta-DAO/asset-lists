@@ -156,9 +156,21 @@
       "assetGroup": "DegenSwap::DSWAP",
       "currencyId": "DegenSwap::DSWAP",
       "tags": ["coingecko"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "666666666",
+      "decimals": 18,
+      "name": "DEGEN",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "DEGEN",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/666666666.webp",
+      "assetGroup": "Wrapped DEGEN::WDEGEN",
+      "currencyId": "DEGEN::DEGEN",
+      "tags": ["native", "coingecko", "wnative", "wrapped:0xeb54dacb4c2ccb64f8074eceea33b5ebb38e5387"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x8aceb2687b59f97da274fe9135c3fada0751ecb2",
     "0xf1815bd50389c46847f0bda824ec8da914045d14",
     "0x674843c06ff83502ddb4d37c2e09c01cda38cbc8",

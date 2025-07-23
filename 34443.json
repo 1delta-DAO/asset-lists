@@ -705,9 +705,28 @@
       "assetGroup": "Wrapped FRAX::WFRAX",
       "currencyId": "Wrapped FRAX::WFRAX",
       "tags": ["coingecko"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "34443",
+      "decimals": 18,
+      "name": "Ether",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/34443.webp",
+      "assetGroup": "ETH",
+      "currencyId": "Ether::ETH",
+      "tags": [
+        "native",
+        "coingecko",
+        "wnative",
+        "MOLEND",
+        "IRONCLAD",
+        "wrapped:0x4200000000000000000000000000000000000006"
+      ]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0xcdd475325d6f564d27247d1dddbb0dac6fa0a5cf",
     "0xd988097fb8612cc24eec14542bc03424c656005f",
     "0xf0f161fda2712db8b566946122a5af183995e2ed",

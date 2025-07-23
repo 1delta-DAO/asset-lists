@@ -42,8 +42,19 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/deUSD.svg",
       "assetGroup": "Staked deUSD::sdeUSD",
       "currencyId": "Staked deUSD::sdeUSD"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "1729",
+      "decimals": 18,
+      "name": "Ether",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/1729.webp",
+      "assetGroup": "ETH",
+      "currencyId": "Ether::ETH",
+      "tags": ["native", "wnative", "wrapped:0x6b48c2e6a32077ec17e8ba0d98ffc676dfab1a30"]
     }
   },
-  "mainTokens": ["0x6b48c2e6a32077ec17e8ba0d98ffc676dfab1a30"],
+  "mainTokens": ["0x0000000000000000000000000000000000000000", "0x6b48c2e6a32077ec17e8ba0d98ffc676dfab1a30"],
   "bridgeTokens": ["0x6b48c2e6a32077ec17e8ba0d98ffc676dfab1a30"]
 }

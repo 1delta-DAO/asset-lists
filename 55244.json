@@ -22,8 +22,18 @@
       "assetGroup": "Bridged USDC (Superposition)::USDCe",
       "currencyId": "Bridged USDC (Superposition)::USDCe",
       "tags": ["bridged"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "55244",
+      "address": "0x0000000000000000000000000000000000000000",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/55244.webp",
+      "currencyId": "Ether::ETH",
+      "tags": ["native"],
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
     }
   },
-  "mainTokens": ["0x1fb719f10b56d7a85dcd32f27f897375fb21cfdd"],
+  "mainTokens": ["0x0000000000000000000000000000000000000000", "0x1fb719f10b56d7a85dcd32f27f897375fb21cfdd"],
   "bridgeTokens": ["0x1fb719f10b56d7a85dcd32f27f897375fb21cfdd"]
 }

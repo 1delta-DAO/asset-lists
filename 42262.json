@@ -111,9 +111,21 @@
       "assetGroup": "Bridged USDT (Wormhole)::USDTSO",
       "currencyId": "Bridged USDT (Wormhole)::USDTSO",
       "tags": ["wormhole", "bridged", "coingecko"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "42262",
+      "decimals": 18,
+      "name": "Emerald Rose",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ROSE",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/42262.webp",
+      "assetGroup": "ROSE",
+      "currencyId": "Emerald Rose::ROSE",
+      "tags": ["native", "coingecko", "wnative", "wrapped:0x21c718c22d52d0f3a789b752d4c2fd5908a8a733"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0xd1df9ce4b6159441d18bd6887dbd7320a8d52a05",
     "0x21c718c22d52d0f3a789b752d4c2fd5908a8a733",
     "0x3223f17957ba502cbe71401d55a0db26e5f7c68f",

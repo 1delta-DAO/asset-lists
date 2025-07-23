@@ -16701,7 +16701,12 @@
       "logoURI": "https://basescan.org/token/images/ptcbeth_32.svg",
       "assetGroup": "PT Coinbase Wrapped Staked ETH 25DEC2025::PT-cbETH-25DEC2025",
       "currencyId": "PT Coinbase Wrapped Staked ETH 25DEC2025::PT-cbETH-25DEC2025",
-      "tags": ["ZEROLEND", "PENDLE-PT", "YT:0xf9da8f69d518d7f6488179014f475e843ee2defd"]
+      "tags": [
+        "ZEROLEND",
+        "PENDLE-PT",
+        "PENDLE-YT:0xf9da8f69d518d7f6488179014f475e843ee2defd",
+        "PENDLE-MARKET:0x483f2e223c58a5ef19c4b32fbc6de57709749cb3"
+      ]
     },
     "0x5d746848005507da0b1717c137a10c30ad9ee307": {
       "chainId": "8453",
@@ -16712,7 +16717,11 @@
       "logoURI": "https://basescan.org/token/images/ptlbtc_32.svg",
       "assetGroup": "PT Lombard LBTC 29MAY2025::PT-LBTC-29MAY2025",
       "currencyId": "PT Lombard LBTC 29MAY2025::PT-LBTC-29MAY2025",
-      "tags": ["ZEROLEND", "PENDLE-PT", "YT:0x5fd84c3dd5c00ab9e04bd94685b55e8dd0c1e3fd"]
+      "tags": [
+        "ZEROLEND",
+        "PENDLE-PT",
+        "PENDLE-YT:0x5fd84c3dd5c00ab9e04bd94685b55e8dd0c1e3fd"
+      ]
     },
     "0x69000dfd5025e82f48eb28325a2b88a241182ced": {
       "chainId": "8453",
@@ -16855,7 +16864,10 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/ptusr.svg",
       "assetGroup": "PT Resolv USD 24APR2025::PT-USR-24APR2025",
       "currencyId": "PT Resolv USD 24APR2025::PT-USR-24APR2025",
-      "tags": ["PENDLE-PT", "YT:0x22cf19b7d8de1b53bbd9792e12ea86191985731f"]
+      "tags": [
+        "PENDLE-PT",
+        "PENDLE-YT:0x22cf19b7d8de1b53bbd9792e12ea86191985731f"
+      ]
     },
     "0x9a52fcd13fb9927d884b7eae826697c0aa0659cc": {
       "chainId": "8453",
@@ -18977,7 +18989,12 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/ptusr.svg",
       "assetGroup": "PT Resolv USD 25SEP2025::PT-USR-25SEP2025",
       "currencyId": "PT Resolv USD 25SEP2025::PT-USR-25SEP2025",
-      "tags": ["XLEND", "PENDLE-PT", "YT:0x61468ea4d55c02744041f16daf8ed0262891661f"]
+      "tags": [
+        "XLEND",
+        "PENDLE-PT",
+        "PENDLE-YT:0x61468ea4d55c02744041f16daf8ed0262891661f",
+        "PENDLE-MARKET:0x715509bde846104cf2ccebf6fdf7ef1bb874bc45"
+      ]
     },
     "0x715509bde846104cf2ccebf6fdf7ef1bb874bc45": {
       "chainId": "8453",
@@ -25318,7 +25335,7 @@
       "logoURI": "https://ethereum-optimism.github.io/data/PLMS/logo.svg",
       "assetGroup": "Polemos::PLMS",
       "currencyId": "Polemos::PLMS",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x1b745230a0320470a9af55bb0a67c47c90978a14": {
       "chainId": "8453",
@@ -25395,7 +25412,11 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/pt-lbtc.svg",
       "assetGroup": "PT Lombard LBTC scaled18 25SEP2025::PT-LBTC-scaled18-25SEP2025",
       "currencyId": "PT Lombard LBTC scaled18 25SEP2025::PT-LBTC-scaled18-25SEP2025",
-      "tags": ["PENDLE-PT", "YT:0x86725be2f3b01a2b18617f77542800ed4f4cfdca"]
+      "tags": [
+        "PENDLE-PT",
+        "PENDLE-YT:0x86725be2f3b01a2b18617f77542800ed4f4cfdca",
+        "PENDLE-MARKET:0x4eae2e40c6612005214ea919cc7653da853ed409"
+      ]
     },
     "0xaa5ad1f869b910e5f794b9366e05e5f2cab4bfad": {
       "chainId": "8453",
@@ -27447,9 +27468,50 @@
       "assetGroup": "Conspiracy Guy::CGUY",
       "currencyId": "Conspiracy Guy::CGUY",
       "tags": ["coingecko"]
+    },
+    "0x0a9bc2c63e84436538185543bc0dcca42c4d2cf6": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "AGENT BAPO",
+      "address": "0x0a9bc2c63e84436538185543bc0dcca42c4d2cf6",
+      "symbol": "BAPO",
+      "logoURI": "https://assets.coingecko.com/coins/images/67606/thumb/photo_6051050493167390009_x_%281%29.jpg?1753258650",
+      "assetGroup": "AGENT BAPO::BAPO",
+      "currencyId": "AGENT BAPO::BAPO",
+      "tags": ["coingecko"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Ether",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/8453.webp",
+      "assetGroup": "ETH",
+      "currencyId": "Ether::ETH",
+      "tags": [
+        "native",
+        "coingecko",
+        "debridge",
+        "wnative",
+        "biconomy-gas-token",
+        "AAVE_V3",
+        "ZEROLEND",
+        "GRANARY",
+        "YLDR",
+        "POLTER",
+        "XLEND",
+        "COMPOUND_V3_USDC",
+        "COMPOUND_V3_WETH",
+        "COMPOUND_V3_USDBC",
+        "COMPOUND_V3_AERO",
+        "VENUS",
+        "wrapped:0x4200000000000000000000000000000000000006"
+      ]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x78a087d713be963bf307b18f2ff8122ef9a63ae9",
     "0xd5046b976188eb40f6de40fb527f89c05b323385",
     "0xe4750593d1fc8e74b31549212899a72162f315fa",

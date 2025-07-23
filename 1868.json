@@ -321,9 +321,28 @@
       "assetGroup": "Stargate Bridged USDT0::USDT0",
       "currencyId": "Stargate Bridged USDT0::USDT0",
       "tags": ["stargate", "bridged", "SAKE", "coingecko"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "1868",
+      "decimals": 18,
+      "name": "Ether",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/1868.webp",
+      "assetGroup": "ETH",
+      "currencyId": "Ether::ETH",
+      "tags": [
+        "native",
+        "coingecko",
+        "wnative",
+        "AAVE_V3",
+        "SAKE",
+        "wrapped:0x4200000000000000000000000000000000000006"
+      ]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0xba9986d2381edf1da03b0b9c1f8b00dc4aacc369",
     "0x3a337a6ada9d885b6ad95ec48f9b75f197b5ae35",
     "0x4200000000000000000000000000000000000006",

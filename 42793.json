@@ -161,9 +161,21 @@
       "assetGroup": "Midas mTBILL::MTBILL",
       "currencyId": "Midas mTBILL::MTBILL",
       "tags": ["coingecko"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "42793",
+      "decimals": 18,
+      "name": "tez",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "XTZ",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/42793.webp",
+      "assetGroup": "XTZ",
+      "currencyId": "tez::XTZ",
+      "tags": ["native", "coingecko", "wnative", "wrapped:0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x9121b153bbcf8c23f20ee43b494f08760b91ad64",
     "0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab",
     "0x2c03058c8afc06713be23e58d2febc8337dbfe6a",

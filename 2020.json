@@ -41,8 +41,22 @@
       "assetGroup": "AXS",
       "currencyId": "Axie Infinity Shard::AXS",
       "tags": ["COMPOUND_V3_WETH"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "2020",
+      "address": "0x0000000000000000000000000000000000000000",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/2020.webp",
+      "currencyId": "RON::RON",
+      "tags": ["native"],
+      "name": "RON",
+      "symbol": "RON",
+      "decimals": 18
     }
   },
-  "mainTokens": ["0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5", "0x0b7007c13325c48911f73a2dad5fa5dcbf808adc"],
+  "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
+    "0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5",
+    "0x0b7007c13325c48911f73a2dad5fa5dcbf808adc"
+  ],
   "bridgeTokens": ["0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5", "0x0b7007c13325c48911f73a2dad5fa5dcbf808adc"]
 }

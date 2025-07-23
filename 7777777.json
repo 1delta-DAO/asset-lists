@@ -12,8 +12,18 @@
       "assetGroup": "USD Coin (Bridged from Ethereum)::USDzC",
       "currencyId": "USD Coin (Bridged from Ethereum)::USDzC",
       "tags": ["bridged"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "7777777",
+      "address": "0x0000000000000000000000000000000000000000",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/7777777.webp",
+      "currencyId": "Ether::ETH",
+      "tags": ["native"],
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18
     }
   },
-  "mainTokens": [],
+  "mainTokens": ["0x0000000000000000000000000000000000000000"],
   "bridgeTokens": []
 }

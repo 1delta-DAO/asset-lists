@@ -333,9 +333,30 @@
       "assetGroup": "SUSDA",
       "currencyId": "sUSDa::sUSDa",
       "tags": ["AVALON_USDA"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "167000",
+      "decimals": 18,
+      "name": "Ether",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/167000.webp",
+      "assetGroup": "ETH",
+      "currencyId": "Ether::ETH",
+      "tags": [
+        "native",
+        "wnative",
+        "biconomy-gas-token",
+        "HANA",
+        "TAKOTAKO",
+        "TAKOTAKO_ETH",
+        "MERIDIAN",
+        "wrapped:0xa51894664a773981c6c112c43ce576f315d5b1b6"
+      ]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0xa51894664a773981c6c112c43ce576f315d5b1b6",
     "0xa9d23408b9ba935c230493c40c73824df71a0975",
     "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",

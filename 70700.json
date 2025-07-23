@@ -22,8 +22,23 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdc.svg",
       "assetGroup": "USDC",
       "currencyId": "USD Coin::USDC"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "70700",
+      "decimals": 18,
+      "name": "Ether",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/70700.webp",
+      "assetGroup": "ETH",
+      "currencyId": "Ether::ETH",
+      "tags": ["native", "wnative", "wrapped:0x77684a04145a5924efce0d92a7c4a2a2e8c359de"]
     }
   },
-  "mainTokens": ["0x77684a04145a5924efce0d92a7c4a2a2e8c359de", "0xd7f991cf407c877dc91b2c6acade45643925cf7a"],
+  "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
+    "0x77684a04145a5924efce0d92a7c4a2a2e8c359de",
+    "0xd7f991cf407c877dc91b2c6acade45643925cf7a"
+  ],
   "bridgeTokens": ["0x77684a04145a5924efce0d92a7c4a2a2e8c359de", "0xd7f991cf407c877dc91b2c6acade45643925cf7a"]
 }

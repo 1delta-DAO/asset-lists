@@ -127,9 +127,21 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/haqq/0x12fEFEAc0568503F7C0D934c149f29a42B05C48f",
       "assetGroup": "Stride staked ISLM::stISLM",
       "currencyId": "Stride staked ISLM::stISLM"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "11235",
+      "decimals": 18,
+      "name": "Islamic Coin",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ISLM",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/11235.webp",
+      "assetGroup": "ISLM",
+      "currencyId": "Islamic Coin::ISLM",
+      "tags": ["native", "wnative", "wrapped:0xec8cc083787c6e5218d86f9ff5f28d4cc377ac54"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0xc5e00d3b04563950941f7137b5afa3a534f0d6d6",
     "0xeceeefcee421d8062ef8d6b4d814efe4dc898265",
     "0x5fd55a1b9fc24967c4db09c513c3ba0dfa7ff687",

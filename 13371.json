@@ -133,9 +133,21 @@
       "logoURI": "https://assets.coingecko.com/coins/images/27588/standard/MEE_200x200.png",
       "assetGroup": "MEE Governance Token::MEE",
       "currencyId": "MEE Governance Token::MEE"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "13371",
+      "decimals": 18,
+      "name": "IMX",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "IMX",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/13371.webp",
+      "assetGroup": "Wrapped IMX::WIMX",
+      "currencyId": "IMX::IMX",
+      "tags": ["native", "wnative", "wrapped:0x3a0c2ba54d6cbd3121f01b96dfd20e99d1696c9d"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x6de8acc0d406837030ce4dd28e7c08c5a96a30d2",
     "0x68bcc7f1190af20e7b572bcfb431c3ac10a936ab",
     "0x52a6c53869ce09a731cd772f245b97a4401d3348",

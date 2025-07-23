@@ -660,9 +660,21 @@
       "symbol": "xcKBTC",
       "assetGroup": "Kintsugi Wrapped BTC::xcKBTC",
       "currencyId": "Kintsugi Wrapped BTC::xcKBTC"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "1285",
+      "decimals": 18,
+      "name": "Moonriver",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "MOVR",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/1285.webp",
+      "assetGroup": "MOVR",
+      "currencyId": "Moonriver::MOVR",
+      "tags": ["native", "openocean", "coingecko", "wnative", "wrapped:0x98878b06940ae243284ca214f92bb71a2b032b8a"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x682f81e57eaa716504090c3ecba8595fb54561d8",
     "0x868892cccedbff0b028f3b3595205ea91b99376b",
     "0x14a0243c333a5b238143068dc3a7323ba4c30ecb",

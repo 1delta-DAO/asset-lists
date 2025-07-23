@@ -78,9 +78,21 @@
       "assetGroup": "Wrapped ETC::WETC::61::0",
       "currencyId": "Wrapped ETC::WETC",
       "tags": ["coingecko"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "61",
+      "decimals": 18,
+      "name": "Ether",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ETC",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/61.webp",
+      "assetGroup": "Wrapped ETC::WETC",
+      "currencyId": "Ether::ETC",
+      "tags": ["native", "coingecko", "wnative", "wrapped:0x82a618305706b14e7bcf2592d4b9324a366b6dad"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x88d8c3dc6b5324f34e8cf229a93e197048671abd",
     "0xde093684c796204224bc081f937aa059d903c52a",
     "0x6c3b413c461c42a88160ed1b1b31d6f7b02a1c83",

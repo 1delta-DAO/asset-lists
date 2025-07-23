@@ -175,9 +175,21 @@
       "assetGroup": "Rusty Robot Country Club::RUST",
       "currencyId": "Rusty Robot Country Club::RUST",
       "tags": ["coingecko"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "8822",
+      "decimals": 18,
+      "name": "IOTA",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "IOTA",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/8822.webp",
+      "assetGroup": "Wrapped IOTA::WIOTA",
+      "currencyId": "IOTA::IOTA",
+      "tags": ["native", "coingecko", "wnative", "wrapped:0x6e47f8d48a01b44df3fff35d258a10a3aedc114c"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x892ad291737249abe79c657c4a5a57e11c174566",
     "0xc1b8045a6ef2934cf0f78b0dbd489969fa9be7e4",
     "0x30a1398cf11cb9e852e5d80ace7ffd5ec271169e",

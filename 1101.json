@@ -600,9 +600,21 @@
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xcf62f905562626cfcdd2261162a51fd02fc9c5b6/afe8a7ab1731c4322c252e0e38d034f5.png",
       "assetGroup": "Staked Frax USD::sfrxUSD",
       "currencyId": "Staked Frax USD::sfrxUSD"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "1101",
+      "decimals": 18,
+      "name": "Ether",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/1101.webp",
+      "assetGroup": "ETH",
+      "currencyId": "Ether::ETH",
+      "tags": ["native", "openocean", "coingecko", "wnative", "wrapped:0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x4f9a0e7fd2bf6067db6994cf12e4495df938e6e9",
     "0x1e4a5963abfd975d8c9021ce480b42188849d41d",
     "0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035",

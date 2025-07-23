@@ -237,9 +237,21 @@
       "assetGroup": "WBTC",
       "currencyId": "Wrapped BTC (Wormhole)::WBTC",
       "tags": ["wormhole", "bridged", "debridge"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "245022934",
+      "decimals": 18,
+      "name": "Neon",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "NEON",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/245022934.webp",
+      "assetGroup": "Wrapped Neon::WNEON",
+      "currencyId": "Neon::NEON",
+      "tags": ["native", "debridge", "wnative", "LENDOS", "wrapped:0x202c35e517fa803b537565c40f0a6965d7204609"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x5f0155d08ef4aae2b500aefb64a3419da8bb611a",
     "0xea6b04272f9f62f997f666f07d3a974134f7ffb9",
     "0xc0e49f8c615d3d4c245970f6dc528e4a47d69a44",

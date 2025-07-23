@@ -183,9 +183,21 @@
       "assetGroup": "STBTC",
       "currencyId": "Lorenzo stBTC::stBTC",
       "tags": ["AVALON"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "223",
+      "decimals": 18,
+      "name": "Bitcoin",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "BTC",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/223.webp",
+      "assetGroup": "WBTC",
+      "currencyId": "Bitcoin::BTC",
+      "tags": ["native", "wnative", "wrapped:0x4200000000000000000000000000000000000006"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x4200000000000000000000000000000000000006",
     "0xe544e8a38add9b1abf21922090445ba93f74b9e5",
     "0x681202351a488040fa4fdcc24188afb582c9dd62",

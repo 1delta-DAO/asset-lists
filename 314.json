@@ -55,9 +55,21 @@
       "assetGroup": "FIL",
       "currencyId": "Wrapped Filecoin::WFIL",
       "tags": ["wnative"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "314",
+      "decimals": 18,
+      "name": "filecoin",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "FIL",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/314.webp",
+      "assetGroup": "FIL",
+      "currencyId": "filecoin::FIL",
+      "tags": ["native", "wnative", "wrapped:0x60e1773636cf5e4a227d9ac24f20feca034ee25a"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x5c7e299cf531eb66f2a1df637d37abb78e6200c7",
     "0xeb466342c4d449bc9f53a865d5cb90586f405215",
     "0x422849b355039bc58f2780cc4854919fc9cfaf94",

@@ -6637,7 +6637,7 @@
       "name": "AutoMatic Network",
       "address": "0x3eb177a6693ec81d1e170136f8ad02fffbe172a7",
       "symbol": "AUMI",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/1635228244417_8097348181280004.png",
+      "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x3eb177a6693ec81d1e170136f8ad02fffbe172a7/695eb265219cb31acf255f8e5bd69e7c.png",
       "assetGroup": "AutoMatic Network::AUMI",
       "currencyId": "AutoMatic Network::AUMI",
       "tags": ["openocean"]
@@ -26887,9 +26887,113 @@
       "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/polygon/0xd4423795fd904d9b87554940a95fb7016f172773.png",
       "assetGroup": "AI Network::AIN",
       "currencyId": "AI Network::AIN"
+    },
+    "0xd2a2a353d28e4833faffc882f6649c9c884a7d8f": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "EmiDAO Token",
+      "address": "0xd2a2a353d28e4833faffc882f6649c9c884a7d8f",
+      "symbol": "ESW",
+      "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xd2a2a353d28e4833faffc882f6649c9c884a7d8f/13425399202b8965a11bfccb1e3b3f7f.png",
+      "assetGroup": "EmiDAO Token::ESW",
+      "currencyId": "EmiDAO Token::ESW"
+    },
+    "0xb6509cbd9e2d1cec787a7357eb1578b86a0c702d": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Drakoin (PoS)",
+      "address": "0xb6509cbd9e2d1cec787a7357eb1578b86a0c702d",
+      "symbol": "DRK",
+      "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xb6509cbd9e2d1cec787a7357eb1578b86a0c702d/0c13ba2a2ccd095396a9b26dcb47c29c.png",
+      "assetGroup": "Drakoin (PoS)::DRK",
+      "currencyId": "Drakoin (PoS)::DRK"
+    },
+    "0x22a31bd4cb694433b6de19e0acc2899e553e9481": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Mad Meerkat Finance",
+      "address": "0x22a31bd4cb694433b6de19e0acc2899e553e9481",
+      "symbol": "MMF",
+      "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x22a31bd4cb694433b6de19e0acc2899e553e9481/bf202e0c7ff79120dbc70c983358e57e.png",
+      "assetGroup": "Mad Meerkat Finance::MMF",
+      "currencyId": "Mad Meerkat Finance::MMF"
+    },
+    "0xf2d8124b8f9267dad61351c7ad252362880c6638": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Wrapped CRO",
+      "address": "0xf2d8124b8f9267dad61351c7ad252362880c6638",
+      "symbol": "WCRO",
+      "assetGroup": "Wrapped CRO::WCRO",
+      "currencyId": "Wrapped CRO::WCRO"
+    },
+    "0x40038c83e459937a988b669f1159cc78d8fdad68": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "pQBERT",
+      "address": "0x40038c83e459937a988b669f1159cc78d8fdad68",
+      "symbol": "pQBERT",
+      "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x40038c83e459937a988b669f1159cc78d8fdad68/f7c2273fbdc536605d72785f1b34eff5.png",
+      "assetGroup": "pQBERT::pQBERT",
+      "currencyId": "pQBERT::pQBERT"
+    },
+    "0x778949e707a0eb6c32ca20b1f9e0db9685d18024": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "GAMESTA (PoS)",
+      "address": "0x778949e707a0eb6c32ca20b1f9e0db9685d18024",
+      "symbol": "GSG",
+      "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x778949e707a0eb6c32ca20b1f9e0db9685d18024/61ee4540a4f504d34343dcf121d32034.png",
+      "assetGroup": "GAMESTA (PoS)::GSG",
+      "currencyId": "GAMESTA (PoS)::GSG"
+    },
+    "0x74ba6a10978f643a84c0b37fcb599081079811cb": {
+      "chainId": "137",
+      "decimals": 10,
+      "name": "Diabolo (PoS)",
+      "address": "0x74ba6a10978f643a84c0b37fcb599081079811cb",
+      "symbol": "DCASH",
+      "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x74ba6a10978f643a84c0b37fcb599081079811cb/41eaf14f0523aa71e2ec198768b24201.png",
+      "assetGroup": "Diabolo (PoS)::DCASH",
+      "currencyId": "Diabolo (PoS)::DCASH"
+    },
+    "0x175bdc4e52eecb675b86fc4c9a3ea3f80adbb610": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Havens Nook (PoS)",
+      "address": "0x175bdc4e52eecb675b86fc4c9a3ea3f80adbb610",
+      "symbol": "HXN",
+      "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x175bdc4e52eecb675b86fc4c9a3ea3f80adbb610/ef5a0a11e1db4125b24edf83c199484b.png",
+      "assetGroup": "Havens Nook (PoS)::HXN",
+      "currencyId": "Havens Nook (PoS)::HXN"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "POL",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "POL",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/137.webp",
+      "assetGroup": "POL",
+      "currencyId": "POL::POL",
+      "tags": [
+        "native",
+        "openocean",
+        "debridge",
+        "wnative",
+        "biconomy-gas-token",
+        "AAVE_V3",
+        "AAVE_V2",
+        "YLDR",
+        "COMPOUND_V3_USDT",
+        "COMPOUND_V3_USDCE",
+        "wrapped:0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+        "erc20:0x0000000000000000000000000000000000001010"
+      ]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
     "0xe0b52e49357fd4daf2c15e02058dce6bc0057db4",
     "0x0621d647cecbfb64b79e44302c1933cb4f27054d",

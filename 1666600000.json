@@ -597,9 +597,21 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x63cf309500d8be0B9fDB8F1fb66C821236c0438c/logo.png",
       "assetGroup": "Yield Guild Games Token::YGG",
       "currencyId": "Yield Guild Games Token::YGG"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "1666600000",
+      "decimals": 18,
+      "name": "ONE",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ONE",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/1666600000.webp",
+      "assetGroup": "ONE",
+      "currencyId": "ONE::ONE",
+      "tags": ["native", "openocean", "wnative", "AAVE_V3", "wrapped:0xcf664087a5bb0237a0bad6742852ec6c8d69a27a"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0xb1f6e61e1e113625593a22fa6aa94f8052bc39e0",
     "0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f",
     "0xbc594cabd205bd993e7ffa6f3e9cea75c1110da5",

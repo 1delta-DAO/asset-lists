@@ -91,9 +91,21 @@
       "assetGroup": "Manta::MANTA",
       "currencyId": "Manta::MANTA",
       "tags": ["ZEROLEND"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "169",
+      "decimals": 18,
+      "name": "Ether",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/169.webp",
+      "assetGroup": "ETH",
+      "currencyId": "Ether::ETH",
+      "tags": ["native", "ZEROLEND", "wnative", "wrapped:0x0dc808adce2099a9f62aa87d9670745aba741746"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0xb73603c5d87fa094b7314c74ace2e64d165016fb",
     "0xf417f5a458ec102b90352f697d6e2ac3a3d2851f",
     "0x305e88d809c9dc03179554bfbf85ac05ce8f18d6",

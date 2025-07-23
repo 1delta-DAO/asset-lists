@@ -132,9 +132,21 @@
       "assetGroup": "PUMPBTC",
       "currencyId": "pumpBTC::pumpBTC",
       "tags": ["AVALON_PUMPBTC"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "7000",
+      "decimals": 18,
+      "name": "Zeta",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ZETA",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/7000.webp",
+      "assetGroup": "ZETA",
+      "currencyId": "Zeta::ZETA",
+      "tags": ["native", "coingecko", "wnative", "AVALON", "wrapped:0x5f0b1a82749cb4e2278ec87f8bf6b618dc71a8bf"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x91d4f0d54090df2d81e834c3c8ce71c6c865e79f",
     "0x05ba149a7bd6dc1f937fa9046a9e05c05f3b18b0",
     "0x7c8dda80bbbe1254a7aacf3219ebe1481c6e01d7",

@@ -274,9 +274,21 @@
       "assetGroup": "Gama Token::GAMA",
       "currencyId": "Gama Token::GAMA",
       "tags": ["coingecko"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "50",
+      "decimals": 18,
+      "name": "XinFin",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "XDC",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/50.webp",
+      "assetGroup": "Wrapped XDC::WXDC",
+      "currencyId": "XinFin::XDC",
+      "tags": ["native", "wnative", "coingecko", "wrapped:0x951857744785e80e2de051c32ee7b25f9c458c42"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x867f08a3ab824b42e8058a1b48e32e1df205b092",
     "0xdc2393dc10734bf153153038943a5deb42b209cd",
     "0xb25cb6a275a8d6a613228fb161eb3627b50eb696",

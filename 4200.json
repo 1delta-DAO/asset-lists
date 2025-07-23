@@ -364,9 +364,28 @@
       "assetGroup": "Bridged BRC20 ordi::ordi",
       "currencyId": "Bridged BRC20 ordi::ordi",
       "tags": ["bridged", "AVALON"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "4200",
+      "decimals": 18,
+      "name": "BTC",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "BTC",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/4200.webp",
+      "assetGroup": "WBTC",
+      "currencyId": "BTC::BTC",
+      "tags": [
+        "native",
+        "coingecko",
+        "wnative",
+        "AVALON_UNIBTC",
+        "AVALON",
+        "wrapped:0xf6d226f9dc15d9bb51182815b320d3fbe324e1ba"
+      ]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x825e2cfbb71a92e09ef73d9e96d15ce2e0f63e9f",
     "0x7717d5bd6b20b817d6b0ff7078460fd620d3fda9",
     "0x8aed42735027aa6d97023d8196b084ecfba701af",

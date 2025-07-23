@@ -831,9 +831,21 @@
       "logoURI": "https://static.debank.com/image/aurora_token/logo_url/0xd80d8688b02b3fd3afb81cdb124f188bb5ad0445/4497316d0335d94bcec6c0c397238971.png",
       "assetGroup": "N",
       "currencyId": "Synapse::SYN"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "1313161554",
+      "decimals": 18,
+      "name": "Ether",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/1313161554.webp",
+      "assetGroup": "ETH",
+      "currencyId": "Ether::ETH",
+      "tags": ["native", "openocean", "coingecko", "wnative", "wrapped:0xc9bdeed33cd01541e1eed10f90519d2c06fe3feb"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x4988a896b1227218e4a686fde5eabdcabd91571f",
     "0xb12bfca5a55806aaf64e99521918a4bf0fc40802",
     "0xf4eb217ba2454613b15dbdea6e5f22276410e89e",

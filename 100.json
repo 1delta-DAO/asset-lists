@@ -8125,9 +8125,32 @@
       "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg",
       "assetGroup": "USDp::USDp",
       "currencyId": "USDp::USDp"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "100",
+      "decimals": 18,
+      "name": "xDAI",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "XDAI",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/100.webp",
+      "assetGroup": "XDAI",
+      "currencyId": "xDAI::XDAI",
+      "tags": [
+        "native",
+        "openocean",
+        "coingecko",
+        "wnative",
+        "biconomy-gas-token",
+        "AAVE_V3",
+        "SPARK",
+        "RMM",
+        "AGAVE",
+        "wrapped:0xe91d153e0b41518a2ce8dd3d7944fa863463a97d"
+      ]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x8e5bbbb09ed1ebde8674cda39a0c169401db4252",
     "0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1",
     "0x177127622c4a00f3d409b75571e12cb3c8973d3c",

@@ -42,9 +42,21 @@
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/185/0xb62F35B9546A908d11c5803ecBBA735AbC3E3eaE.png",
       "assetGroup": "USDC",
       "currencyId": "USD Coin::USDC"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "185",
+      "decimals": 18,
+      "name": "Ether",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/185.webp",
+      "assetGroup": "ETH",
+      "currencyId": "Ether::ETH",
+      "tags": ["native", "wnative", "wrapped:0x4200000000000000000000000000000000000006"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
     "0x05d032ac25d322df992303dca074ee7392c117b9",
     "0x4200000000000000000000000000000000000006",

@@ -42,9 +42,21 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/weth.svg",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "41455",
+      "decimals": 18,
+      "name": "Aleph Zero",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "AZERO",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/41455.webp",
+      "assetGroup": "Wrapped Aleph Zero::WAZERO",
+      "currencyId": "Aleph Zero::AZERO",
+      "tags": ["native", "wnative", "wrapped:0xb7da55d7040ef9c887e20374d76a88f93a59119e"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x18d25b4e18165c97e1285212e5d1f80edd6d3aa7",
     "0xd648529d4803d3467ba8850577bed4e4b8ae583c",
     "0xb3f0ee446723f4258862d949b4c9688e7e7d35d3",

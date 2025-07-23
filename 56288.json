@@ -61,9 +61,20 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/eth.jpg",
       "assetGroup": "ETH",
       "currencyId": "Ethereum::ETH"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "56288",
+      "address": "0x0000000000000000000000000000000000000000",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/56288.webp",
+      "currencyId": "Boba Token::BOBA",
+      "tags": ["native"],
+      "name": "Boba Token",
+      "symbol": "BOBA",
+      "decimals": 18
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x4200000000000000000000000000000000000023",
     "0x1e633dcd0d3d349126983d58988051f7c62c543d",
     "0x9f98f9f312d23d078061962837042b8918e6aff2",

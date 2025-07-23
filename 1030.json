@@ -144,9 +144,20 @@
       "assetGroup": "BNB",
       "currencyId": "Bridged WBNB::WBNB",
       "tags": ["bridged", "coingecko"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "1030",
+      "address": "0x0000000000000000000000000000000000000000",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/1030.webp",
+      "currencyId": "CFX::CFX",
+      "tags": ["native"],
+      "name": "CFX",
+      "symbol": "CFX",
+      "decimals": 18
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x19aae9e4269ab47ff291125b5c0c2f7296a635ab",
     "0x6963efed0ab40f6c3d7bda44a05dcf1437c44372",
     "0xfe197e7968807b311d476915db585831b43a7e3b",

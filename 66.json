@@ -467,9 +467,21 @@
       "logoURI": "https://assets.coingecko.com/coins/images/12477/small/s_wing_icon.png?1610631390",
       "assetGroup": "Wing Token::WING",
       "currencyId": "Wing Token::WING"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "66",
+      "decimals": 18,
+      "name": "OKXChain Global Utility Token",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "OKT",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/66.webp",
+      "assetGroup": "Wrapped OKT::WOKT",
+      "currencyId": "OKXChain Global Utility Token::OKT",
+      "tags": ["native", "openocean", "wnative", "wrapped:0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0xc946daf81b08146b1c7a8da2a851ddf2b3eaaf85",
     "0x382bb369d343125bfb2117af9c149795c6c65c50",
     "0x218c3c3d49d0e7b37aff0d8bb079de36ae61a4c0",

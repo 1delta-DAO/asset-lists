@@ -42,8 +42,18 @@
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/148/0x8b9f7e5E710Aed102BBc670B771c66F152029399.png",
       "assetGroup": "PUNKS::$PUNK",
       "currencyId": "PUNKS::$PUNK"
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "148",
+      "address": "0x0000000000000000000000000000000000000000",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/148.webp",
+      "currencyId": "SMR::SMR",
+      "tags": ["native"],
+      "name": "SMR",
+      "symbol": "SMR",
+      "decimals": 18
     }
   },
-  "mainTokens": ["0xc0e49f8c615d3d4c245970f6dc528e4a47d69a44"],
+  "mainTokens": ["0x0000000000000000000000000000000000000000", "0xc0e49f8c615d3d4c245970f6dc528e4a47d69a44"],
   "bridgeTokens": ["0xc0e49f8c615d3d4c245970f6dc528e4a47d69a44"]
 }

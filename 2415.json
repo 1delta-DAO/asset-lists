@@ -52,9 +52,21 @@
       "assetGroup": "XODEX",
       "currencyId": "Wrapped XODEX::WXODEX",
       "tags": ["wnative"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "2415",
+      "decimals": 18,
+      "name": "XODEX Native Token",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "XODEX",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/2415.webp",
+      "assetGroup": "XODEX",
+      "currencyId": "XODEX Native Token::XODEX",
+      "tags": ["native", "wnative", "wrapped:0x2f3ad0cdc8ad20337eb02bd6411b808ee30c7896"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x12aa82525deff84777fa78578a68ceb854a85f43",
     "0x867f08a3ab824b42e8058a1b48e32e1df205b092",
     "0x54051d9dbe99687867090d95fe15c3d3e35512ba",

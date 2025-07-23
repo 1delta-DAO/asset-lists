@@ -56,9 +56,21 @@
       "assetGroup": "USDC",
       "currencyId": "USD Coin::USDC",
       "tags": ["coingecko"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "255",
+      "decimals": 18,
+      "name": "Ether",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/255.webp",
+      "assetGroup": "ETH",
+      "currencyId": "Ether::ETH",
+      "tags": ["native", "coingecko", "wnative", "wrapped:0x4200000000000000000000000000000000000001"]
     }
   },
   "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
     "0x0cf7c2a584988871b654bd79f96899e4cd6c41c0",
     "0x61e0d34b5206fa8005ec1de8000df9b9ddee23db",
     "0x4200000000000000000000000000000000000001",
