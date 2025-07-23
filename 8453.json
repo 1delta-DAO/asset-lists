@@ -16717,11 +16717,7 @@
       "logoURI": "https://basescan.org/token/images/ptlbtc_32.svg",
       "assetGroup": "PT Lombard LBTC 29MAY2025::PT-LBTC-29MAY2025",
       "currencyId": "PT Lombard LBTC 29MAY2025::PT-LBTC-29MAY2025",
-      "tags": [
-        "ZEROLEND",
-        "PENDLE-PT",
-        "PENDLE-YT:0x5fd84c3dd5c00ab9e04bd94685b55e8dd0c1e3fd"
-      ]
+      "tags": ["ZEROLEND", "PENDLE-PT", "PENDLE-YT:0x5fd84c3dd5c00ab9e04bd94685b55e8dd0c1e3fd"]
     },
     "0x69000dfd5025e82f48eb28325a2b88a241182ced": {
       "chainId": "8453",
@@ -16864,10 +16860,7 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/ptusr.svg",
       "assetGroup": "PT Resolv USD 24APR2025::PT-USR-24APR2025",
       "currencyId": "PT Resolv USD 24APR2025::PT-USR-24APR2025",
-      "tags": [
-        "PENDLE-PT",
-        "PENDLE-YT:0x22cf19b7d8de1b53bbd9792e12ea86191985731f"
-      ]
+      "tags": ["PENDLE-PT", "PENDLE-YT:0x22cf19b7d8de1b53bbd9792e12ea86191985731f"]
     },
     "0x9a52fcd13fb9927d884b7eae826697c0aa0659cc": {
       "chainId": "8453",
@@ -27478,6 +27471,17 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67606/thumb/photo_6051050493167390009_x_%281%29.jpg?1753258650",
       "assetGroup": "AGENT BAPO::BAPO",
       "currencyId": "AGENT BAPO::BAPO",
+      "tags": ["coingecko"]
+    },
+    "0x7002987e5f63716273e77b51e12a578143c222aa": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Hacken",
+      "address": "0x7002987e5f63716273e77b51e12a578143c222aa",
+      "symbol": "HAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/11081/thumb/hacken-symbol-with-bg.png?1696511022",
+      "assetGroup": "Hacken::HAI",
+      "currencyId": "Hacken::HAI",
       "tags": ["coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {

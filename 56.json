@@ -7937,7 +7937,7 @@
       "name": "Kebab Token",
       "address": "0x7979f6c54eba05e18ded44c4f986f49a5de551c2",
       "symbol": "KEBAB",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/bsc/0x7979f6c54eba05e18ded44c4f986f49a5de551c2.png",
+      "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x7979f6c54eba05e18ded44c4f986f49a5de551c2/b208f248ad7130ed698577136469a660.png",
       "assetGroup": "Kebab Token::KEBAB",
       "currencyId": "Kebab Token::KEBAB",
       "tags": ["openocean"]
@@ -7992,7 +7992,7 @@
       "name": "MOZ",
       "address": "0xe4b22193d68f18f8e8eb3a26f4d64cb6d4573022",
       "symbol": "MOZ",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/bsc/0xe4b22193d68f18f8e8eb3a26f4d64cb6d4573022.png",
+      "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xe4b22193d68f18f8e8eb3a26f4d64cb6d4573022/e2bfcf58946679bfa3ece0a97c80782a.png",
       "assetGroup": "MOZ",
       "currencyId": "MOZ::MOZ",
       "tags": ["openocean"]
@@ -49473,6 +49473,26 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54579/thumb/pundiai.jpg?1740538459",
       "assetGroup": "Pundi AI::PUNDIAI::56::0",
       "currencyId": "Pundi AI::PUNDIAI",
+      "tags": ["coingecko"]
+    },
+    "0xb9d35811424600fa9e8cd62a0471fbd025131cb8": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YES WORLD",
+      "address": "0xb9d35811424600fa9e8cd62a0471fbd025131cb8",
+      "symbol": "YES",
+      "assetGroup": "YES WORLD::YES",
+      "currencyId": "YES WORLD::YES"
+    },
+    "0x582a560b9f8eaa5b6c889d7674532bcd61f066ec": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Hacken",
+      "address": "0x582a560b9f8eaa5b6c889d7674532bcd61f066ec",
+      "symbol": "HAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/11081/thumb/hacken-symbol-with-bg.png?1696511022",
+      "assetGroup": "Hacken::HAI",
+      "currencyId": "Hacken::HAI",
       "tags": ["coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {
