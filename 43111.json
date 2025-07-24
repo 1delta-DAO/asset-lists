@@ -57,6 +57,16 @@
       "currencyId": "Hemi Bitcoin::hemiBTC",
       "tags": ["LAYERBANK_V3", "ZEROLEND", "LENDOS"]
     },
+    "0x623f2774d9f27b59bc6b954544487532ce79d9df": {
+      "chainId": "43111",
+      "decimals": 8,
+      "name": "BitFi Bitcoin",
+      "address": "0x623f2774d9f27b59bc6b954544487532ce79d9df",
+      "symbol": "bfBTC",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/bfBTC.webp",
+      "assetGroup": "bfBTC",
+      "currencyId": "BitFi Bitcoin::bfBTC"
+    },
     "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3": {
       "chainId": "43111",
       "decimals": 8,
@@ -510,6 +520,7 @@
   "mainTokens": [
     "0x0000000000000000000000000000000000000000",
     "0x4200000000000000000000000000000000000006",
+    "0x623f2774d9f27b59bc6b954544487532ce79d9df",
     "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa",
     "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e",
     "0x7a06c4aef988e7925575c50261297a946ad204a8",
