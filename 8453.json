@@ -16692,6 +16692,22 @@
       "currencyId": "pumpBTC::pumpBTC",
       "tags": ["biconomy-gas-token", "ZEROLEND"]
     },
+    "0xf9da8f69d518d7f6488179014f475e843ee2defd": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "YT Coinbase Wrapped Staked ETH 25DEC2025",
+      "address": "0xf9da8f69d518d7f6488179014f475e843ee2defd",
+      "symbol": "YT-cbETH-25DEC2025",
+      "currencyId": "YT Coinbase Wrapped Staked ETH 25DEC2025::YT-cbETH-25DEC2025",
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x483f2e223c58a5ef19c4b32fbc6de57709749cb3",
+          "syAddress": "0x75372f72ec752a761e96cbcb3395f4b9586d9afd",
+          "expiry": 1766620800
+        }
+      }
+    },
     "0xe46c8ba948f8071b425a1f7ba45c0a65cbacea2e": {
       "chainId": "8453",
       "decimals": 18,
@@ -18983,6 +18999,22 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/steakhouse-susds.svg",
       "assetGroup": "Steakhouse sUSDS::steakSUSDS",
       "currencyId": "Steakhouse sUSDS::steakSUSDS"
+    },
+    "0x61468ea4d55c02744041f16daf8ed0262891661f": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "YT Resolv USD 25SEP2025",
+      "address": "0x61468ea4d55c02744041f16daf8ed0262891661f",
+      "symbol": "YT-USR-25SEP2025",
+      "currencyId": "YT Resolv USD 25SEP2025::YT-USR-25SEP2025",
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x715509bde846104cf2ccebf6fdf7ef1bb874bc45",
+          "syAddress": "0x4665d514e82b2f9c78fa2b984e450f33d9efc842",
+          "expiry": 1758758400
+        }
+      }
     },
     "0xa6f0a4d18b6f6ddd408936e81b7b3a8befa18e77": {
       "chainId": "8453",
@@ -25415,6 +25447,22 @@
       "assetGroup": "Re Protocol reUSD::REUSD",
       "currencyId": "Re Protocol reUSD::REUSD",
       "tags": ["coingecko", "biconomy-gas-token", "debridge"]
+    },
+    "0x86725be2f3b01a2b18617f77542800ed4f4cfdca": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "YT Lombard LBTC scaled18 25SEP2025",
+      "address": "0x86725be2f3b01a2b18617f77542800ed4f4cfdca",
+      "symbol": "YT-LBTC-scaled18-25SEP2025",
+      "currencyId": "YT Lombard LBTC scaled18 25SEP2025::YT-LBTC-scaled18-25SEP2025",
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x4eae2e40c6612005214ea919cc7653da853ed409",
+          "syAddress": "0x67e64af30e04a7277ab2d4f09ace3f77a15801f9",
+          "expiry": 1758758400
+        }
+      }
     },
     "0x7c3039d2385000cf366e3ac6ab9d7642e8440dd2": {
       "chainId": "8453",
