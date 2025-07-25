@@ -10661,6 +10661,16 @@
       "assetGroup": "Dynamite::DNMT",
       "currencyId": "Dynamite::DNMT"
     },
+    "0xa5e0b604a69ccef35dbe2fb9e67e427c1af23f66": {
+      "chainId": "8217",
+      "decimals": 18,
+      "name": "DarkStar",
+      "address": "0xa5e0b604a69ccef35dbe2fb9e67e427c1af23f66",
+      "symbol": "DARK",
+      "logoURI": "https://api.swapscanner.io/v0/tokens/0xa5e0b604a69ccef35dbe2fb9e67e427c1af23f66/icon",
+      "assetGroup": "DarkStar::DARK",
+      "currencyId": "DarkStar::DARK"
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "8217",
       "decimals": 18,
@@ -10670,7 +10680,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/kaia.webp",
       "assetGroup": "KAIA",
       "currencyId": "KAIA::KAIA",
-      "tags": ["native", "wnative", "wrapped:0xfd844c2fca5e595004b17615f891620d1cb9bbb2"]
+      "tags": ["native", "wnative", "wrapped:0xfd844c2fca5e595004b17615f891620d1cb9bbb2"],
+      "props": { "isNative": true, "wrapped": "0xfd844c2fca5e595004b17615f891620d1cb9bbb2" }
     }
   },
   "mainTokens": [

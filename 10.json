@@ -6130,6 +6130,17 @@
       "assetGroup": "USDp::USDp",
       "currencyId": "USDp::USDp"
     },
+    "0xd4423795fd904d9b87554940a95fb7016f172773": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "AI Network",
+      "address": "0xd4423795fd904d9b87554940a95fb7016f172773",
+      "symbol": "AIN",
+      "logoURI": "https://assets.coingecko.com/coins/images/13211/thumb/AI_Network_Logo_200x200.png?1696512991",
+      "assetGroup": "AI Network::AIN",
+      "currencyId": "AI Network::AIN",
+      "tags": ["biconomy-gas-token"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "10",
       "decimals": 18,
@@ -6153,7 +6164,8 @@
         "COMPOUND_V3_USDT",
         "VENUS",
         "wrapped:0x4200000000000000000000000000000000000006"
-      ]
+      ],
+      "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" }
     }
   },
   "mainTokens": [

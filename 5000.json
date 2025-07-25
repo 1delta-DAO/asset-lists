@@ -1334,7 +1334,16 @@
         "LENDLE_PT_CMETH",
         "PENDLE-YT:0xaffe4b1b1eebe6dd1ee31ad27c88a918825c89f8",
         "PENDLE-MARKET:0x6304ccbda63a7fb94919c705de54f9889f3ce047"
-      ]
+      ],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "ytAddress": "0xaffe4b1b1eebe6dd1ee31ad27c88a918825c89f8",
+          "marketAddress": "0x6304ccbda63a7fb94919c705de54f9889f3ce047",
+          "syAddress": "0x2ab88ac7458faec2e952bb79cc1be6577bf63e70",
+          "expiry": 1758153600
+        }
+      }
     },
     "0x482deb2f7b9608a80ea91e71f06380e9891501c6": {
       "chainId": "5000",
@@ -1377,7 +1386,12 @@
         "INIT",
         "wrapped:0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8",
         "erc20:0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000"
-      ]
+      ],
+      "props": {
+        "isNative": true,
+        "erc20": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000",
+        "wrapped": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8"
+      }
     }
   },
   "mainTokens": [

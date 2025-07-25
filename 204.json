@@ -207,7 +207,15 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/bnb.webp",
       "assetGroup": "BNB",
       "currencyId": "BNB Chain Native Token::BNB",
-      "tags": ["native", "coingecko", "wnative", "KINZA", "VENUS", "wrapped:0x4200000000000000000000000000000000000006"]
+      "tags": [
+        "native",
+        "coingecko",
+        "wnative",
+        "KINZA",
+        "VENUS",
+        "wrapped:0x4200000000000000000000000000000000000006"
+      ],
+      "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" }
     }
   },
   "mainTokens": [

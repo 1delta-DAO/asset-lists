@@ -76,7 +76,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/edu.webp",
       "assetGroup": "Wrapped EDU::WEDU",
       "currencyId": "EDU::EDU",
-      "tags": ["native", "wnative", "coingecko", "wrapped:0xd02e8c38a8e3db71f8b2ae30b8186d7874934e12"]
+      "tags": ["native", "wnative", "coingecko", "wrapped:0xd02e8c38a8e3db71f8b2ae30b8186d7874934e12"],
+      "props": { "isNative": true, "wrapped": "0xd02e8c38a8e3db71f8b2ae30b8186d7874934e12" }
     }
   },
   "mainTokens": [

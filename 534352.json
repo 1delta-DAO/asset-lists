@@ -854,7 +854,8 @@
         "LORE",
         "COMPOUND_V3_USDC",
         "wrapped:0x5300000000000000000000000000000000000004"
-      ]
+      ],
+      "props": { "isNative": true, "wrapped": "0x5300000000000000000000000000000000000004" }
     }
   },
   "mainTokens": [

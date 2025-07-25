@@ -18443,7 +18443,8 @@
       "symbol": "PT-ezETH-27JUN2024",
       "assetGroup": "PT Renzo ezETH 27JUN2024::PT-ezETH-27JUN2024",
       "currencyId": "PT Renzo ezETH 27JUN2024::PT-ezETH-27JUN2024",
-      "tags": ["biconomy-gas-token", "PENDLE-PT", "PENDLE-YT:0x05735b65686635f5c87aa9d2dae494fb2e838f38"]
+      "tags": ["biconomy-gas-token", "PENDLE-PT", "PENDLE-YT:0x05735b65686635f5c87aa9d2dae494fb2e838f38"],
+      "props": { "pendle": { "tokenType": "PT", "ytAddress": "0x05735b65686635f5c87aa9d2dae494fb2e838f38" } }
     },
     "0xdd69db25f6d620a7bad3023c5d32761d353d3de9": {
       "chainId": "42161",
@@ -21928,7 +21929,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67570/thumb/talos.jpg?1753181426",
       "assetGroup": "Talos::T",
       "currencyId": "Talos::T",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xd4423795fd904d9b87554940a95fb7016f172773": {
       "chainId": "42161",
@@ -21939,7 +21940,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/13211/thumb/AI_Network_Logo_200x200.png?1696512991",
       "assetGroup": "AI Network::AIN",
       "currencyId": "AI Network::AIN",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xb348b87b23d5977e2948e6f36ca07e1ec94d7328": {
       "chainId": "42161",
@@ -21970,6 +21971,27 @@
       "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/Circle_Agora_White_on_Olive_1080px.png?1722961274",
       "assetGroup": "AUSD",
       "currencyId": "AUSD::AUSD",
+      "tags": ["coingecko", "biconomy-gas-token"]
+    },
+    "0xc74fe4c715510ec2f8c61d70d397b32043f55abe": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Mycelium",
+      "address": "0xc74fe4c715510ec2f8c61d70d397b32043f55abe",
+      "symbol": "MYC",
+      "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xc74fe4c715510ec2f8c61d70d397b32043f55abe/c34229f594e7de5f89c43b886a86c2c5.png",
+      "assetGroup": "Mycelium::MYC",
+      "currencyId": "Mycelium::MYC"
+    },
+    "0xe22865a7820823e27d6c630b15711b070cbd0d57": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "DESK",
+      "address": "0xe22865a7820823e27d6c630b15711b070cbd0d57",
+      "symbol": "DESK",
+      "logoURI": "https://assets.coingecko.com/coins/images/67653/thumb/DESK.png?1753423028",
+      "assetGroup": "DESK::DESK",
+      "currencyId": "DESK::DESK",
       "tags": ["coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {
@@ -21999,7 +22021,8 @@
         "VENUS_ETH",
         "COMPOUND_V3_USDCE",
         "wrapped:0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
-      ]
+      ],
+      "props": { "isNative": true, "wrapped": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1" }
     }
   },
   "mainTokens": [

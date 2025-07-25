@@ -266,7 +266,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "assetGroup": "ETH",
       "currencyId": "Ether::ETH",
-      "tags": ["native", "coingecko", "wnative", "wrapped:0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000"]
+      "tags": ["native", "coingecko", "wnative", "wrapped:0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000"],
+      "props": { "isNative": true, "wrapped": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000" }
     }
   },
   "mainTokens": [

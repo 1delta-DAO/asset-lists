@@ -68,6 +68,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "currencyId": "Ethereum::ETH",
       "tags": ["native"],
+      "props": { "isNative": true },
       "name": "Ethereum",
       "symbol": "ETH",
       "decimals": 18

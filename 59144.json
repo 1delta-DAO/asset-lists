@@ -1793,6 +1793,17 @@
       "currencyId": "Trusta AI::TA",
       "tags": ["biconomy-gas-token", "coingecko"]
     },
+    "0xa0b18e70387ba72d1c7038bc0bd3a05e5a2287f6": {
+      "chainId": "59144",
+      "decimals": 18,
+      "name": "CAD Coin",
+      "address": "0xa0b18e70387ba72d1c7038bc0bd3a05e5a2287f6",
+      "symbol": "CADC",
+      "logoURI": "https://assets.coingecko.com/coins/images/14149/thumb/cadc_2.png?1696513868",
+      "assetGroup": "CAD Coin::CADC",
+      "currencyId": "CAD Coin::CADC",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "59144",
       "decimals": 18,
@@ -1814,7 +1825,8 @@
         "ZEROLEND_FOXY",
         "GRANARY",
         "wrapped:0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f"
-      ]
+      ],
+      "props": { "isNative": true, "wrapped": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f" }
     }
   },
   "mainTokens": [

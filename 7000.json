@@ -142,7 +142,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/zeta.webp",
       "assetGroup": "ZETA",
       "currencyId": "Zeta::ZETA",
-      "tags": ["native", "coingecko", "wnative", "AVALON", "wrapped:0x5f0b1a82749cb4e2278ec87f8bf6b618dc71a8bf"]
+      "tags": ["native", "coingecko", "wnative", "AVALON", "wrapped:0x5f0b1a82749cb4e2278ec87f8bf6b618dc71a8bf"],
+      "props": { "isNative": true, "wrapped": "0x5f0b1a82749cb4e2278ec87f8bf6b618dc71a8bf" }
     }
   },
   "mainTokens": [

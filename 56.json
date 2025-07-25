@@ -48917,7 +48917,8 @@
       "symbol": "PT-clisBNB-24APR2025",
       "assetGroup": "PT Lista collateral BNB 24APR2025::PT-clisBNB-24APR2025",
       "currencyId": "PT Lista collateral BNB 24APR2025::PT-clisBNB-24APR2025",
-      "tags": ["PENDLE-PT", "VENUS_BNB"]
+      "tags": ["PENDLE-PT", "VENUS_BNB"],
+      "props": { "pendle": { "tokenType": "PT" } }
     },
     "0x541b5eeac7d4434c8f87e2d32019d67611179606": {
       "chainId": "56",
@@ -48927,7 +48928,8 @@
       "symbol": "PT-SolvBTC.BBN-27MAR2025",
       "assetGroup": "PT SolvBTC Babylon 27MAR2025::PT-SolvBTC.BBN-27MAR2025",
       "currencyId": "PT SolvBTC Babylon 27MAR2025::PT-SolvBTC.BBN-27MAR2025",
-      "tags": ["PENDLE-PT", "AVALON_SOLVBTC", "VENUS_BTC"]
+      "tags": ["PENDLE-PT", "AVALON_SOLVBTC", "VENUS_BTC"],
+      "props": { "pendle": { "tokenType": "PT" } }
     },
     "0x20bff4bbeda07536ff00e073bd8359e5d80d733d": {
       "chainId": "56",
@@ -48947,7 +48949,8 @@
       "symbol": "PT-sUSDE-26JUN2025",
       "assetGroup": "PT Ethena sUSDE 26JUN2025::PT-sUSDE-26JUN2025",
       "currencyId": "PT Ethena sUSDE 26JUN2025::PT-sUSDE-26JUN2025",
-      "tags": ["PENDLE-PT", "VENUS"]
+      "tags": ["PENDLE-PT", "VENUS"],
+      "props": { "pendle": { "tokenType": "PT" } }
     },
     "0xeeaa03ed0aa69fcb6e340d47ffa91a0b3426e1cd": {
       "chainId": "56",
@@ -49158,7 +49161,7 @@
       "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/binance-smart-chain/0xa8d3dee6671c4fdac4743a1eb1f276eabd4ba302.png",
       "assetGroup": "ZKWASM::ZKWASM",
       "currencyId": "ZKWASM::ZKWASM",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xf970706063b7853877f39515c96932d49d5ac9cd": {
       "chainId": "56",
@@ -49169,7 +49172,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67498/thumb/yala.jpg?1752994443",
       "assetGroup": "Yala Token::YALA",
       "currencyId": "Yala Token::YALA",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xa992ffb0c9b753307b9704079c61db4e405deffd": {
       "chainId": "56",
@@ -49495,6 +49498,115 @@
       "currencyId": "Hacken::HAI",
       "tags": ["coingecko"]
     },
+    "0xaedaff046601beb063b647845dfb21841f32d6a4": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "RIZE",
+      "address": "0xaedaff046601beb063b647845dfb21841f32d6a4",
+      "symbol": "RIZE",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xAEDAff046601BEb063b647845Dfb21841f32d6A4.png",
+      "assetGroup": "RIZE::RIZE",
+      "currencyId": "RIZE::RIZE",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xad8c787992428cd158e451aab109f724b6bc36de": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "ASPECTA",
+      "address": "0xad8c787992428cd158e451aab109f724b6bc36de",
+      "symbol": "ASP",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xad8c787992428cD158E451aAb109f724B6bc36de.png",
+      "assetGroup": "ASPECTA::ASP",
+      "currencyId": "ASPECTA::ASP",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xb5b7f828caed10db9582bed424ff79809ce766cb": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Moo",
+      "address": "0xb5b7f828caed10db9582bed424ff79809ce766cb",
+      "symbol": "MOO",
+      "assetGroup": "Moo::MOO",
+      "currencyId": "Moo::MOO",
+      "tags": ["coingecko"]
+    },
+    "0x3303113001c51769f2753c2afb7b5a6d0535660e": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "Baby Grok",
+      "address": "0x3303113001c51769f2753c2afb7b5a6d0535660e",
+      "symbol": "BABYGROK",
+      "logoURI": "https://assets.coingecko.com/coins/images/67640/thumb/photo_2025-07-22_23.25.56_%281%29.png?1753372605",
+      "assetGroup": "Baby Grok::BABYGROK",
+      "currencyId": "Baby Grok::BABYGROK",
+      "tags": ["coingecko"]
+    },
+    "0xbaf17ff2e1b659e1124da41f4c336c73f5664444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Panda Academy",
+      "address": "0xbaf17ff2e1b659e1124da41f4c336c73f5664444",
+      "symbol": "PANDA",
+      "logoURI": "https://assets.coingecko.com/coins/images/67660/thumb/photo_2025-07-21_15-38-50.jpg?1753425941",
+      "assetGroup": "Panda Academy::PANDA",
+      "currencyId": "Panda Academy::PANDA",
+      "tags": ["coingecko"]
+    },
+    "0x5d7e112c7d41aa4a2b01204294f6337a79e2dcef": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PlayCat",
+      "address": "0x5d7e112c7d41aa4a2b01204294f6337a79e2dcef",
+      "symbol": "PCAT",
+      "logoURI": "https://assets.coingecko.com/coins/images/67661/thumb/photo_2025-06-28_14-28-56.jpg?1753426350",
+      "assetGroup": "PlayCat::PCAT",
+      "currencyId": "PlayCat::PCAT",
+      "tags": ["coingecko"]
+    },
+    "0x6c948a4c31d013515d871930fe3807276102f25d": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Solv Protocol SolvBTC BNB",
+      "address": "0x6c948a4c31d013515d871930fe3807276102f25d",
+      "symbol": "SOLVBTCBNB",
+      "logoURI": "https://assets.coingecko.com/coins/images/67662/thumb/SolvBTC.BNB.png?1753426768",
+      "assetGroup": "Solv Protocol SolvBTC BNB::SOLVBTCBNB",
+      "currencyId": "Solv Protocol SolvBTC BNB::SOLVBTCBNB",
+      "tags": ["coingecko"]
+    },
+    "0x6d2ebdf6d551d8408e7d896e9a1ec6f84806e193": {
+      "chainId": "56",
+      "decimals": 6,
+      "name": "Lnfi Network",
+      "address": "0x6d2ebdf6d551d8408e7d896e9a1ec6f84806e193",
+      "symbol": "LN",
+      "logoURI": "https://assets.coingecko.com/coins/images/67611/thumb/ln.jpg?1753262272",
+      "assetGroup": "Lnfi Network::LN",
+      "currencyId": "Lnfi Network::LN",
+      "tags": ["coingecko"]
+    },
+    "0x26b5555377c2943408e2eda15a5a05091a1789c1": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "FarmAI",
+      "address": "0x26b5555377c2943408e2eda15a5a05091a1789c1",
+      "symbol": "FARMAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/67616/thumb/200x200.png?1753291963",
+      "assetGroup": "FarmAI::FARMAI",
+      "currencyId": "FarmAI::FARMAI",
+      "tags": ["coingecko"]
+    },
+    "0x695579cfe2b2d9066fddc9ef3462b6ae05e127c3": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "FUST Token",
+      "address": "0x695579cfe2b2d9066fddc9ef3462b6ae05e127c3",
+      "symbol": "FUST",
+      "logoURI": "https://assets.coingecko.com/coins/images/67646/thumb/1000060590.jpg?1753385008",
+      "assetGroup": "FUST Token::FUST",
+      "currencyId": "FUST Token::FUST",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "56",
       "decimals": 18,
@@ -49520,7 +49632,8 @@
         "AVALON_SOLVBTC",
         "VALAS",
         "wrapped:0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
-      ]
+      ],
+      "props": { "isNative": true, "wrapped": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c" }
     }
   },
   "mainTokens": [

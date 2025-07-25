@@ -936,7 +936,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/core.webp",
       "assetGroup": "CORE",
       "currencyId": "Core Blockchain Native Token::CORE",
-      "tags": ["native", "coingecko", "wnative", "wrapped:0xb0788b601c0d712702bc829b52771199ad8e33ff"]
+      "tags": ["native", "coingecko", "wnative", "wrapped:0xb0788b601c0d712702bc829b52771199ad8e33ff"],
+      "props": { "isNative": true, "wrapped": "0xb0788b601c0d712702bc829b52771199ad8e33ff" }
     }
   },
   "mainTokens": [

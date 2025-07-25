@@ -16706,7 +16706,16 @@
         "PENDLE-PT",
         "PENDLE-YT:0xf9da8f69d518d7f6488179014f475e843ee2defd",
         "PENDLE-MARKET:0x483f2e223c58a5ef19c4b32fbc6de57709749cb3"
-      ]
+      ],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "ytAddress": "0xf9da8f69d518d7f6488179014f475e843ee2defd",
+          "marketAddress": "0x483f2e223c58a5ef19c4b32fbc6de57709749cb3",
+          "syAddress": "0x75372f72ec752a761e96cbcb3395f4b9586d9afd",
+          "expiry": 1766620800
+        }
+      }
     },
     "0x5d746848005507da0b1717c137a10c30ad9ee307": {
       "chainId": "8453",
@@ -16717,7 +16726,8 @@
       "logoURI": "https://basescan.org/token/images/ptlbtc_32.svg",
       "assetGroup": "PT Lombard LBTC 29MAY2025::PT-LBTC-29MAY2025",
       "currencyId": "PT Lombard LBTC 29MAY2025::PT-LBTC-29MAY2025",
-      "tags": ["ZEROLEND", "PENDLE-PT", "PENDLE-YT:0x5fd84c3dd5c00ab9e04bd94685b55e8dd0c1e3fd"]
+      "tags": ["ZEROLEND", "PENDLE-PT", "PENDLE-YT:0x5fd84c3dd5c00ab9e04bd94685b55e8dd0c1e3fd"],
+      "props": { "pendle": { "tokenType": "PT", "ytAddress": "0x5fd84c3dd5c00ab9e04bd94685b55e8dd0c1e3fd" } }
     },
     "0x69000dfd5025e82f48eb28325a2b88a241182ced": {
       "chainId": "8453",
@@ -16860,7 +16870,8 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/ptusr.svg",
       "assetGroup": "PT Resolv USD 24APR2025::PT-USR-24APR2025",
       "currencyId": "PT Resolv USD 24APR2025::PT-USR-24APR2025",
-      "tags": ["PENDLE-PT", "PENDLE-YT:0x22cf19b7d8de1b53bbd9792e12ea86191985731f"]
+      "tags": ["PENDLE-PT", "PENDLE-YT:0x22cf19b7d8de1b53bbd9792e12ea86191985731f"],
+      "props": { "pendle": { "tokenType": "PT", "ytAddress": "0x22cf19b7d8de1b53bbd9792e12ea86191985731f" } }
     },
     "0x9a52fcd13fb9927d884b7eae826697c0aa0659cc": {
       "chainId": "8453",
@@ -18987,7 +18998,16 @@
         "PENDLE-PT",
         "PENDLE-YT:0x61468ea4d55c02744041f16daf8ed0262891661f",
         "PENDLE-MARKET:0x715509bde846104cf2ccebf6fdf7ef1bb874bc45"
-      ]
+      ],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "ytAddress": "0x61468ea4d55c02744041f16daf8ed0262891661f",
+          "marketAddress": "0x715509bde846104cf2ccebf6fdf7ef1bb874bc45",
+          "syAddress": "0x4665d514e82b2f9c78fa2b984e450f33d9efc842",
+          "expiry": 1758758400
+        }
+      }
     },
     "0x715509bde846104cf2ccebf6fdf7ef1bb874bc45": {
       "chainId": "8453",
@@ -25409,7 +25429,16 @@
         "PENDLE-PT",
         "PENDLE-YT:0x86725be2f3b01a2b18617f77542800ed4f4cfdca",
         "PENDLE-MARKET:0x4eae2e40c6612005214ea919cc7653da853ed409"
-      ]
+      ],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "ytAddress": "0x86725be2f3b01a2b18617f77542800ed4f4cfdca",
+          "marketAddress": "0x4eae2e40c6612005214ea919cc7653da853ed409",
+          "syAddress": "0x67e64af30e04a7277ab2d4f09ace3f77a15801f9",
+          "expiry": 1758758400
+        }
+      }
     },
     "0xaa5ad1f869b910e5f794b9366e05e5f2cab4bfad": {
       "chainId": "8453",
@@ -27449,7 +27478,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67569/thumb/02rav5hmv58ax1451trmrus3kvy9.?1753181139",
       "assetGroup": "SCAN::SCAN",
       "currencyId": "SCAN::SCAN",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x205344efad0a46329b752fb6e33cb6f28d6db2f4": {
       "chainId": "8453",
@@ -27460,7 +27489,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67557/thumb/pp_%282%29.jpg?1753176275",
       "assetGroup": "Conspiracy Guy::CGUY",
       "currencyId": "Conspiracy Guy::CGUY",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x0a9bc2c63e84436538185543bc0dcca42c4d2cf6": {
       "chainId": "8453",
@@ -27471,7 +27500,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67606/thumb/photo_6051050493167390009_x_%281%29.jpg?1753258650",
       "assetGroup": "AGENT BAPO::BAPO",
       "currencyId": "AGENT BAPO::BAPO",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x7002987e5f63716273e77b51e12a578143c222aa": {
       "chainId": "8453",
@@ -27482,7 +27511,73 @@
       "logoURI": "https://assets.coingecko.com/coins/images/11081/thumb/hacken-symbol-with-bg.png?1696511022",
       "assetGroup": "Hacken::HAI",
       "currencyId": "Hacken::HAI",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
+    },
+    "0x7094c27f342dbadfbbed005b219431595e33b305": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "QuickSwap",
+      "address": "0x7094c27f342dbadfbbed005b219431595e33b305",
+      "symbol": "QUICK",
+      "logoURI": "https://ethereum-optimism.github.io/data/QUICK/logo.svg",
+      "assetGroup": "QuickSwap::QUICK",
+      "currencyId": "QuickSwap::QUICK",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x5081de08282c67e5f5d01073a85e8f992a41d780": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Alliewai by Virtuals",
+      "address": "0x5081de08282c67e5f5d01073a85e8f992a41d780",
+      "symbol": "AWAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/67648/thumb/n8ft80efc3t16y8xwma674928q5a.?1753387269",
+      "assetGroup": "Alliewai by Virtuals::AWAI",
+      "currencyId": "Alliewai by Virtuals::AWAI",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xaaa9a3bc81fe7951fe0c3755837b40749ce0c894": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Legend",
+      "address": "0xaaa9a3bc81fe7951fe0c3755837b40749ce0c894",
+      "symbol": "LEGEND",
+      "logoURI": "https://assets.coingecko.com/coins/images/67638/thumb/2025-06-12_14.04.11.jpg?1753348475",
+      "assetGroup": "Legend::LEGEND::8453::0",
+      "currencyId": "Legend::LEGEND",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xf43eb8de897fbc7f2502483b2bef7bb9ea179229": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Horizen",
+      "address": "0xf43eb8de897fbc7f2502483b2bef7bb9ea179229",
+      "symbol": "ZEN",
+      "logoURI": "https://assets.coingecko.com/coins/images/691/thumb/Horizen2.0-logo_icon-on-yellow_%281%29.png?1751696763",
+      "assetGroup": "Horizen::ZEN",
+      "currencyId": "Horizen::ZEN",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x100ce3e3391c00b6a52911313a4ea8d23c8a38d8": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "JOOCE",
+      "address": "0x100ce3e3391c00b6a52911313a4ea8d23c8a38d8",
+      "symbol": "JOOCE",
+      "logoURI": "https://assets.coingecko.com/coins/images/67617/thumb/2025-04-18_21.13.08.jpg?1753296966",
+      "assetGroup": "JOOCE::JOOCE",
+      "currencyId": "JOOCE::JOOCE",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x277f301b1d7471ee948f801b1ff3575ad7f33e21": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "YUUKI",
+      "address": "0x277f301b1d7471ee948f801b1ff3575ad7f33e21",
+      "symbol": "YUUKI",
+      "logoURI": "https://assets.coingecko.com/coins/images/67644/thumb/Untitled_design_%2842%29.png?1753383280",
+      "assetGroup": "YUUKI::YUUKI",
+      "currencyId": "YUUKI::YUUKI",
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "8453",
@@ -27511,7 +27606,8 @@
         "COMPOUND_V3_AERO",
         "VENUS",
         "wrapped:0x4200000000000000000000000000000000000006"
-      ]
+      ],
+      "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" }
     }
   },
   "mainTokens": [

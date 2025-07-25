@@ -1042,7 +1042,8 @@
         "debridge",
         "ZEROLEND",
         "wrapped:0x6969696969696969696969696969696969696969"
-      ]
+      ],
+      "props": { "isNative": true, "wrapped": "0x6969696969696969696969696969696969696969" }
     }
   },
   "mainTokens": [

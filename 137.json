@@ -26886,7 +26886,8 @@
       "symbol": "AIN",
       "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/polygon/0xd4423795fd904d9b87554940a95fb7016f172773.png",
       "assetGroup": "AI Network::AIN",
-      "currencyId": "AI Network::AIN"
+      "currencyId": "AI Network::AIN",
+      "tags": ["biconomy-gas-token"]
     },
     "0xd2a2a353d28e4833faffc882f6649c9c884a7d8f": {
       "chainId": "137",
@@ -26989,7 +26990,12 @@
         "COMPOUND_V3_USDCE",
         "wrapped:0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
         "erc20:0x0000000000000000000000000000000000001010"
-      ]
+      ],
+      "props": {
+        "isNative": true,
+        "erc20": "0x0000000000000000000000000000000000001010",
+        "wrapped": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
+      }
     }
   },
   "mainTokens": [

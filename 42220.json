@@ -1046,7 +1046,12 @@
         "MOOLA",
         "wrapped:0x471ece3750da237f93b8e339c536989b8978a438",
         "erc20:0x471ece3750da237f93b8e339c536989b8978a438"
-      ]
+      ],
+      "props": {
+        "isNative": true,
+        "erc20": "0x471ece3750da237f93b8e339c536989b8978a438",
+        "wrapped": "0x471ece3750da237f93b8e339c536989b8978a438"
+      }
     }
   },
   "mainTokens": [

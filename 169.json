@@ -101,7 +101,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "assetGroup": "ETH",
       "currencyId": "Ether::ETH",
-      "tags": ["native", "ZEROLEND", "wnative", "wrapped:0x0dc808adce2099a9f62aa87d9670745aba741746"]
+      "tags": ["native", "ZEROLEND", "wnative", "wrapped:0x0dc808adce2099a9f62aa87d9670745aba741746"],
+      "props": { "isNative": true, "wrapped": "0x0dc808adce2099a9f62aa87d9670745aba741746" }
     }
   },
   "mainTokens": [

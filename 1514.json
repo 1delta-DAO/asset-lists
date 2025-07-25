@@ -98,7 +98,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/ip.webp",
       "assetGroup": "IP",
       "currencyId": "IP Token::IP",
-      "tags": ["native", "coingecko", "wnative", "debridge", "wrapped:0x1514000000000000000000000000000000000000"]
+      "tags": ["native", "coingecko", "wnative", "debridge", "wrapped:0x1514000000000000000000000000000000000000"],
+      "props": { "isNative": true, "wrapped": "0x1514000000000000000000000000000000000000" }
     }
   },
   "mainTokens": [

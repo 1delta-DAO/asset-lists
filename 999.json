@@ -672,6 +672,7 @@
       "name": "Wrapped BTC",
       "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
       "symbol": "WBTC",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x0555e30da8f98308edb960aa94c0db47230d2b9c/d3c52e7c7449afa8bd4fad1c93f50d93.png",
       "assetGroup": "WBTC",
       "currencyId": "Wrapped BTC::WBTC"
     },
@@ -1769,6 +1770,7 @@
       "name": "IVX Liquidity pool token",
       "address": "0x9ac8192a68f5174e8ac8546856e0e48d346f8240",
       "symbol": "IVLP",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x9ac8192a68f5174e8ac8546856e0e48d346f8240/a08743f07b3c0571ee6abba3d6c23da4.png",
       "assetGroup": "IVX Liquidity pool token::IVLP",
       "currencyId": "IVX Liquidity pool token::IVLP"
     },
@@ -2046,6 +2048,315 @@
       "assetGroup": "Cow Hybra Hyperevm feUSD-USDT0::cowHybraHyperevmfeUSD-USDT0",
       "currencyId": "Cow Hybra Hyperevm feUSD-USDT0::cowHybraHyperevmfeUSD-USDT0"
     },
+    "0xb5ee887259f792e613edbd20dde8970c10fefda1": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "ValiDAO",
+      "address": "0xb5ee887259f792e613edbd20dde8970c10fefda1",
+      "symbol": "VDO",
+      "logoURI": "https://assets.coingecko.com/coins/images/33748/thumb/200x200.png?1712694763",
+      "assetGroup": "ValiDAO::VDO",
+      "currencyId": "ValiDAO::VDO",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xe5add96840f0b908ddeb3bd144c0283ac5ca7ca0": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Hyperithm USDT0",
+      "address": "0xe5add96840f0b908ddeb3bd144c0283ac5ca7ca0",
+      "symbol": "hyperUSDT0",
+      "assetGroup": "Hyperithm USDT0::hyperUSDT0",
+      "currencyId": "Hyperithm USDT0::hyperUSDT0"
+    },
+    "0x79004b09f095dd7555b08b01640cb336a495105a": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "We are so back",
+      "address": "0x79004b09f095dd7555b08b01640cb336a495105a",
+      "symbol": "backcoin",
+      "assetGroup": "We are so back::backcoin",
+      "currencyId": "We are so back::backcoin"
+    },
+    "0x0055bf4c5585b749e7f6eb10c85808880304dc74": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Concentrated Hyperbloom USDHL-USDT",
+      "address": "0x0055bf4c5585b749e7f6eb10c85808880304dc74",
+      "symbol": "conhUSDHLUSDT",
+      "assetGroup": "Concentrated Hyperbloom USDHL-USDT::conhUSDHLUSDT",
+      "currencyId": "Concentrated Hyperbloom USDHL-USDT::conhUSDHLUSDT"
+    },
+    "0xc007b460999b33d237d89eed29266191ce4b393e": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Cow Hyperswap Hyperevm PURR-WHYPE",
+      "address": "0xc007b460999b33d237d89eed29266191ce4b393e",
+      "symbol": "cowHyperswapHyperevmPURR-WHYPE",
+      "assetGroup": "Cow Hyperswap Hyperevm PURR-WHYPE::cowHyperswapHyperevmPURR-WHYPE",
+      "currencyId": "Cow Hyperswap Hyperevm PURR-WHYPE::cowHyperswapHyperevmPURR-WHYPE"
+    },
+    "0xdc9d2c590145f3a006fe899d175f93e97dc3a516": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Cow Hybra Hyperevm USDT0-WHYPE",
+      "address": "0xdc9d2c590145f3a006fe899d175f93e97dc3a516",
+      "symbol": "cowHybraHyperevmUSDT0-WHYPE",
+      "assetGroup": "Cow Hybra Hyperevm USDT0-WHYPE::cowHybraHyperevmUSDT0-WHYPE",
+      "currencyId": "Cow Hybra Hyperevm USDT0-WHYPE::cowHybraHyperevmUSDT0-WHYPE"
+    },
+    "0x064fe2bb8e5fcdb1b3213489a3972a21393000fc": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "test small & big toggle Liquidity Bootstrapping Pool",
+      "address": "0x064fe2bb8e5fcdb1b3213489a3972a21393000fc",
+      "symbol": "UETH-undefined-LBP",
+      "assetGroup": "test small & big toggle Liquidity Bootstrapping Pool::UETH-undefined-LBP",
+      "currencyId": "test small & big toggle Liquidity Bootstrapping Pool::UETH-undefined-LBP"
+    },
+    "0x33998d6117aea2aacf1b026841ce0cc749adb572": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Concentrated Hyperbloom Prjx HYPE-PURR",
+      "address": "0x33998d6117aea2aacf1b026841ce0cc749adb572",
+      "symbol": "conhHYPEPURR",
+      "assetGroup": "Concentrated Hyperbloom Prjx HYPE-PURR::conhHYPEPURR",
+      "currencyId": "Concentrated Hyperbloom Prjx HYPE-PURR::conhHYPEPURR"
+    },
+    "0x4a7797647193346a7a9cc08a5839ec68c6206748": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Concentrated Hyperbloom Prjx USDHL-USDT",
+      "address": "0x4a7797647193346a7a9cc08a5839ec68c6206748",
+      "symbol": "conhUSDHLUSDT",
+      "assetGroup": "Concentrated Hyperbloom Prjx USDHL-USDT::conhUSDHLUSDT",
+      "currencyId": "Concentrated Hyperbloom Prjx USDHL-USDT::conhUSDHLUSDT"
+    },
+    "0x6f2a771f1190d0d5c757022932c278fe4d9a3453": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "test hype metadata save Liquidity Bootstrapping Pool",
+      "address": "0x6f2a771f1190d0d5c757022932c278fe4d9a3453",
+      "symbol": "UETH-WHYPE-LBP",
+      "assetGroup": "test hype metadata save Liquidity Bootstrapping Pool::UETH-WHYPE-LBP",
+      "currencyId": "test hype metadata save Liquidity Bootstrapping Pool::UETH-WHYPE-LBP"
+    },
+    "0x2084839396c56bef5a25360b0000ab40103c9db9": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Cow Hybra Hyperevm LHYPE-WHYPE",
+      "address": "0x2084839396c56bef5a25360b0000ab40103c9db9",
+      "symbol": "cowHybraHyperevmLHYPE-WHYPE",
+      "assetGroup": "Cow Hybra Hyperevm LHYPE-WHYPE::cowHybraHyperevmLHYPE-WHYPE",
+      "currencyId": "Cow Hybra Hyperevm LHYPE-WHYPE::cowHybraHyperevmLHYPE-WHYPE"
+    },
+    "0xb54802a68bde17c44ecff88ae2b26dd0f5559c43": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Ramses Volatile - RLP/HLP0",
+      "address": "0xb54802a68bde17c44ecff88ae2b26dd0f5559c43",
+      "symbol": "Volatile - RLP/HLP0",
+      "assetGroup": "Ramses Volatile - RLP/HLP0::Volatile - RLP/HLP0",
+      "currencyId": "Ramses Volatile - RLP/HLP0::Volatile - RLP/HLP0"
+    },
+    "0xa036417eeceadca725d8106400560961d0c216d5": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Concentrated Hyperbloom HYPE-PURR",
+      "address": "0xa036417eeceadca725d8106400560961d0c216d5",
+      "symbol": "conhHYPEPURR",
+      "assetGroup": "Concentrated Hyperbloom HYPE-PURR::conhHYPEPURR",
+      "currencyId": "Concentrated Hyperbloom HYPE-PURR::conhHYPEPURR"
+    },
+    "0x3bfd9b2bc7f536cdc1179371af9d46abd1a457be": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "HYPURR",
+      "address": "0x3bfd9b2bc7f536cdc1179371af9d46abd1a457be",
+      "symbol": "PURRHYPE",
+      "assetGroup": "HYPURR::PURRHYPE",
+      "currencyId": "HYPURR::PURRHYPE"
+    },
+    "0x513fd781e908540030fbffb88bebf0f21fffd4e0": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "JEFF.HL",
+      "address": "0x513fd781e908540030fbffb88bebf0f21fffd4e0",
+      "symbol": "JEFFHYPE",
+      "assetGroup": "JEFF.HL::JEFFHYPE",
+      "currencyId": "JEFF.HL::JEFFHYPE"
+    },
+    "0x76c8dae55cd103b9865c6f056c8da915c8a98c4c": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Cow Hybra Hyperevm feUSD-WHYPE",
+      "address": "0x76c8dae55cd103b9865c6f056c8da915c8a98c4c",
+      "symbol": "cowHybraHyperevmfeUSD-WHYPE",
+      "assetGroup": "Cow Hybra Hyperevm feUSD-WHYPE::cowHybraHyperevmfeUSD-WHYPE",
+      "currencyId": "Cow Hybra Hyperevm feUSD-WHYPE::cowHybraHyperevmfeUSD-WHYPE"
+    },
+    "0x8ef30c5ce9a460bfae82f1f039f7c5e5427d7018": {
+      "chainId": "999",
+      "decimals": 9,
+      "name": "Hyperliquid Solana",
+      "address": "0x8ef30c5ce9a460bfae82f1f039f7c5e5427d7018",
+      "symbol": "hSOL",
+      "assetGroup": "Hyperliquid Solana::hSOL",
+      "currencyId": "Hyperliquid Solana::hSOL"
+    },
+    "0xa64a727d215f265f2b44ef018fae926ddc6b5ba0": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Concentrated Hyperbloom Prjx HYPE-LHYPE",
+      "address": "0xa64a727d215f265f2b44ef018fae926ddc6b5ba0",
+      "symbol": "conhHYPELHYPE",
+      "assetGroup": "Concentrated Hyperbloom Prjx HYPE-LHYPE::conhHYPELHYPE",
+      "currencyId": "Concentrated Hyperbloom Prjx HYPE-LHYPE::conhHYPELHYPE"
+    },
+    "0xd60bd6a2771fb1201edadb5b0a5c5b1134c44120": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "USR/USDT0",
+      "address": "0xd60bd6a2771fb1201edadb5b0a5c5b1134c44120",
+      "symbol": "USR-USDT0",
+      "assetGroup": "USR/USDT0::USR-USDT0",
+      "currencyId": "USR/USDT0::USR-USDT0"
+    },
+    "0x34c7c50e44ed7ab6360c2fe18f15e66083e5ec29": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Concentrated Hyperbloom USDHL-HYPE",
+      "address": "0x34c7c50e44ed7ab6360c2fe18f15e66083e5ec29",
+      "symbol": "conhUSDHLHYPE",
+      "assetGroup": "Concentrated Hyperbloom USDHL-HYPE::conhUSDHLHYPE",
+      "currencyId": "Concentrated Hyperbloom USDHL-HYPE::conhUSDHLHYPE"
+    },
+    "0x35d5854e6697396129395ba0a41149d4057174c2": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "sUSDe/USDe",
+      "address": "0x35d5854e6697396129395ba0a41149d4057174c2",
+      "symbol": "sUSDe-USDe",
+      "assetGroup": "sUSDe/USDe::sUSDe-USDe",
+      "currencyId": "sUSDe/USDe::sUSDe-USDe"
+    },
+    "0xb385afdf3a033ebd06dc182d83caf794bdea2ce1": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Spectra ERC4626 Wrapper: Liquid HYPE Yield",
+      "address": "0xb385afdf3a033ebd06dc182d83caf794bdea2ce1",
+      "symbol": "sw-liquidHYPE",
+      "assetGroup": "Spectra ERC4626 Wrapper: Liquid HYPE Yield::sw-liquidHYPE",
+      "currencyId": "Spectra ERC4626 Wrapper: Liquid HYPE Yield::sw-liquidHYPE"
+    },
+    "0xb80bc5b1547f2f5e33ec292536ece03521a424ea": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "ICHI Vault Liquidity",
+      "address": "0xb80bc5b1547f2f5e33ec292536ece03521a424ea",
+      "symbol": "IV-HYPE-WHYPE-mHYPE-100",
+      "assetGroup": "ICHI Vault Liquidity::IV-HYPE-WHYPE-mHYPE-100",
+      "currencyId": "ICHI Vault Liquidity::IV-HYPE-WHYPE-mHYPE-100"
+    },
+    "0xc67c09d162bfc6b768250b1913bc2e70730b148d": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "ICHI Vault Liquidity",
+      "address": "0xc67c09d162bfc6b768250b1913bc2e70730b148d",
+      "symbol": "IV-HYPE-mHYPE-WHYPE-100",
+      "assetGroup": "ICHI Vault Liquidity::IV-HYPE-mHYPE-WHYPE-100",
+      "currencyId": "ICHI Vault Liquidity::IV-HYPE-mHYPE-WHYPE-100"
+    },
+    "0xe42163b71b69aa4509aa15b06722b1f0484332e3": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Concentrated Hyperbloom LHYPE-USDXL",
+      "address": "0xe42163b71b69aa4509aa15b06722b1f0484332e3",
+      "symbol": "conhLHYPEUSDXL",
+      "assetGroup": "Concentrated Hyperbloom LHYPE-USDXL::conhLHYPEUSDXL",
+      "currencyId": "Concentrated Hyperbloom LHYPE-USDXL::conhLHYPEUSDXL"
+    },
+    "0x56adaf90c4d932a53259e7b7c819d55c7b0a71a4": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Boosted hbUSDT-gtUSDT0-gtUSDe",
+      "address": "0x56adaf90c4d932a53259e7b7c819d55c7b0a71a4",
+      "symbol": "hbUSDT-gtUSDT0-gtUSDe",
+      "assetGroup": "Boosted hbUSDT-gtUSDT0-gtUSDe::hbUSDT-gtUSDT0-gtUSDe",
+      "currencyId": "Boosted hbUSDT-gtUSDT0-gtUSDe::hbUSDT-gtUSDT0-gtUSDe"
+    },
+    "0x5a6ab9a47115bb4e3492b20a4d9eed3397d88ade": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Concentrated Hyperbloom UBTC-UETH",
+      "address": "0x5a6ab9a47115bb4e3492b20a4d9eed3397d88ade",
+      "symbol": "conhUBTCUETH",
+      "assetGroup": "Concentrated Hyperbloom UBTC-UETH::conhUBTCUETH",
+      "currencyId": "Concentrated Hyperbloom UBTC-UETH::conhUBTCUETH"
+    },
+    "0x63a642dcd91ab4d579ec45181945df1e1e95d6b4": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Spectra ERC4626 Wrapper: Hyperbeat USDT",
+      "address": "0x63a642dcd91ab4d579ec45181945df1e1e95d6b4",
+      "symbol": "sw-hbUSDT",
+      "assetGroup": "Spectra ERC4626 Wrapper: Hyperbeat USDT::sw-hbUSDT",
+      "currencyId": "Spectra ERC4626 Wrapper: Hyperbeat USDT::sw-hbUSDT"
+    },
+    "0x6bd8de0fed17dc0c0a82b9fe5522b129ecaebdbd": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Balancer Weighted mcHYPE-gtuETH",
+      "address": "0x6bd8de0fed17dc0c0a82b9fe5522b129ecaebdbd",
+      "symbol": "50mcHYPE-50gtuETH",
+      "assetGroup": "Balancer Weighted mcHYPE-gtuETH::50mcHYPE-50gtuETH",
+      "currencyId": "Balancer Weighted mcHYPE-gtuETH::50mcHYPE-50gtuETH"
+    },
+    "0xa5b39551f301343b5f6dd1047d4c55082a60f14f": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Balancer Weighted gtUSDT0-mcHYPE",
+      "address": "0xa5b39551f301343b5f6dd1047d4c55082a60f14f",
+      "symbol": "50gtUSDT0-50mcHYPE",
+      "assetGroup": "Balancer Weighted gtUSDT0-mcHYPE::50gtUSDT0-50mcHYPE",
+      "currencyId": "Balancer Weighted gtUSDT0-mcHYPE::50gtUSDT0-50mcHYPE"
+    },
+    "0x3fa145cad2c8108a68cfc803a8e1ae246c36df3e": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "HyperStrategy",
+      "address": "0x3fa145cad2c8108a68cfc803a8e1ae246c36df3e",
+      "symbol": "HSTR",
+      "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x3fa145cad2c8108a68cfc803a8e1ae246c36df3e/05d8a20c229784ed139f81195a6bbd3b.png",
+      "assetGroup": "HyperStrategy::HSTR",
+      "currencyId": "HyperStrategy::HSTR"
+    },
+    "0x4abfd796ae875dce0ff718395385fef474373b3a": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "d2HYPE_sub",
+      "address": "0x4abfd796ae875dce0ff718395385fef474373b3a",
+      "symbol": "d2HYPE_sub",
+      "assetGroup": "d2HYPE_sub::d2HYPE_sub",
+      "currencyId": "d2HYPE_sub::d2HYPE_sub"
+    },
+    "0xdcbf1a40d40cc705ab6a00fe69c52b84ab346dcd": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Concentrated Hyperbloom Hyperswap HYPE-UBTC",
+      "address": "0xdcbf1a40d40cc705ab6a00fe69c52b84ab346dcd",
+      "symbol": "conhHYPEUBTC",
+      "assetGroup": "Concentrated Hyperbloom Hyperswap HYPE-UBTC::conhHYPEUBTC",
+      "currencyId": "Concentrated Hyperbloom Hyperswap HYPE-UBTC::conhHYPEUBTC"
+    },
+    "0x26f9f2f619e44f00af9f04c98da5ef2394939715": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Concentrated Hyperbloom Hyperswap HYPE-LHYPE",
+      "address": "0x26f9f2f619e44f00af9f04c98da5ef2394939715",
+      "symbol": "conhHYPELHYPE",
+      "assetGroup": "Concentrated Hyperbloom Hyperswap HYPE-LHYPE::conhHYPELHYPE",
+      "currencyId": "Concentrated Hyperbloom Hyperswap HYPE-LHYPE::conhHYPELHYPE"
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "999",
       "decimals": 18,
@@ -2062,7 +2373,8 @@
         "biconomy-gas-token",
         "debridge",
         "wrapped:0x5555555555555555555555555555555555555555"
-      ]
+      ],
+      "props": { "isNative": true, "wrapped": "0x5555555555555555555555555555555555555555" }
     }
   },
   "mainTokens": [

@@ -64,7 +64,7 @@
       "address": "0x623f2774d9f27b59bc6b954544487532ce79d9df",
       "symbol": "bfBTC",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/bfBTC.webp",
-      "assetGroup": "bfBTC",
+      "assetGroup": "BitFi Bitcoin::bfBTC",
       "currencyId": "BitFi Bitcoin::bfBTC"
     },
     "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3": {
@@ -514,7 +514,8 @@
         "ZEROLEND",
         "LENDOS",
         "wrapped:0x4200000000000000000000000000000000000006"
-      ]
+      ],
+      "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" }
     }
   },
   "mainTokens": [

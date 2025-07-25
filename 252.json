@@ -331,6 +331,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/frxeth.webp",
       "currencyId": "Frax Ether::frxETH",
       "tags": ["native"],
+      "props": { "isNative": true },
       "name": "Frax Ether",
       "symbol": "frxETH",
       "decimals": 18

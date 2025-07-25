@@ -41,6 +41,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/btc.webp",
       "currencyId": "Botanix::BTC",
       "tags": ["native"],
+      "props": { "isNative": true },
       "name": "Botanix",
       "symbol": "BTC",
       "decimals": 18

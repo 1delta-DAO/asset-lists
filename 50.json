@@ -284,7 +284,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/xdc.webp",
       "assetGroup": "Wrapped XDC::WXDC",
       "currencyId": "XinFin::XDC",
-      "tags": ["native", "wnative", "coingecko", "wrapped:0x951857744785e80e2de051c32ee7b25f9c458c42"]
+      "tags": ["native", "wnative", "coingecko", "wrapped:0x951857744785e80e2de051c32ee7b25f9c458c42"],
+      "props": { "isNative": true, "wrapped": "0x951857744785e80e2de051c32ee7b25f9c458c42" }
     }
   },
   "mainTokens": [

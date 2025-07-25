@@ -591,7 +591,12 @@
         "wnative",
         "wrapped:0x75cb093e4d61d2a2e65d8e0bbb01de8d89b53481",
         "erc20:0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000"
-      ]
+      ],
+      "props": {
+        "isNative": true,
+        "erc20": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000",
+        "wrapped": "0x75cb093e4d61d2a2e65d8e0bbb01de8d89b53481"
+      }
     }
   },
   "mainTokens": [

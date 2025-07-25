@@ -308,7 +308,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/plume.webp",
       "assetGroup": "Wrapped Plume::WPLUME",
       "currencyId": "Plume::PLUME",
-      "tags": ["native", "debridge", "wnative", "wrapped:0xea237441c92cae6fc17caaf9a7acb3f953be4bd1"]
+      "tags": ["native", "debridge", "wnative", "wrapped:0xea237441c92cae6fc17caaf9a7acb3f953be4bd1"],
+      "props": { "isNative": true, "wrapped": "0xea237441c92cae6fc17caaf9a7acb3f953be4bd1" }
     }
   },
   "mainTokens": [

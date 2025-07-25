@@ -193,7 +193,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/btc.webp",
       "assetGroup": "WBTC",
       "currencyId": "Bitcoin::BTC",
-      "tags": ["native", "wnative", "wrapped:0x4200000000000000000000000000000000000006"]
+      "tags": ["native", "wnative", "wrapped:0x4200000000000000000000000000000000000006"],
+      "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" }
     }
   },
   "mainTokens": [

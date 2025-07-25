@@ -1932,7 +1932,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000014/0x7a0c53f7eb34c5bc8b01691723669ada9d6cb384/small/token-logo.png",
       "assetGroup": "SpookyToken V::BOO",
       "currencyId": "SpookyToken V::BOO",
-      "tags": ["debridge", "coingecko"]
+      "tags": ["debridge", "coingecko", "biconomy-gas-token"]
     },
     "0x1cefa23c160ba7f11fd770d51822254238dba3e5": {
       "chainId": "146",
@@ -2325,7 +2325,8 @@
       "symbol": "PT-wstkscUSD-29MAY2025",
       "assetGroup": "PT Wrapped stkscUSD 29MAY2025::PT-wstkscUSD-29MAY2025",
       "currencyId": "PT Wrapped stkscUSD 29MAY2025::PT-wstkscUSD-29MAY2025",
-      "tags": ["PENDLE-PT", "ENCLABS"]
+      "tags": ["PENDLE-PT", "ENCLABS"],
+      "props": { "pendle": { "tokenType": "PT" } }
     },
     "0xd2901d474b351bc6ee7b119f9c920863b0f781b2": {
       "chainId": "146",
@@ -2417,6 +2418,54 @@
       "assetGroup": "Gami Capital scUSD::Gami_scUSD",
       "currencyId": "Gami Capital scUSD::Gami_scUSD"
     },
+    "0x2286ba4fcbb2ef06c4349faf6b8970ece593f5dd": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "vS Token",
+      "address": "0x2286ba4fcbb2ef06c4349faf6b8970ece593f5dd",
+      "symbol": "vS",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/vs.png",
+      "assetGroup": "vS Token::vS::146::0",
+      "currencyId": "vS Token::vS"
+    },
+    "0x4d85ba8c3918359c78ed09581e5bc7578ba932ba": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "Staked Sonic USD",
+      "address": "0x4d85ba8c3918359c78ed09581e5bc7578ba932ba",
+      "symbol": "stkscUSD",
+      "assetGroup": "Staked Sonic USD::stkscUSD",
+      "currencyId": "Staked Sonic USD::stkscUSD"
+    },
+    "0x455d5f11fea33a8fa9d3e285930b478b6bf85265": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Staked Sonic ETH",
+      "address": "0x455d5f11fea33a8fa9d3e285930b478b6bf85265",
+      "symbol": "stkscETH",
+      "assetGroup": "Staked Sonic ETH::stkscETH",
+      "currencyId": "Staked Sonic ETH::stkscETH"
+    },
+    "0xd0851030c94433c261b405fecbf1dec5e15948d0": {
+      "chainId": "146",
+      "decimals": 8,
+      "name": "Staked Sonic BTC",
+      "address": "0xd0851030c94433c261b405fecbf1dec5e15948d0",
+      "symbol": "stkscBTC",
+      "assetGroup": "Staked Sonic BTC::stkscBTC",
+      "currencyId": "Staked Sonic BTC::stkscBTC"
+    },
+    "0xd259c1ae13e4acd745556913d044f08542418875": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Moth",
+      "address": "0xd259c1ae13e4acd745556913d044f08542418875",
+      "symbol": "MOTH",
+      "logoURI": "https://assets.coingecko.com/coins/images/67667/thumb/MOTH.?1753436722",
+      "assetGroup": "Moth::MOTH",
+      "currencyId": "Moth::MOTH",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "146",
       "decimals": 18,
@@ -2439,7 +2488,8 @@
         "ENCLABS",
         "ENCLABS_LST",
         "wrapped:0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38"
-      ]
+      ],
+      "props": { "isNative": true, "wrapped": "0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38" }
     }
   },
   "mainTokens": [

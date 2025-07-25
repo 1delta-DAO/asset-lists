@@ -3044,6 +3044,17 @@
       "currencyId": "NeurotiCat::NEURO",
       "tags": ["coingecko"]
     },
+    "0xe45fe733bc8617fa6dac8437fc44b5fffa949991": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "Xitcoin",
+      "address": "0xe45fe733bc8617fa6dac8437fc44b5fffa949991",
+      "symbol": "XTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/55892/thumb/transparent-logo.png?1747622919",
+      "assetGroup": "Xitcoin::XTC::25::0",
+      "currencyId": "Xitcoin::XTC",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "25",
       "decimals": 18,
@@ -3053,7 +3064,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/cro.webp",
       "assetGroup": "Wrapped CRO::WCRO",
       "currencyId": "Cronos::CRO",
-      "tags": ["native", "openocean", "coingecko", "wnative", "wrapped:0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23"]
+      "tags": ["native", "openocean", "coingecko", "wnative", "wrapped:0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23"],
+      "props": { "isNative": true, "wrapped": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23" }
     }
   },
   "mainTokens": [

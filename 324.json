@@ -1715,12 +1715,24 @@
       "currencyId": "Staked USDe::sUSDe",
       "tags": ["AAVE_V3"]
     },
+    "0xe061aa40be525a13296cb4bf69f513242349d708": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "XVGZKE",
+      "address": "0xe061aa40be525a13296cb4bf69f513242349d708",
+      "symbol": "XVGZKE",
+      "logoURI": "https://assets.coingecko.com/coins/images/67658/thumb/xvgzke-200x200.png?1753425307",
+      "assetGroup": "XVGZKE::XVGZKE",
+      "currencyId": "XVGZKE::XVGZKE",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "324",
       "address": "0x0000000000000000000000000000000000000000",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "currencyId": "Ether::ETH",
       "tags": ["native"],
+      "props": { "isNative": true },
       "name": "Ether",
       "symbol": "ETH",
       "decimals": 18

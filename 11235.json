@@ -137,7 +137,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/islm.webp",
       "assetGroup": "ISLM",
       "currencyId": "Islamic Coin::ISLM",
-      "tags": ["native", "wnative", "wrapped:0xec8cc083787c6e5218d86f9ff5f28d4cc377ac54"]
+      "tags": ["native", "wnative", "wrapped:0xec8cc083787c6e5218d86f9ff5f28d4cc377ac54"],
+      "props": { "isNative": true, "wrapped": "0xec8cc083787c6e5218d86f9ff5f28d4cc377ac54" }
     }
   },
   "mainTokens": [
