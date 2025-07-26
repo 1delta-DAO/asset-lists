@@ -49622,8 +49622,10 @@
       "name": "Falcon USD",
       "address": "0xb3b02e4a9fb2bd28cc2ff97b0ab3f6b3ec1ee9d2",
       "symbol": "USDf",
+      "logoURI": "https://assets.coingecko.com/coins/images/54558/thumb/ff_200_X_200.png?1740741076",
       "assetGroup": "Falcon USD::USDf",
-      "currencyId": "Falcon USD::USDf"
+      "currencyId": "Falcon USD::USDf",
+      "tags": ["coingecko"]
     },
     "0xf3b3f0971f4c7a06740b653557566446919a4098": {
       "chainId": "56",
@@ -49645,6 +49647,105 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67673/thumb/IMG_4464.jpeg?1753443443",
       "assetGroup": "Phoenix Token::PHT",
       "currencyId": "Phoenix Token::PHT",
+      "tags": ["coingecko"]
+    },
+    "0x6c44dc4c1df6469ef31887154acd7a672469f88e": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "ORBITX",
+      "address": "0x6c44dc4c1df6469ef31887154acd7a672469f88e",
+      "symbol": "RTX",
+      "logoURI": "https://assets.coingecko.com/coins/images/67680/thumb/ORBITX_200X200.png?1753516132",
+      "assetGroup": "ORBITX::RTX",
+      "currencyId": "ORBITX::RTX",
+      "tags": ["coingecko"]
+    },
+    "0xb6a2563c16a5e67cdd96126d99aa29d7304b8888": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YellowFangUSD1",
+      "address": "0xb6a2563c16a5e67cdd96126d99aa29d7304b8888",
+      "symbol": "YFUSD1",
+      "logoURI": "https://assets.coingecko.com/coins/images/67689/thumb/download_%286%29.jpg?1753521728",
+      "assetGroup": "YellowFangUSD1::YFUSD1",
+      "currencyId": "YellowFangUSD1::YFUSD1",
+      "tags": ["coingecko"]
+    },
+    "0x3cd886be588685484528cbf6494729922e4e89c6": {
+      "chainId": "56",
+      "decimals": 8,
+      "name": "Kommunitas",
+      "address": "0x3cd886be588685484528cbf6494729922e4e89c6",
+      "symbol": "KOMMUNITASTOKEN",
+      "logoURI": "https://assets.coingecko.com/coins/images/67692/thumb/Kommunitas_HD.png?1753522326",
+      "assetGroup": "Kommunitas::KOMMUNITASTOKEN",
+      "currencyId": "Kommunitas::KOMMUNITASTOKEN",
+      "tags": ["coingecko"]
+    },
+    "0x84fcb6f9031fce00bb89433d5df9e69a6ba3a4f8": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Soulbucks",
+      "address": "0x84fcb6f9031fce00bb89433d5df9e69a6ba3a4f8",
+      "symbol": "SBX",
+      "logoURI": "https://assets.coingecko.com/coins/images/67695/thumb/SBX_200x200_%282%29.png?1753522989",
+      "assetGroup": "Soulbucks::SBX",
+      "currencyId": "Soulbucks::SBX",
+      "tags": ["coingecko"]
+    },
+    "0x058240afd2df517fad59baa3a39c6ae28cf37f32": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Cicada Finance",
+      "address": "0x058240afd2df517fad59baa3a39c6ae28cf37f32",
+      "symbol": "LTCIC",
+      "logoURI": "https://assets.coingecko.com/coins/images/67697/thumb/ltCIC_Logo.jpg?1753523409",
+      "assetGroup": "Cicada Finance::LTCIC",
+      "currencyId": "Cicada Finance::LTCIC",
+      "tags": ["coingecko"]
+    },
+    "0xd029b392580d555f35cca1987f27d248cf883716": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "DePHY Network",
+      "address": "0xd029b392580d555f35cca1987f27d248cf883716",
+      "symbol": "PHY",
+      "logoURI": "https://assets.coingecko.com/coins/images/67628/thumb/dephy.png?1753329478",
+      "assetGroup": "DePHY Network::PHY",
+      "currencyId": "DePHY Network::PHY",
+      "tags": ["coingecko"]
+    },
+    "0x87c22615435998d69aca34889d03155b694a94fc": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "DiemLibre",
+      "address": "0x87c22615435998d69aca34889d03155b694a94fc",
+      "symbol": "DLB",
+      "logoURI": "https://assets.coingecko.com/coins/images/22818/thumb/ckjb5eTG_400x400.jpg?1696522120",
+      "assetGroup": "DiemLibre::DLB",
+      "currencyId": "DiemLibre::DLB",
+      "tags": ["coingecko"]
+    },
+    "0x4c067de26475e1cefee8b8d1f6e2266b33a2372e": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "RHEA",
+      "address": "0x4c067de26475e1cefee8b8d1f6e2266b33a2372e",
+      "symbol": "RHEA",
+      "logoURI": "https://assets.coingecko.com/coins/images/67682/thumb/RHEA_Logo.png?1753517263",
+      "assetGroup": "RHEA::RHEA",
+      "currencyId": "RHEA::RHEA",
+      "tags": ["coingecko"]
+    },
+    "0x1bb2191ff6f49ba1008398bc9fa882db62c878b9": {
+      "chainId": "56",
+      "decimals": 6,
+      "name": "GCoin",
+      "address": "0x1bb2191ff6f49ba1008398bc9fa882db62c878b9",
+      "symbol": "GC",
+      "logoURI": "https://assets.coingecko.com/coins/images/52486/thumb/image_1_1.webp?1733429194",
+      "assetGroup": "GCoin::GC",
+      "currencyId": "GCoin::GC",
       "tags": ["coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {
