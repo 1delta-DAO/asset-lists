@@ -228,7 +228,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/29276/thumb/wcore.png?1696528228",
       "assetGroup": "CORE",
       "currencyId": "Wrapped CORE::WCORE",
-      "tags": ["coingecko", "COLEND", "COLEND_LSTBTC", "AVALON"]
+      "tags": ["coingecko", "COLEND", "COLEND_LSTBTC", "AVALON", "wnative"]
     },
     "0xe56016187c0fb36f76c33d0d0b36b47648a42d0a": {
       "chainId": "1116",
@@ -939,7 +939,15 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/core.webp",
       "assetGroup": "CORE",
       "currencyId": "Core Blockchain Native Token::CORE",
-      "tags": ["native", "coingecko", "wnative", "wrapped:0x40375c92d9faf44d2f9db9bd9ba41a3317a2404f"],
+      "tags": [
+        "native",
+        "coingecko",
+        "COLEND",
+        "COLEND_LSTBTC",
+        "AVALON",
+        "wnative",
+        "wrapped:0x40375c92d9faf44d2f9db9bd9ba41a3317a2404f"
+      ],
       "props": { "isNative": true, "wrapped": "0x40375c92d9faf44d2f9db9bd9ba41a3317a2404f" }
     }
   },
@@ -967,7 +975,6 @@
     "0xa0e125f5108a8bc99d38de75a807a36e1067c43b",
     "0xc0e5f8e2a9a2f1fbf34ab4d5fbf417ffd02fdb79",
     "0x04596cf36027d177d460c2d0c4235eec0a97ecbb",
-    "0x40375c92d9faf44d2f9db9bd9ba41a3317a2404f",
     "0xd60d60b168360dbd3496ec0ed0afe4a7498de3ce",
     "0x1a639e150d2210a4be4a5f0857a9151b241e7ae4",
     "0x30a540b05468a250fcc17da2d9d4aaa84b358ea7",
