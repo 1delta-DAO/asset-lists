@@ -222,12 +222,12 @@
     "0x40375c92d9faf44d2f9db9bd9ba41a3317a2404f": {
       "chainId": "1116",
       "decimals": 18,
-      "name": "Wrapped CORE Old",
+      "name": "Wrapped CORE",
       "address": "0x40375c92d9faf44d2f9db9bd9ba41a3317a2404f",
-      "symbol": "WCORE_OLD",
+      "symbol": "WCORE",
       "logoURI": "https://assets.coingecko.com/coins/images/29276/thumb/wcore.png?1696528228",
-      "assetGroup": "Wrapped CORE Old::WCORE_OLD",
-      "currencyId": "Wrapped CORE Old::WCORE_OLD",
+      "assetGroup": "CORE",
+      "currencyId": "Wrapped CORE::WCORE",
       "tags": ["coingecko", "COLEND", "COLEND_LSTBTC", "AVALON"]
     },
     "0xe56016187c0fb36f76c33d0d0b36b47648a42d0a": {
@@ -382,12 +382,12 @@
     "0xb0788b601c0d712702bc829b52771199ad8e33ff": {
       "chainId": "1116",
       "decimals": 18,
-      "name": "Wrapped CORE",
+      "name": "Wrapped CORE Old",
       "address": "0xb0788b601c0d712702bc829b52771199ad8e33ff",
-      "symbol": "WCORE",
+      "symbol": "WCORE_OLD",
       "logoURI": "https://assets.coingecko.com/coins/images/29276/standard/wcore.png?1696528228",
-      "assetGroup": "CORE",
-      "currencyId": "Wrapped CORE::WCORE",
+      "assetGroup": "Wrapped CORE Old::WCORE_OLD",
+      "currencyId": "Wrapped CORE Old::WCORE_OLD",
       "tags": ["coingecko", "wnative"]
     },
     "0xf15fba1e7112d680055962fb85a0c04550f24097": {
@@ -939,8 +939,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/core.webp",
       "assetGroup": "CORE",
       "currencyId": "Core Blockchain Native Token::CORE",
-      "tags": ["native", "coingecko", "wnative", "wrapped:0xb0788b601c0d712702bc829b52771199ad8e33ff"],
-      "props": { "isNative": true, "wrapped": "0xb0788b601c0d712702bc829b52771199ad8e33ff" }
+      "tags": ["native", "coingecko", "wnative", "wrapped:0x40375c92d9faf44d2f9db9bd9ba41a3317a2404f"],
+      "props": { "isNative": true, "wrapped": "0x40375c92d9faf44d2f9db9bd9ba41a3317a2404f" }
     }
   },
   "mainTokens": [
@@ -952,7 +952,7 @@
     "0x900101d06a7426441ae63e9ab3b9b0f63be145f1",
     "0x81bcea03678d1cef4830942227720d542aa15817",
     "0xd2683b22287e63d22928cbe4514003a92507f474",
-    "0xb0788b601c0d712702bc829b52771199ad8e33ff",
+    "0x40375c92d9faf44d2f9db9bd9ba41a3317a2404f",
     "0xe04d21d999faedf1e72ade6629e20a11a1ed14fa",
     "0x000000000e1d682cc39abe9b32285fdea1255374",
     "0x9410e8052bc661041e5cb27fdf7d9e9e842af2aa",
