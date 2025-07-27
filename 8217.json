@@ -129,13 +129,13 @@
     "0x19aac5f612f524b754ca7e7c41cbfa2e981a4432": {
       "chainId": "8217",
       "decimals": 18,
-      "name": "Wrapped Klay",
+      "name": "Wrapped KAIA",
       "address": "0x19aac5f612f524b754ca7e7c41cbfa2e981a4432",
-      "symbol": "WKLAY",
-      "logoURI": "https://static.debank.com/image/klay_token/logo_url/0x19aac5f612f524b754ca7e7c41cbfa2e981a4432/1866fc790849a903e0594ce0f55b758d.png",
-      "assetGroup": "Wrapped Klay::WKLAY",
-      "currencyId": "Wrapped Klay::WKLAY",
-      "tags": ["RHOMBUS", "AVALON", "AVALON_SKAIA"]
+      "symbol": "WKAIA",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/kaia.webp",
+      "assetGroup": "KAIA",
+      "currencyId": "Wrapped Klay::WKAIA",
+      "tags": ["wnative", "RHOMBUS", "AVALON", "AVALON_SKAIA"]
     },
     "0x15d9f3ab1982b0e5a415451259994ff40369f584": {
       "chainId": "8217",
@@ -5003,13 +5003,12 @@
     "0xfd844c2fca5e595004b17615f891620d1cb9bbb2": {
       "chainId": "8217",
       "decimals": 18,
-      "name": "Wrapped KAIA",
+      "name": "Wrapped KAIA Old",
       "address": "0xfd844c2fca5e595004b17615f891620d1cb9bbb2",
-      "symbol": "WKAIA",
+      "symbol": "WKAIA_OLD",
       "logoURI": "https://api.swapscanner.io/v0/tokens/0xfd844c2fca5e595004b17615f891620d1cb9bbb2/icon",
-      "assetGroup": "KAIA",
-      "currencyId": "Wrapped KAIA::WKAIA",
-      "tags": ["wnative"]
+      "assetGroup": "Wrapped KAIA Old::WKAIA_OLD",
+      "currencyId": "Wrapped KAIA Old::WKAIA_OLD"
     },
     "0x75237e2d8cd282734baf9ac9d68363c6bd5837ef": {
       "chainId": "8217",
