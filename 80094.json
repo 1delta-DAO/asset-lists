@@ -44,7 +44,7 @@
       "logoURI": "https://hub.berachain.com/_next/image/?url=https%3A%2F%2Fres.cloudinary.com%2Fduv0g402y%2Fimage%2Fupload%2Fv1738732576%2Ftokens%2Fy6wa21vehnappbe2cruf.png&w=3840&q=75&dpl=dpl_FBim27rRDfMcGJQxRsgz2AneXzpt",
       "assetGroup": "BYUSD::BYUSD",
       "currencyId": "BYUSD::BYUSD",
-      "tags": ["biconomy-gas-token", "debridge"]
+      "tags": ["biconomy-gas-token", "debridge", "coingecko"]
     },
     "0x549943e04f40284185054145c6e4e9568c1d3241": {
       "chainId": "80094",
@@ -913,8 +913,10 @@
       "name": "Pendle",
       "address": "0xff9c599d51c407a45d631c6e89cb047efb88aef6",
       "symbol": "PENDLE",
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/thumb/Pendle_Logo_Normal-03.png?1696514728",
       "assetGroup": "PENDLE",
-      "currencyId": "Pendle::PENDLE"
+      "currencyId": "Pendle::PENDLE",
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x0000382fbb422b4f593931fc6f2d25cc16600000": {
       "chainId": "80094",
@@ -1024,6 +1026,35 @@
       "assetGroup": "Wrapped FRAX::WFRAX",
       "currencyId": "Wrapped FRAX::WFRAX",
       "tags": ["coingecko", "biconomy-gas-token"]
+    },
+    "0x1b25ca174c158440621ff96e4b1262cb5cc8942f": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "Solv Protocol SolvBTC BNB",
+      "address": "0x1b25ca174c158440621ff96e4b1262cb5cc8942f",
+      "symbol": "SOLVBTCBNB",
+      "logoURI": "https://assets.coingecko.com/coins/images/67662/thumb/SolvBTC.BNB.png?1753426768",
+      "assetGroup": "Solv Protocol SolvBTC BNB::SOLVBTCBNB",
+      "currencyId": "Solv Protocol SolvBTC BNB::SOLVBTCBNB",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x80eede496655fb9047dd39d9f418d5483ed600df": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "Frax USD",
+      "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+      "symbol": "frxUSD",
+      "assetGroup": "FRXUSD",
+      "currencyId": "Frax USD::frxUSD"
+    },
+    "0x3ec3849c33291a9ef4c5db86de593eb4a37fde45": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "Staked Frax Ether",
+      "address": "0x3ec3849c33291a9ef4c5db86de593eb4a37fde45",
+      "symbol": "sfrxETH",
+      "assetGroup": "SFRXETH",
+      "currencyId": "Staked Frax Ether::sfrxETH"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "80094",

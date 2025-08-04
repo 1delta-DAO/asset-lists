@@ -163,6 +163,17 @@
       "currencyId": "Midas mTBILL::MTBILL",
       "tags": ["coingecko"]
     },
+    "0x79052ab3c166d4899a1e0dd033ac3b379af0b1fd": {
+      "chainId": "42793",
+      "decimals": 18,
+      "name": "Uranium",
+      "address": "0x79052ab3c166d4899a1e0dd033ac3b379af0b1fd",
+      "symbol": "XU3O8",
+      "logoURI": "https://assets.coingecko.com/coins/images/67758/thumb/xu.png?1753733711",
+      "assetGroup": "Uranium::XU3O8",
+      "currencyId": "Uranium::XU3O8",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "42793",
       "decimals": 18,
@@ -190,7 +201,8 @@
     "0x01f07f4d78d47a64f4c3b2b65f513f15be6e1854",
     "0x2247b5a46bb79421a314ab0f0b67ffd11dd37ee4",
     "0xdd629e5241cbc5919847783e6c96b2de4754e438",
-    "0xecac9c5f704e954931349da37f60e39f515c11c1"
+    "0xecac9c5f704e954931349da37f60e39f515c11c1",
+    "0x79052ab3c166d4899a1e0dd033ac3b379af0b1fd"
   ],
   "bridgeTokens": [
     "0x2c03058c8afc06713be23e58d2febc8337dbfe6a",

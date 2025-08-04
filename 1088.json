@@ -575,6 +575,24 @@
       "currencyId": "WBTC Token::m.WBTC",
       "tags": ["GRANARY"]
     },
+    "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189": {
+      "chainId": "1088",
+      "decimals": 6,
+      "name": "OpenUSDT",
+      "address": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+      "symbol": "oUSDT",
+      "assetGroup": "OpenUSDT::oUSDT",
+      "currencyId": "OpenUSDT::oUSDT"
+    },
+    "0xd2fe54d1e5f568eb710ba9d898bf4bd02c7c0353": {
+      "chainId": "1088",
+      "decimals": 18,
+      "name": "ChainLink Token",
+      "address": "0xd2fe54d1e5f568eb710ba9d898bf4bd02c7c0353",
+      "symbol": "LINK",
+      "assetGroup": "LINK",
+      "currencyId": "ChainLink Token::LINK"
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "1088",
       "decimals": 18,

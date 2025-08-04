@@ -10690,16 +10690,44 @@
       "assetGroup": "원화스테이블코인::KRW",
       "currencyId": "원화스테이블코인::KRW"
     },
+    "0x23ccab1de32e06a6235a7997c266f86440c2cbe6": {
+      "chainId": "8217",
+      "decimals": 18,
+      "name": "Delabs Games",
+      "address": "0x23ccab1de32e06a6235a7997c266f86440c2cbe6",
+      "symbol": "DELABS",
+      "logoURI": "https://api.swapscanner.io/v0/tokens/0x23ccab1de32e06a6235a7997c266f86440c2cbe6/icon",
+      "assetGroup": "Delabs Games::DELABS",
+      "currencyId": "Delabs Games::DELABS"
+    },
+    "0x06053d778ea9200605bd3bcec374368fbcc0e3d6": {
+      "chainId": "8217",
+      "decimals": 18,
+      "name": "DarkStar",
+      "address": "0x06053d778ea9200605bd3bcec374368fbcc0e3d6",
+      "symbol": "DARK",
+      "logoURI": "https://api.swapscanner.io/v0/tokens/0x06053d778ea9200605bd3bcec374368fbcc0e3d6/icon",
+      "assetGroup": "DarkStar::DARK::8217::0",
+      "currencyId": "DarkStar::DARK"
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "8217",
-      "address": "0x0000000000000000000000000000000000000000",
-      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/kaia.webp",
-      "currencyId": "KAIA::KAIA",
-      "tags": ["native"],
-      "props": { "isNative": true },
+      "decimals": 18,
       "name": "KAIA",
+      "address": "0x0000000000000000000000000000000000000000",
       "symbol": "KAIA",
-      "decimals": 18
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/kaia.webp",
+      "assetGroup": "KAIA",
+      "currencyId": "KAIA::KAIA",
+      "tags": [
+        "native",
+        "wnative",
+        "RHOMBUS",
+        "AVALON",
+        "AVALON_SKAIA",
+        "wrapped:0x19aac5f612f524b754ca7e7c41cbfa2e981a4432"
+      ],
+      "props": { "isNative": true, "wrapped": "0x19aac5f612f524b754ca7e7c41cbfa2e981a4432" }
     }
   },
   "mainTokens": [

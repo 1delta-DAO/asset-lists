@@ -396,7 +396,7 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png",
       "assetGroup": "USDT",
       "currencyId": "Tether USD::USDT",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token", "AAVE_V3", "ZEROLEND", "GRANARY"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "AAVE_V3", "ZEROLEND", "GRANARY", "MOONCAKE"]
     },
     "0xc84f2ce21272f17d92d2a450f1c8567bf0ff448e": {
       "chainId": "59144",
@@ -458,7 +458,8 @@
         "ZEROLEND",
         "ZEROLEND_CROAK",
         "ZEROLEND_FOXY",
-        "GRANARY"
+        "GRANARY",
+        "MOONCAKE"
       ]
     },
     "0x68592c5c98c4f4a8a4bc6da2121e65da3d1c0917": {
@@ -512,7 +513,8 @@
         "ZEROLEND",
         "ZEROLEND_CROAK",
         "ZEROLEND_FOXY",
-        "GRANARY"
+        "GRANARY",
+        "MOONCAKE"
       ]
     },
     "0xb5bedd42000b71fdde22d3ee8a79bd49a568fc8f": {
@@ -784,7 +786,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/31020/thumb/download_%2816%29.png?1696529856",
       "assetGroup": "BUSD",
       "currencyId": "Binance USD::BUSD",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "MOONCAKE"]
     },
     "0x2416092f143378750bb29b79ed961ab195cceea5": {
       "chainId": "59144",
@@ -1802,7 +1804,27 @@
       "logoURI": "https://assets.coingecko.com/coins/images/14149/thumb/cadc_2.png?1696513868",
       "assetGroup": "CAD Coin::CADC",
       "currencyId": "CAD Coin::CADC",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
+    },
+    "0xa500000000e482752f032ea387390b6025a2377b": {
+      "chainId": "59144",
+      "decimals": 18,
+      "name": "Astera USD",
+      "address": "0xa500000000e482752f032ea387390b6025a2377b",
+      "symbol": "ASUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/67887/thumb/asusd_logo_mark_svg-2_big.png?1754125730",
+      "assetGroup": "Astera USD::ASUSD",
+      "currencyId": "Astera USD::ASUSD",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xc7346783f5e645aa998b106ef9e7f499528673d8": {
+      "chainId": "59144",
+      "decimals": 18,
+      "name": "Frax USD",
+      "address": "0xc7346783f5e645aa998b106ef9e7f499528673d8",
+      "symbol": "frxUSD",
+      "assetGroup": "FRXUSD",
+      "currencyId": "Frax USD::frxUSD"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "59144",
@@ -1824,6 +1846,7 @@
         "ZEROLEND_CROAK",
         "ZEROLEND_FOXY",
         "GRANARY",
+        "MOONCAKE",
         "wrapped:0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f"
       ],
       "props": { "isNative": true, "wrapped": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f" }

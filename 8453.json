@@ -32,7 +32,16 @@
       "logoURI": "https://basescan.org/token/images/usdbc_ofc_32.png",
       "assetGroup": "USDBC",
       "currencyId": "USD Base Coin::USDbC",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token", "AAVE_V3", "GRANARY", "YLDR", "COMPOUND_V3_USDBC"]
+      "tags": [
+        "coingecko",
+        "debridge",
+        "biconomy-gas-token",
+        "AAVE_V3",
+        "GRANARY",
+        "YLDR",
+        "COMPOUND_V3_USDBC",
+        "MOONCAKE"
+      ]
     },
     "0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22": {
       "chainId": "8453",
@@ -87,7 +96,7 @@
       "logoURI": "https://ethereum-optimism.github.io/data/DAI/logo.svg",
       "assetGroup": "DAI",
       "currencyId": "Dai Stablecoin::DAI",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token", "GRANARY"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "GRANARY", "MOONCAKE"]
     },
     "0xd5046b976188eb40f6de40fb527f89c05b323385": {
       "chainId": "8453",
@@ -1239,7 +1248,8 @@
         "COMPOUND_V3_WETH",
         "COMPOUND_V3_USDBC",
         "COMPOUND_V3_AERO",
-        "VENUS"
+        "VENUS",
+        "MOONCAKE"
       ]
     },
     "0xd7b99ffb8b2afc6fe013a17207cbe50f223adc94": {
@@ -27636,7 +27646,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67685/thumb/690B1376-E608-4EFD-B37D-EC3839B899CC.jpeg?1753518093",
       "assetGroup": "Cosmo::COSMO",
       "currencyId": "Cosmo::COSMO",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xc2fe3206b74d943ceadc187da6c5dbd1f63e2765": {
       "chainId": "8453",
@@ -27647,7 +27657,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67687/thumb/quantfungirl.png?1753520323",
       "assetGroup": "Quant Fun::QUANT",
       "currencyId": "Quant Fun::QUANT",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x60000eb0ac0c6c83d88e990066ac69466c35cf1c": {
       "chainId": "8453",
@@ -27658,7 +27668,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67688/thumb/IMG_4698.jpeg?1753521495",
       "assetGroup": "Gooey Guys::GOOEY",
       "currencyId": "Gooey Guys::GOOEY",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x0bc945e3ea693ad1527683d9cfe999407ebaabb0": {
       "chainId": "8453",
@@ -27669,7 +27679,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67704/thumb/net-logo.png?1753538506",
       "assetGroup": "Net::NET",
       "currencyId": "Net::NET",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x7252c865c05378ffc15120f428dd65804dd0ce63": {
       "chainId": "8453",
@@ -27680,7 +27690,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/7588/thumb/tlos_png.png?1722391289",
       "assetGroup": "TLOS",
       "currencyId": "Telos::TLOS",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xa153ad732f831a79b5575fa02e793ec4e99181b0": {
       "chainId": "8453",
@@ -27691,7 +27701,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/26149/thumb/Coingecko_logo_%281%29.png?1706026067",
       "assetGroup": "EUL",
       "currencyId": "Euler::EUL",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x6722f882cc3a1b1034893efa9764397c88897892": {
       "chainId": "8453",
@@ -27702,7 +27712,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55300/thumb/stabull-icon_1_.png?1745280165",
       "assetGroup": "Stabull Finance::STABUL",
       "currencyId": "Stabull Finance::STABUL",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x3b3cd21242ba44e9865b066e5ef5d1cc1030cc58": {
       "chainId": "8453",
@@ -27713,7 +27723,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67713/thumb/android-chrome-512x512.png?1753614883",
       "assetGroup": "Streme::STREME",
       "currencyId": "Streme::STREME",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x601a4d14fb720a591bb1de41232eb122dd905b07": {
       "chainId": "8453",
@@ -27724,6 +27734,400 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67723/thumb/i5pvezdck4qb7cym5xm3gvg4n1nl.?1753625022",
       "assetGroup": "Clank Clank ::CLANKS",
       "currencyId": "Clank Clank ::CLANKS",
+      "tags": ["coingecko", "biconomy-gas-token"]
+    },
+    "0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Wrapped sUSDX",
+      "address": "0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92",
+      "symbol": "sUSDX",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92.png",
+      "assetGroup": "Wrapped sUSDX::sUSDX",
+      "currencyId": "Wrapped sUSDX::sUSDX"
+    },
+    "0xf3527ef8de265eaa3716fb312c12847bfba66cef": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Wrapped USDX",
+      "address": "0xf3527ef8de265eaa3716fb312c12847bfba66cef",
+      "symbol": "USDX",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf3527ef8de265eaa3716fb312c12847bfba66cef.png",
+      "assetGroup": "Wrapped USDX::USDX",
+      "currencyId": "Wrapped USDX::USDX"
+    },
+    "0x00000000a22c618fd6b4d7e9a335c4b96b189a38": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Towns",
+      "address": "0x00000000a22c618fd6b4d7e9a335c4b96b189a38",
+      "symbol": "TOWNS",
+      "logoURI": "https://ethereum-optimism.github.io/data/TOWNS/logo.svg",
+      "assetGroup": "Towns::TOWNS",
+      "currencyId": "Towns::TOWNS",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xa6c6ea2e0140849be02a3a34780cf61b766916c5": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Unite",
+      "address": "0xa6c6ea2e0140849be02a3a34780cf61b766916c5",
+      "symbol": "UNITE",
+      "logoURI": "https://assets.coingecko.com/coins/images/67755/thumb/unite_token_sym_blk_grn_200x200.png?1753715000",
+      "assetGroup": "Unite::UNITE",
+      "currencyId": "Unite::UNITE",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xcfc8e8a4d2246dec68115ae24abbca0d2b1e6bf2": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Billy Bets by Virtuals",
+      "address": "0xcfc8e8a4d2246dec68115ae24abbca0d2b1e6bf2",
+      "symbol": "BILLY",
+      "logoURI": "https://assets.coingecko.com/coins/images/67760/thumb/BillyLogots.png?1753772130",
+      "assetGroup": "Billy Bets by Virtuals::BILLY",
+      "currencyId": "Billy Bets by Virtuals::BILLY",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x820c5f0fb255a1d18fd0ebb0f1ccefbc4d546da7": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "A0x",
+      "address": "0x820c5f0fb255a1d18fd0ebb0f1ccefbc4d546da7",
+      "symbol": "A0X",
+      "logoURI": "https://assets.coingecko.com/coins/images/67753/thumb/ksvx43b6wzuizd92091qlauexzm0.?1753708818",
+      "assetGroup": "A0x::A0X",
+      "currencyId": "A0x::A0X",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x3a1a33cf4553db61f0db2c1e1721cd480b02789f": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Taboshi",
+      "address": "0x3a1a33cf4553db61f0db2c1e1721cd480b02789f",
+      "symbol": "TABOSHI",
+      "logoURI": "https://assets.coingecko.com/coins/images/67781/thumb/Untitled_design_%2854%29.png?1753819782",
+      "assetGroup": "Taboshi::TABOSHI",
+      "currencyId": "Taboshi::TABOSHI",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x080d43c2164afdbc3712422ce78ab902ccab5ca1": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Spheron Network",
+      "address": "0x080d43c2164afdbc3712422ce78ab902ccab5ca1",
+      "symbol": "SPON",
+      "logoURI": "https://assets.coingecko.com/coins/images/38395/thumb/Dark_icon.png?1753879940",
+      "assetGroup": "Spheron Network::SPON",
+      "currencyId": "Spheron Network::SPON",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xc0f2485c17c42344f9138de7d514695c2ee360bc": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "BitSwagger  BTCSWAG ",
+      "address": "0xc0f2485c17c42344f9138de7d514695c2ee360bc",
+      "symbol": "BTCSWAG",
+      "logoURI": "https://assets.coingecko.com/coins/images/67792/thumb/1000046473.png?1753869845",
+      "assetGroup": "BitSwagger  BTCSWAG ::BTCSWAG",
+      "currencyId": "BitSwagger  BTCSWAG ::BTCSWAG",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xf34c48caddceba57b55b5bd3a14aec4bfe699d14": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "PandaPump",
+      "address": "0xf34c48caddceba57b55b5bd3a14aec4bfe699d14",
+      "symbol": "PPUMP",
+      "logoURI": "https://assets.coingecko.com/coins/images/67801/thumb/IMG_2079.jpeg?1753909084",
+      "assetGroup": "PandaPump::PPUMP",
+      "currencyId": "PandaPump::PPUMP",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x853a7c99227499dba9db8c3a02aa691afdebf841": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "PlaysOut",
+      "address": "0x853a7c99227499dba9db8c3a02aa691afdebf841",
+      "symbol": "PLAY",
+      "logoURI": "https://assets.coingecko.com/coins/images/67765/thumb/plays.jpg?1753786347",
+      "assetGroup": "PlaysOut::PLAY",
+      "currencyId": "PlaysOut::PLAY",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x6b9d4e6d4b610709377c07a63c8ac62c6661ab07": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "boots",
+      "address": "0x6b9d4e6d4b610709377c07a63c8ac62c6661ab07",
+      "symbol": "BOOTS",
+      "logoURI": "https://assets.coingecko.com/coins/images/67745/thumb/Boots_Logo_CG.jpg?1753690179",
+      "assetGroup": "boots::BOOTS::8453::0",
+      "currencyId": "boots::BOOTS",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xf950a97689cef428cb8ba703da7f958534b21566": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Farcats",
+      "address": "0xf950a97689cef428cb8ba703da7f958534b21566",
+      "symbol": "FARCATS",
+      "logoURI": "https://assets.coingecko.com/coins/images/67747/thumb/FARCATS.png?1753705690",
+      "assetGroup": "Farcats::FARCATS",
+      "currencyId": "Farcats::FARCATS",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xbe29e78b18066b3bf7c70523371e0169350f6f53": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "ZORBY",
+      "address": "0xbe29e78b18066b3bf7c70523371e0169350f6f53",
+      "symbol": "ZORBY",
+      "logoURI": "https://assets.coingecko.com/coins/images/67788/thumb/bCDGWFvQ_400x400.jpg?1753866511",
+      "assetGroup": "ZORBY::ZORBY",
+      "currencyId": "ZORBY::ZORBY",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x706e1963ba410a548673b46d694104391fb7dca5": {
+      "chainId": "8453",
+      "decimals": 5,
+      "name": "BlockTrader365",
+      "address": "0x706e1963ba410a548673b46d694104391fb7dca5",
+      "symbol": "BT365",
+      "logoURI": "https://assets.coingecko.com/coins/images/67777/thumb/logo_%283%29.jpeg?1753818140",
+      "assetGroup": "BlockTrader365::BT365",
+      "currencyId": "BlockTrader365::BT365",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xeb560289067c375e4897552dcda7e3d203bffbe2": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Billy Base",
+      "address": "0xeb560289067c375e4897552dcda7e3d203bffbe2",
+      "symbol": "BILLY",
+      "logoURI": "https://assets.coingecko.com/coins/images/67774/thumb/3kXxPsKv_400x400.jpg?1753793578",
+      "assetGroup": "Billy Base::BILLY",
+      "currencyId": "Billy Base::BILLY",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x5f5668d7c748fc1a17540c3a7f9245d8cea10c29": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Macro Millions",
+      "address": "0x5f5668d7c748fc1a17540c3a7f9245d8cea10c29",
+      "symbol": "MACRO",
+      "logoURI": "https://assets.coingecko.com/coins/images/67828/thumb/mmmmmmm.png?1753987144",
+      "assetGroup": "Macro Millions::MACRO",
+      "currencyId": "Macro Millions::MACRO",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x8f7d0c6ae30c50c6dfc00612ec5bff2c3685261c": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Jack Potts by Virtuals",
+      "address": "0x8f7d0c6ae30c50c6dfc00612ec5bff2c3685261c",
+      "symbol": "JACK",
+      "logoURI": "https://assets.coingecko.com/coins/images/67830/thumb/JackPotts.jpg?1753988335",
+      "assetGroup": "Jack Potts by Virtuals::JACK",
+      "currencyId": "Jack Potts by Virtuals::JACK",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xabd3718656dbb5547d6b426c18b03848d18981ea": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Wakehacker by Virtuals",
+      "address": "0xabd3718656dbb5547d6b426c18b03848d18981ea",
+      "symbol": "WAKEAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/67827/thumb/wh-purple-bg_%282%29.png?1753983534",
+      "assetGroup": "Wakehacker by Virtuals::WAKEAI",
+      "currencyId": "Wakehacker by Virtuals::WAKEAI",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x208eaf389b055ea165dd3f547423ab24ad2adb07": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "weldr",
+      "address": "0x208eaf389b055ea165dd3f547423ab24ad2adb07",
+      "symbol": "WLDR",
+      "logoURI": "https://assets.coingecko.com/coins/images/67804/thumb/rhupykszgamiv9qlt3cdp8sq5c8u.?1753915168",
+      "assetGroup": "weldr::WLDR",
+      "currencyId": "weldr::WLDR",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xec313c9d476c6cca6839ad60266302eac6e2e9fa": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Baby Poo",
+      "address": "0xec313c9d476c6cca6839ad60266302eac6e2e9fa",
+      "symbol": "BABYPOO",
+      "logoURI": "https://assets.coingecko.com/coins/images/67834/thumb/rvv6fgkmk3qwa9havkgo1fzki28q.?1753990668",
+      "assetGroup": "Baby Poo::BABYPOO",
+      "currencyId": "Baby Poo::BABYPOO",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x8d010bf9c26881788b4e6bf5fd1bdc358c8f90b8": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Polkadot Bridged DOT",
+      "address": "0x8d010bf9c26881788b4e6bf5fd1bdc358c8f90b8",
+      "symbol": "DOT",
+      "logoURI": "https://assets.coingecko.com/coins/images/54481/thumb/polkadot-new-dot-logo.png?1753881726",
+      "assetGroup": "Polkadot Bridged DOT::DOT",
+      "currencyId": "Polkadot Bridged DOT::DOT",
+      "tags": ["bridged", "biconomy-gas-token", "coingecko"]
+    },
+    "0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Rezerve Money",
+      "address": "0xb4444468e444f89e1c2cac2f1d3ee7e336cbd1f5",
+      "symbol": "RZR",
+      "logoURI": "https://assets.coingecko.com/coins/images/67679/thumb/New_Project_%289%29.png?1753503135",
+      "assetGroup": "Rezerve Money::RZR",
+      "currencyId": "Rezerve Money::RZR",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Frankencoin",
+      "address": "0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553",
+      "symbol": "ZCHF",
+      "logoURI": "https://assets.coingecko.com/coins/images/37150/thumb/Coin_Logo_Frankencoin_1024px.png?1728679791",
+      "assetGroup": "Frankencoin::ZCHF",
+      "currencyId": "Frankencoin::ZCHF",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x93757336de76f24f7eee15e6150e4ec42fbdaa21": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "IP Tokens of IPNFT  129",
+      "address": "0x93757336de76f24f7eee15e6150e4ec42fbdaa21",
+      "symbol": "CLAW",
+      "logoURI": "https://assets.coingecko.com/coins/images/67886/thumb/FyX2AwAc_400x400.jpg?1754125520",
+      "assetGroup": "IP Tokens of IPNFT  129::CLAW",
+      "currencyId": "IP Tokens of IPNFT  129::CLAW",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x1891c9bfbbbc186c2ba1bccba7c9b03dfcccd221": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "A L P H A",
+      "address": "0x1891c9bfbbbc186c2ba1bccba7c9b03dfcccd221",
+      "symbol": "ALPHA",
+      "logoURI": "https://assets.coingecko.com/coins/images/67903/thumb/alpha-logo.jpg?1754199420",
+      "assetGroup": "A L P H A::ALPHA",
+      "currencyId": "A L P H A::ALPHA",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x0e83a7ae823a04787e175fb77fb2f77a56896a69": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Bonker",
+      "address": "0x0e83a7ae823a04787e175fb77fb2f77a56896a69",
+      "symbol": "BONKER",
+      "logoURI": "https://assets.coingecko.com/coins/images/67851/thumb/2f601e1e-8aea-4fd8-803a-05dc3f2acd1c.png?1754062861",
+      "assetGroup": "Bonker::BONKER",
+      "currencyId": "Bonker::BONKER",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xb9926b3fbc5873db0182016d55727d5ae89e5efd": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Apu Apustaja",
+      "address": "0xb9926b3fbc5873db0182016d55727d5ae89e5efd",
+      "symbol": "APU",
+      "logoURI": "https://assets.coingecko.com/coins/images/35986/thumb/200x200.png?1710308147",
+      "assetGroup": "Apu Apustaja::APU::8453::1",
+      "currencyId": "Apu Apustaja::APU",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x1cdb2aeb2123dd3c56b4a1e28ddfe1a0c1f9f45d": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Gemach",
+      "address": "0x1cdb2aeb2123dd3c56b4a1e28ddfe1a0c1f9f45d",
+      "symbol": "GMAC",
+      "logoURI": "https://assets.coingecko.com/coins/images/32334/thumb/gmac-200x200.png?1697452788",
+      "assetGroup": "Gemach::GMAC",
+      "currencyId": "Gemach::GMAC",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x2dc1c8be620b95cba25d78774f716f05b159c8b9": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Based Bonk",
+      "address": "0x2dc1c8be620b95cba25d78774f716f05b159c8b9",
+      "symbol": "BONK",
+      "logoURI": "https://assets.coingecko.com/coins/images/67910/thumb/Untitled_%28200_x_200_px%29.png?1754282630",
+      "assetGroup": "Based Bonk::BONK",
+      "currencyId": "Based Bonk::BONK",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xb281f5145e0ab304e862950b4d9865d999ba1fc8": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Bull Pepe",
+      "address": "0xb281f5145e0ab304e862950b4d9865d999ba1fc8",
+      "symbol": "BULLPEPE",
+      "logoURI": "https://assets.coingecko.com/coins/images/67907/thumb/4KWREdUx_400x400.jpg?1754271670",
+      "assetGroup": "Bull Pepe::BULLPEPE",
+      "currencyId": "Bull Pepe::BULLPEPE",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x3348b2b47e388bb4a03cb890e1f3f308b90828ef": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Based Troll",
+      "address": "0x3348b2b47e388bb4a03cb890e1f3f308b90828ef",
+      "symbol": "TROLL",
+      "logoURI": "https://assets.coingecko.com/coins/images/67911/thumb/based_logo_.png?1754282676",
+      "assetGroup": "Based Troll::TROLL",
+      "currencyId": "Based Troll::TROLL",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xc54ffa55a3fd03381aa86cf178b60dfaf827b61c": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Tenna by Virtuals",
+      "address": "0xc54ffa55a3fd03381aa86cf178b60dfaf827b61c",
+      "symbol": "TENNA",
+      "logoURI": "https://assets.coingecko.com/coins/images/67938/thumb/2025-08-03_17.31.19.jpg?1754334025",
+      "assetGroup": "Tenna by Virtuals::TENNA",
+      "currencyId": "Tenna by Virtuals::TENNA",
+      "tags": ["coingecko"]
+    },
+    "0xd9dfaf47f491161898ca1baeecacdc5bf9ef082c": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "CryptoHub",
+      "address": "0xd9dfaf47f491161898ca1baeecacdc5bf9ef082c",
+      "symbol": "HUB",
+      "logoURI": "https://assets.coingecko.com/coins/images/67916/thumb/HUB_Token_Migration_Logo.png?1754289049",
+      "assetGroup": "CryptoHub::HUB",
+      "currencyId": "CryptoHub::HUB",
+      "tags": ["coingecko"]
+    },
+    "0xeecc15f24b8fe65cfd18d4095f91a7adefdd53d5": {
+      "chainId": "8453",
+      "decimals": 9,
+      "name": "Bachi on Base",
+      "address": "0xeecc15f24b8fe65cfd18d4095f91a7adefdd53d5",
+      "symbol": "BACHI",
+      "logoURI": "https://assets.coingecko.com/coins/images/67918/thumb/bachicoingecko.png?1754291385",
+      "assetGroup": "Bachi on Base::BACHI",
+      "currencyId": "Bachi on Base::BACHI",
+      "tags": ["coingecko"]
+    },
+    "0x3a979107edb0ede7888977bb2c027369c1e357e1": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "UGGO",
+      "address": "0x3a979107edb0ede7888977bb2c027369c1e357e1",
+      "symbol": "UGGO",
+      "logoURI": "https://assets.coingecko.com/coins/images/67931/thumb/saloybqbntk5p5ptqqh7l6fb66om.?1754318334",
+      "assetGroup": "UGGO::UGGO",
+      "currencyId": "UGGO::UGGO",
       "tags": ["coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {
@@ -27752,6 +28156,7 @@
         "COMPOUND_V3_USDBC",
         "COMPOUND_V3_AERO",
         "VENUS",
+        "MOONCAKE",
         "wrapped:0x4200000000000000000000000000000000000006"
       ],
       "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" }

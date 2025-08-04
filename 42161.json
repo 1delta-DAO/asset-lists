@@ -21666,7 +21666,8 @@
       "symbol": "DOT",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/dot.svg",
       "assetGroup": "Polkadot Token (Relay Chain)::DOT",
-      "currencyId": "Polkadot Token (Relay Chain)::DOT"
+      "currencyId": "Polkadot Token (Relay Chain)::DOT",
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x0c3ff025aacfa2670420f1d4cb593dd2a0a0383e": {
       "chainId": "42161",
@@ -21918,7 +21919,8 @@
       "symbol": "RZR",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/rezerve.png",
       "assetGroup": "Rezerve.money::RZR",
-      "currencyId": "Rezerve.money::RZR"
+      "currencyId": "Rezerve.money::RZR",
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x30a538effd91acefb1b12ce9bc0074ed18c9dfc9": {
       "chainId": "42161",
@@ -21992,7 +21994,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67653/thumb/DESK.png?1753423028",
       "assetGroup": "DESK::DESK",
       "currencyId": "DESK::DESK",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x462cd9e0247b2e63831c3189ae738e5e9a5a4b64": {
       "chainId": "42161",
@@ -22003,7 +22005,71 @@
       "logoURI": "https://assets.coingecko.com/coins/images/26149/thumb/Coingecko_logo_%281%29.png?1706026067",
       "assetGroup": "EUL",
       "currencyId": "Euler::EUL",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
+    },
+    "0x894341be568eae3697408c420f1d0acfce6e55f9": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "The Fedz FUSD",
+      "address": "0x894341be568eae3697408c420f1d0acfce6e55f9",
+      "symbol": "FUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/67744/thumb/photo_2025-05-01_15-48-42.jpg?1753688528",
+      "assetGroup": "The Fedz FUSD::FUSD",
+      "currencyId": "The Fedz FUSD::FUSD",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xe1a6bda42fbafae38607598386a1050613c1a64b": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "aarna atv111  Arbitrum ",
+      "address": "0xe1a6bda42fbafae38607598386a1050613c1a64b",
+      "symbol": "ATV111",
+      "logoURI": "https://assets.coingecko.com/coins/images/67785/thumb/atv_111_USDC_71e76abcb6.png?1753844648",
+      "assetGroup": "aarna atv111  Arbitrum ::ATV111",
+      "currencyId": "aarna atv111  Arbitrum ::ATV111",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xb37194e8b99020ae0b8b6861d4217a9f016706a4": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Hybrid",
+      "address": "0xb37194e8b99020ae0b8b6861d4217a9f016706a4",
+      "symbol": "HYB",
+      "logoURI": "https://assets.coingecko.com/coins/images/67243/thumb/Hybrid_logo_%28200_x_200_px%29_ROUND.png?1752161822",
+      "assetGroup": "Hybrid::HYB",
+      "currencyId": "Hybrid::HYB",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Frankencoin",
+      "address": "0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553",
+      "symbol": "ZCHF",
+      "logoURI": "https://assets.coingecko.com/coins/images/37150/thumb/Coin_Logo_Frankencoin_1024px.png?1728679791",
+      "assetGroup": "Frankencoin::ZCHF::42161::0",
+      "currencyId": "Frankencoin::ZCHF",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x15f7ad22caa786b1237b27d4324c7e4a93c5e66b": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "aarna atv USDC  Arbitrum ",
+      "address": "0x15f7ad22caa786b1237b27d4324c7e4a93c5e66b",
+      "symbol": "ATVUSDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/67894/thumb/atvusdc.png?1754196178",
+      "assetGroup": "aarna atv USDC  Arbitrum ::ATVUSDC",
+      "currencyId": "aarna atv USDC  Arbitrum ::ATVUSDC",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x6fbbbd8bfb1cd3986b1d05e7861a0f62f87db74b": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Vision",
+      "address": "0x6fbbbd8bfb1cd3986b1d05e7861a0f62f87db74b",
+      "symbol": "VSN",
+      "assetGroup": "Vision::VSN",
+      "currencyId": "Vision::VSN"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "42161",

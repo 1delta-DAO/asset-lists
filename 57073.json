@@ -249,6 +249,17 @@
       "currencyId": "Global Dollar::USDG",
       "tags": ["coingecko"]
     },
+    "0x7160644365e7011fa96ce60706743b434df32690": {
+      "chainId": "57073",
+      "decimals": 18,
+      "name": "KEK",
+      "address": "0x7160644365e7011fa96ce60706743b434df32690",
+      "symbol": "KEK",
+      "logoURI": "https://assets.coingecko.com/coins/images/67904/thumb/200x200.jpg?1754222647",
+      "assetGroup": "KEK::KEK",
+      "currencyId": "KEK::KEK",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "57073",
       "decimals": 18,
@@ -280,7 +291,8 @@
     "0x17906b1cd88aa8efaefc5e82891b52a22219bd45",
     "0xa802bccd14f7e78e48ffe0c9cf9ad0273c77d4b0",
     "0x53eb0098d09b8d1008f382bbd2a5d4f649111710",
-    "0xe343167631d89b6ffc58b88d6b7fb0228795491d"
+    "0xe343167631d89b6ffc58b88d6b7fb0228795491d",
+    "0x7160644365e7011fa96ce60706743b434df32690"
   ],
   "bridgeTokens": [
     "0xf1815bd50389c46847f0bda824ec8da914045d14",

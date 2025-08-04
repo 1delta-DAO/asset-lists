@@ -224,6 +224,50 @@
       "currencyId": "Wrapped Ether::WETH",
       "tags": ["wnative"]
     },
+    "0x80c34bd3a3569e126e7055831036aa7b212cb159": {
+      "chainId": "747474",
+      "decimals": 6,
+      "name": "vbUSDC yVault",
+      "address": "0x80c34bd3a3569e126e7055831036aa7b212cb159",
+      "symbol": "yvvbUSDC",
+      "logoURI": "https://cdn.morpho.org/assets/logos/yvvbusdc.svg",
+      "assetGroup": "vbUSDC yVault::yvvbUSDC",
+      "currencyId": "vbUSDC yVault::yvvbUSDC",
+      "tags": ["yield", "erc4626"]
+    },
+    "0x9a6bd7b6fd5c4f87eb66356441502fc7dcdd185b": {
+      "chainId": "747474",
+      "decimals": 6,
+      "name": "vbUSDT yVault",
+      "address": "0x9a6bd7b6fd5c4f87eb66356441502fc7dcdd185b",
+      "symbol": "yvvbUSDT",
+      "logoURI": "https://cdn.morpho.org/assets/logos/yvvbusdt.svg",
+      "assetGroup": "vbUSDT yVault::yvvbUSDT",
+      "currencyId": "vbUSDT yVault::yvvbUSDT",
+      "tags": ["yield", "erc4626"]
+    },
+    "0x4772d2e014f9fc3a820c444e3313968e9a5c8121": {
+      "chainId": "747474",
+      "decimals": 18,
+      "name": "YieldFi yUSD",
+      "address": "0x4772d2e014f9fc3a820c444e3313968e9a5c8121",
+      "symbol": "yUSD",
+      "logoURI": "https://cdn.morpho.org/assets/logos/yusd.svg",
+      "assetGroup": "YieldFi yUSD::yUSD",
+      "currencyId": "YieldFi yUSD::yUSD",
+      "tags": ["stablecoin", "usd-pegged", "yield"]
+    },
+    "0xfba805659e5050544e185cccdf592fd77f8c7210": {
+      "chainId": "747474",
+      "decimals": 18,
+      "name": "Kitsu",
+      "address": "0xfba805659e5050544e185cccdf592fd77f8c7210",
+      "symbol": "KITSU",
+      "logoURI": "https://assets.coingecko.com/coins/images/67868/thumb/KitsuPNG2.png?1754110292",
+      "assetGroup": "Kitsu::KITSU",
+      "currencyId": "Kitsu::KITSU",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "747474",
       "decimals": 18,
@@ -247,7 +291,8 @@
     "0xb24e3035d1fcbc0e43cf3143c3fd92e53df2009b",
     "0x4200000000000000000000000000000000000006",
     "0x9b8df6e244526ab5f6e6400d331db28c8fdddb55",
-    "0xecac9c5f704e954931349da37f60e39f515c11c1"
+    "0xecac9c5f704e954931349da37f60e39f515c11c1",
+    "0xfba805659e5050544e185cccdf592fd77f8c7210"
   ],
   "bridgeTokens": [
     "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",

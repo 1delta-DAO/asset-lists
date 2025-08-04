@@ -1611,6 +1611,7 @@
       "name": "Wrapped Aave Sonic wS",
       "address": "0x18b7b8695165290f2767bc63c36d3dfea4c0f9bb",
       "symbol": "waSonwS",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/a-wS.png",
       "assetGroup": "Wrapped Aave Sonic wS::waSonwS",
       "currencyId": "Wrapped Aave Sonic wS::waSonwS"
     },
@@ -1965,7 +1966,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/rzr.png",
       "assetGroup": "Rezerve.money::RZR",
       "currencyId": "Rezerve.money::RZR",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xeeeeeee6d95e55a468d32feb5d6648754d10a967": {
       "chainId": "146",
@@ -2465,7 +2466,39 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67667/thumb/MOTH.?1753436722",
       "assetGroup": "Moth::MOTH",
       "currencyId": "Moth::MOTH",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
+    },
+    "0xf6bc16b79c469b94cdd25f3e2334dd4fee47a581": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Greenhouse USDC",
+      "address": "0xf6bc16b79c469b94cdd25f3e2334dd4fee47a581",
+      "symbol": "ghUSDC",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De.png",
+      "assetGroup": "Greenhouse USDC::ghUSDC",
+      "currencyId": "Greenhouse USDC::ghUSDC"
+    },
+    "0x1cb934e1f5acdb5b805c609a2c5a09aa8489f124": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "aarna atv111  Sonic ",
+      "address": "0x1cb934e1f5acdb5b805c609a2c5a09aa8489f124",
+      "symbol": "ATV111",
+      "logoURI": "https://assets.coingecko.com/coins/images/67786/thumb/atv_111_USDC_71e76abcb6.png?1753844688",
+      "assetGroup": "aarna atv111  Sonic ::ATV111",
+      "currencyId": "aarna atv111  Sonic ::ATV111",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Frankencoin",
+      "address": "0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553",
+      "symbol": "ZCHF",
+      "logoURI": "https://assets.coingecko.com/coins/images/37150/thumb/Coin_Logo_Frankencoin_1024px.png?1728679791",
+      "assetGroup": "Frankencoin::ZCHF",
+      "currencyId": "Frankencoin::ZCHF",
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "146",

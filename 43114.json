@@ -8926,7 +8926,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/26149/thumb/Coingecko_logo_%281%29.png?1706026067",
       "assetGroup": "EUL",
       "currencyId": "Euler::EUL",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x3e5b9c8930ecab017e16c3b7a2d0cb746d8bcdcf": {
       "chainId": "43114",
@@ -8937,7 +8937,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/52251/thumb/Coingecko_image.png?1736974455",
       "assetGroup": "LIMBO::LIMBO",
       "currencyId": "LIMBO::LIMBO",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x2f0ec0ed7d746936f1aeac5702816d38329ee9e6": {
       "chainId": "43114",
@@ -8948,7 +8948,51 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67719/thumb/200_x_200_sleep_pfp.png?1753620465",
       "assetGroup": "Degen Hours::SLEEP",
       "currencyId": "Degen Hours::SLEEP",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
+    },
+    "0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Frankencoin",
+      "address": "0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553",
+      "symbol": "ZCHF",
+      "logoURI": "https://assets.coingecko.com/coins/images/37150/thumb/Coin_Logo_Frankencoin_1024px.png?1728679791",
+      "assetGroup": "Frankencoin::ZCHF",
+      "currencyId": "Frankencoin::ZCHF",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x0e16eee9240561ebb2d2fe2e7a86c87b492af768": {
+      "chainId": "43114",
+      "decimals": 8,
+      "name": "Exim",
+      "address": "0x0e16eee9240561ebb2d2fe2e7a86c87b492af768",
+      "symbol": "EXIM",
+      "logoURI": "https://assets.coingecko.com/coins/images/67859/thumb/exim_logo.jpg?1754074422",
+      "assetGroup": "Exim::EXIM",
+      "currencyId": "Exim::EXIM",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xf8b22737cbfea137f9b2737d1dab2a8a21608cee": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Agent XYZ",
+      "address": "0xf8b22737cbfea137f9b2737d1dab2a8a21608cee",
+      "symbol": "TRADER",
+      "logoURI": "https://assets.coingecko.com/coins/images/55473/thumb/AgentXYZ_Token_logo.png?1746211467",
+      "assetGroup": "Agent XYZ::TRADER",
+      "currencyId": "Agent XYZ::TRADER",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x1263fea931b86f3e8ce8afbf29f66631b7be9347": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "BNPL Pay",
+      "address": "0x1263fea931b86f3e8ce8afbf29f66631b7be9347",
+      "symbol": "BNPL",
+      "logoURI": "https://assets.coingecko.com/coins/images/18543/thumb/Untitled_%28200_%C3%97_200_px%29_%281%29.png?1696518022",
+      "assetGroup": "BNPL Pay::BNPL",
+      "currencyId": "BNPL Pay::BNPL",
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "43114",

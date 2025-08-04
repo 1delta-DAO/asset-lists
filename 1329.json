@@ -370,9 +370,10 @@
       "name": "Wrapped BTC",
       "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
       "symbol": "WBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/54960/thumb/wbtc.jpg?1742887259",
       "assetGroup": "WBTC",
       "currencyId": "Wrapped BTC::WBTC",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x43edd7f3831b08fe70b7555ddd373c8bf65a9050": {
       "chainId": "1329",
@@ -481,6 +482,28 @@
       "currencyId": "Grand Gangsta City::GGC",
       "tags": ["coingecko"]
     },
+    "0x5b8203e65aa5be3f1cf53fd7fa21b91ba4038ecc": {
+      "chainId": "1329",
+      "decimals": 18,
+      "name": "APO",
+      "address": "0x5b8203e65aa5be3f1cf53fd7fa21b91ba4038ecc",
+      "symbol": "APO",
+      "logoURI": "https://assets.coingecko.com/coins/images/67802/thumb/APO_300x300_png.png?1753909372",
+      "assetGroup": "APO::APO",
+      "currencyId": "APO::APO",
+      "tags": ["coingecko"]
+    },
+    "0xf9bdbf259ece5ae17e29bf92eb7abd7b8b465db9": {
+      "chainId": "1329",
+      "decimals": 18,
+      "name": "Froggy",
+      "address": "0xf9bdbf259ece5ae17e29bf92eb7abd7b8b465db9",
+      "symbol": "FROG",
+      "logoURI": "https://assets.coingecko.com/coins/images/67889/thumb/Logo200x200.png?1754194519",
+      "assetGroup": "Froggy::FROG",
+      "currencyId": "Froggy::FROG",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "1329",
       "decimals": 18,
@@ -539,6 +562,7 @@
     "0x3894085ef7ff0f0aedf52e2a2704928d1ec074f1",
     "0xb75d0b03c06a926e488e2659df1a861f860bd3d1",
     "0x9151434b16b9763660705744891fa906f660ecc5",
-    "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
+    "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+    "0xe15fc38f6d8c56af07bbcbe3baf5708a2bf42392"
   ]
 }

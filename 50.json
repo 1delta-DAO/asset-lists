@@ -275,6 +275,17 @@
       "currencyId": "Gama Token::GAMA",
       "tags": ["coingecko"]
     },
+    "0xc9b1b2842c60303a06f60fdd005654575d6ae466": {
+      "chainId": "50",
+      "decimals": 18,
+      "name": "BigWater",
+      "address": "0xc9b1b2842c60303a06f60fdd005654575d6ae466",
+      "symbol": "BIGW",
+      "logoURI": "https://assets.coingecko.com/coins/images/67852/thumb/BW_-_200200_-_with_backgorund_%28100_x_100_px%29.png?1754063021",
+      "assetGroup": "BigWater::BIGW",
+      "currencyId": "BigWater::BIGW",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "50",
       "decimals": 18,
@@ -306,7 +317,8 @@
     "0xa7348290de5cf01772479c48d50dec791c3fc212",
     "0xcda5b77e2e2268d9e09c874c1b9a4c3f07b37555",
     "0xcc0587aebda397146cc828b445db130a94486e74",
-    "0x3a170c7c987f55c84f28733bfa27962d8cdd5d3b"
+    "0x3a170c7c987f55c84f28733bfa27962d8cdd5d3b",
+    "0xc9b1b2842c60303a06f60fdd005654575d6ae466"
   ],
   "bridgeTokens": [
     "0x867f08a3ab824b42e8058a1b48e32e1df205b092",

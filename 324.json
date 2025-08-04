@@ -1726,6 +1726,43 @@
       "currencyId": "XVGZKE::XVGZKE",
       "tags": ["coingecko"]
     },
+    "0x686b311f82b407f0be842652a98e5619f64cc25f": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "ENA",
+      "address": "0x686b311f82b407f0be842652a98e5619f64cc25f",
+      "symbol": "ENA",
+      "assetGroup": "ENA::ENA",
+      "currencyId": "ENA::ENA"
+    },
+    "0x6be2425c381eb034045b527780d2bf4e21ab7236": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "KelpDao Restaked ETH",
+      "address": "0x6be2425c381eb034045b527780d2bf4e21ab7236",
+      "symbol": "rsETH",
+      "logoURI": "https://static.debank.com/image/era_token/logo_url/0x6be2425c381eb034045b527780d2bf4e21ab7236/81ed19f4ad26dd3b689b7459472528c4.png",
+      "assetGroup": "RSETH",
+      "currencyId": "KelpDao Restaked ETH::rsETH"
+    },
+    "0x52869bae3e091e36b0915941577f2d47d8d8b534": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "ChainLink Token",
+      "address": "0x52869bae3e091e36b0915941577f2d47d8d8b534",
+      "symbol": "LINK",
+      "assetGroup": "LINK",
+      "currencyId": "ChainLink Token::LINK"
+    },
+    "0x2878295d69aa3bdcf9004fcf362f0959992d801c": {
+      "chainId": "324",
+      "decimals": 18,
+      "name": "xSolvBTC",
+      "address": "0x2878295d69aa3bdcf9004fcf362f0959992d801c",
+      "symbol": "xSolvBTC",
+      "assetGroup": "XSOLVBTC",
+      "currencyId": "xSolvBTC::xSolvBTC"
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "324",
       "address": "0x0000000000000000000000000000000000000000",

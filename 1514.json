@@ -89,6 +89,17 @@
       "currencyId": "Aria Premier Launch::APL",
       "tags": ["coingecko"]
     },
+    "0xb5461c1fd0312cd4bf037058f8a391e6a42f9639": {
+      "chainId": "1514",
+      "decimals": 18,
+      "name": "Staked Aria Premier Launch",
+      "address": "0xb5461c1fd0312cd4bf037058f8a391e6a42f9639",
+      "symbol": "STAPL",
+      "logoURI": "https://assets.coingecko.com/coins/images/67815/thumb/APL_logo.jpg?1753940903",
+      "assetGroup": "Staked Aria Premier Launch::STAPL",
+      "currencyId": "Staked Aria Premier Launch::STAPL",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "1514",
       "decimals": 18,
@@ -110,7 +121,8 @@
     "0xa4f5c615f72ddeb2220471694fff1c0c3de051e1",
     "0x2460e95f24bbd21d1fba27a751970c2455e9d7e9",
     "0x5a212776066b81e449fe74396cce368dc4b14043",
-    "0xfe82012ecce57a188e5f9f3fc1cb2d335c58f1f5"
+    "0xfe82012ecce57a188e5f9f3fc1cb2d335c58f1f5",
+    "0xb5461c1fd0312cd4bf037058f8a391e6a42f9639"
   ],
   "bridgeTokens": ["0xf1815bd50389c46847f0bda824ec8da914045d14"]
 }
