@@ -4319,7 +4319,7 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/sol.png",
       "assetGroup": "SOL",
       "currencyId": "Wrapped SOL (Wormhole)::SOL",
-      "tags": ["wormhole", "bridged", "biconomy-gas-token", "coingecko"]
+      "tags": ["wormhole", "bridged", "biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x004626a008b1acdc4c74ab51644093b155e59a23": {
       "chainId": "42161",
@@ -5333,7 +5333,7 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/ape.svg",
       "assetGroup": "ApeCoin::APE",
       "currencyId": "ApeCoin::APE",
-      "tags": ["biconomy-gas-token", "coingecko"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x68e92a82e2fb7b7539f51ae2fcfb98e775f463b9": {
       "chainId": "42161",
@@ -19329,7 +19329,7 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/plutus.svg",
       "assetGroup": "Plutus token::PLUTUS",
       "currencyId": "Plutus token::PLUTUS",
-      "tags": ["biconomy-gas-token", "coingecko"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x8eef5ed361c6823156d936209e23a8e0349e5c61": {
       "chainId": "42161",
@@ -21667,7 +21667,7 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/dot.svg",
       "assetGroup": "Polkadot Token (Relay Chain)::DOT",
       "currencyId": "Polkadot Token (Relay Chain)::DOT",
-      "tags": ["biconomy-gas-token", "coingecko"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x0c3ff025aacfa2670420f1d4cb593dd2a0a0383e": {
       "chainId": "42161",
@@ -21750,7 +21750,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/14688/thumb/Logo_1_%28brighter%29.png?1734430693",
       "assetGroup": "Fluid::FLUID::42161::0",
       "currencyId": "Fluid::FLUID",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xd6c0156e85decdf2983c7a2c4a3015ed268d6f8a": {
       "chainId": "42161",
@@ -21771,7 +21771,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67060/thumb/rcade.jpg?1751624344",
       "assetGroup": "RCADE Network::RCADE",
       "currencyId": "RCADE Network::RCADE",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x866a2bf4e572cbcf37d5071a7a58503bfb36be1b": {
       "chainId": "42161",
@@ -21782,7 +21782,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/40048/thumb/M_Symbol_256.png?1739323798",
       "assetGroup": "M by M0::M",
       "currencyId": "M by M0::M",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xe47ba52f326806559c1dec7ddd997f6957d0317d": {
       "chainId": "42161",
@@ -21822,7 +21822,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67254/thumb/xvgarb-200x200.png?1752221368",
       "assetGroup": "XVGARB::XVGARB",
       "currencyId": "XVGARB::XVGARB",
-      "tags": ["biconomy-gas-token", "coingecko"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x437cc33344a0b27a429f795ff6b469c72698b291": {
       "chainId": "42161",
@@ -21833,7 +21833,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55070/thumb/wm.jpg?1743589588",
       "assetGroup": "WrappedM by M^0::WM",
       "currencyId": "WrappedM by M^0::WM",
-      "tags": ["biconomy-gas-token", "coingecko"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x4ecf61a6c2fab8a047ceb3b3b263b401763e9d49": {
       "chainId": "42161",
@@ -21844,7 +21844,7 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/USND.png",
       "assetGroup": "US Nerite Dollar::USND",
       "currencyId": "US Nerite Dollar::USND",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xb638f8eb4f242eb1883de8553998aa89624e9e81": {
       "chainId": "42161",
@@ -21855,7 +21855,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55605/thumb/VNX_Token_Icon.png?1746858432",
       "assetGroup": "VNX::VNX",
       "currencyId": "VNX::VNX",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x0fbcbaea96ce0cf7ee00a8c19c3ab6f5dc8e1921": {
       "chainId": "42161",
@@ -21877,7 +21877,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/7942/thumb/profile_pic_scaled.png?1752155266",
       "assetGroup": "KardiaChain::KAI",
       "currencyId": "KardiaChain::KAI",
-      "tags": ["biconomy-gas-token", "coingecko"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x6ba19ee69d5dde3ab70185c801fa404f66fedb58": {
       "chainId": "42161",
@@ -21888,7 +21888,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54964/thumb/k200.png?1742894885",
       "assetGroup": "Kinto::K::42161::0",
       "currencyId": "Kinto::K",
-      "tags": ["biconomy-gas-token", "coingecko"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x46850ad61c2b7d64d08c9c754f45254596696984": {
       "chainId": "42161",
@@ -21899,7 +21899,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/31212/thumb/PYUSD_Logo_%282%29.png?1696530039",
       "assetGroup": "PayPal USD::PYUSD",
       "currencyId": "PayPal USD::PYUSD",
-      "tags": ["biconomy-gas-token", "coingecko"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0xf0d43f46cea02bbb5e616bf6d795d4f8719cd80d": {
       "chainId": "42161",
@@ -21920,7 +21920,7 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/rezerve.png",
       "assetGroup": "Rezerve.money::RZR",
       "currencyId": "Rezerve.money::RZR",
-      "tags": ["biconomy-gas-token", "coingecko"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x30a538effd91acefb1b12ce9bc0074ed18c9dfc9": {
       "chainId": "42161",
@@ -21931,7 +21931,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67570/thumb/talos.jpg?1753181426",
       "assetGroup": "Talos::T",
       "currencyId": "Talos::T",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xd4423795fd904d9b87554940a95fb7016f172773": {
       "chainId": "42161",
@@ -21942,7 +21942,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/13211/thumb/AI_Network_Logo_200x200.png?1696512991",
       "assetGroup": "AI Network::AIN",
       "currencyId": "AI Network::AIN",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xb348b87b23d5977e2948e6f36ca07e1ec94d7328": {
       "chainId": "42161",
@@ -21973,7 +21973,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/Circle_Agora_White_on_Olive_1080px.png?1722961274",
       "assetGroup": "AUSD",
       "currencyId": "AUSD::AUSD",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xc74fe4c715510ec2f8c61d70d397b32043f55abe": {
       "chainId": "42161",
@@ -21994,7 +21994,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67653/thumb/DESK.png?1753423028",
       "assetGroup": "DESK::DESK",
       "currencyId": "DESK::DESK",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x462cd9e0247b2e63831c3189ae738e5e9a5a4b64": {
       "chainId": "42161",
@@ -22005,7 +22005,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/26149/thumb/Coingecko_logo_%281%29.png?1706026067",
       "assetGroup": "EUL",
       "currencyId": "Euler::EUL",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x894341be568eae3697408c420f1d0acfce6e55f9": {
       "chainId": "42161",
@@ -22016,7 +22016,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67744/thumb/photo_2025-05-01_15-48-42.jpg?1753688528",
       "assetGroup": "The Fedz FUSD::FUSD",
       "currencyId": "The Fedz FUSD::FUSD",
-      "tags": ["biconomy-gas-token", "coingecko"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0xe1a6bda42fbafae38607598386a1050613c1a64b": {
       "chainId": "42161",
@@ -22027,7 +22027,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67785/thumb/atv_111_USDC_71e76abcb6.png?1753844648",
       "assetGroup": "aarna atv111  Arbitrum ::ATV111",
       "currencyId": "aarna atv111  Arbitrum ::ATV111",
-      "tags": ["biconomy-gas-token", "coingecko"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0xb37194e8b99020ae0b8b6861d4217a9f016706a4": {
       "chainId": "42161",
@@ -22038,7 +22038,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67243/thumb/Hybrid_logo_%28200_x_200_px%29_ROUND.png?1752161822",
       "assetGroup": "Hybrid::HYB",
       "currencyId": "Hybrid::HYB",
-      "tags": ["biconomy-gas-token", "coingecko"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553": {
       "chainId": "42161",
@@ -22049,7 +22049,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/37150/thumb/Coin_Logo_Frankencoin_1024px.png?1728679791",
       "assetGroup": "Frankencoin::ZCHF::42161::0",
       "currencyId": "Frankencoin::ZCHF",
-      "tags": ["biconomy-gas-token", "coingecko"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x15f7ad22caa786b1237b27d4324c7e4a93c5e66b": {
       "chainId": "42161",
@@ -22060,7 +22060,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67894/thumb/atvusdc.png?1754196178",
       "assetGroup": "aarna atv USDC  Arbitrum ::ATVUSDC",
       "currencyId": "aarna atv USDC  Arbitrum ::ATVUSDC",
-      "tags": ["biconomy-gas-token", "coingecko"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x6fbbbd8bfb1cd3986b1d05e7861a0f62f87db74b": {
       "chainId": "42161",
@@ -22070,6 +22070,17 @@
       "symbol": "VSN",
       "assetGroup": "Vision::VSN",
       "currencyId": "Vision::VSN"
+    },
+    "0xe649e6a1f2afc63ca268c2363691cecaf75cf47c": {
+      "chainId": "42161",
+      "decimals": 9,
+      "name": "iExec RLC",
+      "address": "0xe649e6a1f2afc63ca268c2363691cecaf75cf47c",
+      "symbol": "RLC",
+      "logoURI": "https://assets.coingecko.com/coins/images/646/thumb/pL1VuXm.png?1696501840",
+      "assetGroup": "iExec RLC::RLC",
+      "currencyId": "iExec RLC::RLC",
+      "tags": ["coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "42161",

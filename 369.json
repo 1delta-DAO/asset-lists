@@ -1,0 +1,151 @@
+{
+  "chainId": "369",
+  "version": "0",
+  "list": {
+    "0xa1077a294dde1b09bb078844df40758a5d0f9a27": {
+      "chainId": "369",
+      "decimals": 18,
+      "name": "Wrapped Pulse",
+      "address": "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+      "symbol": "WPLS",
+      "assetGroup": "Wrapped Pulse::WPLS",
+      "currencyId": "Wrapped Pulse::WPLS",
+      "tags": ["PHIAT", "wnative"]
+    },
+    "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39": {
+      "chainId": "369",
+      "decimals": 8,
+      "name": "HEX",
+      "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+      "symbol": "HEX",
+      "assetGroup": "HEX::HEX",
+      "currencyId": "HEX::HEX",
+      "tags": ["PHIAT"]
+    },
+    "0x95b303987a60c71504d99aa1b13b4da07b0790ab": {
+      "chainId": "369",
+      "decimals": 18,
+      "name": "PulseX",
+      "address": "0x95b303987a60c71504d99aa1b13b4da07b0790ab",
+      "symbol": "PLSX",
+      "assetGroup": "PulseX::PLSX",
+      "currencyId": "PulseX::PLSX",
+      "tags": ["PHIAT"]
+    },
+    "0x15d38573d2feeb82e7ad5187ab8c1d52810b1f07": {
+      "chainId": "369",
+      "decimals": 6,
+      "name": "USD Coin from Ethereum",
+      "address": "0x15d38573d2feeb82e7ad5187ab8c1d52810b1f07",
+      "symbol": "USDC",
+      "assetGroup": "USDC",
+      "currencyId": "USD Coin from Ethereum::USDC",
+      "tags": ["PHIAT"]
+    },
+    "0x02dcdd04e3f455d838cd1249292c58f3b79e3c3c": {
+      "chainId": "369",
+      "decimals": 18,
+      "name": "Wrapped Ether from Ethereum",
+      "address": "0x02dcdd04e3f455d838cd1249292c58f3b79e3c3c",
+      "symbol": "WETH",
+      "assetGroup": "ETH",
+      "currencyId": "Wrapped Ether from Ethereum::WETH",
+      "tags": ["PHIAT"]
+    },
+    "0xb17d901469b9208b17d916112988a3fed19b5ca1": {
+      "chainId": "369",
+      "decimals": 8,
+      "name": "Wrapped BTC from Ethereum",
+      "address": "0xb17d901469b9208b17d916112988a3fed19b5ca1",
+      "symbol": "WBTC",
+      "assetGroup": "Wrapped BTC from Ethereum::WBTC",
+      "currencyId": "Wrapped BTC from Ethereum::WBTC",
+      "tags": ["PHIAT"]
+    },
+    "0xefd766ccb38eaf1dfd701853bfce31359239f305": {
+      "chainId": "369",
+      "decimals": 18,
+      "name": "Dai Stablecoin from Ethereum",
+      "address": "0xefd766ccb38eaf1dfd701853bfce31359239f305",
+      "symbol": "DAI",
+      "assetGroup": "DAI",
+      "currencyId": "Dai Stablecoin from Ethereum::DAI",
+      "tags": ["PHIAT"]
+    },
+    "0x0cb6f5a34ad42ec934882a05265a7d5f59b51a2f": {
+      "chainId": "369",
+      "decimals": 6,
+      "name": "Tether USD from Ethereum",
+      "address": "0x0cb6f5a34ad42ec934882a05265a7d5f59b51a2f",
+      "symbol": "USDT",
+      "assetGroup": "USDT",
+      "currencyId": "Tether USD from Ethereum::USDT",
+      "tags": ["PHIAT"]
+    },
+    "0x2fa878ab3f87cc1c9737fc071108f904c0b0c95d": {
+      "chainId": "369",
+      "decimals": 18,
+      "name": "Incentive",
+      "address": "0x2fa878ab3f87cc1c9737fc071108f904c0b0c95d",
+      "symbol": "INC",
+      "assetGroup": "Incentive::INC",
+      "currencyId": "Incentive::INC",
+      "tags": ["PHIAT"]
+    },
+    "0x0deed1486bc52aa0d3e6f8849cec5add6598a162": {
+      "chainId": "369",
+      "decimals": 18,
+      "name": "USDL Stablecoin",
+      "address": "0x0deed1486bc52aa0d3e6f8849cec5add6598a162",
+      "symbol": "USDL",
+      "assetGroup": "USDL Stablecoin::USDL",
+      "currencyId": "USDL Stablecoin::USDL",
+      "tags": ["PHIAT"]
+    },
+    "0x1fe0319440a672526916c232eaee4808254bdb00": {
+      "chainId": "369",
+      "decimals": 8,
+      "name": "HEXDC Stablecoin",
+      "address": "0x1fe0319440a672526916c232eaee4808254bdb00",
+      "symbol": "HEXDC",
+      "assetGroup": "HEXDC Stablecoin::HEXDC",
+      "currencyId": "HEXDC Stablecoin::HEXDC",
+      "tags": ["PHIAT"]
+    },
+    "0xeb6b7932da20c6d7b3a899d5887d86dfb09a6408": {
+      "chainId": "369",
+      "decimals": 18,
+      "name": "PXDC Stablecoin",
+      "address": "0xeb6b7932da20c6d7b3a899d5887d86dfb09a6408",
+      "symbol": "PXDC",
+      "assetGroup": "PXDC Stablecoin::PXDC",
+      "currencyId": "PXDC Stablecoin::PXDC",
+      "tags": ["PHIAT"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "369",
+      "decimals": 18,
+      "name": "Pulse",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "PLS",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/pls.webp",
+      "assetGroup": "Wrapped Pulse::WPLS",
+      "currencyId": "Pulse::PLS",
+      "tags": ["native", "PHIAT", "wnative", "wrapped:0xa1077a294dde1b09bb078844df40758a5d0f9a27"],
+      "props": { "isNative": true, "wrapped": "0xa1077a294dde1b09bb078844df40758a5d0f9a27" }
+    }
+  },
+  "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
+    "0xa1077a294dde1b09bb078844df40758a5d0f9a27",
+    "0x15d38573d2feeb82e7ad5187ab8c1d52810b1f07",
+    "0x02dcdd04e3f455d838cd1249292c58f3b79e3c3c",
+    "0xb17d901469b9208b17d916112988a3fed19b5ca1",
+    "0x0cb6f5a34ad42ec934882a05265a7d5f59b51a2f"
+  ],
+  "bridgeTokens": [
+    "0x15d38573d2feeb82e7ad5187ab8c1d52810b1f07",
+    "0x02dcdd04e3f455d838cd1249292c58f3b79e3c3c",
+    "0x0cb6f5a34ad42ec934882a05265a7d5f59b51a2f"
+  ]
+}

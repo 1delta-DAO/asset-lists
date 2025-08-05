@@ -263,7 +263,7 @@
       "logoURI": "https://github.com/user-attachments/assets/2d5b0d9c-a537-4480-b6ff-5264b5d5ab43",
       "assetGroup": "BULBUL2DAO::BULBUL",
       "currencyId": "BULBUL2DAO::BULBUL",
-      "tags": ["biconomy-gas-token", "coingecko"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0xfe69bc93b936b34d371defa873686c116c8488c2": {
       "chainId": "999",
@@ -919,7 +919,7 @@
       "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x3e5fba5dd52e931276b3c84df7542c2eeea1440b/38b1fd82d511744da1692d314bccf0eb.png",
       "assetGroup": "HYPESPHERE::SPHERE",
       "currencyId": "HYPESPHERE::SPHERE",
-      "tags": ["biconomy-gas-token", "coingecko"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x5875fc0d25a48c17da1147dd1f432c6b54fb7e67": {
       "chainId": "999",
@@ -930,7 +930,7 @@
       "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x5875fc0d25a48c17da1147dd1f432c6b54fb7e67/8ddbf866b0fac48b70559e5f9c9e323e.png",
       "assetGroup": "Flip::FLIP",
       "currencyId": "Flip::FLIP",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xe9e70b7c9d108011c5ab15ce9bf6ef21d0cf8363": {
       "chainId": "999",
@@ -1399,7 +1399,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67796/thumb/HMN_Logo_-_Square_-_Light_%281%29.png?1753906923",
       "assetGroup": "haHYPE::haHYPE",
       "currencyId": "haHYPE::haHYPE",
-      "tags": ["biconomy-gas-token", "coingecko"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x1d3f7a57abf144049bacc79b1e85e185dcd8414c": {
       "chainId": "999",
@@ -1700,7 +1700,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/40048/thumb/M_Symbol_256.png?1739323798",
       "assetGroup": "M by M0::M",
       "currencyId": "M by M0::M",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x74a40455ff49ece02009bee405154ac9ac3fa340": {
       "chainId": "999",
@@ -1773,7 +1773,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67362/thumb/pump.jpg?1752548000",
       "assetGroup": "Unit Pump::UPUMP",
       "currencyId": "Unit Pump::UPUMP",
-      "tags": ["biconomy-gas-token", "coingecko"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x9ac8192a68f5174e8ac8546856e0e48d346f8240": {
       "chainId": "999",
@@ -2069,7 +2069,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/33748/thumb/200x200.png?1712694763",
       "assetGroup": "ValiDAO::VDO",
       "currencyId": "ValiDAO::VDO",
-      "tags": ["biconomy-gas-token", "coingecko"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0xe5add96840f0b908ddeb3bd144c0283ac5ca7ca0": {
       "chainId": "999",
@@ -2341,7 +2341,7 @@
       "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x3fa145cad2c8108a68cfc803a8e1ae246c36df3e/05d8a20c229784ed139f81195a6bbd3b.png",
       "assetGroup": "HyperStrategy::HSTR",
       "currencyId": "HyperStrategy::HSTR",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x4abfd796ae875dce0ff718395385fef474373b3a": {
       "chainId": "999",
@@ -2575,7 +2575,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/15069/thumb/Pendle_Logo_Normal-03.png?1696514728",
       "assetGroup": "PENDLE",
       "currencyId": "Pendle::PENDLE",
-      "tags": ["biconomy-gas-token", "coingecko"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x1b25ca174c158440621ff96e4b1262cb5cc8942f": {
       "chainId": "999",
@@ -2586,7 +2586,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67662/thumb/SolvBTC.BNB.png?1753426768",
       "assetGroup": "Solv Protocol SolvBTC BNB::SOLVBTCBNB",
       "currencyId": "Solv Protocol SolvBTC BNB::SOLVBTCBNB",
-      "tags": ["biconomy-gas-token", "coingecko"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x96029bcf706fac4176492f4a05f63f7d23ce78fb": {
       "chainId": "999",
@@ -2850,7 +2850,15 @@
       "symbol": "PT-hbHYPE-18DEC2025",
       "assetGroup": "PT Hyperbeat Ultra HYPE 18DEC2025::PT-hbHYPE-18DEC2025",
       "currencyId": "PT Hyperbeat Ultra HYPE 18DEC2025::PT-hbHYPE-18DEC2025",
-      "props": { "pendle": { "tokenType": "PT" } }
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x97d985a71131afc02c320b636a268df34c6f42a4",
+          "syAddress": "0x0fcde5a369c0d71ac932840c8654db03681912dd",
+          "expiry": 1766016000,
+          "ytAddress": "0x2b55b35d9be63d016ee902d87af29d2c4f397dc1"
+        }
+      }
     },
     "0x97d985a71131afc02c320b636a268df34c6f42a4": {
       "chainId": "999",
@@ -2885,10 +2893,19 @@
       "name": "PT Kinetiq Staked HYPE 13NOV2025",
       "address": "0x311db0fde558689550c68355783c95efdfe25329",
       "symbol": "PT-kHYPE-13NOV2025",
+      "logoURI": "https://app.hyperlend.finance/assets/pt-khype-icon-C75KsiSC.svg",
       "assetGroup": "PT Kinetiq Staked HYPE 13NOV2025::PT-kHYPE-13NOV2025",
       "currencyId": "PT Kinetiq Staked HYPE 13NOV2025::PT-kHYPE-13NOV2025",
       "tags": ["HYPERLEND"],
-      "props": { "pendle": { "tokenType": "PT" } }
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x8867d2b7adb8609c51810237ecc9a25a2f601b97",
+          "syAddress": "0x57fc55dff8ceca86ee94a6bf255af2f0ed90eb9e",
+          "expiry": 1762992000,
+          "ytAddress": "0x3f6583ad479ab6020297ce12c9059d7480ab6e5a"
+        }
+      }
     },
     "0x31a75680de78bb2787ffe9840da569dbdf4504f5": {
       "chainId": "999",
@@ -2898,7 +2915,15 @@
       "symbol": "PT-hbUSDT-18DEC2025",
       "assetGroup": "PT Hyperbeat USDT 18DEC2025::PT-hbUSDT-18DEC2025",
       "currencyId": "PT Hyperbeat USDT 18DEC2025::PT-hbUSDT-18DEC2025",
-      "props": { "pendle": { "tokenType": "PT" } }
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0xab9b8a04d21c9fb1fee7b7d219cab9e725a86b0a",
+          "syAddress": "0x642135ff98c15cba7fcf1766502bd493be4d3492",
+          "expiry": 1766016000,
+          "ytAddress": "0x47dd54dfa68172e3354e3cba2f59521d3dc9d9c7"
+        }
+      }
     },
     "0x8867d2b7adb8609c51810237ecc9a25a2f601b97": {
       "chainId": "999",
@@ -2944,7 +2969,15 @@
       "symbol": "PT-liquidHYPE-30OCT2025",
       "assetGroup": "PT Liquid HYPE Yield 30OCT2025::PT-liquidHYPE-30OCT2025",
       "currencyId": "PT Liquid HYPE Yield 30OCT2025::PT-liquidHYPE-30OCT2025",
-      "props": { "pendle": { "tokenType": "PT" } }
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x976fb34e06c933bdd97cb1e8b868e04442edaa8d",
+          "syAddress": "0x41d81daf401a0aa7422a769243fa933f351a0d64",
+          "expiry": 1761782400,
+          "ytAddress": "0x8f454bfe03527e8a838002b5bf7bfe5f296aac09"
+        }
+      }
     },
     "0x3f6583ad479ab6020297ce12c9059d7480ab6e5a": {
       "chainId": "999",

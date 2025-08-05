@@ -1966,7 +1966,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/rzr.png",
       "assetGroup": "Rezerve.money::RZR",
       "currencyId": "Rezerve.money::RZR",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xeeeeeee6d95e55a468d32feb5d6648754d10a967": {
       "chainId": "146",
@@ -2203,7 +2203,7 @@
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0/eeccdc91b87a4e2db914d0290eea8e6d.png",
       "assetGroup": "FXS",
       "currencyId": "Frax Share::FXS",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x97a10beebb25e0ebfa55ca0a7d00e37afe957dea": {
       "chainId": "146",
@@ -2244,7 +2244,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/smsusd.png",
       "assetGroup": "Staked msUSD::smsUSD",
       "currencyId": "Staked msUSD::smsUSD",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x08417cdb7f52a5021bb4eb6e0deaf3f295c3f182": {
       "chainId": "146",
@@ -2275,7 +2275,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/37421/thumb/AmpedLogoTrans-200.png?1714377313",
       "assetGroup": "Amped Finance::AMP",
       "currencyId": "Amped Finance::AMP",
-      "tags": ["biconomy-gas-token", "coingecko"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0xe061aa40be525a13296cb4bf69f513242349d708": {
       "chainId": "146",
@@ -2286,7 +2286,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67363/thumb/xvgson-logo-200x200.png?1752564785",
       "assetGroup": "XVGSON::XVGSON",
       "currencyId": "XVGSON::XVGSON",
-      "tags": ["biconomy-gas-token", "coingecko"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0xb4818bb69478730ef4e33cc068dd94278e2766cb": {
       "chainId": "146",
@@ -2297,7 +2297,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/37760/thumb/Instagram_post_-_25.png?1715475306",
       "assetGroup": "Satoshi Stablecoin::SATUSD",
       "currencyId": "Satoshi Stablecoin::SATUSD",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x3a7ba84bbe869ed318e654dd9b6ff3cf6d531e91": {
       "chainId": "146",
@@ -2466,7 +2466,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67667/thumb/MOTH.?1753436722",
       "assetGroup": "Moth::MOTH",
       "currencyId": "Moth::MOTH",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xf6bc16b79c469b94cdd25f3e2334dd4fee47a581": {
       "chainId": "146",
@@ -2487,7 +2487,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67786/thumb/atv_111_USDC_71e76abcb6.png?1753844688",
       "assetGroup": "aarna atv111  Sonic ::ATV111",
       "currencyId": "aarna atv111  Sonic ::ATV111",
-      "tags": ["biconomy-gas-token", "coingecko"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0xd4dd9e2f021bb459d5a5f6c24c12fe09c5d45553": {
       "chainId": "146",
@@ -2498,7 +2498,17 @@
       "logoURI": "https://assets.coingecko.com/coins/images/37150/thumb/Coin_Logo_Frankencoin_1024px.png?1728679791",
       "assetGroup": "Frankencoin::ZCHF",
       "currencyId": "Frankencoin::ZCHF",
-      "tags": ["biconomy-gas-token", "coingecko"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x41a5477364bf60d8936b90310fecfda79593304e": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Staked dUSD",
+      "address": "0x41a5477364bf60d8936b90310fecfda79593304e",
+      "symbol": "sdUSD",
+      "logoURI": "https://app.dtrinity.org/dloop/icons/tokens/sdusd.svg",
+      "assetGroup": "Staked dUSD::sdUSD",
+      "currencyId": "Staked dUSD::sdUSD"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "146",
