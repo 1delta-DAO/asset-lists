@@ -93,7 +93,7 @@
     "0x00000000efe302beaa2b3e6e1b18d08d69a9012a": {
       "chainId": "747474",
       "decimals": 6,
-      "name": "Agora Dollar",
+      "name": "AUSD",
       "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
       "symbol": "AUSD",
       "logoURI": "https://cdn.morpho.org/assets/logos/ausd.svg",
@@ -136,23 +136,23 @@
     "0xb24e3035d1fcbc0e43cf3143c3fd92e53df2009b": {
       "chainId": "747474",
       "decimals": 18,
-      "name": "Polygon Ecosystem Token",
+      "name": "Polygon",
       "address": "0xb24e3035d1fcbc0e43cf3143c3fd92e53df2009b",
       "symbol": "POL",
       "logoURI": "https://cdn.morpho.org/assets/logos/pol.svg",
-      "assetGroup": "Polygon Ecosystem Token::POL",
-      "currencyId": "Polygon Ecosystem Token::POL",
+      "assetGroup": "Polygon::POL",
+      "currencyId": "Polygon::POL",
       "tags": ["coingecko"]
     },
     "0xecac9c5f704e954931349da37f60e39f515c11c1": {
       "chainId": "747474",
       "decimals": 8,
-      "name": "Lombard Staked Bitcoin",
+      "name": "Lombard Staked BTC",
       "address": "0xecac9c5f704e954931349da37f60e39f515c11c1",
       "symbol": "LBTC",
       "logoURI": "https://cdn.morpho.org/assets/logos/lbtc.svg",
-      "assetGroup": "Lombard Staked Bitcoin::LBTC",
-      "currencyId": "Lombard Staked Bitcoin::LBTC",
+      "assetGroup": "LBTC",
+      "currencyId": "Lombard Staked BTC::LBTC",
       "tags": ["btc", "lst", "coingecko"]
     },
     "0xb0f70c0bd6fd87dbeb7c10dc692a2a6106817072": {
