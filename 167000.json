@@ -22,7 +22,8 @@
       "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
       "assetGroup": "USDC",
       "currencyId": "USD Coin::USDC",
-      "tags": ["biconomy-gas-token", "HANA", "TAKOTAKO", "MERIDIAN", "AVALON", "AVALON_USDA"]
+      "tags": ["biconomy-gas-token", "HANA", "TAKOTAKO", "MERIDIAN", "AVALON", "AVALON_USDA"],
+      "props": { "permit": { "type": 1, "version": "2" } }
     },
     "0x19e26b0638bf63aa9fa4d14c6baf8d52ebe86c5c": {
       "chainId": "167000",
@@ -33,7 +34,8 @@
       "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdce.svg",
       "assetGroup": "USDC",
       "currencyId": "Bridged USDC (Stargate)::USDC.e",
-      "tags": ["stargate", "bridged", "biconomy-gas-token", "HANA", "MERIDIAN"]
+      "tags": ["stargate", "bridged", "biconomy-gas-token", "HANA", "MERIDIAN"],
+      "props": { "permit": { "type": 1, "version": "2" } }
     },
     "0x9c2dc7377717603eb92b2655c5f2e7997a4945bd": {
       "chainId": "167000",
@@ -76,7 +78,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/38058/standard/taiko.jpeg",
       "assetGroup": "TAIKO",
       "currencyId": "Taiko Token::TAIKO",
-      "tags": ["biconomy-gas-token", "HANA", "TAKOTAKO", "MERIDIAN", "AVALON"]
+      "tags": ["biconomy-gas-token", "HANA", "TAKOTAKO", "MERIDIAN", "AVALON"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x7e91f29f8a213c8311712a8fc8c61219fb9477cb": {
       "chainId": "167000",
@@ -156,7 +159,8 @@
       "symbol": "ultraETHs",
       "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/ultraeths.png",
       "assetGroup": "Affine ultraETHs 2.0::ultraETHs",
-      "currencyId": "Affine ultraETHs 2.0::ultraETHs"
+      "currencyId": "Affine ultraETHs 2.0::ultraETHs",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xa2fba3fde6c9e7386716b577e1258577cb9b5bf7": {
       "chainId": "167000",
@@ -176,7 +180,8 @@
       "symbol": "wsxETH",
       "logoURI": "https://panko.finance/images/token-image/wsxeth.png",
       "assetGroup": "Wrapped sxETH::wsxETH",
-      "currencyId": "Wrapped sxETH::wsxETH"
+      "currencyId": "Wrapped sxETH::wsxETH",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x541fd749419ca806a8bc7da8ac23d346f2df8b77": {
       "chainId": "167000",
@@ -269,7 +274,8 @@
       "symbol": "crvUSD",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/crvUSD.webp",
       "assetGroup": "CRVUSD",
-      "currencyId": "Curve.Fi USD Stablecoin::crvUSD"
+      "currencyId": "Curve.Fi USD Stablecoin::crvUSD",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x09413312b263fd252c16e592a45f4689f26cb79d": {
       "chainId": "167000",
@@ -279,7 +285,8 @@
       "symbol": "CRV",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/CRV.webp",
       "assetGroup": "CRV",
-      "currencyId": "Curve DAO Token::CRV"
+      "currencyId": "Curve DAO Token::CRV",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x0c4e57a3a3ef4790c4848a711851dc08e8a16da7": {
       "chainId": "167000",

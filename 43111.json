@@ -22,7 +22,8 @@
       "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdce.svg",
       "assetGroup": "USDC",
       "currencyId": "Bridged USDC (Stargate)::USDC.e",
-      "tags": ["stargate", "bridged", "LAYERBANK_V3", "ZEROLEND", "LENDOS"]
+      "tags": ["stargate", "bridged", "LAYERBANK_V3", "ZEROLEND", "LENDOS"],
+      "props": { "permit": { "type": 1, "version": "2" } }
     },
     "0x7a06c4aef988e7925575c50261297a946ad204a8": {
       "chainId": "43111",
@@ -44,7 +45,8 @@
       "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdt.png",
       "assetGroup": "USDT",
       "currencyId": "Tether USD::USDT",
-      "tags": ["LAYERBANK_V3", "ZEROLEND", "LENDOS"]
+      "tags": ["LAYERBANK_V3", "ZEROLEND", "LENDOS"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xaa40c0c7644e0b2b224509571e10ad20d9c4ef28": {
       "chainId": "43111",

@@ -6179,7 +6179,8 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
       "assetGroup": "USDC",
       "currencyId": "USD Coin::USDC",
-      "tags": ["debridge", "biconomy-gas-token", "AAVE_V3", "YLDR"]
+      "tags": ["debridge", "biconomy-gas-token", "AAVE_V3", "YLDR"],
+      "props": { "permit": { "type": 1, "version": "2" } }
     },
     "0x8de5b80a0c1b02fe4976851d030b36122dbb8624": {
       "chainId": "137",

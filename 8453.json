@@ -187,7 +187,8 @@
         "COMPOUND_V3_WETH",
         "COMPOUND_V3_AERO",
         "VENUS"
-      ]
+      ],
+      "props": { "permit": { "type": 1, "version": "2" } }
     },
     "0x998b3fd0998bfff66d28ab03dfe417fc3b884188": {
       "chainId": "8453",
@@ -12838,7 +12839,7 @@
       "address": "0x820c137fa70c8691f0e44dc420a5e53c168921dc",
       "symbol": "USDS",
       "logoURI": "https://assets.coingecko.com/coins/images/39926/thumb/usds.webp?1726666683",
-      "assetGroup": "USDS Stablecoin::USDS",
+      "assetGroup": "USDS",
       "currencyId": "USDS Stablecoin::USDS",
       "tags": ["coingecko", "debridge", "biconomy-gas-token", "XLEND"]
     },
@@ -28139,6 +28140,28 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67907/thumb/4KWREdUx_400x400.jpg?1754271670",
       "assetGroup": "Bull Pepe::BULLPEPE::8453::0",
       "currencyId": "Bull Pepe::BULLPEPE",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0xf426daeecf204f71dcabbca92e89db47b15cd141": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "alexanderelorenzo",
+      "address": "0xf426daeecf204f71dcabbca92e89db47b15cd141",
+      "symbol": "ALEXANDERELORENZO",
+      "logoURI": "https://assets.coingecko.com/coins/images/67975/thumb/alexanderelorenzo.png?1754477530",
+      "assetGroup": "alexanderelorenzo::ALEXANDERELORENZO",
+      "currencyId": "alexanderelorenzo::ALEXANDERELORENZO",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x06f71fb90f84b35302d132322a3c90e4477333b0": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "BRACKY",
+      "address": "0x06f71fb90f84b35302d132322a3c90e4477333b0",
+      "symbol": "BRACKY",
+      "logoURI": "https://assets.coingecko.com/coins/images/67973/thumb/original.jpeg?1754476921",
+      "assetGroup": "BRACKY::BRACKY",
+      "currencyId": "BRACKY::BRACKY",
       "tags": ["coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {

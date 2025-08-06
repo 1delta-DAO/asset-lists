@@ -9000,9 +9000,21 @@
       "name": "Gram Silver",
       "address": "0x97cf07b5401b76d69bf48a4f6fdf63684e0748e0",
       "symbol": "GRAMS",
+      "logoURI": "https://assets.coingecko.com/coins/images/34370/thumb/grams.png?1704795270",
       "assetGroup": "Gram Silver::GRAMS",
       "currencyId": "Gram Silver::GRAMS",
-      "tags": ["debridge"]
+      "tags": ["debridge", "coingecko"]
+    },
+    "0x108468885eba2932901d409af6bf97bf9c3eda50": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "CDK",
+      "address": "0x108468885eba2932901d409af6bf97bf9c3eda50",
+      "symbol": "CDK",
+      "logoURI": "https://assets.coingecko.com/coins/images/67969/thumb/CDK_Orange-Black.png?1754475994",
+      "assetGroup": "CDK::CDK",
+      "currencyId": "CDK::CDK",
+      "tags": ["coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "43114",

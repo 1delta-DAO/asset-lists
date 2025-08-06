@@ -33,7 +33,8 @@
       "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x09Bc4E0D864854c6aFB6eB9A9cdF58aC190D0dF9/logo.png",
       "assetGroup": "USDC",
       "currencyId": "USD Coin::USDC",
-      "tags": ["mantlelist", "coingecko", "biconomy-gas-token", "debridge", "LENDLE", "AURELIUS", "KINZA", "INIT"]
+      "tags": ["mantlelist", "coingecko", "biconomy-gas-token", "debridge", "LENDLE", "AURELIUS", "KINZA", "INIT"],
+      "props": { "permit": { "type": 1, "version": "2" } }
     },
     "0xdeaddeaddeaddeaddeaddeaddeaddeaddead1111": {
       "chainId": "5000",
@@ -78,7 +79,8 @@
       "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x4515A45337F461A11Ff0FE8aBF3c606AE5dC00c9/logo.png",
       "assetGroup": "MerchantMoe Token::MOE",
       "currencyId": "MerchantMoe Token::MOE",
-      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07": {
       "chainId": "5000",
@@ -165,7 +167,8 @@
         "KINZA",
         "COMPOUND_V3_USDE",
         "INIT"
-      ]
+      ],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x217b4382a1de262c0fba97c1b8378904b4a25e4d": {
       "chainId": "5000",
@@ -272,7 +275,8 @@
       "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x4b7F28397B4294277E7825f224172944f4f5A877/logo.png",
       "assetGroup": "IntentX Token::INTX",
       "currencyId": "IntentX Token::INTX",
-      "tags": ["biconomy-gas-token", "debridge"]
+      "tags": ["biconomy-gas-token", "debridge"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x420fca0121dc28039145009570975747295f2329": {
       "chainId": "5000",
@@ -336,7 +340,8 @@
       "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a/logo.png",
       "assetGroup": "AUSD",
       "currencyId": "AUSD::AUSD",
-      "tags": ["coingecko", "biconomy-gas-token", "debridge", "LENDLE"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge", "LENDLE"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x9f0c013016e8656bc256f948cd4b79ab25c7b94d": {
       "chainId": "5000",
@@ -378,7 +383,8 @@
       "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0xD2B4C9B0d70e3Da1fBDD98f469bD02E77E12FC79/logo.png",
       "assetGroup": "Aurelius USD::aUSD",
       "currencyId": "Aurelius USD::aUSD",
-      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2": {
       "chainId": "5000",
@@ -842,7 +848,8 @@
       "logoURI": "https://cleo.exchange/_next/static/media/emission.fbdcf1a8.svg",
       "assetGroup": "Cleopatra::CLEO",
       "currencyId": "Cleopatra::CLEO",
-      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x999890b3a00ea4d60da39a65fa4b70bb0bdb61f7": {
       "chainId": "5000",
@@ -945,7 +952,8 @@
       "logoURI": "https://cleopatra.exchange/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2FRamsesExchange%2Framses-assets%2Fmain%2Fblockchains%2Fmantle%2Fassets%2F0xC01a7AD7Fb8a085a3cc16be8eaA10302c78a1783%2Flogo.png&w=32&q=75",
       "assetGroup": "Aurelius Token::AU",
       "currencyId": "Aurelius Token::AU",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x6e20e155819f0ee08d1291b0b9889b0e011b8224": {
       "chainId": "5000",

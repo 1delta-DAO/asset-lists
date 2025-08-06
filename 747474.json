@@ -51,7 +51,8 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/vbeth.svg",
       "assetGroup": "Vault Bridge ETH::vbETH",
       "currencyId": "Vault Bridge ETH::vbETH",
-      "tags": ["eth", "coingecko"]
+      "tags": ["eth", "coingecko"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36": {
       "chainId": "747474",
@@ -62,7 +63,8 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/vbusdc.svg",
       "assetGroup": "Vault Bridge USDC::vbUSDC",
       "currencyId": "Vault Bridge USDC::vbUSDC",
-      "tags": ["stablecoin", "usd-pegged", "coingecko"]
+      "tags": ["stablecoin", "usd-pegged", "coingecko"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x2dca96907fde857dd3d816880a0df407eeb2d2f2": {
       "chainId": "747474",
@@ -73,7 +75,8 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/vbusdt.svg",
       "assetGroup": "Vault Bridge USDT::vbUSDT",
       "currencyId": "Vault Bridge USDT::vbUSDT",
-      "tags": ["stablecoin", "usd-pegged", "coingecko"]
+      "tags": ["stablecoin", "usd-pegged", "coingecko"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x0913da6da4b42f538b445599b46bb4622342cf52": {
       "chainId": "747474",
@@ -84,7 +87,8 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/vbwbtc.svg",
       "assetGroup": "Vault Bridge WBTC::vbWBTC",
       "currencyId": "Vault Bridge WBTC::vbWBTC",
-      "tags": ["btc", "coingecko"]
+      "tags": ["btc", "coingecko"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x00000000efe302beaa2b3e6e1b18d08d69a9012a": {
       "chainId": "747474",
@@ -181,7 +185,8 @@
       "symbol": "vbUSDS",
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xdc035d45d973e3ec169d2276ddab16f1e407384f/78fbc2e73e33fa80fcecfaafa2074887.png",
       "assetGroup": "Vault Bridge USDS::vbUSDS",
-      "currencyId": "Vault Bridge USDS::vbUSDS"
+      "currencyId": "Vault Bridge USDS::vbUSDS",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xb0505e5a99abd03d94a1169e638b78edfed26ea4": {
       "chainId": "747474",
@@ -255,7 +260,7 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/yusd.svg",
       "assetGroup": "YieldFi yUSD::yUSD",
       "currencyId": "YieldFi yUSD::yUSD",
-      "tags": ["stablecoin", "usd-pegged", "yield"]
+      "tags": ["stablecoin", "usd-pegged", "yield", "coingecko"]
     },
     "0xfba805659e5050544e185cccdf592fd77f8c7210": {
       "chainId": "747474",
@@ -292,7 +297,8 @@
     "0x4200000000000000000000000000000000000006",
     "0x9b8df6e244526ab5f6e6400d331db28c8fdddb55",
     "0xecac9c5f704e954931349da37f60e39f515c11c1",
-    "0xfba805659e5050544e185cccdf592fd77f8c7210"
+    "0xfba805659e5050544e185cccdf592fd77f8c7210",
+    "0x4772d2e014f9fc3a820c444e3313968e9a5c8121"
   ],
   "bridgeTokens": [
     "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
