@@ -286,6 +286,17 @@
       "currencyId": "BigWater::BIGW",
       "tags": ["coingecko"]
     },
+    "0xaec5eaf63402bf842d8642d917685e5ad3ba14bb": {
+      "chainId": "50",
+      "decimals": 18,
+      "name": "EquitEdge",
+      "address": "0xaec5eaf63402bf842d8642d917685e5ad3ba14bb",
+      "symbol": "EEG",
+      "logoURI": "https://assets.coingecko.com/coins/images/67987/thumb/symbol-light.png?1754506688",
+      "assetGroup": "EquitEdge::EEG",
+      "currencyId": "EquitEdge::EEG",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "50",
       "decimals": 18,
@@ -295,7 +306,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/xdc.webp",
       "assetGroup": "Wrapped XDC::WXDC",
       "currencyId": "XinFin::XDC",
-      "tags": ["native", "wnative", "coingecko", "wrapped:0x951857744785e80e2de051c32ee7b25f9c458c42"],
+      "tags": ["native", "coingecko", "wrapped:0x951857744785e80e2de051c32ee7b25f9c458c42"],
       "props": { "isNative": true, "wrapped": "0x951857744785e80e2de051c32ee7b25f9c458c42" }
     }
   },
@@ -318,7 +329,8 @@
     "0xcda5b77e2e2268d9e09c874c1b9a4c3f07b37555",
     "0xcc0587aebda397146cc828b445db130a94486e74",
     "0x3a170c7c987f55c84f28733bfa27962d8cdd5d3b",
-    "0xc9b1b2842c60303a06f60fdd005654575d6ae466"
+    "0xc9b1b2842c60303a06f60fdd005654575d6ae466",
+    "0xaec5eaf63402bf842d8642d917685e5ad3ba14bb"
   ],
   "bridgeTokens": [
     "0x867f08a3ab824b42e8058a1b48e32e1df205b092",

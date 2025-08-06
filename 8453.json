@@ -28164,6 +28164,28 @@
       "currencyId": "BRACKY::BRACKY",
       "tags": ["coingecko", "debridge"]
     },
+    "0x74bf9813655d427bfea800f8af0e52a59ff24223": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "REAL ESMATE by Virtuals",
+      "address": "0x74bf9813655d427bfea800f8af0e52a59ff24223",
+      "symbol": "EMATE",
+      "logoURI": "https://assets.coingecko.com/coins/images/67988/thumb/857e08d4-1e78-415a-9353-5b6c239fdbc5.png?1754511640",
+      "assetGroup": "REAL ESMATE by Virtuals::EMATE",
+      "currencyId": "REAL ESMATE by Virtuals::EMATE",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x2a0a59d6b975828e781ecac125dba40d7ee5ddc0": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Ripe DAO Governance Token",
+      "address": "0x2a0a59d6b975828e781ecac125dba40d7ee5ddc0",
+      "symbol": "RIPE",
+      "logoURI": "https://assets.coingecko.com/coins/images/67990/thumb/ih8u2bkggcaqqed4r0snwb0400y7.?1754517877",
+      "assetGroup": "Ripe DAO Governance Token::RIPE",
+      "currencyId": "Ripe DAO Governance Token::RIPE",
+      "tags": ["coingecko", "debridge"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "8453",
       "decimals": 18,
@@ -28177,7 +28199,6 @@
         "native",
         "coingecko",
         "debridge",
-        "wnative",
         "biconomy-gas-token",
         "AAVE_V3",
         "ZEROLEND",

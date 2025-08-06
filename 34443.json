@@ -715,14 +715,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "assetGroup": "ETH",
       "currencyId": "Ether::ETH",
-      "tags": [
-        "native",
-        "coingecko",
-        "wnative",
-        "MOLEND",
-        "IRONCLAD",
-        "wrapped:0x4200000000000000000000000000000000000006"
-      ],
+      "tags": ["native", "coingecko", "MOLEND", "IRONCLAD", "wrapped:0x4200000000000000000000000000000000000006"],
       "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" }
     }
   },

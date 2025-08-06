@@ -51,7 +51,7 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/vbeth.svg",
       "assetGroup": "ETH",
       "currencyId": "Vault Bridge ETH::vbETH",
-      "tags": ["eth", "coingecko"],
+      "tags": ["eth", "coingecko", "vault bridge", "bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36": {
@@ -63,7 +63,7 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/vbusdc.svg",
       "assetGroup": "USDC",
       "currencyId": "Vault Bridge USDC::vbUSDC",
-      "tags": ["stablecoin", "usd-pegged", "coingecko"],
+      "tags": ["stablecoin", "usd-pegged", "coingecko", "vault bridge", "bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x2dca96907fde857dd3d816880a0df407eeb2d2f2": {
@@ -75,7 +75,7 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/vbusdt.svg",
       "assetGroup": "USDT",
       "currencyId": "Vault Bridge USDT::vbUSDT",
-      "tags": ["stablecoin", "usd-pegged", "coingecko"],
+      "tags": ["stablecoin", "usd-pegged", "coingecko", "vault bridge", "bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x0913da6da4b42f538b445599b46bb4622342cf52": {
@@ -87,7 +87,7 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/vbwbtc.svg",
       "assetGroup": "WBTC",
       "currencyId": "Vault Bridge WBTC::vbWBTC",
-      "tags": ["btc", "coingecko"],
+      "tags": ["btc", "coingecko", "vault bridge", "bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x00000000efe302beaa2b3e6e1b18d08d69a9012a": {
@@ -97,8 +97,8 @@
       "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
       "symbol": "AUSD",
       "logoURI": "https://cdn.morpho.org/assets/logos/ausd.svg",
-      "assetGroup": "Agora Dollar::AUSD",
-      "currencyId": "Agora Dollar::AUSD",
+      "assetGroup": "AUSD",
+      "currencyId": "AUSD::AUSD",
       "tags": ["stablecoin", "usd-pegged", "coingecko"]
     },
     "0x1e5efca3d0db2c6d5c67a4491845c43253eb9e4e": {
@@ -140,7 +140,7 @@
       "address": "0xb24e3035d1fcbc0e43cf3143c3fd92e53df2009b",
       "symbol": "POL",
       "logoURI": "https://cdn.morpho.org/assets/logos/pol.svg",
-      "assetGroup": "Polygon::POL",
+      "assetGroup": "POL",
       "currencyId": "Polygon::POL",
       "tags": ["coingecko"]
     },
@@ -186,6 +186,7 @@
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xdc035d45d973e3ec169d2276ddab16f1e407384f/78fbc2e73e33fa80fcecfaafa2074887.png",
       "assetGroup": "USDS",
       "currencyId": "Vault Bridge USDS::vbUSDS",
+      "tags": ["vault bridge", "bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xb0505e5a99abd03d94a1169e638b78edfed26ea4": {
@@ -225,7 +226,7 @@
       "address": "0x4200000000000000000000000000000000000006",
       "symbol": "WETH",
       "logoURI": "https://static.debank.com/image/katana_token/logo_url/0x4200000000000000000000000000000000000006/61844453e63cf81301f845d7864236f6.png",
-      "assetGroup": "Wrapped Ether::WETH",
+      "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
       "tags": ["wnative"]
     },
@@ -280,9 +281,9 @@
       "address": "0x0000000000000000000000000000000000000000",
       "symbol": "ETH",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
-      "assetGroup": "Wrapped Ether::WETH",
+      "assetGroup": "ETH",
       "currencyId": "Ether::ETH",
-      "tags": ["native", "wnative", "wrapped:0x4200000000000000000000000000000000000006"],
+      "tags": ["native", "wrapped:0x4200000000000000000000000000000000000006"],
       "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" }
     }
   },

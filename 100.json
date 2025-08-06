@@ -8137,6 +8137,25 @@
       "currencyId": "Frankencoin::ZCHF",
       "tags": ["coingecko"]
     },
+    "0x58d9acac48a4077e4909181c48decd00e5ba5de4": {
+      "chainId": "100",
+      "decimals": 18,
+      "name": "Wrapped Aave Gnosis GHO",
+      "address": "0x58d9acac48a4077e4909181c48decd00e5ba5de4",
+      "symbol": "waGnoGHO",
+      "assetGroup": "Wrapped Aave Gnosis GHO::waGnoGHO",
+      "currencyId": "Wrapped Aave Gnosis GHO::waGnoGHO"
+    },
+    "0xfc421ad3c883bf9e7c4f42de845c4e4405799e73": {
+      "chainId": "100",
+      "decimals": 18,
+      "name": "Gho Token",
+      "address": "0xfc421ad3c883bf9e7c4f42de845c4e4405799e73",
+      "symbol": "GHO",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfc421ad3c883bf9e7c4f42de845c4e4405799e73.png",
+      "assetGroup": "GHO",
+      "currencyId": "Gho Token::GHO"
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "100",
       "decimals": 18,
@@ -8150,7 +8169,6 @@
         "native",
         "openocean",
         "coingecko",
-        "wnative",
         "biconomy-gas-token",
         "AAVE_V3",
         "SPARK",

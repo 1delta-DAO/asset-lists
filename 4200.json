@@ -374,14 +374,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/btc.webp",
       "assetGroup": "WBTC",
       "currencyId": "BTC::BTC",
-      "tags": [
-        "native",
-        "coingecko",
-        "wnative",
-        "AVALON_UNIBTC",
-        "AVALON",
-        "wrapped:0xf6d226f9dc15d9bb51182815b320d3fbe324e1ba"
-      ],
+      "tags": ["native", "coingecko", "AVALON_UNIBTC", "AVALON", "wrapped:0xf6d226f9dc15d9bb51182815b320d3fbe324e1ba"],
       "props": { "isNative": true, "wrapped": "0xf6d226f9dc15d9bb51182815b320d3fbe324e1ba" }
     }
   },
