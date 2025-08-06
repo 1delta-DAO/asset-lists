@@ -49,7 +49,7 @@
       "address": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
       "symbol": "vbETH",
       "logoURI": "https://cdn.morpho.org/assets/logos/vbeth.svg",
-      "assetGroup": "Vault Bridge ETH::vbETH",
+      "assetGroup": "ETH",
       "currencyId": "Vault Bridge ETH::vbETH",
       "tags": ["eth", "coingecko"],
       "props": { "permit": { "type": 1, "version": "1" } }
@@ -61,7 +61,7 @@
       "address": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
       "symbol": "vbUSDC",
       "logoURI": "https://cdn.morpho.org/assets/logos/vbusdc.svg",
-      "assetGroup": "Vault Bridge USDC::vbUSDC",
+      "assetGroup": "USDC",
       "currencyId": "Vault Bridge USDC::vbUSDC",
       "tags": ["stablecoin", "usd-pegged", "coingecko"],
       "props": { "permit": { "type": 1, "version": "1" } }
@@ -73,7 +73,7 @@
       "address": "0x2dca96907fde857dd3d816880a0df407eeb2d2f2",
       "symbol": "vbUSDT",
       "logoURI": "https://cdn.morpho.org/assets/logos/vbusdt.svg",
-      "assetGroup": "Vault Bridge USDT::vbUSDT",
+      "assetGroup": "USDT",
       "currencyId": "Vault Bridge USDT::vbUSDT",
       "tags": ["stablecoin", "usd-pegged", "coingecko"],
       "props": { "permit": { "type": 1, "version": "1" } }
@@ -85,7 +85,7 @@
       "address": "0x0913da6da4b42f538b445599b46bb4622342cf52",
       "symbol": "vbWBTC",
       "logoURI": "https://cdn.morpho.org/assets/logos/vbwbtc.svg",
-      "assetGroup": "Vault Bridge WBTC::vbWBTC",
+      "assetGroup": "WBTC",
       "currencyId": "Vault Bridge WBTC::vbWBTC",
       "tags": ["btc", "coingecko"],
       "props": { "permit": { "type": 1, "version": "1" } }
@@ -184,7 +184,7 @@
       "address": "0x62d6a123e8d19d06d68cf0d2294f9a3a0362c6b3",
       "symbol": "vbUSDS",
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xdc035d45d973e3ec169d2276ddab16f1e407384f/78fbc2e73e33fa80fcecfaafa2074887.png",
-      "assetGroup": "Vault Bridge USDS::vbUSDS",
+      "assetGroup": "USDS",
       "currencyId": "Vault Bridge USDS::vbUSDS",
       "props": { "permit": { "type": 1, "version": "1" } }
     },
@@ -225,7 +225,7 @@
       "address": "0x4200000000000000000000000000000000000006",
       "symbol": "WETH",
       "logoURI": "https://static.debank.com/image/katana_token/logo_url/0x4200000000000000000000000000000000000006/61844453e63cf81301f845d7864236f6.png",
-      "assetGroup": "ETH",
+      "assetGroup": "Wrapped Ether::WETH",
       "currencyId": "Wrapped Ether::WETH",
       "tags": ["wnative"]
     },
@@ -280,7 +280,7 @@
       "address": "0x0000000000000000000000000000000000000000",
       "symbol": "ETH",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
-      "assetGroup": "ETH",
+      "assetGroup": "Wrapped Ether::WETH",
       "currencyId": "Ether::ETH",
       "tags": ["native", "wnative", "wrapped:0x4200000000000000000000000000000000000006"],
       "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" }
