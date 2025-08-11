@@ -11,7 +11,8 @@
       "logoURI": "https://assets.bulbaswap.io/icons/2818/address/0x5300000000000000000000000000000000000011.svg",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "tags": ["wnative"]
+      "tags": ["wnative"],
+      "props": { "wnative": true }
     },
     "0x4116bd299e4118b6b1acbfbd9acbaf034a9d5389": {
       "chainId": "2818",

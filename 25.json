@@ -66,7 +66,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/20401/thumb/cro.jpg?1696519810",
       "assetGroup": "Wrapped CRO::WCRO",
       "currencyId": "Wrapped CRO::WCRO",
-      "tags": ["openocean", "coingecko", "wnative"]
+      "tags": ["openocean", "coingecko", "wnative"],
+      "props": { "wnative": true }
     },
     "0x2d03bece6747adc00e1a131bba1469c15fd11e03": {
       "chainId": "25",

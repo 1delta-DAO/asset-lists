@@ -55,7 +55,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000009/0xd3bf53dac106a0290b0483ecbc89d40fcc961f3e/small/token-logo.png",
       "assetGroup": "Wrapped Flow::WFLOW",
       "currencyId": "Wrapped Flow::WFLOW",
-      "tags": ["debridge", "wnative"]
+      "tags": ["debridge", "wnative"],
+      "props": { "wnative": true }
     },
     "0x1b97100ea1d7126c4d60027e231ea4cb25314bdb": {
       "chainId": "747",

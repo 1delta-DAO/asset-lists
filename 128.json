@@ -461,7 +461,8 @@
       "logoURI": "https://hecoinfo.com/token/images/HT_32.png",
       "assetGroup": "Wrapped HT::WHT",
       "currencyId": "Wrapped HT::WHT",
-      "tags": ["wnative"]
+      "tags": ["wnative"],
+      "props": { "wnative": true }
     },
     "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73": {
       "chainId": "128",

@@ -125,7 +125,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/39727/thumb/weth.png?1723758119",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "tags": ["coingecko", "wnative", "biconomy-gas-token", "ZEROLEND", "SEISMIC", "PAC"]
+      "tags": ["coingecko", "wnative", "biconomy-gas-token", "ZEROLEND", "SEISMIC", "PAC"],
+      "props": { "wnative": true }
     },
     "0xb1a5700fa2358173fe465e6ea4ff52e36e88e2ad": {
       "chainId": "81457",

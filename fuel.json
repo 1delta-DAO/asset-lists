@@ -8321,7 +8321,8 @@
       "logoURI": "https://verified-assets.fuel.network/images/eth.svg",
       "assetGroup": "ETH",
       "currencyId": "Ethereum::ETH",
-      "tags": ["wnative"]
+      "tags": ["wnative"],
+      "props": { "wnative": true }
     },
     "0x1d5d97005e41cae2187a895fd8eab0506111e0e2f3331cd3912c15c24e3c1d82": {
       "chainId": "fuel",

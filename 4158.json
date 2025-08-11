@@ -22,20 +22,26 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000006/0xc537d12bd626b135b251cca43283eff69ec109c4/small/token-logo.png",
       "assetGroup": "Wrapped XFI::WXFI",
       "currencyId": "Wrapped XFI::WXFI",
-      "tags": ["debridge"]
+      "tags": ["debridge", "wnative"],
+      "props": { "wnative": true }
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "4158",
-      "address": "0x0000000000000000000000000000000000000000",
-      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/xfi.webp",
-      "currencyId": "CrossFi Token::XFI",
-      "tags": ["native"],
-      "props": { "isNative": true },
+      "decimals": 18,
       "name": "CrossFi Token",
+      "address": "0x0000000000000000000000000000000000000000",
       "symbol": "XFI",
-      "decimals": 18
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/xfi.webp",
+      "assetGroup": "Wrapped XFI::WXFI",
+      "currencyId": "CrossFi Token::XFI",
+      "tags": ["native", "debridge", "wrapped:0xc537d12bd626b135b251cca43283eff69ec109c4"],
+      "props": { "isNative": true, "wrapped": "0xc537d12bd626b135b251cca43283eff69ec109c4" }
     }
   },
-  "mainTokens": ["0x0000000000000000000000000000000000000000", "0x7bbce15166bbc008ec1adf9b3d6bba0602fce7ba"],
+  "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
+    "0x7bbce15166bbc008ec1adf9b3d6bba0602fce7ba",
+    "0xc537d12bd626b135b251cca43283eff69ec109c4"
+  ],
   "bridgeTokens": ["0x7bbce15166bbc008ec1adf9b3d6bba0602fce7ba"]
 }

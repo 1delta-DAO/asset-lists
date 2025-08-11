@@ -11,7 +11,8 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "tags": ["wnative", "LAYERBANK_V3", "ZEROLEND", "LENDOS"]
+      "tags": ["wnative", "LAYERBANK_V3", "ZEROLEND", "LENDOS"],
+      "props": { "wnative": true }
     },
     "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa": {
       "chainId": "43111",

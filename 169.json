@@ -60,7 +60,8 @@
       "symbol": "WETH",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "tags": ["ZEROLEND", "wnative"]
+      "tags": ["ZEROLEND", "wnative"],
+      "props": { "wnative": true }
     },
     "0x2fe3ad97a60eb7c79a976fc18bb5ffd07dd94ba5": {
       "chainId": "169",

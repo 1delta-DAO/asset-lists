@@ -22,7 +22,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/16036/thumb/Fantom.png?1696515646",
       "assetGroup": "FTM",
       "currencyId": "Wrapped FTM::WFTM",
-      "tags": ["openocean", "coingecko", "debridge", "wnative", "GRANARY"]
+      "tags": ["openocean", "coingecko", "debridge", "wnative", "GRANARY"],
+      "props": { "wnative": true }
     },
     "0x04068da6c83afcfa0e13ba15a6696662335d5b75": {
       "chainId": "250",

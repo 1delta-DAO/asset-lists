@@ -120,7 +120,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/11062/thumb/Identity-Primary-DarkBG.png?1696511004",
       "assetGroup": "XDAI",
       "currencyId": "Wrapped xDAI::WXDAI",
-      "tags": ["openocean", "coingecko", "wnative", "biconomy-gas-token", "AAVE_V3", "SPARK", "RMM", "AGAVE"]
+      "tags": ["openocean", "coingecko", "wnative", "biconomy-gas-token", "AAVE_V3", "SPARK", "RMM", "AGAVE"],
+      "props": { "wnative": true }
     },
     "0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1": {
       "chainId": "100",

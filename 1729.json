@@ -11,7 +11,8 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/weth.svg",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "tags": ["wnative"]
+      "tags": ["wnative"],
+      "props": { "wnative": true }
     },
     "0xa9f32a851b1800742e47725da54a09a7ef2556a3": {
       "chainId": "1729",

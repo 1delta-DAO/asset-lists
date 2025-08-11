@@ -213,7 +213,8 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x0000000000000000000000000000000000001010.jpg",
       "assetGroup": "Wrapped BitTorrent::WBTT",
       "currencyId": "Wrapped BitTorrent::WBTT",
-      "tags": ["wnative"]
+      "tags": ["wnative"],
+      "props": { "wnative": true }
     },
     "0x53c56ece35f8cab135e13d6d00499dfc7c07a92e": {
       "chainId": "199",

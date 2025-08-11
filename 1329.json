@@ -55,7 +55,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/38470/thumb/sei.png?1717644025",
       "assetGroup": "SEI",
       "currencyId": "Wrapped SEI::WSEI",
-      "tags": ["coingecko", "wnative", "biconomy-gas-token"]
+      "tags": ["coingecko", "wnative", "biconomy-gas-token"],
+      "props": { "wnative": true }
     },
     "0x805679729df385815c57c24b20f4161bd34b655f": {
       "chainId": "1329",

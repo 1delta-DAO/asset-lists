@@ -754,7 +754,8 @@
       "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
       "assetGroup": "AVAX",
       "currencyId": "Wrapped AVAX::WAVAX",
-      "tags": ["openocean", "coingecko", "debridge", "wnative", "biconomy-gas-token", "AAVE_V3", "NEREUS", "GRANARY"]
+      "tags": ["openocean", "coingecko", "debridge", "wnative", "biconomy-gas-token", "AAVE_V3", "NEREUS", "GRANARY"],
+      "props": { "wnative": true }
     },
     "0x6985884c4392d348587b19cb9eaaf157f13271cd": {
       "chainId": "43114",

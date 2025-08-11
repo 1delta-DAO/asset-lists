@@ -154,7 +154,8 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/one.jpg",
       "assetGroup": "ONE",
       "currencyId": "Wrapped ONE::WONE",
-      "tags": ["openocean", "wnative", "AAVE_V3"]
+      "tags": ["openocean", "wnative", "AAVE_V3"],
+      "props": { "wnative": true }
     },
     "0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f": {
       "chainId": "1666600000",

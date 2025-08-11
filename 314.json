@@ -54,7 +54,8 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x60E1773636CF5E4A227d9AC24F20fEca034ee25A.jpg",
       "assetGroup": "FIL",
       "currencyId": "Wrapped Filecoin::WFIL",
-      "tags": ["wnative"]
+      "tags": ["wnative"],
+      "props": { "wnative": true }
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "314",

@@ -21,7 +21,8 @@
       "logoURI": "https://www.ape.bond/tokenImages/WINJ.png",
       "assetGroup": "Wrapped Injective::WINJ",
       "currencyId": "Wrapped Injective::WINJ",
-      "tags": ["wnative"]
+      "tags": ["wnative"],
+      "props": { "wnative": true }
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "2525",

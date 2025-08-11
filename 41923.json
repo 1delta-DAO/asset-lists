@@ -11,7 +11,8 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/edu.svg",
       "assetGroup": "Wrapped EDU::WEDU",
       "currencyId": "Wrapped EDU::WEDU",
-      "tags": ["wnative", "coingecko"]
+      "tags": ["wnative", "coingecko"],
+      "props": { "wnative": true }
     },
     "0x836d275563bab5e93fd6ca62a95db7065da94342": {
       "chainId": "41923",

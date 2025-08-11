@@ -228,7 +228,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/29276/thumb/wcore.png?1696528228",
       "assetGroup": "CORE",
       "currencyId": "Wrapped CORE::WCORE",
-      "tags": ["coingecko", "COLEND", "COLEND_LSTBTC", "AVALON", "wnative"]
+      "tags": ["coingecko", "COLEND", "COLEND_LSTBTC", "AVALON", "wnative"],
+      "props": { "wnative": true }
     },
     "0xe56016187c0fb36f76c33d0d0b36b47648a42d0a": {
       "chainId": "1116",

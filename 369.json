@@ -10,7 +10,8 @@
       "symbol": "WPLS",
       "assetGroup": "Wrapped Pulse::WPLS",
       "currencyId": "Wrapped Pulse::WPLS",
-      "tags": ["PHIAT", "wnative"]
+      "tags": ["PHIAT", "wnative"],
+      "props": { "wnative": true }
     },
     "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39": {
       "chainId": "369",

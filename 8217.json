@@ -135,7 +135,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/kaia.webp",
       "assetGroup": "KAIA",
       "currencyId": "Wrapped KAIA::WKAIA",
-      "tags": ["wnative", "RHOMBUS", "AVALON", "AVALON_SKAIA"]
+      "tags": ["wnative", "RHOMBUS", "AVALON", "AVALON_SKAIA"],
+      "props": { "wnative": true }
     },
     "0x15d9f3ab1982b0e5a415451259994ff40369f584": {
       "chainId": "8217",

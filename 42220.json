@@ -11,7 +11,8 @@
       "logoURI": "https://raw.githubusercontent.com/ubeswap/default-token-list/master/assets/asset_CELO.png",
       "assetGroup": "Celo (as ERC20)::CELO",
       "currencyId": "Celo (as ERC20)::CELO",
-      "tags": ["coingecko", "wnative", "AAVE_V3", "MOOLA"]
+      "tags": ["coingecko", "wnative", "AAVE_V3", "MOOLA"],
+      "props": { "wnative": true }
     },
     "0x2def4285787d58a2f811af24755a8150622f4361": {
       "chainId": "42220",

@@ -116,7 +116,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/39717/thumb/WETH.PNG?1723732087",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "tags": ["coingecko", "wnative"]
+      "tags": ["coingecko", "wnative"],
+      "props": { "wnative": true }
     },
     "0x618cc6549ddf12de637d46cddadafc0c2951131c": {
       "chainId": "288",
