@@ -52,7 +52,7 @@
       "assetGroup": "ETH",
       "currencyId": "Vault Bridge ETH::vbETH",
       "tags": ["eth", "coingecko", "vault bridge", "bridged"],
-      "props": { "permit": { "type": 1, "version": "1" } }
+      "props": { "permit": { "type": 1, "version": "1" }, "wnative": true }
     },
     "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36": {
       "chainId": "747474",
