@@ -8143,6 +8143,7 @@
       "name": "Wrapped Aave Gnosis GHO",
       "address": "0x58d9acac48a4077e4909181c48decd00e5ba5de4",
       "symbol": "waGnoGHO",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x58d9acac48a4077e4909181c48decd00e5ba5de4.png",
       "assetGroup": "Wrapped Aave Gnosis GHO::waGnoGHO",
       "currencyId": "Wrapped Aave Gnosis GHO::waGnoGHO"
     },
@@ -8154,7 +8155,8 @@
       "symbol": "GHO",
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfc421ad3c883bf9e7c4f42de845c4e4405799e73.png",
       "assetGroup": "GHO",
-      "currencyId": "Gho Token::GHO"
+      "currencyId": "Gho Token::GHO",
+      "tags": ["AAVE_V3"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "100",

@@ -3357,6 +3357,39 @@
       "assetGroup": "Hyperdrive Primary USDe Market::HD-MKT-USDe",
       "currencyId": "Hyperdrive Primary USDe Market::HD-MKT-USDe"
     },
+    "0x866d66f64fb81461903e1e38d998e747ecf35e78": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Reservoir rUSD",
+      "address": "0x866d66f64fb81461903e1e38d998e747ecf35e78",
+      "symbol": "RUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54117/thumb/rusd_bera2.png?1738311629",
+      "assetGroup": "Reservoir rUSD::RUSD",
+      "currencyId": "Reservoir rUSD::RUSD",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x04716db62c085d9e08050fcf6f7d775a03d07720": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Wrapped Savings rUSD",
+      "address": "0x04716db62c085d9e08050fcf6f7d775a03d07720",
+      "symbol": "WSRUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965",
+      "assetGroup": "Wrapped Savings rUSD::WSRUSD",
+      "currencyId": "Wrapped Savings rUSD::WSRUSD",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0xfdd22ce6d1f66bc0ec89b20bf16ccb6670f55a5a": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "Theo Short Duration US Treasury Fund",
+      "address": "0xfdd22ce6d1f66bc0ec89b20bf16ccb6670f55a5a",
+      "symbol": "THBILL",
+      "logoURI": "https://assets.coingecko.com/coins/images/67650/thumb/thBILL.png?1753401034",
+      "assetGroup": "Theo Short Duration US Treasury Fund::THBILL",
+      "currencyId": "Theo Short Duration US Treasury Fund::THBILL",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "999",
       "decimals": 18,

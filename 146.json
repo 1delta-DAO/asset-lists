@@ -2508,7 +2508,30 @@
       "symbol": "sdUSD",
       "logoURI": "https://app.dtrinity.org/dloop/icons/tokens/sdusd.svg",
       "assetGroup": "Staked dUSD::sdUSD",
-      "currencyId": "Staked dUSD::sdUSD"
+      "currencyId": "Staked dUSD::sdUSD",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x09d4214c03d01f49544c0448dbe3a27f768f2b34": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Reservoir rUSD",
+      "address": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+      "symbol": "RUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54117/thumb/rusd_bera2.png?1738311629",
+      "assetGroup": "Reservoir rUSD::RUSD",
+      "currencyId": "Reservoir rUSD::RUSD",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x4809010926aec940b550d34a46a52739f996d75d": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Wrapped Savings rUSD",
+      "address": "0x4809010926aec940b550d34a46a52739f996d75d",
+      "symbol": "WSRUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965",
+      "assetGroup": "Wrapped Savings rUSD::WSRUSD",
+      "currencyId": "Wrapped Savings rUSD::WSRUSD",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "146",

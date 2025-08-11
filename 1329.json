@@ -504,6 +504,61 @@
       "currencyId": "Froggy::FROG",
       "tags": ["coingecko"]
     },
+    "0x8a200a13c1321fdc7f6c7afba1494e1949426efd": {
+      "chainId": "1329",
+      "decimals": 18,
+      "name": "Kura Liquid Staking Token",
+      "address": "0x8a200a13c1321fdc7f6c7afba1494e1949426efd",
+      "symbol": "K33",
+      "logoURI": "https://assets.coingecko.com/coins/images/68084/thumb/k33.png?1754720923",
+      "assetGroup": "Kura Liquid Staking Token::K33",
+      "currencyId": "Kura Liquid Staking Token::K33",
+      "tags": ["coingecko"]
+    },
+    "0x4b416a45e1f26a53d2ee82a50a4c7d7be9eda9e4": {
+      "chainId": "1329",
+      "decimals": 18,
+      "name": "Kura",
+      "address": "0x4b416a45e1f26a53d2ee82a50a4c7d7be9eda9e4",
+      "symbol": "KURA",
+      "logoURI": "https://assets.coingecko.com/coins/images/68082/thumb/kura.png?1754720200",
+      "assetGroup": "Kura::KURA",
+      "currencyId": "Kura::KURA",
+      "tags": ["coingecko"]
+    },
+    "0x60c230c38af6d86b0277a98a1caeaa345a7b061f": {
+      "chainId": "1329",
+      "decimals": 8,
+      "name": "Fiamma BTC",
+      "address": "0x60c230c38af6d86b0277a98a1caeaa345a7b061f",
+      "symbol": "FIABTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/68062/thumb/fiabtc_200-200.png?1754642511",
+      "assetGroup": "Fiamma BTC::FIABTC",
+      "currencyId": "Fiamma BTC::FIABTC",
+      "tags": ["coingecko"]
+    },
+    "0x09d4214c03d01f49544c0448dbe3a27f768f2b34": {
+      "chainId": "1329",
+      "decimals": 18,
+      "name": "Reservoir rUSD",
+      "address": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+      "symbol": "RUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54117/thumb/rusd_bera2.png?1738311629",
+      "assetGroup": "Reservoir rUSD::RUSD",
+      "currencyId": "Reservoir rUSD::RUSD",
+      "tags": ["coingecko"]
+    },
+    "0x4809010926aec940b550d34a46a52739f996d75d": {
+      "chainId": "1329",
+      "decimals": 18,
+      "name": "Wrapped Savings rUSD",
+      "address": "0x4809010926aec940b550d34a46a52739f996d75d",
+      "symbol": "WSRUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965",
+      "assetGroup": "Wrapped Savings rUSD::WSRUSD",
+      "currencyId": "Wrapped Savings rUSD::WSRUSD",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "1329",
       "decimals": 18,
@@ -549,7 +604,8 @@
     "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
     "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
     "0x372b2dc06478aa2c8182eee0f12ea0e9a15e2913",
-    "0xe15fc38f6d8c56af07bbcbe3baf5708a2bf42392"
+    "0xe15fc38f6d8c56af07bbcbe3baf5708a2bf42392",
+    "0x8a200a13c1321fdc7f6c7afba1494e1949426efd"
   ],
   "bridgeTokens": [
     "0x160345fc359604fc6e70e3c5facbde5f7a9342d8",

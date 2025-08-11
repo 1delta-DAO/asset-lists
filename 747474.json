@@ -51,7 +51,7 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/vbeth.svg",
       "assetGroup": "ETH",
       "currencyId": "Vault Bridge ETH::vbETH",
-      "tags": ["eth", "coingecko", "vault bridge", "bridged"],
+      "tags": ["eth", "coingecko", "vault bridge", "bridged", "wnative"],
       "props": { "permit": { "type": 1, "version": "1" }, "wnative": true }
     },
     "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36": {
@@ -274,6 +274,38 @@
       "currencyId": "Kitsu::KITSU",
       "tags": ["coingecko"]
     },
+    "0x6c16e26013f2431e8b2e1ba7067ecccad0db6c52": {
+      "chainId": "747474",
+      "decimals": 18,
+      "name": "Jito Staked SOL",
+      "address": "0x6c16e26013f2431e8b2e1ba7067ecccad0db6c52",
+      "symbol": "JitoSOL",
+      "logoURI": "https://cdn.morpho.org/assets/logos/jitosol.svg",
+      "assetGroup": "Jito Staked SOL::JitoSOL",
+      "currencyId": "Jito Staked SOL::JitoSOL"
+    },
+    "0x09d4214c03d01f49544c0448dbe3a27f768f2b34": {
+      "chainId": "747474",
+      "decimals": 18,
+      "name": "Reservoir rUSD",
+      "address": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+      "symbol": "RUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54117/thumb/rusd_bera2.png?1738311629",
+      "assetGroup": "Reservoir rUSD::RUSD",
+      "currencyId": "Reservoir rUSD::RUSD",
+      "tags": ["coingecko"]
+    },
+    "0x4809010926aec940b550d34a46a52739f996d75d": {
+      "chainId": "747474",
+      "decimals": 18,
+      "name": "Wrapped Savings rUSD",
+      "address": "0x4809010926aec940b550d34a46a52739f996d75d",
+      "symbol": "WSRUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965",
+      "assetGroup": "Wrapped Savings rUSD::WSRUSD",
+      "currencyId": "Wrapped Savings rUSD::WSRUSD",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "747474",
       "decimals": 18,
@@ -283,8 +315,15 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "assetGroup": "ETH",
       "currencyId": "Ether::ETH",
-      "tags": ["native", "wrapped:0x4200000000000000000000000000000000000006"],
-      "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" }
+      "tags": [
+        "native",
+        "eth",
+        "coingecko",
+        "vault bridge",
+        "bridged",
+        "wrapped:0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62"
+      ],
+      "props": { "isNative": true, "wrapped": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62" }
     }
   },
   "mainTokens": [
@@ -299,7 +338,9 @@
     "0x9b8df6e244526ab5f6e6400d331db28c8fdddb55",
     "0xecac9c5f704e954931349da37f60e39f515c11c1",
     "0xfba805659e5050544e185cccdf592fd77f8c7210",
-    "0x4772d2e014f9fc3a820c444e3313968e9a5c8121"
+    "0x4772d2e014f9fc3a820c444e3313968e9a5c8121",
+    "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+    "0x4809010926aec940b550d34a46a52739f996d75d"
   ],
   "bridgeTokens": [
     "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",

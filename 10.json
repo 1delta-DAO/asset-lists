@@ -6163,6 +6163,17 @@
       "currencyId": "Frankencoin::ZCHF",
       "tags": ["biconomy-gas-token", "debridge"]
     },
+    "0x8d010bf9c26881788b4e6bf5fd1bdc358c8f90b8": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Polkadot Bridged DOT",
+      "address": "0x8d010bf9c26881788b4e6bf5fd1bdc358c8f90b8",
+      "symbol": "DOT",
+      "logoURI": "https://assets.coingecko.com/coins/images/54481/thumb/polkadot-new-dot-logo.png?1753881726",
+      "assetGroup": "Polkadot Bridged DOT::DOT",
+      "currencyId": "Polkadot Bridged DOT::DOT",
+      "tags": ["bridged", "biconomy-gas-token", "debridge"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "10",
       "decimals": 18,

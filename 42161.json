@@ -22090,7 +22090,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/646/thumb/pL1VuXm.png?1696501840",
       "assetGroup": "iExec RLC::RLC",
       "currencyId": "iExec RLC::RLC",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x83a32f2818b6754f7d58af0e559fa9d3fa99ce13": {
       "chainId": "42161",
@@ -22101,7 +22101,62 @@
       "logoURI": "https://assets.coingecko.com/coins/images/50444/thumb/LayerK.png?1727770132",
       "assetGroup": "LayerK::LYK",
       "currencyId": "LayerK::LYK",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+    },
+    "0x9eeab030a17528efb2ac0f81d76fab8754e461bd": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "EACCToken",
+      "address": "0x9eeab030a17528efb2ac0f81d76fab8754e461bd",
+      "symbol": "EACC",
+      "logoURI": "https://assets.coingecko.com/coins/images/68080/thumb/eacc-200x200.png?1754718353",
+      "assetGroup": "EACCToken::EACC",
+      "currencyId": "EACCToken::EACC",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0xecc5f868add75f4ff9fd00bbbde12c35ba2c9c89": {
+      "chainId": "42161",
+      "decimals": 8,
+      "name": "BOB",
+      "address": "0xecc5f868add75f4ff9fd00bbbde12c35ba2c9c89",
+      "symbol": "BOB",
+      "logoURI": "https://assets.coingecko.com/coins/images/50202/thumb/bob-128.png?1726277750",
+      "assetGroup": "BOB::BOB",
+      "currencyId": "BOB::BOB",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x09d4214c03d01f49544c0448dbe3a27f768f2b34": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Reservoir rUSD",
+      "address": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+      "symbol": "RUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54117/thumb/rusd_bera2.png?1738311629",
+      "assetGroup": "Reservoir rUSD::RUSD",
+      "currencyId": "Reservoir rUSD::RUSD",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x4809010926aec940b550d34a46a52739f996d75d": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Wrapped Savings rUSD",
+      "address": "0x4809010926aec940b550d34a46a52739f996d75d",
+      "symbol": "WSRUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965",
+      "assetGroup": "Wrapped Savings rUSD::WSRUSD",
+      "currencyId": "Wrapped Savings rUSD::WSRUSD",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0xfdd22ce6d1f66bc0ec89b20bf16ccb6670f55a5a": {
+      "chainId": "42161",
+      "decimals": 6,
+      "name": "Theo Short Duration US Treasury Fund",
+      "address": "0xfdd22ce6d1f66bc0ec89b20bf16ccb6670f55a5a",
+      "symbol": "THBILL",
+      "logoURI": "https://assets.coingecko.com/coins/images/67650/thumb/thBILL.png?1753401034",
+      "assetGroup": "Theo Short Duration US Treasury Fund::THBILL",
+      "currencyId": "Theo Short Duration US Treasury Fund::THBILL",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "42161",

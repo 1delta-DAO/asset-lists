@@ -49980,7 +49980,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67917/thumb/darkstar.png?1754290621",
       "assetGroup": "DarkStar::DARK",
       "currencyId": "DarkStar::DARK",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x76b2a23f2a94c894fa9eb6c60688e8e38bd95e9a": {
       "chainId": "56",
@@ -50002,7 +50002,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67807/thumb/CRSR-tokenicon.png?1753917104",
       "assetGroup": "Paimon Cursor SPV Token::CRSR",
       "currencyId": "Paimon Cursor SPV Token::CRSR",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x6e02ef88fd22390449d1610d1b8154b401134444": {
       "chainId": "56",
@@ -50068,7 +50068,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67793/thumb/XAI-tokenicon.png?1753886127",
       "assetGroup": "Paimon xAI SPV Token::XAI",
       "currencyId": "Paimon xAI SPV Token::XAI",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x13578c16e3dc631737e93ed6bbef428faa9bbaf7": {
       "chainId": "56",
@@ -50079,7 +50079,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67794/thumb/STRP-tokenicon.png?1753886320",
       "assetGroup": "Paimon Stripe SPV Token::STRP",
       "currencyId": "Paimon Stripe SPV Token::STRP",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xc6ec7898b0bdf5ac41fbabdbe19250ca4917c5a6": {
       "chainId": "56",
@@ -50101,7 +50101,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67782/thumb/uniart.png?1753824586",
       "assetGroup": "UNIART::UNIART",
       "currencyId": "UNIART::UNIART",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x9f1e9ff0a8fb0079df477092111f3efe38798a8d": {
       "chainId": "56",
@@ -50200,7 +50200,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66990/thumb/20250731-155008.png?1754017249",
       "assetGroup": "Cycle Network::CYC",
       "currencyId": "Cycle Network::CYC",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x19ed254efa5e061d28d84650891a3db2a9940c16": {
       "chainId": "56",
@@ -50211,7 +50211,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67428/thumb/sup.jpg?1752741211",
       "assetGroup": "Superp::SUP",
       "currencyId": "Superp::SUP",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x5b3829ebdf126fadf69b829bbc000e5c749265af": {
       "chainId": "56",
@@ -50244,7 +50244,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55230/thumb/yImUvwK__400x400.png?1744857671",
       "assetGroup": "Towns::TOWNS",
       "currencyId": "Towns::TOWNS",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x61fac5f038515572d6f42d4bcb6b581642753d50": {
       "chainId": "56",
@@ -50255,7 +50255,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67941/thumb/infinit.jpg?1754390008",
       "assetGroup": "Infinit::IN",
       "currencyId": "Infinit::IN",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x6a06fc86f278f5b3a4e7fd9297fd59fc2dc99999": {
       "chainId": "56",
@@ -50288,7 +50288,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67920/thumb/fire.png?1754295834",
       "assetGroup": "Fireverse::FIR",
       "currencyId": "Fireverse::FIR",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x8b704e7833fa459f2a0da323bd727b39ae7e3608": {
       "chainId": "56",
@@ -50332,6 +50332,204 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67905/thumb/succinct-logo.png?1754228574",
       "assetGroup": "Succinct::PROVE",
       "currencyId": "Succinct::PROVE",
+      "tags": ["coingecko"]
+    },
+    "0x85e92213fca84aa99adbac5049d8426984d64444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "BSTR",
+      "address": "0x85e92213fca84aa99adbac5049d8426984d64444",
+      "symbol": "BSTR",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x85E92213fcA84aA99AdbAC5049D8426984D64444.png",
+      "assetGroup": "BSTR::BSTR",
+      "currencyId": "BSTR::BSTR",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x9bafc8d4b487cebff201721702507a3e2c67ad79": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Kava",
+      "address": "0x9bafc8d4b487cebff201721702507a3e2c67ad79",
+      "symbol": "KAVA",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x9BAFC8d4b487cEBff201721702507a3E2C67ad79.png",
+      "assetGroup": "Kava::KAVA",
+      "currencyId": "Kava::KAVA",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x79f294ae9c9257c1a8070fd8ed66bace24bc39d2": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "BIGCOUSIN",
+      "address": "0x79f294ae9c9257c1a8070fd8ed66bace24bc39d2",
+      "symbol": "BIG",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x79f294ae9C9257C1a8070Fd8ed66Bace24bc39D2.png",
+      "assetGroup": "BIGCOUSIN::BIG",
+      "currencyId": "BIGCOUSIN::BIG",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x0510101ec6c49d24ed911f0011e22a0d697ee776": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "TaleX",
+      "address": "0x0510101ec6c49d24ed911f0011e22a0d697ee776",
+      "symbol": "X",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x0510101Ec6c49D24ED911F0011E22A0D697Ee776.png",
+      "assetGroup": "TaleX::X",
+      "currencyId": "TaleX::X",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x0a73d885cdd66adf69c6d64c0609e55c527db2be": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Sidekick",
+      "address": "0x0a73d885cdd66adf69c6d64c0609e55c527db2be",
+      "symbol": "K",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x0A73d885CdD66adF69c6D64c0609e55C527dB2BE.png",
+      "assetGroup": "Sidekick::K",
+      "currencyId": "Sidekick::K",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xc011c17e3cba7f16df7fde8c8cbe7c2511a07783": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PARAD",
+      "address": "0xc011c17e3cba7f16df7fde8c8cbe7c2511a07783",
+      "symbol": "PRD",
+      "logoURI": "https://assets.coingecko.com/coins/images/68055/thumb/prd_logo_200x200.jpg?1754637351",
+      "assetGroup": "PARAD::PRD",
+      "currencyId": "PARAD::PRD",
+      "tags": ["coingecko"]
+    },
+    "0xda033999bb6165e64db01bd9be14b40f5653092e": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "Orizon",
+      "address": "0xda033999bb6165e64db01bd9be14b40f5653092e",
+      "symbol": "ORI",
+      "logoURI": "https://assets.coingecko.com/coins/images/68075/thumb/IMG_0623.jpeg?1754716760",
+      "assetGroup": "Orizon::ORI",
+      "currencyId": "Orizon::ORI",
+      "tags": ["coingecko"]
+    },
+    "0xea7ebde332834c636e788819d0dcdc94ec936200": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Pre SP",
+      "address": "0xea7ebde332834c636e788819d0dcdc94ec936200",
+      "symbol": "PSP",
+      "logoURI": "https://assets.coingecko.com/coins/images/68077/thumb/PSP_Logo.png?1754717350",
+      "assetGroup": "Pre SP::PSP",
+      "currencyId": "Pre SP::PSP",
+      "tags": ["coingecko"]
+    },
+    "0x1aecab957bad4c6e36dd29c3d3bb470c4c29768a": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Baby Shark Universe",
+      "address": "0x1aecab957bad4c6e36dd29c3d3bb470c4c29768a",
+      "symbol": "BSU",
+      "logoURI": "https://assets.coingecko.com/coins/images/68088/thumb/bsu.jpg?1754723091",
+      "assetGroup": "Baby Shark Universe::BSU",
+      "currencyId": "Baby Shark Universe::BSU",
+      "tags": ["coingecko"]
+    },
+    "0x17eafd08994305d8ace37efb82f1523177ec70ee": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "USDA",
+      "address": "0x17eafd08994305d8ace37efb82f1523177ec70ee",
+      "symbol": "USDA",
+      "logoURI": "https://assets.coingecko.com/coins/images/68094/thumb/IMG_0632.jpeg?1754724345",
+      "assetGroup": "USDA::USDA::56::0",
+      "currencyId": "USDA::USDA",
+      "tags": ["coingecko"]
+    },
+    "0x3d16a8bd2806dc7907abbe36911cff779474a694": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Aeonix Network",
+      "address": "0x3d16a8bd2806dc7907abbe36911cff779474a694",
+      "symbol": "ONIX",
+      "logoURI": "https://assets.coingecko.com/coins/images/68101/thumb/onix_token_image_cg.png?1754754205",
+      "assetGroup": "Aeonix Network::ONIX",
+      "currencyId": "Aeonix Network::ONIX",
+      "tags": ["coingecko"]
+    },
+    "0x82f0508797a7167add9274b3aee4293158a8645e": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Tordess",
+      "address": "0x82f0508797a7167add9274b3aee4293158a8645e",
+      "symbol": "TDS",
+      "logoURI": "https://assets.coingecko.com/coins/images/68013/thumb/Logo.jpg?1754584174",
+      "assetGroup": "Tordess::TDS",
+      "currencyId": "Tordess::TDS",
+      "tags": ["coingecko"]
+    },
+    "0xa7536d3c8b307f9c208ec84b54af0e38a4839a5e": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Mahina Token",
+      "address": "0xa7536d3c8b307f9c208ec84b54af0e38a4839a5e",
+      "symbol": "MHNA",
+      "logoURI": "https://assets.coingecko.com/coins/images/68110/thumb/Mahina_Logo_CG.png?1754804518",
+      "assetGroup": "Mahina Token::MHNA",
+      "currencyId": "Mahina Token::MHNA",
+      "tags": ["coingecko"]
+    },
+    "0x001208f7f53f78db2b32e1c68198d3e8f320aa23": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "APDAO",
+      "address": "0x001208f7f53f78db2b32e1c68198d3e8f320aa23",
+      "symbol": "APD",
+      "logoURI": "https://assets.coingecko.com/coins/images/68129/thumb/IMG_0673.jpeg?1754888582",
+      "assetGroup": "APDAO::APD",
+      "currencyId": "APDAO::APD",
+      "tags": ["coingecko"]
+    },
+    "0x4809010926aec940b550d34a46a52739f996d75d": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Wrapped Savings rUSD",
+      "address": "0x4809010926aec940b550d34a46a52739f996d75d",
+      "symbol": "WSRUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965",
+      "assetGroup": "Wrapped Savings rUSD::WSRUSD",
+      "currencyId": "Wrapped Savings rUSD::WSRUSD",
+      "tags": ["coingecko"]
+    },
+    "0xfc5a743271672e91d77f0176e5cea581fbd5d834": {
+      "chainId": "56",
+      "decimals": 6,
+      "name": "SatLayer",
+      "address": "0xfc5a743271672e91d77f0176e5cea581fbd5d834",
+      "symbol": "SLAY",
+      "logoURI": "https://assets.coingecko.com/coins/images/54811/thumb/SLAY-200x200.png?1754713489",
+      "assetGroup": "SatLayer::SLAY",
+      "currencyId": "SatLayer::SLAY",
+      "tags": ["coingecko"]
+    },
+    "0x09d4214c03d01f49544c0448dbe3a27f768f2b34": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Reservoir rUSD",
+      "address": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+      "symbol": "RUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54117/thumb/rusd_bera2.png?1738311629",
+      "assetGroup": "Reservoir rUSD::RUSD",
+      "currencyId": "Reservoir rUSD::RUSD",
+      "tags": ["coingecko"]
+    },
+    "0x825459139c897d769339f295e962396c4f9e4a4d": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "GameBuild",
+      "address": "0x825459139c897d769339f295e962396c4f9e4a4d",
+      "symbol": "GAME",
+      "logoURI": "https://assets.coingecko.com/coins/images/37789/thumb/GameBuild_Logo_Asset_250808_Icon_Blue_White.png?1754630312",
+      "assetGroup": "GameBuild::GAME",
+      "currencyId": "GameBuild::GAME",
       "tags": ["coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {

@@ -9003,7 +9003,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/34370/thumb/grams.png?1704795270",
       "assetGroup": "Gram Silver::GRAMS",
       "currencyId": "Gram Silver::GRAMS",
-      "tags": ["debridge", "coingecko"]
+      "tags": ["debridge", "coingecko", "biconomy-gas-token"]
     },
     "0x108468885eba2932901d409af6bf97bf9c3eda50": {
       "chainId": "43114",
@@ -9014,7 +9014,72 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67969/thumb/CDK_Orange-Black.png?1754475994",
       "assetGroup": "CDK::CDK",
       "currencyId": "CDK::CDK",
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+    },
+    "0x4cb85e39d5622af604405077a589c3078f3a59b2": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Crocodile Finance",
+      "address": "0x4cb85e39d5622af604405077a589c3078f3a59b2",
+      "symbol": "CROC",
+      "logoURI": "https://assets.coingecko.com/coins/images/68008/thumb/croc.jpg?1754554693",
+      "assetGroup": "Crocodile Finance::CROC",
+      "currencyId": "Crocodile Finance::CROC",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x7cc9c624efa62c2decf0a2a028f7885ecea95a17": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "SPACEM WORLD",
+      "address": "0x7cc9c624efa62c2decf0a2a028f7885ecea95a17",
+      "symbol": "SPCM",
+      "logoURI": "https://assets.coingecko.com/coins/images/52188/thumb/photo_2025-02-16_16-38-04.jpg?1739768335",
+      "assetGroup": "SPACEM WORLD::SPCM",
+      "currencyId": "SPACEM WORLD::SPCM",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x09d4214c03d01f49544c0448dbe3a27f768f2b34": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Reservoir rUSD",
+      "address": "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+      "symbol": "RUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54117/thumb/rusd_bera2.png?1738311629",
+      "assetGroup": "Reservoir rUSD::RUSD",
+      "currencyId": "Reservoir rUSD::RUSD",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x4809010926aec940b550d34a46a52739f996d75d": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Wrapped Savings rUSD",
+      "address": "0x4809010926aec940b550d34a46a52739f996d75d",
+      "symbol": "WSRUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965",
+      "assetGroup": "Wrapped Savings rUSD::WSRUSD",
+      "currencyId": "Wrapped Savings rUSD::WSRUSD",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x451532f1c9eb7e4dc2d493db52b682c0acf6f5ef": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Suzaku Token",
+      "address": "0x451532f1c9eb7e4dc2d493db52b682c0acf6f5ef",
+      "symbol": "SUZ",
+      "logoURI": "https://assets.coingecko.com/coins/images/68103/thumb/suzaku-logo-black-200.png?1754802307",
+      "assetGroup": "Suzaku Token::SUZ",
+      "currencyId": "Suzaku Token::SUZ",
       "tags": ["coingecko", "debridge"]
+    },
+    "0x67ff8e68d2175794374e4c3c5974019226d2a30c": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "SPACEM WORLD",
+      "address": "0x67ff8e68d2175794374e4c3c5974019226d2a30c",
+      "symbol": "SPCM",
+      "assetGroup": "SPACEM WORLD::SPCM::43114::0",
+      "currencyId": "SPACEM WORLD::SPCM",
+      "tags": ["debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "43114",
