@@ -6383,7 +6383,8 @@
       "symbol": "waAvaUSDT",
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x59933c571d200dc6a7fd1cda22495db442082e34.png",
       "assetGroup": "Wrapped Aave Avalanche USDT::waAvaUSDT",
-      "currencyId": "Wrapped Aave Avalanche USDT::waAvaUSDT"
+      "currencyId": "Wrapped Aave Avalanche USDT::waAvaUSDT",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0xe1bfc96d95badcb10ff013cb0c9c6c737ca07009": {
       "chainId": "43114",
@@ -6393,7 +6394,8 @@
       "symbol": "waAvaUSDC",
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe1bfc96d95badcb10ff013cb0c9c6c737ca07009.png",
       "assetGroup": "Wrapped Aave Avalanche USDC::waAvaUSDC",
-      "currencyId": "Wrapped Aave Avalanche USDC::waAvaUSDC"
+      "currencyId": "Wrapped Aave Avalanche USDC::waAvaUSDC",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x7d0394f8898fba73836bf12bd606228887705895": {
       "chainId": "43114",
@@ -6403,7 +6405,8 @@
       "symbol": "waAvaSAVAX",
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7d0394f8898fba73836bf12bd606228887705895.png",
       "assetGroup": "Wrapped Aave Avalanche SAVAX::waAvaSAVAX",
-      "currencyId": "Wrapped Aave Avalanche SAVAX::waAvaSAVAX"
+      "currencyId": "Wrapped Aave Avalanche SAVAX::waAvaSAVAX",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0xd7da0de6ef4f51d6206bf2a35fcd2030f54c3f7b": {
       "chainId": "43114",
@@ -6413,7 +6416,8 @@
       "symbol": "waAvaWAVAX",
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd7da0de6ef4f51d6206bf2a35fcd2030f54c3f7b.png",
       "assetGroup": "Wrapped Aave Avalanche WAVAX::waAvaWAVAX",
-      "currencyId": "Wrapped Aave Avalanche WAVAX::waAvaWAVAX"
+      "currencyId": "Wrapped Aave Avalanche WAVAX::waAvaWAVAX",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x2d324fd1ca86d90f61b0965d2db2f86d22ea4b74": {
       "chainId": "43114",
@@ -6423,7 +6427,8 @@
       "symbol": "waAvaBTC.b",
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2d324fd1ca86d90f61b0965d2db2f86d22ea4b74.png",
       "assetGroup": "Wrapped Aave Avalanche BTC.b::waAvaBTC.b",
-      "currencyId": "Wrapped Aave Avalanche BTC.b::waAvaBTC.b"
+      "currencyId": "Wrapped Aave Avalanche BTC.b::waAvaBTC.b",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0xdfd2b2437a94108323045c282ff1916de5ac6af7": {
       "chainId": "43114",
@@ -8484,7 +8489,8 @@
       "symbol": "weETH",
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa3d68b74bf0528fdd07263c60d6488749044914b.png",
       "assetGroup": "WEETH",
-      "currencyId": "Wrapped eETH::weETH"
+      "currencyId": "Wrapped eETH::weETH",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x51b47b3013863c52ca28d603de3c2d7a5fef50b9": {
       "chainId": "43114",
@@ -9070,7 +9076,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68103/thumb/suzaku-logo-black-200.png?1754802307",
       "assetGroup": "Suzaku Token::SUZ",
       "currencyId": "Suzaku Token::SUZ",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x67ff8e68d2175794374e4c3c5974019226d2a30c": {
       "chainId": "43114",
@@ -9081,6 +9087,60 @@
       "assetGroup": "SPACEM WORLD::SPCM::43114::0",
       "currencyId": "SPACEM WORLD::SPCM",
       "tags": ["debridge"]
+    },
+    "0xacc37335ad138c1d60ea7a805ac0558fa49c5317": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "RED GOGLZ",
+      "address": "0xacc37335ad138c1d60ea7a805ac0558fa49c5317",
+      "symbol": "RGOGLZ",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xacc37335ad138c1d60ea7a805ac0558fa49c5317.png",
+      "assetGroup": "RED GOGLZ::RGOGLZ",
+      "currencyId": "RED GOGLZ::RGOGLZ"
+    },
+    "0x8e48d9f6d73e9805df87dcf63f7b35ae04079713": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "KIGU",
+      "address": "0x8e48d9f6d73e9805df87dcf63f7b35ae04079713",
+      "symbol": "KIGU",
+      "logoURI": "https://assets.coingecko.com/coins/images/68164/thumb/KIGU.png?1754990777",
+      "assetGroup": "KIGU::KIGU",
+      "currencyId": "KIGU::KIGU",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x5e817f2abccb9095585d26c2a3ce234a440574fc": {
+      "chainId": "43114",
+      "decimals": 6,
+      "name": "Frontier Stable Token",
+      "address": "0x5e817f2abccb9095585d26c2a3ce234a440574fc",
+      "symbol": "FRNT",
+      "logoURI": "https://assets.coingecko.com/coins/images/68284/thumb/FRNT_200.png?1755242496",
+      "assetGroup": "Frontier Stable Token::FRNT",
+      "currencyId": "Frontier Stable Token::FRNT",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x8835a2f66a7aaccb297cb985831a616b75e2e16c": {
+      "chainId": "43114",
+      "decimals": 6,
+      "name": "EUR P",
+      "address": "0x8835a2f66a7aaccb297cb985831a616b75e2e16c",
+      "symbol": "EUROP",
+      "logoURI": "https://assets.coingecko.com/coins/images/52132/thumb/europ-symbol-rgb.jpg?1732634862",
+      "assetGroup": "EUR P::EUROP",
+      "currencyId": "EUR P::EUROP",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0xf9fb20b8e097904f0ab7d12e9dbee88f2dcd0f16": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Stable Coin",
+      "address": "0xf9fb20b8e097904f0ab7d12e9dbee88f2dcd0f16",
+      "symbol": "SBC",
+      "logoURI": "https://assets.coingecko.com/coins/images/68416/thumb/sbc-mark.png?1755691990",
+      "assetGroup": "Stable Coin::SBC",
+      "currencyId": "Stable Coin::SBC",
+      "tags": ["coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "43114",

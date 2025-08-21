@@ -339,12 +339,12 @@
     "0x0000000000000000000000000000000000000000": {
       "chainId": "252",
       "address": "0x0000000000000000000000000000000000000000",
-      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/frxeth.webp",
-      "currencyId": "Frax Ether::frxETH",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/frax.webp",
+      "currencyId": "Frax::FRAX",
       "tags": ["native"],
       "props": { "isNative": true },
-      "name": "Frax Ether",
-      "symbol": "frxETH",
+      "name": "Frax",
+      "symbol": "FRAX",
       "decimals": 18
     }
   },

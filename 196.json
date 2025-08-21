@@ -186,6 +186,50 @@
       "currencyId": "rsETHWrapper::wrsETH",
       "tags": ["ZEROLEND"]
     },
+    "0x0cc24c51bf89c00c5affbfcf5e856c25ecbdb48e": {
+      "chainId": "196",
+      "decimals": 18,
+      "name": "XDOG",
+      "address": "0x0cc24c51bf89c00c5affbfcf5e856c25ecbdb48e",
+      "symbol": "XDOG",
+      "logoURI": "https://assets.coingecko.com/coins/images/68279/thumb/xdog.png?1755236450",
+      "assetGroup": "XDOG::XDOG",
+      "currencyId": "XDOG::XDOG",
+      "tags": ["coingecko"]
+    },
+    "0x095c1a875b985be6e2c86b2cae0b66a3df702e6a": {
+      "chainId": "196",
+      "decimals": 18,
+      "name": "Xwawa",
+      "address": "0x095c1a875b985be6e2c86b2cae0b66a3df702e6a",
+      "symbol": "XWAWA",
+      "logoURI": "https://assets.coingecko.com/coins/images/68280/thumb/xwawa.png?1755238661",
+      "assetGroup": "Xwawa::XWAWA",
+      "currencyId": "Xwawa::XWAWA",
+      "tags": ["coingecko"]
+    },
+    "0x4122a43daecd13cfb2543ad339470fd87bc11111": {
+      "chainId": "196",
+      "decimals": 18,
+      "name": "OKIE",
+      "address": "0x4122a43daecd13cfb2543ad339470fd87bc11111",
+      "symbol": "OKIE",
+      "logoURI": "https://assets.coingecko.com/coins/images/68426/thumb/WechatIMG1259.jpg?1755714905",
+      "assetGroup": "OKIE::OKIE",
+      "currencyId": "OKIE::OKIE",
+      "tags": ["coingecko"]
+    },
+    "0x069f3bb2a286ec9ce9f4dadba5e1e9e1d80ba27f": {
+      "chainId": "196",
+      "decimals": 18,
+      "name": "ZenAI",
+      "address": "0x069f3bb2a286ec9ce9f4dadba5e1e9e1d80ba27f",
+      "symbol": "ZEN",
+      "logoURI": "https://assets.coingecko.com/coins/images/68391/thumb/5170bca9056aac86650a534c238ab210.jpg?1755586983",
+      "assetGroup": "ZenAI::ZEN",
+      "currencyId": "ZenAI::ZEN",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "196",
       "decimals": 18,
@@ -215,7 +259,11 @@
     "0x80137510979822322193fc997d400d5a6c747bf7",
     "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf",
     "0x74b7f16337b8972027f6196a17a631ac6de26d22",
-    "0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1"
+    "0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1",
+    "0x0cc24c51bf89c00c5affbfcf5e856c25ecbdb48e",
+    "0x095c1a875b985be6e2c86b2cae0b66a3df702e6a",
+    "0x4122a43daecd13cfb2543ad339470fd87bc11111",
+    "0x069f3bb2a286ec9ce9f4dadba5e1e9e1d80ba27f"
   ],
   "bridgeTokens": [
     "0x1e4a5963abfd975d8c9021ce480b42188849d41d",

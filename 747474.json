@@ -164,7 +164,7 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/btck.svg",
       "assetGroup": "Bitcoin on Katana::BTCK",
       "currencyId": "Bitcoin on Katana::BTCK",
-      "tags": ["btc"]
+      "tags": ["btc", "coingecko"]
     },
     "0x9893989433e7a383cb313953e4c2365107dc19a7": {
       "chainId": "747474",
@@ -282,7 +282,8 @@
       "symbol": "JitoSOL",
       "logoURI": "https://cdn.morpho.org/assets/logos/jitosol.svg",
       "assetGroup": "Jito Staked SOL::JitoSOL",
-      "currencyId": "Jito Staked SOL::JitoSOL"
+      "currencyId": "Jito Staked SOL::JitoSOL",
+      "tags": ["coingecko"]
     },
     "0x09d4214c03d01f49544c0448dbe3a27f768f2b34": {
       "chainId": "747474",
@@ -341,7 +342,9 @@
     "0xfba805659e5050544e185cccdf592fd77f8c7210",
     "0x4772d2e014f9fc3a820c444e3313968e9a5c8121",
     "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
-    "0x4809010926aec940b550d34a46a52739f996d75d"
+    "0x4809010926aec940b550d34a46a52739f996d75d",
+    "0xb0f70c0bd6fd87dbeb7c10dc692a2a6106817072",
+    "0x6c16e26013f2431e8b2e1ba7067ecccad0db6c52"
   ],
   "bridgeTokens": [
     "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",

@@ -176,7 +176,8 @@
       "symbol": "OpenUSDT",
       "logoURI": "https://static.debank.com/image/celo_token/logo_url/0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189/57033d27afe3975bf4d498799a8bc396.png",
       "assetGroup": "Super USDT::OpenUSDT",
-      "currencyId": "Super USDT::OpenUSDT"
+      "currencyId": "Super USDT::OpenUSDT",
+      "tags": ["coingecko"]
     },
     "0x5bff88ca1442c2496f7e475e9e7786383bc070c0": {
       "chainId": "57073",
@@ -272,6 +273,17 @@
       "currencyId": "Bert::BERT",
       "tags": ["coingecko"]
     },
+    "0x0606fc632ee812ba970af72f8489baaa443c4b98": {
+      "chainId": "57073",
+      "decimals": 18,
+      "name": "ANITA",
+      "address": "0x0606fc632ee812ba970af72f8489baaa443c4b98",
+      "symbol": "ANITA",
+      "logoURI": "https://assets.coingecko.com/coins/images/68173/thumb/_L_L.png?1754996486",
+      "assetGroup": "ANITA::ANITA",
+      "currencyId": "ANITA::ANITA",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "57073",
       "decimals": 18,
@@ -305,7 +317,9 @@
     "0x53eb0098d09b8d1008f382bbd2a5d4f649111710",
     "0xe343167631d89b6ffc58b88d6b7fb0228795491d",
     "0x7160644365e7011fa96ce60706743b434df32690",
-    "0x62c99fac20b33b5423fdf9226179e973a8353e36"
+    "0x62c99fac20b33b5423fdf9226179e973a8353e36",
+    "0x0606fc632ee812ba970af72f8489baaa443c4b98",
+    "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189"
   ],
   "bridgeTokens": [
     "0xf1815bd50389c46847f0bda824ec8da914045d14",

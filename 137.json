@@ -2338,7 +2338,8 @@
       "symbol": "GMEE",
       "logoURI": "https://assets.coingecko.com/coins/images/14716/large/gmee-200x200.png?1621827468",
       "assetGroup": "GMEE",
-      "currencyId": "GAMEE::GMEE"
+      "currencyId": "GAMEE::GMEE",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x5ffd62d3c3ee2e81c00a7b9079fb248e7df024a8": {
       "chainId": "137",
@@ -2518,7 +2519,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/25445/large/hop.png?1665541677",
       "assetGroup": "HOP",
       "currencyId": "Hop Protocol::HOP",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x6ccbf3627b2c83afef05bf2f035e7f7b210fe30d": {
       "chainId": "137",
@@ -2666,7 +2668,8 @@
       "symbol": "INFI",
       "logoURI": "https://assets.coingecko.com/coins/images/13727/large/logo_%287%29.png?1611210296",
       "assetGroup": "INFI",
-      "currencyId": "Insured Finance::INFI"
+      "currencyId": "Insured Finance::INFI",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x4e8dc2149eac3f3def36b1c281ea466338249371": {
       "chainId": "137",
@@ -18789,8 +18792,10 @@
       "name": "Stable Coin",
       "address": "0xfdcc3dd6671eab0709a4c0f3f53de9a333d80798",
       "symbol": "SBC",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/68416/large/sbc-mark.png?1755691990",
       "assetGroup": "Stable Coin::SBC",
-      "currencyId": "Stable Coin::SBC"
+      "currencyId": "Stable Coin::SBC",
+      "tags": ["debridge"]
     },
     "0x53d76f967de13e7f95e90196438dce695ecfa957": {
       "chainId": "137",
@@ -23449,7 +23454,8 @@
       "symbol": "PHT",
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe75220cb014dfb2d354bb59be26d7458bb8d0706.png",
       "assetGroup": "PHT Stablecoin::PHT",
-      "currencyId": "PHT Stablecoin::PHT"
+      "currencyId": "PHT Stablecoin::PHT",
+      "tags": ["biconomy-gas-token", "debridge"]
     },
     "0x32dfe9b08826c24296f494ec1831ee7ceb45e4a6": {
       "chainId": "137",
@@ -27024,6 +27030,28 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68091/thumb/Logo_FITtoken_.png?1754723761",
       "assetGroup": "FITtoken::FIT",
       "currencyId": "FITtoken::FIT",
+      "tags": ["biconomy-gas-token", "debridge"]
+    },
+    "0x5e817f2abccb9095585d26c2a3ce234a440574fc": {
+      "chainId": "137",
+      "decimals": 6,
+      "name": "Frontier Stable Token",
+      "address": "0x5e817f2abccb9095585d26c2a3ce234a440574fc",
+      "symbol": "FRNT",
+      "logoURI": "https://assets.coingecko.com/coins/images/68284/thumb/FRNT_200.png?1755242496",
+      "assetGroup": "Frontier Stable Token::FRNT",
+      "currencyId": "Frontier Stable Token::FRNT",
+      "tags": ["biconomy-gas-token", "debridge"]
+    },
+    "0xe9f1f4a18bbeff4f7726adba962bdc2ce3d193c1": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Auriax",
+      "address": "0xe9f1f4a18bbeff4f7726adba962bdc2ce3d193c1",
+      "symbol": "ARX",
+      "logoURI": "https://assets.coingecko.com/coins/images/68364/thumb/logo_%282%29.png?1755510835",
+      "assetGroup": "Auriax::ARX",
+      "currencyId": "Auriax::ARX",
       "tags": ["biconomy-gas-token", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {

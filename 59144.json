@@ -1333,7 +1333,7 @@
       "logoURI": "https://static.debank.com/image/linea_token/logo_url/0x880a3ae90f989030708a529abd841589053c1dc2/bbe94f1908261c0e3d35cafbe9fdbd3e.png",
       "assetGroup": "Beaver Coin::BEAVER",
       "currencyId": "Beaver Coin::BEAVER",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x9b4971ac84054597eded7dc7b4b7e8a0c90753b5": {
       "chainId": "59144",
@@ -1836,6 +1836,50 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68009/standard/etherex.jpg",
       "assetGroup": "Etherex::REX",
       "currencyId": "Etherex::REX",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0xb1afd04774c02ae84692619448b08ba79f19b1ff": {
+      "chainId": "59144",
+      "decimals": 18,
+      "name": "Frax Ether",
+      "address": "0xb1afd04774c02ae84692619448b08ba79f19b1ff",
+      "symbol": "FRXETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/28284/thumb/frxETH_icon.png?1696527284",
+      "assetGroup": "FRXETH",
+      "currencyId": "Frax Ether::FRXETH",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0xe4eeb461ad1e4ef8b8ef71a33694ccd84af051c4": {
+      "chainId": "59144",
+      "decimals": 18,
+      "name": "Etherex Liquid Staking Token",
+      "address": "0xe4eeb461ad1e4ef8b8ef71a33694ccd84af051c4",
+      "symbol": "REX33",
+      "logoURI": "https://assets.coingecko.com/coins/images/68282/thumb/rex33.png?1755242075",
+      "assetGroup": "Etherex Liquid Staking Token::REX33",
+      "currencyId": "Etherex Liquid Staking Token::REX33",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x8cf881799e3b5ab24271a9b66b6ca2b0e575b1ef": {
+      "chainId": "59144",
+      "decimals": 18,
+      "name": "Fantom Bomb",
+      "address": "0x8cf881799e3b5ab24271a9b66b6ca2b0e575b1ef",
+      "symbol": "FBOMB",
+      "logoURI": "https://assets.coingecko.com/coins/images/24109/thumb/fBomb_Brandmark_BlackBlue_%282%29.png?1751872081",
+      "assetGroup": "FBOMB",
+      "currencyId": "Fantom Bomb::FBOMB",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x12bbdc004a0e9085ff94df1717336ecbc9f9e5fe": {
+      "chainId": "59144",
+      "decimals": 18,
+      "name": "RustyAI",
+      "address": "0x12bbdc004a0e9085ff94df1717336ecbc9f9e5fe",
+      "symbol": "RUSTY",
+      "logoURI": "https://assets.coingecko.com/coins/images/68367/thumb/photo_2025-08-16_14-15-37.jpg?1755513766",
+      "assetGroup": "RustyAI::RUSTY",
+      "currencyId": "RustyAI::RUSTY",
       "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {

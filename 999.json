@@ -370,7 +370,7 @@
       "logoURI": "https://raw.githubusercontent.com/HyperSwapX/hyperswap-token-list/refs/heads/main/assets/sUSDe.jpg",
       "assetGroup": "SUSDE",
       "currencyId": "Staked USDe::sUSDe",
-      "tags": ["coingecko", "biconomy-gas-token", "debridge", "HYPERLEND"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge", "HYPERLEND", "HYPURRFI"]
     },
     "0x7280cc1f369ab574c35cb8a8d0885e9486e3b733": {
       "chainId": "999",
@@ -516,7 +516,8 @@
       "symbol": "RLP",
       "logoURI": "https://framerusercontent.com/assets/KbnTGRuywVYGcbJ0XHErNL5g.png",
       "assetGroup": "Resolv Liquidity Provider Token::RLP",
-      "currencyId": "Resolv Liquidity Provider Token::RLP"
+      "currencyId": "Resolv Liquidity Provider Token::RLP",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x266a2491f782eb03b369760889fff8785efb3e46": {
       "chainId": "999",
@@ -624,7 +625,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66560/standard/XAUt0_Token_Icon_Gold.png?1749747942",
       "assetGroup": "Tether Gold::XAUT0",
       "currencyId": "Tether Gold::XAUT0",
-      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge", "HYPURRFI"]
     },
     "0xb50a96253abdf803d85efcdce07ad8becbc52bd5": {
       "chainId": "999",
@@ -1879,7 +1880,8 @@
       "symbol": "mcUSR",
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd3a9cb7312b9c29113290758f5adfe12304cd16a.png",
       "assetGroup": "MEV Capital USR::mcUSR",
-      "currencyId": "MEV Capital USR::mcUSR"
+      "currencyId": "MEV Capital USR::mcUSR",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0xfe4e34f6edba9b2fba06014046690cd558aca0fe": {
       "chainId": "999",
@@ -1896,8 +1898,10 @@
       "name": "Liquid HYPE Yield",
       "address": "0x441794d6a8f9a3739f5d4e98a728937b33489d29",
       "symbol": "liquidHYPE",
+      "logoURI": "https://assets.coingecko.com/coins/images/68444/thumb/liquidhype.png?1755770963",
       "assetGroup": "Liquid HYPE Yield::liquidHYPE",
-      "currencyId": "Liquid HYPE Yield::liquidHYPE"
+      "currencyId": "Liquid HYPE Yield::liquidHYPE",
+      "tags": ["coingecko", "debridge"]
     },
     "0x6365b1d514342015ce623e488bf74af4a8772c8f": {
       "chainId": "999",
@@ -1996,7 +2000,8 @@
       "address": "0xc6db60de1d4074a27aae405c0fba791fb9ad468c",
       "symbol": "conhHYPEKHYPE",
       "assetGroup": "Concentrated Hyperbloom Prjx HYPE-KHYPE::conhHYPEKHYPE",
-      "currencyId": "Concentrated Hyperbloom Prjx HYPE-KHYPE::conhHYPEKHYPE"
+      "currencyId": "Concentrated Hyperbloom Prjx HYPE-KHYPE::conhHYPEKHYPE",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xe8336a19a4fe2582073d8a89054673e44fed6ef9": {
       "chainId": "999",
@@ -2005,7 +2010,8 @@
       "address": "0xe8336a19a4fe2582073d8a89054673e44fed6ef9",
       "symbol": "conhHYPEUSDT",
       "assetGroup": "Concentrated Hyperbloom Hyperswap HYPE-USDT::conhHYPEUSDT",
-      "currencyId": "Concentrated Hyperbloom Hyperswap HYPE-USDT::conhHYPEUSDT"
+      "currencyId": "Concentrated Hyperbloom Hyperswap HYPE-USDT::conhHYPEUSDT",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xeed7c0a94f094b9f1a2ec607315b9064b47c41ba": {
       "chainId": "999",
@@ -2014,7 +2020,8 @@
       "address": "0xeed7c0a94f094b9f1a2ec607315b9064b47c41ba",
       "symbol": "conhHYPELHYPE",
       "assetGroup": "Concentrated Hybra HYPE-LHYPE::conhHYPELHYPE",
-      "currencyId": "Concentrated Hybra HYPE-LHYPE::conhHYPELHYPE"
+      "currencyId": "Concentrated Hybra HYPE-LHYPE::conhHYPELHYPE",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xf3e4824f891abf4cddc62fbf6be4552e1a5622e0": {
       "chainId": "999",
@@ -2023,7 +2030,8 @@
       "address": "0xf3e4824f891abf4cddc62fbf6be4552e1a5622e0",
       "symbol": "conhHYPEUSDT",
       "assetGroup": "Concentrated Hyperbloom Prjx HYPE-USDT::conhHYPEUSDT",
-      "currencyId": "Concentrated Hyperbloom Prjx HYPE-USDT::conhHYPEUSDT"
+      "currencyId": "Concentrated Hyperbloom Prjx HYPE-USDT::conhHYPEUSDT",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x09c9bcf56026283b69022d3bd5829aa3ba92538d": {
       "chainId": "999",
@@ -2041,7 +2049,8 @@
       "address": "0x21d2de7206d5ce3e201da14010ebaa32858b89da",
       "symbol": "conhHYPEUSDT",
       "assetGroup": "Concentrated Hybra HYPE-USDT::conhHYPEUSDT",
-      "currencyId": "Concentrated Hybra HYPE-USDT::conhHYPEUSDT"
+      "currencyId": "Concentrated Hybra HYPE-USDT::conhHYPEUSDT",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x6611f7b027a9855ad7ca7dfad091ea7e684a885d": {
       "chainId": "999",
@@ -2059,7 +2068,8 @@
       "address": "0x98312d3c6d900678bf0667a45b2aadad92045d78",
       "symbol": "cowHybraHyperevmfeUSD-USDT0",
       "assetGroup": "Cow Hybra Hyperevm feUSD-USDT0::cowHybraHyperevmfeUSD-USDT0",
-      "currencyId": "Cow Hybra Hyperevm feUSD-USDT0::cowHybraHyperevmfeUSD-USDT0"
+      "currencyId": "Cow Hybra Hyperevm feUSD-USDT0::cowHybraHyperevmfeUSD-USDT0",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xb5ee887259f792e613edbd20dde8970c10fefda1": {
       "chainId": "999",
@@ -2097,7 +2107,8 @@
       "address": "0x0055bf4c5585b749e7f6eb10c85808880304dc74",
       "symbol": "conhUSDHLUSDT",
       "assetGroup": "Concentrated Hyperbloom USDHL-USDT::conhUSDHLUSDT",
-      "currencyId": "Concentrated Hyperbloom USDHL-USDT::conhUSDHLUSDT"
+      "currencyId": "Concentrated Hyperbloom USDHL-USDT::conhUSDHLUSDT",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xc007b460999b33d237d89eed29266191ce4b393e": {
       "chainId": "999",
@@ -2106,7 +2117,8 @@
       "address": "0xc007b460999b33d237d89eed29266191ce4b393e",
       "symbol": "cowHyperswapHyperevmPURR-WHYPE",
       "assetGroup": "Cow Hyperswap Hyperevm PURR-WHYPE::cowHyperswapHyperevmPURR-WHYPE",
-      "currencyId": "Cow Hyperswap Hyperevm PURR-WHYPE::cowHyperswapHyperevmPURR-WHYPE"
+      "currencyId": "Cow Hyperswap Hyperevm PURR-WHYPE::cowHyperswapHyperevmPURR-WHYPE",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xdc9d2c590145f3a006fe899d175f93e97dc3a516": {
       "chainId": "999",
@@ -2115,7 +2127,8 @@
       "address": "0xdc9d2c590145f3a006fe899d175f93e97dc3a516",
       "symbol": "cowHybraHyperevmUSDT0-WHYPE",
       "assetGroup": "Cow Hybra Hyperevm USDT0-WHYPE::cowHybraHyperevmUSDT0-WHYPE",
-      "currencyId": "Cow Hybra Hyperevm USDT0-WHYPE::cowHybraHyperevmUSDT0-WHYPE"
+      "currencyId": "Cow Hybra Hyperevm USDT0-WHYPE::cowHybraHyperevmUSDT0-WHYPE",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x064fe2bb8e5fcdb1b3213489a3972a21393000fc": {
       "chainId": "999",
@@ -2124,7 +2137,8 @@
       "address": "0x064fe2bb8e5fcdb1b3213489a3972a21393000fc",
       "symbol": "UETH-undefined-LBP",
       "assetGroup": "test small & big toggle Liquidity Bootstrapping Pool::UETH-undefined-LBP",
-      "currencyId": "test small & big toggle Liquidity Bootstrapping Pool::UETH-undefined-LBP"
+      "currencyId": "test small & big toggle Liquidity Bootstrapping Pool::UETH-undefined-LBP",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x33998d6117aea2aacf1b026841ce0cc749adb572": {
       "chainId": "999",
@@ -2133,7 +2147,8 @@
       "address": "0x33998d6117aea2aacf1b026841ce0cc749adb572",
       "symbol": "conhHYPEPURR",
       "assetGroup": "Concentrated Hyperbloom Prjx HYPE-PURR::conhHYPEPURR",
-      "currencyId": "Concentrated Hyperbloom Prjx HYPE-PURR::conhHYPEPURR"
+      "currencyId": "Concentrated Hyperbloom Prjx HYPE-PURR::conhHYPEPURR",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x4a7797647193346a7a9cc08a5839ec68c6206748": {
       "chainId": "999",
@@ -2142,7 +2157,8 @@
       "address": "0x4a7797647193346a7a9cc08a5839ec68c6206748",
       "symbol": "conhUSDHLUSDT",
       "assetGroup": "Concentrated Hyperbloom Prjx USDHL-USDT::conhUSDHLUSDT",
-      "currencyId": "Concentrated Hyperbloom Prjx USDHL-USDT::conhUSDHLUSDT"
+      "currencyId": "Concentrated Hyperbloom Prjx USDHL-USDT::conhUSDHLUSDT",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x6f2a771f1190d0d5c757022932c278fe4d9a3453": {
       "chainId": "999",
@@ -2151,7 +2167,8 @@
       "address": "0x6f2a771f1190d0d5c757022932c278fe4d9a3453",
       "symbol": "UETH-WHYPE-LBP",
       "assetGroup": "test hype metadata save Liquidity Bootstrapping Pool::UETH-WHYPE-LBP",
-      "currencyId": "test hype metadata save Liquidity Bootstrapping Pool::UETH-WHYPE-LBP"
+      "currencyId": "test hype metadata save Liquidity Bootstrapping Pool::UETH-WHYPE-LBP",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x2084839396c56bef5a25360b0000ab40103c9db9": {
       "chainId": "999",
@@ -2160,7 +2177,8 @@
       "address": "0x2084839396c56bef5a25360b0000ab40103c9db9",
       "symbol": "cowHybraHyperevmLHYPE-WHYPE",
       "assetGroup": "Cow Hybra Hyperevm LHYPE-WHYPE::cowHybraHyperevmLHYPE-WHYPE",
-      "currencyId": "Cow Hybra Hyperevm LHYPE-WHYPE::cowHybraHyperevmLHYPE-WHYPE"
+      "currencyId": "Cow Hybra Hyperevm LHYPE-WHYPE::cowHybraHyperevmLHYPE-WHYPE",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xb54802a68bde17c44ecff88ae2b26dd0f5559c43": {
       "chainId": "999",
@@ -2178,7 +2196,8 @@
       "address": "0xa036417eeceadca725d8106400560961d0c216d5",
       "symbol": "conhHYPEPURR",
       "assetGroup": "Concentrated Hyperbloom HYPE-PURR::conhHYPEPURR",
-      "currencyId": "Concentrated Hyperbloom HYPE-PURR::conhHYPEPURR"
+      "currencyId": "Concentrated Hyperbloom HYPE-PURR::conhHYPEPURR",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x3bfd9b2bc7f536cdc1179371af9d46abd1a457be": {
       "chainId": "999",
@@ -2205,7 +2224,8 @@
       "address": "0x76c8dae55cd103b9865c6f056c8da915c8a98c4c",
       "symbol": "cowHybraHyperevmfeUSD-WHYPE",
       "assetGroup": "Cow Hybra Hyperevm feUSD-WHYPE::cowHybraHyperevmfeUSD-WHYPE",
-      "currencyId": "Cow Hybra Hyperevm feUSD-WHYPE::cowHybraHyperevmfeUSD-WHYPE"
+      "currencyId": "Cow Hybra Hyperevm feUSD-WHYPE::cowHybraHyperevmfeUSD-WHYPE",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x8ef30c5ce9a460bfae82f1f039f7c5e5427d7018": {
       "chainId": "999",
@@ -2223,7 +2243,8 @@
       "address": "0xa64a727d215f265f2b44ef018fae926ddc6b5ba0",
       "symbol": "conhHYPELHYPE",
       "assetGroup": "Concentrated Hyperbloom Prjx HYPE-LHYPE::conhHYPELHYPE",
-      "currencyId": "Concentrated Hyperbloom Prjx HYPE-LHYPE::conhHYPELHYPE"
+      "currencyId": "Concentrated Hyperbloom Prjx HYPE-LHYPE::conhHYPELHYPE",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xd60bd6a2771fb1201edadb5b0a5c5b1134c44120": {
       "chainId": "999",
@@ -2241,7 +2262,8 @@
       "address": "0x34c7c50e44ed7ab6360c2fe18f15e66083e5ec29",
       "symbol": "conhUSDHLHYPE",
       "assetGroup": "Concentrated Hyperbloom USDHL-HYPE::conhUSDHLHYPE",
-      "currencyId": "Concentrated Hyperbloom USDHL-HYPE::conhUSDHLHYPE"
+      "currencyId": "Concentrated Hyperbloom USDHL-HYPE::conhUSDHLHYPE",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x35d5854e6697396129395ba0a41149d4057174c2": {
       "chainId": "999",
@@ -2286,7 +2308,8 @@
       "address": "0xe42163b71b69aa4509aa15b06722b1f0484332e3",
       "symbol": "conhLHYPEUSDXL",
       "assetGroup": "Concentrated Hyperbloom LHYPE-USDXL::conhLHYPEUSDXL",
-      "currencyId": "Concentrated Hyperbloom LHYPE-USDXL::conhLHYPEUSDXL"
+      "currencyId": "Concentrated Hyperbloom LHYPE-USDXL::conhLHYPEUSDXL",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x56adaf90c4d932a53259e7b7c819d55c7b0a71a4": {
       "chainId": "999",
@@ -2295,7 +2318,8 @@
       "address": "0x56adaf90c4d932a53259e7b7c819d55c7b0a71a4",
       "symbol": "hbUSDT-gtUSDT0-gtUSDe",
       "assetGroup": "Boosted hbUSDT-gtUSDT0-gtUSDe::hbUSDT-gtUSDT0-gtUSDe",
-      "currencyId": "Boosted hbUSDT-gtUSDT0-gtUSDe::hbUSDT-gtUSDT0-gtUSDe"
+      "currencyId": "Boosted hbUSDT-gtUSDT0-gtUSDe::hbUSDT-gtUSDT0-gtUSDe",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x5a6ab9a47115bb4e3492b20a4d9eed3397d88ade": {
       "chainId": "999",
@@ -2304,7 +2328,8 @@
       "address": "0x5a6ab9a47115bb4e3492b20a4d9eed3397d88ade",
       "symbol": "conhUBTCUETH",
       "assetGroup": "Concentrated Hyperbloom UBTC-UETH::conhUBTCUETH",
-      "currencyId": "Concentrated Hyperbloom UBTC-UETH::conhUBTCUETH"
+      "currencyId": "Concentrated Hyperbloom UBTC-UETH::conhUBTCUETH",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x63a642dcd91ab4d579ec45181945df1e1e95d6b4": {
       "chainId": "999",
@@ -2322,7 +2347,8 @@
       "address": "0x6bd8de0fed17dc0c0a82b9fe5522b129ecaebdbd",
       "symbol": "50mcHYPE-50gtuETH",
       "assetGroup": "Balancer Weighted mcHYPE-gtuETH::50mcHYPE-50gtuETH",
-      "currencyId": "Balancer Weighted mcHYPE-gtuETH::50mcHYPE-50gtuETH"
+      "currencyId": "Balancer Weighted mcHYPE-gtuETH::50mcHYPE-50gtuETH",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xa5b39551f301343b5f6dd1047d4c55082a60f14f": {
       "chainId": "999",
@@ -2331,7 +2357,8 @@
       "address": "0xa5b39551f301343b5f6dd1047d4c55082a60f14f",
       "symbol": "50gtUSDT0-50mcHYPE",
       "assetGroup": "Balancer Weighted gtUSDT0-mcHYPE::50gtUSDT0-50mcHYPE",
-      "currencyId": "Balancer Weighted gtUSDT0-mcHYPE::50gtUSDT0-50mcHYPE"
+      "currencyId": "Balancer Weighted gtUSDT0-mcHYPE::50gtUSDT0-50mcHYPE",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x3fa145cad2c8108a68cfc803a8e1ae246c36df3e": {
       "chainId": "999",
@@ -2342,7 +2369,8 @@
       "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x3fa145cad2c8108a68cfc803a8e1ae246c36df3e/05d8a20c229784ed139f81195a6bbd3b.png",
       "assetGroup": "HyperStrategy::HSTR",
       "currencyId": "HyperStrategy::HSTR",
-      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x4abfd796ae875dce0ff718395385fef474373b3a": {
       "chainId": "999",
@@ -2351,7 +2379,8 @@
       "address": "0x4abfd796ae875dce0ff718395385fef474373b3a",
       "symbol": "d2HYPE_sub",
       "assetGroup": "d2HYPE_sub::d2HYPE_sub",
-      "currencyId": "d2HYPE_sub::d2HYPE_sub"
+      "currencyId": "d2HYPE_sub::d2HYPE_sub",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xdcbf1a40d40cc705ab6a00fe69c52b84ab346dcd": {
       "chainId": "999",
@@ -2360,7 +2389,8 @@
       "address": "0xdcbf1a40d40cc705ab6a00fe69c52b84ab346dcd",
       "symbol": "conhHYPEUBTC",
       "assetGroup": "Concentrated Hyperbloom Hyperswap HYPE-UBTC::conhHYPEUBTC",
-      "currencyId": "Concentrated Hyperbloom Hyperswap HYPE-UBTC::conhHYPEUBTC"
+      "currencyId": "Concentrated Hyperbloom Hyperswap HYPE-UBTC::conhHYPEUBTC",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x26f9f2f619e44f00af9f04c98da5ef2394939715": {
       "chainId": "999",
@@ -2369,7 +2399,8 @@
       "address": "0x26f9f2f619e44f00af9f04c98da5ef2394939715",
       "symbol": "conhHYPELHYPE",
       "assetGroup": "Concentrated Hyperbloom Hyperswap HYPE-LHYPE::conhHYPELHYPE",
-      "currencyId": "Concentrated Hyperbloom Hyperswap HYPE-LHYPE::conhHYPELHYPE"
+      "currencyId": "Concentrated Hyperbloom Hyperswap HYPE-LHYPE::conhHYPELHYPE",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x9b59486571545fbe73ab797a29e6bd3871d6b5d5": {
       "chainId": "999",
@@ -2378,7 +2409,8 @@
       "address": "0x9b59486571545fbe73ab797a29e6bd3871d6b5d5",
       "symbol": "conhFEUSDHYPE",
       "assetGroup": "Concentrated Hyperbloom Hyperswap FEUSD-HYPE::conhFEUSDHYPE",
-      "currencyId": "Concentrated Hyperbloom Hyperswap FEUSD-HYPE::conhFEUSDHYPE"
+      "currencyId": "Concentrated Hyperbloom Hyperswap FEUSD-HYPE::conhFEUSDHYPE",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xd704254eb350e0d3baecd194d095862267897ae0": {
       "chainId": "999",
@@ -2388,7 +2420,9 @@
       "symbol": "stathHyperEvmWHYPEv2",
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd704254eb350e0d3baecd194d095862267897ae0.png",
       "assetGroup": "Static HyperLend HyperEVM WHYPE v2::stathHyperEvmWHYPEv2",
-      "currencyId": "Static HyperLend HyperEVM WHYPE v2::stathHyperEvmWHYPEv2"
+      "currencyId": "Static HyperLend HyperEVM WHYPE v2::stathHyperEvmWHYPEv2",
+      "props": { "permit": { "type": 1, "version": "1" } },
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x0ab8aae3335ed4b373a33d9023b6a6585b149d33": {
       "chainId": "999",
@@ -2398,7 +2432,8 @@
       "symbol": "hHyperEvmwstHYPE",
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0ab8aae3335ed4b373a33d9023b6a6585b149d33.png",
       "assetGroup": "HyperLend HyperEVM wstHYPE::hHyperEvmwstHYPE",
-      "currencyId": "HyperLend HyperEVM wstHYPE::hHyperEvmwstHYPE"
+      "currencyId": "HyperLend HyperEVM wstHYPE::hHyperEvmwstHYPE",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x6fcd93da1e2a288ae68bb1d4f856d8d598e8b861": {
       "chainId": "999",
@@ -2417,7 +2452,8 @@
       "address": "0x89d3e1d6531595d59344d1a4e633b2826f2abe3b",
       "symbol": "mcUSR-gtUSDT0",
       "assetGroup": "Balancer mcUSR-gtUSDT0::mcUSR-gtUSDT0",
-      "currencyId": "Balancer mcUSR-gtUSDT0::mcUSR-gtUSDT0"
+      "currencyId": "Balancer mcUSR-gtUSDT0::mcUSR-gtUSDT0",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xa5bec44e681e8138dfd4925f3023a54eddc99ea2": {
       "chainId": "999",
@@ -2426,7 +2462,8 @@
       "address": "0xa5bec44e681e8138dfd4925f3023a54eddc99ea2",
       "symbol": "feUSDhl-feUSDT0",
       "assetGroup": "Balancer feUSDhl-feUSDT0::feUSDhl-feUSDT0",
-      "currencyId": "Balancer feUSDhl-feUSDT0::feUSDhl-feUSDT0"
+      "currencyId": "Balancer feUSDhl-feUSDT0::feUSDhl-feUSDT0",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xf3d39bee685e98392f25d3ecb1391f8e3e8a6c8d": {
       "chainId": "999",
@@ -2435,7 +2472,8 @@
       "address": "0xf3d39bee685e98392f25d3ecb1391f8e3e8a6c8d",
       "symbol": "hbUSDT-gtUSDT0-gtUSDe",
       "assetGroup": "Balancer hbUSDT-gtUSDT0-gtUSDe::hbUSDT-gtUSDT0-gtUSDe",
-      "currencyId": "Balancer hbUSDT-gtUSDT0-gtUSDe::hbUSDT-gtUSDT0-gtUSDe"
+      "currencyId": "Balancer hbUSDT-gtUSDT0-gtUSDe::hbUSDT-gtUSDT0-gtUSDe",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x11a8729501b9318aa6bea5316353dc5eb2378d80": {
       "chainId": "999",
@@ -2444,7 +2482,8 @@
       "address": "0x11a8729501b9318aa6bea5316353dc5eb2378d80",
       "symbol": "50gtUSDT0-50mcHYPE",
       "assetGroup": "Balancer Weighted gtUSDT0-mcHYPE::50gtUSDT0-50mcHYPE::999::0",
-      "currencyId": "Balancer Weighted gtUSDT0-mcHYPE::50gtUSDT0-50mcHYPE"
+      "currencyId": "Balancer Weighted gtUSDT0-mcHYPE::50gtUSDT0-50mcHYPE",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x24b7b6fb9acd69f8bd6c64efc0664056eb612af9": {
       "chainId": "999",
@@ -2453,7 +2492,8 @@
       "address": "0x24b7b6fb9acd69f8bd6c64efc0664056eb612af9",
       "symbol": "cowHyperswapHyperevmLIQD-WHYPE",
       "assetGroup": "Cow Hyperswap Hyperevm LIQD-WHYPE::cowHyperswapHyperevmLIQD-WHYPE",
-      "currencyId": "Cow Hyperswap Hyperevm LIQD-WHYPE::cowHyperswapHyperevmLIQD-WHYPE"
+      "currencyId": "Cow Hyperswap Hyperevm LIQD-WHYPE::cowHyperswapHyperevmLIQD-WHYPE",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x2dc02134ee3b2ee3da099d2854871404f968cf82": {
       "chainId": "999",
@@ -2462,7 +2502,8 @@
       "address": "0x2dc02134ee3b2ee3da099d2854871404f968cf82",
       "symbol": "LHYPE-stathHyperWHYPEv2",
       "assetGroup": "Balancer LHYPE-stathHyperWHYPEv2::LHYPE-stathHyperWHYPEv2",
-      "currencyId": "Balancer LHYPE-stathHyperWHYPEv2::LHYPE-stathHyperWHYPEv2"
+      "currencyId": "Balancer LHYPE-stathHyperWHYPEv2::LHYPE-stathHyperWHYPEv2",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x219a11fb0043e5f076b466051732939ef2ffce61": {
       "chainId": "999",
@@ -2545,7 +2586,8 @@
       "symbol": "MC_USDT0",
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x3bcc0a5a66bb5bdceef5dd8a659a4ec75f3834d8.png",
       "assetGroup": "MEV Capital USDT0::MC_USDT0",
-      "currencyId": "MEV Capital USDT0::MC_USDT0"
+      "currencyId": "MEV Capital USDT0::MC_USDT0",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0xa0c1c328cbe6a51cd981c829d9fc477e48460eab": {
       "chainId": "999",
@@ -2565,7 +2607,8 @@
       "logoURI": "https://raw.githubusercontent.com/gluexprotocol/public_assets/refs/heads/main/tokens/hyperevm/0x4DE03cA1F02591B717495cfA19913aD56a2f5858/logo.png",
       "assetGroup": "Hyperwave HYPE::hwHYPE",
       "currencyId": "Hyperwave HYPE::hwHYPE",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xd6eb81136884713e843936843e286fd2a85a205a": {
       "chainId": "999",
@@ -2605,7 +2648,8 @@
       "address": "0xccbe36b1f57265920ab96692421c80063957a238",
       "symbol": "LAMINAR-V2",
       "assetGroup": "Laminar V2::LAMINAR-V2",
-      "currencyId": "Laminar V2::LAMINAR-V2"
+      "currencyId": "Laminar V2::LAMINAR-V2",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xc6860694b6bb878a33571e9c34a293abf0d5be9f": {
       "chainId": "999",
@@ -2668,7 +2712,8 @@
       "address": "0x56b15cf098daf18a387ef8160cae39d29525db3c",
       "symbol": "33UETH-33UBTC-33WHYPE",
       "assetGroup": "33UETH 33UBTC 33WHYPE::33UETH-33UBTC-33WHYPE",
-      "currencyId": "33UETH 33UBTC 33WHYPE::33UETH-33UBTC-33WHYPE"
+      "currencyId": "33UETH 33UBTC 33WHYPE::33UETH-33UBTC-33WHYPE",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x6d2abfd5ad9eecdcc7bd6b2a9256e86266288931": {
       "chainId": "999",
@@ -2677,7 +2722,8 @@
       "address": "0x6d2abfd5ad9eecdcc7bd6b2a9256e86266288931",
       "symbol": "UETH-WHYPE-LBP",
       "assetGroup": "test  Liquidity Bootstrapping Pool::UETH-WHYPE-LBP",
-      "currencyId": "test  Liquidity Bootstrapping Pool::UETH-WHYPE-LBP"
+      "currencyId": "test  Liquidity Bootstrapping Pool::UETH-WHYPE-LBP",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x24d797f23cee77fda1100ff24c90caed3491d61f": {
       "chainId": "999",
@@ -2714,7 +2760,8 @@
       "address": "0xa92e88b74d8bfe8a34ca66ff0fa4ba6996807715",
       "symbol": "conhHYPELHYPE",
       "assetGroup": "Concentrated Hyperbloom HYPE-LHYPE::conhHYPELHYPE",
-      "currencyId": "Concentrated Hyperbloom HYPE-LHYPE::conhHYPELHYPE"
+      "currencyId": "Concentrated Hyperbloom HYPE-LHYPE::conhHYPELHYPE",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x182b318a8f1c7c92a7884e469442a610b0e69ed2": {
       "chainId": "999",
@@ -2750,7 +2797,8 @@
       "address": "0x1eafe4f5a09bd5a5c63bc01dc039afcf73e53478",
       "symbol": "hbUSDT-MC_USDT0-gtUSDe",
       "assetGroup": "Balancer hbUSDT-MC_USDT0-gtUSDe::hbUSDT-MC_USDT0-gtUSDe",
-      "currencyId": "Balancer hbUSDT-MC_USDT0-gtUSDe::hbUSDT-MC_USDT0-gtUSDe"
+      "currencyId": "Balancer hbUSDT-MC_USDT0-gtUSDe::hbUSDT-MC_USDT0-gtUSDe",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x8207c7541ce31b38dbd46890f2a832cf1ef7c512": {
       "chainId": "999",
@@ -2759,7 +2807,8 @@
       "address": "0x8207c7541ce31b38dbd46890f2a832cf1ef7c512",
       "symbol": "mcUSR-MC_USDT0",
       "assetGroup": "Balancer mcUSR-MC_USDT0::mcUSR-MC_USDT0",
-      "currencyId": "Balancer mcUSR-MC_USDT0::mcUSR-MC_USDT0"
+      "currencyId": "Balancer mcUSR-MC_USDT0::mcUSR-MC_USDT0",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x8f71bf4434ed4e3b7c4dacac6c246d3e76641d5c": {
       "chainId": "999",
@@ -2778,7 +2827,8 @@
       "address": "0xb2432ac4bb415716c106dca066a13c1a0ab3cc23",
       "symbol": "LAMINAR-V2",
       "assetGroup": "Laminar V2::LAMINAR-V2::999::0",
-      "currencyId": "Laminar V2::LAMINAR-V2"
+      "currencyId": "Laminar V2::LAMINAR-V2",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xe1edf4cbc8bd1e78fd56d358e012ec6ea65130b9": {
       "chainId": "999",
@@ -2796,7 +2846,8 @@
       "address": "0x6763b125cd2aff99b3701b2061e5fd6584cb9b2b",
       "symbol": "feUSD-feUSDhl",
       "assetGroup": "feUSD feUSDhl::feUSD-feUSDhl",
-      "currencyId": "feUSD feUSDhl::feUSD-feUSDhl"
+      "currencyId": "feUSD feUSDhl::feUSD-feUSDhl",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x793117aa151d87077dbcb23862fa9a38bce84946": {
       "chainId": "999",
@@ -2805,7 +2856,8 @@
       "address": "0x793117aa151d87077dbcb23862fa9a38bce84946",
       "symbol": "50MC_USDT0-50mcHYPE",
       "assetGroup": "Balancer MC_USDT0-mcHYPE::50MC_USDT0-50mcHYPE",
-      "currencyId": "Balancer MC_USDT0-mcHYPE::50MC_USDT0-50mcHYPE"
+      "currencyId": "Balancer MC_USDT0-mcHYPE::50MC_USDT0-50mcHYPE",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xfcd3b0a9434dc65c31650c4b6ee11a66db8093bd": {
       "chainId": "999",
@@ -2823,7 +2875,8 @@
       "address": "0x626f0e7597f912c4f9a9e1d893b4bc0bfd51b33a",
       "symbol": "hTestHyperEvmtest-wstHYPE",
       "assetGroup": "HyperLend Test HyperEVM test-wstHYPE::hTestHyperEvmtest-wstHYPE",
-      "currencyId": "HyperLend Test HyperEVM test-wstHYPE::hTestHyperEvmtest-wstHYPE"
+      "currencyId": "HyperLend Test HyperEVM test-wstHYPE::hTestHyperEvmtest-wstHYPE",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x95d401f8f4e2544e8a6f6988110a9e45b80f9393": {
       "chainId": "999",
@@ -2832,7 +2885,8 @@
       "address": "0x95d401f8f4e2544e8a6f6988110a9e45b80f9393",
       "symbol": "feUSD-feUSDhl",
       "assetGroup": "feUSD feUSDhl::feUSD-feUSDhl::999::0",
-      "currencyId": "feUSD feUSDhl::feUSD-feUSDhl"
+      "currencyId": "feUSD feUSDhl::feUSD-feUSDhl",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xb5c602e419247c0d2345e84908af79674a6dd4c7": {
       "chainId": "999",
@@ -2877,7 +2931,8 @@
       "address": "0x0fcde5a369c0d71ac932840c8654db03681912dd",
       "symbol": "SY-hbHYPE",
       "assetGroup": "SY Hyperbeat Ultra HYPE::SY-hbHYPE",
-      "currencyId": "SY Hyperbeat Ultra HYPE::SY-hbHYPE"
+      "currencyId": "SY Hyperbeat Ultra HYPE::SY-hbHYPE",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x2b55b35d9be63d016ee902d87af29d2c4f397dc1": {
       "chainId": "999",
@@ -2996,7 +3051,8 @@
       "address": "0x41d81daf401a0aa7422a769243fa933f351a0d64",
       "symbol": "SY-liquidHYPE",
       "assetGroup": "SY Liquid HYPE Yield::SY-liquidHYPE",
-      "currencyId": "SY Liquid HYPE Yield::SY-liquidHYPE"
+      "currencyId": "SY Liquid HYPE Yield::SY-liquidHYPE",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x47dd54dfa68172e3354e3cba2f59521d3dc9d9c7": {
       "chainId": "999",
@@ -3023,7 +3079,8 @@
       "address": "0x642135ff98c15cba7fcf1766502bd493be4d3492",
       "symbol": "SY-hbUSDT",
       "assetGroup": "SY Hyperbeat USDT::SY-hbUSDT",
-      "currencyId": "SY Hyperbeat USDT::SY-hbUSDT"
+      "currencyId": "SY Hyperbeat USDT::SY-hbUSDT",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x131707fbcc247b12e235af154fd7f7558803c24e": {
       "chainId": "999",
@@ -3032,7 +3089,8 @@
       "address": "0x131707fbcc247b12e235af154fd7f7558803c24e",
       "symbol": "lstHYPE-mcHYPE",
       "assetGroup": "Balancer lstHYPE-mcHYPE::lstHYPE-mcHYPE",
-      "currencyId": "Balancer lstHYPE-mcHYPE::lstHYPE-mcHYPE"
+      "currencyId": "Balancer lstHYPE-mcHYPE::lstHYPE-mcHYPE",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x1c9854020388ea51b3f0a4e86695596362073bbd": {
       "chainId": "999",
@@ -3041,7 +3099,8 @@
       "address": "0x1c9854020388ea51b3f0a4e86695596362073bbd",
       "symbol": "kHYPE-hlHype",
       "assetGroup": "kHYPE hlHype::kHYPE-hlHype",
-      "currencyId": "kHYPE hlHype::kHYPE-hlHype"
+      "currencyId": "kHYPE hlHype::kHYPE-hlHype",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x5a1b027bf50fb435b88eb93157a99ad11f565bb2": {
       "chainId": "999",
@@ -3050,7 +3109,8 @@
       "address": "0x5a1b027bf50fb435b88eb93157a99ad11f565bb2",
       "symbol": "conhHYPEUETH",
       "assetGroup": "Concentrated Hyperbloom HYPE-UETH::conhHYPEUETH",
-      "currencyId": "Concentrated Hyperbloom HYPE-UETH::conhHYPEUETH"
+      "currencyId": "Concentrated Hyperbloom HYPE-UETH::conhHYPEUETH",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x70723396b6deb5bc3c56d58520e7df3f9104fc2c": {
       "chainId": "999",
@@ -3059,7 +3119,8 @@
       "address": "0x70723396b6deb5bc3c56d58520e7df3f9104fc2c",
       "symbol": "hbHYPE-mcHYPE",
       "assetGroup": "hbHYPE mcHYPE::hbHYPE-mcHYPE",
-      "currencyId": "hbHYPE mcHYPE::hbHYPE-mcHYPE"
+      "currencyId": "hbHYPE mcHYPE::hbHYPE-mcHYPE",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xa0e680c4075dfedb08f16704828c227038b1d7ab": {
       "chainId": "999",
@@ -3068,7 +3129,8 @@
       "address": "0xa0e680c4075dfedb08f16704828c227038b1d7ab",
       "symbol": "conhUSDCUSDT",
       "assetGroup": "Concentrated Hyperbloom USDC-USDT::conhUSDCUSDT",
-      "currencyId": "Concentrated Hyperbloom USDC-USDT::conhUSDCUSDT"
+      "currencyId": "Concentrated Hyperbloom USDC-USDT::conhUSDCUSDT",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xd7f1c9a65d86f1351c805275f6891da436f9af58": {
       "chainId": "999",
@@ -3077,7 +3139,8 @@
       "address": "0xd7f1c9a65d86f1351c805275f6891da436f9af58",
       "symbol": "UNI-V2",
       "assetGroup": "Uniswap V2::UNI-V2",
-      "currencyId": "Uniswap V2::UNI-V2"
+      "currencyId": "Uniswap V2::UNI-V2",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x4ca70811e831db42072cba1f0d03496ef126faad": {
       "chainId": "999",
@@ -3095,7 +3158,8 @@
       "address": "0x9a501d6b739f9b0a79214c9d2b3cdbf602b3b63d",
       "symbol": "50feUSD-50UETH",
       "assetGroup": "50feUSD 50UETH::50feUSD-50UETH",
-      "currencyId": "50feUSD 50UETH::50feUSD-50UETH"
+      "currencyId": "50feUSD 50UETH::50feUSD-50UETH",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xba6a9ac8536038a3369f1a544aba7cc3601974c0": {
       "chainId": "999",
@@ -3122,7 +3186,8 @@
       "address": "0xf7f58e166057c571854485a789ba14724c56aebc",
       "symbol": "NEKO-HYPE-LP",
       "assetGroup": "Neko HYPE LP::NEKO-HYPE-LP",
-      "currencyId": "Neko HYPE LP::NEKO-HYPE-LP"
+      "currencyId": "Neko HYPE LP::NEKO-HYPE-LP",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x06d64e32bdded0102465ab76e0851677e892b949": {
       "chainId": "999",
@@ -3131,7 +3196,8 @@
       "address": "0x06d64e32bdded0102465ab76e0851677e892b949",
       "symbol": "LAMINAR-V2",
       "assetGroup": "Laminar V2::LAMINAR-V2::999::1",
-      "currencyId": "Laminar V2::LAMINAR-V2"
+      "currencyId": "Laminar V2::LAMINAR-V2",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x23f3226b8f8c8397d4a9a746dd8062d9338b2aed": {
       "chainId": "999",
@@ -3140,7 +3206,8 @@
       "address": "0x23f3226b8f8c8397d4a9a746dd8062d9338b2aed",
       "symbol": "LAMINAR-V2",
       "assetGroup": "Laminar V2::LAMINAR-V2::999::2",
-      "currencyId": "Laminar V2::LAMINAR-V2"
+      "currencyId": "Laminar V2::LAMINAR-V2",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xb2ba1dc0af7ebc7eb9b398d1cf43bc360afedf6f": {
       "chainId": "999",
@@ -3149,7 +3216,8 @@
       "address": "0xb2ba1dc0af7ebc7eb9b398d1cf43bc360afedf6f",
       "symbol": "50LIQD-50WHYPE",
       "assetGroup": "50LIQD 50WHYPE::50LIQD-50WHYPE",
-      "currencyId": "50LIQD 50WHYPE::50LIQD-50WHYPE"
+      "currencyId": "50LIQD 50WHYPE::50LIQD-50WHYPE",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xf9156d70f2c2b6e0669b5e749ffb3572b9f017b7": {
       "chainId": "999",
@@ -3158,7 +3226,8 @@
       "address": "0xf9156d70f2c2b6e0669b5e749ffb3572b9f017b7",
       "symbol": "LAMINAR-V2",
       "assetGroup": "Laminar V2::LAMINAR-V2::999::3",
-      "currencyId": "Laminar V2::LAMINAR-V2"
+      "currencyId": "Laminar V2::LAMINAR-V2",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x3a30ec1caef855b974cdbd118026034357a709fa": {
       "chainId": "999",
@@ -3176,7 +3245,8 @@
       "address": "0xdf4686094eba30ed8d64cbe99edd3b8c1bec4259",
       "symbol": "LAMINAR-V2",
       "assetGroup": "Laminar V2::LAMINAR-V2::999::4",
-      "currencyId": "Laminar V2::LAMINAR-V2"
+      "currencyId": "Laminar V2::LAMINAR-V2",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x17e36783e845cf721b489a26b946d927e9fedf7a": {
       "chainId": "999",
@@ -3185,7 +3255,8 @@
       "address": "0x17e36783e845cf721b489a26b946d927e9fedf7a",
       "symbol": "aUSDHL-USDT",
       "assetGroup": "aUSDHL-USDT::aUSDHL-USDT",
-      "currencyId": "aUSDHL-USDT::aUSDHL-USDT"
+      "currencyId": "aUSDHL-USDT::aUSDHL-USDT",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xeaa2e722d60aad1297c9d0049921a88847f55638": {
       "chainId": "999",
@@ -3194,7 +3265,8 @@
       "address": "0xeaa2e722d60aad1297c9d0049921a88847f55638",
       "symbol": "LAMINAR-V2",
       "assetGroup": "Laminar V2::LAMINAR-V2::999::5",
-      "currencyId": "Laminar V2::LAMINAR-V2"
+      "currencyId": "Laminar V2::LAMINAR-V2",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x37650b29279b517023a4879917400523423e30e9": {
       "chainId": "999",
@@ -3203,7 +3275,8 @@
       "address": "0x37650b29279b517023a4879917400523423e30e9",
       "symbol": "CMI",
       "assetGroup": "Correlated Madness I::CMI",
-      "currencyId": "Correlated Madness I::CMI"
+      "currencyId": "Correlated Madness I::CMI",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x46777c76dbbe40fabb2aab99e33ce20058e76c59": {
       "chainId": "999",
@@ -3212,7 +3285,8 @@
       "address": "0x46777c76dbbe40fabb2aab99e33ce20058e76c59",
       "symbol": "L3",
       "assetGroup": "Layer3::L3",
-      "currencyId": "Layer3::L3"
+      "currencyId": "Layer3::L3",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x9eed7d6914cc0d00139e99aec0cd60b02ba8c07e": {
       "chainId": "999",
@@ -3221,7 +3295,8 @@
       "address": "0x9eed7d6914cc0d00139e99aec0cd60b02ba8c07e",
       "symbol": "Correlated Madness II",
       "assetGroup": "Correlated Madness II::Correlated Madness II",
-      "currencyId": "Correlated Madness II::Correlated Madness II"
+      "currencyId": "Correlated Madness II::Correlated Madness II",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x8167612029f4b6250b19394d98110afeccd633ef": {
       "chainId": "999",
@@ -3302,7 +3377,8 @@
       "address": "0xcc6ee2bcc7537173f1f2c42ecb2d4d8ec219a1f4",
       "symbol": "50WHYPE-50UPUMP",
       "assetGroup": "50WHYPE 50UPUMP::50WHYPE-50UPUMP",
-      "currencyId": "50WHYPE 50UPUMP::50WHYPE-50UPUMP"
+      "currencyId": "50WHYPE 50UPUMP::50WHYPE-50UPUMP",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xf86021eecff551fe0da109a5a467174be8152f58": {
       "chainId": "999",
@@ -3311,7 +3387,8 @@
       "address": "0xf86021eecff551fe0da109a5a467174be8152f58",
       "symbol": "CHIP-LP",
       "assetGroup": "ChipSwap Liquidity Provider::CHIP-LP",
-      "currencyId": "ChipSwap Liquidity Provider::CHIP-LP"
+      "currencyId": "ChipSwap Liquidity Provider::CHIP-LP",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xd6bf22a616996c1063435b176bdf97d2c8b4c520": {
       "chainId": "999",
@@ -3389,7 +3466,62 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67650/thumb/thBILL.png?1753401034",
       "assetGroup": "Theo Short Duration US Treasury Fund::THBILL",
       "currencyId": "Theo Short Duration US Treasury Fund::THBILL",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge", "HYPURRFI"]
+    },
+    "0x46c1c168ca597b9e5423aa7081a0dce782caeaab": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Resolv wstUSR",
+      "address": "0x46c1c168ca597b9e5423aa7081a0dce782caeaab",
+      "symbol": "WSTUSR",
+      "logoURI": "https://assets.coingecko.com/coins/images/51880/thumb/USR_LOGO.png?1732098841",
+      "assetGroup": "Resolv wstUSR::WSTUSR",
+      "currencyId": "Resolv wstUSR::WSTUSR",
       "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x8fdcac157fa99c67015a44f39b2662976bb90d68": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "HypeFun",
+      "address": "0x8fdcac157fa99c67015a44f39b2662976bb90d68",
+      "symbol": "HYFU",
+      "logoURI": "https://assets.coingecko.com/coins/images/68294/thumb/logo.png?1755285939",
+      "assetGroup": "HypeFun::HYFU",
+      "currencyId": "HypeFun::HYFU",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x06fd9d03b3d0f18e4919919b72d30c582f0a97e5": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "Hyperlend Interest Bearing USDT0  Wrapp",
+      "address": "0x06fd9d03b3d0f18e4919919b72d30c582f0a97e5",
+      "symbol": "HUSDT0WHLP",
+      "logoURI": "https://assets.coingecko.com/coins/images/68307/thumb/usdt0.jpg?1755312304",
+      "assetGroup": "Hyperlend Interest Bearing USDT0  Wrapp::HUSDT0WHLP",
+      "currencyId": "Hyperlend Interest Bearing USDT0  Wrapp::HUSDT0WHLP",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x2c910f67dbf81099e6f8e126e7265d7595dc20ad": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "hyUSD₮0 (hwHLP) - 11",
+      "address": "0x2c910f67dbf81099e6f8e126e7265d7595dc20ad",
+      "symbol": "hyUSD₮0(hwHLP)-11",
+      "logoURI": "https://assets.coingecko.com/coins/images/68330/thumb/usdt0.jpg?1755352510",
+      "assetGroup": "hyUSD₮0 (hwHLP) - 11::hyUSD₮0(hwHLP)-11",
+      "currencyId": "hyUSD₮0 (hwHLP) - 11::hyUSD₮0(hwHLP)-11",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x0725a349f733cc13c84232a706d9ca99d2a1ef23": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Boros",
+      "address": "0x0725a349f733cc13c84232a706d9ca99d2a1ef23",
+      "symbol": "BOROS",
+      "logoURI": "https://assets.coingecko.com/coins/images/68413/thumb/2025-08-18_20.53.37.jpg?1755690840",
+      "assetGroup": "Boros::BOROS",
+      "currencyId": "Boros::BOROS",
+      "tags": ["coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "999",
@@ -3455,7 +3587,8 @@
     "0x7dcffcb06b40344eeced2d1cbf096b299fe4b405",
     "0x1359b05241ca5076c9f59605214f4f84114c0de8",
     "0xdabb040c428436d41cecd0fb06bcfdbaad3a9aa8",
-    "0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1"
+    "0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1",
+    "0x0725a349f733cc13c84232a706d9ca99d2a1ef23"
   ],
   "bridgeTokens": ["0x7410e69958a8ece2a51c231c8528513d4d668c7a", "0x0555e30da8f98308edb960aa94c0db47230d2b9c"]
 }
