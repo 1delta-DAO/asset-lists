@@ -519,6 +519,17 @@
       "currencyId": "Foku::FOKU",
       "tags": ["coingecko"]
     },
+    "0xb4cf92868a1cd4115524014d6f1fc480bfe9abf5": {
+      "chainId": "2741",
+      "decimals": 18,
+      "name": "Grow",
+      "address": "0xb4cf92868a1cd4115524014d6f1fc480bfe9abf5",
+      "symbol": "GROW",
+      "logoURI": "https://assets.coingecko.com/coins/images/68448/thumb/glowbi_face.png?1755783301",
+      "assetGroup": "Grow::GROW",
+      "currencyId": "Grow::GROW",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "2741",
       "address": "0x0000000000000000000000000000000000000000",
@@ -569,7 +580,8 @@
     "0xc3882e7ce4d62bb571a6f417419c4e0ecb82d944",
     "0x9301d2debe3c501a4bef6ba5b273b7bd346fa57e",
     "0x605895c31ae716fae8280504f96286d8dbda7f4a",
-    "0xf44d8ac855072b31fb9380d5d4415532294c5cb8"
+    "0xf44d8ac855072b31fb9380d5d4415532294c5cb8",
+    "0x75fdef6c412e22bd561f671d7c4d4899859f94ba"
   ],
   "bridgeTokens": [
     "0x84a71ccd554cc1b02749b35d22f684cc8ec987e1",

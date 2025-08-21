@@ -3857,8 +3857,8 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0bfc9d54fc184518a81162f8fb99c2eaca081202.png",
       "assetGroup": "Wrapped Aave Optimism WETH::waOptWETH",
       "currencyId": "Wrapped Aave Optimism WETH::waOptWETH",
-      "props": { "permit": { "type": 1, "version": "1" } },
-      "tags": ["biconomy-gas-token", "debridge"]
+      "tags": ["biconomy-gas-token", "debridge"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x927cff131fd5b43fc992d071929b2c095d6e4b70": {
       "chainId": "10",

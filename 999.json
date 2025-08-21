@@ -2421,8 +2421,8 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd704254eb350e0d3baecd194d095862267897ae0.png",
       "assetGroup": "Static HyperLend HyperEVM WHYPE v2::stathHyperEvmWHYPEv2",
       "currencyId": "Static HyperLend HyperEVM WHYPE v2::stathHyperEvmWHYPEv2",
-      "props": { "permit": { "type": 1, "version": "1" } },
-      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x0ab8aae3335ed4b373a33d9023b6a6585b149d33": {
       "chainId": "999",
@@ -3522,6 +3522,25 @@
       "assetGroup": "Boros::BOROS",
       "currencyId": "Boros::BOROS",
       "tags": ["coingecko", "debridge"]
+    },
+    "0xb7379d395f3c83952ad794896205f7e33e358735": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "PT Ethena sUSDE 25SEP2025",
+      "address": "0xb7379d395f3c83952ad794896205f7e33e358735",
+      "symbol": "PT-sUSDE-25SEP2025",
+      "assetGroup": "PT Ethena sUSDE 25SEP2025::PT-sUSDE-25SEP2025",
+      "currencyId": "PT Ethena sUSDE 25SEP2025::PT-sUSDE-25SEP2025",
+      "tags": ["HYPERLEND"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0xe3765ec51aead35ea0a7f3745c1975a73dca21dc",
+          "syAddress": "0xcfaa9540332afa3974bceed79bdd24d86c5fd4ee",
+          "expiry": 1758758400,
+          "ytAddress": "0x92b8defe476f0d5ee957533f5b2f509190d12921"
+        }
+      }
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "999",
