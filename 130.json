@@ -3650,6 +3650,72 @@
       "currencyId": "Wrapped Savings rUSD::WSRUSD",
       "tags": ["coingecko"]
     },
+    "0x15d0e0c55a3e7ee67152ad7e89acf164253ff68d": {
+      "chainId": "130",
+      "decimals": 18,
+      "name": "Wormhole Bridged HYPE",
+      "address": "0x15d0e0c55a3e7ee67152ad7e89acf164253ff68d",
+      "symbol": "HYPE",
+      "logoURI": "https://assets.coingecko.com/coins/images/68481/thumb/hype.png?1755878697",
+      "assetGroup": "Wormhole Bridged HYPE::HYPE",
+      "currencyId": "Wormhole Bridged HYPE::HYPE",
+      "tags": ["wormhole", "bridged", "coingecko"]
+    },
+    "0xabe69c550ea6ec22bed4b92614511c4f31bb0f64": {
+      "chainId": "130",
+      "decimals": 18,
+      "name": "Abe",
+      "address": "0xabe69c550ea6ec22bed4b92614511c4f31bb0f64",
+      "symbol": "ABE",
+      "logoURI": "https://assets.coingecko.com/coins/images/68514/thumb/Abe.jpg?1756038375",
+      "assetGroup": "Abe::ABE",
+      "currencyId": "Abe::ABE",
+      "tags": ["coingecko"]
+    },
+    "0xbde8a5331e8ac4831cf8ea9e42e229219eafab97": {
+      "chainId": "130",
+      "decimals": 9,
+      "name": "Wormhole Bridged SOL",
+      "address": "0xbde8a5331e8ac4831cf8ea9e42e229219eafab97",
+      "symbol": "SOL",
+      "logoURI": "https://assets.coingecko.com/coins/images/22876/thumb/SOL_wh_small.png?1696522175",
+      "assetGroup": "SOL",
+      "currencyId": "Wormhole Bridged SOL::SOL",
+      "tags": ["wormhole", "bridged", "coingecko"]
+    },
+    "0xbe51a5e8fa434f09663e8fb4cce79d0b2381afad": {
+      "chainId": "130",
+      "decimals": 6,
+      "name": "Jupiter",
+      "address": "0xbe51a5e8fa434f09663e8fb4cce79d0b2381afad",
+      "symbol": "JUP",
+      "logoURI": "https://assets.coingecko.com/coins/images/34188/thumb/jup.png?1704266489",
+      "assetGroup": "Jupiter::JUP",
+      "currencyId": "Jupiter::JUP",
+      "tags": ["coingecko"]
+    },
+    "0xbbe97f3522101e5b6976cbf77376047097ba837f": {
+      "chainId": "130",
+      "decimals": 5,
+      "name": "Bonk",
+      "address": "0xbbe97f3522101e5b6976cbf77376047097ba837f",
+      "symbol": "BONK",
+      "logoURI": "https://assets.coingecko.com/coins/images/28600/thumb/bonk.jpg?1696527587",
+      "assetGroup": "BONK",
+      "currencyId": "Bonk::BONK",
+      "tags": ["coingecko"]
+    },
+    "0x97fadb3d000b953360fd011e173f12cddb5d70fa": {
+      "chainId": "130",
+      "decimals": 6,
+      "name": "dogwifhat",
+      "address": "0x97fadb3d000b953360fd011e173f12cddb5d70fa",
+      "symbol": "WIF",
+      "logoURI": "https://assets.coingecko.com/coins/images/33566/thumb/dogwifhat.jpg?1702499428",
+      "assetGroup": "dogwifhat::WIF",
+      "currencyId": "dogwifhat::WIF",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "130",
       "decimals": 18,
@@ -3694,7 +3760,9 @@
     "0x849f05f7cfdc4215b16a3c5a58361445c4d56c8e",
     "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
     "0x7dcc39b4d1c53cb31e1abc0e358b43987fef80f7",
-    "0xc3eacf0612346366db554c991d7858716db09f58"
+    "0xc3eacf0612346366db554c991d7858716db09f58",
+    "0x15d0e0c55a3e7ee67152ad7e89acf164253ff68d",
+    "0x756ee6857f915a2b5366f2ef56d8d13857aef8ad"
   ],
   "bridgeTokens": [
     "0xbf678793522638f7439afe3b94d2d2a3a4cbf2c9",

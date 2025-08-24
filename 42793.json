@@ -176,6 +176,28 @@
       "currencyId": "Uranium::XU3O8",
       "tags": ["coingecko"]
     },
+    "0xe4880249745eac5f1ed9d8f7df844792d560e750": {
+      "chainId": "42793",
+      "decimals": 5,
+      "name": "Spiko US T Bills Money Market Fund",
+      "address": "0xe4880249745eac5f1ed9d8f7df844792d560e750",
+      "symbol": "USTBL",
+      "logoURI": "https://assets.coingecko.com/coins/images/39666/thumb/USTB.png?1723541269",
+      "assetGroup": "Spiko US T Bills Money Market Fund::USTBL",
+      "currencyId": "Spiko US T Bills Money Market Fund::USTBL",
+      "tags": ["coingecko"]
+    },
+    "0xa0769f7a8fc65e47de93797b4e21c073c117fc80": {
+      "chainId": "42793",
+      "decimals": 5,
+      "name": "Spiko EU T Bills Money Market Fund",
+      "address": "0xa0769f7a8fc65e47de93797b4e21c073c117fc80",
+      "symbol": "EUTBL",
+      "logoURI": "https://assets.coingecko.com/coins/images/39657/thumb/EUTBL.png?1723517425",
+      "assetGroup": "Spiko EU T Bills Money Market Fund::EUTBL",
+      "currencyId": "Spiko EU T Bills Money Market Fund::EUTBL",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "42793",
       "decimals": 18,
@@ -205,7 +227,9 @@
     "0xdd629e5241cbc5919847783e6c96b2de4754e438",
     "0xecac9c5f704e954931349da37f60e39f515c11c1",
     "0x79052ab3c166d4899a1e0dd033ac3b379af0b1fd",
-    "0x6b43732a9ae9f8654d496c0a075aa4aa43057a0b"
+    "0x6b43732a9ae9f8654d496c0a075aa4aa43057a0b",
+    "0xe4880249745eac5f1ed9d8f7df844792d560e750",
+    "0xa0769f7a8fc65e47de93797b4e21c073c117fc80"
   ],
   "bridgeTokens": [
     "0x2c03058c8afc06713be23e58d2febc8337dbfe6a",

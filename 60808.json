@@ -312,6 +312,28 @@
       "currencyId": "Segment USD::S1",
       "tags": ["SEGMENT"]
     },
+    "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189": {
+      "chainId": "60808",
+      "decimals": 6,
+      "name": "openUSDT",
+      "address": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+      "symbol": "oUSDT",
+      "logoURI": "https://tokens.debridge.finance/Logo/100000021/0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189/small/token-logo.png",
+      "assetGroup": "openUSDT::oUSDT",
+      "currencyId": "openUSDT::oUSDT",
+      "tags": ["debridge"]
+    },
+    "0x0555e30da8f98308edb960aa94c0db47230d2b9c": {
+      "chainId": "60808",
+      "decimals": 8,
+      "name": "Wrapped BTC",
+      "address": "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+      "symbol": "WBTC",
+      "logoURI": "https://tokens.debridge.finance/Logo/100000021/0x0555e30da8f98308edb960aa94c0db47230d2b9c/small/token-logo.png",
+      "assetGroup": "Wrapped BTC::WBTC",
+      "currencyId": "Wrapped BTC::WBTC",
+      "tags": ["AVALON_BOB", "debridge"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "60808",
       "decimals": 18,
@@ -330,7 +352,8 @@
     "0x4200000000000000000000000000000000000006",
     "0x05d032ac25d322df992303dca074ee7392c117b9",
     "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
-    "0xe75d0fb2c24a55ca1e3f96781a2bcc7bdba058f0"
+    "0xe75d0fb2c24a55ca1e3f96781a2bcc7bdba058f0",
+    "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
   ],
   "bridgeTokens": [
     "0x4200000000000000000000000000000000000006",

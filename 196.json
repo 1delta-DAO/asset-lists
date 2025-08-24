@@ -230,6 +230,17 @@
       "currencyId": "ZenAI::ZEN",
       "tags": ["coingecko"]
     },
+    "0x8854b281cdf5940ebd4a753f8d37f49775058e03": {
+      "chainId": "196",
+      "decimals": 18,
+      "name": "Okay fun",
+      "address": "0x8854b281cdf5940ebd4a753f8d37f49775058e03",
+      "symbol": "OKAY",
+      "logoURI": "https://assets.coingecko.com/coins/images/68463/thumb/okayfun.png?1755827301",
+      "assetGroup": "Okay fun::OKAY",
+      "currencyId": "Okay fun::OKAY",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "196",
       "decimals": 18,
@@ -263,7 +274,8 @@
     "0x0cc24c51bf89c00c5affbfcf5e856c25ecbdb48e",
     "0x095c1a875b985be6e2c86b2cae0b66a3df702e6a",
     "0x4122a43daecd13cfb2543ad339470fd87bc11111",
-    "0x069f3bb2a286ec9ce9f4dadba5e1e9e1d80ba27f"
+    "0x069f3bb2a286ec9ce9f4dadba5e1e9e1d80ba27f",
+    "0x8854b281cdf5940ebd4a753f8d37f49775058e03"
   ],
   "bridgeTokens": [
     "0x1e4a5963abfd975d8c9021ce480b42188849d41d",

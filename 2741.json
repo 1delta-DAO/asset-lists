@@ -530,6 +530,39 @@
       "currencyId": "Grow::GROW",
       "tags": ["coingecko"]
     },
+    "0xfe6371682f58b610e7a2da97a0df2cfd45d60cf1": {
+      "chainId": "2741",
+      "decimals": 18,
+      "name": "Prediqt",
+      "address": "0xfe6371682f58b610e7a2da97a0df2cfd45d60cf1",
+      "symbol": "PRQT",
+      "logoURI": "https://assets.coingecko.com/coins/images/68483/thumb/DIj7CDqm_400x400.jpg?1755887267",
+      "assetGroup": "Prediqt::PRQT",
+      "currencyId": "Prediqt::PRQT",
+      "tags": ["coingecko"]
+    },
+    "0xe768efeb8b570775e26222dfdca5670250ed9522": {
+      "chainId": "2741",
+      "decimals": 18,
+      "name": "Peengu",
+      "address": "0xe768efeb8b570775e26222dfdca5670250ed9522",
+      "symbol": "PEENGU",
+      "logoURI": "https://assets.coingecko.com/coins/images/68468/thumb/peengu-200px.png?1755834745",
+      "assetGroup": "Peengu::PEENGU",
+      "currencyId": "Peengu::PEENGU",
+      "tags": ["coingecko"]
+    },
+    "0xd5cc17f92b41d57a4b34d4b08587bf55342d4bc1": {
+      "chainId": "2741",
+      "decimals": 18,
+      "name": "Pangolin",
+      "address": "0xd5cc17f92b41d57a4b34d4b08587bf55342d4bc1",
+      "symbol": "PANG",
+      "logoURI": "https://assets.coingecko.com/coins/images/68520/thumb/photo_2025-07-28_14-39-29.png?1756039998",
+      "assetGroup": "Pangolin::PANG",
+      "currencyId": "Pangolin::PANG",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "2741",
       "address": "0x0000000000000000000000000000000000000000",
@@ -581,7 +614,9 @@
     "0x9301d2debe3c501a4bef6ba5b273b7bd346fa57e",
     "0x605895c31ae716fae8280504f96286d8dbda7f4a",
     "0xf44d8ac855072b31fb9380d5d4415532294c5cb8",
-    "0x75fdef6c412e22bd561f671d7c4d4899859f94ba"
+    "0x75fdef6c412e22bd561f671d7c4d4899859f94ba",
+    "0xfe6371682f58b610e7a2da97a0df2cfd45d60cf1",
+    "0x45f426ae8c1e647d544f6942784f759e5d3db089"
   ],
   "bridgeTokens": [
     "0x84a71ccd554cc1b02749b35d22f684cc8ec987e1",
