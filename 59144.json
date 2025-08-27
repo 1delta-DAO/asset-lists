@@ -710,7 +710,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/37919/thumb/rseth.png?1715936438",
       "assetGroup": "WRSETH",
       "currencyId": "Wrapped rsETH::wrsETH",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token", "ZEROLEND"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "ZEROLEND", "AAVE_V3"]
     },
     "0x4186bfc76e2e237523cbc30fd220fe055156b41f": {
       "chainId": "59144",
@@ -1881,6 +1881,16 @@
       "assetGroup": "RustyAI::RUSTY",
       "currencyId": "RustyAI::RUSTY",
       "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0xaca92e438df0b2401ff60da7e4337b687a2435da": {
+      "chainId": "59144",
+      "decimals": 6,
+      "name": "MetaMask USD (Test)",
+      "address": "0xaca92e438df0b2401ff60da7e4337b687a2435da",
+      "symbol": "mUSD",
+      "assetGroup": "MetaMask USD (Test)::mUSD",
+      "currencyId": "MetaMask USD (Test)::mUSD",
+      "tags": ["debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "59144",

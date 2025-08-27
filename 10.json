@@ -6282,8 +6282,19 @@
       "name": "BNV",
       "address": "0x7d3ce1265d5ea5848dc1c96aadbf754e2bad33b1",
       "symbol": "FASH",
+      "logoURI": "https://assets.coingecko.com/coins/images/39399/thumb/fa_h_logo_200x200.png?1729799349",
       "assetGroup": "BNV::FASH",
       "currencyId": "BNV::FASH",
+      "tags": ["debridge", "biconomy-gas-token"]
+    },
+    "0xc47da4cb96ce65a96844a01bfae509f9d5454534": {
+      "chainId": "10",
+      "decimals": 6,
+      "name": "Dephaser JPY",
+      "address": "0xc47da4cb96ce65a96844a01bfae509f9d5454534",
+      "symbol": "JPYT",
+      "assetGroup": "Dephaser JPY::JPYT",
+      "currencyId": "Dephaser JPY::JPYT",
       "tags": ["debridge"]
     },
     "0x0000000000000000000000000000000000000000": {

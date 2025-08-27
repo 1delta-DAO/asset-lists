@@ -50697,7 +50697,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68392/thumb/aria.png?1755601564",
       "assetGroup": "Aria AI::ARIA",
       "currencyId": "Aria AI::ARIA",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xa5deb178c729e058018db8bd68a9ffb8418df42d": {
       "chainId": "56",
@@ -50939,7 +50939,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67419/thumb/bas.jpg?1752736026",
       "assetGroup": "BNB Attestation Service::BAS",
       "currencyId": "BNB Attestation Service::BAS",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x652fcafea5a2da18e8947748b7849b72148b4543": {
       "chainId": "56",
@@ -51071,7 +51071,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68422/thumb/xpin.png?1755704500",
       "assetGroup": "XPIN Network::XPIN",
       "currencyId": "XPIN Network::XPIN",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xc940a6746f8ffa8a9476c116030e5d4baded805a": {
       "chainId": "56",
@@ -51093,7 +51093,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68369/thumb/decentralgpt.png?1755514467",
       "assetGroup": "DecentralGPT::DGC::56::0",
       "currencyId": "DecentralGPT::DGC",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xc2d09cf86b9ff43cb29ef8ddca57a4eb4410d5f3": {
       "chainId": "56",
@@ -51159,6 +51159,116 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68527/thumb/spusd.png?1756049627",
       "assetGroup": "SoulPeg USD::SPUSD",
       "currencyId": "SoulPeg USD::SPUSD",
+      "tags": ["coingecko"]
+    },
+    "0x31d0e332ccef98b583e40e0cefbb7502c9a6b3f8": {
+      "chainId": "56",
+      "decimals": 6,
+      "name": "NYM",
+      "address": "0x31d0e332ccef98b583e40e0cefbb7502c9a6b3f8",
+      "symbol": "NYM",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x31d0E332ccEf98b583E40e0cEFBb7502c9a6b3f8.png",
+      "assetGroup": "NYM::NYM::56::0",
+      "currencyId": "NYM::NYM",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x9988d876d7500646534e2d91b382b1ac4c5a4444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "BNB DOGE",
+      "address": "0x9988d876d7500646534e2d91b382b1ac4c5a4444",
+      "symbol": "BOGE",
+      "logoURI": "https://assets.coingecko.com/coins/images/68528/thumb/hero-img2.png?1756087719",
+      "assetGroup": "BNB DOGE::BOGE",
+      "currencyId": "BNB DOGE::BOGE",
+      "tags": ["coingecko"]
+    },
+    "0x2405bcc008021f792b80c65fb73f8c86525c3be3": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "NewEra Finance",
+      "address": "0x2405bcc008021f792b80c65fb73f8c86525c3be3",
+      "symbol": "NERA",
+      "logoURI": "https://assets.coingecko.com/coins/images/68641/thumb/Untitled_%281%29.png?1756153281",
+      "assetGroup": "NewEra Finance::NERA",
+      "currencyId": "NewEra Finance::NERA",
+      "tags": ["coingecko"]
+    },
+    "0xad758dd047040707d3813202496a29c0ff634444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "FREEDA",
+      "address": "0xad758dd047040707d3813202496a29c0ff634444",
+      "symbol": "FREEDA",
+      "logoURI": "https://assets.coingecko.com/coins/images/68533/thumb/f.JPG?1756102119",
+      "assetGroup": "FREEDA::FREEDA",
+      "currencyId": "FREEDA::FREEDA",
+      "tags": ["coingecko"]
+    },
+    "0x3eecacacbe47c25b68b45fb48a38d9314193cd65": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Mine Blue",
+      "address": "0x3eecacacbe47c25b68b45fb48a38d9314193cd65",
+      "symbol": "MB",
+      "logoURI": "https://assets.coingecko.com/coins/images/68538/thumb/20250823_185937.png?1756103839",
+      "assetGroup": "Mine Blue::MB",
+      "currencyId": "Mine Blue::MB",
+      "tags": ["coingecko"]
+    },
+    "0xadacd9d34b944427c136f20b3b6dc17295eecb45": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "Beaver",
+      "address": "0xadacd9d34b944427c136f20b3b6dc17295eecb45",
+      "symbol": "BEAVER",
+      "logoURI": "https://assets.coingecko.com/coins/images/68636/thumb/photo_2025-08-24_06.10.00.png?1756134022",
+      "assetGroup": "Beaver::BEAVER",
+      "currencyId": "Beaver::BEAVER",
+      "tags": ["coingecko"]
+    },
+    "0x973253d0c12366e0fa5afb9f9e2e9486eca69c01": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "alt town",
+      "address": "0x973253d0c12366e0fa5afb9f9e2e9486eca69c01",
+      "symbol": "TOWN",
+      "logoURI": "https://assets.coingecko.com/coins/images/68506/thumb/alttown.png?1756023379",
+      "assetGroup": "alt town::TOWN",
+      "currencyId": "alt town::TOWN",
+      "tags": ["coingecko"]
+    },
+    "0xe747e54783ba3f77a8e5251a3cba19ebe9c0e197": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "OVERTAKE",
+      "address": "0xe747e54783ba3f77a8e5251a3cba19ebe9c0e197",
+      "symbol": "TAKE",
+      "logoURI": "https://assets.coingecko.com/coins/images/68577/thumb/overtake.png?1756118725",
+      "assetGroup": "OVERTAKE::TAKE",
+      "currencyId": "OVERTAKE::TAKE",
+      "tags": ["coingecko"]
+    },
+    "0x8c321c2e323bc26c01df0dc62311482a1256fdf5": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Zentry",
+      "address": "0x8c321c2e323bc26c01df0dc62311482a1256fdf5",
+      "symbol": "ZENT",
+      "logoURI": "https://assets.coingecko.com/coins/images/36979/thumb/Zentry-rebrand-Primary_200px.png?1713743277",
+      "assetGroup": "Zentry::ZENT",
+      "currencyId": "Zentry::ZENT",
+      "tags": ["coingecko"]
+    },
+    "0xcf3d31dd1bced6121d97e98d110f8fc54d993365": {
+      "chainId": "56",
+      "decimals": 6,
+      "name": "Kilopi",
+      "address": "0xcf3d31dd1bced6121d97e98d110f8fc54d993365",
+      "symbol": "LOP",
+      "logoURI": "https://assets.coingecko.com/coins/images/29496/thumb/logo_kilopi_200sq.png?1696528442",
+      "assetGroup": "Kilopi::LOP::56::0",
+      "currencyId": "Kilopi::LOP",
       "tags": ["coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {

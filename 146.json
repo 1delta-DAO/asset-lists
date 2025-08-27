@@ -2545,6 +2545,27 @@
       "currencyId": "YieldFi vyUSD::VYUSD",
       "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
+    "0x7c050be1dded733bd44116b60a8a35125ba47459": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "rsETHWrapper",
+      "address": "0x7c050be1dded733bd44116b60a8a35125ba47459",
+      "symbol": "wrsETH",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x87eee96d50fb761ad85b1c982d28a042169d61b1.png",
+      "assetGroup": "rsETHWrapper::wrsETH",
+      "currencyId": "rsETHWrapper::wrsETH"
+    },
+    "0x2f872623d1e1af5835b08b0e49aad2d81d649d30": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "OS ARM LP Token",
+      "address": "0x2f872623d1e1af5835b08b0e49aad2d81d649d30",
+      "symbol": "ARM-WS-OS",
+      "logoURI": "https://assets.coingecko.com/coins/images/68682/thumb/arm-ws-os-256x256.png?1756240786",
+      "assetGroup": "OS ARM LP Token::ARM-WS-OS",
+      "currencyId": "OS ARM LP Token::ARM-WS-OS",
+      "tags": ["coingecko", "debridge"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "146",
       "decimals": 18,

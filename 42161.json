@@ -22287,7 +22287,8 @@
       "symbol": "MORPHO",
       "logoURI": "https://cdn.morpho.org/assets/logos/morpho.svg",
       "assetGroup": "MORPHO",
-      "currencyId": "Morpho Token::MORPHO"
+      "currencyId": "Morpho Token::MORPHO",
+      "tags": ["coingecko", "debridge"]
     },
     "0x86856814e74456893cfc8946bedcbb472b5fa856": {
       "chainId": "42161",
@@ -22343,6 +22344,426 @@
       "assetGroup": "YieldFi vyUSD::VYUSD",
       "currencyId": "YieldFi vyUSD::VYUSD",
       "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x96f94b636a9813236318025f76ecf193ab9b25d2": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "BYD Company Limited Tokenized by Sailing",
+      "address": "0x96f94b636a9813236318025f76ecf193ab9b25d2",
+      "symbol": "BYDs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/BYDs.svg",
+      "assetGroup": "BYD Company Limited Tokenized by Sailing::BYDs",
+      "currencyId": "BYD Company Limited Tokenized by Sailing::BYDs"
+    },
+    "0x47ab8dceb19fa974a6c10c823bd06aafb1f81a48": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Circle Internet Group Inc Tokenized",
+      "address": "0x47ab8dceb19fa974a6c10c823bd06aafb1f81a48",
+      "symbol": "CRCLs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/CRCLs.svg",
+      "assetGroup": "Circle Internet Group Inc Tokenized::CRCLs",
+      "currencyId": "Circle Internet Group Inc Tokenized::CRCLs"
+    },
+    "0x28f21857281495e6ea79bb574ea2a48bee31c4e6": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Apple Inc Tokenized by Sailing",
+      "address": "0x28f21857281495e6ea79bb574ea2a48bee31c4e6",
+      "symbol": "AAPLs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/AAPLs.svg",
+      "assetGroup": "Apple Inc Tokenized by Sailing::AAPLs",
+      "currencyId": "Apple Inc Tokenized by Sailing::AAPLs"
+    },
+    "0x2c8e3324d40e71ddf7836dfa376a0562057e32ba": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Tesla Inc Tokenized by Sailing",
+      "address": "0x2c8e3324d40e71ddf7836dfa376a0562057e32ba",
+      "symbol": "TSLAs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/TSLAs.svg",
+      "assetGroup": "Tesla Inc Tokenized by Sailing::TSLAs",
+      "currencyId": "Tesla Inc Tokenized by Sailing::TSLAs"
+    },
+    "0xf0532f75f0b546fd1a603b1edb5ce0e771849fc6": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Palantir Technologies Inc Tokenized",
+      "address": "0xf0532f75f0b546fd1a603b1edb5ce0e771849fc6",
+      "symbol": "PLTRs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/PLTRs.svg",
+      "assetGroup": "Palantir Technologies Inc Tokenized::PLTRs",
+      "currencyId": "Palantir Technologies Inc Tokenized::PLTRs"
+    },
+    "0xe6bd12dd2550a29755904de97eb747cd3a1976b6": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "United States Natural Gas Fund LP",
+      "address": "0xe6bd12dd2550a29755904de97eb747cd3a1976b6",
+      "symbol": "UNGs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/UNGs.svg",
+      "assetGroup": "United States Natural Gas Fund LP::UNGs",
+      "currencyId": "United States Natural Gas Fund LP::UNGs"
+    },
+    "0xd079e773822fd7643e9c5863ece383d4dcc3eac7": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Roundhill S&P 500 0DTE Covered Call",
+      "address": "0xd079e773822fd7643e9c5863ece383d4dcc3eac7",
+      "symbol": "XDTEs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/XDTEs.svg",
+      "assetGroup": "Roundhill S&P 500 0DTE Covered Call::XDTEs",
+      "currencyId": "Roundhill S&P 500 0DTE Covered Call::XDTEs"
+    },
+    "0xe185db3993b03842d04a0dbf0fd11f29b2f4c0d8": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Coinbase Global Inc Tokenized by Sailing",
+      "address": "0xe185db3993b03842d04a0dbf0fd11f29b2f4c0d8",
+      "symbol": "COINs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/COINs.svg",
+      "assetGroup": "Coinbase Global Inc Tokenized by Sailing::COINs",
+      "currencyId": "Coinbase Global Inc Tokenized by Sailing::COINs"
+    },
+    "0xa7c138747e6f994a377f1b3ace84f00668fd67e5": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "YieldMax Universe Fund of Option Income",
+      "address": "0xa7c138747e6f994a377f1b3ace84f00668fd67e5",
+      "symbol": "YMAXs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/YMAXs.svg",
+      "assetGroup": "YieldMax Universe Fund of Option Income::YMAXs",
+      "currencyId": "YieldMax Universe Fund of Option Income::YMAXs"
+    },
+    "0x3bb158ad4f981bff7d852d7ce7cb9e2c991c7b12": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "YieldMax COIN Option Income Strategy ETF",
+      "address": "0x3bb158ad4f981bff7d852d7ce7cb9e2c991c7b12",
+      "symbol": "CONYs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/CONYs.svg",
+      "assetGroup": "YieldMax COIN Option Income Strategy ETF::CONYs",
+      "currencyId": "YieldMax COIN Option Income Strategy ETF::CONYs"
+    },
+    "0x8a1062e90ec14ca47137048cabbc9aeb93c00c6b": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "NEOS S&P 500 High Income ETF Tokenized",
+      "address": "0x8a1062e90ec14ca47137048cabbc9aeb93c00c6b",
+      "symbol": "SPYIs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/SPYIs.svg",
+      "assetGroup": "NEOS S&P 500 High Income ETF Tokenized::SPYIs",
+      "currencyId": "NEOS S&P 500 High Income ETF Tokenized::SPYIs"
+    },
+    "0xd9f044c6e579c0dc9a2a0b82bd16239b52306bf7": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Lockheed Martin Corporation Tokenized",
+      "address": "0xd9f044c6e579c0dc9a2a0b82bd16239b52306bf7",
+      "symbol": "LMTs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/LMTs.svg",
+      "assetGroup": "Lockheed Martin Corporation Tokenized::LMTs",
+      "currencyId": "Lockheed Martin Corporation Tokenized::LMTs"
+    },
+    "0x4d1dbcc0683c03133ee835a15c3e4a491826e1a9": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Upstart Holdings Inc Tokenized",
+      "address": "0x4d1dbcc0683c03133ee835a15c3e4a491826e1a9",
+      "symbol": "UPSTs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/UPSTs.svg",
+      "assetGroup": "Upstart Holdings Inc Tokenized::UPSTs",
+      "currencyId": "Upstart Holdings Inc Tokenized::UPSTs"
+    },
+    "0xb921be2d63cbe4732ce8671ce4d444972919fbfa": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "YieldMax Short COIN Option Income",
+      "address": "0xb921be2d63cbe4732ce8671ce4d444972919fbfa",
+      "symbol": "FIATs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/FIATs.svg",
+      "assetGroup": "YieldMax Short COIN Option Income::FIATs",
+      "currencyId": "YieldMax Short COIN Option Income::FIATs"
+    },
+    "0x9ed36a724a79ea3e6119bb8ba301a7ff5dfd7532": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "AMC Entertainment Holdings Inc Tokenized",
+      "address": "0x9ed36a724a79ea3e6119bb8ba301a7ff5dfd7532",
+      "symbol": "AMCs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/AMCs.svg",
+      "assetGroup": "AMC Entertainment Holdings Inc Tokenized::AMCs",
+      "currencyId": "AMC Entertainment Holdings Inc Tokenized::AMCs"
+    },
+    "0x2f6e000ae50e1620603f3dd2ef5db30ab4f93fbb": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Nvidia Corporation Tokenized by Sailing",
+      "address": "0x2f6e000ae50e1620603f3dd2ef5db30ab4f93fbb",
+      "symbol": "NVDAs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/NVDAs.svg",
+      "assetGroup": "Nvidia Corporation Tokenized by Sailing::NVDAs",
+      "currencyId": "Nvidia Corporation Tokenized by Sailing::NVDAs"
+    },
+    "0x40fbb60bcb38d64cbc42329a12cf50e0a5bcfc58": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Amazon.com Inc Tokenized by Sailing",
+      "address": "0x40fbb60bcb38d64cbc42329a12cf50e0a5bcfc58",
+      "symbol": "AMZNs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/AMZNs.svg",
+      "assetGroup": "Amazon.com Inc Tokenized by Sailing::AMZNs",
+      "currencyId": "Amazon.com Inc Tokenized by Sailing::AMZNs"
+    },
+    "0xe29cf9a6a87108e3d19c29883c5fbf23209fc267": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Grupo Supervielle SA Tokenized",
+      "address": "0xe29cf9a6a87108e3d19c29883c5fbf23209fc267",
+      "symbol": "SUPVs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/SUPVs.svg",
+      "assetGroup": "Grupo Supervielle SA Tokenized::SUPVs",
+      "currencyId": "Grupo Supervielle SA Tokenized::SUPVs"
+    },
+    "0xce44e427013b4165effb407f43d73ba08e5aedfa": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "YPF S.A. Tokenized by Sailing",
+      "address": "0xce44e427013b4165effb407f43d73ba08e5aedfa",
+      "symbol": "YPFs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/YPFs.svg",
+      "assetGroup": "YPF S.A. Tokenized by Sailing::YPFs",
+      "currencyId": "YPF S.A. Tokenized by Sailing::YPFs"
+    },
+    "0x9990ba63b39dcf994e50defca500fd6298014226": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Boeing Company Tokenized by Sailing",
+      "address": "0x9990ba63b39dcf994e50defca500fd6298014226",
+      "symbol": "BAs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/BAs.svg",
+      "assetGroup": "Boeing Company Tokenized by Sailing::BAs",
+      "currencyId": "Boeing Company Tokenized by Sailing::BAs"
+    },
+    "0x20a22b65aa96af3ebcf995445343b11a47eff4f0": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "SPDR S&P 500 ETF Trust Tokenized",
+      "address": "0x20a22b65aa96af3ebcf995445343b11a47eff4f0",
+      "symbol": "SPYs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/SPYs.svg",
+      "assetGroup": "SPDR S&P 500 ETF Trust Tokenized::SPYs",
+      "currencyId": "SPDR S&P 500 ETF Trust Tokenized::SPYs"
+    },
+    "0x58f379e71bb928350355bcbb7ee201fdcf124e9e": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "GameStop Corp Tokenized by Sailing",
+      "address": "0x58f379e71bb928350355bcbb7ee201fdcf124e9e",
+      "symbol": "GMEs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/GMEs.svg",
+      "assetGroup": "GameStop Corp Tokenized by Sailing::GMEs",
+      "currencyId": "GameStop Corp Tokenized by Sailing::GMEs"
+    },
+    "0xf1f4d5e20cc040692e20c680aa0fc9dd76d2bf0a": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "MercadoLibre Inc. Tokenized by Sailing",
+      "address": "0xf1f4d5e20cc040692e20c680aa0fc9dd76d2bf0a",
+      "symbol": "MELIs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/MELIs.svg",
+      "assetGroup": "MercadoLibre Inc. Tokenized by Sailing::MELIs",
+      "currencyId": "MercadoLibre Inc. Tokenized by Sailing::MELIs"
+    },
+    "0x8c4292d77813e306101b699cca8378487313313b": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Meta Platforms Inc Tokenized by Sailing",
+      "address": "0x8c4292d77813e306101b699cca8378487313313b",
+      "symbol": "METAs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/METAs.svg",
+      "assetGroup": "Meta Platforms Inc Tokenized by Sailing::METAs",
+      "currencyId": "Meta Platforms Inc Tokenized by Sailing::METAs"
+    },
+    "0xd58e8c2247450788097ba1494e8447c704a88fa6": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "ARK Innovation ETF Tokenized by Sailing",
+      "address": "0xd58e8c2247450788097ba1494e8447c704a88fa6",
+      "symbol": "ARKKs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/ARKKs.svg",
+      "assetGroup": "ARK Innovation ETF Tokenized by Sailing::ARKKs",
+      "currencyId": "ARK Innovation ETF Tokenized by Sailing::ARKKs"
+    },
+    "0xe95c61734a89b4979e111504cce7a3238eb62dc7": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "DLocal Ltd Tokenized by Sailing",
+      "address": "0xe95c61734a89b4979e111504cce7a3238eb62dc7",
+      "symbol": "DLOs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/DLOs.svg",
+      "assetGroup": "DLocal Ltd Tokenized by Sailing::DLOs",
+      "currencyId": "DLocal Ltd Tokenized by Sailing::DLOs"
+    },
+    "0xfd1fe31b482aeb5507847990dcab3e367c180005": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Warner Bros. Discovery Inc Tokenized",
+      "address": "0xfd1fe31b482aeb5507847990dcab3e367c180005",
+      "symbol": "WBDs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/WBDs.svg",
+      "assetGroup": "Warner Bros. Discovery Inc Tokenized::WBDs",
+      "currencyId": "Warner Bros. Discovery Inc Tokenized::WBDs"
+    },
+    "0x34f441d604245a3285d3d77b02858f7198a18f87": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Microsoft Corporation Tokenized",
+      "address": "0x34f441d604245a3285d3d77b02858f7198a18f87",
+      "symbol": "MSFTs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/MSFTs.svg",
+      "assetGroup": "Microsoft Corporation Tokenized::MSFTs",
+      "currencyId": "Microsoft Corporation Tokenized::MSFTs"
+    },
+    "0xe6ce474992dbcf844745c3fb684768bcb7ccf9fd": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Airbnb Inc Tokenized by Sailing",
+      "address": "0xe6ce474992dbcf844745c3fb684768bcb7ccf9fd",
+      "symbol": "ABNBs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/ABNBs.svg",
+      "assetGroup": "Airbnb Inc Tokenized by Sailing::ABNBs",
+      "currencyId": "Airbnb Inc Tokenized by Sailing::ABNBs"
+    },
+    "0x9d3f7130783533e3bcdd7189bc1e89b428222e9c": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "BlackRock Inc Tokenized by Sailing",
+      "address": "0x9d3f7130783533e3bcdd7189bc1e89b428222e9c",
+      "symbol": "BLKs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/BLKs.svg",
+      "assetGroup": "BlackRock Inc Tokenized by Sailing::BLKs",
+      "currencyId": "BlackRock Inc Tokenized by Sailing::BLKs"
+    },
+    "0xa4efc06ebe082e3e1a2a22922acb484df1ec421b": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "McDonald's Tokenized by Sailing",
+      "address": "0xa4efc06ebe082e3e1a2a22922acb484df1ec421b",
+      "symbol": "MCDs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/MCDs.svg",
+      "assetGroup": "McDonald's Tokenized by Sailing::MCDs",
+      "currencyId": "McDonald's Tokenized by Sailing::MCDs"
+    },
+    "0x7a936cbfcd22e35d50d0a0c640cd24465c99aab9": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Dynatrace Inc Tokenized by Sailing",
+      "address": "0x7a936cbfcd22e35d50d0a0c640cd24465c99aab9",
+      "symbol": "DTs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/DTs.svg",
+      "assetGroup": "Dynatrace Inc Tokenized by Sailing::DTs",
+      "currencyId": "Dynatrace Inc Tokenized by Sailing::DTs"
+    },
+    "0x71fe09c06fc58baa1423aafa076690644214f79a": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Uber Technologies Inc Tokenized",
+      "address": "0x71fe09c06fc58baa1423aafa076690644214f79a",
+      "symbol": "UBERs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/UBERs.svg",
+      "assetGroup": "Uber Technologies Inc Tokenized::UBERs",
+      "currencyId": "Uber Technologies Inc Tokenized::UBERs"
+    },
+    "0x2a4bfafb489e5ea90a898bd16bb486a096a3deea": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Ginkgo Bioworks Inc Tokenized by Sailing",
+      "address": "0x2a4bfafb489e5ea90a898bd16bb486a096a3deea",
+      "symbol": "DNAs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/DNAs.svg",
+      "assetGroup": "Ginkgo Bioworks Inc Tokenized by Sailing::DNAs",
+      "currencyId": "Ginkgo Bioworks Inc Tokenized by Sailing::DNAs"
+    },
+    "0x8b8ca6bb056254c66f48df8683ae916e7ffbc698": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "The Goldman Sachs Group Inc Tokenized",
+      "address": "0x8b8ca6bb056254c66f48df8683ae916e7ffbc698",
+      "symbol": "GSs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/GSs.svg",
+      "assetGroup": "The Goldman Sachs Group Inc Tokenized::GSs",
+      "currencyId": "The Goldman Sachs Group Inc Tokenized::GSs"
+    },
+    "0x07f63b907692fe4d6e12ccf745eac19dd57a97e4": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Goldman Sachs Physical Gold ETF",
+      "address": "0x07f63b907692fe4d6e12ccf745eac19dd57a97e4",
+      "symbol": "AAAUs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/AAAUs.svg",
+      "assetGroup": "Goldman Sachs Physical Gold ETF::AAAUs",
+      "currencyId": "Goldman Sachs Physical Gold ETF::AAAUs"
+    },
+    "0x0fab446e6fd507e2edfc17ab0dd412a9920dafcc": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Invesco QQQ Trust Tokenized by Sailing",
+      "address": "0x0fab446e6fd507e2edfc17ab0dd412a9920dafcc",
+      "symbol": "QQQs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/QQQs.svg",
+      "assetGroup": "Invesco QQQ Trust Tokenized by Sailing::QQQs",
+      "currencyId": "Invesco QQQ Trust Tokenized by Sailing::QQQs"
+    },
+    "0x2472c069ad24a1f17018a09036a1f09214e51030": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "The Walt Disney Company Tokenized",
+      "address": "0x2472c069ad24a1f17018a09036a1f09214e51030",
+      "symbol": "DISs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/DISs.svg",
+      "assetGroup": "The Walt Disney Company Tokenized::DISs",
+      "currencyId": "The Walt Disney Company Tokenized::DISs"
+    },
+    "0xeacf64be097a199dea0549684e546113cfe70cde": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "MicroStrategy Inc Tokenized by Sailing",
+      "address": "0xeacf64be097a199dea0549684e546113cfe70cde",
+      "symbol": "MSTRs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/MSTRs.svg",
+      "assetGroup": "MicroStrategy Inc Tokenized by Sailing::MSTRs",
+      "currencyId": "MicroStrategy Inc Tokenized by Sailing::MSTRs"
+    },
+    "0x035e3a43c496f8f90015e5661f5279f7aa130b23": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "BitMine Immersion Technologies, Inc",
+      "address": "0x035e3a43c496f8f90015e5661f5279f7aa130b23",
+      "symbol": "BMNRs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/BMNRs.svg",
+      "assetGroup": "BitMine Immersion Technologies, Inc::BMNRs",
+      "currencyId": "BitMine Immersion Technologies, Inc::BMNRs"
+    },
+    "0xd77d45efa338127350764cb871b9b9e05c10f38a": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "SharpLink Gaming, Inc Tokenized",
+      "address": "0xd77d45efa338127350764cb871b9b9e05c10f38a",
+      "symbol": "SBETs",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/SBETs.svg",
+      "assetGroup": "SharpLink Gaming, Inc Tokenized::SBETs",
+      "currencyId": "SharpLink Gaming, Inc Tokenized::SBETs"
+    },
+    "0x8b2b3aacbabca58af15dcecd4683d2c2410bdd9b": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Sailing",
+      "address": "0x8b2b3aacbabca58af15dcecd4683d2c2410bdd9b",
+      "symbol": "SAIL",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/SAIL.svg",
+      "assetGroup": "Sailing::SAIL",
+      "currencyId": "Sailing::SAIL"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "42161",
