@@ -46265,7 +46265,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2.png",
       "assetGroup": "SUSDE",
       "currencyId": "Staked USDe::sUSDe",
-      "tags": ["biconomy-gas-token", "VENUS"]
+      "tags": ["biconomy-gas-token", "VENUS", "coingecko"]
     },
     "0x2492d0006411af6c8bbb1c8afc1b0197350a79e9": {
       "chainId": "56",
@@ -49252,7 +49252,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67443/thumb/IMG_2582.jpeg?1752812755",
       "assetGroup": "DORA::DORA",
       "currencyId": "DORA::DORA",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xd63143f1ec2eaf65329fb2b67b6f50e457b49719": {
       "chainId": "56",
@@ -50763,7 +50763,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68410/thumb/akedo.png?1755678461",
       "assetGroup": "Akedo::AKE",
       "currencyId": "Akedo::AKE",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x1c4b67bdf876919a7375cd44f7dc99b65ce97c35": {
       "chainId": "56",
@@ -51126,7 +51126,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68504/thumb/multiple.png?1755956616",
       "assetGroup": "Multiple Network::MTP",
       "currencyId": "Multiple Network::MTP",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xfa35e2250e376c23955247383dc32c79082e7fcc": {
       "chainId": "56",
@@ -51137,7 +51137,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68467/thumb/fst.png?1755834095",
       "assetGroup": "FreeStyle Classic::FST",
       "currencyId": "FreeStyle Classic::FST",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xbd286d1df30e35a084bf1320d4d88da0b1724444": {
       "chainId": "56",
@@ -51236,7 +51236,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68506/thumb/alttown.png?1756023379",
       "assetGroup": "alt town::TOWN",
       "currencyId": "alt town::TOWN",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xe747e54783ba3f77a8e5251a3cba19ebe9c0e197": {
       "chainId": "56",
@@ -51247,7 +51247,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68577/thumb/overtake.png?1756118725",
       "assetGroup": "OVERTAKE::TAKE",
       "currencyId": "OVERTAKE::TAKE",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x8c321c2e323bc26c01df0dc62311482a1256fdf5": {
       "chainId": "56",
@@ -51269,6 +51269,72 @@
       "logoURI": "https://assets.coingecko.com/coins/images/29496/thumb/logo_kilopi_200sq.png?1696528442",
       "assetGroup": "Kilopi::LOP::56::0",
       "currencyId": "Kilopi::LOP",
+      "tags": ["coingecko"]
+    },
+    "0xfed13d0c40790220fbde712987079eda1ed75c51": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "BTR token",
+      "address": "0xfed13d0c40790220fbde712987079eda1ed75c51",
+      "symbol": "BTR",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xfed13D0c40790220fbdE712987079Eda1Ed75C51.png",
+      "assetGroup": "BTR token::BTR",
+      "currencyId": "BTR token::BTR",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x64da67a12a46f1ddf337393e2da12ed0a507ad3d": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "BNB Frog Inu",
+      "address": "0x64da67a12a46f1ddf337393e2da12ed0a507ad3d",
+      "symbol": "BNBFROG",
+      "logoURI": "https://assets.coingecko.com/coins/images/68714/thumb/Design_sem_nome_%2856%29.png?1756368536",
+      "assetGroup": "BNB Frog Inu::BNBFROG",
+      "currencyId": "BNB Frog Inu::BNBFROG",
+      "tags": ["coingecko"]
+    },
+    "0x772a520b28738a275fea3572f132dd16daa6be12": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Lumint",
+      "address": "0x772a520b28738a275fea3572f132dd16daa6be12",
+      "symbol": "LUMINT",
+      "logoURI": "https://assets.coingecko.com/coins/images/68727/thumb/Lumint.png?1756371216",
+      "assetGroup": "Lumint::LUMINT",
+      "currencyId": "Lumint::LUMINT",
+      "tags": ["coingecko"]
+    },
+    "0x4ffe5ec4d8b9822e01c9e49678884baec17f60d9": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "BESC MONEY",
+      "address": "0x4ffe5ec4d8b9822e01c9e49678884baec17f60d9",
+      "symbol": "MONEY",
+      "logoURI": "https://assets.coingecko.com/coins/images/68696/thumb/1000005686.jpg?1756286706",
+      "assetGroup": "BESC MONEY::MONEY",
+      "currencyId": "BESC MONEY::MONEY",
+      "tags": ["coingecko"]
+    },
+    "0xf22aac87e08d7fc60aa89eb21110ddfe59c20854": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Bitcoin AI",
+      "address": "0xf22aac87e08d7fc60aa89eb21110ddfe59c20854",
+      "symbol": "BTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/68699/thumb/7DA5F3E0-32DC-4691-964D-1DD273BC110F.jpg?1756289606",
+      "assetGroup": "Bitcoin AI::BTC",
+      "currencyId": "Bitcoin AI::BTC",
+      "tags": ["coingecko"]
+    },
+    "0x1123d47a13cfe2ff26750ed7b4fa8ad5794e4444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Palu the 8th builder",
+      "address": "0x1123d47a13cfe2ff26750ed7b4fa8ad5794e4444",
+      "symbol": "PALU",
+      "logoURI": "https://assets.coingecko.com/coins/images/68700/thumb/Img_no_bg.png?1756311691",
+      "assetGroup": "Palu the 8th builder::PALU",
+      "currencyId": "Palu the 8th builder::PALU",
       "tags": ["coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {

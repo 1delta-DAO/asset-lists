@@ -219,6 +219,17 @@
       "currencyId": "Celer Bridged USDT::USDT",
       "tags": ["celer", "bridged", "coingecko"]
     },
+    "0x31efb841d5e0b4082f7e1267dab8de1b853f2a9d": {
+      "chainId": "592",
+      "decimals": 18,
+      "name": "Chainlink",
+      "address": "0x31efb841d5e0b4082f7e1267dab8de1b853f2a9d",
+      "symbol": "LINK",
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
+      "assetGroup": "Chainlink::LINK",
+      "currencyId": "Chainlink::LINK",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "592",
       "decimals": 18,
@@ -253,7 +264,8 @@
     "0x998082c488e548820f970df5173bd2061ce90635",
     "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb",
     "0x4bf769b05e832fcdc9053fffbc78ca889acb5e1e",
-    "0x3795c36e7d12a8c252a20c5a7b455f7c57b60283"
+    "0x3795c36e7d12a8c252a20c5a7b455f7c57b60283",
+    "0x31efb841d5e0b4082f7e1267dab8de1b853f2a9d"
   ],
   "bridgeTokens": [
     "0x6a2d262d56735dba19dd70682b39f6be9a931d98",

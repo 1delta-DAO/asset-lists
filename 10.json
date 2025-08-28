@@ -6015,7 +6015,8 @@
       "symbol": "sUSDe",
       "logoURI": "https://ethena.fi/shared/ecosystem/sUSDe.svg",
       "assetGroup": "SUSDE",
-      "currencyId": "sUSDe::sUSDe"
+      "currencyId": "sUSDe::sUSDe",
+      "tags": ["debridge"]
     },
     "0xa52e38a9147f5ea9e0c5547376c21c9e3f3e5e1f": {
       "chainId": "10",
@@ -6293,9 +6294,10 @@
       "name": "Dephaser JPY",
       "address": "0xc47da4cb96ce65a96844a01bfae509f9d5454534",
       "symbol": "JPYT",
+      "logoURI": "https://assets.coingecko.com/coins/images/68576/thumb/JPYT_Logo_200x200_px.png?1756110424",
       "assetGroup": "Dephaser JPY::JPYT",
       "currencyId": "Dephaser JPY::JPYT",
-      "tags": ["debridge"]
+      "tags": ["debridge", "biconomy-gas-token"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "10",

@@ -16935,7 +16935,7 @@
       "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2/logo.png",
       "assetGroup": "SUSDE",
       "currencyId": "Staked USDe::sUSDe",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x6d2b49608a716e30bc7abcfe00181bf261bf6fc5": {
       "chainId": "8453",
@@ -29086,7 +29086,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68659/thumb/KOA_Launch.jpg?1756160136",
       "assetGroup": "BOMET::BOMET",
       "currencyId": "BOMET::BOMET",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x3aaf8a9e6c2a63af24c97cb29121d19c1cc10993": {
       "chainId": "8453",
@@ -29094,9 +29094,10 @@
       "name": "Blue Apu",
       "address": "0x3aaf8a9e6c2a63af24c97cb29121d19c1cc10993",
       "symbol": "BAPU",
+      "logoURI": "https://assets.coingecko.com/coins/images/68671/thumb/629c1427-e8fe-4772-9302-5fa8912b0648.jpeg?1756288288",
       "assetGroup": "Blue Apu::BAPU",
       "currencyId": "Blue Apu::BAPU",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x92f344ee566459b5ba471b5a6003224c8a2d0415": {
       "chainId": "8453",
@@ -29107,7 +29108,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68536/thumb/1000167847.png?1756103376",
       "assetGroup": "Base Index::BINDEX",
       "currencyId": "Base Index::BINDEX",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x5b9957a7459347163881d19a87f6dc13291c2b07": {
       "chainId": "8453",
@@ -29118,7 +29119,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68531/thumb/logo.png?1756101498",
       "assetGroup": "JUMPBOX ETH::JUMPBOXETH",
       "currencyId": "JUMPBOX ETH::JUMPBOXETH",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x03daca2c2e55b03ff1d0d81f099c8900ed7f1dab": {
       "chainId": "8453",
@@ -29129,7 +29130,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68675/thumb/200x200.png?1756234381",
       "assetGroup": "Flagship by Virtuals::FYI",
       "currencyId": "Flagship by Virtuals::FYI",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0xe42264d3470e2fdd6ec3e288ad57cf254865a941": {
       "chainId": "8453",
@@ -29140,7 +29141,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68539/thumb/token_logo.png?1756104055",
       "assetGroup": "ClipCoin::CLIPCOIN",
       "currencyId": "ClipCoin::CLIPCOIN",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x3977fc913db86b01a257232c568317798b903b07": {
       "chainId": "8453",
@@ -29151,7 +29152,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68635/thumb/nk0pkca6hqc7aok8ct12ms29ty01.?1756132841",
       "assetGroup": "Cody::CODY",
       "currencyId": "Cody::CODY",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x015e03a6ccef48a18ddb6cfdc3066d9443875672": {
       "chainId": "8453",
@@ -29159,9 +29160,65 @@
       "name": "Bl0ck",
       "address": "0x015e03a6ccef48a18ddb6cfdc3066d9443875672",
       "symbol": "BLOCK",
+      "logoURI": "https://assets.coingecko.com/coins/images/68693/thumb/BLOCK.png?1756285488",
       "assetGroup": "Bl0ck::BLOCK",
       "currencyId": "Bl0ck::BLOCK",
-      "tags": ["debridge"]
+      "tags": ["debridge", "biconomy-gas-token", "coingecko"]
+    },
+    "0x1de93ac1dea94497e97513d3cf8dbe5b9e72b25d": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Bulls vs Bears",
+      "address": "0x1de93ac1dea94497e97513d3cf8dbe5b9e72b25d",
+      "symbol": "BULLSVSBEARS",
+      "logoURI": "https://assets.coingecko.com/coins/images/68709/thumb/pvnhpc4i4juigpyd6nfe5e3bu8is.?1756326422",
+      "assetGroup": "Bulls vs Bears::BULLSVSBEARS",
+      "currencyId": "Bulls vs Bears::BULLSVSBEARS",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x78a5d1de296f351a4bc1316fed9db443381a80cd": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "AEGON by Virtuals",
+      "address": "0x78a5d1de296f351a4bc1316fed9db443381a80cd",
+      "symbol": "AEGON",
+      "logoURI": "https://assets.coingecko.com/coins/images/68710/thumb/hdjyl9g4qdahmdmanpqd6f0x7x5s.?1756326535",
+      "assetGroup": "AEGON by Virtuals::AEGON",
+      "currencyId": "AEGON by Virtuals::AEGON",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0xfb60b8266243d994eaa7499fca71d4ffe76c08d7": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Finwizz by Virtuals",
+      "address": "0xfb60b8266243d994eaa7499fca71d4ffe76c08d7",
+      "symbol": "FIN",
+      "logoURI": "https://assets.coingecko.com/coins/images/68711/thumb/kyoyk5obvemg9vyhat3ssaqpfxs9.?1756326659",
+      "assetGroup": "Finwizz by Virtuals::FIN",
+      "currencyId": "Finwizz by Virtuals::FIN",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0xb8d59c7b33054beda610b2b2d38ea38694cdfabd": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Midas The Minotaur",
+      "address": "0xb8d59c7b33054beda610b2b2d38ea38694cdfabd",
+      "symbol": "MIDAS",
+      "logoURI": "https://assets.coingecko.com/coins/images/68723/thumb/MIdas-tokenicon.jpg?1756370144",
+      "assetGroup": "Midas The Minotaur::MIDAS",
+      "currencyId": "Midas The Minotaur::MIDAS",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0xaad5de835931e9546359b546c20c2a4c37aeef7d": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "MyPal4Life",
+      "address": "0xaad5de835931e9546359b546c20c2a4c37aeef7d",
+      "symbol": "MPAL",
+      "logoURI": "https://assets.coingecko.com/coins/images/68719/thumb/200x200_MyPalLogo.png?1756369327",
+      "assetGroup": "MyPal4Life::MPAL",
+      "currencyId": "MyPal4Life::MPAL",
+      "tags": ["coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "8453",

@@ -194,6 +194,17 @@
       "currencyId": "ether.fi BTC::eBTC",
       "tags": ["ZEROLEND"]
     },
+    "0x7311ded199cc28d80e58e81e8589aa160199fcd2": {
+      "chainId": "21000000",
+      "decimals": 18,
+      "name": "Chainlink",
+      "address": "0x7311ded199cc28d80e58e81e8589aa160199fcd2",
+      "symbol": "LINK",
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
+      "assetGroup": "Chainlink::LINK",
+      "currencyId": "Chainlink::LINK",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "21000000",
       "decimals": 18,
@@ -226,7 +237,8 @@
     "0xda5ddd7270381a7c2717ad10d1c0ecb19e3cdfb2",
     "0xecac9c5f704e954931349da37f60e39f515c11c1",
     "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
-    "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb"
+    "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+    "0x7311ded199cc28d80e58e81e8589aa160199fcd2"
   ],
   "bridgeTokens": [
     "0xdf0b24095e15044538866576754f3c964e902ee6",

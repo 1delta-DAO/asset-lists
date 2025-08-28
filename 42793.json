@@ -198,6 +198,17 @@
       "currencyId": "Spiko EU T Bills Money Market Fund::EUTBL",
       "tags": ["coingecko"]
     },
+    "0x8ce7618e8f8e514d13889283f58ff03b794e6cc3": {
+      "chainId": "42793",
+      "decimals": 18,
+      "name": "Chainlink",
+      "address": "0x8ce7618e8f8e514d13889283f58ff03b794e6cc3",
+      "symbol": "LINK",
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
+      "assetGroup": "Chainlink::LINK",
+      "currencyId": "Chainlink::LINK",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "42793",
       "decimals": 18,
@@ -229,7 +240,8 @@
     "0x79052ab3c166d4899a1e0dd033ac3b379af0b1fd",
     "0x6b43732a9ae9f8654d496c0a075aa4aa43057a0b",
     "0xe4880249745eac5f1ed9d8f7df844792d560e750",
-    "0xa0769f7a8fc65e47de93797b4e21c073c117fc80"
+    "0xa0769f7a8fc65e47de93797b4e21c073c117fc80",
+    "0x8ce7618e8f8e514d13889283f58ff03b794e6cc3"
   ],
   "bridgeTokens": [
     "0x2c03058c8afc06713be23e58d2febc8337dbfe6a",

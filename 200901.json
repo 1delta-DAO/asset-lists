@@ -233,6 +233,17 @@
       "currencyId": "SatLayer Restaked uniBTC::SATUNIBTC",
       "tags": ["coingecko"]
     },
+    "0x56b275c0ec034a229a1ded8db17089544bc276d9": {
+      "chainId": "200901",
+      "decimals": 18,
+      "name": "Chainlink",
+      "address": "0x56b275c0ec034a229a1ded8db17089544bc276d9",
+      "symbol": "LINK",
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
+      "assetGroup": "Chainlink::LINK",
+      "currencyId": "Chainlink::LINK",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "200901",
       "decimals": 18,
@@ -270,7 +281,8 @@
     "0x9827431e8b77e87c9894bd50b055d6be56be0030",
     "0xef63d4e178b3180beec9b0e143e0f37f4c93f4c2",
     "0xf8c374ce88a3be3d374e8888349c7768b607c755",
-    "0x4fdb0511f1e5c6c215596570f855cb1f9924b8b6"
+    "0x4fdb0511f1e5c6c215596570f855cb1f9924b8b6",
+    "0x56b275c0ec034a229a1ded8db17089544bc276d9"
   ],
   "bridgeTokens": [
     "0x4200000000000000000000000000000000000006",

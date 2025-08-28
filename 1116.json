@@ -942,6 +942,17 @@
       "currencyId": "Fiamma BTC::FIABTC",
       "tags": ["coingecko"]
     },
+    "0x3902228d6a3d2dc44731fd9d45fee6a61c722d0b": {
+      "chainId": "1116",
+      "decimals": 18,
+      "name": "Chainlink",
+      "address": "0x3902228d6a3d2dc44731fd9d45fee6a61c722d0b",
+      "symbol": "LINK",
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
+      "assetGroup": "Chainlink::LINK",
+      "currencyId": "Chainlink::LINK",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "1116",
       "decimals": 18,
@@ -996,12 +1007,15 @@
     "0x0fd98374ee05d059885ba70988ea2d072f6fd981",
     "0xe9aece1ba8bbd429a1ed33349c61280441ac8f99",
     "0x5832f53d147b3d6cd4578b9cbd62425c7ea9d0bd",
-    "0x5a2aa871954ebdf89b1547e75d032598356caad5"
+    "0x5a2aa871954ebdf89b1547e75d032598356caad5",
+    "0x12aa82525deff84777fa78578a68ceb854a85f43",
+    "0xef6b7bc74c9354bcf2e3f2a068e4b0b5cdf08f29"
   ],
   "bridgeTokens": [
     "0xdd5d49910c5d475c984ee891a928de6658d2042d",
     "0xa4151b2b3e269645181dccf2d426ce75fcbdeca9",
     "0x900101d06a7426441ae63e9ab3b9b0f63be145f1",
-    "0xeab3ac417c4d6df6b143346a46fee1b847b50296"
+    "0xeab3ac417c4d6df6b143346a46fee1b847b50296",
+    "0x12aa82525deff84777fa78578a68ceb854a85f43"
   ]
 }

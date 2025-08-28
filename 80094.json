@@ -198,7 +198,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x211Cc4DD073734dA055fbF44a2b4667d5E5fE5d2/logo.png",
       "assetGroup": "SUSDE",
       "currencyId": "Staked USDe::sUSDe",
-      "tags": ["ZEROLEND"]
+      "tags": ["ZEROLEND", "coingecko", "debridge"]
     },
     "0x7dcc39b4d1c53cb31e1abc0e358b43987fef80f7": {
       "chainId": "80094",
@@ -1089,6 +1089,226 @@
       "assetGroup": "SatLayer Restaked uniBTC::SATUNIBTC",
       "currencyId": "SatLayer Restaked uniBTC::SATUNIBTC",
       "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+    },
+    "0x0461fa18a6af015984de30a208370aea6ae54573": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "Bow Jones",
+      "address": "0x0461fa18a6af015984de30a208370aea6ae54573",
+      "symbol": "BOW",
+      "logoURI": "https://d341uglbp0q7i.cloudfront.net/0x0461fa18a6af015984de30a208370aea6ae54573.png",
+      "assetGroup": "Bow Jones::BOW",
+      "currencyId": "Bow Jones::BOW",
+      "tags": ["panda"]
+    },
+    "0x0d9ac083dd2760943f773e70ebffe621e950871c": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "Bera the Cub",
+      "address": "0x0d9ac083dd2760943f773e70ebffe621e950871c",
+      "symbol": "BTC",
+      "logoURI": "https://d341uglbp0q7i.cloudfront.net/0x0d9ac083dd2760943f773e70ebffe621e950871c.png",
+      "assetGroup": "Bera the Cub::BTC",
+      "currencyId": "Bera the Cub::BTC",
+      "tags": ["panda"]
+    },
+    "0x11909a68ae60903c96c35c059fcf262e54df29d5": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "Bong Bears",
+      "address": "0x11909a68ae60903c96c35c059fcf262e54df29d5",
+      "symbol": "BONGA",
+      "logoURI": "https://d341uglbp0q7i.cloudfront.net/0x11909a68ae60903c96c35c059fcf262e54df29d5.png",
+      "assetGroup": "Bong Bears::BONGA",
+      "currencyId": "Bong Bears::BONGA",
+      "tags": ["panda"]
+    },
+    "0x3048a894c03d9cfc7d0452ea5f90aaa552d75edb": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "bear",
+      "address": "0x3048a894c03d9cfc7d0452ea5f90aaa552d75edb",
+      "symbol": "bear",
+      "logoURI": "https://d341uglbp0q7i.cloudfront.net/0x3048a894c03d9cfc7d0452ea5f90aaa552d75edb.png",
+      "assetGroup": "bear::bear",
+      "currencyId": "bear::bear",
+      "tags": ["panda"]
+    },
+    "0x34a31c8c9cf59d411b30445e62231c352e639750": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "Couch Bera",
+      "address": "0x34a31c8c9cf59d411b30445e62231c352e639750",
+      "symbol": "COUCH",
+      "logoURI": "https://d341uglbp0q7i.cloudfront.net/0x34a31c8c9cf59d411b30445e62231c352e639750.png",
+      "assetGroup": "Couch Bera::COUCH",
+      "currencyId": "Couch Bera::COUCH",
+      "tags": ["panda"]
+    },
+    "0x38e98c6cfda490966fb6fd952748221cb18e17a0": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "BeraXBT",
+      "address": "0x38e98c6cfda490966fb6fd952748221cb18e17a0",
+      "symbol": "BXBT",
+      "logoURI": "https://d341uglbp0q7i.cloudfront.net/0x38e98c6cfda490966fb6fd952748221cb18e17a0.png",
+      "assetGroup": "BeraXBT::BXBT",
+      "currencyId": "BeraXBT::BXBT",
+      "tags": ["panda"]
+    },
+    "0x41fc191d145307667ea3e50f244b78de9cddf53f": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "Quod In Altum",
+      "address": "0x41fc191d145307667ea3e50f244b78de9cddf53f",
+      "symbol": "QIA",
+      "logoURI": "https://d341uglbp0q7i.cloudfront.net/0x41fc191d145307667ea3e50f244b78de9cddf53f.png",
+      "assetGroup": "Quod In Altum::QIA",
+      "currencyId": "Quod In Altum::QIA",
+      "tags": ["panda"]
+    },
+    "0x4434bc66eb411f8bf55a6537a592623e4a3857a5": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "BOBO",
+      "address": "0x4434bc66eb411f8bf55a6537a592623e4a3857a5",
+      "symbol": "BOBO",
+      "logoURI": "https://d341uglbp0q7i.cloudfront.net/0x4434bc66eb411f8bf55a6537a592623e4a3857a5.png",
+      "assetGroup": "BOBO::BOBO",
+      "currencyId": "BOBO::BOBO",
+      "tags": ["panda"]
+    },
+    "0x4a4e2bba852a6e294264103fdc30d2800f473ad6": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "Pookie",
+      "address": "0x4a4e2bba852a6e294264103fdc30d2800f473ad6",
+      "symbol": "pookie",
+      "logoURI": "https://d341uglbp0q7i.cloudfront.net/0x4a4e2bba852a6e294264103fdc30d2800f473ad6.png",
+      "assetGroup": "Pookie::pookie",
+      "currencyId": "Pookie::pookie",
+      "tags": ["panda"]
+    },
+    "0x51a7688ca5b142456f4c8d44513433485bf599e9": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "POLAR AI",
+      "address": "0x51a7688ca5b142456f4c8d44513433485bf599e9",
+      "symbol": "POLAR",
+      "logoURI": "https://d341uglbp0q7i.cloudfront.net/0x51a7688ca5b142456f4c8d44513433485bf599e9.png",
+      "assetGroup": "POLAR AI::POLAR",
+      "currencyId": "POLAR AI::POLAR",
+      "tags": ["panda"]
+    },
+    "0x5558babe9ad82ce3af161e70a061bca7289cd5d7": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "Sloth Bera",
+      "address": "0x5558babe9ad82ce3af161e70a061bca7289cd5d7",
+      "symbol": "SLOTH",
+      "logoURI": "https://d341uglbp0q7i.cloudfront.net/0x5558babe9ad82ce3af161e70a061bca7289cd5d7.png",
+      "assetGroup": "Sloth Bera::SLOTH",
+      "currencyId": "Sloth Bera::SLOTH",
+      "tags": ["panda"]
+    },
+    "0x6921619dd6e4bb71169c537cb88ec906d9477597": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "GOOB",
+      "address": "0x6921619dd6e4bb71169c537cb88ec906d9477597",
+      "symbol": "$GOOB",
+      "logoURI": "https://d341uglbp0q7i.cloudfront.net/0x6921619dd6e4bb71169c537cb88ec906d9477597.png",
+      "assetGroup": "GOOB::$GOOB",
+      "currencyId": "GOOB::$GOOB",
+      "tags": ["panda"]
+    },
+    "0x6a0c86fe04f77ec2546ae072be6d8b60f0c8a421": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "Neo Bera",
+      "address": "0x6a0c86fe04f77ec2546ae072be6d8b60f0c8a421",
+      "symbol": "Neo",
+      "logoURI": "https://d341uglbp0q7i.cloudfront.net/0x6a0c86fe04f77ec2546ae072be6d8b60f0c8a421.png",
+      "assetGroup": "Neo Bera::Neo",
+      "currencyId": "Neo Bera::Neo",
+      "tags": ["panda"]
+    },
+    "0x81fccaf679879e380f6b8f748df7d199467de219": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "BearWifSock",
+      "address": "0x81fccaf679879e380f6b8f748df7d199467de219",
+      "symbol": "WifSock",
+      "logoURI": "https://d341uglbp0q7i.cloudfront.net/0x81fccaf679879e380f6b8f748df7d199467de219.png",
+      "assetGroup": "BearWifSock::WifSock",
+      "currencyId": "BearWifSock::WifSock",
+      "tags": ["panda"]
+    },
+    "0xafa4fbcfb207e3f13467852a88af9e2763690b12": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "butterdawg",
+      "address": "0xafa4fbcfb207e3f13467852a88af9e2763690b12",
+      "symbol": "bdawg",
+      "logoURI": "https://d341uglbp0q7i.cloudfront.net/0xafa4fbcfb207e3f13467852a88af9e2763690b12.png",
+      "assetGroup": "butterdawg::bdawg",
+      "currencyId": "butterdawg::bdawg",
+      "tags": ["panda"]
+    },
+    "0xbd6a2abc6bad35530ef589932a21e940b0d11e03": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "Test_Honey",
+      "address": "0xbd6a2abc6bad35530ef589932a21e940b0d11e03",
+      "symbol": "TEST",
+      "logoURI": "https://d341uglbp0q7i.cloudfront.net/0xbd6a2abc6bad35530ef589932a21e940b0d11e03.png",
+      "assetGroup": "Test_Honey::TEST",
+      "currencyId": "Test_Honey::TEST",
+      "tags": ["panda"]
+    },
+    "0xc1d59516bccf10aeb33bade931de8b9d4d18a51e": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "Berjak",
+      "address": "0xc1d59516bccf10aeb33bade931de8b9d4d18a51e",
+      "symbol": "BERJAK",
+      "logoURI": "https://d341uglbp0q7i.cloudfront.net/0xc1d59516bccf10aeb33bade931de8b9d4d18a51e.png",
+      "assetGroup": "Berjak::BERJAK",
+      "currencyId": "Berjak::BERJAK",
+      "tags": ["panda"]
+    },
+    "0xc309d1774f7a37062e1e40eed1be94b6c2627286": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "SmokeysDog",
+      "address": "0xc309d1774f7a37062e1e40eed1be94b6c2627286",
+      "symbol": "PATCHS",
+      "logoURI": "https://d341uglbp0q7i.cloudfront.net/0xc309d1774f7a37062e1e40eed1be94b6c2627286.png",
+      "assetGroup": "SmokeysDog::PATCHS",
+      "currencyId": "SmokeysDog::PATCHS",
+      "tags": ["panda"]
+    },
+    "0xfbe1b4d0a041c1c107899be08e5acc7d7f276774": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "The Bera Cabal",
+      "address": "0xfbe1b4d0a041c1c107899be08e5acc7d7f276774",
+      "symbol": "BABAL",
+      "logoURI": "https://d341uglbp0q7i.cloudfront.net/0xfbe1b4d0a041c1c107899be08e5acc7d7f276774.png",
+      "assetGroup": "The Bera Cabal::BABAL",
+      "currencyId": "The Bera Cabal::BABAL",
+      "tags": ["panda"]
+    },
+    "0x71052bae71c25c78e37fd12e5ff1101a71d9018f": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "Chainlink",
+      "address": "0x71052bae71c25c78e37fd12e5ff1101a71d9018f",
+      "symbol": "LINK",
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
+      "assetGroup": "Chainlink::LINK",
+      "currencyId": "Chainlink::LINK",
+      "tags": ["coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "80094",

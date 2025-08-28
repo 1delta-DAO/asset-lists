@@ -16658,7 +16658,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2.png",
       "assetGroup": "SUSDE",
       "currencyId": "Staked USDe::sUSDe",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x6ac107c54e389db4dd02e08e5cd61b625d3e84d5": {
       "chainId": "42161",
@@ -22288,7 +22288,7 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/morpho.svg",
       "assetGroup": "MORPHO",
       "currencyId": "Morpho Token::MORPHO",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x86856814e74456893cfc8946bedcbb472b5fa856": {
       "chainId": "42161",
@@ -22764,6 +22764,17 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/SAIL.svg",
       "assetGroup": "Sailing::SAIL",
       "currencyId": "Sailing::SAIL"
+    },
+    "0x527e8d368298dea5a53be257e5300f4dbafb7a97": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Loaded Lions",
+      "address": "0x527e8d368298dea5a53be257e5300f4dbafb7a97",
+      "symbol": "LION",
+      "logoURI": "https://assets.coingecko.com/coins/images/54686/thumb/_LION_Token_Artwork.png?1741015702",
+      "assetGroup": "Loaded Lions::LION",
+      "currencyId": "Loaded Lions::LION",
+      "tags": ["coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "42161",

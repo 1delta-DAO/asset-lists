@@ -3542,6 +3542,17 @@
       "assetGroup": "LINK0::LINK0",
       "currencyId": "LINK0::LINK0"
     },
+    "0x36721e62edea413dc5195c4ca9c5a7eb175feb6b": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Mantle",
+      "address": "0x36721e62edea413dc5195c4ca9c5a7eb175feb6b",
+      "symbol": "MNT",
+      "logoURI": "https://token-list.mantle.xyz/data/Mantle/logo.svg",
+      "assetGroup": "MNT",
+      "currencyId": "Mantle::MNT",
+      "tags": ["mantlelist"]
+    },
     "0x2c910f67dbf81099e6f8e126e7265d7595dc20ad": {
       "chainId": "999",
       "decimals": 6,
@@ -3620,5 +3631,8 @@
     "0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1",
     "0x0725a349f733cc13c84232a706d9ca99d2a1ef23"
   ],
-  "bridgeTokens": ["0x7410e69958a8ece2a51c231c8528513d4d668c7a", "0x0555e30da8f98308edb960aa94c0db47230d2b9c"]
+  "bridgeTokens": [
+    "0x7410e69958a8ece2a51c231c8528513d4d668c7a",
+    "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
+  ]
 }

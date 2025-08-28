@@ -9162,7 +9162,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68674/thumb/borne-token.png?1756231684",
       "assetGroup": "BORNE::BORNE",
       "currencyId": "BORNE::BORNE",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x6f911b6b39bcc665a463129c94b5380a4387b7eb": {
       "chainId": "43114",
@@ -9173,7 +9173,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/31401/thumb/centeredcoin_%281%29.png?1737048493",
       "assetGroup": "SPX6900::SPX",
       "currencyId": "SPX6900::SPX",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x634608ed64c61ca9e741f8095193c0bfa0fa19cc": {
       "chainId": "43114",
@@ -9181,9 +9181,32 @@
       "name": "Wormhole Bridged SOL",
       "address": "0x634608ed64c61ca9e741f8095193c0bfa0fa19cc",
       "symbol": "SOL",
+      "logoURI": "https://assets.coingecko.com/coins/images/68694/thumb/solana.jpg?1756285572",
       "assetGroup": "SOL",
       "currencyId": "Wormhole Bridged SOL::SOL",
-      "tags": ["wormhole", "bridged", "debridge"]
+      "tags": ["wormhole", "bridged", "debridge", "biconomy-gas-token", "coingecko"]
+    },
+    "0x14a84f1a61ccd7d1be596a6cc11fe33a36bc1646": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Treehouse AVAX",
+      "address": "0x14a84f1a61ccd7d1be596a6cc11fe33a36bc1646",
+      "symbol": "tAVAX",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x14a84f1a61ccd7d1be596a6cc11fe33a36bc1646.png",
+      "assetGroup": "Treehouse AVAX::tAVAX",
+      "currencyId": "Treehouse AVAX::tAVAX",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Ethena Staked USDe",
+      "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+      "symbol": "SUSDE",
+      "logoURI": "https://assets.coingecko.com/coins/images/33669/thumb/sUSDe-Symbol-Color.png?1716307680",
+      "assetGroup": "SUSDE",
+      "currencyId": "Ethena Staked USDe::SUSDE",
+      "tags": ["coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "43114",

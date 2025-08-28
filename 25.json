@@ -3100,6 +3100,420 @@
       "currencyId": "BOBz::BOBZ",
       "tags": ["coingecko"]
     },
+    "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "CRO Token",
+      "address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+      "symbol": "CRO",
+      "logoURI": "https://vvs-ui.vvs.finance/a088a8a9b4e0ff0e44d99e41d509d19cac879a9c99077ca73d41b8f5a929186a.svg",
+      "assetGroup": "CRO Token::CRO",
+      "currencyId": "CRO Token::CRO"
+    },
+    "0x8d983cb9388eac77af0474fa441c4815500cb7bb": {
+      "chainId": "25",
+      "decimals": 6,
+      "name": "ATOM",
+      "address": "0x8d983cb9388eac77af0474fa441c4815500cb7bb",
+      "symbol": "ATOM",
+      "logoURI": "https://vvs-ui.vvs.finance/d3b4b614ccac8a269c965c0fcef37defc075c495d17ca28e6381dcaf531b18bd.svg",
+      "assetGroup": "ATOM::ATOM",
+      "currencyId": "ATOM::ATOM"
+    },
+    "0xf44acfdc916898449e39062934c2b496799b6abe": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "Stargate Bridged WETH",
+      "address": "0xf44acfdc916898449e39062934c2b496799b6abe",
+      "symbol": "WETH",
+      "logoURI": "https://vvs-ui.vvs.finance/069ce812a1dba0006084a72cb184b669390231ae946aaf5096c0c634c31c4c46.svg",
+      "assetGroup": "ETH",
+      "currencyId": "Stargate Bridged WETH::WETH",
+      "tags": ["stargate", "bridged"]
+    },
+    "0xf951ec28187d9e5ca673da8fe6757e6f0be5f77c": {
+      "chainId": "25",
+      "decimals": 6,
+      "name": "Stargate Bridged USDC",
+      "address": "0xf951ec28187d9e5ca673da8fe6757e6f0be5f77c",
+      "symbol": "USDC.e",
+      "logoURI": "https://vvs-ui.vvs.finance/c664e0c59bb94eab4753bdb1992633feeafc486ae0f021c16be40da90a35a7bb.svg",
+      "assetGroup": "USDC",
+      "currencyId": "Stargate Bridged USDC::USDC.e",
+      "tags": ["stargate", "bridged"]
+    },
+    "0x81710203a7fc16797ac9899228a87fd622df9706": {
+      "chainId": "25",
+      "decimals": 9,
+      "name": "Sui Network",
+      "address": "0x81710203a7fc16797ac9899228a87fd622df9706",
+      "symbol": "SUI",
+      "logoURI": "https://vvs-ui.vvs.finance/97bb7aa91fe796494536cab47ca9460ec74c7b719b1f8bb749dbd05570595cf7.svg",
+      "assetGroup": "Sui Network::SUI",
+      "currencyId": "Sui Network::SUI"
+    },
+    "0xbc4944813d01bccb6e8c4d7099943848c2dc32dd": {
+      "chainId": "25",
+      "decimals": 6,
+      "name": "Just a chill guy",
+      "address": "0xbc4944813d01bccb6e8c4d7099943848c2dc32dd",
+      "symbol": "CHILLGUY",
+      "logoURI": "https://vvs-ui.vvs.finance/8e5f286a3b20c02debfd5679b20a144401735f3d82066d053dd6d0a5dcc48551.svg",
+      "assetGroup": "Just a chill guy::CHILLGUY",
+      "currencyId": "Just a chill guy::CHILLGUY"
+    },
+    "0x449615af353ffbf7c1d15b97a36d52ad7d6448d0": {
+      "chainId": "25",
+      "decimals": 6,
+      "name": "Moo Deng",
+      "address": "0x449615af353ffbf7c1d15b97a36d52ad7d6448d0",
+      "symbol": "MOODENG",
+      "logoURI": "https://vvs-ui.vvs.finance/6510d74ceba7e477baa7a7f06181f64233b5b6705c21f058bb740432fb01ffb1.svg",
+      "assetGroup": "Moo Deng::MOODENG",
+      "currencyId": "Moo Deng::MOODENG"
+    },
+    "0xd7f099c7a26466702cdbd1cac3447dbebe9ce6cf": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "Dark Matter Esports",
+      "address": "0xd7f099c7a26466702cdbd1cac3447dbebe9ce6cf",
+      "symbol": "DME",
+      "logoURI": "https://vvs-ui.vvs.finance/a421438badef1052b81d6c4ad5d5fdc9255af1250d5b1f58b418be41ea3bfc21.svg",
+      "assetGroup": "Dark Matter Esports::DME",
+      "currencyId": "Dark Matter Esports::DME"
+    },
+    "0xfbd40beabdf81350e116f686e0fb7d24d867bf38": {
+      "chainId": "25",
+      "decimals": 6,
+      "name": "Pump.fun",
+      "address": "0xfbd40beabdf81350e116f686e0fb7d24d867bf38",
+      "symbol": "PUMP",
+      "logoURI": "https://vvs-ui.vvs.finance/8a6b3a327045f4caeec291063e01e38225d013dc1bc6c73d359cab9380211261.svg",
+      "assetGroup": "Pump.fun::PUMP",
+      "currencyId": "Pump.fun::PUMP"
+    },
+    "0x6982508145454ce325ddbe47a25d4ec3d2311933": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "PEPE",
+      "address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+      "symbol": "PEPE",
+      "logoURI": "https://vvs-ui.vvs.finance/5b55c262fd026f43a79301c986178a0899a66bbe1fee3f1dfe940934d6d07dee.svg",
+      "assetGroup": "PEPE::PEPE::25::0",
+      "currencyId": "PEPE::PEPE"
+    },
+    "0x769409037336430a1a5890065b7853f0d1d8b58f": {
+      "chainId": "25",
+      "decimals": 6,
+      "name": "Pudgy Penguins",
+      "address": "0x769409037336430a1a5890065b7853f0d1d8b58f",
+      "symbol": "PENGU",
+      "logoURI": "https://vvs-ui.vvs.finance/56aa3ef283d046da251fe66b717f51329cc2b3e167cbf3709a4862fbd6e108be.svg",
+      "assetGroup": "Pudgy Penguins::PENGU",
+      "currencyId": "Pudgy Penguins::PENGU"
+    },
+    "0x101632377a2378f6a9bda0eab990cf6382ab8c85": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "Virtuals Protocol",
+      "address": "0x101632377a2378f6a9bda0eab990cf6382ab8c85",
+      "symbol": "VIRTUAL",
+      "logoURI": "https://vvs-ui.vvs.finance/86a34d3c8edec4f7185d828304e657b9adc54f03817f42be28e7f0ac3dece78a.svg",
+      "assetGroup": "Virtuals Protocol::VIRTUAL",
+      "currencyId": "Virtuals Protocol::VIRTUAL"
+    },
+    "0x58ae37d7bb524fa268d239662b9c1352194a884c": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "Ethena",
+      "address": "0x58ae37d7bb524fa268d239662b9c1352194a884c",
+      "symbol": "ENA",
+      "logoURI": "https://vvs-ui.vvs.finance/6d21ee2486c261cbbdf5cad8ccb0851033e61db81c87998d929699e9f8b0b3c5.svg",
+      "assetGroup": "Ethena::ENA",
+      "currencyId": "Ethena::ENA"
+    },
+    "0xd1d7a0ff6cd3d494038b7fb93dbaef624da6f417": {
+      "chainId": "25",
+      "decimals": 6,
+      "name": "Official Trump",
+      "address": "0xd1d7a0ff6cd3d494038b7fb93dbaef624da6f417",
+      "symbol": "TRUMP",
+      "logoURI": "https://vvs-ui.vvs.finance/dedf1efca7a343be78ef839acec725f74c6c1294d44eaed28397bedd71ef8d56.svg",
+      "assetGroup": "Official Trump::TRUMP",
+      "currencyId": "Official Trump::TRUMP"
+    },
+    "0x5aea5775959fbc2557cc8789bc1bf90a239d9a91": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "ETH Token",
+      "address": "0x5aea5775959fbc2557cc8789bc1bf90a239d9a91",
+      "symbol": "WETH",
+      "logoURI": "https://vvs-ui.vvs.finance/7975dd685aeec421e6a2017a238eefb3a2a40d601f4dc264ae70ba54550ca568.svg",
+      "assetGroup": "ETH Token::WETH",
+      "currencyId": "ETH Token::WETH"
+    },
+    "0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4": {
+      "chainId": "25",
+      "decimals": 6,
+      "name": "USDC Token",
+      "address": "0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4",
+      "symbol": "USDC",
+      "logoURI": "https://vvs-ui.vvs.finance/4c445b2c574067cbf6f1cc643b3c67a73e24b2218036f0df4c327cf08fd8aa3e.svg",
+      "assetGroup": "USDC Token::USDC",
+      "currencyId": "USDC Token::USDC"
+    },
+    "0x88ed62a68e1eaabdfc8ba96e10a68561ab9579b5": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "Lionel The Lion by AgentFun",
+      "address": "0x88ed62a68e1eaabdfc8ba96e10a68561ab9579b5",
+      "symbol": "LION",
+      "logoURI": "https://vvs-ui.vvs.finance/3e498d6a186609897d10896f63650e421321e0a1683b360faaca645afa85ca07.svg",
+      "assetGroup": "Lionel The Lion by AgentFun::LION",
+      "currencyId": "Lionel The Lion by AgentFun::LION"
+    },
+    "0xd4bf11c2f75e5e4574feb931cbc8268885f792f9": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "RumHam",
+      "address": "0xd4bf11c2f75e5e4574feb931cbc8268885f792f9",
+      "symbol": "ham",
+      "logoURI": "https://vvs-ui.vvs.finance/8f6029367ca4bcbe908bd2bb903b91c9c8fa746953919ea19b586b68a409cf88.svg",
+      "assetGroup": "RumHam::ham",
+      "currencyId": "RumHam::ham"
+    },
+    "0x6135c840c511a112457d647aad82a26412a4fa7d": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "Lazy Lion",
+      "address": "0x6135c840c511a112457d647aad82a26412a4fa7d",
+      "symbol": "LAZY",
+      "logoURI": "https://vvs-ui.vvs.finance/1556e42944ef518353483535dd9a883858fd5acba124a6c5135eaea022c65b20.svg",
+      "assetGroup": "Lazy Lion::LAZY",
+      "currencyId": "Lazy Lion::LAZY"
+    },
+    "0xe7a2ffa3463c4e7cab1907e5ad8071fa656d8391": {
+      "chainId": "25",
+      "decimals": 6,
+      "name": "Goatseus Maximus",
+      "address": "0xe7a2ffa3463c4e7cab1907e5ad8071fa656d8391",
+      "symbol": "GOAT",
+      "logoURI": "https://vvs-ui.vvs.finance/a1b0f7191ef1c85ddf4edb90b3675a0b2fbdabf55d3605faa180df64bf1d4067.svg",
+      "assetGroup": "Goatseus Maximus::GOAT",
+      "currencyId": "Goatseus Maximus::GOAT"
+    },
+    "0x2f32b39023da7d6a6486a85d12b346eb9c2a0d19": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "Ferro Token",
+      "address": "0x2f32b39023da7d6a6486a85d12b346eb9c2a0d19",
+      "symbol": "FER",
+      "logoURI": "https://vvs-ui.vvs.finance/56121aa76a2a047009d8342f7807ac5579ade6e42a730e1506693b42ddb515ce.svg",
+      "assetGroup": "Ferro Token::FER",
+      "currencyId": "Ferro Token::FER"
+    },
+    "0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "Dogelon Mars",
+      "address": "0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3",
+      "symbol": "ELON",
+      "logoURI": "https://vvs-ui.vvs.finance/5f6ee1382fc7f33f746f688860b9cf291b163d69c1dad16c0f0dc2267ea9ba9c.svg",
+      "assetGroup": "ELON",
+      "currencyId": "Dogelon Mars::ELON"
+    },
+    "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "WETH Token",
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "symbol": "WETH",
+      "logoURI": "https://vvs-ui.vvs.finance/7975dd685aeec421e6a2017a238eefb3a2a40d601f4dc264ae70ba54550ca568.svg",
+      "assetGroup": "WETH Token::WETH",
+      "currencyId": "WETH Token::WETH"
+    },
+    "0xb5ef02132752488e51be4a0b23f1cc789ba1ddc9": {
+      "chainId": "25",
+      "decimals": 8,
+      "name": "Movement",
+      "address": "0xb5ef02132752488e51be4a0b23f1cc789ba1ddc9",
+      "symbol": "MOVE",
+      "logoURI": "https://vvs-ui.vvs.finance/d7edf2008fdc8db57a33ebe095698a9e0e67f2a68df34745df9666277afd8929.svg",
+      "assetGroup": "Movement::MOVE",
+      "currencyId": "Movement::MOVE"
+    },
+    "0xa8d3288f4fe8650ec038c398fc65b7c93540cc10": {
+      "chainId": "25",
+      "decimals": 9,
+      "name": "Popcat",
+      "address": "0xa8d3288f4fe8650ec038c398fc65b7c93540cc10",
+      "symbol": "POPCAT",
+      "logoURI": "https://vvs-ui.vvs.finance/e1128c17d7e9c919f07b8c5c23d84bc1d4daf0885d889614c0020a6533e49a4e.svg",
+      "assetGroup": "Popcat::POPCAT",
+      "currencyId": "Popcat::POPCAT"
+    },
+    "0x7b350e8b405090496b02d28f7cdb6fbb3f8c6418": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "VVS Token",
+      "address": "0x7b350e8b405090496b02d28f7cdb6fbb3f8c6418",
+      "symbol": "VVS",
+      "logoURI": "https://vvs-ui.vvs.finance/cefe5f4686c04f0610bd0e3dbdcde1da31c247e41c1883a49779dda41f4cb882.svg",
+      "assetGroup": "VVS Token::VVS",
+      "currencyId": "VVS Token::VVS"
+    },
+    "0x0bcca089f12ae9e78f5060e1d6fbbe1c827c5990": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "CRO Token",
+      "address": "0x0bcca089f12ae9e78f5060e1d6fbbe1c827c5990",
+      "symbol": "WCRO",
+      "logoURI": "https://vvs-ui.vvs.finance/a088a8a9b4e0ff0e44d99e41d509d19cac879a9c99077ca73d41b8f5a929186a.svg",
+      "assetGroup": "CRO Token::WCRO",
+      "currencyId": "CRO Token::WCRO"
+    },
+    "0x93f2e7cb3b0dd9897053f8c3969b57c9cd7bdb1a": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "Generation Z",
+      "address": "0x93f2e7cb3b0dd9897053f8c3969b57c9cd7bdb1a",
+      "symbol": "GENZ",
+      "logoURI": "https://vvs-ui.vvs.finance/d7f26727788f8dd3d4f69c29aa1cd330b79cbd16052643ea7b3042c334f37c7e.svg",
+      "assetGroup": "Generation Z::GENZ",
+      "currencyId": "Generation Z::GENZ"
+    },
+    "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "Shiba Inu",
+      "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+      "symbol": "SHIB",
+      "logoURI": "https://vvs-ui.vvs.finance/d9ed5d7d0e1d4c8a690bf8dbd312355fd6ae9f447db7d87b567269dbb1a059cb.svg",
+      "assetGroup": "Shiba Inu::SHIB",
+      "currencyId": "Shiba Inu::SHIB"
+    },
+    "0x809e130e10e787139c54e1d12d3d1971b7a675bf": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "Minted Token",
+      "address": "0x809e130e10e787139c54e1d12d3d1971b7a675bf",
+      "symbol": "MTD",
+      "logoURI": "https://vvs-ui.vvs.finance/58aacd5f294e53511192c72174e23d9f82d14487a0c57fe8aa88e7291bbc2e89.svg",
+      "assetGroup": "Minted Token::MTD",
+      "currencyId": "Minted Token::MTD"
+    },
+    "0x12970e6868f88f6557b76120662c1b3e50a646bf": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "Milady",
+      "address": "0x12970e6868f88f6557b76120662c1b3e50a646bf",
+      "symbol": "LADYS",
+      "logoURI": "https://vvs-ui.vvs.finance/15e8f67168f9b5cfa8f4091b47bfdf826c6bc2c763ee5c84d20615f9e502b3b6.svg",
+      "assetGroup": "Milady::LADYS::25::0",
+      "currencyId": "Milady::LADYS"
+    },
+    "0xb966b5d6a0fcd5b373b180bbe072bbfbbee10552": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "xARGO",
+      "address": "0xb966b5d6a0fcd5b373b180bbe072bbfbbee10552",
+      "symbol": "xARGO",
+      "logoURI": "https://vvs-ui.vvs.finance/e202dfe39e24e76bbd1a5a35cd7ce92481e50b6dcadbabbf9eab51f95fca7589.svg",
+      "assetGroup": "xARGO::xARGO",
+      "currencyId": "xARGO::xARGO"
+    },
+    "0x6932d52658687cbe9daf357cdc5f911fe4f18950": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "Cronos Rebel Alliance",
+      "address": "0x6932d52658687cbe9daf357cdc5f911fe4f18950",
+      "symbol": "CRORA",
+      "logoURI": "https://vvs-ui.vvs.finance/5ee20ad910a6f81745125b449103d665bceae56b8680e3908d3be14ee4f68cce.svg",
+      "assetGroup": "Cronos Rebel Alliance::CRORA",
+      "currencyId": "Cronos Rebel Alliance::CRORA"
+    },
+    "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48": {
+      "chainId": "25",
+      "decimals": 6,
+      "name": "USDC Token",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "symbol": "USDC",
+      "logoURI": "https://vvs-ui.vvs.finance/4c445b2c574067cbf6f1cc643b3c67a73e24b2218036f0df4c327cf08fd8aa3e.svg",
+      "assetGroup": "USDC Token::USDC::25::0",
+      "currencyId": "USDC Token::USDC"
+    },
+    "0xdac17f958d2ee523a2206206994597c13d831ec7": {
+      "chainId": "25",
+      "decimals": 6,
+      "name": "Tether USD",
+      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "logoURI": "https://vvs-ui.vvs.finance/bd5ad6a351ba8a4f698cb2196584ccae3da1dab8d6f641e65240d503a60a9068.svg",
+      "assetGroup": "Tether USD::USDT",
+      "currencyId": "Tether USD::USDT"
+    },
+    "0x6b175474e89094c44da98b954eedeac495271d0f": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "Dai Stablecoin",
+      "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "symbol": "DAI",
+      "logoURI": "https://vvs-ui.vvs.finance/d836fa30b871c08b09f7cd304a14b67bba89fb7cc8f74620ead55b701a6dddd3.svg",
+      "assetGroup": "Dai Stablecoin::DAI",
+      "currencyId": "Dai Stablecoin::DAI"
+    },
+    "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599": {
+      "chainId": "25",
+      "decimals": 8,
+      "name": "WBTC Token",
+      "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "symbol": "WBTC",
+      "logoURI": "https://vvs-ui.vvs.finance/2591c196acdb9054f43217eaa5cad7fea18ccea675f37b4371e06e14b108e24c.svg",
+      "assetGroup": "WBTC Token::WBTC",
+      "currencyId": "WBTC Token::WBTC"
+    },
+    "0x839e71613f9aa06e5701cf6de63e303616b0dde3": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "VVS Token",
+      "address": "0x839e71613f9aa06e5701cf6de63e303616b0dde3",
+      "symbol": "VVS",
+      "logoURI": "https://vvs-ui.vvs.finance/cefe5f4686c04f0610bd0e3dbdcde1da31c247e41c1883a49779dda41f4cb882.svg",
+      "assetGroup": "VVS Token::VVS::25::0",
+      "currencyId": "VVS Token::VVS"
+    },
+    "0x73712a912ae5e39634046f4409ef57eac34e96ba": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "Reaper's Squad",
+      "address": "0x73712a912ae5e39634046f4409ef57eac34e96ba",
+      "symbol": "REAPER",
+      "logoURI": "https://vvs-ui.vvs.finance/89ca9925d42a286e2a8e72fd94294220075e94df39835aba7cbc40e2113c0b24.svg",
+      "assetGroup": "Reaper's Squad::REAPER",
+      "currencyId": "Reaper's Squad::REAPER"
+    },
+    "0x8c9e2bef2962ce302ef578113eebec62920b7e57": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "Turtle",
+      "address": "0x8c9e2bef2962ce302ef578113eebec62920b7e57",
+      "symbol": "TURTLE",
+      "logoURI": "https://assets.coingecko.com/coins/images/68717/thumb/Turtleoncro-logo-1.png?1756368773",
+      "assetGroup": "Turtle::TURTLE",
+      "currencyId": "Turtle::TURTLE",
+      "tags": ["coingecko"]
+    },
+    "0x8c80a01f461f297df7f9da3a4f740d7297c8ac85": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "Chainlink",
+      "address": "0x8c80a01f461f297df7f9da3a4f740d7297c8ac85",
+      "symbol": "LINK",
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
+      "assetGroup": "Chainlink::LINK",
+      "currencyId": "Chainlink::LINK",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "25",
       "decimals": 18,
@@ -3144,7 +3558,13 @@
     "0x59e60d641677cecae77868176f314f42572f5284",
     "0xf307a39752da29b1c1e45c2c1476976eab272686",
     "0xccccccccdbec186dc426f8b5628af94737df0e60",
-    "0x15c65ad983f4e5814595953808c8616f867d061c"
+    "0x15c65ad983f4e5814595953808c8616f867d061c",
+    "0xf44acfdc916898449e39062934c2b496799b6abe",
+    "0x5aea5775959fbc2557cc8789bc1bf90a239d9a91",
+    "0x3355df6d4c9c3035724fd0e3914de96a5a83aaf4",
+    "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "0xdac17f958d2ee523a2206206994597c13d831ec7"
   ],
   "bridgeTokens": [
     "0x66e428c3f67a68878562e79a0234c1f83c208770",

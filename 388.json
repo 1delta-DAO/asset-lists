@@ -189,6 +189,17 @@
       "currencyId": "Wrapped Matic::WMATIC",
       "tags": ["debridge"]
     },
+    "0x61170ca9fb9cf98d4c7d684e07be6d969d59667e": {
+      "chainId": "388",
+      "decimals": 18,
+      "name": "Chainlink",
+      "address": "0x61170ca9fb9cf98d4c7d684e07be6d969d59667e",
+      "symbol": "LINK",
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
+      "assetGroup": "Chainlink::LINK",
+      "currencyId": "Chainlink::LINK",
+      "tags": ["coingecko", "debridge"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "388",
       "address": "0x0000000000000000000000000000000000000000",
@@ -217,7 +228,8 @@
     "0xf226a595b83056ff3d26b827e3d5b0896e4392a9",
     "0x96e03fa6c5ab3a7f2e7098dd07c8935493294e26",
     "0xc80b437c4c0f9c74cfb2e2d063a58ffb4f82d4f0",
-    "0xfb3338e2ca713b344d6a45b36525c3db156e492f"
+    "0xfb3338e2ca713b344d6a45b36525c3db156e492f",
+    "0x61170ca9fb9cf98d4c7d684e07be6d969d59667e"
   ],
   "bridgeTokens": ["0xd65e5dba71231d35a5802ba83dc6cb6746c9758d", "0xaa5b845f8c9c047779bedf64829601d8b264076c"]
 }
