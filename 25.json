@@ -2070,7 +2070,8 @@
       "logoURI": "https://vvs-ui.vvs.finance/a088a8a9b4e0ff0e44d99e41d509d19cac879a9c99077ca73d41b8f5a929186a.svg",
       "assetGroup": "WCRO Token::WCRO",
       "currencyId": "WCRO Token::WCRO",
-      "tags": ["openocean", "coingecko"]
+      "tags": ["openocean", "coingecko", "wnative"],
+      "props": { "wnative": true }
     },
     "0x2d03bece6747adc00e1a131bba1469c15fd11e03": {
       "chainId": "25",
@@ -3136,14 +3137,15 @@
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "25",
-      "address": "0x0000000000000000000000000000000000000000",
-      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/cro.webp",
-      "currencyId": "Cronos::CRO",
-      "tags": ["native"],
-      "props": { "isNative": true },
+      "decimals": 18,
       "name": "Cronos",
+      "address": "0x0000000000000000000000000000000000000000",
       "symbol": "CRO",
-      "decimals": 18
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/cro.webp",
+      "assetGroup": "WCRO Token::WCRO",
+      "currencyId": "Cronos::CRO",
+      "tags": ["native", "openocean", "coingecko", "wrapped:0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23"],
+      "props": { "isNative": true, "wrapped": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23" }
     }
   },
   "mainTokens": [

@@ -109,7 +109,7 @@
       "name": "BitcoinX",
       "address": "0xb6e57fbb2d44092f75d9da2769ffc788ce931320",
       "symbol": "BTCx",
-      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/50/0xb6E57fBB2D44092f75d9da2769FFc788ce931320.png",
+      "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0xb6E57fBB2D44092f75d9da2769FFc788ce931320/logo.png",
       "assetGroup": "BitcoinX::BTCx",
       "currencyId": "BitcoinX::BTCx"
     },
@@ -129,7 +129,7 @@
       "name": "STASIS EURO",
       "address": "0x1ebb2c8a71a9ec59bf558886a8adf8f4a565814f",
       "symbol": "EURS",
-      "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/50/0x1eBb2C8a71A9ec59bF558886a8Adf8F4a565814F.png",
+      "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0x1eBb2C8a71A9ec59bF558886a8Adf8F4a565814F/logo.png",
       "assetGroup": "EURS",
       "currencyId": "STASIS EURO::EURS"
     },
@@ -298,6 +298,129 @@
       "assetGroup": "EquitEdge::EEG",
       "currencyId": "EquitEdge::EEG",
       "tags": ["coingecko"]
+    },
+    "0xd4b5f10d61916bd6e0860144a91ac658de8a1437": {
+      "chainId": "50",
+      "decimals": 6,
+      "name": "xUSDT",
+      "address": "0xd4b5f10d61916bd6e0860144a91ac658de8a1437",
+      "symbol": "xUSDT",
+      "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/master/blockchains/xinfin/0xD4B5f10D61916Bd6E0860144a91Ac658dE8a1437/logo.png",
+      "assetGroup": "xUSDT::xUSDT",
+      "currencyId": "xUSDT::xUSDT",
+      "tags": ["FATHOM"]
+    },
+    "0x3279dbefabf3c6ac29d7ff24a6c46645f3f4403c": {
+      "chainId": "50",
+      "decimals": 18,
+      "name": "FTHM",
+      "address": "0x3279dbefabf3c6ac29d7ff24a6c46645f3f4403c",
+      "symbol": "FTHM",
+      "logoURI": "https://raw.githubusercontent.com/Into-the-Fathom/assets/demo/blockchains/xinfin/0x3279dBEfABF3C6ac29d7ff24A6c46645f3F4403c/logo.png",
+      "assetGroup": "FTHM::FTHM",
+      "currencyId": "FTHM::FTHM",
+      "tags": ["FATHOM"]
+    },
+    "0x4e3037297830c8023d1646937a3d44c018d1a5c3": {
+      "chainId": "50",
+      "decimals": 18,
+      "name": "RIPPLERICH",
+      "address": "0x4e3037297830c8023d1646937a3d44c018d1a5c3",
+      "symbol": "RR",
+      "logoURI": "https://cdn.xinfinscan.com/tokens/RR.png",
+      "assetGroup": "RIPPLERICH::RR",
+      "currencyId": "RIPPLERICH::RR"
+    },
+    "0xff7412ea7c8445c46a8254dfb557ac1e48094391": {
+      "chainId": "50",
+      "decimals": 18,
+      "name": "Plugin",
+      "address": "0xff7412ea7c8445c46a8254dfb557ac1e48094391",
+      "symbol": "PLI",
+      "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0xFf7412Ea7C8445C46a8254dFB557Ac1E48094391/logo.png",
+      "assetGroup": "Plugin::PLI",
+      "currencyId": "Plugin::PLI"
+    },
+    "0xb3f18b584263191a33169f6393487e43e9586329": {
+      "chainId": "50",
+      "decimals": 18,
+      "name": "WadzPay Token",
+      "address": "0xb3f18b584263191a33169f6393487e43e9586329",
+      "symbol": "WTK",
+      "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0xB3f18b584263191A33169f6393487E43e9586329/logo.png",
+      "assetGroup": "WadzPay Token::WTK",
+      "currencyId": "WadzPay Token::WTK"
+    },
+    "0xd9c714a2d98df7b3eabc3627b124ffb2d811098d": {
+      "chainId": "50",
+      "decimals": 10,
+      "name": "ShibaInuXDC",
+      "address": "0xd9c714a2d98df7b3eabc3627b124ffb2d811098d",
+      "symbol": "ShibaX",
+      "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0xD9c714a2D98dF7b3EABc3627B124Ffb2d811098d/logo.png",
+      "assetGroup": "ShibaInuXDC::ShibaX",
+      "currencyId": "ShibaInuXDC::ShibaX"
+    },
+    "0x9ca227280599d31845dd21449b5a6acfb285b1fc": {
+      "chainId": "50",
+      "decimals": 18,
+      "name": "PEPE",
+      "address": "0x9ca227280599d31845dd21449b5a6acfb285b1fc",
+      "symbol": "PEPE",
+      "logoURI": "https://cdn.xinfinscan.com/tokens/PEPE.png",
+      "assetGroup": "PEPE::PEPE",
+      "currencyId": "PEPE::PEPE"
+    },
+    "0x11f4b2ae467020fb7bce8631bac27f62b869d49a": {
+      "chainId": "50",
+      "decimals": 12,
+      "name": "Blue Phoenix Investments Coin",
+      "address": "0x11f4b2ae467020fb7bce8631bac27f62b869d49a",
+      "symbol": "BIC",
+      "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0x11f4B2aE467020FB7Bce8631bAC27F62B869D49a/logo.png",
+      "assetGroup": "Blue Phoenix Investments Coin::BIC",
+      "currencyId": "Blue Phoenix Investments Coin::BIC"
+    },
+    "0x0e11710aad67e7427cfbc12c353284c2e335f62c": {
+      "chainId": "50",
+      "decimals": 18,
+      "name": "PrimeNumbers Token",
+      "address": "0x0e11710aad67e7427cfbc12c353284c2e335f62c",
+      "symbol": "PRNT",
+      "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0x0E11710AAd67E7427CfbC12c353284C2e335F62c/logo.png",
+      "assetGroup": "PrimeNumbers Token::PRNT",
+      "currencyId": "PrimeNumbers Token::PRNT"
+    },
+    "0x5d5f074837f5d4618b3916ba74de1bf9662a3fed": {
+      "chainId": "50",
+      "decimals": 18,
+      "name": "STORX",
+      "address": "0x5d5f074837f5d4618b3916ba74de1bf9662a3fed",
+      "symbol": "SRX",
+      "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0x5D5f074837f5d4618B3916ba74De1Bf9662a3fEd/logo.png",
+      "assetGroup": "STORX::SRX",
+      "currencyId": "STORX::SRX"
+    },
+    "0xcf071288cc70d737105c97485f9820668eacca51": {
+      "chainId": "50",
+      "decimals": 18,
+      "name": "ChupaCabraV2",
+      "address": "0xcf071288cc70d737105c97485f9820668eacca51",
+      "symbol": "CHUPA",
+      "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0xCF071288cC70D737105c97485F9820668EAcCa51/logo.png",
+      "assetGroup": "ChupaCabraV2::CHUPA",
+      "currencyId": "ChupaCabraV2::CHUPA"
+    },
+    "0x8f9920283470f52128bf11b0c14e798be704fd15": {
+      "chainId": "50",
+      "decimals": 18,
+      "name": "Comtech Gold",
+      "address": "0x8f9920283470f52128bf11b0c14e798be704fd15",
+      "symbol": "CGO",
+      "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0x8f9920283470F52128bF11B0c14E798bE704fD15/logo.png",
+      "assetGroup": "Comtech Gold::CGO",
+      "currencyId": "Comtech Gold::CGO",
+      "tags": ["FATHOM"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "50",
