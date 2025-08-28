@@ -80,7 +80,8 @@
       "symbol": "USDC",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/50/0xB25cB6a275a8D6a613228FB161eB3627b50EB696.png",
       "assetGroup": "USDC",
-      "currencyId": "USD Coin::USDC"
+      "currencyId": "USD Coin (ICE)::USDC",
+      "tags": ["ice", "bridged"]
     },
     "0xc57f0eb99363e747d637b17bbdb4e1ab85e60631": {
       "chainId": "50",
@@ -141,7 +142,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/28268/thumb/xinfin.jpeg?1696527269",
       "assetGroup": "Wrapped XDC::WXDC",
       "currencyId": "Wrapped XDC::WXDC",
-      "tags": ["wnative", "coingecko"],
+      "tags": ["wnative", "coingecko", "FATHOM"],
       "props": { "wnative": true }
     },
     "0xfa4ddcfa8e3d0475f544d0de469277cf6e0a6fd1": {
@@ -219,7 +220,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/31113/thumb/fxd_200x200_%281%29.png?1696529943",
       "assetGroup": "Fathom Dollar::FXD",
       "currencyId": "Fathom Dollar::FXD",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "FATHOM"]
     },
     "0x81b244d0be055ef3bef1b09b7826cc2b108b2cbd": {
       "chainId": "50",
@@ -307,7 +308,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/xdc.webp",
       "assetGroup": "Wrapped XDC::WXDC",
       "currencyId": "XinFin::XDC",
-      "tags": ["native", "coingecko", "wrapped:0x951857744785e80e2de051c32ee7b25f9c458c42"],
+      "tags": ["native", "coingecko", "FATHOM", "wrapped:0x951857744785e80e2de051c32ee7b25f9c458c42"],
       "props": { "isNative": true, "wrapped": "0x951857744785e80e2de051c32ee7b25f9c458c42" }
     }
   },
@@ -330,13 +331,16 @@
     "0xcc0587aebda397146cc828b445db130a94486e74",
     "0x3a170c7c987f55c84f28733bfa27962d8cdd5d3b",
     "0xc9b1b2842c60303a06f60fdd005654575d6ae466",
-    "0xaec5eaf63402bf842d8642d917685e5ad3ba14bb"
+    "0xaec5eaf63402bf842d8642d917685e5ad3ba14bb",
+    "0xb25cb6a275a8d6a613228fb161eb3627b50eb696"
   ],
   "bridgeTokens": [
     "0x867f08a3ab824b42e8058a1b48e32e1df205b092",
     "0xdc2393dc10734bf153153038943a5deb42b209cd",
     "0xc57f0eb99363e747d637b17bbdb4e1ab85e60631",
     "0x2a8e898b6242355c290e1f4fc966b8788729a4d4",
-    "0xcda5b77e2e2268d9e09c874c1b9a4c3f07b37555"
+    "0xcda5b77e2e2268d9e09c874c1b9a4c3f07b37555",
+    "0xb25cb6a275a8d6a613228fb161eb3627b50eb696",
+    "0xa7348290de5cf01772479c48d50dec791c3fc212"
   ]
 }
