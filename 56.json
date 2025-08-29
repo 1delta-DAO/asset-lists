@@ -17256,7 +17256,7 @@
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xcacd6fd266af91b8aed52accc382b4e165586e29/7610ebe75cb08ff21ee6dfb7e1592e25.png",
       "assetGroup": "FRXUSD",
       "currencyId": "Frax USD::frxUSD",
-      "tags": ["debridge"]
+      "tags": ["debridge", "coingecko"]
     },
     "0xeb79c85c6d633ae81c97be71e1691ee7dc6e132d": {
       "chainId": "56",
@@ -51358,6 +51358,16 @@
       "assetGroup": "SecondLive::LIVE",
       "currencyId": "SecondLive::LIVE",
       "tags": ["coingecko"]
+    },
+    "0x5ffd0eadc186af9512542d0d5e5eafc65d5afc5b": {
+      "chainId": 56,
+      "decimals": 18,
+      "name": "Hemi",
+      "address": "0x5ffd0eadc186af9512542d0d5e5eafc65d5afc5b",
+      "symbol": "HEMI",
+      "assetGroup": "HEMI",
+      "currencyId": "Hemi::HEMI",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/HEMI.webp"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "56",

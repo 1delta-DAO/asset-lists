@@ -366,6 +366,17 @@
       "currencyId": "Bridged BRC20 ordi::ordi",
       "tags": ["bridged", "AVALON"]
     },
+    "0x71052bae71c25c78e37fd12e5ff1101a71d9018f": {
+      "chainId": "4200",
+      "decimals": 18,
+      "name": "Chainlink",
+      "address": "0x71052bae71c25c78e37fd12e5ff1101a71d9018f",
+      "symbol": "LINK",
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
+      "assetGroup": "Chainlink::LINK",
+      "currencyId": "Chainlink::LINK",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "4200",
       "decimals": 18,
@@ -404,7 +415,8 @@
     "0x88c618b2396c1a11a6aabd1bf89228a08462f2d2",
     "0x0a3bb08b3a15a19b4de82f8acfc862606fb69a2d",
     "0x41d9036454be47d3745a823c4aacd0e29cfb0f71",
-    "0xb5d8b1e73c79483d7750c5b8df8db45a0d24e2cf"
+    "0xb5d8b1e73c79483d7750c5b8df8db45a0d24e2cf",
+    "0x71052bae71c25c78e37fd12e5ff1101a71d9018f"
   ],
   "bridgeTokens": [
     "0x967aec3276b63c5e2262da9641db9dbebb07dc0d",

@@ -58,6 +58,17 @@
       "currencyId": "USD Coin::USDC",
       "tags": ["coingecko"]
     },
+    "0xc1f6f7622ad37c3f46cdf6f8aa0344ade80bf450": {
+      "chainId": "255",
+      "decimals": 18,
+      "name": "Chainlink",
+      "address": "0xc1f6f7622ad37c3f46cdf6f8aa0344ade80bf450",
+      "symbol": "LINK",
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
+      "assetGroup": "Chainlink::LINK",
+      "currencyId": "Chainlink::LINK",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "255",
       "decimals": 18,
@@ -77,7 +88,8 @@
     "0x61e0d34b5206fa8005ec1de8000df9b9ddee23db",
     "0x4200000000000000000000000000000000000001",
     "0x25500000d700bbe27104577cccce8eabcc96c8ad",
-    "0x0257e4d92c00c9efcca1d641b224d7d09cfa4522"
+    "0x0257e4d92c00c9efcca1d641b224d7d09cfa4522",
+    "0xc1f6f7622ad37c3f46cdf6f8aa0344ade80bf450"
   ],
   "bridgeTokens": [
     "0x0cf7c2a584988871b654bd79f96899e4cd6c41c0",

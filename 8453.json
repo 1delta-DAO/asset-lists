@@ -26062,8 +26062,10 @@
       "name": "Frax USD",
       "address": "0xe5020a6d073a794b6e7f05678707de47986fb0b6",
       "symbol": "frxUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154",
       "assetGroup": "Frax USD::frxUSD",
-      "currencyId": "Frax USD::frxUSD"
+      "currencyId": "Frax USD::frxUSD",
+      "tags": ["coingecko", "debridge"]
     },
     "0x74cb668d23e6e54524e2e1e4d1c392f5fd611783": {
       "chainId": "8453",
@@ -26828,7 +26830,8 @@
       "symbol": "BtcUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/37181/standard/BtcUSD_Logo.png?1713514017",
       "assetGroup": "Bitcoin USD::BtcUSD",
-      "currencyId": "Bitcoin USD::BtcUSD"
+      "currencyId": "Bitcoin USD::BtcUSD",
+      "tags": ["coingecko", "debridge"]
     },
     "0x45e4e92f5a94f4b741c9cb553ff8be7b25eb7df5": {
       "chainId": "8453",
@@ -29240,6 +29243,49 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68731/thumb/1.png?1756407251",
       "assetGroup": "KarmaVerse by Virtuals::KARMA",
       "currencyId": "KarmaVerse by Virtuals::KARMA",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0xeed0b37580fd9ee711f0a477b2be5c306b41ef12": {
+      "chainId": "8453",
+      "decimals": 9,
+      "name": "Vortex",
+      "address": "0xeed0b37580fd9ee711f0a477b2be5c306b41ef12",
+      "symbol": "VORTEX",
+      "logoURI": "https://assets.coingecko.com/coins/images/68742/thumb/Untitled_design_-_2025-08-29T000309.999.png?1756449864",
+      "assetGroup": "Vortex::VORTEX",
+      "currencyId": "Vortex::VORTEX",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x9d56c29e820dd13b0580b185d0e0dc301d27581d": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Aubrai by Bio",
+      "address": "0x9d56c29e820dd13b0580b185d0e0dc301d27581d",
+      "symbol": "AUBRAI",
+      "assetGroup": "Aubrai by Bio::AUBRAI",
+      "currencyId": "Aubrai by Bio::AUBRAI",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x563779c9aae23b866fce4cc6ef240f6bb432cd10": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Open Source",
+      "address": "0x563779c9aae23b866fce4cc6ef240f6bb432cd10",
+      "symbol": "OS",
+      "logoURI": "https://assets.coingecko.com/coins/images/68738/thumb/photo_2025-08-24_22.47.23.png?1756420817",
+      "assetGroup": "Open Source::OS",
+      "currencyId": "Open Source::OS",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x00f3c42833c3170159af4e92dbb451fb3f708917": {
+      "chainId": "8453",
+      "decimals": 8,
+      "name": "Internet Computer",
+      "address": "0x00f3c42833c3170159af4e92dbb451fb3f708917",
+      "symbol": "ICP",
+      "logoURI": "https://assets.coingecko.com/coins/images/14495/thumb/Internet_Computer_logo.png?1696514180",
+      "assetGroup": "Internet Computer::ICP",
+      "currencyId": "Internet Computer::ICP",
       "tags": ["coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {

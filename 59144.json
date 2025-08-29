@@ -1824,8 +1824,10 @@
       "name": "Frax USD",
       "address": "0xc7346783f5e645aa998b106ef9e7f499528673d8",
       "symbol": "frxUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154",
       "assetGroup": "FRXUSD",
-      "currencyId": "Frax USD::frxUSD"
+      "currencyId": "Frax USD::frxUSD",
+      "tags": ["coingecko", "debridge"]
     },
     "0xefd81eec32b9a8222d1842ec3d99c7532c31e348": {
       "chainId": "59144",
@@ -1891,6 +1893,17 @@
       "assetGroup": "MetaMask USD (Test)::mUSD",
       "currencyId": "MetaMask USD (Test)::mUSD",
       "tags": ["debridge", "biconomy-gas-token", "coingecko"]
+    },
+    "0xa18152629128738a5c081eb226335fed4b9c95e9": {
+      "chainId": "59144",
+      "decimals": 18,
+      "name": "Chainlink",
+      "address": "0xa18152629128738a5c081eb226335fed4b9c95e9",
+      "symbol": "LINK",
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
+      "assetGroup": "Chainlink::LINK",
+      "currencyId": "Chainlink::LINK",
+      "tags": ["coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "59144",
