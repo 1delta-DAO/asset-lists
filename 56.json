@@ -51258,7 +51258,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/36979/thumb/Zentry-rebrand-Primary_200px.png?1713743277",
       "assetGroup": "Zentry::ZENT",
       "currencyId": "Zentry::ZENT",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xcf3d31dd1bced6121d97e98d110f8fc54d993365": {
       "chainId": "56",
@@ -51346,7 +51346,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68355/thumb/mitosis.png?1755444906",
       "assetGroup": "Mitosis::MITO",
       "currencyId": "Mitosis::MITO",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xdc9df5b6fb6a13ae1c9ff8b749cd5c95fbb060e1": {
       "chainId": "56",
@@ -51367,7 +51367,206 @@
       "symbol": "HEMI",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/HEMI.webp",
       "assetGroup": "Hemi::HEMI",
-      "currencyId": "Hemi::HEMI"
+      "currencyId": "Hemi::HEMI",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xfdc8cd47848c0c67df66f7120f4e3371181cfa5e": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "Blum",
+      "address": "0xfdc8cd47848c0c67df66f7120f4e3371181cfa5e",
+      "symbol": "BLUM",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xfDc8Cd47848c0C67dF66F7120F4e3371181cFA5e.png",
+      "assetGroup": "Blum::BLUM",
+      "currencyId": "Blum::BLUM",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x5ba9bfffb868859064c33d4f995a0828b2b1d2d3": {
+      "chainId": "56",
+      "decimals": 6,
+      "name": "Dexlab",
+      "address": "0x5ba9bfffb868859064c33d4f995a0828b2b1d2d3",
+      "symbol": "XLAB",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x5BA9bfFFB868859064C33D4f995A0828b2B1d2d3.png",
+      "assetGroup": "Dexlab::XLAB",
+      "currencyId": "Dexlab::XLAB",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xb142417eb86799115fe353675fca7eb8b59ee0df": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Miss AI",
+      "address": "0xb142417eb86799115fe353675fca7eb8b59ee0df",
+      "symbol": "MSAI",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xb142417Eb86799115fe353675FCA7eB8b59ee0Df.png",
+      "assetGroup": "Miss AI::MSAI",
+      "currencyId": "Miss AI::MSAI",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xda67fbf4e6fa4bb78f62533b7264e1b13295fdf3": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Celb Token",
+      "address": "0xda67fbf4e6fa4bb78f62533b7264e1b13295fdf3",
+      "symbol": "CELB",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xDa67fbF4e6Fa4bb78F62533B7264E1B13295fDF3.png",
+      "assetGroup": "Celb Token::CELB",
+      "currencyId": "Celb Token::CELB",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xda1060158f7d593667cce0a15db346bb3ffb3596": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "TIWICAT",
+      "address": "0xda1060158f7d593667cce0a15db346bb3ffb3596",
+      "symbol": "TWC",
+      "logoURI": "https://assets.coingecko.com/coins/images/68750/thumb/IMG_20250828_030101_084.jpg?1756452305",
+      "assetGroup": "TIWICAT::TWC",
+      "currencyId": "TIWICAT::TWC",
+      "tags": ["coingecko"]
+    },
+    "0x06ce168ff4ca760768f42c440d4266ba705e2f21": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "Mashida",
+      "address": "0x06ce168ff4ca760768f42c440d4266ba705e2f21",
+      "symbol": "MSHD",
+      "logoURI": "https://assets.coingecko.com/coins/images/68754/thumb/Mashida.png?1756454860",
+      "assetGroup": "Mashida::MSHD",
+      "currencyId": "Mashida::MSHD",
+      "tags": ["coingecko"]
+    },
+    "0x71d421b6de07cefa2733d044f92a0306308de8b8": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "BNB LION",
+      "address": "0x71d421b6de07cefa2733d044f92a0306308de8b8",
+      "symbol": "BNBLION",
+      "logoURI": "https://assets.coingecko.com/coins/images/68758/thumb/image0_%2820%29.jpg?1756469702",
+      "assetGroup": "BNB LION::BNBLION",
+      "currencyId": "BNB LION::BNBLION",
+      "tags": ["coingecko"]
+    },
+    "0xcae117ca6bc8a341d2e7207f30e180f0e5618b9d": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "ARK",
+      "address": "0xcae117ca6bc8a341d2e7207f30e180f0e5618b9d",
+      "symbol": "ARK",
+      "logoURI": "https://assets.coingecko.com/coins/images/68794/thumb/200x200.png?1756618572",
+      "assetGroup": "ARK::ARK",
+      "currencyId": "ARK::ARK",
+      "tags": ["coingecko"]
+    },
+    "0x1eb55169c045dd91ac47a0c3af2fb1df93064444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Moon",
+      "address": "0x1eb55169c045dd91ac47a0c3af2fb1df93064444",
+      "symbol": "MOON",
+      "logoURI": "https://assets.coingecko.com/coins/images/68805/thumb/moon-logo.jpg?1756628353",
+      "assetGroup": "Moon::MOON",
+      "currencyId": "Moon::MOON",
+      "tags": ["coingecko"]
+    },
+    "0x1a6e509262b04d3752f3ef314efc625d45b44444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Aptos Futures",
+      "address": "0x1a6e509262b04d3752f3ef314efc625d45b44444",
+      "symbol": "APF",
+      "logoURI": "https://assets.coingecko.com/coins/images/68815/thumb/APF.png?1756646757",
+      "assetGroup": "Aptos Futures::APF",
+      "currencyId": "Aptos Futures::APF",
+      "tags": ["coingecko"]
+    },
+    "0xe5e1a0a43f307f390887e2a17399172f3f9a3cab": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Etarn",
+      "address": "0xe5e1a0a43f307f390887e2a17399172f3f9a3cab",
+      "symbol": "ETAN",
+      "logoURI": "https://assets.coingecko.com/coins/images/68850/thumb/Etarn_symbolmark_200_00_064d095668.png?1756802284",
+      "assetGroup": "Etarn::ETAN",
+      "currencyId": "Etarn::ETAN",
+      "tags": ["coingecko"]
+    },
+    "0xdd6abc8d9b3741df92eb82fb593f6abb1203ea92": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "CyberCrashCoin",
+      "address": "0xdd6abc8d9b3741df92eb82fb593f6abb1203ea92",
+      "symbol": "CCC",
+      "logoURI": "https://assets.coingecko.com/coins/images/68851/thumb/20250901-173117.png?1756802837",
+      "assetGroup": "CyberCrashCoin::CCC",
+      "currencyId": "CyberCrashCoin::CCC",
+      "tags": ["coingecko"]
+    },
+    "0x3eac99bb7b61a694f562e09fdc95ac61e91afe8f": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Hyperbot",
+      "address": "0x3eac99bb7b61a694f562e09fdc95ac61e91afe8f",
+      "symbol": "BOT",
+      "logoURI": "https://assets.coingecko.com/coins/images/68860/thumb/hyperbot.png?1756807833",
+      "assetGroup": "Hyperbot::BOT",
+      "currencyId": "Hyperbot::BOT",
+      "tags": ["coingecko"]
+    },
+    "0xc07e1300dc138601fa6b0b59f8d0fa477e690589": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Quack AI",
+      "address": "0xc07e1300dc138601fa6b0b59f8d0fa477e690589",
+      "symbol": "Q",
+      "logoURI": "https://assets.coingecko.com/coins/images/68793/thumb/quack_ai.png?1756615808",
+      "assetGroup": "Quack AI::Q",
+      "currencyId": "Quack AI::Q",
+      "tags": ["coingecko"]
+    },
+    "0x47474747477b199288bf72a1d702f7fe0fb1deea": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "World Liberty Financial",
+      "address": "0x47474747477b199288bf72a1d702f7fe0fb1deea",
+      "symbol": "WLFI",
+      "logoURI": "https://assets.coingecko.com/coins/images/50767/thumb/wlfi.png?1756438915",
+      "assetGroup": "World Liberty Financial::WLFI",
+      "currencyId": "World Liberty Financial::WLFI",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0xbe1936a67f503e0eaf2434b0cf9f4e3d7100008a": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Prospective",
+      "address": "0xbe1936a67f503e0eaf2434b0cf9f4e3d7100008a",
+      "symbol": "PROS",
+      "logoURI": "https://assets.coingecko.com/coins/images/68749/thumb/2_Logo.png?1756451942",
+      "assetGroup": "Prospective::PROS",
+      "currencyId": "Prospective::PROS",
+      "tags": ["coingecko"]
+    },
+    "0x11cf6bf6d87cb0eb9c294fd6cbfec91ee3a1a7d0": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Forest Protocol",
+      "address": "0x11cf6bf6d87cb0eb9c294fd6cbfec91ee3a1a7d0",
+      "symbol": "FOREST",
+      "logoURI": "https://assets.coingecko.com/coins/images/68772/thumb/FOREST-TGE-ASSETS-ICON-2.png?1756806187",
+      "assetGroup": "Forest Protocol::FOREST",
+      "currencyId": "Forest Protocol::FOREST",
+      "tags": ["coingecko"]
+    },
+    "0xa9616e5e23ec1582c2828b025becf3ef610e266f": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Somnia",
+      "address": "0xa9616e5e23ec1582c2828b025becf3ef610e266f",
+      "symbol": "SOMI",
+      "logoURI": "https://assets.coingecko.com/coins/images/68061/thumb/somniacg.png?1754641117",
+      "assetGroup": "Somnia::SOMI",
+      "currencyId": "Somnia::SOMI",
+      "tags": ["coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "56",

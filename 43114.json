@@ -9195,7 +9195,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x14a84f1a61ccd7d1be596a6cc11fe33a36bc1646.png",
       "assetGroup": "Treehouse AVAX::tAVAX",
       "currencyId": "Treehouse AVAX::tAVAX",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2": {
       "chainId": "43114",
@@ -9206,6 +9206,28 @@
       "logoURI": "https://assets.coingecko.com/coins/images/33669/thumb/sUSDe-Symbol-Color.png?1716307680",
       "assetGroup": "SUSDE",
       "currencyId": "Ethena Staked USDe::SUSDE",
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+    },
+    "0xeb2729257280580694a06c499cb8c622e74215c8": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Mog Coin",
+      "address": "0xeb2729257280580694a06c499cb8c622e74215c8",
+      "symbol": "MOG",
+      "logoURI": "https://assets.coingecko.com/coins/images/31059/thumb/MOG_LOGO_200x200.png?1696529893",
+      "assetGroup": "Mog Coin::MOG",
+      "currencyId": "Mog Coin::MOG",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x846e52d0dd71c2fdc891538b2d37ff84345c7b9f": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Binance Peg Dogecoin",
+      "address": "0x846e52d0dd71c2fdc891538b2d37ff84345c7b9f",
+      "symbol": "DOGE",
+      "logoURI": "https://assets.coingecko.com/coins/images/15768/thumb/dogecoin.png?1696515392",
+      "assetGroup": "DOGE",
+      "currencyId": "Binance Peg Dogecoin::DOGE",
       "tags": ["coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {

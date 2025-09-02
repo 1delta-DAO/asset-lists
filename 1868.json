@@ -367,6 +367,17 @@
       "currencyId": "Resolv wstUSR::WSTUSR",
       "tags": ["coingecko", "SAKE"]
     },
+    "0xf765356c901a064a74fa4560622f21c91048c3d7": {
+      "chainId": "1868",
+      "decimals": 18,
+      "name": "SuperVerse",
+      "address": "0xf765356c901a064a74fa4560622f21c91048c3d7",
+      "symbol": "SUPER",
+      "logoURI": "https://assets.coingecko.com/coins/images/14040/thumb/SV-Logo-200x200.png?1706880312",
+      "assetGroup": "SuperVerse::SUPER",
+      "currencyId": "SuperVerse::SUPER",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "1868",
       "decimals": 18,
@@ -403,7 +414,8 @@
     "0x570f09ac53b96929e3868f71864e36ff6b1b67d7",
     "0x8cd846c404c7267350a2920576816603cd5c6539",
     "0x61f2993a644762a345b483adf0d6351c5edfb3b5",
-    "0x102d758f688a4c1c5a80b116bd945d4455460282"
+    "0x102d758f688a4c1c5a80b116bd945d4455460282",
+    "0xf765356c901a064a74fa4560622f21c91048c3d7"
   ],
   "bridgeTokens": [
     "0xba9986d2381edf1da03b0b9c1f8b00dc4aacc369",

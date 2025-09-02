@@ -112,6 +112,17 @@
       "currencyId": "Evil Larry::LARRY",
       "tags": ["coingecko"]
     },
+    "0xa074aca68eeb6c831a78c84606f3cb44f9e547f5": {
+      "chainId": "1514",
+      "decimals": 18,
+      "name": "Louie",
+      "address": "0xa074aca68eeb6c831a78c84606f3cb44f9e547f5",
+      "symbol": "LOUIE",
+      "logoURI": "https://assets.coingecko.com/coins/images/68839/thumb/2025-08-31_10.56.07.jpg?1756755652",
+      "assetGroup": "Louie::LOUIE",
+      "currencyId": "Louie::LOUIE",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "1514",
       "decimals": 18,
@@ -135,7 +146,8 @@
     "0x5a212776066b81e449fe74396cce368dc4b14043",
     "0xfe82012ecce57a188e5f9f3fc1cb2d335c58f1f5",
     "0xb5461c1fd0312cd4bf037058f8a391e6a42f9639",
-    "0x693c7acf65e52c71bafe555bc22d69cb7f8a78a2"
+    "0x693c7acf65e52c71bafe555bc22d69cb7f8a78a2",
+    "0xa074aca68eeb6c831a78c84606f3cb44f9e547f5"
   ],
   "bridgeTokens": ["0xf1815bd50389c46847f0bda824ec8da914045d14"]
 }

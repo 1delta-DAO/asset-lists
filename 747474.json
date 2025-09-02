@@ -319,6 +319,17 @@
       "currencyId": "vbETH yVault::yvvbETH",
       "tags": ["erc4626"]
     },
+    "0xaa0362ecc584b985056e47812931270b99c91f9d": {
+      "chainId": "747474",
+      "decimals": 8,
+      "name": "vbWBTC yVault",
+      "address": "0xaa0362ecc584b985056e47812931270b99c91f9d",
+      "symbol": "yvvbWBTC",
+      "logoURI": "https://cdn.morpho.org/assets/logos/yvvbwbtc.svg",
+      "assetGroup": "vbWBTC yVault::yvvbWBTC",
+      "currencyId": "vbWBTC yVault::yvvbWBTC",
+      "tags": ["erc4626", "btc"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "747474",
       "decimals": 18,

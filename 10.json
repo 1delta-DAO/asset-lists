@@ -6016,7 +6016,7 @@
       "logoURI": "https://ethena.fi/shared/ecosystem/sUSDe.svg",
       "assetGroup": "SUSDE",
       "currencyId": "sUSDe::sUSDe",
-      "tags": ["debridge"]
+      "tags": ["debridge", "biconomy-gas-token"]
     },
     "0xa52e38a9147f5ea9e0c5547376c21c9e3f3e5e1f": {
       "chainId": "10",
@@ -6305,9 +6305,10 @@
       "name": "sUSDS",
       "address": "0xb5b2dc7fd34c249f4be7fb1fcea07950784229e0",
       "symbol": "sUSDS",
+      "logoURI": "https://assets.coingecko.com/coins/images/52721/thumb/sUSDS_Coin.png?1734086971",
       "assetGroup": "sUSDS::sUSDS",
       "currencyId": "sUSDS::sUSDS",
-      "tags": ["debridge"]
+      "tags": ["debridge", "biconomy-gas-token"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "10",
