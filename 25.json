@@ -2064,12 +2064,12 @@
     "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23": {
       "chainId": "25",
       "decimals": 18,
-      "name": "WCRO Token",
+      "name": "Wrapped CRO",
       "address": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
       "symbol": "WCRO",
       "logoURI": "https://vvs-ui.vvs.finance/a088a8a9b4e0ff0e44d99e41d509d19cac879a9c99077ca73d41b8f5a929186a.svg",
       "assetGroup": "CRO",
-      "currencyId": "WCRO Token::WCRO",
+      "currencyId": "Wrapped CRO::WCRO",
       "tags": ["openocean", "coingecko", "wnative"],
       "props": { "wnative": true }
     },
@@ -3173,6 +3173,7 @@
       "address": "0x0000000000000000000000000000000000000000",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/cro.webp",
       "currencyId": "Cronos::CRO",
+      "assetGroup": "CRO",
       "tags": ["native"],
       "props": { "isNative": true },
       "name": "Cronos",
