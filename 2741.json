@@ -588,12 +588,34 @@
     "0x2ea38d6cdb6774992d4a62fe622f4405663729dd": {
       "chainId": "2741",
       "decimals": 18,
-      "name": "Chainlink",
+      "name": "ChainLink Token",
       "address": "0x2ea38d6cdb6774992d4a62fe622f4405663729dd",
       "symbol": "LINK",
       "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
-      "assetGroup": "Chainlink::LINK",
+      "assetGroup": "LINK",
       "currencyId": "Chainlink::LINK",
+      "tags": ["coingecko"]
+    },
+    "0xae1454ac3d03124b4b3fa8e6f9305f78aa004be6": {
+      "chainId": "2741",
+      "decimals": 18,
+      "name": "UWU 69",
+      "address": "0xae1454ac3d03124b4b3fa8e6f9305f78aa004be6",
+      "symbol": "UWU69",
+      "logoURI": "https://assets.coingecko.com/coins/images/68885/thumb/uwulogo.png?1756894653",
+      "assetGroup": "UWU 69::UWU69",
+      "currencyId": "UWU 69::UWU69",
+      "tags": ["coingecko"]
+    },
+    "0xed595068950d07fb7973f21917835471cb9499e9": {
+      "chainId": "2741",
+      "decimals": 18,
+      "name": "Boost",
+      "address": "0xed595068950d07fb7973f21917835471cb9499e9",
+      "symbol": "BOOST",
+      "logoURI": "https://assets.coingecko.com/coins/images/66848/thumb/logo-02.png?1750787634",
+      "assetGroup": "Boost::BOOST",
+      "currencyId": "Boost::BOOST",
       "tags": ["coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {
@@ -650,7 +672,8 @@
     "0x75fdef6c412e22bd561f671d7c4d4899859f94ba",
     "0xfe6371682f58b610e7a2da97a0df2cfd45d60cf1",
     "0x45f426ae8c1e647d544f6942784f759e5d3db089",
-    "0x02b31475af969ea987dfe799c56451d532a146ee"
+    "0x02b31475af969ea987dfe799c56451d532a146ee",
+    "0xf800a81b454c666390cf7b61462c9b18de23ada8"
   ],
   "bridgeTokens": [
     "0x84a71ccd554cc1b02749b35d22f684cc8ec987e1",

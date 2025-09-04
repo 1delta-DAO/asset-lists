@@ -830,7 +830,8 @@
       "symbol": "Anon",
       "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c/bbfd674a269bd0c02b7b90740795d1a1.png",
       "assetGroup": "ANON",
-      "currencyId": "HeyAnon::Anon"
+      "currencyId": "HeyAnon::Anon",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0xc1631903081b19f0b7117f34192c7db48960989c": {
       "chainId": "999",
@@ -3567,11 +3568,11 @@
     "0x1ac2ee68b8d038c982c1e1f73f596927dd70de59": {
       "chainId": "999",
       "decimals": 18,
-      "name": "Chainlink",
+      "name": "ChainLink Token",
       "address": "0x1ac2ee68b8d038c982c1e1f73f596927dd70de59",
       "symbol": "LINK",
       "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
-      "assetGroup": "Chainlink::LINK",
+      "assetGroup": "LINK",
       "currencyId": "Chainlink::LINK",
       "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },

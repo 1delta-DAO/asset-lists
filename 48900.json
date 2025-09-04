@@ -185,6 +185,17 @@
       "currencyId": "KelpDao Restaked ETH::rsETH",
       "tags": ["ZEROLEND"]
     },
+    "0xdee94506570ca186bc1e3516fcf4fd719c312ccd": {
+      "chainId": "48900",
+      "decimals": 18,
+      "name": "ChainLink Token",
+      "address": "0xdee94506570ca186bc1e3516fcf4fd719c312ccd",
+      "symbol": "LINK",
+      "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
+      "assetGroup": "LINK",
+      "currencyId": "Chainlink::LINK",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "48900",
       "address": "0x0000000000000000000000000000000000000000",
@@ -207,7 +218,8 @@
     "0x80137510979822322193fc997d400d5a6c747bf7",
     "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
     "0x3b952c8c9c44e8fe201e2b26f6b2200203214cff",
-    "0x19df5689cfce64bc2a55f7220b0cd522659955ef"
+    "0x19df5689cfce64bc2a55f7220b0cd522659955ef",
+    "0xdee94506570ca186bc1e3516fcf4fd719c312ccd"
   ],
   "bridgeTokens": [
     "0x4200000000000000000000000000000000000006",

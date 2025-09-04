@@ -26502,7 +26502,7 @@
       "logoURI": "https://ethereum-optimism.github.io/data/FOOM/logo.svg",
       "assetGroup": "FOOM::FOOM",
       "currencyId": "FOOM::FOOM",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x6b67aac5e7456cf47d8901ba2cef01a89002973e": {
       "chainId": "8453",
@@ -29452,7 +29452,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68835/thumb/3nv5f8335p8mxfpx2abvpd3r87t4.?1756724413",
       "assetGroup": "XOE::XOE",
       "currencyId": "XOE::XOE",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x1bcb7eadea5ac43733bd8fa1f65798333cc51313": {
       "chainId": "8453",
@@ -29463,7 +29463,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68822/thumb/IMG_1032.jpeg?1756705502",
       "assetGroup": "All InX SMART CHAIN::ASC",
       "currencyId": "All InX SMART CHAIN::ASC",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x3ef307ba6f1ddb5f3e4a51b5a2238b0c1a82db07": {
       "chainId": "8453",
@@ -29474,7 +29474,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68836/thumb/kugk3v8ruhoe194adk8b0uwpa7xr.?1756724805",
       "assetGroup": "BlockMind::BMIND",
       "currencyId": "BlockMind::BMIND",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x47636b3188774a3e7273d85a537b9ba4ee7b2535": {
       "chainId": "8453",
@@ -29485,6 +29485,138 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68061/thumb/somniacg.png?1754641117",
       "assetGroup": "Somnia::SOMI",
       "currencyId": "Somnia::SOMI",
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+    },
+    "0x431151f26c48b4d4befc34048a0966bf960a0c50": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "ARC",
+      "address": "0x431151f26c48b4d4befc34048a0966bf960a0c50",
+      "symbol": "ARC",
+      "logoURI": "https://ethereum-optimism.github.io/data/ARCV2/logo.svg",
+      "assetGroup": "ARC::ARC",
+      "currencyId": "ARC::ARC",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x819233aa703a19e434e6dd965493b6081a3fc3aa": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "IoTeX Network (Crosschain IOTX)",
+      "address": "0x819233aa703a19e434e6dd965493b6081a3fc3aa",
+      "symbol": "CIOTX",
+      "logoURI": "https://ethereum-optimism.github.io/data/CIOTX/logo.svg",
+      "assetGroup": "IoTeX Network (Crosschain IOTX)::CIOTX",
+      "currencyId": "IoTeX Network (Crosschain IOTX)::CIOTX",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x7588310a7abf34dc608ac98a1c4432f85e194df5": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Forta",
+      "address": "0x7588310a7abf34dc608ac98a1c4432f85e194df5",
+      "symbol": "FORT",
+      "logoURI": "https://ethereum-optimism.github.io/data/FORT/logo.svg",
+      "assetGroup": "FORT",
+      "currencyId": "Forta::FORT",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x1fbaf8bdc2a43b0c9ba90b6caf44ee14d2ee6773": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Fission Bio",
+      "address": "0x1fbaf8bdc2a43b0c9ba90b6caf44ee14d2ee6773",
+      "symbol": "MITY",
+      "logoURI": "https://ethereum-optimism.github.io/data/MITY/logo.svg",
+      "assetGroup": "Fission Bio::MITY",
+      "currencyId": "Fission Bio::MITY",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x290d4a2e227cced586895c3f78a03e4e9d4c3fb6": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Krypto Cock",
+      "address": "0x290d4a2e227cced586895c3f78a03e4e9d4c3fb6",
+      "symbol": "COCK",
+      "logoURI": "https://assets.coingecko.com/coins/images/68886/thumb/icon_%281%29.png?1756895144",
+      "assetGroup": "Krypto Cock::COCK",
+      "currencyId": "Krypto Cock::COCK",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0xf2a81609cb1da12139488d19512371c8930b8161": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "LABS",
+      "address": "0xf2a81609cb1da12139488d19512371c8930b8161",
+      "symbol": "LABS",
+      "logoURI": "https://assets.coingecko.com/coins/images/68869/thumb/LABS_200x200.png?1756841926",
+      "assetGroup": "LABS::LABS",
+      "currencyId": "LABS::LABS",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x9d5c1c400dc828a3409f9c209b83ff51a65d2a0e": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Tairon",
+      "address": "0x9d5c1c400dc828a3409f9c209b83ff51a65d2a0e",
+      "symbol": "TAIRO",
+      "logoURI": "https://assets.coingecko.com/coins/images/68894/thumb/tairon-logo.png?1756896663",
+      "assetGroup": "Tairon::TAIRO",
+      "currencyId": "Tairon::TAIRO",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x0016f2238ec72acaca1696a8d1634825f8213b07": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Drawcast",
+      "address": "0x0016f2238ec72acaca1696a8d1634825f8213b07",
+      "symbol": "DRAW",
+      "logoURI": "https://assets.coingecko.com/coins/images/68901/thumb/Drawcast_logo_1000x1000.png?1756919232",
+      "assetGroup": "Drawcast::DRAW",
+      "currencyId": "Drawcast::DRAW",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x52d0ac6a76da6e4a5168a60c423f7ff0285534b1": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Goldn",
+      "address": "0x52d0ac6a76da6e4a5168a60c423f7ff0285534b1",
+      "symbol": "GOLDN",
+      "logoURI": "https://assets.coingecko.com/coins/images/68897/thumb/Logo_Full_%2823%29.png?1756914177",
+      "assetGroup": "Goldn::GOLDN",
+      "currencyId": "Goldn::GOLDN",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x3513e4a7d27d18c2c894d98bc5a55406360b9ba3": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Pharmachain AI",
+      "address": "0x3513e4a7d27d18c2c894d98bc5a55406360b9ba3",
+      "symbol": "PHAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/68915/thumb/coloured.png?1756972110",
+      "assetGroup": "Pharmachain AI::PHAI",
+      "currencyId": "Pharmachain AI::PHAI",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x3394a562a38cebd02afc56380a108bb98c5ac3b7": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "TAIX",
+      "address": "0x3394a562a38cebd02afc56380a108bb98c5ac3b7",
+      "symbol": "TAIX",
+      "logoURI": "https://assets.coingecko.com/coins/images/68909/thumb/profile_png.png?1756970386",
+      "assetGroup": "TAIX::TAIX",
+      "currencyId": "TAIX::TAIX",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0xbb2db41e62abf596b7f8ca7bd4733a7b357f5ab9": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "MetacadeMax",
+      "address": "0xbb2db41e62abf596b7f8ca7bd4733a7b357f5ab9",
+      "symbol": "METACADEMAX",
+      "logoURI": "https://assets.coingecko.com/coins/images/68910/thumb/MAXZORAPFP.jpg?1756970942",
+      "assetGroup": "MetacadeMax::METACADEMAX",
+      "currencyId": "MetacadeMax::METACADEMAX",
       "tags": ["coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {

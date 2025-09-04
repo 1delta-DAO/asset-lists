@@ -49597,7 +49597,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/67662/thumb/SolvBTC.BNB.png?1753426768",
       "assetGroup": "Solv Protocol SolvBTC BNB::SOLVBTCBNB",
       "currencyId": "Solv Protocol SolvBTC BNB::SOLVBTCBNB",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x6d2ebdf6d551d8408e7d896e9a1ec6f84806e193": {
       "chainId": "56",
@@ -51522,7 +51522,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68793/thumb/quack_ai.png?1756615808",
       "assetGroup": "Quack AI::Q",
       "currencyId": "Quack AI::Q",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x47474747477b199288bf72a1d702f7fe0fb1deea": {
       "chainId": "56",
@@ -51533,7 +51533,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/50767/thumb/wlfi.png?1756438915",
       "assetGroup": "World Liberty Financial::WLFI",
       "currencyId": "World Liberty Financial::WLFI",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0xbe1936a67f503e0eaf2434b0cf9f4e3d7100008a": {
       "chainId": "56",
@@ -51555,7 +51555,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68772/thumb/FOREST-TGE-ASSETS-ICON-2.png?1756806187",
       "assetGroup": "Forest Protocol::FOREST",
       "currencyId": "Forest Protocol::FOREST",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xa9616e5e23ec1582c2828b025becf3ef610e266f": {
       "chainId": "56",
@@ -51566,6 +51566,138 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68061/thumb/somniacg.png?1754641117",
       "assetGroup": "Somnia::SOMI",
       "currencyId": "Somnia::SOMI",
+      "tags": ["coingecko", "biconomy-gas-token"]
+    },
+    "0xf8f331dfa811132c43c308757cd802ca982b7211": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Moonchain",
+      "address": "0xf8f331dfa811132c43c308757cd802ca982b7211",
+      "symbol": "MCH",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xF8F331DFa811132c43C308757CD802ca982b7211.png",
+      "assetGroup": "Moonchain::MCH",
+      "currencyId": "Moonchain::MCH",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x95c9b514566fbd224dc2037f5914eb8ab91c9201": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Portal To Bitcoin",
+      "address": "0x95c9b514566fbd224dc2037f5914eb8ab91c9201",
+      "symbol": "PTB",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x95C9B514566fbD224Dc2037F5914eB8ab91c9201.png",
+      "assetGroup": "Portal To Bitcoin::PTB",
+      "currencyId": "Portal To Bitcoin::PTB",
+      "tags": ["portal", "bridged", "biconomy-gas-token"]
+    },
+    "0x59537849f2a119ec698c7aa6c6daadc40c398a25": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "HyperBot",
+      "address": "0x59537849f2a119ec698c7aa6c6daadc40c398a25",
+      "symbol": "BOT",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x59537849f2a119ec698c7Aa6C6DaAdc40C398A25.png",
+      "assetGroup": "HyperBot::BOT",
+      "currencyId": "HyperBot::BOT",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x46ee3bfc281d59009ccd06f1dd6abdbfcd82ffc3": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Gata",
+      "address": "0x46ee3bfc281d59009ccd06f1dd6abdbfcd82ffc3",
+      "symbol": "GATA",
+      "logoURI": "https://assets.coingecko.com/coins/images/66322/thumb/Gata-Logomark-Color.png?1749199637",
+      "assetGroup": "Gata::GATA",
+      "currencyId": "Gata::GATA",
+      "tags": ["coingecko"]
+    },
+    "0xcecff5a92ed68b8a81c38fd065884eb202f4cfac": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Virtual Network Service Coin",
+      "address": "0xcecff5a92ed68b8a81c38fd065884eb202f4cfac",
+      "symbol": "VNS",
+      "logoURI": "https://assets.coingecko.com/coins/images/68864/thumb/Adobe_Express_-_file.png?1756840682",
+      "assetGroup": "Virtual Network Service Coin::VNS",
+      "currencyId": "Virtual Network Service Coin::VNS",
+      "tags": ["coingecko"]
+    },
+    "0xb86414afc434345a91ca80a889d73fd1e8155b4b": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "CTC PLUS",
+      "address": "0xb86414afc434345a91ca80a889d73fd1e8155b4b",
+      "symbol": "CTCP",
+      "logoURI": "https://assets.coingecko.com/coins/images/68866/thumb/ctcp_200.png?1756841343",
+      "assetGroup": "CTC PLUS::CTCP",
+      "currencyId": "CTC PLUS::CTCP",
+      "tags": ["coingecko"]
+    },
+    "0x004d50b3fc784b580531d8e8615aa96cf7fbb919": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Planck",
+      "address": "0x004d50b3fc784b580531d8e8615aa96cf7fbb919",
+      "symbol": "PLANCK",
+      "logoURI": "https://assets.coingecko.com/coins/images/68917/thumb/20250901_114828.png?1756972821",
+      "assetGroup": "Planck::PLANCK",
+      "currencyId": "Planck::PLANCK",
+      "tags": ["coingecko"]
+    },
+    "0x84575b87395c970f1f48e87d87a8db36ed653716": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Creditlink Token",
+      "address": "0x84575b87395c970f1f48e87d87a8db36ed653716",
+      "symbol": "CDL",
+      "logoURI": "https://assets.coingecko.com/coins/images/68919/thumb/1000035378.jpg?1756973257",
+      "assetGroup": "Creditlink Token::CDL",
+      "currencyId": "Creditlink Token::CDL",
+      "tags": ["coingecko"]
+    },
+    "0x9123400446a56176eb1b6be9ee5cf703e409f492": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Tradoor",
+      "address": "0x9123400446a56176eb1b6be9ee5cf703e409f492",
+      "symbol": "TRADOOR",
+      "logoURI": "https://assets.coingecko.com/coins/images/68862/thumb/tradoor.png?1756809006",
+      "assetGroup": "Tradoor::TRADOOR",
+      "currencyId": "Tradoor::TRADOOR",
+      "tags": ["coingecko"]
+    },
+    "0x96fb784986284cb6d4a8da6dd50dd7e85ef38f5d": {
+      "chainId": "56",
+      "decimals": 6,
+      "name": "TetheCat Bridged USDT",
+      "address": "0x96fb784986284cb6d4a8da6dd50dd7e85ef38f5d",
+      "symbol": "USDTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/68924/thumb/Frame-3.png?1756984122",
+      "assetGroup": "TetheCat Bridged USDT::USDTC",
+      "currencyId": "TetheCat Bridged USDT::USDTC",
+      "tags": ["bridged", "coingecko"]
+    },
+    "0xbe7e12b2e128bc955a0130ffb168f031d7dd8d58": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Boost",
+      "address": "0xbe7e12b2e128bc955a0130ffb168f031d7dd8d58",
+      "symbol": "BOOST",
+      "logoURI": "https://assets.coingecko.com/coins/images/66848/thumb/logo-02.png?1750787634",
+      "assetGroup": "Boost::BOOST",
+      "currencyId": "Boost::BOOST",
+      "tags": ["coingecko"]
+    },
+    "0xba5ed44733953d79717f6269357c77718c8ba5ed": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Union",
+      "address": "0xba5ed44733953d79717f6269357c77718c8ba5ed",
+      "symbol": "U",
+      "logoURI": "https://assets.coingecko.com/coins/images/68859/thumb/union.png?1756807051",
+      "assetGroup": "Union::U",
+      "currencyId": "Union::U",
       "tags": ["coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {

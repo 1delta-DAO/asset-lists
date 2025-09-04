@@ -2068,7 +2068,7 @@
       "address": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23",
       "symbol": "WCRO",
       "logoURI": "https://vvs-ui.vvs.finance/a088a8a9b4e0ff0e44d99e41d509d19cac879a9c99077ca73d41b8f5a929186a.svg",
-      "assetGroup": "WCRO Token::WCRO",
+      "assetGroup": "CRO",
       "currencyId": "WCRO Token::WCRO",
       "tags": ["openocean", "coingecko", "wnative"],
       "props": { "wnative": true }
@@ -3072,11 +3072,11 @@
     "0x8c80a01f461f297df7f9da3a4f740d7297c8ac85": {
       "chainId": "25",
       "decimals": 18,
-      "name": "Chainlink",
+      "name": "ChainLink Token",
       "address": "0x8c80a01f461f297df7f9da3a4f740d7297c8ac85",
       "symbol": "LINK",
       "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
-      "assetGroup": "Chainlink::LINK",
+      "assetGroup": "LINK",
       "currencyId": "Chainlink::LINK",
       "tags": ["coingecko"]
     },
@@ -3157,17 +3157,27 @@
       "currencyId": "Lioness::LIONESS",
       "tags": ["coingecko"]
     },
-    "0x0000000000000000000000000000000000000000": {
+    "0xc9bc831cd26073762fb5d6eb3382d9847a83daa1": {
       "chainId": "25",
       "decimals": 18,
-      "name": "Cronos",
+      "name": "CDOG community",
+      "address": "0xc9bc831cd26073762fb5d6eb3382d9847a83daa1",
+      "symbol": "CDOG",
+      "logoURI": "https://assets.coingecko.com/coins/images/68911/thumb/IMG_9048.jpeg?1756971305",
+      "assetGroup": "CDOG community::CDOG",
+      "currencyId": "CDOG community::CDOG",
+      "tags": ["coingecko"]
+    },
+    "0x0000000000000000000000000000000000000000": {
+      "chainId": "25",
       "address": "0x0000000000000000000000000000000000000000",
-      "symbol": "CRO",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/cro.webp",
-      "assetGroup": "WCRO Token::WCRO",
       "currencyId": "Cronos::CRO",
-      "tags": ["native", "openocean", "coingecko", "wrapped:0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23"],
-      "props": { "isNative": true, "wrapped": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23" }
+      "tags": ["native"],
+      "props": { "isNative": true },
+      "name": "Cronos",
+      "symbol": "CRO",
+      "decimals": 18
     }
   },
   "mainTokens": [

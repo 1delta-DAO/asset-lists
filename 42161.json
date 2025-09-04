@@ -22806,7 +22806,29 @@
       "logoURI": "https://assets.coingecko.com/coins/images/35986/thumb/200x200.png?1710308147",
       "assetGroup": "Apu Apustaja::APU",
       "currencyId": "Apu Apustaja::APU",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+    },
+    "0x66cfbd79257dc5217903a36293120282548e2254": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Wrapped Staked USR",
+      "address": "0x66cfbd79257dc5217903a36293120282548e2254",
+      "symbol": "wstUSR",
+      "logoURI": "https://cdn.morpho.org/assets/logos/wstusr.svg",
+      "assetGroup": "Wrapped Staked USR::wstUSR",
+      "currencyId": "Wrapped Staked USR::wstUSR",
+      "tags": ["yield"]
+    },
+    "0x41ca7586cc1311807b4605fbb748a3b8862b42b5": {
+      "chainId": "42161",
+      "decimals": 6,
+      "name": "Syrup USDC",
+      "address": "0x41ca7586cc1311807b4605fbb748a3b8862b42b5",
+      "symbol": "syrupUSDC",
+      "logoURI": "https://cdn.morpho.org/assets/logos/syrupusdc.svg",
+      "assetGroup": "Syrup USDC::syrupUSDC",
+      "currencyId": "Syrup USDC::syrupUSDC",
+      "tags": ["yield"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "42161",
