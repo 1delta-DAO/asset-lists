@@ -11976,7 +11976,7 @@
       "address": "0xedfa23602d0ec14714057867a78d01e94176bea0",
       "symbol": "wrsETH",
       "logoURI": "https://assets.coingecko.com/coins/images/37919/thumb/rseth.png?1715936438",
-      "assetGroup": "WRSETH",
+      "assetGroup": "RSETH",
       "currencyId": "Wrapped rsETH::wrsETH",
       "tags": ["coingecko", "debridge", "biconomy-gas-token", "AAVE_V3", "XLEND", "COMPOUND_V3_WETH"]
     },
@@ -29716,6 +29716,28 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68284/thumb/FRNT_200.png?1755242496",
       "assetGroup": "Frontier Stable Token::FRNT",
       "currencyId": "Frontier Stable Token::FRNT",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x8d760f4fda919a8e9f38237ee003fe8ff0ca9ef7": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "JACK",
+      "address": "0x8d760f4fda919a8e9f38237ee003fe8ff0ca9ef7",
+      "symbol": "JACK",
+      "logoURI": "https://assets.coingecko.com/coins/images/69005/thumb/MARKET_CAP_JACK.png?1757253341",
+      "assetGroup": "JACK",
+      "currencyId": "JACK::JACK",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0xe6603e9d1d2bd411e2d2815e44a197b6ff8402b7": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Arcane Owls",
+      "address": "0xe6603e9d1d2bd411e2d2815e44a197b6ff8402b7",
+      "symbol": "OWLS",
+      "logoURI": "https://assets.coingecko.com/coins/images/69004/thumb/1000005793.jpg?1757252993",
+      "assetGroup": "Arcane Owls::OWLS",
+      "currencyId": "Arcane Owls::OWLS",
       "tags": ["coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
