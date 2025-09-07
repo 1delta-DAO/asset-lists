@@ -23532,7 +23532,7 @@
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x4c9edd5852cd905f086c759e8383e09bff1e68b3/734064e545eabfc501b9d0e752644b7d.png",
       "assetGroup": "USDE",
       "currencyId": "USDe::USDe",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x8619986e425bb1a78b3facfb1f2086aca91b6088": {
       "chainId": "8453",
@@ -25345,7 +25345,7 @@
       "logoURI": "https://ethereum-optimism.github.io/data/SHU/logo.png",
       "assetGroup": "Shutter Token::SHU",
       "currencyId": "Shutter Token::SHU",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x5262001cb1c8060bea611b0a59518f56d83ab70e": {
       "chainId": "8453",
@@ -29518,7 +29518,7 @@
       "logoURI": "https://ethereum-optimism.github.io/data/FORT/logo.svg",
       "assetGroup": "FORT",
       "currencyId": "Forta::FORT",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x1fbaf8bdc2a43b0c9ba90b6caf44ee14d2ee6773": {
       "chainId": "8453",
@@ -29617,6 +29617,105 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68910/thumb/MAXZORAPFP.jpg?1756970942",
       "assetGroup": "MetacadeMax::METACADEMAX",
       "currencyId": "MetacadeMax::METACADEMAX",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0xbb205edcae51eda7731cc08291ed862eba0bbb15": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "FLIPN",
+      "address": "0xbb205edcae51eda7731cc08291ed862eba0bbb15",
+      "symbol": "FPN",
+      "logoURI": "https://assets.coingecko.com/coins/images/68981/thumb/IMG_3255.png?1757224220",
+      "assetGroup": "FLIPN::FPN",
+      "currencyId": "FLIPN::FPN",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x22c0a2e55aed8b317a285ccbd4f3d8ee24c9e5e3": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Fyni AI by Virtuals",
+      "address": "0x22c0a2e55aed8b317a285ccbd4f3d8ee24c9e5e3",
+      "symbol": "FYNI",
+      "logoURI": "https://assets.coingecko.com/coins/images/68965/thumb/rq6n6wtg7lwi7ukxuxcccdmvju0j.?1757103085",
+      "assetGroup": "Fyni AI by Virtuals::FYNI",
+      "currencyId": "Fyni AI by Virtuals::FYNI",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0xbcc7ff0361f659b1437001f9593e6d638b7dfc37": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "BaseRise",
+      "address": "0xbcc7ff0361f659b1437001f9593e6d638b7dfc37",
+      "symbol": "BRISE",
+      "logoURI": "https://assets.coingecko.com/coins/images/68948/thumb/download_%283%29.png?1757052209",
+      "assetGroup": "BaseRise::BRISE",
+      "currencyId": "BaseRise::BRISE",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0xec4abc31e35ba30350eeaa4c06e841ccdc9d8e00": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Unstable Tit",
+      "address": "0xec4abc31e35ba30350eeaa4c06e841ccdc9d8e00",
+      "symbol": "UST",
+      "logoURI": "https://assets.coingecko.com/coins/images/68946/thumb/logo_%285%29.png?1757051736",
+      "assetGroup": "Unstable Tit::UST",
+      "currencyId": "Unstable Tit::UST",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x55337650856299363c496065c836b9c6e9de0367": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "ACES fun",
+      "address": "0x55337650856299363c496065c836b9c6e9de0367",
+      "symbol": "ACES",
+      "logoURI": "https://assets.coingecko.com/coins/images/68980/thumb/ACES-logo-01.png?1757140517",
+      "assetGroup": "ACES fun::ACES",
+      "currencyId": "ACES fun::ACES",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x7750741868cc4a865d9c0f619e6e642fd61f642f": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Memory",
+      "address": "0x7750741868cc4a865d9c0f619e6e642fd61f642f",
+      "symbol": "MEM",
+      "logoURI": "https://assets.coingecko.com/coins/images/68949/thumb/logo.png?1757052647",
+      "assetGroup": "Memory::MEM",
+      "currencyId": "Memory::MEM",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x696f9436b67233384889472cd7cd58a6fb5df4f1": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Avantis",
+      "address": "0x696f9436b67233384889472cd7cd58a6fb5df4f1",
+      "symbol": "AVNT",
+      "logoURI": "https://assets.coingecko.com/coins/images/68972/thumb/avnt-token.png?1757134448",
+      "assetGroup": "Avantis::AVNT",
+      "currencyId": "Avantis::AVNT",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x3e248ab4554cfdec8fc4f18f569fe6f46de61db1": {
+      "chainId": "8453",
+      "decimals": 6,
+      "name": "SatLayer",
+      "address": "0x3e248ab4554cfdec8fc4f18f569fe6f46de61db1",
+      "symbol": "SLAY",
+      "logoURI": "https://assets.coingecko.com/coins/images/54811/thumb/SLAY-200x200.png?1754713489",
+      "assetGroup": "SatLayer::SLAY",
+      "currencyId": "SatLayer::SLAY",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x5e817f2abccb9095585d26c2a3ce234a440574fc": {
+      "chainId": "8453",
+      "decimals": 6,
+      "name": "Frontier Stable Token",
+      "address": "0x5e817f2abccb9095585d26c2a3ce234a440574fc",
+      "symbol": "FRNT",
+      "logoURI": "https://assets.coingecko.com/coins/images/68284/thumb/FRNT_200.png?1755242496",
+      "assetGroup": "Frontier Stable Token::FRNT",
+      "currencyId": "Frontier Stable Token::FRNT",
       "tags": ["coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {

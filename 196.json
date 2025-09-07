@@ -271,7 +271,18 @@
       "symbol": "LINK",
       "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
       "assetGroup": "LINK",
-      "currencyId": "Chainlink::LINK",
+      "currencyId": "ChainLink Token::LINK",
+      "tags": ["coingecko"]
+    },
+    "0x5f4f57888729a8a71cd705495e02f8e8cced0bad": {
+      "chainId": "196",
+      "decimals": 18,
+      "name": "X Pepe",
+      "address": "0x5f4f57888729a8a71cd705495e02f8e8cced0bad",
+      "symbol": "XPE",
+      "logoURI": "https://assets.coingecko.com/coins/images/68975/thumb/X_Pepe.jpg?1757138795",
+      "assetGroup": "X Pepe::XPE",
+      "currencyId": "X Pepe::XPE",
       "tags": ["coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {
@@ -310,7 +321,8 @@
     "0x069f3bb2a286ec9ce9f4dadba5e1e9e1d80ba27f",
     "0x8854b281cdf5940ebd4a753f8d37f49775058e03",
     "0x42aa33fa0377341407283bfd2a284736c5eb74e7",
-    "0xa7bc49339b416c310f0c0d9a8e6aaa0d71178696"
+    "0xa7bc49339b416c310f0c0d9a8e6aaa0d71178696",
+    "0x5f4f57888729a8a71cd705495e02f8e8cced0bad"
   ],
   "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",

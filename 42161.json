@@ -901,7 +901,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/25060/thumb/Forta_lgo_%281%29.png?1655353696",
       "assetGroup": "FORT",
       "currencyId": "Forta::FORT",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0xf929de51d91c77e42f5090069e0ad7a09e513c73": {
       "chainId": "42161",
@@ -22828,7 +22828,57 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/syrupusdc.svg",
       "assetGroup": "Syrup USDC::syrupUSDC",
       "currencyId": "Syrup USDC::syrupUSDC",
-      "tags": ["yield"]
+      "tags": ["yield", "coingecko", "debridge"]
+    },
+    "0xe390c0b46bd723995be02640e6f1e1c802f620ac": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Morpho Token",
+      "address": "0xe390c0b46bd723995be02640e6f1e1c802f620ac",
+      "symbol": "MORPHO",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/29837/large/Morpho-token-icon.png?1726771230",
+      "assetGroup": "Morpho Token::MORPHO",
+      "currencyId": "Morpho Token::MORPHO"
+    },
+    "0x4d1d7134b87490ae5eebdb22a5820d7d0e1980bf": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "World Liberty Financial",
+      "address": "0x4d1d7134b87490ae5eebdb22a5820d7d0e1980bf",
+      "symbol": "WLFI",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/50767/large/wlfi.png?1756438915",
+      "assetGroup": "World Liberty Financial::WLFI",
+      "currencyId": "World Liberty Financial::WLFI"
+    },
+    "0x936f210d277bf489a3211cef9ab4bc47a7b69c96": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "PT Staked USDai 20NOV2025",
+      "address": "0x936f210d277bf489a3211cef9ab4bc47a7b69c96",
+      "symbol": "PT-sUSDai-20NOV2025",
+      "logoURI": "https://cdn.morpho.org/assets/logos/pt-susdai.svg",
+      "assetGroup": "PT Staked USDai 20NOV2025::PT-sUSDai-20NOV2025",
+      "currencyId": "PT Staked USDai 20NOV2025::PT-sUSDai-20NOV2025",
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x43023675c804a759cbf900da83dbcc97ee2afbe7",
+          "syAddress": "0x30ccf4bbee313fcd19f3e295b3ba2920a24e2f62",
+          "expiry": 1763596800,
+          "ytAddress": "0x8dc95c58a25a0e0e041d5fa715a2bdcb3d74ac1a"
+        }
+      }
+    },
+    "0xb4818bb69478730ef4e33cc068dd94278e2766cb": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Satoshi Stablecoin",
+      "address": "0xb4818bb69478730ef4e33cc068dd94278e2766cb",
+      "symbol": "SATUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/37760/thumb/Instagram_post_-_25.png?1715475306",
+      "assetGroup": "Satoshi Stablecoin::SATUSD",
+      "currencyId": "Satoshi Stablecoin::SATUSD",
+      "tags": ["coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "42161",

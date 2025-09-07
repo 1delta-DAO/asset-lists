@@ -1622,6 +1622,7 @@
       "name": "Wrapped Aave Sonic WETH",
       "address": "0xeb5e9b0ae5bb60274786c747a1a2a798c11271e0",
       "symbol": "waSonWETH",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0bfc9d54fc184518a81162f8fb99c2eaca081202.png",
       "assetGroup": "Wrapped Aave Sonic WETH::waSonWETH",
       "currencyId": "Wrapped Aave Sonic WETH::waSonWETH"
     },
@@ -2574,8 +2575,18 @@
       "symbol": "LINK",
       "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
       "assetGroup": "LINK",
-      "currencyId": "Chainlink::LINK",
+      "currencyId": "ChainLink Token::LINK",
       "tags": ["coingecko", "debridge"]
+    },
+    "0x4871c910877c4e89f72ec355ff709b2543c00375": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "ONE Stablecoin",
+      "address": "0x4871c910877c4e89f72ec355ff709b2543c00375",
+      "symbol": "ONE",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/ONE.png",
+      "assetGroup": "ONE Stablecoin::ONE",
+      "currencyId": "ONE Stablecoin::ONE"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "146",

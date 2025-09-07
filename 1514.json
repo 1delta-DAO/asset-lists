@@ -123,6 +123,17 @@
       "currencyId": "Louie::LOUIE",
       "tags": ["coingecko"]
     },
+    "0x543374350269cce6651358769512875faa4cccff": {
+      "chainId": "1514",
+      "decimals": 18,
+      "name": "IPPY",
+      "address": "0x543374350269cce6651358769512875faa4cccff",
+      "symbol": "IPPY",
+      "logoURI": "https://assets.coingecko.com/coins/images/68997/thumb/0x543374350269cce6651358769512875faa4cccff.png?1757225559",
+      "assetGroup": "IPPY::IPPY",
+      "currencyId": "IPPY::IPPY",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "1514",
       "decimals": 18,
@@ -147,8 +158,8 @@
     "0xfe82012ecce57a188e5f9f3fc1cb2d335c58f1f5",
     "0xb5461c1fd0312cd4bf037058f8a391e6a42f9639",
     "0x693c7acf65e52c71bafe555bc22d69cb7f8a78a2",
-    "0xa074aca68eeb6c831a78c84606f3cb44f9e547f5"
+    "0xa074aca68eeb6c831a78c84606f3cb44f9e547f5",
+    "0x543374350269cce6651358769512875faa4cccff"
   ],
-  "bridgeTokens": [
-    "0x0000000000000000000000000000000000000000","0xf1815bd50389c46847f0bda824ec8da914045d14"]
+  "bridgeTokens": ["0x0000000000000000000000000000000000000000", "0xf1815bd50389c46847f0bda824ec8da914045d14"]
 }

@@ -356,7 +356,8 @@
       "symbol": "PNutz",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/pnutz.png",
       "assetGroup": "Geez PNutz::PNutz",
-      "currencyId": "Geez PNutz::PNutz"
+      "currencyId": "Geez PNutz::PNutz",
+      "tags": ["coingecko"]
     },
     "0xabf185ecc71c9d19d0490b69ae7262ea71a66666": {
       "chainId": "33139",
@@ -387,8 +388,18 @@
       "symbol": "LINK",
       "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
       "assetGroup": "LINK",
-      "currencyId": "Chainlink::LINK",
+      "currencyId": "ChainLink Token::LINK",
       "tags": ["coingecko"]
+    },
+    "0x88a4a93993a458f1ae6b777358c86781f86998e3": {
+      "chainId": "33139",
+      "decimals": 18,
+      "name": "Zenko Protocol",
+      "address": "0x88a4a93993a458f1ae6b777358c86781f86998e3",
+      "symbol": "ZENKO",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/zenko.png",
+      "assetGroup": "Zenko Protocol::ZENKO",
+      "currencyId": "Zenko Protocol::ZENKO"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "33139",
@@ -423,7 +434,8 @@
     "0x48b62137edfa95a428d35c09e44256a739f6b557",
     "0xe31c676d8235437597581b44c1c4f8a30e90b38a",
     "0xabf185ecc71c9d19d0490b69ae7262ea71a66666",
-    "0xf575731b78981b86d34321d875a3d25a48479be6"
+    "0xf575731b78981b86d34321d875a3d25a48479be6",
+    "0x54a70516e9c0223f4a92be3a4832a06f546e783b"
   ],
   "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",

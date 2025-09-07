@@ -393,7 +393,7 @@
       "address": "0x87eee96d50fb761ad85b1c982d28a042169d61b1",
       "symbol": "wrsETH",
       "logoURI": "https://assets.coingecko.com/coins/images/37919/thumb/rseth.png?1715936438",
-      "assetGroup": "WRSETH",
+      "assetGroup": "RSETH",
       "currencyId": "Wrapped rsETH::wrsETH",
       "tags": ["debridge", "biconomy-gas-token", "COMPOUND_V3_WETH"]
     },
@@ -1920,7 +1920,7 @@
       "address": "0x4186bfc76e2e237523cbc30fd220fe055156b41f",
       "symbol": "rsETH",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x4186BFC76E2E237523CBC30FD220FE055156b41F/logo.png",
-      "assetGroup": "RSETH",
+      "assetGroup": "KelpDao Restaked ETH::rsETH",
       "currencyId": "KelpDao Restaked ETH::rsETH",
       "tags": ["debridge", "biconomy-gas-token"]
     },
@@ -4591,7 +4591,7 @@
       "symbol": "SHU",
       "assetGroup": "Shutter Token::SHU",
       "currencyId": "Shutter Token::SHU",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "debridge"]
     },
     "0x0f5d45a7023612e9e244fe84fac5fcf3740d1492": {
       "chainId": "10",
@@ -4903,7 +4903,7 @@
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x4c9edd5852cd905f086c759e8383e09bff1e68b3/1228d6e73f70f37ec1f6fe02a3bbe6ff.png",
       "assetGroup": "USDE",
       "currencyId": "USDe::USDe",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "debridge"]
     },
     "0xccf3d1acf799bae67f6e354d685295557cf64761": {
       "chainId": "10",

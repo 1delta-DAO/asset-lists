@@ -359,6 +359,17 @@
       "assetGroup": "Wrapped ETH (Anyswap)::anyWETH",
       "currencyId": "Wrapped ETH (Anyswap)::anyWETH"
     },
+    "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2": {
+      "chainId": "2222",
+      "decimals": 18,
+      "name": "Ethena Staked USDe",
+      "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+      "symbol": "SUSDE",
+      "logoURI": "https://assets.coingecko.com/coins/images/33669/thumb/sUSDe-Symbol-Color.png?1716307680",
+      "assetGroup": "SUSDE",
+      "currencyId": "Ethena Staked USDe::SUSDE",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "2222",
       "decimals": 18,
@@ -402,7 +413,8 @@
     "0x5c7e299cf531eb66f2a1df637d37abb78e6200c7",
     "0x765277eebeca2e31912c9946eae1021199b39c61",
     "0x0b93109d05ef330acd2c75148891cc61d20c3ef1",
-    "0x15932e26f5bd4923d46a2b205191c4b5d5f43fe3"
+    "0x15932e26f5bd4923d46a2b205191c4b5d5f43fe3",
+    "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2"
   ],
   "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",

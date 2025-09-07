@@ -36,12 +36,12 @@
     "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3": {
       "chainId": "1135",
       "decimals": 8,
-      "name": "WBTC",
+      "name": "Wrapped BTC",
       "address": "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
       "symbol": "WBTC",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
-      "assetGroup": "WBTC::WBTC",
-      "currencyId": "WBTC::WBTC"
+      "assetGroup": "WBTC",
+      "currencyId": "Wrapped BTC::WBTC"
     },
     "0xac485391eb2d7d88253a7f1ef18c37f4242d1a24": {
       "chainId": "1135",
@@ -103,5 +103,8 @@
     "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3"
   ],
   "bridgeTokens": [
-    "0x0000000000000000000000000000000000000000","0x4200000000000000000000000000000000000006", "0x05d032ac25d322df992303dca074ee7392c117b9"]
+    "0x0000000000000000000000000000000000000000",
+    "0x4200000000000000000000000000000000000006",
+    "0x05d032ac25d322df992303dca074ee7392c117b9"
+  ]
 }

@@ -4699,7 +4699,7 @@
       "symbol": "LINK",
       "logoURI": "https://api.swapscanner.io/v0/tokens/0x713afb5173a6ad9162c7f7c7e8e4f8c557d5738d/icon",
       "assetGroup": "LINK",
-      "currencyId": "Chainlink::LINK"
+      "currencyId": "ChainLink Token::LINK"
     },
     "0x4f46a0ae4818ad578a8e1dd619b9da6c7b717b1f": {
       "chainId": "8217",
@@ -10740,6 +10740,16 @@
       "logoURI": "https://api.swapscanner.io/v0/tokens/0x378cd82816af05c8f0321ef431a19dd515d00831/icon",
       "assetGroup": "LeftMBC::LMC",
       "currencyId": "LeftMBC::LMC"
+    },
+    "0xebaf0f3229f39657fc0e06e5101b680009875452": {
+      "chainId": "8217",
+      "decimals": 18,
+      "name": "CapybaraDEX",
+      "address": "0xebaf0f3229f39657fc0e06e5101b680009875452",
+      "symbol": "C",
+      "logoURI": "https://api.swapscanner.io/v0/tokens/0xebaf0f3229f39657fc0e06e5101b680009875452/icon",
+      "assetGroup": "CapybaraDEX::C",
+      "currencyId": "CapybaraDEX::C"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "8217",

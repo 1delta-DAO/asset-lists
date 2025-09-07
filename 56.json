@@ -46254,7 +46254,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34.png",
       "assetGroup": "USDE",
       "currencyId": "USDe::USDe",
-      "tags": ["biconomy-gas-token", "VENUS"]
+      "tags": ["biconomy-gas-token", "VENUS", "coingecko"]
     },
     "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2": {
       "chainId": "56",
@@ -51698,6 +51698,72 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68859/thumb/union.png?1756807051",
       "assetGroup": "Union::U",
       "currencyId": "Union::U",
+      "tags": ["coingecko"]
+    },
+    "0x5bc247a5fc7dc148b682787c58f6f764ce27581b": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "LUCK",
+      "address": "0x5bc247a5fc7dc148b682787c58f6f764ce27581b",
+      "symbol": "LUCK",
+      "logoURI": "https://assets.coingecko.com/coins/images/68929/thumb/lukify-logo.png?1757008338",
+      "assetGroup": "LUCK::LUCK",
+      "currencyId": "LUCK::LUCK",
+      "tags": ["coingecko"]
+    },
+    "0xb82582bf335bc4f57ec3c536e67019e1fa263f81": {
+      "chainId": "56",
+      "decimals": 6,
+      "name": "N GameFi",
+      "address": "0xb82582bf335bc4f57ec3c536e67019e1fa263f81",
+      "symbol": "N",
+      "logoURI": "https://assets.coingecko.com/coins/images/68998/thumb/logo.png?1757228762",
+      "assetGroup": "N GameFi::N",
+      "currencyId": "N GameFi::N",
+      "tags": ["coingecko"]
+    },
+    "0xa47f3fa492a8970a08289e73a1a279d09678c706": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "VCHAT Token",
+      "address": "0xa47f3fa492a8970a08289e73a1a279d09678c706",
+      "symbol": "VCT",
+      "logoURI": "https://assets.coingecko.com/coins/images/68976/thumb/VCHAT_Token.jpg?1757139088",
+      "assetGroup": "VCHAT Token::VCT",
+      "currencyId": "VCHAT Token::VCT",
+      "tags": ["coingecko"]
+    },
+    "0xa3cfb853339b77f385b994799b015cb04b208fe6": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "POP",
+      "address": "0xa3cfb853339b77f385b994799b015cb04b208fe6",
+      "symbol": "POP",
+      "logoURI": "https://assets.coingecko.com/coins/images/69001/thumb/Logo-200x200.png?1757229720",
+      "assetGroup": "POP::POP",
+      "currencyId": "POP::POP",
+      "tags": ["coingecko"]
+    },
+    "0x38fd4ee2ade8b4be157dfee3d6b8979c78a56145": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "WorldShards",
+      "address": "0x38fd4ee2ade8b4be157dfee3d6b8979c78a56145",
+      "symbol": "SHARDS",
+      "logoURI": "https://assets.coingecko.com/coins/images/68879/thumb/shards.png?1756893114",
+      "assetGroup": "WorldShards::SHARDS",
+      "currencyId": "WorldShards::SHARDS",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0xa227cc36938f0c9e09ce0e64dfab226cad739447": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "OpenLedger",
+      "address": "0xa227cc36938f0c9e09ce0e64dfab226cad739447",
+      "symbol": "OPEN",
+      "logoURI": "https://assets.coingecko.com/coins/images/67482/thumb/open.png?1756547643",
+      "assetGroup": "OpenLedger::OPEN",
+      "currencyId": "OpenLedger::OPEN",
       "tags": ["coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {

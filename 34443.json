@@ -250,7 +250,7 @@
       "address": "0xe7903b1f75c534dd8159b313d92cdcfbc62cb3cd",
       "symbol": "WRSETH",
       "logoURI": "https://assets.coingecko.com/coins/images/37919/thumb/rseth.png?1715936438",
-      "assetGroup": "WRSETH",
+      "assetGroup": "RSETH",
       "currencyId": "Wrapped rsETH::WRSETH",
       "tags": ["coingecko", "IRONCLAD"]
     },
@@ -546,7 +546,8 @@
       "symbol": "USDe",
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x4c9edd5852cd905f086c759e8383e09bff1e68b3/734064e545eabfc501b9d0e752644b7d.png",
       "assetGroup": "USDE",
-      "currencyId": "USDe::USDe"
+      "currencyId": "USDe::USDe",
+      "tags": ["coingecko"]
     },
     "0x71ef7eda2be775e5a7aa8afd02c45f059833e9d2": {
       "chainId": "34443",

@@ -514,12 +514,12 @@
     "0x922d641a426dcffaef11680e5358f34d97d112e1": {
       "chainId": "1284",
       "decimals": 8,
-      "name": "WBTC",
+      "name": "Wrapped BTC",
       "address": "0x922d641a426dcffaef11680e5358f34d97d112e1",
       "symbol": "WBTC",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
-      "assetGroup": "WBTC::WBTC",
-      "currencyId": "WBTC::WBTC"
+      "assetGroup": "WBTC",
+      "currencyId": "Wrapped BTC::WBTC"
     },
     "0xffffffff15e1b7e3df971dd813bc394deb899abf": {
       "chainId": "1284",
@@ -789,7 +789,7 @@
       "symbol": "LINK",
       "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
       "assetGroup": "LINK",
-      "currencyId": "Chainlink::LINK",
+      "currencyId": "ChainLink Token::LINK",
       "tags": ["coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {

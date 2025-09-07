@@ -159,12 +159,12 @@
     "0x18fb0a62f207a2a082ca60aa78f47a1af4985190": {
       "chainId": "108",
       "decimals": 8,
-      "name": "WBTC",
+      "name": "Wrapped BTC",
       "address": "0x18fb0a62f207a2a082ca60aa78f47a1af4985190",
       "symbol": "TT-WBTC",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/thundercore/0x18fB0A62f207A2a082cA60aA78F47a1af4985190.jpg",
-      "assetGroup": "WBTC::TT-WBTC",
-      "currencyId": "WBTC::TT-WBTC",
+      "assetGroup": "WBTC",
+      "currencyId": "Wrapped BTC::TT-WBTC",
       "tags": ["coingecko"]
     },
     "0xc3c857a9e5be042c8acf4f2827aa053e93b5d039": {
@@ -247,5 +247,8 @@
     "0xbeb0131d95ac3f03fd15894d0ade5dbf7451d171"
   ],
   "bridgeTokens": [
-    "0x0000000000000000000000000000000000000000","0x22e89898a04eaf43379beb70bf4e38b1faf8a31e", "0x4f3c8e20942461e2c3bdd8311ac57b0c222f2b82"]
+    "0x0000000000000000000000000000000000000000",
+    "0x22e89898a04eaf43379beb70bf4e38b1faf8a31e",
+    "0x4f3c8e20942461e2c3bdd8311ac57b0c222f2b82"
+  ]
 }
