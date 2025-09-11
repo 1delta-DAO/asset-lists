@@ -86,7 +86,8 @@
       "address": "0x674843c06ff83502ddb4d37c2e09c01cda38cbc8",
       "symbol": "USDT",
       "assetGroup": "USDT",
-      "currencyId": "Bridged stgUSDT::USDT"
+      "currencyId": "Bridged stgUSDT::USDT",
+      "tags": ["bridged"]
     },
     "0xbab93b7ad7fe8692a878b95a8e689423437cc500": {
       "chainId": "40",
@@ -312,7 +313,8 @@
       "symbol": "BTC.b",
       "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/mantle/0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2/logo.png",
       "assetGroup": "BTC",
-      "currencyId": "Wrapped BTC::BTC.b"
+      "currencyId": "Wrapped BTC::BTC.b",
+      "tags": ["coingecko"]
     },
     "0x26ed0f16e777c94a6fe798f9e20298034930bae8": {
       "chainId": "40",
@@ -661,7 +663,7 @@
       "address": "0xf1815bd50389c46847f0bda824ec8da914045d14",
       "symbol": "USDCE",
       "logoURI": "https://assets.coingecko.com/coins/images/67022/thumb/usdc.jpg?1751513017",
-      "assetGroup": "USDC",
+      "assetGroup": "Stargate Bridged USDC::USDCE",
       "currencyId": "Stargate Bridged USDC::USDCE",
       "tags": ["stargate", "bridged", "coingecko"]
     },
@@ -717,7 +719,10 @@
     "0xf390830df829cf22c53c8840554b98eafc5dcbc2",
     "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73",
     "0x922d641a426dcffaef11680e5358f34d97d112e1",
-    "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
+    "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+    "0x674843c06ff83502ddb4d37c2e09c01cda38cbc8",
+    "0xbab93b7ad7fe8692a878b95a8e689423437cc500",
+    "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b"
   ],
   "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",

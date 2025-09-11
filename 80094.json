@@ -187,7 +187,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34/logo.png",
       "assetGroup": "USDE",
       "currencyId": "USDe::USDe",
-      "tags": ["biconomy-gas-token", "ZEROLEND"]
+      "tags": ["biconomy-gas-token", "ZEROLEND", "coingecko", "debridge"]
     },
     "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2": {
       "chainId": "80094",
@@ -209,7 +209,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x7DCC39B4d1C53CB31e1aBc0e358b43987FEF80f7/logo.png",
       "assetGroup": "WEETH",
       "currencyId": "Wrapped eETH::weETH",
-      "tags": ["ZEROLEND"]
+      "tags": ["ZEROLEND", "biconomy-gas-token", "coingecko", "debridge"]
     },
     "0xc3827a4bc8224ee2d116637023b124ced6db6e90": {
       "chainId": "80094",
@@ -1310,6 +1310,39 @@
       "assetGroup": "LINK",
       "currencyId": "ChainLink Token::LINK",
       "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+    },
+    "0x2206182a4264bce0663681448b24fc6781fc8e40": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "Bulla",
+      "address": "0x2206182a4264bce0663681448b24fc6781fc8e40",
+      "symbol": "BULLA",
+      "logoURI": "https://assets.coingecko.com/coins/images/69028/thumb/bull-logo-1.jpg?1757319059",
+      "assetGroup": "Bulla::BULLA",
+      "currencyId": "Bulla::BULLA",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x9895d81bb462a195b4922ed7de0e3acd007c32cb": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "Stargate Finance",
+      "address": "0x9895d81bb462a195b4922ed7de0e3acd007c32cb",
+      "symbol": "STG",
+      "logoURI": "https://assets.coingecko.com/coins/images/24413/thumb/STG_LOGO.png?1696523595",
+      "assetGroup": "STG",
+      "currencyId": "Stargate Finance::STG",
+      "tags": ["stargate", "bridged", "biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x2cec7f1ac87f5345ced3d6c74bbb61bfae231ffb": {
+      "chainId": "80094",
+      "decimals": 18,
+      "name": "stBGT",
+      "address": "0x2cec7f1ac87f5345ced3d6c74bbb61bfae231ffb",
+      "symbol": "STBGT",
+      "logoURI": "https://assets.coingecko.com/coins/images/69129/thumb/stBGT.PNG?1757582178",
+      "assetGroup": "stBGT::STBGT",
+      "currencyId": "stBGT::STBGT",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "80094",

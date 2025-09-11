@@ -27083,9 +27083,10 @@
       "name": "TEM MARKET",
       "address": "0xe4f064808d11fc46397c36ef5d6be8776515ef2a",
       "symbol": "TEM",
+      "logoURI": "https://assets.coingecko.com/coins/images/68983/thumb/temlogo_off.jpg?1757141431",
       "assetGroup": "TEM MARKET::TEM",
       "currencyId": "TEM MARKET::TEM",
-      "tags": ["debridge"]
+      "tags": ["debridge", "biconomy-gas-token"]
     },
     "0x17c7c74e0cd779f33cb5a6e8ab39de46168e9ef7": {
       "chainId": "137",
@@ -27093,9 +27094,21 @@
       "name": "Crypto Factor",
       "address": "0x17c7c74e0cd779f33cb5a6e8ab39de46168e9ef7",
       "symbol": "CFR",
+      "logoURI": "https://assets.coingecko.com/coins/images/68989/thumb/token_logo_official_blue_200x200.png?1757151424",
       "assetGroup": "Crypto Factor::CFR",
       "currencyId": "Crypto Factor::CFR",
-      "tags": ["debridge"]
+      "tags": ["debridge", "biconomy-gas-token"]
+    },
+    "0xe6800cf598015a3ec5dd534f328f349da239bc78": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "DRESSdio",
+      "address": "0xe6800cf598015a3ec5dd534f328f349da239bc78",
+      "symbol": "DRESS",
+      "logoURI": "https://assets.coingecko.com/coins/images/69069/thumb/K_70uiy__400x400.jpg?1757424033",
+      "assetGroup": "DRESSdio::DRESS",
+      "currencyId": "DRESSdio::DRESS",
+      "tags": ["biconomy-gas-token", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "137",

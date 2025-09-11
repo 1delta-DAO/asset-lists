@@ -3168,16 +3168,28 @@
       "currencyId": "CDOG community::CDOG",
       "tags": ["coingecko"]
     },
+    "0xca6acbbf0823a3c302426f81fc1e826ad84b005b": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "Todin",
+      "address": "0xca6acbbf0823a3c302426f81fc1e826ad84b005b",
+      "symbol": "TDN",
+      "logoURI": "https://assets.coingecko.com/coins/images/69024/thumb/Todinx200.2.png?1757427450",
+      "assetGroup": "Todin::TDN",
+      "currencyId": "Todin::TDN",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "25",
-      "address": "0x0000000000000000000000000000000000000000",
-      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/cro.webp",
-      "currencyId": "Cronos::CRO",
-      "tags": ["native"],
-      "props": { "isNative": true },
+      "decimals": 18,
       "name": "Cronos",
+      "address": "0x0000000000000000000000000000000000000000",
       "symbol": "CRO",
-      "decimals": 18
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/cro.webp",
+      "assetGroup": "Wrapped CRO::WCRO",
+      "currencyId": "Cronos::CRO",
+      "tags": ["native", "openocean", "coingecko", "wrapped:0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23"],
+      "props": { "isNative": true, "wrapped": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23" }
     }
   },
   "mainTokens": [

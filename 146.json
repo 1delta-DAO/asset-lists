@@ -2576,7 +2576,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
       "assetGroup": "LINK",
       "currencyId": "ChainLink Token::LINK",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x4871c910877c4e89f72ec355ff709b2543c00375": {
       "chainId": "146",
@@ -2587,6 +2587,27 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/ONE.png",
       "assetGroup": "ONE Stablecoin::ONE",
       "currencyId": "ONE Stablecoin::ONE"
+    },
+    "0x391b3f70e254d582588b27e97e48d1cfcdf0be7e": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Trevee Silo scUSD",
+      "address": "0x391b3f70e254d582588b27e97e48d1cfcdf0be7e",
+      "symbol": "Trevee scUSD",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-trevee-boosted.png",
+      "assetGroup": "Trevee Silo scUSD::Trevee scUSD",
+      "currencyId": "Trevee Silo scUSD::Trevee scUSD"
+    },
+    "0xa3d68b74bf0528fdd07263c60d6488749044914b": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Wrapped eETH",
+      "address": "0xa3d68b74bf0528fdd07263c60d6488749044914b",
+      "symbol": "WEETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/33033/thumb/weETH.png?1701438396",
+      "assetGroup": "WEETH",
+      "currencyId": "Wrapped eETH::WEETH",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "146",

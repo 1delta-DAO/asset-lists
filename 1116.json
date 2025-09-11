@@ -885,7 +885,8 @@
       "symbol": "WETH",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "assetGroup": "ETH",
-      "currencyId": "Wrapped Ether::WETH"
+      "currencyId": "Wrapped Ether::WETH",
+      "tags": ["COLEND"]
     },
     "0x00000000efe302beaa2b3e6e1b18d08d69a9012a": {
       "chainId": "1116",
@@ -896,7 +897,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/Circle_Agora_White_on_Olive_1080px.png?1722961274",
       "assetGroup": "AUSD",
       "currencyId": "AUSD::AUSD",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "COLEND"]
     },
     "0x5832f53d147b3d6cd4578b9cbd62425c7ea9d0bd": {
       "chainId": "1116",

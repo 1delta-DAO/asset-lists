@@ -21726,7 +21726,8 @@
       "symbol": "USR",
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110/791c489bf30421cfded8d372726503e6.png",
       "assetGroup": "Resolv USD::USR",
-      "currencyId": "Resolv USD::USR"
+      "currencyId": "Resolv USD::USR",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x7424f00845777a06e21f0bd8873f814a8a814b2d": {
       "chainId": "42161",
@@ -22817,7 +22818,7 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/wstusr.svg",
       "assetGroup": "Resolv wstUSR::WSTUSR",
       "currencyId": "Resolv wstUSR::WSTUSR",
-      "tags": ["yield"]
+      "tags": ["yield", "biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x41ca7586cc1311807b4605fbb748a3b8862b42b5": {
       "chainId": "42161",
@@ -22828,7 +22829,7 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/syrupusdc.svg",
       "assetGroup": "Syrup USDC::syrupUSDC",
       "currencyId": "Syrup USDC::syrupUSDC",
-      "tags": ["yield", "coingecko", "debridge"]
+      "tags": ["yield", "coingecko", "debridge", "biconomy-gas-token"]
     },
     "0xe390c0b46bd723995be02640e6f1e1c802f620ac": {
       "chainId": "42161",
@@ -22838,7 +22839,8 @@
       "symbol": "MORPHO",
       "logoURI": "https://coin-images.coingecko.com/coins/images/29837/large/Morpho-token-icon.png?1726771230",
       "assetGroup": "Morpho Token::MORPHO",
-      "currencyId": "Morpho Token::MORPHO"
+      "currencyId": "Morpho Token::MORPHO",
+      "tags": ["biconomy-gas-token"]
     },
     "0x4d1d7134b87490ae5eebdb22a5820d7d0e1980bf": {
       "chainId": "42161",
@@ -22848,7 +22850,8 @@
       "symbol": "WLFI",
       "logoURI": "https://coin-images.coingecko.com/coins/images/50767/large/wlfi.png?1756438915",
       "assetGroup": "World Liberty Financial::WLFI",
-      "currencyId": "World Liberty Financial::WLFI"
+      "currencyId": "World Liberty Financial::WLFI",
+      "tags": ["biconomy-gas-token"]
     },
     "0x936f210d277bf489a3211cef9ab4bc47a7b69c96": {
       "chainId": "42161",
@@ -22878,6 +22881,49 @@
       "logoURI": "https://assets.coingecko.com/coins/images/37760/thumb/Instagram_post_-_25.png?1715475306",
       "assetGroup": "Satoshi Stablecoin::SATUSD",
       "currencyId": "Satoshi Stablecoin::SATUSD",
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+    },
+    "0x35e5db674d8e93a03d814fa0ada70731efe8a4b9": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Resolv RLP",
+      "address": "0x35e5db674d8e93a03d814fa0ada70731efe8a4b9",
+      "symbol": "RLP",
+      "logoURI": "https://assets.coingecko.com/coins/images/40017/thumb/orangeLogo..png?1725344586",
+      "assetGroup": "Resolv RLP::RLP",
+      "currencyId": "Resolv RLP::RLP",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x333333c465a19c85f85c6cfbed7b16b0b26e3333": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "ORA Coin",
+      "address": "0x333333c465a19c85f85c6cfbed7b16b0b26e3333",
+      "symbol": "ORA",
+      "logoURI": "https://assets.coingecko.com/coins/images/51812/thumb/ORA_Token.png?1732029092",
+      "assetGroup": "ORA Coin::ORA",
+      "currencyId": "ORA Coin::ORA",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0xa4eaec0b1d564061a4951816fd5b1ba8cfbc425c": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Giza",
+      "address": "0xa4eaec0b1d564061a4951816fd5b1ba8cfbc425c",
+      "symbol": "GIZA",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/giza.svg",
+      "assetGroup": "Giza::GIZA::42161::0",
+      "currencyId": "Giza::GIZA"
+    },
+    "0x25118290e6a5f4139381d072181157035864099d": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Rain",
+      "address": "0x25118290e6a5f4139381d072181157035864099d",
+      "symbol": "RAIN",
+      "logoURI": "https://assets.coingecko.com/coins/images/69134/thumb/Rain_Logo_200_200.png?1757586453",
+      "assetGroup": "Rain::RAIN",
+      "currencyId": "Rain::RAIN",
       "tags": ["coingecko", "debridge"]
     },
     "0xdf03eed325b82bc1d4db8b49c30ecc9e05104b96": {

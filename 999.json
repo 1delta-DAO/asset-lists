@@ -522,7 +522,7 @@
       "logoURI": "https://app.hyperliquid.xyz/coins/SOL_USDC.svg",
       "assetGroup": "Unit Solana::USOL",
       "currencyId": "Unit Solana::USOL",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token", "HYPURRFI"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "HYPURRFI", "HYPERLEND"]
     },
     "0x0a3d8466f5de586fa5f6de117301e2f90bcc5c48": {
       "chainId": "999",
@@ -652,9 +652,10 @@
       "name": "hyperbeat x ether.fi HYPE",
       "address": "0xd8fc8f0b03eba61f64d08b0bef69d80916e5dda9",
       "symbol": "beHYPE",
+      "logoURI": "https://app.hyperbeat.org/assets/icons/tokens/behype.svg",
       "assetGroup": "hyperbeat x ether.fi HYPE::beHYPE",
       "currencyId": "hyperbeat x ether.fi HYPE::beHYPE",
-      "logoURI": "https://app.hyperbeat.org/assets/icons/tokens/behype.svg"
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0xb50a96253abdf803d85efcdce07ad8becbc52bd5": {
       "chainId": "999",
@@ -1022,7 +1023,8 @@
       "symbol": "weETH",
       "logoURI": "https://static.debank.com/image/uni_token/logo_url/0x7dcc39b4d1c53cb31e1abc0e358b43987fef80f7/6c02f6b3bcd264d433c3676100ad8da6.png",
       "assetGroup": "WEETH",
-      "currencyId": "Wrapped eETH::weETH"
+      "currencyId": "Wrapped eETH::weETH",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0xe3c80b7a1a8631e8cfd59c61e2a74eb497db28f6": {
       "chainId": "999",
@@ -3033,7 +3035,7 @@
       "logoURI": "https://app.hyperlend.finance/assets/pt-khype-icon-C75KsiSC.svg",
       "assetGroup": "PT Kinetiq Staked HYPE 13NOV2025::PT-kHYPE-13NOV2025",
       "currencyId": "PT Kinetiq Staked HYPE 13NOV2025::PT-kHYPE-13NOV2025",
-      "tags": ["HYPERLEND"],
+      "tags": ["HYPERLEND", "HYPURRFI"],
       "props": {
         "pendle": {
           "tokenType": "PT",
@@ -3677,7 +3679,40 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54811/thumb/SLAY-200x200.png?1754713489",
       "assetGroup": "SatLayer::SLAY",
       "currencyId": "SatLayer::SLAY",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+    },
+    "0x29dbf86a8c48ea4331e28b3c1eae824a2a45996a": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "HyBridge",
+      "address": "0x29dbf86a8c48ea4331e28b3c1eae824a2a45996a",
+      "symbol": "BRIDGE",
+      "logoURI": "https://assets.coingecko.com/coins/images/69080/thumb/hybridge.png?1757430179",
+      "assetGroup": "HyBridge::BRIDGE",
+      "currencyId": "HyBridge::BRIDGE",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x125d8c0fa5707e928cda279195313f0ad6e9fefe": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Hypertrics",
+      "address": "0x125d8c0fa5707e928cda279195313f0ad6e9fefe",
+      "symbol": "HYTR",
+      "logoURI": "https://assets.coingecko.com/coins/images/69128/thumb/logo_green_new_200-200.png?1757581848",
+      "assetGroup": "Hypertrics::HYTR",
+      "currencyId": "Hypertrics::HYTR",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0xab11329560fa9c9c860bb21a9342215a1265bbb0": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Wrapped ApeCoin",
+      "address": "0xab11329560fa9c9c860bb21a9342215a1265bbb0",
+      "symbol": "WAPE",
+      "logoURI": "https://assets.coingecko.com/coins/images/50913/thumb/apecoin.jpg?1729568016",
+      "assetGroup": "APE",
+      "currencyId": "Wrapped ApeCoin::WAPE",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "999",

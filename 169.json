@@ -16,12 +16,12 @@
       "chainId": "169",
       "decimals": 18,
       "name": "StakeStone Ether",
-      "logoURI": "https://assets.coingecko.com/coins/images/33103/thumb/200_200.png?1702602672",
       "address": "0xec901da9c68e90798bbbb74c11406a32a70652c3",
       "symbol": "STONE",
+      "logoURI": "https://assets.coingecko.com/coins/images/33103/thumb/200_200.png?1702602672",
       "assetGroup": "STONE",
       "currencyId": "StakeStone Ether::STONE",
-      "tags": ["ZEROLEND"]
+      "tags": ["ZEROLEND", "coingecko"]
     },
     "0xb73603c5d87fa094b7314c74ace2e64d165016fb": {
       "chainId": "169",
@@ -29,10 +29,10 @@
       "name": "USD Coin",
       "address": "0xb73603c5d87fa094b7314c74ace2e64d165016fb",
       "symbol": "USDC",
-      "assetGroup": "USDC",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+      "assetGroup": "USDC",
       "currencyId": "USD Coin::USDC",
-      "tags": ["ZEROLEND"]
+      "tags": ["ZEROLEND", "coingecko"]
     },
     "0xf417f5a458ec102b90352f697d6e2ac3a3d2851f": {
       "chainId": "169",
@@ -43,7 +43,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
       "assetGroup": "USDT",
       "currencyId": "Tether USD::USDT",
-      "tags": ["ZEROLEND"]
+      "tags": ["ZEROLEND", "coingecko"]
     },
     "0x305e88d809c9dc03179554bfbf85ac05ce8f18d6": {
       "chainId": "169",
@@ -51,10 +51,10 @@
       "name": "Wrapped BTC",
       "address": "0x305e88d809c9dc03179554bfbf85ac05ce8f18d6",
       "symbol": "WBTC",
-      "assetGroup": "WBTC",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
+      "assetGroup": "WBTC",
       "currencyId": "Wrapped BTC::WBTC",
-      "tags": ["ZEROLEND"]
+      "tags": ["ZEROLEND", "coingecko"]
     },
     "0x0dc808adce2099a9f62aa87d9670745aba741746": {
       "chainId": "169",
@@ -62,10 +62,10 @@
       "name": "Wrapped Ether",
       "address": "0x0dc808adce2099a9f62aa87d9670745aba741746",
       "symbol": "WETH",
-      "assetGroup": "ETH",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+      "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "tags": ["ZEROLEND", "wnative"],
+      "tags": ["ZEROLEND", "wnative", "coingecko"],
       "props": { "wnative": true }
     },
     "0x2fe3ad97a60eb7c79a976fc18bb5ffd07dd94ba5": {
@@ -77,9 +77,9 @@
       "logoURI": "https://assets.coingecko.com/coins/images/18834/large/wstETH.png?1633565443",
       "assetGroup": "WSTETH",
       "currencyId": "Wrapped liquid staked Ether 2.0::wstETH",
-      "tags": ["ZEROLEND"]
+      "tags": ["ZEROLEND", "coingecko"]
     },
-    "0xbdad407f77f44f7da6684b416b1951eca461fb07": {
+    "0x57f5e098cad7a3d1eed53991d4d66c45c9af7812": {
       "chainId": "169",
       "decimals": 18,
       "name": "Wrapped USDM",
@@ -99,7 +99,324 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/34289/large/manta.jpg?1704468717",
       "assetGroup": "Manta::MANTA",
       "currencyId": "Manta::MANTA",
+      "tags": ["ZEROLEND", "coingecko"]
+    },
+    "0xbdad407f77f44f7da6684b416b1951eca461fb07": {
+      "chainId": "169",
+      "decimals": 18,
+      "name": "Wrapped Mountain Protocol USD",
+      "address": "0xbdad407f77f44f7da6684b416b1951eca461fb07",
+      "symbol": "wUSDM",
+      "assetGroup": "Wrapped Mountain Protocol USD::wUSDM",
+      "currencyId": "Wrapped Mountain Protocol USD::wUSDM",
       "tags": ["ZEROLEND"]
+    },
+    "0x649d4524897ce85a864dc2a2d5a11adb3044f44a": {
+      "chainId": "169",
+      "decimals": 18,
+      "name": "Manta mUSD",
+      "address": "0x649d4524897ce85a864dc2a2d5a11adb3044f44a",
+      "symbol": "MUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/38336/thumb/token_m_usd.png?1717126272",
+      "assetGroup": "Manta mUSD::MUSD",
+      "currencyId": "Manta mUSD::MUSD",
+      "tags": ["coingecko"]
+    },
+    "0x0d613b80f9afb3cef99fe26702227d74b0178740": {
+      "chainId": "169",
+      "decimals": 18,
+      "name": "Minu the Manta",
+      "address": "0x0d613b80f9afb3cef99fe26702227d74b0178740",
+      "symbol": "MNU",
+      "logoURI": "https://assets.coingecko.com/coins/images/34075/thumb/minu_the_manta_no_back_200px.png?1703907109",
+      "assetGroup": "Minu the Manta::MNU",
+      "currencyId": "Minu the Manta::MNU",
+      "tags": ["coingecko"]
+    },
+    "0xcd5d6de3fdbce1895f0dac13a065673599ed6806": {
+      "chainId": "169",
+      "decimals": 18,
+      "name": "AsMatch",
+      "address": "0xcd5d6de3fdbce1895f0dac13a065673599ed6806",
+      "symbol": "ASM",
+      "logoURI": "https://assets.coingecko.com/coins/images/33920/thumb/AsMatch_coin_image.jpg?1703363249",
+      "assetGroup": "AsMatch::ASM",
+      "currencyId": "AsMatch::ASM",
+      "tags": ["coingecko"]
+    },
+    "0x95d1b0f2a751010083bf12e29e7a2f13429f7143": {
+      "chainId": "169",
+      "decimals": 18,
+      "name": "EZswap Protocol",
+      "address": "0x95d1b0f2a751010083bf12e29e7a2f13429f7143",
+      "symbol": "EZSWAP",
+      "logoURI": "https://assets.coingecko.com/coins/images/36045/thumb/ezswao.jpeg?1710401382",
+      "assetGroup": "EZswap Protocol::EZSWAP",
+      "currencyId": "EZswap Protocol::EZSWAP",
+      "tags": ["coingecko"]
+    },
+    "0x41c49790967067a71f893b51f2f311ace46fb773": {
+      "chainId": "169",
+      "decimals": 18,
+      "name": "CirclePacific",
+      "address": "0x41c49790967067a71f893b51f2f311ace46fb773",
+      "symbol": "CIRCLE",
+      "logoURI": "https://assets.coingecko.com/coins/images/34757/thumb/logo.png?1705981096",
+      "assetGroup": "CirclePacific::CIRCLE",
+      "currencyId": "CirclePacific::CIRCLE",
+      "tags": ["coingecko"]
+    },
+    "0x0f52a51287f9b3894d73df05164d0ee2533ccbb4": {
+      "chainId": "169",
+      "decimals": 18,
+      "name": "Bridged MATIC  Manta Pacific ",
+      "address": "0x0f52a51287f9b3894d73df05164d0ee2533ccbb4",
+      "symbol": "MATIC",
+      "assetGroup": "POL",
+      "currencyId": "Bridged MATIC  Manta Pacific ::MATIC",
+      "tags": ["bridged", "coingecko"]
+    },
+    "0x9582b518d28dc65945f8151c25e44a4e80504205": {
+      "chainId": "169",
+      "decimals": 18,
+      "name": "GULL",
+      "address": "0x9582b518d28dc65945f8151c25e44a4e80504205",
+      "symbol": "GULL",
+      "logoURI": "https://assets.coingecko.com/coins/images/51373/thumb/gulllogo.png?1730938086",
+      "assetGroup": "GULL::GULL",
+      "currencyId": "GULL::GULL",
+      "tags": ["coingecko"]
+    },
+    "0xaccbc418a994a27a75644d8d591afc22faba594e": {
+      "chainId": "169",
+      "decimals": 18,
+      "name": "Manta mETH",
+      "address": "0xaccbc418a994a27a75644d8d591afc22faba594e",
+      "symbol": "METH",
+      "logoURI": "https://assets.coingecko.com/coins/images/38337/thumb/token_m_eth.png?1717126380",
+      "assetGroup": "METH",
+      "currencyId": "Manta mETH::METH",
+      "tags": ["coingecko"]
+    },
+    "0x00c6af82abfddc5e1b8f376f954eb4f4dfff31c5": {
+      "chainId": "169",
+      "decimals": 18,
+      "name": "MyanCat Coin",
+      "address": "0x00c6af82abfddc5e1b8f376f954eb4f4dfff31c5",
+      "symbol": "MYAN",
+      "logoURI": "https://assets.coingecko.com/coins/images/39735/thumb/Myancat_coin__1.png?1723779288",
+      "assetGroup": "MyanCat Coin::MYAN",
+      "currencyId": "MyanCat Coin::MYAN",
+      "tags": ["coingecko"]
+    },
+    "0x1468177dbcb2a772f3d182d2f1358d442b553089": {
+      "chainId": "169",
+      "decimals": 18,
+      "name": "Manta mBTC",
+      "address": "0x1468177dbcb2a772f3d182d2f1358d442b553089",
+      "symbol": "MBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/38338/thumb/token_m_btc.png?1717126408",
+      "assetGroup": "Manta mBTC::MBTC",
+      "currencyId": "Manta mBTC::MBTC",
+      "tags": ["coingecko"]
+    },
+    "0xe68874e57224d1e4e6d4c6b4cf5af7ca51867611": {
+      "chainId": "169",
+      "decimals": 18,
+      "name": "Ceto Swap Burned CETO",
+      "address": "0xe68874e57224d1e4e6d4c6b4cf5af7ca51867611",
+      "symbol": "BCETO",
+      "logoURI": "https://assets.coingecko.com/coins/images/38063/thumb/bCETO.png?1716581547",
+      "assetGroup": "Ceto Swap Burned CETO::BCETO",
+      "currencyId": "Ceto Swap Burned CETO::BCETO",
+      "tags": ["coingecko"]
+    },
+    "0xcba2aeec821b0b119857a9ab39e09b034249681a": {
+      "chainId": "169",
+      "decimals": 18,
+      "name": "Accumulated Finance Staked MANTA",
+      "address": "0xcba2aeec821b0b119857a9ab39e09b034249681a",
+      "symbol": "STMANTA",
+      "logoURI": "https://assets.coingecko.com/coins/images/51116/thumb/stmanta.png?1730118237",
+      "assetGroup": "Accumulated Finance Staked MANTA::STMANTA",
+      "currencyId": "Accumulated Finance Staked MANTA::STMANTA",
+      "tags": ["coingecko"]
+    },
+    "0xca24fdce9d4d9bd69c829689baea02e34d025f43": {
+      "chainId": "169",
+      "decimals": 18,
+      "name": "KUMA",
+      "address": "0xca24fdce9d4d9bd69c829689baea02e34d025f43",
+      "symbol": "KUMA",
+      "logoURI": "https://assets.coingecko.com/coins/images/34151/thumb/200x200_kuma_icon.png?1704191255",
+      "assetGroup": "KUMA::KUMA",
+      "currencyId": "KUMA::KUMA",
+      "tags": ["coingecko"]
+    },
+    "0x7746ef546d562b443ae4b4145541a3b1a3d75717": {
+      "chainId": "169",
+      "decimals": 18,
+      "name": "Bifrost Voucher MANTA",
+      "address": "0x7746ef546d562b443ae4b4145541a3b1a3d75717",
+      "symbol": "VMANTA",
+      "logoURI": "https://assets.coingecko.com/coins/images/34707/thumb/vMANTA.png?1705893023",
+      "assetGroup": "Bifrost Voucher MANTA::VMANTA",
+      "currencyId": "Bifrost Voucher MANTA::VMANTA",
+      "tags": ["coingecko"]
+    },
+    "0x91647632245cabf3d66121f86c387ae0ad295f9a": {
+      "chainId": "169",
+      "decimals": 18,
+      "name": "iZUMi Finance",
+      "address": "0x91647632245cabf3d66121f86c387ae0ad295f9a",
+      "symbol": "IZI",
+      "logoURI": "https://assets.coingecko.com/coins/images/21791/thumb/izumi-logo-symbol.png?1696521144",
+      "assetGroup": "IZI",
+      "currencyId": "iZUMi Finance::IZI",
+      "tags": ["coingecko"]
+    },
+    "0xe22e3d44ea9fb0a87ea3f7a8f41d869c677f0020": {
+      "chainId": "169",
+      "decimals": 18,
+      "name": "Quickswap",
+      "address": "0xe22e3d44ea9fb0a87ea3f7a8f41d869c677f0020",
+      "symbol": "QUICK",
+      "logoURI": "https://assets.coingecko.com/coins/images/25393/thumb/quickswap.png?1696524525",
+      "assetGroup": "QUICK",
+      "currencyId": "Quickswap::QUICK",
+      "tags": ["coingecko"]
+    },
+    "0xd212377f71f15a1b962c9265dc44fbceaf0bc46d": {
+      "chainId": "169",
+      "decimals": 18,
+      "name": "Deri Protocol",
+      "address": "0xd212377f71f15a1b962c9265dc44fbceaf0bc46d",
+      "symbol": "DERI",
+      "logoURI": "https://assets.coingecko.com/coins/images/13931/thumb/200vs200.jpg?1696513670",
+      "assetGroup": "DERI",
+      "currencyId": "Deri Protocol::DERI",
+      "tags": ["coingecko"]
+    },
+    "0xbab1c57ec0bb0ae81d948503e51d90166459d154": {
+      "chainId": "169",
+      "decimals": 18,
+      "name": "Ispolink",
+      "address": "0xbab1c57ec0bb0ae81d948503e51d90166459d154",
+      "symbol": "ISP",
+      "logoURI": "https://assets.coingecko.com/coins/images/15283/thumb/isolink.PNG?1696514934",
+      "assetGroup": "Ispolink::ISP",
+      "currencyId": "Ispolink::ISP",
+      "tags": ["coingecko"]
+    },
+    "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34": {
+      "chainId": "169",
+      "decimals": 18,
+      "name": "Ethena USDe",
+      "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+      "symbol": "USDE",
+      "logoURI": "https://assets.coingecko.com/coins/images/33613/thumb/usde.png?1733810059",
+      "assetGroup": "USDE",
+      "currencyId": "Ethena USDe::USDE",
+      "tags": ["coingecko"]
+    },
+    "0xb385e52903c802b3bdca7c4d0c78460a8988e1ce": {
+      "chainId": "169",
+      "decimals": 18,
+      "name": "Bella Protocol",
+      "address": "0xb385e52903c802b3bdca7c4d0c78460a8988e1ce",
+      "symbol": "BEL",
+      "logoURI": "https://assets.coingecko.com/coins/images/12478/thumb/Bella.png?1696512296",
+      "assetGroup": "BEL",
+      "currencyId": "Bella Protocol::BEL",
+      "tags": ["coingecko"]
+    },
+    "0x90e95735378a31bfad2dcd87128fbb80ffeb6917": {
+      "chainId": "169",
+      "decimals": 6,
+      "name": "Pyth Network",
+      "address": "0x90e95735378a31bfad2dcd87128fbb80ffeb6917",
+      "symbol": "PYTH",
+      "logoURI": "https://assets.coingecko.com/coins/images/31924/thumb/pyth.png?1701245725",
+      "assetGroup": "Pyth Network::PYTH",
+      "currencyId": "Pyth Network::PYTH",
+      "tags": ["coingecko"]
+    },
+    "0x8d7090ddda057f48fdbbb2abcea22d1113ab566a": {
+      "chainId": "169",
+      "decimals": 18,
+      "name": "Tellor Tributes",
+      "address": "0x8d7090ddda057f48fdbbb2abcea22d1113ab566a",
+      "symbol": "TRB",
+      "logoURI": "https://assets.coingecko.com/coins/images/9644/thumb/TRB-New_Logo.png?1737722143",
+      "assetGroup": "TRB",
+      "currencyId": "Tellor Tributes::TRB",
+      "tags": ["coingecko"]
+    },
+    "0x01d27580c464d5b3b26f78bee12e684901dbc02a": {
+      "chainId": "169",
+      "decimals": 18,
+      "name": "Stader MaticX",
+      "address": "0x01d27580c464d5b3b26f78bee12e684901dbc02a",
+      "symbol": "MATICX",
+      "logoURI": "https://assets.coingecko.com/coins/images/25383/thumb/maticx.png?1696524516",
+      "assetGroup": "MATICX",
+      "currencyId": "Stader MaticX::MATICX",
+      "tags": ["coingecko"]
+    },
+    "0x7dc9748da8e762e569f9269f48f69a1a9f8ea761": {
+      "chainId": "169",
+      "decimals": 6,
+      "name": "ZeUSD",
+      "address": "0x7dc9748da8e762e569f9269f48f69a1a9f8ea761",
+      "symbol": "ZEUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54829/thumb/zoth_32.webp?1741933336",
+      "assetGroup": "ZeUSD::ZEUSD",
+      "currencyId": "ZeUSD::ZEUSD",
+      "tags": ["coingecko"]
+    },
+    "0x35a57efb9b4ae833e9a200bb191ff69420cafa1d": {
+      "chainId": "169",
+      "decimals": 18,
+      "name": "ZeroLend",
+      "address": "0x35a57efb9b4ae833e9a200bb191ff69420cafa1d",
+      "symbol": "ZERO",
+      "logoURI": "https://assets.coingecko.com/coins/images/37375/thumb/image.png?1714884543",
+      "assetGroup": "ZERO",
+      "currencyId": "ZeroLend::ZERO",
+      "tags": ["coingecko"]
+    },
+    "0x8f08a3b5bceadef10c0b26c8bb720ebb8fa91758": {
+      "chainId": "169",
+      "decimals": 18,
+      "name": "Anzen Staked USDz",
+      "address": "0x8f08a3b5bceadef10c0b26c8bb720ebb8fa91758",
+      "symbol": "SUSDZ",
+      "logoURI": "https://assets.coingecko.com/coins/images/38040/thumb/susdz-symbol-200x200.png?1716334492",
+      "assetGroup": "Anzen Staked USDz::SUSDZ",
+      "currencyId": "Anzen Staked USDz::SUSDZ",
+      "tags": ["coingecko"]
+    },
+    "0x078f712f038a95beea94f036cadb49188a90604b": {
+      "chainId": "169",
+      "decimals": 18,
+      "name": "iZUMi Bond USD",
+      "address": "0x078f712f038a95beea94f036cadb49188a90604b",
+      "symbol": "IUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/25388/thumb/iusd-logo-symbol-10k%E5%A4%A7%E5%B0%8F.png?1696524521",
+      "assetGroup": "IUSD",
+      "currencyId": "iZUMi Bond USD::IUSD",
+      "tags": ["coingecko"]
+    },
+    "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2": {
+      "chainId": "169",
+      "decimals": 18,
+      "name": "Ethena Staked USDe",
+      "address": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+      "symbol": "SUSDE",
+      "logoURI": "https://assets.coingecko.com/coins/images/33669/thumb/sUSDe-Symbol-Color.png?1716307680",
+      "assetGroup": "SUSDE",
+      "currencyId": "Ethena Staked USDe::SUSDE",
+      "tags": ["coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "169",
@@ -110,7 +427,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "assetGroup": "ETH",
       "currencyId": "Ether::ETH",
-      "tags": ["native", "ZEROLEND", "wrapped:0x0dc808adce2099a9f62aa87d9670745aba741746"],
+      "tags": ["native", "ZEROLEND", "coingecko", "wrapped:0x0dc808adce2099a9f62aa87d9670745aba741746"],
       "props": { "isNative": true, "wrapped": "0x0dc808adce2099a9f62aa87d9670745aba741746" }
     }
   },
@@ -121,7 +438,33 @@
     "0x305e88d809c9dc03179554bfbf85ac05ce8f18d6",
     "0x0dc808adce2099a9f62aa87d9670745aba741746",
     "0x2fe3ad97a60eb7c79a976fc18bb5ffd07dd94ba5",
-    "0x95cef13441be50d20ca4558cc0a27b601ac544e5"
+    "0x95cef13441be50d20ca4558cc0a27b601ac544e5",
+    "0x649d4524897ce85a864dc2a2d5a11adb3044f44a",
+    "0x0d613b80f9afb3cef99fe26702227d74b0178740",
+    "0xcd5d6de3fdbce1895f0dac13a065673599ed6806",
+    "0x95d1b0f2a751010083bf12e29e7a2f13429f7143",
+    "0x41c49790967067a71f893b51f2f311ace46fb773",
+    "0x0f52a51287f9b3894d73df05164d0ee2533ccbb4",
+    "0x9582b518d28dc65945f8151c25e44a4e80504205",
+    "0xaccbc418a994a27a75644d8d591afc22faba594e",
+    "0x00c6af82abfddc5e1b8f376f954eb4f4dfff31c5",
+    "0x1468177dbcb2a772f3d182d2f1358d442b553089",
+    "0xe68874e57224d1e4e6d4c6b4cf5af7ca51867611",
+    "0xcba2aeec821b0b119857a9ab39e09b034249681a",
+    "0xca24fdce9d4d9bd69c829689baea02e34d025f43",
+    "0x7746ef546d562b443ae4b4145541a3b1a3d75717",
+    "0x91647632245cabf3d66121f86c387ae0ad295f9a",
+    "0xe22e3d44ea9fb0a87ea3f7a8f41d869c677f0020",
+    "0xd212377f71f15a1b962c9265dc44fbceaf0bc46d",
+    "0xbab1c57ec0bb0ae81d948503e51d90166459d154",
+    "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "0xb385e52903c802b3bdca7c4d0c78460a8988e1ce",
+    "0x90e95735378a31bfad2dcd87128fbb80ffeb6917",
+    "0x8d7090ddda057f48fdbbb2abcea22d1113ab566a",
+    "0x01d27580c464d5b3b26f78bee12e684901dbc02a",
+    "0x7dc9748da8e762e569f9269f48f69a1a9f8ea761",
+    "0x35a57efb9b4ae833e9a200bb191ff69420cafa1d",
+    "0x8f08a3b5bceadef10c0b26c8bb720ebb8fa91758"
   ],
   "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",

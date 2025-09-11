@@ -1150,7 +1150,7 @@
       "logoURI": "https://raw.githubusercontent.com/uniswap/assets/master/blockchains/ethereum/assets/0x18084fbA666a33d37592fA2633fD49a74DD93a88/logo.png",
       "assetGroup": "tBTC::tBTC",
       "currencyId": "tBTC::tBTC",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token", "XLEND", "COMPOUND_V3_USDC"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "XLEND", "COMPOUND_V3_USDC", "AAVE_V3"]
     },
     "0xac1bd2486aaf3b5c0fc3fd868558b082a531b2b4": {
       "chainId": "8453",
@@ -11976,7 +11976,7 @@
       "address": "0xedfa23602d0ec14714057867a78d01e94176bea0",
       "symbol": "wrsETH",
       "logoURI": "https://assets.coingecko.com/coins/images/37919/thumb/rseth.png?1715936438",
-      "assetGroup": "RSETH",
+      "assetGroup": "Wrapped rsETH::wrsETH",
       "currencyId": "Wrapped rsETH::wrsETH",
       "tags": ["coingecko", "debridge", "biconomy-gas-token", "AAVE_V3", "XLEND", "COMPOUND_V3_WETH"]
     },
@@ -22002,7 +22002,7 @@
       "logoURI": "https://ethereum-optimism.github.io/data/UOMI/logo.svg",
       "assetGroup": "UOMI::UOMI",
       "currencyId": "UOMI::UOMI",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6": {
       "chainId": "8453",
@@ -29595,7 +29595,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68915/thumb/coloured.png?1756972110",
       "assetGroup": "Pharmachain AI::PHAI",
       "currencyId": "Pharmachain AI::PHAI",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x3394a562a38cebd02afc56380a108bb98c5ac3b7": {
       "chainId": "8453",
@@ -29606,7 +29606,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68909/thumb/profile_png.png?1756970386",
       "assetGroup": "TAIX::TAIX",
       "currencyId": "TAIX::TAIX",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0xbb2db41e62abf596b7f8ca7bd4733a7b357f5ab9": {
       "chainId": "8453",
@@ -29617,7 +29617,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68910/thumb/MAXZORAPFP.jpg?1756970942",
       "assetGroup": "MetacadeMax::METACADEMAX",
       "currencyId": "MetacadeMax::METACADEMAX",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0xbb205edcae51eda7731cc08291ed862eba0bbb15": {
       "chainId": "8453",
@@ -29628,7 +29628,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68981/thumb/IMG_3255.png?1757224220",
       "assetGroup": "FLIPN::FPN",
       "currencyId": "FLIPN::FPN",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x22c0a2e55aed8b317a285ccbd4f3d8ee24c9e5e3": {
       "chainId": "8453",
@@ -29639,7 +29639,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68965/thumb/rq6n6wtg7lwi7ukxuxcccdmvju0j.?1757103085",
       "assetGroup": "Fyni AI by Virtuals::FYNI",
       "currencyId": "Fyni AI by Virtuals::FYNI",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0xbcc7ff0361f659b1437001f9593e6d638b7dfc37": {
       "chainId": "8453",
@@ -29650,7 +29650,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68948/thumb/download_%283%29.png?1757052209",
       "assetGroup": "BaseRise::BRISE",
       "currencyId": "BaseRise::BRISE",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0xec4abc31e35ba30350eeaa4c06e841ccdc9d8e00": {
       "chainId": "8453",
@@ -29661,7 +29661,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68946/thumb/logo_%285%29.png?1757051736",
       "assetGroup": "Unstable Tit::UST",
       "currencyId": "Unstable Tit::UST",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x55337650856299363c496065c836b9c6e9de0367": {
       "chainId": "8453",
@@ -29672,7 +29672,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68980/thumb/ACES-logo-01.png?1757140517",
       "assetGroup": "ACES fun::ACES",
       "currencyId": "ACES fun::ACES",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x7750741868cc4a865d9c0f619e6e642fd61f642f": {
       "chainId": "8453",
@@ -29683,7 +29683,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68949/thumb/logo.png?1757052647",
       "assetGroup": "Memory::MEM",
       "currencyId": "Memory::MEM",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x696f9436b67233384889472cd7cd58a6fb5df4f1": {
       "chainId": "8453",
@@ -29694,7 +29694,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68972/thumb/avnt-token.png?1757134448",
       "assetGroup": "Avantis::AVNT",
       "currencyId": "Avantis::AVNT",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x3e248ab4554cfdec8fc4f18f569fe6f46de61db1": {
       "chainId": "8453",
@@ -29705,7 +29705,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54811/thumb/SLAY-200x200.png?1754713489",
       "assetGroup": "SatLayer::SLAY",
       "currencyId": "SatLayer::SLAY",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x5e817f2abccb9095585d26c2a3ce234a440574fc": {
       "chainId": "8453",
@@ -29716,7 +29716,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68284/thumb/FRNT_200.png?1755242496",
       "assetGroup": "Frontier Stable Token::FRNT",
       "currencyId": "Frontier Stable Token::FRNT",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x8d760f4fda919a8e9f38237ee003fe8ff0ca9ef7": {
       "chainId": "8453",
@@ -29727,7 +29727,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69005/thumb/MARKET_CAP_JACK.png?1757253341",
       "assetGroup": "JACK",
       "currencyId": "JACK::JACK",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0xe6603e9d1d2bd411e2d2815e44a197b6ff8402b7": {
       "chainId": "8453",
@@ -29738,7 +29738,137 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69004/thumb/1000005793.jpg?1757252993",
       "assetGroup": "Arcane Owls::OWLS",
       "currencyId": "Arcane Owls::OWLS",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+    },
+    "0x194b8fed256c02ef1036ed812cae0c659ee6f7fd": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "PT Ethena USDe 11DEC2025",
+      "address": "0x194b8fed256c02ef1036ed812cae0c659ee6f7fd",
+      "symbol": "PT-USDe-11DEC2025",
+      "logoURI": "https://cdn.morpho.org/assets/logos/pt-usde.svg",
+      "assetGroup": "PT Ethena USDe 11DEC2025::PT-USDe-11DEC2025",
+      "currencyId": "PT Ethena USDe 11DEC2025::PT-USDe-11DEC2025",
+      "tags": ["yield"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x8991847176b1d187e403dd92a4e55fc8d7684538",
+          "syAddress": "0x5dfbeaea9e41f85c334075482a20afb7031207ae",
+          "expiry": 1765411200,
+          "ytAddress": "0x1490516d8391e4d0bcbd13b7a56b4fe4996478be"
+        }
+      }
+    },
+    "0x658cdf527858974e85ade6d3900640f109519a25": {
+      "chainId": "8453",
+      "decimals": 13,
+      "name": "The Singularity",
+      "address": "0x658cdf527858974e85ade6d3900640f109519a25",
+      "symbol": "SINGULARITY",
+      "logoURI": "https://assets.coingecko.com/coins/images/69054/thumb/IMG_5640.png?1757348787",
+      "assetGroup": "The Singularity::SINGULARITY",
+      "currencyId": "The Singularity::SINGULARITY",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0xc77eb53473759913bf278e52861ef281829cbe4d": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Skynet",
+      "address": "0xc77eb53473759913bf278e52861ef281829cbe4d",
+      "symbol": "SKY",
+      "logoURI": "https://assets.coingecko.com/coins/images/69020/thumb/y1dvd4ay0lone0ln05hay2yxir0u.?1757258089",
+      "assetGroup": "Skynet::SKY",
+      "currencyId": "Skynet::SKY",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0xea9be79e81a2a6505bdbe9ef622301ad8d0d5a85": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "UNIBROS",
+      "address": "0xea9be79e81a2a6505bdbe9ef622301ad8d0d5a85",
+      "symbol": "UNIBROS",
+      "logoURI": "https://assets.coingecko.com/coins/images/69036/thumb/_unibros_circle.png?1757320483",
+      "assetGroup": "UNIBROS::UNIBROS",
+      "currencyId": "UNIBROS::UNIBROS",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0xc7c154a93127ad933844fe21b20358397edc0e8c": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Dr Emma Sage",
+      "address": "0xc7c154a93127ad933844fe21b20358397edc0e8c",
+      "symbol": "EMMA",
+      "logoURI": "https://assets.coingecko.com/coins/images/69019/thumb/uj4zgzjsar0jowvxl810iusw4tkz.?1757257470",
+      "assetGroup": "Dr Emma Sage::EMMA",
+      "currencyId": "Dr Emma Sage::EMMA",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0xe1bfa25468af64e366ddafc9d91bcc6c97439a14": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Black Mirror",
+      "address": "0xe1bfa25468af64e366ddafc9d91bcc6c97439a14",
+      "symbol": "MIRROR",
+      "logoURI": "https://assets.coingecko.com/coins/images/68922/thumb/black_mirror.png?1756974711",
+      "assetGroup": "Black Mirror::MIRROR",
+      "currencyId": "Black Mirror::MIRROR",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0xbb8d2a0f11c2e4885e26a46ea56a1bc6e84ce674": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Huey",
+      "address": "0xbb8d2a0f11c2e4885e26a46ea56a1bc6e84ce674",
+      "symbol": "HUEY",
+      "logoURI": "https://assets.coingecko.com/coins/images/69071/thumb/Huey_logo_transparent_200x2001234.png?1757424372",
+      "assetGroup": "Huey::HUEY",
+      "currencyId": "Huey::HUEY",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x259592abc5fde96635c334a71ba2d5d244a12fc1": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "WestTech Security Token",
+      "address": "0x259592abc5fde96635c334a71ba2d5d244a12fc1",
+      "symbol": "WST",
+      "logoURI": "https://assets.coingecko.com/coins/images/69055/thumb/westtech_logo_vector_32x32.png?1757371951",
+      "assetGroup": "WestTech Security Token::WST",
+      "currencyId": "WestTech Security Token::WST",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x20fbd133897ef802e0235db77bb19a071e257d41": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Wrapped PUMP  Universal ",
+      "address": "0x20fbd133897ef802e0235db77bb19a071e257d41",
+      "symbol": "UPUMP",
+      "logoURI": "https://assets.coingecko.com/coins/images/69090/thumb/pump.jpg?1757474330",
+      "assetGroup": "Wrapped PUMP  Universal ::UPUMP",
+      "currencyId": "Wrapped PUMP  Universal ::UPUMP",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x7ce02e86354ea0cc3b302aeadc0ab56bc7eb44b8": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "SIRE",
+      "address": "0x7ce02e86354ea0cc3b302aeadc0ab56bc7eb44b8",
+      "symbol": "SIRE",
+      "logoURI": "https://assets.coingecko.com/coins/images/53423/thumb/Profile_Picture.png?1757490392",
+      "assetGroup": "SIRE::SIRE",
+      "currencyId": "SIRE::SIRE",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x7543e3829ecdd61a5fd7c187ff88c4cf46e30f73": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Asymmetry Finance",
+      "address": "0x7543e3829ecdd61a5fd7c187ff88c4cf46e30f73",
+      "symbol": "ASF",
+      "logoURI": "https://assets.coingecko.com/coins/images/51638/thumb/ASF-200x200.png?1731687627",
+      "assetGroup": "Asymmetry Finance::ASF",
+      "currencyId": "Asymmetry Finance::ASF",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "8453",

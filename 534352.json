@@ -32,7 +32,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "tags": ["coingecko", "wnative", "biconomy-gas-token", "AAVE_V3", "LORE", "COMPOUND_V3_USDC"],
+      "tags": ["coingecko", "wnative", "biconomy-gas-token", "AAVE_V3", "LORE", "COMPOUND_V3_USDC", "U235"],
       "props": { "wnative": true }
     },
     "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4": {
@@ -44,7 +44,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/32611/thumb/USDC.png?1698733754",
       "assetGroup": "USDC",
       "currencyId": "USD Coin::USDC",
-      "tags": ["coingecko", "biconomy-gas-token", "AAVE_V3", "AVALON", "LORE", "COMPOUND_V3_USDC"]
+      "tags": ["coingecko", "biconomy-gas-token", "AAVE_V3", "AVALON", "LORE", "COMPOUND_V3_USDC", "U235"]
     },
     "0xf55bec9cafdbe8730f096aa55dad6d22d44099df": {
       "chainId": "534352",
@@ -55,7 +55,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/32610/thumb/usdt_%281%29.png?1698733524",
       "assetGroup": "USDT",
       "currencyId": "Tether USD::USDT",
-      "tags": ["coingecko", "biconomy-gas-token", "LORE"]
+      "tags": ["coingecko", "biconomy-gas-token", "LORE", "U235"]
     },
     "0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1": {
       "chainId": "534352",
@@ -88,7 +88,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/32615/thumb/wsteth.png?1698735772",
       "assetGroup": "WSTETH",
       "currencyId": "Wrapped liquid staked Ether 2.0::wstETH",
-      "tags": ["coingecko", "biconomy-gas-token", "AAVE_V3", "AVALON", "LORE", "COMPOUND_V3_USDC"]
+      "tags": ["coingecko", "biconomy-gas-token", "AAVE_V3", "AVALON", "LORE", "COMPOUND_V3_USDC", "U235"]
     },
     "0xdd6a49995ad38fe7409b5d5cb5539261bd1bc901": {
       "chainId": "534352",
@@ -561,7 +561,7 @@
       "logoURI": "https://static.debank.com/image/project/logo_url/stargate/3c6fbbbb1e62793ee34effb91d8769e7.png",
       "assetGroup": "StargateToken::STG",
       "currencyId": "StargateToken::STG",
-      "tags": ["stargate", "bridged", "biconomy-gas-token"]
+      "tags": ["stargate", "bridged", "biconomy-gas-token", "coingecko"]
     },
     "0x608ef9a3bffe206b86c3108218003b3cfbf99c84": {
       "chainId": "534352",
@@ -624,7 +624,7 @@
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x4c9edd5852cd905f086c759e8383e09bff1e68b3/1228d6e73f70f37ec1f6fe02a3bbe6ff.png",
       "assetGroup": "USDE",
       "currencyId": "USDe::USDe",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x53878b874283351d26d206fa512aece1bef6c0dd": {
       "chainId": "534352",
@@ -742,7 +742,7 @@
       "logoURI": "https://ethena.fi/shared/ecosystem/sUSDe.svg",
       "assetGroup": "SUSDE",
       "currencyId": "sUSDe::sUSDe",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x188b158caf5ea252012dbd6030afc030329c4961": {
       "chainId": "534352",
@@ -782,7 +782,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
       "assetGroup": "LINK",
       "currencyId": "ChainLink Token::LINK",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f": {
       "chainId": "534352",
@@ -856,6 +856,7 @@
         "AAVE_V3",
         "LORE",
         "COMPOUND_V3_USDC",
+        "U235",
         "wrapped:0x5300000000000000000000000000000000000004"
       ],
       "props": { "isNative": true, "wrapped": "0x5300000000000000000000000000000000000004" }

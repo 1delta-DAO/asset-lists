@@ -68,6 +68,17 @@
       "currencyId": "BLEND::BLEND",
       "tags": ["coingecko"]
     },
+    "0x12a272a581fee5577a5dfa371afeb4b2f3a8c2f8": {
+      "chainId": "41923",
+      "decimals": 6,
+      "name": "Stargate Bridged USDC",
+      "address": "0x12a272a581fee5577a5dfa371afeb4b2f3a8c2f8",
+      "symbol": "USDC.e",
+      "logoURI": "https://assets.coingecko.com/coins/images/69099/thumb/USDC_Token.png?1757497003",
+      "assetGroup": "USDC",
+      "currencyId": "Stargate Bridged USDC::USDCE",
+      "tags": ["stargate", "bridged", "coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "41923",
       "decimals": 18,
@@ -87,7 +98,8 @@
     "0x7277cc818e3f3ffbb169c6da9cc77fc2d2a34895",
     "0xd02e8c38a8e3db71f8b2ae30b8186d7874934e12",
     "0xd282de0c2bd41556c887f319a5c19ff441dcdf90",
-    "0x526e8a66e357ffeaeeec6d7be1e5ea44a788dd1d"
+    "0x526e8a66e357ffeaeeec6d7be1e5ea44a788dd1d",
+    "0x12a272a581fee5577a5dfa371afeb4b2f3a8c2f8"
   ],
   "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",

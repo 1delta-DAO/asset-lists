@@ -209,6 +209,28 @@
       "currencyId": "ChainLink Token::LINK",
       "tags": ["coingecko"]
     },
+    "0x733d504435a49fc8c4e9759e756c2846c92f0160": {
+      "chainId": "42793",
+      "decimals": 18,
+      "name": "Midas mRe7YIELD",
+      "address": "0x733d504435a49fc8c4e9759e756c2846c92f0160",
+      "symbol": "MRE7YIELD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54660/thumb/mre7yield_logo.png?1740896178",
+      "assetGroup": "Midas mRe7YIELD::MRE7YIELD",
+      "currencyId": "Midas mRe7YIELD::MRE7YIELD",
+      "tags": ["coingecko"]
+    },
+    "0x5542f82389b76c23f5848268893234d8a63fd5c8": {
+      "chainId": "42793",
+      "decimals": 18,
+      "name": "Midas mMEV",
+      "address": "0x5542f82389b76c23f5848268893234d8a63fd5c8",
+      "symbol": "MMEV",
+      "logoURI": "https://assets.coingecko.com/coins/images/54592/thumb/mmev_logo.png?1740565795",
+      "assetGroup": "Midas mMEV::MMEV",
+      "currencyId": "Midas mMEV::MMEV",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "42793",
       "decimals": 18,
@@ -241,7 +263,9 @@
     "0x6b43732a9ae9f8654d496c0a075aa4aa43057a0b",
     "0xe4880249745eac5f1ed9d8f7df844792d560e750",
     "0xa0769f7a8fc65e47de93797b4e21c073c117fc80",
-    "0x8ce7618e8f8e514d13889283f58ff03b794e6cc3"
+    "0x8ce7618e8f8e514d13889283f58ff03b794e6cc3",
+    "0x733d504435a49fc8c4e9759e756c2846c92f0160",
+    "0x5542f82389b76c23f5848268893234d8a63fd5c8"
   ],
   "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",
