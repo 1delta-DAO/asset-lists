@@ -16,6 +16,7 @@
       "chainId": "169",
       "decimals": 18,
       "name": "StakeStone Ether",
+      "logoURI": "https://assets.coingecko.com/coins/images/33103/thumb/200_200.png?1702602672",
       "address": "0xec901da9c68e90798bbbb74c11406a32a70652c3",
       "symbol": "STONE",
       "assetGroup": "STONE",
@@ -29,6 +30,7 @@
       "address": "0xb73603c5d87fa094b7314c74ace2e64d165016fb",
       "symbol": "USDC",
       "assetGroup": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
       "currencyId": "USD Coin::USDC",
       "tags": ["ZEROLEND"]
     },
@@ -38,6 +40,7 @@
       "name": "Tether USD",
       "address": "0xf417f5a458ec102b90352f697d6e2ac3a3d2851f",
       "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
       "assetGroup": "USDT",
       "currencyId": "Tether USD::USDT",
       "tags": ["ZEROLEND"]
@@ -49,6 +52,7 @@
       "address": "0x305e88d809c9dc03179554bfbf85ac05ce8f18d6",
       "symbol": "WBTC",
       "assetGroup": "WBTC",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
       "currencyId": "Wrapped BTC::WBTC",
       "tags": ["ZEROLEND"]
     },
@@ -59,6 +63,7 @@
       "address": "0x0dc808adce2099a9f62aa87d9670745aba741746",
       "symbol": "WETH",
       "assetGroup": "ETH",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "currencyId": "Wrapped Ether::WETH",
       "tags": ["ZEROLEND", "wnative"],
       "props": { "wnative": true }
@@ -69,6 +74,7 @@
       "name": "Wrapped liquid staked Ether 2.0",
       "address": "0x2fe3ad97a60eb7c79a976fc18bb5ffd07dd94ba5",
       "symbol": "wstETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/18834/large/wstETH.png?1633565443",
       "assetGroup": "WSTETH",
       "currencyId": "Wrapped liquid staked Ether 2.0::wstETH",
       "tags": ["ZEROLEND"]
