@@ -76,11 +76,12 @@
     "0xbdad407f77f44f7da6684b416b1951eca461fb07": {
       "chainId": "169",
       "decimals": 18,
-      "name": "Wrapped Mountain Protocol USD",
-      "address": "0xbdad407f77f44f7da6684b416b1951eca461fb07",
-      "symbol": "wUSDM",
-      "assetGroup": "Wrapped Mountain Protocol USD::wUSDM",
-      "currencyId": "Wrapped Mountain Protocol USD::wUSDM",
+      "name": "Wrapped USDM",
+      "address": "0x57f5e098cad7a3d1eed53991d4d66c45c9af7812",
+      "symbol": "WUSDM",
+      "logoURI": "https://assets.coingecko.com/coins/images/33785/thumb/wUSDM_PNG_240px.png?1702981552",
+      "assetGroup": "WUSDM",
+      "currencyId": "Wrapped USDM::WUSDM",
       "tags": ["ZEROLEND"]
     },
     "0x95cef13441be50d20ca4558cc0a27b601ac544e5": {
@@ -89,6 +90,7 @@
       "name": "Manta",
       "address": "0x95cef13441be50d20ca4558cc0a27b601ac544e5",
       "symbol": "MANTA",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/34289/large/manta.jpg?1704468717",
       "assetGroup": "Manta::MANTA",
       "currencyId": "Manta::MANTA",
       "tags": ["ZEROLEND"]
@@ -111,7 +113,9 @@
     "0xb73603c5d87fa094b7314c74ace2e64d165016fb",
     "0xf417f5a458ec102b90352f697d6e2ac3a3d2851f",
     "0x305e88d809c9dc03179554bfbf85ac05ce8f18d6",
-    "0x0dc808adce2099a9f62aa87d9670745aba741746"
+    "0x0dc808adce2099a9f62aa87d9670745aba741746",
+    "0x2fe3ad97a60eb7c79a976fc18bb5ffd07dd94ba5",
+    "0x95cef13441be50d20ca4558cc0a27b601ac544e5"
   ],
   "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",
