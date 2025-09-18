@@ -936,8 +936,10 @@
       "name": "Resolv USD",
       "address": "0x2492d0006411af6c8bbb1c8afc1b0197350a79e9",
       "symbol": "USR",
+      "logoURI": "https://assets.coingecko.com/coins/images/40008/thumb/USR_LOGO.png?1725222638",
       "assetGroup": "Resolv USD::USR",
-      "currencyId": "Resolv USD::USR"
+      "currencyId": "Resolv USD::USR",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x417b0ff8358eb72867da92225cab99bcd5e6f205": {
       "chainId": "80094",
@@ -973,8 +975,10 @@
       "name": "Bearn BERA",
       "address": "0x982940ebfc5caa2f5b5a82aac2dfa99f18bb7da4",
       "symbol": "yBERA",
+      "logoURI": "https://assets.coingecko.com/coins/images/69282/thumb/ybera.png?1758095597",
       "assetGroup": "Bearn BERA::yBERA",
-      "currencyId": "Bearn BERA::yBERA"
+      "currencyId": "Bearn BERA::yBERA",
+      "tags": ["coingecko", "debridge"]
     },
     "0xc82971bcff09171e16ac08aee9f4ea3fb16c3bdc": {
       "chainId": "80094",

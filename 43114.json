@@ -9252,6 +9252,67 @@
       "currencyId": "Ethena USDe::USDE",
       "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
+    "0x4dc1ce9b9f9ef00c144bfad305f16c62293dc0e8": {
+      "chainId": "43114",
+      "decimals": 6,
+      "name": "MEV USDC",
+      "address": "0x4dc1ce9b9f9ef00c144bfad305f16c62293dc0e8",
+      "symbol": "mevUSDC",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4dc1ce9b9f9ef00c144bfad305f16c62293dc0e8.png",
+      "assetGroup": "MEV USDC::mevUSDC",
+      "currencyId": "MEV USDC::mevUSDC"
+    },
+    "0x94f9bb5c972285728dcee7eaece48bec2ff341ce": {
+      "chainId": "43114",
+      "decimals": 6,
+      "name": "Staked Stream USD",
+      "address": "0x94f9bb5c972285728dcee7eaece48bec2ff341ce",
+      "symbol": "xUSD",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x94f9bb5c972285728dcee7eaece48bec2ff341ce.png",
+      "assetGroup": "Staked Stream USD::xUSD",
+      "currencyId": "Staked Stream USD::xUSD"
+    },
+    "0x6eaf19b2fc24552925db245f9ff613157a7dbb4c": {
+      "chainId": "43114",
+      "decimals": 8,
+      "name": "Staked Stream BTC",
+      "address": "0x6eaf19b2fc24552925db245f9ff613157a7dbb4c",
+      "symbol": "xBTC",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c_43114.png",
+      "assetGroup": "Staked Stream BTC::xBTC",
+      "currencyId": "Staked Stream BTC::xBTC"
+    },
+    "0x1f8e769b5b6010b2c2bbcd68629ea1a0a0eda7e3": {
+      "chainId": "43114",
+      "decimals": 8,
+      "name": "MEV BTC",
+      "address": "0x1f8e769b5b6010b2c2bbcd68629ea1a0a0eda7e3",
+      "symbol": "mevBTC",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1f8e769b5b6010b2c2bbcd68629ea1a0a0eda7e3.png",
+      "assetGroup": "MEV BTC::mevBTC",
+      "currencyId": "MEV BTC::mevBTC"
+    },
+    "0xfecebf56f150a68ddd197c3a6101da35c46693ac": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "EVK Vault esdeUSD-2",
+      "address": "0xfecebf56f150a68ddd197c3a6101da35c46693ac",
+      "symbol": "esdeUSD-2",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfecebf56f150a68ddd197c3a6101da35c46693ac.png",
+      "assetGroup": "EVK Vault esdeUSD-2::esdeUSD-2",
+      "currencyId": "EVK Vault esdeUSD-2::esdeUSD-2"
+    },
+    "0x58538e6a46e07434d7e7375bc268d3cb839c0133": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Ethena",
+      "address": "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
+      "symbol": "ENA",
+      "logoURI": "https://assets.coingecko.com/coins/images/36530/thumb/ethena.png?1711701436",
+      "assetGroup": "Ethena::ENA",
+      "currencyId": "Ethena::ENA",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "43114",
       "decimals": 18,

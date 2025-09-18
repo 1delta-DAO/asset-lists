@@ -318,6 +318,94 @@
       "currencyId": "Ethena USDe::USDE",
       "tags": ["coingecko"]
     },
+    "0x246e5ef65d29dd6375413959c1378f7612a8b983": {
+      "chainId": "196",
+      "decimals": 9,
+      "name": "DOGFART",
+      "address": "0x246e5ef65d29dd6375413959c1378f7612a8b983",
+      "symbol": "DOGFART",
+      "logoURI": "https://assets.coingecko.com/coins/images/69263/thumb/logo.jpg?1757989694",
+      "assetGroup": "DOGFART::DOGFART",
+      "currencyId": "DOGFART::DOGFART",
+      "tags": ["coingecko"]
+    },
+    "0x903358faf7c6304afbd560e9e29b12ab1b8fddc5": {
+      "chainId": "196",
+      "decimals": 18,
+      "name": "DOG",
+      "address": "0x903358faf7c6304afbd560e9e29b12ab1b8fddc5",
+      "symbol": "DOG",
+      "logoURI": "https://assets.coingecko.com/coins/images/69178/thumb/1000071357.jpg?1757748695",
+      "assetGroup": "DOG::DOG",
+      "currencyId": "DOG::DOG",
+      "tags": ["coingecko"]
+    },
+    "0xaa7edea4f673b0259e82628103f064e884ad3d9b": {
+      "chainId": "196",
+      "decimals": 1,
+      "name": "XFROG",
+      "address": "0xaa7edea4f673b0259e82628103f064e884ad3d9b",
+      "symbol": "XFROG",
+      "logoURI": "https://assets.coingecko.com/coins/images/69230/thumb/2025-09-14-135643-985-1.png?1757926831",
+      "assetGroup": "XFROG::XFROG",
+      "currencyId": "XFROG::XFROG",
+      "tags": ["coingecko"]
+    },
+    "0xc6200e4555948c5c6395b255a64732a672f647cd": {
+      "chainId": "196",
+      "decimals": 9,
+      "name": "XBANANA",
+      "address": "0xc6200e4555948c5c6395b255a64732a672f647cd",
+      "symbol": "XBANANA",
+      "logoURI": "https://assets.coingecko.com/coins/images/69272/thumb/n1272xx9mts65wo4fajn7l3kg58p.?1758019434",
+      "assetGroup": "XBANANA::XBANANA",
+      "currencyId": "XBANANA::XBANANA",
+      "tags": ["coingecko"]
+    },
+    "0x3773802dec36ea843cda93399fdd4a75307fc4bb": {
+      "chainId": "196",
+      "decimals": 18,
+      "name": "DogKing On XLayer",
+      "address": "0x3773802dec36ea843cda93399fdd4a75307fc4bb",
+      "symbol": "DOGKING",
+      "logoURI": "https://assets.coingecko.com/coins/images/69161/thumb/DogKing_On_XLayer.jpg?1757668905",
+      "assetGroup": "DogKing On XLayer::DOGKING",
+      "currencyId": "DogKing On XLayer::DOGKING",
+      "tags": ["coingecko"]
+    },
+    "0x16d91d1615fc55b76d5f92365bd60c069b46ef78": {
+      "chainId": "196",
+      "decimals": 18,
+      "name": "Banmao",
+      "address": "0x16d91d1615fc55b76d5f92365bd60c069b46ef78",
+      "symbol": "BANMAO",
+      "logoURI": "https://assets.coingecko.com/coins/images/69235/thumb/IMG_5838.jpeg?1757948256",
+      "assetGroup": "Banmao::BANMAO",
+      "currencyId": "Banmao::BANMAO",
+      "tags": ["coingecko"]
+    },
+    "0x95be34446a0af19e5d1b3a9b91d3cc50d33b0b88": {
+      "chainId": "196",
+      "decimals": 18,
+      "name": "ZeroX King",
+      "address": "0x95be34446a0af19e5d1b3a9b91d3cc50d33b0b88",
+      "symbol": "0XK",
+      "logoURI": "https://assets.coingecko.com/coins/images/69179/thumb/1000071361.jpg?1757748838",
+      "assetGroup": "ZeroX King::0XK",
+      "currencyId": "ZeroX King::0XK",
+      "tags": ["coingecko"]
+    },
+    "0x779ded0c9e1022225f8e0630b35a9b54be713736": {
+      "chainId": "196",
+      "decimals": 6,
+      "name": "USDT0",
+      "address": "0x779ded0c9e1022225f8e0630b35a9b54be713736",
+      "symbol": "USDT0",
+      "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183",
+      "assetGroup": "USDT0::USDT0",
+      "currencyId": "USDT0::USDT0",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "196",
       "decimals": 18,
@@ -358,7 +446,11 @@
     "0x5f4f57888729a8a71cd705495e02f8e8cced0bad",
     "0xf74d89d7810d1863ba003065365264ab72299999",
     "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
-    "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2"
+    "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+    "0x246e5ef65d29dd6375413959c1378f7612a8b983",
+    "0x903358faf7c6304afbd560e9e29b12ab1b8fddc5",
+    "0xaa7edea4f673b0259e82628103f064e884ad3d9b",
+    "0xc6200e4555948c5c6395b255a64732a672f647cd"
   ],
   "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",

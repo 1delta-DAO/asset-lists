@@ -1864,8 +1864,10 @@
       "name": "Pudgy Penguins",
       "address": "0xfa44c2634ff17cbe26dc3007d36bd61c79068c14",
       "symbol": "PENGU",
+      "logoURI": "https://assets.coingecko.com/coins/images/52622/thumb/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
       "assetGroup": "Pudgy Penguins::PENGU",
-      "currencyId": "Pudgy Penguins::PENGU"
+      "currencyId": "Pudgy Penguins::PENGU",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0xa94676f34f6a2764c7fde5611b53834b71f228ec": {
       "chainId": "999",
@@ -2690,7 +2692,7 @@
       "logoURI": "https://raw.githubusercontent.com/gluexprotocol/public_assets/refs/heads/main/tokens/hyperevm/0x4DE03cA1F02591B717495cfA19913aD56a2f5858/logo.png",
       "assetGroup": "Hyperwave HYPE::hwHYPE",
       "currencyId": "Hyperwave HYPE::hwHYPE",
-      "tags": ["biconomy-gas-token"],
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xd6eb81136884713e843936843e286fd2a85a205a": {
@@ -3714,6 +3716,28 @@
       "currencyId": "Wrapped ApeCoin::WAPE",
       "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
+    "0xb88339cb7199b77e23db6e890353e22632ba630f": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "USD Coin",
+      "address": "0xb88339cb7199b77e23db6e890353e22632ba630f",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+      "assetGroup": "USDC",
+      "currencyId": "USDC::USDC",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x1368ee9d1212ae5b26ff166049220051a9eebc42": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Harmonix kHYPE",
+      "address": "0x1368ee9d1212ae5b26ff166049220051a9eebc42",
+      "symbol": "HAKHYPE",
+      "logoURI": "https://assets.coingecko.com/coins/images/69299/thumb/_hakHYPE.png?1758122756",
+      "assetGroup": "Harmonix kHYPE::HAKHYPE",
+      "currencyId": "Harmonix kHYPE::HAKHYPE",
+      "tags": ["coingecko", "debridge"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "999",
       "decimals": 18,
@@ -3741,6 +3765,7 @@
     "0xca79db4b49f608ef54a5cb813fbed3a6387bc645",
     "0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70",
     "0x5748ae796ae46a4f1348a1693de4b50560485562",
+    "0xb88339cb7199b77e23db6e890353e22632ba630f",
     "0xcb0ac0aa94c67dde8688ac34c8e4d6c18e78b638",
     "0xffaa4a3d97fe9107cef8a3f48c069f577ff76cc1",
     "0x94e8396e0869c9f2200760af0621afd240e1cf38",
@@ -3788,6 +3813,7 @@
     "0x7410e69958a8ece2a51c231c8528513d4d668c7a",
     "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
     "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
-    "0x36721e62edea413dc5195c4ca9c5a7eb175feb6b"
+    "0x36721e62edea413dc5195c4ca9c5a7eb175feb6b",
+    "0xb88339cb7199b77e23db6e890353e22632ba630f"
   ]
 }

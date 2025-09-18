@@ -196,6 +196,17 @@
       "currencyId": "ChainLink Token::LINK",
       "tags": ["coingecko"]
     },
+    "0x813635891aa06bd55036bbd8f7d1a34ab3de9a0f": {
+      "chainId": "48900",
+      "decimals": 18,
+      "name": "Ethena",
+      "address": "0x813635891aa06bd55036bbd8f7d1a34ab3de9a0f",
+      "symbol": "ENA",
+      "logoURI": "https://assets.coingecko.com/coins/images/36530/thumb/ethena.png?1711701436",
+      "assetGroup": "Ethena::ENA",
+      "currencyId": "Ethena::ENA",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "48900",
       "address": "0x0000000000000000000000000000000000000000",
@@ -219,7 +230,8 @@
     "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
     "0x3b952c8c9c44e8fe201e2b26f6b2200203214cff",
     "0x19df5689cfce64bc2a55f7220b0cd522659955ef",
-    "0xdee94506570ca186bc1e3516fcf4fd719c312ccd"
+    "0xdee94506570ca186bc1e3516fcf4fd719c312ccd",
+    "0x813635891aa06bd55036bbd8f7d1a34ab3de9a0f"
   ],
   "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",

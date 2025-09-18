@@ -5985,7 +5985,8 @@
       "symbol": "ENA",
       "logoURI": "https://static.debank.com/image/op_token/logo_url/0x58538e6a46e07434d7e7375bc268d3cb839c0133/20d567bc301b43d0d2131731f7ac4736.png",
       "assetGroup": "ENA::ENA",
-      "currencyId": "ENA::ENA"
+      "currencyId": "ENA::ENA",
+      "tags": ["biconomy-gas-token", "debridge"]
     },
     "0xb01cf1be9568f09449382a47cd5bf58e2a9d5922": {
       "chainId": "10",
@@ -6309,6 +6310,28 @@
       "assetGroup": "sUSDS::sUSDS",
       "currencyId": "sUSDS::sUSDS",
       "tags": ["debridge", "biconomy-gas-token"]
+    },
+    "0x4e107a0000db66f0e9fd2039288bf811dd1f9c74": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Velora",
+      "address": "0x4e107a0000db66f0e9fd2039288bf811dd1f9c74",
+      "symbol": "VLR",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4e107a0000db66f0e9fd2039288bf811dd1f9c74.png",
+      "assetGroup": "Velora::VLR",
+      "currencyId": "Velora::VLR",
+      "tags": ["biconomy-gas-token", "debridge"]
+    },
+    "0xca0eac34408e4b5906d3e161c73bb4611ff22ca1": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "CANA Holdings California Carbon Credits",
+      "address": "0xca0eac34408e4b5906d3e161c73bb4611ff22ca1",
+      "symbol": "CANA",
+      "logoURI": "https://ethereum-optimism.github.io/data/CANA/logo.svg",
+      "assetGroup": "CANA Holdings California Carbon Credits::CANA",
+      "currencyId": "CANA Holdings California Carbon Credits::CANA",
+      "tags": ["biconomy-gas-token"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "10",

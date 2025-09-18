@@ -222,7 +222,7 @@
       "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x58538e6A46E07434d7E7375Bc268D3cb839C0133/logo.png",
       "assetGroup": "Ethena::ENA",
       "currencyId": "Ethena::ENA",
-      "tags": ["mantlelist", "biconomy-gas-token", "debridge"]
+      "tags": ["mantlelist", "biconomy-gas-token", "debridge", "coingecko"]
     },
     "0x26a6b0dcdcfb981362afa56d581e4a7dba3be140": {
       "chainId": "5000",
@@ -1335,6 +1335,7 @@
       "name": "YT cmETH 18SEP2025",
       "address": "0xaffe4b1b1eebe6dd1ee31ad27c88a918825c89f8",
       "symbol": "YT-cmETH-18SEP2025",
+      "assetGroup": "YT cmETH 18SEP2025::YT-cmETH-18SEP2025",
       "currencyId": "YT cmETH 18SEP2025::YT-cmETH-18SEP2025",
       "props": {
         "pendle": {
@@ -1360,15 +1361,7 @@
         "PENDLE-YT:0xaffe4b1b1eebe6dd1ee31ad27c88a918825c89f8",
         "PENDLE-MARKET:0x6304ccbda63a7fb94919c705de54f9889f3ce047"
       ],
-      "props": {
-        "pendle": {
-          "tokenType": "PT",
-          "ytAddress": "0xaffe4b1b1eebe6dd1ee31ad27c88a918825c89f8",
-          "marketAddress": "0x6304ccbda63a7fb94919c705de54f9889f3ce047",
-          "syAddress": "0x2ab88ac7458faec2e952bb79cc1be6577bf63e70",
-          "expiry": 1758153600
-        }
-      }
+      "props": { "pendle": { "tokenType": "PT", "ytAddress": "0xaffe4b1b1eebe6dd1ee31ad27c88a918825c89f8" } }
     },
     "0x482deb2f7b9608a80ea91e71f06380e9891501c6": {
       "chainId": "5000",
@@ -1409,6 +1402,17 @@
       "assetGroup": "LINK",
       "currencyId": "ChainLink Token::LINK",
       "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+    },
+    "0x3d142cdb27b537af57a55ee8f54ada953b4b9ecd": {
+      "chainId": "5000",
+      "decimals": 18,
+      "name": "DeBox",
+      "address": "0x3d142cdb27b537af57a55ee8f54ada953b4b9ecd",
+      "symbol": "BOX",
+      "logoURI": "https://assets.coingecko.com/coins/images/50224/thumb/v6TSd2dN_400x400.jpg?1726521525",
+      "assetGroup": "DeBox::BOX",
+      "currencyId": "DeBox::BOX",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "5000",

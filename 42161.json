@@ -19705,7 +19705,8 @@
       "symbol": "ENA",
       "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x58538e6a46e07434d7e7375bc268d3cb839c0133/20d567bc301b43d0d2131731f7ac4736.png",
       "assetGroup": "ENA::ENA",
-      "currencyId": "ENA::ENA"
+      "currencyId": "ENA::ENA",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x95b11aca35d35ac8b8a88e1f7792873bbea7cebb": {
       "chainId": "42161",
@@ -21775,6 +21776,7 @@
       "name": "XAUt0",
       "address": "0x40461291347e1ecbb09499f3371d3f17f10d7159",
       "symbol": "XAUt0",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/xaut0.svg",
       "assetGroup": "XAUt0::XAUt0",
       "currencyId": "XAUt0::XAUt0"
     },
@@ -22924,7 +22926,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69134/thumb/Rain_Logo_200_200.png?1757586453",
       "assetGroup": "Rain::RAIN",
       "currencyId": "Rain::RAIN",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0xdf03eed325b82bc1d4db8b49c30ecc9e05104b96": {
       "chainId": "42161",
@@ -22943,6 +22945,87 @@
       "symbol": "GLV [WETH-USDC]",
       "assetGroup": "GMX Liquidity Vault [WETH-USDC]::GLV [WETH-USDC]",
       "currencyId": "GMX Liquidity Vault [WETH-USDC]::GLV [WETH-USDC]"
+    },
+    "0x5a791652f3b140d357df072d355a98ab754877d1": {
+      "chainId": "42161",
+      "decimals": 6,
+      "name": "PT thBILL 27NOV2025",
+      "address": "0x5a791652f3b140d357df072d355a98ab754877d1",
+      "symbol": "PT-thBILL-27NOV2025",
+      "logoURI": "https://cdn.morpho.org/assets/logos/pt-thbill.svg",
+      "assetGroup": "PT thBILL 27NOV2025::PT-thBILL-27NOV2025",
+      "currencyId": "PT thBILL 27NOV2025::PT-thBILL-27NOV2025",
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x4ed09847377c30aa4e74ad071e719c5814ad9ead",
+          "syAddress": "0xc32e96b4c7eb7959b6a92f3f7ed5d2321e6ed3d4",
+          "expiry": 1764201600,
+          "ytAddress": "0x2133a087017870ec20f82d097603d6cd29d160c7"
+        }
+      }
+    },
+    "0x2ba39e5388ac6c702cb29aea78d52aa66832f1ee": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Varlamore USDC Growth",
+      "address": "0x2ba39e5388ac6c702cb29aea78d52aa66832f1ee",
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x2ba39e5388ac6c702cb29aea78d52aa66832f1ee.png",
+      "assetGroup": "Varlamore USDC Growth::USDC",
+      "currencyId": "Varlamore USDC Growth::USDC"
+    },
+    "0x6eaf19b2fc24552925db245f9ff613157a7dbb4c": {
+      "chainId": "42161",
+      "decimals": 6,
+      "name": "Staked Stream USD",
+      "address": "0x6eaf19b2fc24552925db245f9ff613157a7dbb4c",
+      "symbol": "xUSD",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c_42161.png",
+      "assetGroup": "Staked Stream USD::xUSD",
+      "currencyId": "Staked Stream USD::xUSD"
+    },
+    "0x252b965400862d94bda35fecf7ee0f204a53cc36": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Yearn USND",
+      "address": "0x252b965400862d94bda35fecf7ee0f204a53cc36",
+      "symbol": "yUSND",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x252b965400862d94bda35fecf7ee0f204a53cc36.png",
+      "assetGroup": "Yearn USND::yUSND",
+      "currencyId": "Yearn USND::yUSND"
+    },
+    "0xe4783824593a50bfe9dc873204cec171ebc62de0": {
+      "chainId": "42161",
+      "decimals": 6,
+      "name": "Euler Earn USDC",
+      "address": "0xe4783824593a50bfe9dc873204cec171ebc62de0",
+      "symbol": "eeUSDC",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe4783824593a50bfe9dc873204cec171ebc62de0.png",
+      "assetGroup": "Euler Earn USDC::eeUSDC",
+      "currencyId": "Euler Earn USDC::eeUSDC"
+    },
+    "0xd0e4fc5b430b0cac0f59b7b8b66d40d0b3f64a6b": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Tracer",
+      "address": "0xd0e4fc5b430b0cac0f59b7b8b66d40d0b3f64a6b",
+      "symbol": "TRCR",
+      "logoURI": "https://assets.coingecko.com/coins/images/69265/thumb/download_%284%29.png?1758013261",
+      "assetGroup": "Tracer::TRCR",
+      "currencyId": "Tracer::TRCR",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x0b3547cd0e14e7d42f8921b0c370fdfd708bff6c": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Project Merlin",
+      "address": "0x0b3547cd0e14e7d42f8921b0c370fdfd708bff6c",
+      "symbol": "MRLN",
+      "logoURI": "https://assets.coingecko.com/coins/images/69196/thumb/mrln.png?1757830417",
+      "assetGroup": "Project Merlin::MRLN",
+      "currencyId": "Project Merlin::MRLN",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "42161",
