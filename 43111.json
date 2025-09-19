@@ -103,6 +103,16 @@
       "currencyId": "Lorenzo Wrapped Bitcoin::enzoBTC",
       "tags": ["LAYERBANK_V3"]
     },
+    "0x1596be338b999e2376675c908168a7548c8b0525": {
+      "chainId": "43111",
+      "decimals": 8,
+      "name": "Coinbase Wrapped BTC",
+      "address": "0x1596be338b999e2376675c908168a7548c8b0525",
+      "symbol": "cbBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/40143/standard/cbbtc.webp",
+      "assetGroup": "CBBTC",
+      "currencyId": "Coinbase Wrapped BTC::cbBTC"
+    },
     "0x1b529b888d15711b4baeb5a3b12465dc3e2520a3": {
       "chainId": "43111",
       "decimals": 18,
@@ -538,6 +548,7 @@
     "0x0000000000000000000000000000000000000000",
     "0x4200000000000000000000000000000000000006",
     "0x623f2774d9f27b59bc6b954544487532ce79d9df",
+    "0x1596be338b999e2376675c908168a7548c8b0525",
     "0x99e3de3817f6081b2568208337ef83295b7f591d",
     "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa",
     "0xafb068838136358cfa6b54bea580b86df70bba7f",
