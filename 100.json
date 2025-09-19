@@ -1426,12 +1426,12 @@
     "0xc791240d1f2def5938e2031364ff4ed887133c3d": {
       "chainId": "100",
       "decimals": 18,
-      "name": "Rocket Pool ETH from Mainnet",
+      "name": "Rocket Pool ETH",
       "address": "0xc791240d1f2def5938e2031364ff4ed887133c3d",
       "symbol": "rETH",
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc791240d1f2def5938e2031364ff4ed887133c3d.png",
       "assetGroup": "RETH",
-      "currencyId": "Rocket Pool ETH from Mainnet::rETH",
+      "currencyId": "Rocket Pool ETH::rETH",
       "tags": ["mainnet", "bridged", "biconomy-gas-token", "coingecko"]
     },
     "0x0d8ead573fda66ca8b977200af3f16f375fc5fce": {
@@ -1489,12 +1489,12 @@
     "0xfda94f056346d2320d4b5e468d6ad099b2277746": {
       "chainId": "100",
       "decimals": 18,
-      "name": "StakeWise from Mainnet",
+      "name": "StakeWise",
       "address": "0xfda94f056346d2320d4b5e468d6ad099b2277746",
       "symbol": "SWISE",
       "logoURI": "https://assets.coingecko.com/coins/images/15044/large/stakewise200.png?1619520721",
-      "assetGroup": "StakeWise from Mainnet::SWISE",
-      "currencyId": "StakeWise from Mainnet::SWISE",
+      "assetGroup": "StakeWise::SWISE",
+      "currencyId": "StakeWise::SWISE",
       "tags": ["mainnet", "bridged"]
     },
     "0x159e6881e6ec370b46f2fe9fe75cbdfd8f7877b4": {
@@ -7518,11 +7518,11 @@
     "0xd7a28aa9c470e7e9d8c676bcd5dd2f40c5683afa": {
       "chainId": "100",
       "decimals": 18,
-      "name": "Rai Reflex Index from Mainnet",
+      "name": "Rai Reflex Index",
       "address": "0xd7a28aa9c470e7e9d8c676bcd5dd2f40c5683afa",
       "symbol": "RAI",
-      "assetGroup": "Rai Reflex Index from Mainnet::RAI",
-      "currencyId": "Rai Reflex Index from Mainnet::RAI",
+      "assetGroup": "Rai Reflex Index::RAI",
+      "currencyId": "Rai Reflex Index::RAI",
       "tags": ["mainnet", "bridged", "biconomy-gas-token"]
     },
     "0xe73d646157765f8b8b8f28506df0c99178256fb9": {
@@ -7538,21 +7538,21 @@
     "0xe7f0cfc2043b8872f35dbef4ebf6eea41a8b2bbe": {
       "chainId": "100",
       "decimals": 18,
-      "name": "SKALE from Mainnet",
+      "name": "SKALE",
       "address": "0xe7f0cfc2043b8872f35dbef4ebf6eea41a8b2bbe",
       "symbol": "SKL",
-      "assetGroup": "SKALE from Mainnet::SKL",
-      "currencyId": "SKALE from Mainnet::SKL",
+      "assetGroup": "SKALE::SKL",
+      "currencyId": "SKALE::SKL",
       "tags": ["mainnet", "bridged", "biconomy-gas-token"]
     },
     "0xeefea398213938ba56b1c5d282187862c9ca5d0d": {
       "chainId": "100",
       "decimals": 18,
-      "name": "Fantom Token from Mainnet",
+      "name": "Fantom Token",
       "address": "0xeefea398213938ba56b1c5d282187862c9ca5d0d",
       "symbol": "FTM",
-      "assetGroup": "Fantom Token from Mainnet::FTM",
-      "currencyId": "Fantom Token from Mainnet::FTM",
+      "assetGroup": "Fantom Token::FTM",
+      "currencyId": "Fantom Token::FTM",
       "tags": ["mainnet", "bridged", "biconomy-gas-token"]
     },
     "0xf0dd817ff483535f4059781441596aea4f32a4b9": {
@@ -7578,31 +7578,31 @@
     "0xf992e7e717255ee2180e6443c23e09ededbf7887": {
       "chainId": "100",
       "decimals": 18,
-      "name": "Pax Dollar from Mainnet",
+      "name": "Pax Dollar",
       "address": "0xf992e7e717255ee2180e6443c23e09ededbf7887",
       "symbol": "USDP",
-      "assetGroup": "Pax Dollar from Mainnet::USDP",
-      "currencyId": "Pax Dollar from Mainnet::USDP",
+      "assetGroup": "Pax Dollar::USDP",
+      "currencyId": "Pax Dollar::USDP",
       "tags": ["mainnet", "bridged", "biconomy-gas-token"]
     },
     "0xd859c12fc06045b0bd399ac55ffa75cadc378f69": {
       "chainId": "100",
       "decimals": 18,
-      "name": "Hop from Mainnet",
+      "name": "Hop",
       "address": "0xd859c12fc06045b0bd399ac55ffa75cadc378f69",
       "symbol": "HOP",
-      "assetGroup": "Hop from Mainnet::HOP",
-      "currencyId": "Hop from Mainnet::HOP",
+      "assetGroup": "Hop::HOP",
+      "currencyId": "Hop::HOP",
       "tags": ["mainnet", "bridged", "biconomy-gas-token"]
     },
     "0x1c7683f6a6a2fdf19160519c251b8e0d66790239": {
       "chainId": "100",
       "decimals": 18,
-      "name": "Gho Token from Mainnet",
+      "name": "Gho Token",
       "address": "0x1c7683f6a6a2fdf19160519c251b8e0d66790239",
       "symbol": "GHO",
       "assetGroup": "GHO",
-      "currencyId": "Gho Token from Mainnet::GHO",
+      "currencyId": "Gho Token::GHO",
       "tags": ["mainnet", "bridged", "biconomy-gas-token"]
     },
     "0x23e4e76d01b2002be436ce8d6044b0aa2f68b68a": {
@@ -7618,11 +7618,11 @@
     "0x42d25d67112b93b52a9c09d5ebe159f2b4b9ba38": {
       "chainId": "100",
       "decimals": 18,
-      "name": "Savings Dai from Mainnet",
+      "name": "Savings Dai",
       "address": "0x42d25d67112b93b52a9c09d5ebe159f2b4b9ba38",
       "symbol": "sDAI",
-      "assetGroup": "Savings Dai from Mainnet::sDAI",
-      "currencyId": "Savings Dai from Mainnet::sDAI",
+      "assetGroup": "Savings Dai::sDAI",
+      "currencyId": "Savings Dai::sDAI",
       "tags": ["mainnet", "bridged", "biconomy-gas-token"]
     },
     "0x7aeca73f38f8f33ab7ff067fed1268384d12324d": {
@@ -7661,11 +7661,11 @@
     "0x012e2cafebc30a603c049159d946c9d344d979a8": {
       "chainId": "100",
       "decimals": 18,
-      "name": "Ethereum Name Service from Mainnet",
+      "name": "Ethereum Name Service",
       "address": "0x012e2cafebc30a603c049159d946c9d344d979a8",
       "symbol": "ENS",
-      "assetGroup": "Ethereum Name Service from Mainnet::ENS",
-      "currencyId": "Ethereum Name Service from Mainnet::ENS",
+      "assetGroup": "Ethereum Name Service::ENS",
+      "currencyId": "Ethereum Name Service::ENS",
       "tags": ["mainnet", "bridged", "biconomy-gas-token"]
     },
     "0x0987c6b9357dee87404dfea0483c337de530be5a": {
@@ -7741,11 +7741,11 @@
     "0x3e76f9caaf9b47089810b4579c598228735e7a11": {
       "chainId": "100",
       "decimals": 18,
-      "name": "Paxos Gold from Mainnet",
+      "name": "Paxos Gold",
       "address": "0x3e76f9caaf9b47089810b4579c598228735e7a11",
       "symbol": "PAXG",
-      "assetGroup": "Paxos Gold from Mainnet::PAXG",
-      "currencyId": "Paxos Gold from Mainnet::PAXG",
+      "assetGroup": "Paxos Gold::PAXG",
+      "currencyId": "Paxos Gold::PAXG",
       "tags": ["mainnet", "bridged", "biconomy-gas-token"]
     },
     "0x7cc4d60a3c83e91d8c2ec2127a10bab5c6ab209d": {
@@ -7771,11 +7771,11 @@
     "0x2853f6e9605419ccf38d102fb1fb3961904ae263": {
       "chainId": "100",
       "decimals": 18,
-      "name": "Gitcoin from Mainnet",
+      "name": "Gitcoin",
       "address": "0x2853f6e9605419ccf38d102fb1fb3961904ae263",
       "symbol": "GTC",
-      "assetGroup": "Gitcoin from Mainnet::GTC",
-      "currencyId": "Gitcoin from Mainnet::GTC",
+      "assetGroup": "Gitcoin::GTC",
+      "currencyId": "Gitcoin::GTC",
       "tags": ["mainnet", "bridged", "biconomy-gas-token"]
     },
     "0x60e663eb97bd747566bad4fb736ddc671fabbe95": {
@@ -7791,11 +7791,11 @@
     "0x55b6228758fcdb9135db500bc184473ad5fccd98": {
       "chainId": "100",
       "decimals": 18,
-      "name": "agEUR from Mainnet",
+      "name": "agEUR",
       "address": "0x55b6228758fcdb9135db500bc184473ad5fccd98",
       "symbol": "agEUR",
       "assetGroup": "AGEUR",
-      "currencyId": "agEUR from Mainnet::agEUR",
+      "currencyId": "agEUR::agEUR",
       "tags": ["mainnet", "bridged", "biconomy-gas-token"]
     },
     "0x5b449ea0e550c143074146abc89a6328d9e70798": {
@@ -7873,11 +7873,11 @@
     "0x783514141beb02828858a086c9fada6d5d1912d5": {
       "chainId": "100",
       "decimals": 18,
-      "name": "Aura from Mainnet",
+      "name": "Aura",
       "address": "0x783514141beb02828858a086c9fada6d5d1912d5",
       "symbol": "AURA",
-      "assetGroup": "Aura from Mainnet::AURA",
-      "currencyId": "Aura from Mainnet::AURA",
+      "assetGroup": "Aura::AURA",
+      "currencyId": "Aura::AURA",
       "tags": ["mainnet", "bridged", "biconomy-gas-token"]
     },
     "0xc0712524b39323eb2437e69226b261d928629dc8": {
@@ -7893,22 +7893,22 @@
     "0xac945dc430cef2bb8fb78b3cb5fbc936dd2c8ab6": {
       "chainId": "100",
       "decimals": 18,
-      "name": "Super CoW Protocol Token from Mainnet",
+      "name": "Super CoW Protocol Token",
       "address": "0xac945dc430cef2bb8fb78b3cb5fbc936dd2c8ab6",
       "symbol": "COWx",
       "logoURI": "https://superfluid-finance.github.io/tokenlist/icons/cow.svg",
-      "assetGroup": "Super CoW Protocol Token from Mainnet::COWx",
-      "currencyId": "Super CoW Protocol Token from Mainnet::COWx",
+      "assetGroup": "Super CoW Protocol Token::COWx",
+      "currencyId": "Super CoW Protocol Token::COWx",
       "tags": ["mainnet", "bridged", "biconomy-gas-token"]
     },
     "0x91c22f57df810d541239fbb262afb36cef2814c5": {
       "chainId": "100",
       "decimals": 18,
-      "name": "Rally from Mainnet",
+      "name": "Rally",
       "address": "0x91c22f57df810d541239fbb262afb36cef2814c5",
       "symbol": "RLY",
-      "assetGroup": "Rally from Mainnet::RLY",
-      "currencyId": "Rally from Mainnet::RLY",
+      "assetGroup": "Rally::RLY",
+      "currencyId": "Rally::RLY",
       "tags": ["mainnet", "bridged", "biconomy-gas-token"]
     },
     "0x874623a3e613b43efa4dcc2cb04a03da1442db6c": {
@@ -7985,21 +7985,22 @@
     "0xb4698f7fc287eef3e70a6206110d5c4a367a0e59": {
       "chainId": "100",
       "decimals": 18,
-      "name": "SuperRare from Mainnet",
+      "name": "SuperRare",
       "address": "0xb4698f7fc287eef3e70a6206110d5c4a367a0e59",
       "symbol": "RARE",
-      "assetGroup": "SuperRare from Mainnet::RARE",
-      "currencyId": "SuperRare from Mainnet::RARE",
+      "assetGroup": "SuperRare::RARE",
+      "currencyId": "SuperRare::RARE",
       "tags": ["mainnet", "bridged", "biconomy-gas-token"]
     },
     "0xaf3e09f831dc59c709da1ba20dd0d9602635a6c0": {
       "chainId": "100",
       "decimals": 6,
-      "name": "Axelar from Mainnet",
+      "name": "Axelar",
       "address": "0xaf3e09f831dc59c709da1ba20dd0d9602635a6c0",
       "symbol": "AXL",
       "assetGroup": "AXL",
-      "currencyId": "Axelar from Mainnet::AXL",
+      "logoURI": "https://assets.coingecko.com/coins/images/27277/large/V-65_xQ1_400x400.jpeg",
+      "currencyId": "Axelar::AXL",
       "tags": ["axelar", "mainnet", "bridged", "biconomy-gas-token"]
     },
     "0xd30aa2f6fc32c4dc8bf3bd5994d89c8f9e81fcd1": {
@@ -8082,11 +8083,11 @@
     "0x481d6104761442f162d1f7ac3dc6f98896e7a4ef": {
       "chainId": "100",
       "decimals": 18,
-      "name": "MoonRock from Mainnet",
+      "name": "MoonRock",
       "address": "0x481d6104761442f162d1f7ac3dc6f98896e7a4ef",
       "symbol": "MR",
-      "assetGroup": "MoonRock from Mainnet::MR",
-      "currencyId": "MoonRock from Mainnet::MR",
+      "assetGroup": "MoonRock::MR",
+      "currencyId": "MoonRock::MR",
       "tags": ["mainnet", "bridged"]
     },
     "0x6689a8f4fdad6712888682c9ce81b26762389f40": {
