@@ -27138,8 +27138,19 @@
       "name": "Nakama Coin",
       "address": "0x9e7e2c71463e4ba32f79826d7edf6393dca28915",
       "symbol": "NAKAMA",
+      "logoURI": "https://assets.coingecko.com/coins/images/69300/thumb/NAKAMA-Token-Logo-512x512.jpg?1758125064",
       "assetGroup": "Nakama Coin::NAKAMA",
       "currencyId": "Nakama Coin::NAKAMA",
+      "tags": ["debridge", "biconomy-gas-token"]
+    },
+    "0x4e24c684a90f2c1f9030a5608a6c3a6fa4e854f5": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "OrbitEdge",
+      "address": "0x4e24c684a90f2c1f9030a5608a6c3a6fa4e854f5",
+      "symbol": "ORBD",
+      "assetGroup": "OrbitEdge::ORBD",
+      "currencyId": "OrbitEdge::ORBD",
       "tags": ["debridge"]
     },
     "0x0000000000000000000000000000000000000000": {

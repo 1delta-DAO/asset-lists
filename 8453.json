@@ -23413,7 +23413,7 @@
       "logoURI": "https://static.debank.com/image/base_token/logo_url/0x5ca35ebc4f25b042d2cae75914c7e882e631fa9a/4d57d092453aeaa7f22956b30c59994f.png",
       "assetGroup": "Neiro::Neiro",
       "currencyId": "Neiro::Neiro",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x4c5d8a75f3762c1561d96f177694f67378705e98": {
       "chainId": "8453",
@@ -23561,9 +23561,10 @@
       "name": "Sploots by Virtuals",
       "address": "0x3058e9b4bfe397b81e2b91da79cff685d662049f",
       "symbol": "SPLOOT",
+      "logoURI": "https://assets.coingecko.com/coins/images/69340/thumb/euldczfn2q0vkvg3ujacrpa6auyg.?1758228957",
       "assetGroup": "Sploots by Virtuals::SPLOOT",
       "currencyId": "Sploots by Virtuals::SPLOOT",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x1cdbb57b12f732cfb4dc06f690acef476485b2a5": {
       "chainId": "8453",
@@ -30230,7 +30231,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69303/thumb/IMG_0768.png?1758130377",
       "assetGroup": "Jetvoy::VOY",
       "currencyId": "Jetvoy::VOY",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x8129609e5303910464fce3022a809fa44455fe9a": {
       "chainId": "8453",
@@ -30241,7 +30242,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69294/thumb/wild.jpg?1758116583",
       "assetGroup": "WILDWEST::WILDW",
       "currencyId": "WILDWEST::WILDW",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x0b0e6e32e4d69cb418630163574959108edcb80e": {
       "chainId": "8453",
@@ -30252,7 +30253,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/19201/thumb/Defactor_Emblem.png?1758135275",
       "assetGroup": "Defactor::REAL",
       "currencyId": "Defactor::REAL",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x04cafd53ecfa6f6a9168de3d6d2b837d04a51b07": {
       "chainId": "8453",
@@ -30263,7 +30264,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69305/thumb/bexfu847nzsvm16tlnevk1w8eifo.?1758135724",
       "assetGroup": "PoolFans::FANS",
       "currencyId": "PoolFans::FANS",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0xc7562d0536d3bf5a92865ac22062a2893e45cb07": {
       "chainId": "8453",
@@ -30274,7 +30275,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69301/thumb/logo_coin.jpg?1758129897",
       "assetGroup": "Siyana::SYYN",
       "currencyId": "Siyana::SYYN",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x176383016bb310c9f1c180dc6729d5e28104e602": {
       "chainId": "8453",
@@ -30285,7 +30286,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/53838/thumb/ddpfp.png?1758168085",
       "assetGroup": "Daydreams::DREAMS",
       "currencyId": "Daydreams::DREAMS",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0xecedb6f8108b9f7bbf499da843dced6c2bb6e270": {
       "chainId": "8453",
@@ -30296,6 +30297,105 @@
       "logoURI": "https://assets.coingecko.com/coins/images/56006/thumb/usduc-logo.jpg?1748000956",
       "assetGroup": "Unstable Coin::USDUC",
       "currencyId": "Unstable Coin::USDUC",
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+    },
+    "0x4da9a0f397db1397902070f93a4d6ddbc0e0e6e8": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "CF Large Cap Index",
+      "address": "0x4da9a0f397db1397902070f93a4d6ddbc0e0e6e8",
+      "symbol": "LCAP",
+      "logoURI": "https://assets.coingecko.com/coins/images/69331/thumb/LCAP_1024.png?1758220127",
+      "assetGroup": "CF Large Cap Index::LCAP",
+      "currencyId": "CF Large Cap Index::LCAP",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x5d3772ce50dedca695197373f858bfb324e32e5a": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Runwago",
+      "address": "0x5d3772ce50dedca695197373f858bfb324e32e5a",
+      "symbol": "RUNWAGO",
+      "logoURI": "https://assets.coingecko.com/coins/images/69302/thumb/Sni%CC%81mek_obrazovky_2025-09-11_v%C2%A08.24.37.png?1758205414",
+      "assetGroup": "Runwago::RUNWAGO",
+      "currencyId": "Runwago::RUNWAGO",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x98623dc972d52b8e1aca2262fa62aced989d7948": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Umi",
+      "address": "0x98623dc972d52b8e1aca2262fa62aced989d7948",
+      "symbol": "UMI",
+      "logoURI": "https://assets.coingecko.com/coins/images/69334/thumb/fzWxs_ki_400x400.jpg?1758224983",
+      "assetGroup": "Umi::UMI",
+      "currencyId": "Umi::UMI",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0xe57e601c06689d3e2bf7db7bebb14b4ff28400c6": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Meridian",
+      "address": "0xe57e601c06689d3e2bf7db7bebb14b4ff28400c6",
+      "symbol": "MRDN",
+      "logoURI": "https://assets.coingecko.com/coins/images/69336/thumb/logo-128.png?1758225720",
+      "assetGroup": "Meridian::MRDN",
+      "currencyId": "Meridian::MRDN",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x3dc6c3231f3ab298430b02357a6f0a1e370a54c6": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Nuwa World by Virtuals",
+      "address": "0x3dc6c3231f3ab298430b02357a6f0a1e370a54c6",
+      "symbol": "NUWA",
+      "logoURI": "https://assets.coingecko.com/coins/images/69332/thumb/Nuwa_logo.png?1758224542",
+      "assetGroup": "Nuwa World by Virtuals::NUWA",
+      "currencyId": "Nuwa World by Virtuals::NUWA",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0xaadd98ad4660008c917c6fe7286bc54b2eef894d": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "CLONES",
+      "address": "0xaadd98ad4660008c917c6fe7286bc54b2eef894d",
+      "symbol": "CLONES",
+      "logoURI": "https://assets.coingecko.com/coins/images/69328/thumb/purple_on_black_C_clones_logo.png?1758195002",
+      "assetGroup": "CLONES::CLONES",
+      "currencyId": "CLONES::CLONES",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x519d3443cacc61bd844546edaea48e5502021802": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "LightLink",
+      "address": "0x519d3443cacc61bd844546edaea48e5502021802",
+      "symbol": "LL",
+      "logoURI": "https://assets.coingecko.com/coins/images/35357/thumb/lightlink-ticker-200.png?1708362303",
+      "assetGroup": "LightLink::LL",
+      "currencyId": "LightLink::LL",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x24f883b8157956101bb6a52eff94d3ae8188e890": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "GRIPPY",
+      "address": "0x24f883b8157956101bb6a52eff94d3ae8188e890",
+      "symbol": "GRIPPY",
+      "logoURI": "https://assets.coingecko.com/coins/images/69351/thumb/GRIPPY.jpg?1758261316",
+      "assetGroup": "GRIPPY::GRIPPY",
+      "currencyId": "GRIPPY::GRIPPY",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x4c7efedec321fb437b7c61e2acd8697769e98a76": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Fox Bets AI",
+      "address": "0x4c7efedec321fb437b7c61e2acd8697769e98a76",
+      "symbol": "FOX",
+      "logoURI": "https://assets.coingecko.com/coins/images/69346/thumb/2025-09-16_21.31.58.jpg?1758259054",
+      "assetGroup": "Fox Bets AI::FOX",
+      "currencyId": "Fox Bets AI::FOX",
       "tags": ["coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {

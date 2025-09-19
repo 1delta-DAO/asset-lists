@@ -51929,7 +51929,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69040/thumb/_ASTER.png?1757326782",
       "assetGroup": "Aster::ASTER",
       "currencyId": "Aster::ASTER",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xf8584516b7d2c156c763c874d6813e06b57e4cb5": {
       "chainId": "56",
@@ -52303,7 +52303,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69270/thumb/Maiga_Token_200x200.webp?1758113812",
       "assetGroup": "Maiga::MAIGA",
       "currencyId": "Maiga::MAIGA",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x6386adc4bc9c21984e34fd916bb349dd861742af": {
       "chainId": "56",
@@ -52349,6 +52349,83 @@
       "currencyId": "Compliant Naira::CNGN",
       "tags": ["coingecko"]
     },
+    "0xd23a186a78c0b3b805505e5f8ea4083295ef9f3a": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Lombard",
+      "address": "0xd23a186a78c0b3b805505e5f8ea4083295ef9f3a",
+      "symbol": "BARD",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xd23A186A78c0B3B805505E5f8ea4083295ef9f3a.png",
+      "assetGroup": "Lombard::BARD",
+      "currencyId": "Lombard::BARD",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xd5df4d260d7a0145f655bcbf3b398076f21016c7": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Ark of Panda",
+      "address": "0xd5df4d260d7a0145f655bcbf3b398076f21016c7",
+      "symbol": "AOP",
+      "logoURI": "https://assets.coingecko.com/coins/images/69315/thumb/aop.png?1758183259",
+      "assetGroup": "Ark of Panda::AOP",
+      "currencyId": "Ark of Panda::AOP",
+      "tags": ["coingecko"]
+    },
+    "0x86333e34c8804532ae34207c46e741cbc3ff3fe3": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "CryptoPeso",
+      "address": "0x86333e34c8804532ae34207c46e741cbc3ff3fe3",
+      "symbol": "CRP",
+      "logoURI": "https://assets.coingecko.com/coins/images/69344/thumb/1000005929.png?1758257948",
+      "assetGroup": "CryptoPeso::CRP",
+      "currencyId": "CryptoPeso::CRP",
+      "tags": ["coingecko"]
+    },
+    "0xcd806d0eb9465020994c9e977cbe34fe430172ae": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Dill",
+      "address": "0xcd806d0eb9465020994c9e977cbe34fe430172ae",
+      "symbol": "DL",
+      "logoURI": "https://assets.coingecko.com/coins/images/69321/thumb/dill.png?1758191377",
+      "assetGroup": "Dill::DL",
+      "currencyId": "Dill::DL",
+      "tags": ["coingecko"]
+    },
+    "0x90206ad9b7d23c672cd75a633ca96b5d9e9ae8ed": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Lead Ai",
+      "address": "0x90206ad9b7d23c672cd75a633ca96b5d9e9ae8ed",
+      "symbol": "LAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/69329/thumb/ce856d2c-810d-4626-aaaf-7d896deb5c4a.jpeg?1758195452",
+      "assetGroup": "Lead Ai::LAI",
+      "currencyId": "Lead Ai::LAI",
+      "tags": ["coingecko"]
+    },
+    "0xeb09e61726922ec613567a63761339dad49d5d3a": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "OrbitX DAO",
+      "address": "0xeb09e61726922ec613567a63761339dad49d5d3a",
+      "symbol": "RTX",
+      "logoURI": "https://assets.coingecko.com/coins/images/69338/thumb/OrbitX_dao.png?1758225997",
+      "assetGroup": "OrbitX DAO::RTX",
+      "currencyId": "OrbitX DAO::RTX",
+      "tags": ["coingecko"]
+    },
+    "0x48a18a4782b65a0fbed4dca608bb28038b7be339": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "DeAgentAI",
+      "address": "0x48a18a4782b65a0fbed4dca608bb28038b7be339",
+      "symbol": "AIA",
+      "logoURI": "https://assets.coingecko.com/coins/images/69053/thumb/DA-AIA.png?1757348456",
+      "assetGroup": "DeAgentAI::AIA",
+      "currencyId": "DeAgentAI::AIA",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "56",
       "decimals": 18,
@@ -52386,6 +52463,7 @@
     "0x5ffd0eadc186af9512542d0d5e5eafc65d5afc5b",
     "0x6bff4fb161347ad7de4a625ae5aa3a1ca7077819",
     "0x12f31b73d812c6bb0d735a218c086d44d5fe5f89",
+    "0xd23a186a78c0b3b805505e5f8ea4083295ef9f3a",
     "0x33d08d8c7a168333a85285a68c0042b39fc3741d",
     "0x82d2f8e02afb160dd5a480a617692e62de9038c4",
     "0xac51066d7bec65dc4589368da368b212745d63e8",

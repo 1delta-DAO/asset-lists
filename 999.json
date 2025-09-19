@@ -3724,7 +3724,7 @@
       "symbol": "USDC",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
       "assetGroup": "USDC",
-      "currencyId": "USDC::USDC",
+      "currencyId": "USD Coin::USDC",
       "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x1368ee9d1212ae5b26ff166049220051a9eebc42": {
@@ -3736,6 +3736,17 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69299/thumb/_hakHYPE.png?1758122756",
       "assetGroup": "Harmonix kHYPE::HAKHYPE",
       "currencyId": "Harmonix kHYPE::HAKHYPE",
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+    },
+    "0x226702c0ca528c29eb9252b773c4f06492510f4c": {
+      "chainId": "999",
+      "decimals": 9,
+      "name": "Neiro",
+      "address": "0x226702c0ca528c29eb9252b773c4f06492510f4c",
+      "symbol": "NEIRO",
+      "logoURI": "https://assets.coingecko.com/coins/images/39488/thumb/neiro.jpg?1731449567",
+      "assetGroup": "Neiro::NEIRO",
+      "currencyId": "Neiro::NEIRO",
       "tags": ["coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {

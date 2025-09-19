@@ -406,6 +406,17 @@
       "currencyId": "USDT0::USDT0",
       "tags": ["coingecko"]
     },
+    "0xf7c868cc4fa5a7300c399c62d891e3dfce440556": {
+      "chainId": "196",
+      "decimals": 18,
+      "name": "XMONEY",
+      "address": "0xf7c868cc4fa5a7300c399c62d891e3dfce440556",
+      "symbol": "XMONEY",
+      "logoURI": "https://assets.coingecko.com/coins/images/69325/thumb/XMONEY.jpg?1758193059",
+      "assetGroup": "XMONEY::XMONEY",
+      "currencyId": "XMONEY::XMONEY",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "196",
       "decimals": 18,
@@ -450,7 +461,9 @@
     "0x246e5ef65d29dd6375413959c1378f7612a8b983",
     "0x903358faf7c6304afbd560e9e29b12ab1b8fddc5",
     "0xaa7edea4f673b0259e82628103f064e884ad3d9b",
-    "0xc6200e4555948c5c6395b255a64732a672f647cd"
+    "0xc6200e4555948c5c6395b255a64732a672f647cd",
+    "0x16d91d1615fc55b76d5f92365bd60c069b46ef78",
+    "0x3773802dec36ea843cda93399fdd4a75307fc4bb"
   ],
   "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",
