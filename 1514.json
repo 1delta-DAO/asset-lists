@@ -134,6 +134,28 @@
       "currencyId": "IPPY::IPPY",
       "tags": ["coingecko"]
     },
+    "0xd07faed671decf3c5a6cc038dad97c8efdb507c0": {
+      "chainId": "1514",
+      "decimals": 18,
+      "name": "Staked IP",
+      "address": "0xd07faed671decf3c5a6cc038dad97c8efdb507c0",
+      "symbol": "STIP",
+      "logoURI": "https://assets.coingecko.com/coins/images/69438/thumb/stip.png?1758595832",
+      "assetGroup": "Staked IP::STIP",
+      "currencyId": "Staked IP::STIP",
+      "tags": ["coingecko"]
+    },
+    "0xbab93b7ad7fe8692a878b95a8e689423437cc500": {
+      "chainId": "1514",
+      "decimals": 18,
+      "name": "Stargate Bridged WETH",
+      "address": "0xbab93b7ad7fe8692a878b95a8e689423437cc500",
+      "symbol": "WETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/69466/thumb/weth_2.jpg?1758701596",
+      "assetGroup": "ETH",
+      "currencyId": "Stargate Bridged WETH::WETH",
+      "tags": ["stargate", "bridged", "coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "1514",
       "decimals": 18,
@@ -159,7 +181,13 @@
     "0xb5461c1fd0312cd4bf037058f8a391e6a42f9639",
     "0x693c7acf65e52c71bafe555bc22d69cb7f8a78a2",
     "0xa074aca68eeb6c831a78c84606f3cb44f9e547f5",
-    "0x543374350269cce6651358769512875faa4cccff"
+    "0x543374350269cce6651358769512875faa4cccff",
+    "0xd07faed671decf3c5a6cc038dad97c8efdb507c0",
+    "0xbab93b7ad7fe8692a878b95a8e689423437cc500"
   ],
-  "bridgeTokens": ["0x0000000000000000000000000000000000000000", "0xf1815bd50389c46847f0bda824ec8da914045d14"]
+  "bridgeTokens": [
+    "0x0000000000000000000000000000000000000000",
+    "0xf1815bd50389c46847f0bda824ec8da914045d14",
+    "0xbab93b7ad7fe8692a878b95a8e689423437cc500"
+  ]
 }

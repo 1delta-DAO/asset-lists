@@ -42927,7 +42927,7 @@
       "logoURI": "https://tokens-data.1inch.io/images/56/0x7ff7fa94b8b66ef313f7970d4eebd2cb3103a2c0_0x99041782668ee9e54d4fdc7e474c2ccc7c999a9f5d008cf69d10c3d575111501.png",
       "assetGroup": "Vana::VANA",
       "currencyId": "Vana::VANA",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x64274835d88f5c0215da8aadd9a5f2d2a2569381": {
       "chainId": "56",
@@ -48086,7 +48086,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55029/thumb/Token_Logo_NUMI_200.png?1743320367",
       "assetGroup": "NUMINE Token::NUMI",
       "currencyId": "NUMINE Token::NUMI",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x9d275685dc284c8eb1c79f6aba7a63dc75ec890a": {
       "chainId": "56",
@@ -49551,6 +49551,7 @@
       "name": "Moo",
       "address": "0xb5b7f828caed10db9582bed424ff79809ce766cb",
       "symbol": "MOO",
+      "logoURI": "https://assets.coingecko.com/coins/images/67619/thumb/20250921_212244.jpg?1758644976",
       "assetGroup": "Moo::MOO",
       "currencyId": "Moo::MOO",
       "tags": ["coingecko"]
@@ -51929,7 +51930,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69040/thumb/_ASTER.png?1757326782",
       "assetGroup": "Aster::ASTER",
       "currencyId": "Aster::ASTER",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xf8584516b7d2c156c763c874d6813e06b57e4cb5": {
       "chainId": "56",
@@ -52369,7 +52370,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69315/thumb/aop.png?1758183259",
       "assetGroup": "Ark of Panda::AOP",
       "currencyId": "Ark of Panda::AOP",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x86333e34c8804532ae34207c46e741cbc3ff3fe3": {
       "chainId": "56",
@@ -52391,7 +52392,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69321/thumb/dill.png?1758191377",
       "assetGroup": "Dill::DL",
       "currencyId": "Dill::DL",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x90206ad9b7d23c672cd75a633ca96b5d9e9ae8ed": {
       "chainId": "56",
@@ -52424,6 +52425,292 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69053/thumb/DA-AIA.png?1757348456",
       "assetGroup": "DeAgentAI::AIA",
       "currencyId": "DeAgentAI::AIA",
+      "tags": ["coingecko", "biconomy-gas-token"]
+    },
+    "0x932fb7f52adbc34ff81b4342b8c036b7b8ac4444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Dust",
+      "address": "0x932fb7f52adbc34ff81b4342b8c036b7b8ac4444",
+      "symbol": "Dust",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x932Fb7f52adBC34ff81B4342b8C036b7b8Ac4444.png",
+      "assetGroup": "Dust::Dust",
+      "currencyId": "Dust::Dust",
+      "tags": ["biconomy-gas-token", "debridge"]
+    },
+    "0x953783617a71a888f8b04f397f2c9e1a7c37af7e": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "JOJOWORLD",
+      "address": "0x953783617a71a888f8b04f397f2c9e1a7c37af7e",
+      "symbol": "JOJO",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x953783617a71A888F8b04f397F2c9e1a7c37Af7e.png",
+      "assetGroup": "JOJOWORLD::JOJO",
+      "currencyId": "JOJOWORLD::JOJO",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x20d6015660b3fe52e6690a889b5c51f69902ce0e": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Giggle Fund",
+      "address": "0x20d6015660b3fe52e6690a889b5c51f69902ce0e",
+      "symbol": "GIGGLE",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x20d6015660b3fe52e6690a889b5C51F69902cE0e.png",
+      "assetGroup": "Giggle Fund::GIGGLE",
+      "currencyId": "Giggle Fund::GIGGLE",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x6692fa6ea41c5d300fed14b4c0087cb45e982e48": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "LNKD Networks",
+      "address": "0x6692fa6ea41c5d300fed14b4c0087cb45e982e48",
+      "symbol": "LNKD",
+      "logoURI": "https://assets.coingecko.com/coins/images/69395/thumb/LNKD_Listing_logo.jpg?1758442094",
+      "assetGroup": "LNKD Networks::LNKD",
+      "currencyId": "LNKD Networks::LNKD",
+      "tags": ["coingecko"]
+    },
+    "0x5f992abf5bc1725f6b0dfd116031c31aebb54444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "OID",
+      "address": "0x5f992abf5bc1725f6b0dfd116031c31aebb54444",
+      "symbol": "OID",
+      "logoURI": "https://assets.coingecko.com/coins/images/69400/thumb/oid-logo.jpg?1758446001",
+      "assetGroup": "OID::OID",
+      "currencyId": "OID::OID",
+      "tags": ["coingecko"]
+    },
+    "0xacf5a368ec5bb9e804c8ac0b508daa5a21c92e13": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Griffin AI",
+      "address": "0xacf5a368ec5bb9e804c8ac0b508daa5a21c92e13",
+      "symbol": "GAIN",
+      "logoURI": "https://assets.coingecko.com/coins/images/69412/thumb/gain.png?1758537698",
+      "assetGroup": "Griffin AI::GAIN",
+      "currencyId": "Griffin AI::GAIN",
+      "tags": ["coingecko"]
+    },
+    "0x9cac9837155a851e3d08639a40ae5bf18d968cd3": {
+      "chainId": "56",
+      "decimals": 6,
+      "name": "TALA",
+      "address": "0x9cac9837155a851e3d08639a40ae5bf18d968cd3",
+      "symbol": "1OZT",
+      "logoURI": "https://assets.coingecko.com/coins/images/69413/thumb/f.png?1758538906",
+      "assetGroup": "TALA::1OZT",
+      "currencyId": "TALA::1OZT",
+      "tags": ["coingecko"]
+    },
+    "0x97f78565f6a6aee160470df80707d34309a49dc9": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Klink Finance",
+      "address": "0x97f78565f6a6aee160470df80707d34309a49dc9",
+      "symbol": "KLINK",
+      "logoURI": "https://assets.coingecko.com/coins/images/54192/thumb/CMC_Logo.png?1738722266",
+      "assetGroup": "Klink Finance::KLINK",
+      "currencyId": "Klink Finance::KLINK",
+      "tags": ["coingecko"]
+    },
+    "0x551f752a600f6ce182224bbd4ea2fadaabc31da4": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "Rose",
+      "address": "0x551f752a600f6ce182224bbd4ea2fadaabc31da4",
+      "symbol": "ROSE",
+      "logoURI": "https://assets.coingecko.com/coins/images/69483/thumb/logo.png?1758720703",
+      "assetGroup": "Rose::ROSE",
+      "currencyId": "Rose::ROSE",
+      "tags": ["coingecko"]
+    },
+    "0x0a5bdc25affb394f63ed8eb488e79a9129d10927": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "roule token",
+      "address": "0x0a5bdc25affb394f63ed8eb488e79a9129d10927",
+      "symbol": "ROUL",
+      "logoURI": "https://assets.coingecko.com/coins/images/69417/thumb/Logo_ROUL_250X250_transparent.png?1758545251",
+      "assetGroup": "roule token::ROUL",
+      "currencyId": "roule token::ROUL",
+      "tags": ["coingecko"]
+    },
+    "0xd17fd7002e1b91ba9a38c00426e83a11db587ce6": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "Aster",
+      "address": "0xd17fd7002e1b91ba9a38c00426e83a11db587ce6",
+      "symbol": "ASTER",
+      "logoURI": "https://assets.coingecko.com/coins/images/69420/thumb/20250921_091426.png?1758547087",
+      "assetGroup": "Aster::ASTER::56::0",
+      "currencyId": "Aster::ASTER",
+      "tags": ["coingecko"]
+    },
+    "0x7d03759e5b41e36899833cb2e008455d69a24444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "priceless",
+      "address": "0x7d03759e5b41e36899833cb2e008455d69a24444",
+      "symbol": "PRICELESS",
+      "logoURI": "https://assets.coingecko.com/coins/images/69422/thumb/If-rWUdj_400x400.jpg?1758550243",
+      "assetGroup": "priceless::PRICELESS",
+      "currencyId": "priceless::PRICELESS",
+      "tags": ["coingecko"]
+    },
+    "0xe6cae4094352a670c3eb0fcbda17c898b71c7f2a": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Five Pillars Token",
+      "address": "0xe6cae4094352a670c3eb0fcbda17c898b71c7f2a",
+      "symbol": "5PT",
+      "logoURI": "https://assets.coingecko.com/coins/images/69430/thumb/Five_Pillars_Token.png?1758562693",
+      "assetGroup": "Five Pillars Token::5PT",
+      "currencyId": "Five Pillars Token::5PT",
+      "tags": ["coingecko"]
+    },
+    "0x4b948d64de1f71fcd12fb586f4c776421a35b3ee": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "0G",
+      "address": "0x4b948d64de1f71fcd12fb586f4c776421a35b3ee",
+      "symbol": "0G",
+      "logoURI": "https://assets.coingecko.com/coins/images/69096/thumb/0G_1024x1024_Circular_Outlined.png?1758637574",
+      "assetGroup": "0G::0G",
+      "currencyId": "0G::0G",
+      "tags": ["coingecko"]
+    },
+    "0x4e24c684a90f2c1f9030a5608a6c3a6fa4e854f5": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "OrbitEdge",
+      "address": "0x4e24c684a90f2c1f9030a5608a6c3a6fa4e854f5",
+      "symbol": "ORBD",
+      "logoURI": "https://assets.coingecko.com/coins/images/69354/thumb/OrbitEdgeLogo_%281%29.png?1758265500",
+      "assetGroup": "OrbitEdge::ORBD",
+      "currencyId": "OrbitEdge::ORBD",
+      "tags": ["coingecko"]
+    },
+    "0xbb6738fd45aa7bb35944f0cdcc63abf54cefd4e4": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "DeXRP",
+      "address": "0xbb6738fd45aa7bb35944f0cdcc63abf54cefd4e4",
+      "symbol": "DXP",
+      "logoURI": "https://assets.coingecko.com/coins/images/69383/thumb/1000104584.png?1758357688",
+      "assetGroup": "DeXRP::DXP",
+      "currencyId": "DeXRP::DXP",
+      "tags": ["coingecko"]
+    },
+    "0xf5bd9a6b66770403517107d60465ca822bb2588c": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Kyuzo s Friends",
+      "address": "0xf5bd9a6b66770403517107d60465ca822bb2588c",
+      "symbol": "KO",
+      "logoURI": "https://assets.coingecko.com/coins/images/69392/thumb/ko.png?1758368517",
+      "assetGroup": "Kyuzo s Friends::KO",
+      "currencyId": "Kyuzo s Friends::KO",
+      "tags": ["coingecko"]
+    },
+    "0x0a8d6c86e1bce73fe4d0bd531e1a567306836ea5": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "ChainOpera AI",
+      "address": "0x0a8d6c86e1bce73fe4d0bd531e1a567306836ea5",
+      "symbol": "COAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/69447/thumb/coai.png?1758625501",
+      "assetGroup": "ChainOpera AI::COAI",
+      "currencyId": "ChainOpera AI::COAI",
+      "tags": ["coingecko"]
+    },
+    "0x9f6c24232f1bba6ef47bcb81b9b9434acdb94444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Aster INU",
+      "address": "0x9f6c24232f1bba6ef47bcb81b9b9434acdb94444",
+      "symbol": "ASTERINU",
+      "logoURI": "https://assets.coingecko.com/coins/images/69448/thumb/photo_2025-09-22_03-25-59.png?1758640340",
+      "assetGroup": "Aster INU::ASTERINU",
+      "currencyId": "Aster INU::ASTERINU",
+      "tags": ["coingecko"]
+    },
+    "0x1b31df2414104525070f28271b54399a5e33beb6": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Baby Dust",
+      "address": "0x1b31df2414104525070f28271b54399a5e33beb6",
+      "symbol": "BABYDUST",
+      "logoURI": "https://assets.coingecko.com/coins/images/69454/thumb/lr72izIn_400x400.jpg?1758642969",
+      "assetGroup": "Baby Dust::BABYDUST",
+      "currencyId": "Baby Dust::BABYDUST",
+      "tags": ["coingecko"]
+    },
+    "0x6a38598c8e72243c9f24a9722ccf29eca3e06b63": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "Samson the Goldendoodle",
+      "address": "0x6a38598c8e72243c9f24a9722ccf29eca3e06b63",
+      "symbol": "SAMSON",
+      "logoURI": "https://assets.coingecko.com/coins/images/69455/thumb/7GPcnbPF_400x400.jpg?1758643787",
+      "assetGroup": "Samson the Goldendoodle::SAMSON",
+      "currencyId": "Samson the Goldendoodle::SAMSON",
+      "tags": ["coingecko"]
+    },
+    "0xdaa17d35639a76e920f4a51d7fbbf118c1cac4f1": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Wrapped Oil",
+      "address": "0xdaa17d35639a76e920f4a51d7fbbf118c1cac4f1",
+      "symbol": "WOIL",
+      "logoURI": "https://assets.coingecko.com/coins/images/69411/thumb/170190755.jpg?1758527631",
+      "assetGroup": "Wrapped Oil::WOIL",
+      "currencyId": "Wrapped Oil::WOIL",
+      "tags": ["coingecko"]
+    },
+    "0x7c8217517ed4711fe2deccdfeffe8d906b9ae11f": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "Bless",
+      "address": "0x7c8217517ed4711fe2deccdfeffe8d906b9ae11f",
+      "symbol": "BLESS",
+      "logoURI": "https://assets.coingecko.com/coins/images/69339/thumb/Layer_1_%284%29.png?1758523043",
+      "assetGroup": "Bless::BLESS",
+      "currencyId": "Bless::BLESS",
+      "tags": ["coingecko"]
+    },
+    "0x39bb4e6335459b4ed217b2c6a2d696deaaa21f3c": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "StakeQuest Legends",
+      "address": "0x39bb4e6335459b4ed217b2c6a2d696deaaa21f3c",
+      "symbol": "SQL",
+      "logoURI": "https://assets.coingecko.com/coins/images/68820/thumb/1000168153.png?1756702887",
+      "assetGroup": "StakeQuest Legends::SQL",
+      "currencyId": "StakeQuest Legends::SQL",
+      "tags": ["coingecko"]
+    },
+    "0x4254813524695def4163a169e901f3d7a1a55429": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Resolv wstUSR",
+      "address": "0x4254813524695def4163a169e901f3d7a1a55429",
+      "symbol": "WSTUSR",
+      "logoURI": "https://assets.coingecko.com/coins/images/51880/thumb/USR_LOGO.png?1732098841",
+      "assetGroup": "Resolv wstUSR::WSTUSR",
+      "currencyId": "Resolv wstUSR::WSTUSR",
+      "tags": ["coingecko"]
+    },
+    "0xda7ad9dea9397cffddae2f8a052b82f1484252b3": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "River",
+      "address": "0xda7ad9dea9397cffddae2f8a052b82f1484252b3",
+      "symbol": "RIVER",
+      "logoURI": "https://assets.coingecko.com/coins/images/69318/thumb/river-token.png?1758523089",
+      "assetGroup": "River::RIVER",
+      "currencyId": "River::RIVER",
       "tags": ["coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {

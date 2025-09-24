@@ -239,10 +239,11 @@
       "decimals": 18,
       "name": "Wrapped Ether",
       "address": "0xf4d9235269a96aadafc9adae454a0618ebe37949",
-      "symbol": "wETH",
+      "symbol": "WETH",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/weth.svg",
       "assetGroup": "ETH",
-      "currencyId": "Wrapped Ether::wETH"
+      "currencyId": "Wrapped Ether::WETH",
+      "tags": ["coingecko"]
     },
     "0xf1815bd50389c46847f0bda824ec8da914045d14": {
       "chainId": "33139",
@@ -252,7 +253,8 @@
       "symbol": "USDC",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdc.svg",
       "assetGroup": "USDC",
-      "currencyId": "USD Coin::USDC"
+      "currencyId": "USD Coin::USDC",
+      "tags": ["coingecko"]
     },
     "0x674843c06ff83502ddb4d37c2e09c01cda38cbc8": {
       "chainId": "33139",

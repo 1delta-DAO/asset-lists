@@ -3559,7 +3559,7 @@
       "logoURI": "https://ethereum-optimism.github.io/data/rETH/logo.svg",
       "assetGroup": "RETH",
       "currencyId": "Rocket Pool ETH::rETH",
-      "tags": ["biconomy-gas-token"],
+      "tags": ["biconomy-gas-token", "coingecko"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x0555e30da8f98308edb960aa94c0db47230d2b9c": {
@@ -3769,6 +3769,17 @@
       "assetGroup": "CANA Holdings California Carbon Credits::CANA",
       "currencyId": "CANA Holdings California Carbon Credits::CANA",
       "tags": ["biconomy-gas-token"]
+    },
+    "0xa161132371c94299d215915d4cbc3b629e2059be": {
+      "chainId": "130",
+      "decimals": 8,
+      "name": "brBTC",
+      "address": "0xa161132371c94299d215915d4cbc3b629e2059be",
+      "symbol": "brBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/53039/thumb/brBTC_200.png?1735074374",
+      "assetGroup": "BRBTC",
+      "currencyId": "brBTC::brBTC",
+      "tags": ["coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "130",

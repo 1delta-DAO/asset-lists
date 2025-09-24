@@ -46,6 +46,17 @@
       "currencyId": "ChainLink Token::LINK",
       "tags": ["coingecko"]
     },
+    "0x3292c42e8e9ab3c6a12cfda556bbcb6f113b1e28": {
+      "chainId": "3637",
+      "decimals": 18,
+      "name": "Stargate Bridged WETH",
+      "address": "0x3292c42e8e9ab3c6a12cfda556bbcb6f113b1e28",
+      "symbol": "WETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/69466/thumb/weth_2.jpg?1758701596",
+      "assetGroup": "ETH",
+      "currencyId": "Stargate Bridged WETH::WETH",
+      "tags": ["stargate", "bridged", "coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "3637",
       "address": "0x0000000000000000000000000000000000000000",
@@ -63,7 +74,8 @@
     "0xf4586028ffda7eca636864f80f8a3f2589e33795",
     "0x0d2437f93fed6ea64ef01ccde385fb1263910c56",
     "0x29ee6138dd4c9815f46d34a4a1ed48f46758a402",
-    "0x30e85a5c9525ad9a7a0fa5c74df4baf0b01ad241"
+    "0x30e85a5c9525ad9a7a0fa5c74df4baf0b01ad241",
+    "0x3292c42e8e9ab3c6a12cfda556bbcb6f113b1e28"
   ],
-  "bridgeTokens": ["0x0000000000000000000000000000000000000000"]
+  "bridgeTokens": ["0x0000000000000000000000000000000000000000", "0x3292c42e8e9ab3c6a12cfda556bbcb6f113b1e28"]
 }

@@ -22650,7 +22650,7 @@
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xfe0c30065b384f05761f15d0cc899d4f9f9cc0eb/51f0cde8e655b6dd4cc39f2495b60c1e.png",
       "assetGroup": "ether.fi governance token::ETHFI",
       "currencyId": "ether.fi governance token::ETHFI",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0xa0c05e2eed05912d9eb76d466167628e8024a708": {
       "chainId": "8453",
@@ -24224,7 +24224,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/51404/small/logo.png?1731086679",
       "assetGroup": "Vana::VANA",
       "currencyId": "Vana::VANA",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x14ea60c5d783c514087b4f460fe8cfdb27016b4a": {
       "chainId": "8453",
@@ -27781,7 +27781,8 @@
       "symbol": "USDX",
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xf3527ef8de265eaa3716fb312c12847bfba66cef.png",
       "assetGroup": "Wrapped USDX::USDX",
-      "currencyId": "Wrapped USDX::USDX"
+      "currencyId": "Wrapped USDX::USDX",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x00000000a22c618fd6b4d7e9a335c4b96b189a38": {
       "chainId": "8453",
@@ -30385,7 +30386,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69351/thumb/GRIPPY.jpg?1758261316",
       "assetGroup": "GRIPPY::GRIPPY",
       "currencyId": "GRIPPY::GRIPPY",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x4c7efedec321fb437b7c61e2acd8697769e98a76": {
       "chainId": "8453",
@@ -30396,7 +30397,193 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69346/thumb/2025-09-16_21.31.58.jpg?1758259054",
       "assetGroup": "Fox Bets AI::FOX",
       "currencyId": "Fox Bets AI::FOX",
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+    },
+    "0x9999999999999d8b360c6985db1a74a0f3b75e1b": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Kitty Kult",
+      "address": "0x9999999999999d8b360c6985db1a74a0f3b75e1b",
+      "symbol": "KULT",
+      "logoURI": "https://assets.coingecko.com/coins/images/69362/thumb/kitty-kult-logo-200px.png?1758309860",
+      "assetGroup": "Kitty Kult::KULT",
+      "currencyId": "Kitty Kult::KULT",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x69da011296a3a68d33bcfbca078e0be3b7d77b07": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Emerge",
+      "address": "0x69da011296a3a68d33bcfbca078e0be3b7d77b07",
+      "symbol": "EMERGE",
+      "logoURI": "https://assets.coingecko.com/coins/images/69390/thumb/e7ikdfy27y0b21nqg6p5axm8ov3z.?1758360636",
+      "assetGroup": "Emerge::EMERGE",
+      "currencyId": "Emerge::EMERGE",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0xa64a1b5b0a5ce578a8c6bca10cbe36d83713d170": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "PePenguin",
+      "address": "0xa64a1b5b0a5ce578a8c6bca10cbe36d83713d170",
+      "symbol": "PENGUIN",
+      "logoURI": "https://assets.coingecko.com/coins/images/69360/thumb/Gz6dK3NXsAA9f2J.jpg?1758309543",
+      "assetGroup": "PePenguin::PENGUIN",
+      "currencyId": "PePenguin::PENGUIN",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x64712fbdf19ae8b5b3b6d0478750e3d5e1a17718": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Waveform by Virtuals",
+      "address": "0x64712fbdf19ae8b5b3b6d0478750e3d5e1a17718",
+      "symbol": "WAVE",
+      "logoURI": "https://assets.coingecko.com/coins/images/69367/thumb/bojz35sh42a23fr8ptwsi234vvvc.?1758313102",
+      "assetGroup": "Waveform by Virtuals::WAVE",
+      "currencyId": "Waveform by Virtuals::WAVE",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x99ed8c89d6ed3a05e73bfa0ce0213bb942061a65": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Amped Finance",
+      "address": "0x99ed8c89d6ed3a05e73bfa0ce0213bb942061a65",
+      "symbol": "AMPED",
+      "logoURI": "https://assets.coingecko.com/coins/images/37421/thumb/AmpedLogoTrans-200.png?1714377313",
+      "assetGroup": "Amped Finance::AMPED",
+      "currencyId": "Amped Finance::AMPED",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x3a115f568c4b3d0c6e239b2e8f3d4cda3798f536": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Idle Network",
+      "address": "0x3a115f568c4b3d0c6e239b2e8f3d4cda3798f536",
+      "symbol": "IDLE",
+      "logoURI": "https://assets.coingecko.com/coins/images/69402/thumb/200x200.png?1758508141",
+      "assetGroup": "Idle Network::IDLE",
+      "currencyId": "Idle Network::IDLE",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x1371b2a6998c42ccd3480207282c3fa2888148ce": {
+      "chainId": "8453",
+      "decimals": 14,
+      "name": "Kylie",
+      "address": "0x1371b2a6998c42ccd3480207282c3fa2888148ce",
+      "symbol": "KYLIE",
+      "logoURI": "https://assets.coingecko.com/coins/images/69441/thumb/Kylie.jpg?1758615164",
+      "assetGroup": "Kylie::KYLIE",
+      "currencyId": "Kylie::KYLIE",
       "tags": ["coingecko", "debridge"]
+    },
+    "0x6965084966592a76f80adadc5138eb23f18f1ed6": {
+      "chainId": "8453",
+      "decimals": 9,
+      "name": "THUG",
+      "address": "0x6965084966592a76f80adadc5138eb23f18f1ed6",
+      "symbol": "THUG",
+      "logoURI": "https://assets.coingecko.com/coins/images/69456/thumb/useyf68jd4ks1vl4mceh6zy9zmtq.?1758643283",
+      "assetGroup": "THUG::THUG",
+      "currencyId": "THUG::THUG",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x5bdacba45e53039f8c57dbaedd4ffdd26a975b07": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "VANTA",
+      "address": "0x5bdacba45e53039f8c57dbaedd4ffdd26a975b07",
+      "symbol": "VANTA",
+      "logoURI": "https://assets.coingecko.com/coins/images/69421/thumb/f8nz1h3pqzgmal3cqbngxr1alaod.?1758548420",
+      "assetGroup": "VANTA::VANTA",
+      "currencyId": "VANTA::VANTA",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x0ba5ed329d073a847ec3d54ac767f7e099c29bb2": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Based Mog Coin",
+      "address": "0x0ba5ed329d073a847ec3d54ac767f7e099c29bb2",
+      "symbol": "MOG",
+      "logoURI": "https://assets.coingecko.com/coins/images/69416/thumb/BA5EDMOGicon.jpg?1758545032",
+      "assetGroup": "Based Mog Coin::MOG",
+      "currencyId": "Based Mog Coin::MOG",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x1ee5dd1794c28f559f94d2cc642bae62dc3be5cf": {
+      "chainId": "8453",
+      "decimals": 6,
+      "name": "LikeCoin",
+      "address": "0x1ee5dd1794c28f559f94d2cc642bae62dc3be5cf",
+      "symbol": "LIKE",
+      "logoURI": "https://assets.coingecko.com/coins/images/69458/thumb/likecoin.png?1758647439",
+      "assetGroup": "LikeCoin::LIKE",
+      "currencyId": "LikeCoin::LIKE",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0xb96cfc6f81f85c58a1eccdd9ec2ad940e2cb8453": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "All Your Base",
+      "address": "0xb96cfc6f81f85c58a1eccdd9ec2ad940e2cb8453",
+      "symbol": "AYB",
+      "logoURI": "https://assets.coingecko.com/coins/images/35777/thumb/AYB-Coingecko.png?1718634946",
+      "assetGroup": "All Your Base::AYB::8453::0",
+      "currencyId": "All Your Base::AYB",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0xd565e9eb9b7e2de4902486b7057d642393afdaa4": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Doge Base",
+      "address": "0xd565e9eb9b7e2de4902486b7057d642393afdaa4",
+      "symbol": "DOGEBASE",
+      "logoURI": "https://assets.coingecko.com/coins/images/69468/thumb/image0_%2860%29.jpg?1758706157",
+      "assetGroup": "Doge Base::DOGEBASE",
+      "currencyId": "Doge Base::DOGEBASE",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x1d143e81e543370db4f6de74ccfc087ceee9ec65": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "STONED",
+      "address": "0x1d143e81e543370db4f6de74ccfc087ceee9ec65",
+      "symbol": "STONED",
+      "logoURI": "https://assets.coingecko.com/coins/images/69474/thumb/iconstoned.jpg?1758708935",
+      "assetGroup": "STONED::STONED",
+      "currencyId": "STONED::STONED",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0xbf26cbe8f1d754f97ebe9a544a38dee692e75ef3": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Norm",
+      "address": "0xbf26cbe8f1d754f97ebe9a544a38dee692e75ef3",
+      "symbol": "NORM",
+      "logoURI": "https://assets.coingecko.com/coins/images/69472/thumb/IMG_3043.jpeg?1758708490",
+      "assetGroup": "Norm::NORM",
+      "currencyId": "Norm::NORM",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0xf970706063b7853877f39515c96932d49d5ac9cd": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Yala",
+      "address": "0xf970706063b7853877f39515c96932d49d5ac9cd",
+      "symbol": "YALA",
+      "logoURI": "https://assets.coingecko.com/coins/images/67498/thumb/yala.jpg?1752994443",
+      "assetGroup": "Yala::YALA",
+      "currencyId": "Yala::YALA",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0xba8cd87120aca631f59231f9fd6c5469bbee3440": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Infinite Trading Protocol",
+      "address": "0xba8cd87120aca631f59231f9fd6c5469bbee3440",
+      "symbol": "ITP",
+      "assetGroup": "Infinite Trading Protocol::ITP",
+      "currencyId": "Infinite Trading Protocol::ITP",
+      "tags": ["debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "8453",

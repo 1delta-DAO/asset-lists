@@ -226,7 +226,7 @@
       "logoURI": "https://vvs-ui.vvs.finance/069ce812a1dba0006084a72cb184b669390231ae946aaf5096c0c634c31c4c46.svg",
       "assetGroup": "ETH",
       "currencyId": "Stargate Bridged WETH::WETH",
-      "tags": ["stargate", "bridged"]
+      "tags": ["stargate", "bridged", "coingecko"]
     },
     "0xf951ec28187d9e5ca673da8fe6757e6f0be5f77c": {
       "chainId": "25",
@@ -237,7 +237,7 @@
       "logoURI": "https://vvs-ui.vvs.finance/c664e0c59bb94eab4753bdb1992633feeafc486ae0f021c16be40da90a35a7bb.svg",
       "assetGroup": "USDC",
       "currencyId": "Stargate Bridged USDC::USDC.e",
-      "tags": ["stargate", "bridged"]
+      "tags": ["stargate", "bridged", "coingecko"]
     },
     "0xe44fd7fcb2b1581822d0c862b68222998a0c299a": {
       "chainId": "25",
@@ -3199,6 +3199,28 @@
       "logoURI": "https://vvs-ui.vvs.finance/595011dcaea443f9dba09623a5328791a8cb6e7b67b114ffb98a248b53ea1eaa.svg",
       "assetGroup": "Vino::VINO",
       "currencyId": "Vino::VINO"
+    },
+    "0x444075ea64d69bf5002ae1a7f44642e46f8b56d4": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "Cronos Army",
+      "address": "0x444075ea64d69bf5002ae1a7f44642e46f8b56d4",
+      "symbol": "CA",
+      "logoURI": "https://assets.coingecko.com/coins/images/69410/thumb/icon_big_coingecko_XIn0E9W7_%281%29.jpg?1758526254",
+      "assetGroup": "Cronos Army::CA",
+      "currencyId": "Cronos Army::CA",
+      "tags": ["coingecko"]
+    },
+    "0xd60d5a5e9b9bc7018ced7198ed71467f968e8a31": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "MyCroStrategy",
+      "address": "0xd60d5a5e9b9bc7018ced7198ed71467f968e8a31",
+      "symbol": "MCS",
+      "logoURI": "https://assets.coingecko.com/coins/images/69452/thumb/MYCRO_X_profile.png?1758642518",
+      "assetGroup": "MyCroStrategy::MCS",
+      "currencyId": "MyCroStrategy::MCS",
+      "tags": ["coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "25",

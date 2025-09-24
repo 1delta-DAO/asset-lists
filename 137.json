@@ -26610,7 +26610,8 @@
       "symbol": "VANA",
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x7ff7fa94b8b66ef313f7970d4eebd2cb3103a2c0/e33ec9fd5909824e98eb7d4a9e7d95a2.png",
       "assetGroup": "Vana::VANA",
-      "currencyId": "Vana::VANA"
+      "currencyId": "Vana::VANA",
+      "tags": ["debridge"]
     },
     "0xee997788f625809332baabb3110bcf1ba7400824": {
       "chainId": "137",
@@ -27149,8 +27150,20 @@
       "name": "OrbitEdge",
       "address": "0x4e24c684a90f2c1f9030a5608a6c3a6fa4e854f5",
       "symbol": "ORBD",
+      "logoURI": "https://assets.coingecko.com/coins/images/69354/thumb/OrbitEdgeLogo_%281%29.png?1758265500",
       "assetGroup": "OrbitEdge::ORBD",
       "currencyId": "OrbitEdge::ORBD",
+      "tags": ["debridge", "biconomy-gas-token"]
+    },
+    "0x231878d973c09fbcc0ca2239fffb717795402cb4": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Rusk Token",
+      "address": "0x231878d973c09fbcc0ca2239fffb717795402cb4",
+      "symbol": "RUSK",
+      "logoURI": "https://tokens.debridge.finance/Logo/137/0x231878d973c09fbcc0ca2239fffb717795402cb4/small/token-logo.png",
+      "assetGroup": "Rusk Token::RUSK",
+      "currencyId": "Rusk Token::RUSK",
       "tags": ["debridge"]
     },
     "0x0000000000000000000000000000000000000000": {

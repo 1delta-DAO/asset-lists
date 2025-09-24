@@ -19412,9 +19412,10 @@
       "name": "Vana",
       "address": "0x7ff7fa94b8b66ef313f7970d4eebd2cb3103a2c0",
       "symbol": "VANA",
+      "logoURI": "https://assets.coingecko.com/coins/images/51404/thumb/logo.png?1731086679",
       "assetGroup": "Vana::VANA",
       "currencyId": "Vana::VANA",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x3db4b7da67dd5af61cb9b3c70501b1bdb24b2c22": {
       "chainId": "42161",
@@ -23026,6 +23027,25 @@
       "assetGroup": "Project Merlin::MRLN",
       "currencyId": "Project Merlin::MRLN",
       "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x8b4ca42bb3b1d789859f106222cf7dc5eed48ccb": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "PT USDai 20NOV2025",
+      "address": "0x8b4ca42bb3b1d789859f106222cf7dc5eed48ccb",
+      "symbol": "PT-USDai-20NOV2025",
+      "logoURI": "https://cdn.morpho.org/assets/logos/pt-usdai.svg",
+      "assetGroup": "PT USDai 20NOV2025::PT-USDai-20NOV2025",
+      "currencyId": "PT USDai 20NOV2025::PT-USDai-20NOV2025",
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x8e101c690390de722163d4dc3f76043bebbbcadd",
+          "syAddress": "0x5edcbc20cac67adc2e724d4348ff85132b085b82",
+          "expiry": 1763596800,
+          "ytAddress": "0xa55e2f0a15295f4f4290d7dfcc3f6ebd2e4edcb8"
+        }
+      }
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "42161",

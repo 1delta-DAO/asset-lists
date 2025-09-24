@@ -244,6 +244,17 @@
       "currencyId": "ChainLink Token::LINK",
       "tags": ["coingecko"]
     },
+    "0x11b3808a5c0b612bc284ef7c2c6034c77a66be7b": {
+      "chainId": "200901",
+      "decimals": 8,
+      "name": "brBTC",
+      "address": "0x11b3808a5c0b612bc284ef7c2c6034c77a66be7b",
+      "symbol": "brBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/53039/thumb/brBTC_200.png?1735074374",
+      "assetGroup": "BRBTC",
+      "currencyId": "brBTC::brBTC",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "200901",
       "decimals": 18,
@@ -282,7 +293,8 @@
     "0xef63d4e178b3180beec9b0e143e0f37f4c93f4c2",
     "0xf8c374ce88a3be3d374e8888349c7768b607c755",
     "0x4fdb0511f1e5c6c215596570f855cb1f9924b8b6",
-    "0x56b275c0ec034a229a1ded8db17089544bc276d9"
+    "0x56b275c0ec034a229a1ded8db17089544bc276d9",
+    "0x11b3808a5c0b612bc284ef7c2c6034c77a66be7b"
   ],
   "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",
