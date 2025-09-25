@@ -430,7 +430,18 @@
       "symbol": "USDC",
       "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/usdc.png?1696506694",
       "assetGroup": "USDC",
-      "currencyId": "USD Coin::USDC ",
+      "currencyId": "USD Coin::USDC",
+      "tags": ["coingecko"]
+    },
+    "0x9fe4e6321eeb7c4bc537570f015e4734b15002b8": {
+      "chainId": "50",
+      "decimals": 6,
+      "name": "Australian Digital Dollar",
+      "address": "0x9fe4e6321eeb7c4bc537570f015e4734b15002b8",
+      "symbol": "AUDD",
+      "logoURI": "https://assets.coingecko.com/coins/images/33263/thumb/AUDD-Logo-Blue_512.png?1701319895",
+      "assetGroup": "Australian Digital Dollar::AUDD",
+      "currencyId": "Australian Digital Dollar::AUDD",
       "tags": ["coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {
@@ -467,7 +478,8 @@
     "0xc9b1b2842c60303a06f60fdd005654575d6ae466",
     "0xaec5eaf63402bf842d8642d917685e5ad3ba14bb",
     "0xb25cb6a275a8d6a613228fb161eb3627b50eb696",
-    "0xfa2958cb79b0491cc627c1557f441ef849ca8eb1"
+    "0xfa2958cb79b0491cc627c1557f441ef849ca8eb1",
+    "0x9fe4e6321eeb7c4bc537570f015e4734b15002b8"
   ],
   "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",

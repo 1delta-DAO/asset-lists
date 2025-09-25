@@ -52491,7 +52491,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69412/thumb/gain.png?1758537698",
       "assetGroup": "Griffin AI::GAIN",
       "currencyId": "Griffin AI::GAIN",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x9cac9837155a851e3d08639a40ae5bf18d968cd3": {
       "chainId": "56",
@@ -52579,7 +52579,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69096/thumb/0G_1024x1024_Circular_Outlined.png?1758637574",
       "assetGroup": "0G::0G",
       "currencyId": "0G::0G",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x4e24c684a90f2c1f9030a5608a6c3a6fa4e854f5": {
       "chainId": "56",
@@ -52678,7 +52678,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69339/thumb/Layer_1_%284%29.png?1758523043",
       "assetGroup": "Bless::BLESS",
       "currencyId": "Bless::BLESS",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x39bb4e6335459b4ed217b2c6a2d696deaaa21f3c": {
       "chainId": "56",
@@ -52711,6 +52711,50 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69318/thumb/river-token.png?1758523089",
       "assetGroup": "River::RIVER",
       "currencyId": "River::RIVER",
+      "tags": ["coingecko", "biconomy-gas-token"]
+    },
+    "0x9cb3ab4fb21cf910da2ce6800753dbd866784444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Clifford",
+      "address": "0x9cb3ab4fb21cf910da2ce6800753dbd866784444",
+      "symbol": "Clifford",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x9cB3Ab4fB21CF910DA2ce6800753dBD866784444.png",
+      "assetGroup": "Clifford::Clifford",
+      "currencyId": "Clifford::Clifford",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x405fbc9004d857903bfd6b3357792d71a50726b0": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Plasma",
+      "address": "0x405fbc9004d857903bfd6b3357792d71a50726b0",
+      "symbol": "XPL",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x405FBc9004D857903bFD6b3357792D71a50726b0.png",
+      "assetGroup": "Plasma::XPL",
+      "currencyId": "Plasma::XPL",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x6261963ebe9ff014aad10ecc3b0238d4d04e8353": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Hana Network",
+      "address": "0x6261963ebe9ff014aad10ecc3b0238d4d04e8353",
+      "symbol": "HANA",
+      "logoURI": "https://assets.coingecko.com/coins/images/67597/thumb/hana.jpg?1753245208",
+      "assetGroup": "Hana Network::HANA",
+      "currencyId": "Hana Network::HANA",
+      "tags": ["coingecko"]
+    },
+    "0x860de30baf288efaefd90f2700358d26d4fc4444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "RockyCat",
+      "address": "0x860de30baf288efaefd90f2700358d26d4fc4444",
+      "symbol": "RKC",
+      "logoURI": "https://assets.coingecko.com/coins/images/69503/thumb/WhatsApp_Image_2025-09-24_at_02.04.18_0a734d22.jpg?1758778919",
+      "assetGroup": "RockyCat::RKC",
+      "currencyId": "RockyCat::RKC",
       "tags": ["coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {

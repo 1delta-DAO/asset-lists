@@ -842,6 +842,17 @@
       "assetGroup": "ether.fi BTC::eBTC",
       "currencyId": "ether.fi BTC::eBTC"
     },
+    "0x89f17ab70cafb1468d633056161573efefea0713": {
+      "chainId": "534352",
+      "decimals": 18,
+      "name": "Restaked Swell ETH",
+      "address": "0x89f17ab70cafb1468d633056161573efefea0713",
+      "symbol": "RSWETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/34489/thumb/rswETH_Icon.png?1706865484",
+      "assetGroup": "Restaked Swell ETH::RSWETH",
+      "currencyId": "Restaked Swell ETH::RSWETH",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "534352",
       "decimals": 18,
@@ -884,7 +895,8 @@
     "0x406cde76a3fd20e48bc1e0f60651e60ae204b040",
     "0xca77eb3fefe3725dc33bccb54edefc3d9f764f97",
     "0xfec65bfb6e5bbcc9ab8ae98f62a8aab2ea51c495",
-    "0xdb9e8f82d6d45fff803161f2a5f75543972b229a"
+    "0xdb9e8f82d6d45fff803161f2a5f75543972b229a",
+    "0x61a9cc561b6c1f9c31bcdeb447afecf25f33bbf9"
   ],
   "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",

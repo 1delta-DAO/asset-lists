@@ -1901,8 +1901,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69439/thumb/vkhype.png?1758596795",
       "assetGroup": "Kinetiq Earn Vault::vkHYPE",
       "currencyId": "Kinetiq Earn Vault::vkHYPE",
-      "props": { "permit": { "type": 1, "version": "1" } },
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x81e064d0eb539de7c3170edf38c1a42cbd752a76": {
       "chainId": "999",
@@ -3610,15 +3610,7 @@
       "assetGroup": "PT Ethena sUSDE 25SEP2025::PT-sUSDE-25SEP2025",
       "currencyId": "PT Ethena sUSDE 25SEP2025::PT-sUSDE-25SEP2025",
       "tags": ["HYPERLEND"],
-      "props": {
-        "pendle": {
-          "tokenType": "PT",
-          "marketAddress": "0xe3765ec51aead35ea0a7f3745c1975a73dca21dc",
-          "syAddress": "0xcfaa9540332afa3974bceed79bdd24d86c5fd4ee",
-          "expiry": 1758758400,
-          "ytAddress": "0x92b8defe476f0d5ee957533f5b2f509190d12921"
-        }
-      }
+      "props": { "pendle": { "tokenType": "PT" } }
     },
     "0x9a12cb8869498d8826567437abea27be1c2ba9ab": {
       "chainId": "999",
@@ -3792,7 +3784,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69484/thumb/usdh.png?1758728903",
       "assetGroup": "USDH::USDH",
       "currencyId": "USDH::USDH",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xdfc7d2d003a053b2e0490531e9317a59962b511e": {
       "chainId": "999",
@@ -3803,7 +3795,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/53039/thumb/brBTC_200.png?1735074374",
       "assetGroup": "BRBTC",
       "currencyId": "brBTC::brBTC",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "999",

@@ -207,6 +207,17 @@
       "currencyId": "Ethena::ENA",
       "tags": ["coingecko"]
     },
+    "0xd8b29106d4cebad087c30b10c0e41baa3a9ea703": {
+      "chainId": "48900",
+      "decimals": 18,
+      "name": "Restaked Swell ETH",
+      "address": "0xd8b29106d4cebad087c30b10c0e41baa3a9ea703",
+      "symbol": "RSWETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/34489/thumb/rswETH_Icon.png?1706865484",
+      "assetGroup": "Restaked Swell ETH::RSWETH",
+      "currencyId": "Restaked Swell ETH::RSWETH",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "48900",
       "address": "0x0000000000000000000000000000000000000000",
@@ -231,7 +242,8 @@
     "0x3b952c8c9c44e8fe201e2b26f6b2200203214cff",
     "0x19df5689cfce64bc2a55f7220b0cd522659955ef",
     "0xdee94506570ca186bc1e3516fcf4fd719c312ccd",
-    "0x813635891aa06bd55036bbd8f7d1a34ab3de9a0f"
+    "0x813635891aa06bd55036bbd8f7d1a34ab3de9a0f",
+    "0xd8b29106d4cebad087c30b10c0e41baa3a9ea703"
   ],
   "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",
