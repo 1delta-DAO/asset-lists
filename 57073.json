@@ -295,6 +295,17 @@
       "currencyId": "ChainLink Token::LINK",
       "tags": ["coingecko"]
     },
+    "0x2d270e6886d130d724215a266106e6832161eaed": {
+      "chainId": "57073",
+      "decimals": 6,
+      "name": "USDC",
+      "address": "0x2d270e6886d130d724215a266106e6832161eaed",
+      "symbol": "USDC",
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/usdc.png?1696506694",
+      "assetGroup": "USDC",
+      "currencyId": "USDC::USDC",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "57073",
       "decimals": 18,
@@ -331,12 +342,14 @@
     "0x62c99fac20b33b5423fdf9226179e973a8353e36",
     "0x0606fc632ee812ba970af72f8489baaa443c4b98",
     "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
-    "0x71052bae71c25c78e37fd12e5ff1101a71d9018f"
+    "0x71052bae71c25c78e37fd12e5ff1101a71d9018f",
+    "0x2d270e6886d130d724215a266106e6832161eaed"
   ],
   "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",
     "0xf1815bd50389c46847f0bda824ec8da914045d14",
     "0x0200c29006150606b650577bbe7b6248f58470c1",
-    "0x4200000000000000000000000000000000000006"
+    "0x4200000000000000000000000000000000000006",
+    "0x2d270e6886d130d724215a266106e6832161eaed"
   ]
 }

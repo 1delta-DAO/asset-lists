@@ -11,12 +11,8 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6100e367285b01f48d07953803a2d8dca5d19873.png",
       "assetGroup": "XPL",
       "currencyId": "Wrapped XPL::WXPL",
-      "tags": [
-        "biconomy-gas-token"
-      ],
-      "props": {
-        "wnative": true
-      }
+      "tags": ["biconomy-gas-token", "wnative"],
+      "props": { "wnative": true }
     },
     "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb": {
       "chainId": "9745",
@@ -25,11 +21,10 @@
       "address": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
       "symbol": "USDT0",
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb.png",
-      "assetGroup": "USDT",
+      "assetGroup": "USDT0::USDT0",
       "currencyId": "USDT0::USDT0",
-      "tags": [
-        "biconomy-gas-token"
-      ]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x9895d81bb462a195b4922ed7de0e3acd007c32cb": {
       "chainId": "9745",
@@ -40,9 +35,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9895d81bb462a195b4922ed7de0e3acd007c32cb.png",
       "assetGroup": "ETH",
       "currencyId": "WETH::WETH",
-      "tags": [
-        "biconomy-gas-token"
-      ]
+      "tags": ["biconomy-gas-token"]
     },
     "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34": {
       "chainId": "9745",
@@ -53,9 +46,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34.png",
       "assetGroup": "USDE",
       "currencyId": "USDe::USDe",
-      "tags": [
-        "biconomy-gas-token"
-      ]
+      "tags": ["biconomy-gas-token"]
     },
     "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2": {
       "chainId": "9745",
@@ -66,9 +57,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2.png",
       "assetGroup": "SUSDE",
       "currencyId": "Staked USDe::sUSDe",
-      "tags": [
-        "biconomy-gas-token"
-      ]
+      "tags": ["biconomy-gas-token"]
     },
     "0xa3d68b74bf0528fdd07263c60d6488749044914b": {
       "chainId": "9745",
@@ -79,9 +68,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa3d68b74bf0528fdd07263c60d6488749044914b.png",
       "assetGroup": "WEETH",
       "currencyId": "Wrapped eETH::weETH",
-      "tags": [
-        "biconomy-gas-token"
-      ]
+      "tags": ["biconomy-gas-token"]
     },
     "0x1b64b9025eebb9a6239575df9ea4b9ac46d4d193": {
       "chainId": "9745",
@@ -92,9 +79,8 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1b64b9025eebb9a6239575df9ea4b9ac46d4d193.png",
       "assetGroup": "XAUt0::XAUt0",
       "currencyId": "XAUt0::XAUt0",
-      "tags": [
-        "biconomy-gas-token"
-      ]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x58538e6a46e07434d7e7375bc268d3cb839c0133": {
       "chainId": "9745",
@@ -105,9 +91,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x58538e6a46e07434d7e7375bc268d3cb839c0133.png",
       "assetGroup": "ENA::ENA",
       "currencyId": "ENA::ENA",
-      "tags": [
-        "biconomy-gas-token"
-      ]
+      "tags": ["biconomy-gas-token"]
     },
     "0x0a1a1a107e45b7ced86833863f482bc5f4ed82ef": {
       "chainId": "9745",
@@ -117,7 +101,8 @@
       "symbol": "USDai",
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0a1a1a107e45b7ced86833863f482bc5f4ed82ef.png",
       "assetGroup": "USDai::USDai",
-      "currencyId": "USDai::USDai"
+      "currencyId": "USDai::USDai",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x0b2b2b2076d95dda7817e785989fe353fe955ef9": {
       "chainId": "9745",
@@ -128,9 +113,8 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0b2b2b2076d95dda7817e785989fe353fe955ef9.png",
       "assetGroup": "Staked USDai::sUSDai",
       "currencyId": "Staked USDai::sUSDai",
-      "tags": [
-        "biconomy-gas-token"
-      ]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x87e617c7484ade79fcd90db58beb82b057facb48": {
       "chainId": "9745",
@@ -141,9 +125,8 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x87e617c7484ade79fcd90db58beb82b057facb48.png",
       "assetGroup": "OpenEden Open Dollar::USDO",
       "currencyId": "OpenEden Open Dollar::USDO",
-      "tags": [
-        "biconomy-gas-token"
-      ]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xbeee5862649ef24c1f1d5e799505f67f1e7bab9a": {
       "chainId": "9745",
@@ -154,9 +137,8 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xbeee5862649ef24c1f1d5e799505f67f1e7bab9a.png",
       "assetGroup": "Compounding Open Dollar::cUSDO",
       "currencyId": "Compounding Open Dollar::cUSDO",
-      "tags": [
-        "biconomy-gas-token"
-      ]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x9ecaf80c1303cca8791afbc0ad405c8a35e8d9f1": {
       "chainId": "9745",
@@ -167,9 +149,118 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9ecaf80c1303cca8791afbc0ad405c8a35e8d9f1.png",
       "assetGroup": "RSETH",
       "currencyId": "KelpDao Restaked ETH::rsETH",
-      "tags": [
-        "biconomy-gas-token"
-      ]
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xe561fe05c39075312aa9bc6af79ddae981461359": {
+      "chainId": "9745",
+      "decimals": 18,
+      "name": "rsETHWrapper",
+      "address": "0xe561fe05c39075312aa9bc6af79ddae981461359",
+      "symbol": "wrsETH",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe561fe05c39075312aa9bc6af79ddae981461359.png",
+      "assetGroup": "rsETHWrapper::wrsETH",
+      "currencyId": "rsETHWrapper::wrsETH",
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
+    },
+    "0xa31c7ddad8f1d66d037c4ee76f8fb725f927bc25": {
+      "chainId": "9745",
+      "decimals": 18,
+      "name": "Wrapped Aave Plasma sUSDe",
+      "address": "0xa31c7ddad8f1d66d037c4ee76f8fb725f927bc25",
+      "symbol": "waPlasUSDe",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa31c7ddad8f1d66d037c4ee76f8fb725f927bc25.png",
+      "assetGroup": "Wrapped Aave Plasma sUSDe::waPlasUSDe",
+      "currencyId": "Wrapped Aave Plasma sUSDe::waPlasUSDe",
+      "props": { "permit": { "type": 1, "version": "1" } }
+    },
+    "0xc63f1a8c0cd4493e18f6f3371182be01ce0bef02": {
+      "chainId": "9745",
+      "decimals": 18,
+      "name": "Wrapped Aave Plasma USDe",
+      "address": "0xc63f1a8c0cd4493e18f6f3371182be01ce0bef02",
+      "symbol": "waPlaUSDe",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc63f1a8c0cd4493e18f6f3371182be01ce0bef02.png",
+      "assetGroup": "Wrapped Aave Plasma USDe::waPlaUSDe",
+      "currencyId": "Wrapped Aave Plasma USDe::waPlaUSDe",
+      "props": { "permit": { "type": 1, "version": "1" } }
+    },
+    "0xe0126f0c4451b2b917064a93040fd4770d6774b5": {
+      "chainId": "9745",
+      "decimals": 6,
+      "name": "Wrapped Aave Plasma USDT0",
+      "address": "0xe0126f0c4451b2b917064a93040fd4770d6774b5",
+      "symbol": "waPlaUSDT0",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe0126f0c4451b2b917064a93040fd4770d6774b5.png",
+      "assetGroup": "Wrapped Aave Plasma USDT0::waPlaUSDT0",
+      "currencyId": "Wrapped Aave Plasma USDT0::waPlaUSDT0",
+      "props": { "permit": { "type": 1, "version": "1" } }
+    },
+    "0x893df8f4bbfebc313fc52a53e2e23487acb28181": {
+      "chainId": "9745",
+      "decimals": 18,
+      "name": "Wrapped Aave Plasma weETH",
+      "address": "0x893df8f4bbfebc313fc52a53e2e23487acb28181",
+      "symbol": "waPlaweETH",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x893df8f4bbfebc313fc52a53e2e23487acb28181.png",
+      "assetGroup": "Wrapped Aave Plasma weETH::waPlaweETH",
+      "currencyId": "Wrapped Aave Plasma weETH::waPlaweETH",
+      "props": { "permit": { "type": 1, "version": "1" } }
+    },
+    "0xa047fdfb3420a27a5f926735b475fe5a1e968786": {
+      "chainId": "9745",
+      "decimals": 18,
+      "name": "Wrapped Aave Plasma WETH",
+      "address": "0xa047fdfb3420a27a5f926735b475fe5a1e968786",
+      "symbol": "waPlaWETH",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa047fdfb3420a27a5f926735b475fe5a1e968786.png",
+      "assetGroup": "Wrapped Aave Plasma WETH::waPlaWETH",
+      "currencyId": "Wrapped Aave Plasma WETH::waPlaWETH",
+      "props": { "permit": { "type": 1, "version": "1" } }
+    },
+    "0x6eaf19b2fc24552925db245f9ff613157a7dbb4c": {
+      "chainId": "9745",
+      "decimals": 6,
+      "name": "Staked Stream USD",
+      "address": "0x6eaf19b2fc24552925db245f9ff613157a7dbb4c",
+      "symbol": "xUSD",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c_9745.png",
+      "assetGroup": "Staked Stream USD::xUSD",
+      "currencyId": "Staked Stream USD::xUSD",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xb1b385542b6e80f77b94393ba8342c3af699f15c": {
+      "chainId": "9745",
+      "decimals": 18,
+      "name": "Resolv USR",
+      "address": "0xb1b385542b6e80f77b94393ba8342c3af699f15c",
+      "symbol": "USR",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110/791c489bf30421cfded8d372726503e6.png",
+      "assetGroup": "Resolv USR::USR",
+      "currencyId": "Resolv USR::USR",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x35533f54740f1f1aa4179e57ba37039dfa16868b": {
+      "chainId": "9745",
+      "decimals": 18,
+      "name": "Resolv RLP",
+      "address": "0x35533f54740f1f1aa4179e57ba37039dfa16868b",
+      "symbol": "RLP",
+      "logoURI": "https://assets.coingecko.com/coins/images/40017/thumb/orangeLogo..png?1725344586",
+      "assetGroup": "Resolv RLP::RLP",
+      "currencyId": "Resolv RLP::RLP",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x2a52b289ba68bbd02676640aa9f605700c9e5699": {
+      "chainId": "9745",
+      "decimals": 18,
+      "name": "Resolv wstUSR",
+      "address": "0x2a52b289ba68bbd02676640aa9f605700c9e5699",
+      "symbol": "WSTUSR",
+      "logoURI": "https://assets.coingecko.com/coins/images/51880/thumb/USR_LOGO.png?1732098841",
+      "assetGroup": "Resolv wstUSR::WSTUSR",
+      "currencyId": "Resolv wstUSR::WSTUSR",
+      "tags": ["biconomy-gas-token"]
     },
     "0x92a01ab7317ac318b39b00eb6704ba56f0245d7a": {
       "chainId": "9745",
@@ -181,137 +272,37 @@
       "assetGroup": "trillions",
       "currencyId": "trillions::trillions"
     },
-    "0xe561fe05c39075312aa9bc6af79ddae981461359": {
-      "chainId": "9745",
-      "decimals": 18,
-      "name": "rsETHWrapper",
-      "address": "0xe561fe05c39075312aa9bc6af79ddae981461359",
-      "symbol": "wrsETH",
-      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe561fe05c39075312aa9bc6af79ddae981461359.png",
-      "assetGroup": "rsETHWrapper::wrsETH",
-      "currencyId": "rsETHWrapper::wrsETH",
-      "tags": [
-        "biconomy-gas-token"
-      ]
-    },
-    "0xa31c7ddad8f1d66d037c4ee76f8fb725f927bc25": {
-      "chainId": "9745",
-      "decimals": 18,
-      "name": "Wrapped Aave Plasma sUSDe",
-      "address": "0xa31c7ddad8f1d66d037c4ee76f8fb725f927bc25",
-      "symbol": "waPlasUSDe",
-      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa31c7ddad8f1d66d037c4ee76f8fb725f927bc25.png",
-      "assetGroup": "Wrapped Aave Plasma sUSDe::waPlasUSDe",
-      "currencyId": "Wrapped Aave Plasma sUSDe::waPlasUSDe"
-    },
-    "0xc63f1a8c0cd4493e18f6f3371182be01ce0bef02": {
-      "chainId": "9745",
-      "decimals": 18,
-      "name": "Wrapped Aave Plasma USDe",
-      "address": "0xc63f1a8c0cd4493e18f6f3371182be01ce0bef02",
-      "symbol": "waPlaUSDe",
-      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc63f1a8c0cd4493e18f6f3371182be01ce0bef02.png",
-      "assetGroup": "Wrapped Aave Plasma USDe::waPlaUSDe",
-      "currencyId": "Wrapped Aave Plasma USDe::waPlaUSDe"
-    },
-    "0xe0126f0c4451b2b917064a93040fd4770d6774b5": {
+    "0xd1074e0ae85610ddba0147e29ebe0d8e5873a000": {
       "chainId": "9745",
       "decimals": 6,
-      "name": "Wrapped Aave Plasma USDT0",
-      "address": "0xe0126f0c4451b2b917064a93040fd4770d6774b5",
-      "symbol": "waPlaUSDT0",
-      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe0126f0c4451b2b917064a93040fd4770d6774b5.png",
-      "assetGroup": "Wrapped Aave Plasma USDT0::waPlaUSDT0",
-      "currencyId": "Wrapped Aave Plasma USDT0::waPlaUSDT0"
+      "name": "Plasma USD Vault",
+      "address": "0xd1074e0ae85610ddba0147e29ebe0d8e5873a000",
+      "symbol": "PlasmaUSD",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd1074e0ae85610ddba0147e29ebe0d8e5873a000.png",
+      "assetGroup": "Plasma USD Vault::PlasmaUSD",
+      "currencyId": "Plasma USD Vault::PlasmaUSD"
     },
-    "0x893df8f4bbfebc313fc52a53e2e23487acb28181": {
-      "chainId": "9745",
-      "decimals": 18,
-      "name": "Wrapped Aave Plasma weETH",
-      "address": "0x893df8f4bbfebc313fc52a53e2e23487acb28181",
-      "symbol": "waPlaweETH",
-      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x893df8f4bbfebc313fc52a53e2e23487acb28181.png",
-      "assetGroup": "Wrapped Aave Plasma weETH::waPlaweETH",
-      "currencyId": "Wrapped Aave Plasma weETH::waPlaweETH"
-    },
-    "0xa047fdfb3420a27a5f926735b475fe5a1e968786": {
-      "chainId": "9745",
-      "decimals": 18,
-      "name": "Wrapped Aave Plasma WETH",
-      "address": "0xa047fdfb3420a27a5f926735b475fe5a1e968786",
-      "symbol": "waPlaWETH",
-      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa047fdfb3420a27a5f926735b475fe5a1e968786.png",
-      "assetGroup": "Wrapped Aave Plasma WETH::waPlaWETH",
-      "currencyId": "Wrapped Aave Plasma WETH::waPlaWETH"
-    },
-    "0x6eaf19b2fc24552925db245f9ff613157a7dbb4c": {
+    "0xc4374775489cb9c56003bf2c9b12495fc64f0771": {
       "chainId": "9745",
       "decimals": 6,
-      "name": "Staked Stream USD",
-      "address": "0x6eaf19b2fc24552925db245f9ff613157a7dbb4c",
-      "symbol": "xUSD",
-      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6eaf19b2fc24552925db245f9ff613157a7dbb4c_9745.png",
-      "assetGroup": "Staked Stream USD::xUSD",
-      "currencyId": "Staked Stream USD::xUSD",
-      "tags": [
-        "biconomy-gas-token"
-      ]
-    },
-    "0xb1b385542b6e80f77b94393ba8342c3af699f15c": {
-      "chainId": "9745",
-      "decimals": 18,
-      "name": "Resolv USR",
-      "address": "0xb1b385542b6e80f77b94393ba8342c3af699f15c",
-      "symbol": "USR",
-      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110/791c489bf30421cfded8d372726503e6.png",
-      "assetGroup": "Resolv USR::USR",
-      "currencyId": "Resolv USR::USR",
-      "tags": [
-        "biconomy-gas-token"
-      ]
-    },
-    "0x35533f54740f1f1aa4179e57ba37039dfa16868b": {
-      "chainId": "9745",
-      "decimals": 18,
-      "name": "Resolv RLP",
-      "address": "0x35533f54740f1f1aa4179e57ba37039dfa16868b",
-      "symbol": "RLP",
-      "logoURI": "https://assets.coingecko.com/coins/images/40017/thumb/orangeLogo..png?1725344586",
-      "assetGroup": "Resolv RLP::RLP",
-      "currencyId": "Resolv RLP::RLP",
-      "tags": [
-        "biconomy-gas-token"
-      ]
-    },
-    "0x2a52b289ba68bbd02676640aa9f605700c9e5699": {
-      "chainId": "9745",
-      "decimals": 18,
-      "name": "Resolv wstUSR",
-      "address": "0x2a52b289ba68bbd02676640aa9f605700c9e5699",
-      "symbol": "WSTUSR",
-      "logoURI": "https://assets.coingecko.com/coins/images/51880/thumb/USR_LOGO.png?1732098841",
-      "assetGroup": "Resolv wstUSR::WSTUSR",
-      "currencyId": "Resolv wstUSR::WSTUSR",
-      "tags": [
-        "biconomy-gas-token"
-      ]
+      "name": "Syrup USDT",
+      "address": "0xc4374775489cb9c56003bf2c9b12495fc64f0771",
+      "symbol": "syrupUSDT",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/69514/large/SyrupUSDT.png?1758823529",
+      "assetGroup": "Syrup USDT::syrupUSDT",
+      "currencyId": "Syrup USDT::syrupUSDT"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "9745",
-      "address": "0x0000000000000000000000000000000000000000",
-      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/xpl.webp",
-      "currencyId": "Plasma::XPL",
-      "tags": [
-        "native"
-      ],
-      "props": {
-        "isNative": true,
-        "wrapped": "0x6100e367285b01f48d07953803a2d8dca5d19873"
-      },
+      "decimals": 18,
       "name": "Plasma",
+      "address": "0x0000000000000000000000000000000000000000",
       "symbol": "XPL",
+      "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/xpl.webp",
       "assetGroup": "XPL",
-      "decimals": 18
+      "currencyId": "Plasma::XPL",
+      "tags": ["native", "biconomy-gas-token", "wrapped:0x6100e367285b01f48d07953803a2d8dca5d19873"],
+      "props": { "isNative": true, "wrapped": "0x6100e367285b01f48d07953803a2d8dca5d19873" }
     }
   },
   "mainTokens": [

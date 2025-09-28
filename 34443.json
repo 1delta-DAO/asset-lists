@@ -711,6 +711,17 @@
       "currencyId": "Wrapped FRAX::WFRAX",
       "tags": ["coingecko"]
     },
+    "0x102d758f688a4c1c5a80b116bd945d4455460282": {
+      "chainId": "34443",
+      "decimals": 6,
+      "name": "Stargate Bridged USDT0",
+      "address": "0x102d758f688a4c1c5a80b116bd945d4455460282",
+      "symbol": "USDT0",
+      "logoURI": "https://assets.coingecko.com/coins/images/69528/thumb/usdt0.jpg?1758873945",
+      "assetGroup": "Stargate Bridged USDT0::USDT0",
+      "currencyId": "Stargate Bridged USDT0::USDT0",
+      "tags": ["stargate", "bridged", "coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "34443",
       "decimals": 18,

@@ -3797,6 +3797,28 @@
       "currencyId": "brBTC::brBTC",
       "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
+    "0x9c3bcc457862dd6d8907ba11f8c7fe7e43a8c08b": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Upheaval Finance",
+      "address": "0x9c3bcc457862dd6d8907ba11f8c7fe7e43a8c08b",
+      "symbol": "UPHL",
+      "logoURI": "https://assets.coingecko.com/coins/images/69562/thumb/uphl_.png?1759040242",
+      "assetGroup": "Upheaval Finance::UPHL",
+      "currencyId": "Upheaval Finance::UPHL",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x33af3c2540ba72054e044efe504867b39ae421f5": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Unit Plasma",
+      "address": "0x33af3c2540ba72054e044efe504867b39ae421f5",
+      "symbol": "UXPL",
+      "logoURI": "https://assets.coingecko.com/coins/images/69561/thumb/plasma.png?1759039851",
+      "assetGroup": "Unit Plasma::UXPL",
+      "currencyId": "Unit Plasma::UXPL",
+      "tags": ["coingecko", "debridge"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "999",
       "decimals": 18,
