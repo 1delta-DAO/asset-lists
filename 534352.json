@@ -763,7 +763,8 @@
       "symbol": "Cake",
       "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82/9003539eb61139bd494b7412b785d482.png",
       "assetGroup": "CAKE",
-      "currencyId": "PancakeSwap Token::Cake"
+      "currencyId": "PancakeSwap Token::Cake",
+      "tags": ["biconomy-gas-token"]
     },
     "0x25718130c2a8eb94e2e1fafb5f1cdd4b459acf64": {
       "chainId": "534352",
@@ -810,8 +811,10 @@
       "name": "PufferVault",
       "address": "0xc4d46e8402f476f269c379677c99f18e22ea030e",
       "symbol": "PufETH",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xd9a442856c234a39a81a089c06451ebaa4306a72/d57c0830dcc41d8830c6be5b079b2e6d.png",
       "assetGroup": "PufferVault::PufETH",
-      "currencyId": "PufferVault::PufETH"
+      "currencyId": "PufferVault::PufETH",
+      "tags": ["biconomy-gas-token"]
     },
     "0xc19669a405067927865b40ea045a2baabbbe57f5": {
       "chainId": "534352",
@@ -854,6 +857,17 @@
       "assetGroup": "Restaked Swell ETH::RSWETH",
       "currencyId": "Restaked Swell ETH::RSWETH",
       "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xb448ec505c924944ca8b2c55ef05c299ee0781df": {
+      "chainId": "534352",
+      "decimals": 18,
+      "name": "Axelar Wrapped KNC",
+      "address": "0xb448ec505c924944ca8b2c55ef05c299ee0781df",
+      "symbol": "KNC",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202/1d25e188deb06e642ea6f4f4f8eb0a0c.png",
+      "assetGroup": "Axelar Wrapped KNC::KNC",
+      "currencyId": "Axelar Wrapped KNC::KNC",
+      "tags": ["axelar", "bridged", "biconomy-gas-token"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "534352",

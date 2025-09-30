@@ -7734,7 +7734,8 @@
       "symbol": "NW",
       "logoURI": "https://api.swapscanner.io/v0/tokens/0xa8bcf517dc50b2bd34f91c66b0cf9e1c5ceba6eb/icon",
       "assetGroup": "Nomadworks::NW",
-      "currencyId": "Nomadworks::NW"
+      "currencyId": "Nomadworks::NW",
+      "tags": ["nomad", "bridged"]
     },
     "0x2a38b82bdc34f8acdc77aca8ab3289eaedc594b8": {
       "chainId": "8217",
@@ -10840,6 +10841,57 @@
       "logoURI": "https://api.swapscanner.io/v0/tokens/0x18bc5bcc660cf2b9ce3cd51a404afe1a0cbd3c22/icon",
       "assetGroup": "IDRX::IDRX::8217::0",
       "currencyId": "IDRX::IDRX"
+    },
+    "0xd077a400968890eacc75cdc901f0356c943e4fdb": {
+      "chainId": "8217",
+      "decimals": 6,
+      "name": "Tether USD",
+      "address": "0xd077a400968890eacc75cdc901f0356c943e4fdb",
+      "symbol": "USD₮",
+      "logoURI": "https://api.swapscanner.io/v0/tokens/0xd077a400968890eacc75cdc901f0356c943e4fdb/icon",
+      "assetGroup": "Tether USD::USD₮",
+      "currencyId": "Tether USD::USD₮",
+      "tags": ["AVALON"]
+    },
+    "0x47cc74d34b6832105c2eb240059f8c16ed29c75f": {
+      "chainId": "8217",
+      "decimals": 18,
+      "name": "!!@#",
+      "address": "0x47cc74d34b6832105c2eb240059f8c16ed29c75f",
+      "symbol": "!!@#",
+      "logoURI": "https://api.swapscanner.io/v0/tokens/0x47cc74d34b6832105c2eb240059f8c16ed29c75f/icon",
+      "assetGroup": "!!@#::!!@#",
+      "currencyId": "!!@#::!!@#"
+    },
+    "0x65d92ea674fa2c9f7549a756dc771ddb756e1720": {
+      "chainId": "8217",
+      "decimals": 18,
+      "name": "APE#44",
+      "address": "0x65d92ea674fa2c9f7549a756dc771ddb756e1720",
+      "symbol": "A#4",
+      "logoURI": "https://api.swapscanner.io/v0/tokens/0x65d92ea674fa2c9f7549a756dc771ddb756e1720/icon",
+      "assetGroup": "APE#44::A#4",
+      "currencyId": "APE#44::A#4"
+    },
+    "0x81814df7c0d9fecc3b74123f2862728ac9534f12": {
+      "chainId": "8217",
+      "decimals": 18,
+      "name": "Pi 2.0",
+      "address": "0x81814df7c0d9fecc3b74123f2862728ac9534f12",
+      "symbol": "3,14",
+      "logoURI": "https://api.swapscanner.io/v0/tokens/0x81814df7c0d9fecc3b74123f2862728ac9534f12/icon",
+      "assetGroup": "Pi 2.0::3,14",
+      "currencyId": "Pi 2.0::3,14"
+    },
+    "0xeae4e49b7383b3efec045ca9dbe2d88f5d839144": {
+      "chainId": "8217",
+      "decimals": 18,
+      "name": "클사오적",
+      "address": "0xeae4e49b7383b3efec045ca9dbe2d88f5d839144",
+      "symbol": "클사오적",
+      "logoURI": "https://ss.new.klayswap.com/data/img/token/0xeae4e49b7383b3efec045ca9dbe2d88f5d839144/icon.png?v=1737453542454",
+      "assetGroup": "클사오적::클사오적",
+      "currencyId": "클사오적::클사오적"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "8217",

@@ -1949,6 +1949,50 @@
       "currencyId": "CROTCH::CROTCH",
       "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
+    "0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6": {
+      "chainId": "59144",
+      "decimals": 6,
+      "name": "Axelar Wrapped USDT",
+      "address": "0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6",
+      "symbol": "USDT",
+      "logoURI": "https://static.debank.com/image/coin/logo_url/usdt/23af7472292cb41dc39b3f1146ead0fe.png",
+      "assetGroup": "Axelar Wrapped USDT::USDT",
+      "currencyId": "Axelar Wrapped USDT::USDT",
+      "tags": ["axelar", "bridged", "biconomy-gas-token"]
+    },
+    "0x6c6470898882b65e0275723d883a0d877aade43f": {
+      "chainId": "59144",
+      "decimals": 6,
+      "name": "Bridged USDT (deBridge)",
+      "address": "0x6c6470898882b65e0275723d883a0d877aade43f",
+      "symbol": "USDT",
+      "logoURI": "https://static.debank.com/image/coin/logo_url/usdt/23af7472292cb41dc39b3f1146ead0fe.png",
+      "assetGroup": "USDT",
+      "currencyId": "Bridged USDT (deBridge)::USDT",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xb448ec505c924944ca8b2c55ef05c299ee0781df": {
+      "chainId": "59144",
+      "decimals": 18,
+      "name": "Axelar Wrapped KNC",
+      "address": "0xb448ec505c924944ca8b2c55ef05c299ee0781df",
+      "symbol": "KNC",
+      "logoURI": "https://static.debank.com/image/linea_token/logo_url/0xb448ec505c924944ca8b2c55ef05c299ee0781df/babb08402e4eb7819d92673b3e694d68.png",
+      "assetGroup": "Axelar Wrapped KNC::KNC",
+      "currencyId": "Axelar Wrapped KNC::KNC",
+      "tags": ["axelar", "bridged", "biconomy-gas-token"]
+    },
+    "0x5860a0bf37133f8461b2dede7c80e55d6bff3721": {
+      "chainId": "59144",
+      "decimals": 18,
+      "name": "Frax Share",
+      "address": "0x5860a0bf37133f8461b2dede7c80e55d6bff3721",
+      "symbol": "FXS",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0/eeccdc91b87a4e2db914d0290eea8e6d.png",
+      "assetGroup": "Frax Share::FXS",
+      "currencyId": "Frax Share::FXS",
+      "tags": ["biconomy-gas-token"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "59144",
       "decimals": 18,

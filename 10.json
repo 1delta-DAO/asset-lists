@@ -22,7 +22,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/aave.webp",
       "assetGroup": "AAVE",
       "currencyId": "Aave::AAVE",
-      "tags": ["debridge", "biconomy-gas-token", "AAVE_V3"]
+      "tags": ["debridge", "biconomy-gas-token", "AAVE_V3"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xff733b2a3557a7ed6697007ab5d11b79fdd1b76b": {
       "chainId": "10",
@@ -66,7 +67,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/19055/large/BitANT.png?1634264861",
       "assetGroup": "BITANT",
       "currencyId": "BitANT::BITANT",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xef4461891dfb3ac8572ccf7c794664a8dd927945": {
       "chainId": "10",
@@ -77,7 +79,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/50390/thumb/wc-token1.png?1727569464",
       "assetGroup": "WalletConnect Token::WCT",
       "currencyId": "WalletConnect Token::WCT",
-      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x3e7ef8f50246f725885102e8238cbba33f276747": {
       "chainId": "10",
@@ -99,7 +102,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/9576/thumb/BUSD.png?1568947766",
       "assetGroup": "BUSD",
       "currencyId": "Binance USD::BUSD",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x57f5e098cad7a3d1eed53991d4d66c45c9af7812": {
       "chainId": "10",
@@ -110,7 +114,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/33785/thumb/wUSDM_PNG_240px.png?1702981552",
       "assetGroup": "WUSDM",
       "currencyId": "Wrapped USDM::WUSDM",
-      "tags": ["debridge", "biconomy-gas-token", "COMPOUND_V3_USDC", "COMPOUND_V3_USDT"]
+      "tags": ["debridge", "biconomy-gas-token", "COMPOUND_V3_USDC", "COMPOUND_V3_USDT"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x7e7d4467112689329f7e06571ed0e8cbad4910ee": {
       "chainId": "10",
@@ -143,7 +148,8 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
       "assetGroup": "DAI",
       "currencyId": "Dai Stablecoin::DAI",
-      "tags": ["openocean", "debridge", "biconomy-gas-token", "AAVE_V3", "GRANARY", "XLEND"]
+      "tags": ["openocean", "debridge", "biconomy-gas-token", "AAVE_V3", "GRANARY", "XLEND"],
+      "props": { "permit": { "type": 1, "version": "2" } }
     },
     "0x9e5aac1ba1a2e6aed6b32689dfcf62a509ca96f3": {
       "chainId": "10",
@@ -242,7 +248,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/24944/large/FPIS_icon.png?1679886817",
       "assetGroup": "FPIS",
       "currencyId": "Frax Price Index Share::FPIS",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x117cfd9060525452db4a34d51c0b3b7599087f05": {
       "chainId": "10",
@@ -264,7 +271,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/25445/large/hop.png?1665541677",
       "assetGroup": "HOP",
       "currencyId": "Hop Protocol::HOP",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xf98dcd95217e15e05d8638da4c91125e59590b07": {
       "chainId": "10",
@@ -373,7 +381,8 @@
         "COMPOUND_V3_USDC",
         "COMPOUND_V3_USDT",
         "VENUS"
-      ]
+      ],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x6af3cb766d6cd37449bfd321d961a61b0515c1bc": {
       "chainId": "10",
@@ -395,7 +404,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/37919/thumb/rseth.png?1715936438",
       "assetGroup": "RSETH",
       "currencyId": "Wrapped rsETH::wrsETH",
-      "tags": ["debridge", "biconomy-gas-token", "COMPOUND_V3_WETH"]
+      "tags": ["debridge", "biconomy-gas-token", "COMPOUND_V3_WETH"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x346e03f8cce9fe01dcb3d0da3e9d00dc2c0e08f0": {
       "chainId": "10",
@@ -417,7 +427,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/33033/thumb/weETH.png?1701438396",
       "assetGroup": "WEETH",
       "currencyId": "Wrapped eETH::weETH",
-      "tags": ["COMPOUND_V3_WETH", "debridge"]
+      "tags": ["COMPOUND_V3_WETH", "debridge", "biconomy-gas-token"]
     },
     "0x2416092f143378750bb29b79ed961ab195cceea5": {
       "chainId": "10",
@@ -428,7 +438,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/34753/thumb/Ezeth_logo_circle.png?1713496404",
       "assetGroup": "EZETH",
       "currencyId": "Renzo Restaked ETH::ezETH",
-      "tags": ["biconomy-gas-token", "COMPOUND_V3_WETH"]
+      "tags": ["biconomy-gas-token", "COMPOUND_V3_WETH"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x00f932f0fe257456b32deda4758922e56a4f4b42": {
       "chainId": "10",
@@ -758,7 +769,8 @@
         "COMPOUND_V3_USDC",
         "COMPOUND_V3_WETH",
         "COMPOUND_V3_USDT"
-      ]
+      ],
+      "props": { "permit": { "type": 1, "version": "2" } }
     },
     "0x3e5d9d8a63cc8a88748f229999cf59487e90721e": {
       "chainId": "10",
@@ -890,7 +902,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/frax_logo.png?1608476506",
       "assetGroup": "FRAX",
       "currencyId": "Frax::FRAX",
-      "tags": ["openocean", "debridge", "biconomy-gas-token"]
+      "tags": ["openocean", "debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x67ccea5bb16181e7b4109c9c2143c24a1c2205be": {
       "chainId": "10",
@@ -901,7 +914,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/13423/thumb/frax_share.png?1608478989",
       "assetGroup": "FXS",
       "currencyId": "Frax Share::FXS",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x1eba7a6a72c894026cd654ac5cdcf83a46445b08": {
       "chainId": "10",
@@ -923,7 +937,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/14191/thumb/icon_gyen_200_200.png?1614843343",
       "assetGroup": "GYEN",
       "currencyId": "GYEN::GYEN",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x3a18dcc9745edcd1ef33ecb93b0b6eba5671e7ca": {
       "chainId": "10",
@@ -934,7 +949,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/20685/standard/kuji-200x200.png",
       "assetGroup": "KUJI",
       "currencyId": "Kujira::KUJI",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xfdb794692724153d1488ccdbe0c56c252596735f": {
       "chainId": "10",
@@ -1055,7 +1071,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/12538/standard/Logo_200x_200.png?1696512350",
       "assetGroup": "Velodrome Finance::VELO",
       "currencyId": "Velodrome Finance::VELO",
-      "tags": ["openocean", "debridge", "biconomy-gas-token"]
+      "tags": ["openocean", "debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x871f2f2ff935fd1ed867842ff2a7bfd051a5e527": {
       "chainId": "10",
@@ -1121,7 +1138,8 @@
       "logoURI": "https://assets.smold.app/api/token/10/0x00a35FD824c717879BF370E70AC6868b95870Dfb/logo-128.png",
       "assetGroup": "IronBank::IB",
       "currencyId": "IronBank::IB",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x1e925de1c68ef83bd98ee3e130ef14a50309c01b": {
       "chainId": "10",
@@ -1132,7 +1150,8 @@
       "logoURI": "https://assets.smold.app/api/token/10/0x1e925De1c68ef83bD98eE3E130eF14a50309C01B/logo-128.png",
       "assetGroup": "exactly::EXA",
       "currencyId": "exactly::EXA",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x217d47011b23bb961eb6d93ca9945b7501a5bb11": {
       "chainId": "10",
@@ -1165,7 +1184,8 @@
       "logoURI": "https://assets.smold.app/api/token/10/0x323665443CEf804A3b5206103304BD4872EA4253/logo-128.png",
       "assetGroup": "USDV",
       "currencyId": "USDV::USDV",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x3e29d3a9316dab217754d13b28646b76607c5f04": {
       "chainId": "10",
@@ -1176,7 +1196,8 @@
       "logoURI": "https://assets.smold.app/api/token/10/0x3E29D3A9316dAB217754d13b28646B76607c5f04/logo-128.png",
       "assetGroup": "Alchemix ETH::alETH",
       "currencyId": "Alchemix ETH::alETH",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x528cdc92eab044e1e39fe43b9514bfdab4412b98": {
       "chainId": "10",
@@ -1209,7 +1230,8 @@
       "logoURI": "https://assets.smold.app/api/token/10/0x6c84a8f1c29108F47a79964b5Fe888D4f4D0dE40/logo-128.png",
       "assetGroup": "Optimism tBTC v2::tBTC",
       "currencyId": "Optimism tBTC v2::tBTC",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x73cb180bf0521828d8849bc8cf2b920918e23032": {
       "chainId": "10",
@@ -1264,7 +1286,8 @@
       "logoURI": "https://assets.smold.app/api/token/10/0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A/logo-128.png",
       "assetGroup": "Alchemix USD::alUSD",
       "currencyId": "Alchemix USD::alUSD",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xe405de8f52ba7559f9df3c368500b6e6ae6cee49": {
       "chainId": "10",
@@ -1286,7 +1309,8 @@
       "logoURI": "https://assets.smold.app/api/token/10/0xc55E93C62874D8100dBd2DfE307EDc1036ad5434/logo-128.png",
       "assetGroup": "Moo BIFI::mooBIFI",
       "currencyId": "Moo BIFI::mooBIFI",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xdfa46478f9e5ea86d57387849598dbfb2e964b02": {
       "chainId": "10",
@@ -1308,7 +1332,8 @@
       "logoURI": "https://tokens.1inch.io/0xeeeeeb57642040be42185f49c52f7e9b38f8eeee.png",
       "assetGroup": "Elk::ELK",
       "currencyId": "Elk::ELK",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x3c8b650257cfb5f272f799f5e2b4e65093a11a05": {
       "chainId": "10",
@@ -1460,7 +1485,8 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/31274/large/token.png?1715826754",
       "assetGroup": "CYBER::CYBER",
       "currencyId": "CYBER::CYBER",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xdc6ff44d5d932cbd77b52e5612ba0529dc6226f1": {
       "chainId": "10",
@@ -1493,7 +1519,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/31002/thumb/uusdt_D_3x.png?1696529840",
       "assetGroup": "USDT",
       "currencyId": "Bridged USDT (Axelar)::axlUSDT",
-      "tags": ["axelar", "bridged", "debridge", "biconomy-gas-token"]
+      "tags": ["axelar", "bridged", "debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x2dad3a13ef0c6366220f989157009e501e7938f8": {
       "chainId": "10",
@@ -1548,7 +1575,8 @@
       "logoURI": "https://static.debank.com/image/op_token/logo_url/0x724dc807b04555b71ed48a6896b6f41593b8c637/e378fb8297c06556f3a177a121b07e83.png",
       "assetGroup": "Aave v3 rETH::aOptrETH",
       "currencyId": "Aave v3 rETH::aOptrETH",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x4e200fe2f3efb977d5fd9c430a41531fb04d97b8": {
       "chainId": "10",
@@ -1581,7 +1609,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x23ee2343b892b1bb63503a4fabc840e0e2c6810f/small/token-logo.png",
       "assetGroup": "AXL",
       "currencyId": "Axelar::AXL",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x1d1498166ddceee616a6d99868e1e0677300056f": {
       "chainId": "10",
@@ -1592,7 +1621,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x1d1498166ddceee616a6d99868e1e0677300056f/small/token-logo.png",
       "assetGroup": "Space Token::xSPACE",
       "currencyId": "Space Token::xSPACE",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x17aabf6838a6303fc6e9c5a227dc1eb6d95c829a": {
       "chainId": "10",
@@ -1614,7 +1644,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x078f358208685046a11c85e8ad32895ded33a249/small/token-logo.png",
       "assetGroup": "Aave v3 WBTC::aOptWBTC",
       "currencyId": "Aave v3 WBTC::aOptWBTC",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8": {
       "chainId": "10",
@@ -1625,7 +1656,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xe50fa9b3c56ffb159cb0fca61f5c9d750e8128c8/small/token-logo.png",
       "assetGroup": "Aave v3 WETH::aOptWETH",
       "currencyId": "Aave v3 WETH::aOptWETH",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xe2dca969624795985f2f083bcd0b674337ba130a": {
       "chainId": "10",
@@ -1647,7 +1679,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x6806411765af15bddd26f8f544a34cc40cb9838b/small/token-logo.png",
       "assetGroup": "FRXETH",
       "currencyId": "Frax Ether::frxETH",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xc52d7f23a2e460248db6ee192cb23dd12bddcbf6": {
       "chainId": "10",
@@ -1724,7 +1757,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x6ab707aca953edaefbc4fd23ba73294241490620/small/token-logo.png",
       "assetGroup": "Aave v3 USDT::aOptUSDT",
       "currencyId": "Aave v3 USDT::aOptUSDT",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x46777c76dbbe40fabb2aab99e33ce20058e76c59": {
       "chainId": "10",
@@ -1735,7 +1769,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x46777c76dbbe40fabb2aab99e33ce20058e76c59/small/token-logo.png",
       "assetGroup": "Layer3::L3",
       "currencyId": "Layer3::L3",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8": {
       "chainId": "10",
@@ -1757,7 +1792,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x2598c30330d5771ae9f983979209486ae26de875/small/token-logo.png",
       "assetGroup": "AI",
       "currencyId": "Any Inu::AI",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x51707dc661630f8fd624b985fa6ef4f1d4d919db": {
       "chainId": "10",
@@ -1768,7 +1804,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/18119/thumb/UNV.jpg?1696517622",
       "assetGroup": "Unvest::UNV",
       "currencyId": "Unvest::UNV",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5": {
       "chainId": "10",
@@ -1779,7 +1816,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/26618/thumb/icon_200.png?1696525691",
       "assetGroup": "BetSwirl::BETS",
       "currencyId": "BetSwirl::BETS",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xc3864f98f2a61a7caeb95b039d031b4e2f55e0e9": {
       "chainId": "10",
@@ -1801,7 +1839,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x3ed9acaac7bd974eb83a8ea6432a239e3c829d5d/small/token-logo.png",
       "assetGroup": "LERNITAS::2192",
       "currencyId": "LERNITAS::2192",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x625e7708f30ca75bfd92586e17077590c60eb4cd": {
       "chainId": "10",
@@ -1812,7 +1851,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x625e7708f30ca75bfd92586e17077590c60eb4cd/small/token-logo.png",
       "assetGroup": "Aave v3 USDC::aOptUSDC",
       "currencyId": "Aave v3 USDC::aOptUSDC",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xeb466342c4d449bc9f53a865d5cb90586f405215": {
       "chainId": "10",
@@ -1823,7 +1863,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xeb466342c4d449bc9f53a865d5cb90586f405215/small/token-logo.png",
       "assetGroup": "USDC",
       "currencyId": "Bridged USDC (Axelar)::axlUSDC",
-      "tags": ["axelar", "bridged", "debridge", "biconomy-gas-token"]
+      "tags": ["axelar", "bridged", "debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x10398abc267496e49106b07dd6be13364d10dc71": {
       "chainId": "10",
@@ -1834,7 +1875,8 @@
       "logoURI": "https://static.debank.com/image/op_token/logo_url/0x10398abc267496e49106b07dd6be13364d10dc71/a79947b52d0330dff1c7bfa19007c4a6.png",
       "assetGroup": "Let's Get HAI::HAI",
       "currencyId": "Let's Get HAI::HAI",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x191c10aa4af7c30e871e70c95db0e4eb77237530": {
       "chainId": "10",
@@ -1845,7 +1887,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/32888/large/link.png?1699773900",
       "assetGroup": "Aave v3 LINK::aOptLINK",
       "currencyId": "Aave v3 LINK::aOptLINK",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xbfd5206962267c7b4b4a8b3d76ac2e1b2a5c4d5e": {
       "chainId": "10",
@@ -1867,7 +1910,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/22506/thumb/POKT.jpg?1703257310",
       "assetGroup": "Pocket Network::POKT",
       "currencyId": "Pocket Network::POKT",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x93919784c523f39cacaa98ee0a9d96c3f32b593e": {
       "chainId": "10",
@@ -1889,7 +1933,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xb5090d514bcaca7dafb7e52763658844121f346d/small/token-logo.png",
       "assetGroup": "Binary Holdings::BNRY",
       "currencyId": "Binary Holdings::BNRY",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xfa436399d0458dbe8ab890c3441256e3e09022a8": {
       "chainId": "10",
@@ -1900,7 +1945,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xfa436399d0458dbe8ab890c3441256e3e09022a8/small/token-logo.png",
       "assetGroup": "ZipSwap::ZIP",
       "currencyId": "ZipSwap::ZIP",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xecc68d0451e20292406967fe7c04280e5238ac7d": {
       "chainId": "10",
@@ -1911,7 +1957,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xecc68d0451e20292406967fe7c04280e5238ac7d/small/token-logo.png",
       "assetGroup": "FRXETH",
       "currencyId": "Bridged FRAX Ether (Axelar)::frxETH",
-      "tags": ["axelar", "bridged", "debridge", "biconomy-gas-token"]
+      "tags": ["axelar", "bridged", "debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x4186bfc76e2e237523cbc30fd220fe055156b41f": {
       "chainId": "10",
@@ -1933,7 +1980,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x6d80113e533a2c0fe82eabd35f1875dcea89ea97/small/token-logo.png",
       "assetGroup": "Aave v3 sUSD::aOptSUSD",
       "currencyId": "Aave v3 sUSD::aOptSUSD",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff": {
       "chainId": "10",
@@ -1944,7 +1992,8 @@
       "logoURI": "https://static.debank.com/image/op_token/logo_url/0x513c7e3a9c69ca3e22550ef58ac1c0088e918fff/827c5d178104c2426612f773e37fd2b2.png",
       "assetGroup": "Aave v3 OP::aOptOP",
       "currencyId": "Aave v3 OP::aOptOP",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x484c2d6e3cdd945a8b2df735e079178c1036578c": {
       "chainId": "10",
@@ -1955,7 +2004,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x484c2d6e3cdd945a8b2df735e079178c1036578c/small/token-logo.png",
       "assetGroup": "SFRXETH",
       "currencyId": "Staked Frax Ether::sfrxETH",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xa00e3a3511aac35ca78530c85007afcd31753819": {
       "chainId": "10",
@@ -1977,7 +2027,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/53285/thumb/CX_Round.png?1735994730",
       "assetGroup": "Cortex::CX",
       "currencyId": "Cortex::CX",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xbfd291da8a403daaf7e5e9dc1ec0aceacd4848b9": {
       "chainId": "10",
@@ -2010,7 +2061,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x69420f9e38a4e60a62224c489be4bf7a94402496/small/token-logo.png",
       "assetGroup": "Defi.money::MONEY",
       "currencyId": "Defi.money::MONEY",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x4f604735c1cf31399c6e711d5962b2b3e0225ad3": {
       "chainId": "10",
@@ -2021,7 +2073,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x4f604735c1cf31399c6e711d5962b2b3e0225ad3/small/token-logo.png",
       "assetGroup": "Glo Dollar::USDGLO",
       "currencyId": "Glo Dollar::USDGLO",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x38f9bf9dce51833ec7f03c9dc218197999999999": {
       "chainId": "10",
@@ -2032,7 +2085,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x38f9bf9dce51833ec7f03c9dc218197999999999/small/token-logo.png",
       "assetGroup": "Nya::NYA",
       "currencyId": "Nya::NYA",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xe453d6649643f1f460c371dc3d1da98f7922fe51": {
       "chainId": "10",
@@ -2054,7 +2108,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/28913/thumb/euroe-200x200-round.png?1696527889",
       "assetGroup": "EUROe Stablecoin::EUROe",
       "currencyId": "EUROe Stablecoin::EUROe",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x5df7abe3c51c01dcf6d1f1f9a0ab4dc3759869b9": {
       "chainId": "10",
@@ -2076,7 +2131,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x10010078a54396f62c96df8532dc2b4847d47ed3/small/token-logo.png",
       "assetGroup": "Hundred Finance::HND",
       "currencyId": "Hundred Finance::HND",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x00e1724885473b63bce08a9f0a52f35b0979e35a": {
       "chainId": "10",
@@ -2087,7 +2143,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x00e1724885473b63bce08a9f0a52f35b0979e35a/small/token-logo.png",
       "assetGroup": "OATH::OATH",
       "currencyId": "OATH::OATH",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31": {
       "chainId": "10",
@@ -2109,7 +2166,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xc5b001dc33727f8f26880b184090d3e252470d45/small/token-logo.png",
       "assetGroup": "Ethos Reserve Note::ERN",
       "currencyId": "Ethos Reserve Note::ERN",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xfd389dc9533717239856190f42475d3f263a270d": {
       "chainId": "10",
@@ -2120,7 +2178,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xfd389dc9533717239856190f42475d3f263a270d/small/token-logo.png",
       "assetGroup": "Granary::GRAIN",
       "currencyId": "Granary::GRAIN",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xc26921b5b9ee80773774d36c84328ccb22c3a819": {
       "chainId": "10",
@@ -2153,7 +2212,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xd0cf4de352ac8dcce00bd6b93ee73d3cb272edc3/small/token-logo.png",
       "assetGroup": "PCM::PCM",
       "currencyId": "PCM::PCM",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x9fd22a17b4a96da3f83797d122172c450381fb88": {
       "chainId": "10",
@@ -2186,7 +2246,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x3925f9820c312d968644f12ebd314c13558a7c05/small/token-logo.png",
       "assetGroup": "Masks::MASKS",
       "currencyId": "Masks::MASKS",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x28b42698caf46b4b012cf38b6c75867e0762186d": {
       "chainId": "10",
@@ -2197,7 +2258,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x28b42698caf46b4b012cf38b6c75867e0762186d/small/token-logo.png",
       "assetGroup": "UNIDX",
       "currencyId": "UniDex::UNIDX",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee": {
       "chainId": "10",
@@ -2208,7 +2270,8 @@
       "logoURI": "https://static.debank.com/image/op_token/logo_url/0x82e64f49ed5ec1bc6e43dad4fc8af9bb3a2312ee/5e56ea1139b85c381144fbb5dd15d06d.png",
       "assetGroup": "Aave v3 DAI::aOptDAI",
       "currencyId": "Aave v3 DAI::aOptDAI",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xf329e36c7bf6e5e86ce2150875a84ce77f477375": {
       "chainId": "10",
@@ -2219,7 +2282,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/32887/large/aave.png?1699773604",
       "assetGroup": "Aave v3 AAVE::aOptAAVE",
       "currencyId": "Aave v3 AAVE::aOptAAVE",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xf8e943f646816e4b51279b8934753821ed832dca": {
       "chainId": "10",
@@ -2241,7 +2305,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/10/0xe3b3a464ee575e8e25d2508918383b89c832f275/small/token-logo.png",
       "assetGroup": "PoolTogether Prize USD Coin::pUSDC.e",
       "currencyId": "PoolTogether Prize USD Coin::pUSDC.e",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x4b03afc91295ed778320c2824bad5eb5a1d852dd": {
       "chainId": "10",
@@ -2252,7 +2317,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/10/0x4b03afc91295ed778320c2824bad5eb5a1d852dd/small/token-logo.png",
       "assetGroup": "NBL::NBL",
       "currencyId": "NBL::NBL",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xf467c7d5a4a9c4687ffc7986ac6ad5a4c81e1404": {
       "chainId": "10",
@@ -3537,7 +3603,8 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x97513e975a7fa9072c72c92d8000b0db90b163c5.png",
       "assetGroup": "multiBeets::multiBeets",
       "currencyId": "multiBeets::multiBeets",
-      "props": { "permit": { "type": 1, "version": "1" } }
+      "props": { "permit": { "type": 1, "version": "1" } },
+      "tags": ["biconomy-gas-token"]
     },
     "0xd0d334b6cfd77acc94bab28c7783982387856449": {
       "chainId": "10",
@@ -4711,7 +4778,8 @@
       "logoURI": "https://ethereum-optimism.github.io/data/ZUSD/logo.svg",
       "assetGroup": "Z.com USD::ZUSD",
       "currencyId": "Z.com USD::ZUSD",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x5eaa326fb2fc97facce6a79a304876dad0f2e96c": {
       "chainId": "10",
@@ -4754,7 +4822,8 @@
       "symbol": "bb-DAI+",
       "assetGroup": "Beets Boosted DAI+::bb-DAI+",
       "currencyId": "Beets Boosted DAI+::bb-DAI+",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xad17a225074191d5c8a37b50fda1ae278a2ee6a2": {
       "chainId": "10",
@@ -4785,7 +4854,8 @@
       "logoURI": "https://static.debank.com/image/op_token/logo_url/0xb448ec505c924944ca8b2c55ef05c299ee0781df/babb08402e4eb7819d92673b3e694d68.png",
       "assetGroup": "Axelar Wrapped KNC::axlKNC",
       "currencyId": "Axelar Wrapped KNC::axlKNC",
-      "tags": ["axelar", "bridged", "biconomy-gas-token"]
+      "tags": ["axelar", "bridged", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xb972abef80046a57409e37a7df5def2638917516": {
       "chainId": "10",
@@ -4795,7 +4865,8 @@
       "symbol": "stataOptwstETH",
       "assetGroup": "Static Aave Optimism wstETH::stataOptwstETH",
       "currencyId": "Static Aave Optimism wstETH::stataOptwstETH",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x9f41d0aa24e599fd8d0c180ee3c0f609dc41c622": {
       "chainId": "10",
@@ -4838,7 +4909,8 @@
       "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0x511ab53f793683763e5a8829738301368a2411e3/b82e97dd371cfdacb522ffebd7840729.png",
       "assetGroup": "WELL::WELL",
       "currencyId": "WELL::WELL",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91": {
       "chainId": "10",
@@ -4849,7 +4921,8 @@
       "logoURI": "https://static.debank.com/image/op_token/logo_url/0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91/e5b418b93d981b9b5dcd170347369465.png",
       "assetGroup": "W",
       "currencyId": "Wormhole Token::W",
-      "tags": ["wormhole", "bridged", "biconomy-gas-token"]
+      "tags": ["wormhole", "bridged", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x300d2c875c6fb8ce4bf5480b4d34b7c9ea8a33a4": {
       "chainId": "10",
@@ -4913,7 +4986,8 @@
       "symbol": "vaETH",
       "assetGroup": "vaETH Pool::vaETH",
       "currencyId": "vaETH Pool::vaETH",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x1d073cf59ae0c169cbc58b6fdd518822ae89173a": {
       "chainId": "10",
@@ -5129,7 +5203,8 @@
       "logoURI": "https://static.debank.com/image/op_token/logo_url/0x67c10c397dd0ba417329543c1a40eb48aaa7cd00/303f6d48533a5b177e649a05be5eb625.png",
       "assetGroup": "nUSD::nUSD",
       "currencyId": "nUSD::nUSD",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x57d00d036485b5fee6a58c8763bdc358906e6d19": {
       "chainId": "10",
@@ -5191,7 +5266,8 @@
       "symbol": "aOptUSDCn",
       "assetGroup": "Aave Optimism USDCn::aOptUSDCn",
       "currencyId": "Aave Optimism USDCn::aOptUSDCn",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x809dc529f07651bd43a172e8db6f4a7a0d771036": {
       "chainId": "10",
@@ -5202,7 +5278,8 @@
       "logoURI": "https://static.debank.com/image/op_token/logo_url/0x809dc529f07651bd43a172e8db6f4a7a0d771036/1fc6698f634693d1e354bbff3795bab1.png",
       "assetGroup": "nETH::nETH",
       "currencyId": "nETH::nETH",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x83250ffec162e084a23e165434a8a110623abe38": {
       "chainId": "10",
@@ -5283,7 +5360,8 @@
       "logoURI": "https://static.debank.com/image/op_token/logo_url/0x17ffd1d55a5d9d73f6a337aa35109a63b405de21/79c0b76de51565e21265b2bb1bd14bd8.png",
       "assetGroup": "Hakura Protocol::HAKU",
       "currencyId": "Hakura Protocol::HAKU",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x41b94c5867f7f6217c9a30520cb3e793b1ee1b97": {
       "chainId": "10",
@@ -5294,7 +5372,8 @@
       "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x420eeed09cbc6e8416decd28857ff3c7d991fc46/82e5d9441cacdfa6c773db0b3929c45c.png",
       "assetGroup": "Axelar Wrapped TIA::axlTIA",
       "currencyId": "Axelar Wrapped TIA::axlTIA",
-      "tags": ["axelar", "bridged", "biconomy-gas-token"]
+      "tags": ["axelar", "bridged", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x0493bf8b6dbb159ce2db2e0e8403e753abd1235b": {
       "chainId": "10",
@@ -5446,7 +5525,8 @@
       "symbol": "pDAI",
       "assetGroup": "Prize DAI - Aave::pDAI",
       "currencyId": "Prize DAI - Aave::pDAI",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xdb1fe6da83698885104da02a6e0b3b65c0b0de80": {
       "chainId": "10",
@@ -5548,7 +5628,8 @@
       "symbol": "stataOptDAI",
       "assetGroup": "Static Aave Optimism DAI::stataOptDAI",
       "currencyId": "Static Aave Optimism DAI::stataOptDAI",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x8ffdf2de812095b1d19cb146e4c004587c0a0692": {
       "chainId": "10",
@@ -5558,7 +5639,8 @@
       "symbol": "aOptMAI",
       "assetGroup": "Aave Optimism MAI::aOptMAI",
       "currencyId": "Aave Optimism MAI::aOptMAI",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x73a7fe27fe9545d53924e529acf11f3073841b9e": {
       "chainId": "10",
@@ -5568,7 +5650,8 @@
       "symbol": "wrsETH/wETH",
       "assetGroup": "Balancer wrsETH/wETH::wrsETH/wETH",
       "currencyId": "Balancer wrsETH/wETH::wrsETH/wETH",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xd4f1cf9a038269fe8f03745c2875591ad6438ab1": {
       "chainId": "10",
@@ -5578,7 +5661,8 @@
       "symbol": "stataOptOP",
       "assetGroup": "Static Aave Optimism OP::stataOptOP",
       "currencyId": "Static Aave Optimism OP::stataOptOP",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x98d69620c31869fd4822ceb6adab31180475fd37": {
       "chainId": "10",
@@ -5588,7 +5672,8 @@
       "symbol": "stataOptWETH",
       "assetGroup": "Static Aave Optimism WETH::stataOptWETH",
       "currencyId": "Static Aave Optimism WETH::stataOptWETH",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xdd63ae655b388cd782681b7821be37fdb6d0e78d": {
       "chainId": "10",
@@ -5598,7 +5683,8 @@
       "symbol": "vawstETH",
       "assetGroup": "vawstETH Pool::vawstETH",
       "currencyId": "vawstETH Pool::vawstETH",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x7b50775383d3d6f0215a8f290f2c9e2eebbeceb2": {
       "chainId": "10",
@@ -5608,7 +5694,8 @@
       "symbol": "BPT-WSTETH-WETH",
       "assetGroup": "Shanghai Shakedown::BPT-WSTETH-WETH",
       "currencyId": "Shanghai Shakedown::BPT-WSTETH-WETH",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x6ed6df1c23c51cb7cc67a348cc8d9e6108ea3bfe": {
       "chainId": "10",
@@ -5661,7 +5748,8 @@
       "logoURI": "https://static.debank.com/image/project/logo_url/op_angle/306ffce483295499c5b62e264148d468.png",
       "assetGroup": "ANGLE_optimism::ANGLE",
       "currencyId": "ANGLE_optimism::ANGLE",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x0022228a2cc5e7ef0274a7baa600d44da5ab5776": {
       "chainId": "10",
@@ -5770,7 +5858,8 @@
       "logoURI": "https://ethereum-optimism.github.io/data/DHK/logo.svg",
       "assetGroup": "DHK DAO::DHK",
       "currencyId": "DHK DAO::DHK",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x01bff41798a0bcf287b996046ca68b395dbc1071": {
       "chainId": "10",
@@ -5781,7 +5870,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183",
       "assetGroup": "USDT0::USDT0",
       "currencyId": "USDT0::USDT0",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "debridge"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x74d5b4a317fffd3cbf8ed94327ff07e2884e84bc": {
       "chainId": "10",
@@ -5946,7 +6036,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55519/thumb/Small.png?1746469855",
       "assetGroup": "Superseed::SUPR",
       "currencyId": "Superseed::SUPR",
-      "tags": ["biconomy-gas-token", "debridge"]
+      "tags": ["biconomy-gas-token", "debridge"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xb260d236f5ea5094d31f016160705ff53ac45028": {
       "chainId": "10",
@@ -5975,7 +6066,8 @@
       "address": "0x84648dc3cefb601bc28a49a07a1a8bad04d30ad3",
       "symbol": "stataOptLUSD",
       "assetGroup": "Static Aave Optimism LUSD::stataOptLUSD",
-      "currencyId": "Static Aave Optimism LUSD::stataOptLUSD"
+      "currencyId": "Static Aave Optimism LUSD::stataOptLUSD",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x58538e6a46e07434d7e7375bc268d3cb839c0133": {
       "chainId": "10",
@@ -5996,7 +6088,8 @@
       "symbol": "Speed",
       "logoURI": "https://static.debank.com/image/op_token/logo_url/0xb01cf1be9568f09449382a47cd5bf58e2a9d5922/38d6daf5ebbed007bfcda887dd47b011.png",
       "assetGroup": "LightSpeed::Speed",
-      "currencyId": "LightSpeed::Speed"
+      "currencyId": "LightSpeed::Speed",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x806041b6473da60abbe1b256d9a2749a151be6c6": {
       "chainId": "10",
@@ -6026,7 +6119,8 @@
       "address": "0xa52e38a9147f5ea9e0c5547376c21c9e3f3e5e1f",
       "symbol": "przPOOL",
       "assetGroup": "Prize POOL::przPOOL",
-      "currencyId": "Prize POOL::przPOOL"
+      "currencyId": "Prize POOL::przPOOL",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xae0ca1b1bc6cac26981b5e2b9c40f8ce8a9082ee": {
       "chainId": "10",
@@ -6035,7 +6129,8 @@
       "address": "0xae0ca1b1bc6cac26981b5e2b9c40f8ce8a9082ee",
       "symbol": "stataOptAAVE",
       "assetGroup": "Static Aave Optimism AAVE::stataOptAAVE",
-      "currencyId": "Static Aave Optimism AAVE::stataOptAAVE"
+      "currencyId": "Static Aave Optimism AAVE::stataOptAAVE",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x76a50b8c7349ccddb7578c6627e79b5d99d24138": {
       "chainId": "10",
@@ -6045,7 +6140,8 @@
       "symbol": "stETH",
       "logoURI": "https://assets.coingecko.com/coins/images/13442/standard/steth_logo.png",
       "assetGroup": "Liquid staked Ether 2.0::stETH",
-      "currencyId": "Liquid staked Ether 2.0::stETH"
+      "currencyId": "Liquid staked Ether 2.0::stETH",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x2461a364e659abb05019ca8a68bb57fabd18821f": {
       "chainId": "10",
@@ -6073,7 +6169,8 @@
       "address": "0x048c6bad48c51436764ed1fdb3c9d1c25d2c0ada",
       "symbol": "BLID",
       "assetGroup": "Bolide::BLID",
-      "currencyId": "Bolide::BLID"
+      "currencyId": "Bolide::BLID",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x340fe1d898eccaad394e2ba0fc1f93d27c7b717a": {
       "chainId": "10",
@@ -6102,7 +6199,8 @@
       "address": "0x39bcf217acc4bf2fcaf7bc8800e69d986912c75e",
       "symbol": "stataOptLINK",
       "assetGroup": "Static Aave Optimism LINK::stataOptLINK",
-      "currencyId": "Static Aave Optimism LINK::stataOptLINK"
+      "currencyId": "Static Aave Optimism LINK::stataOptLINK",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x6d998feefc7b3664ead09caf02b5a0fc2e365f18": {
       "chainId": "10",
@@ -6111,7 +6209,8 @@
       "address": "0x6d998feefc7b3664ead09caf02b5a0fc2e365f18",
       "symbol": "stataOptWBTC",
       "assetGroup": "Static Aave Optimism WBTC::stataOptWBTC",
-      "currencyId": "Static Aave Optimism WBTC::stataOptWBTC"
+      "currencyId": "Static Aave Optimism WBTC::stataOptWBTC",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x3a956e2fcc7e71ea14b0257d40bebdb287d19652": {
       "chainId": "10",
@@ -6120,7 +6219,8 @@
       "address": "0x3a956e2fcc7e71ea14b0257d40bebdb287d19652",
       "symbol": "stataOptSUSD",
       "assetGroup": "Static Aave Optimism SUSD::stataOptSUSD",
-      "currencyId": "Static Aave Optimism SUSD::stataOptSUSD"
+      "currencyId": "Static Aave Optimism SUSD::stataOptSUSD",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xf9ce3c97b4b54f3d16861420f4816d9f68190b7b": {
       "chainId": "10",
@@ -6129,7 +6229,8 @@
       "address": "0xf9ce3c97b4b54f3d16861420f4816d9f68190b7b",
       "symbol": "stataOptrETH",
       "assetGroup": "Static Aave Optimism rETH::stataOptrETH",
-      "currencyId": "Static Aave Optimism rETH::stataOptrETH"
+      "currencyId": "Static Aave Optimism rETH::stataOptrETH",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x03569cc076654f82679c4ba2124d64774781b01d": {
       "chainId": "10",
@@ -6167,7 +6268,8 @@
       "address": "0xcf9326e24ebffbef22ce1050007a43a3c0b6db55",
       "symbol": "sUSDC",
       "assetGroup": "Spark USDC Vault::sUSDC",
-      "currencyId": "Spark USDC Vault::sUSDC"
+      "currencyId": "Spark USDC Vault::sUSDC",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x0a7b751fcdbbaa8bb988b9217ad5fb5cfe7bf7a0": {
       "chainId": "10",
@@ -6178,7 +6280,8 @@
       "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/optimism/0x0a7b751fcdbbaa8bb988b9217ad5fb5cfe7bf7a0.png",
       "assetGroup": "Infinite Trading Protocol::ITP",
       "currencyId": "Infinite Trading Protocol::ITP",
-      "tags": ["biconomy-gas-token", "debridge"]
+      "tags": ["biconomy-gas-token", "debridge"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x866a2bf4e572cbcf37d5071a7a58503bfb36be1b": {
       "chainId": "10",
@@ -6189,7 +6292,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/40048/thumb/M_Symbol_256.png?1739323798",
       "assetGroup": "M by M0::M",
       "currencyId": "M by M0::M",
-      "tags": ["biconomy-gas-token", "debridge"]
+      "tags": ["biconomy-gas-token", "debridge"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x90337e484b1cb02132fc150d3afa262147348545": {
       "chainId": "10",
@@ -6199,7 +6303,8 @@
       "symbol": "USDp",
       "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg",
       "assetGroup": "USDp::USDp",
-      "currencyId": "USDp::USDp"
+      "currencyId": "USDp::USDp",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xd4423795fd904d9b87554940a95fb7016f172773": {
       "chainId": "10",
@@ -6265,7 +6370,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68284/thumb/FRNT_200.png?1755242496",
       "assetGroup": "Frontier Stable Token::FRNT",
       "currencyId": "Frontier Stable Token::FRNT",
-      "tags": ["biconomy-gas-token", "debridge"]
+      "tags": ["biconomy-gas-token", "debridge"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xf4f447e6afa04c9d11ef0e2fc0d7f19c24ee55de": {
       "chainId": "10",
@@ -6287,7 +6393,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/39399/thumb/fa_h_logo_200x200.png?1729799349",
       "assetGroup": "BNV::FASH",
       "currencyId": "BNV::FASH",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xc47da4cb96ce65a96844a01bfae509f9d5454534": {
       "chainId": "10",
@@ -6298,7 +6405,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68576/thumb/JPYT_Logo_200x200_px.png?1756110424",
       "assetGroup": "Dephaser JPY::JPYT",
       "currencyId": "Dephaser JPY::JPYT",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xb5b2dc7fd34c249f4be7fb1fcea07950784229e0": {
       "chainId": "10",
@@ -6309,7 +6417,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/52721/thumb/sUSDS_Coin.png?1734086971",
       "assetGroup": "sUSDS::sUSDS",
       "currencyId": "sUSDS::sUSDS",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x4e107a0000db66f0e9fd2039288bf811dd1f9c74": {
       "chainId": "10",
@@ -6320,7 +6429,8 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x4e107a0000db66f0e9fd2039288bf811dd1f9c74.png",
       "assetGroup": "Velora::VLR",
       "currencyId": "Velora::VLR",
-      "tags": ["biconomy-gas-token", "debridge"]
+      "tags": ["biconomy-gas-token", "debridge"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xca0eac34408e4b5906d3e161c73bb4611ff22ca1": {
       "chainId": "10",
@@ -6343,6 +6453,162 @@
       "assetGroup": "Lit Protocol::LITKEY",
       "currencyId": "Lit Protocol::LITKEY",
       "tags": ["biconomy-gas-token"]
+    },
+    "0x3f56e0c36d275367b8c502090edf38289b3dea0d": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Qi Dao",
+      "address": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
+      "symbol": "QI (old)",
+      "logoURI": "https://assets.coingecko.com/coins/images/15329/large/qi.png?1620540969",
+      "assetGroup": "Qi Dao::QI (old)",
+      "currencyId": "Qi Dao::QI (old)",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xc70134c6858f3fe09d051f05dcdda215ace5c153": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "OPP Impermax Borrowable OPP-ETH Vault",
+      "address": "0xc70134c6858f3fe09d051f05dcdda215ace5c153",
+      "symbol": "imxB (OPP-ETH)",
+      "logoURI": "https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-OPP-OPP-ETH.png",
+      "assetGroup": "OPP Impermax Borrowable OPP-ETH Vault::imxB (OPP-ETH)",
+      "currencyId": "OPP Impermax Borrowable OPP-ETH Vault::imxB (OPP-ETH)"
+    },
+    "0x1d61313ce48fa3c60df3a4b567378b954fe6f9a6": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "OPP Impermax Borrowable OPP-opxVELO Vault",
+      "address": "0x1d61313ce48fa3c60df3a4b567378b954fe6f9a6",
+      "symbol": "imxB (OPP-opxVELO)",
+      "logoURI": "https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-OPP-OPP-opxVELO.png",
+      "assetGroup": "OPP Impermax Borrowable OPP-opxVELO Vault::imxB (OPP-opxVELO)",
+      "currencyId": "OPP Impermax Borrowable OPP-opxVELO Vault::imxB (OPP-opxVELO)"
+    },
+    "0x9e0b29619dbb2fa7914efa8f3a9302ab9f5025af": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "ETH Impermax Borrowable ETH-VELO Vault",
+      "address": "0x9e0b29619dbb2fa7914efa8f3a9302ab9f5025af",
+      "symbol": "imxB (ETH on ETH-VELO)",
+      "logoURI": "https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-ETH-VELO-ETH.png",
+      "assetGroup": "ETH Impermax Borrowable ETH-VELO Vault::imxB (ETH on ETH-VELO)",
+      "currencyId": "ETH Impermax Borrowable ETH-VELO Vault::imxB (ETH on ETH-VELO)"
+    },
+    "0xdf413da4bc8e01e5a2d8699e2f8b73fbc011c0bc": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "VELO Impermax Borrowable ETH-VELO Vault",
+      "address": "0xdf413da4bc8e01e5a2d8699e2f8b73fbc011c0bc",
+      "symbol": "imxB (VELO on ETH-VELO)",
+      "logoURI": "https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-ETH-VELO-VELO.png",
+      "assetGroup": "VELO Impermax Borrowable ETH-VELO Vault::imxB (VELO on ETH-VELO)",
+      "currencyId": "VELO Impermax Borrowable ETH-VELO Vault::imxB (VELO on ETH-VELO)"
+    },
+    "0x0fac6bbfc6d56e1b7abeb58fd437017603ed731f": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "OP Impermax Borrowable OP-VELO Vault",
+      "address": "0x0fac6bbfc6d56e1b7abeb58fd437017603ed731f",
+      "symbol": "imxB (OP on OP-VELO)",
+      "logoURI": "https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-OP-VELO-OP.png",
+      "assetGroup": "OP Impermax Borrowable OP-VELO Vault::imxB (OP on OP-VELO)",
+      "currencyId": "OP Impermax Borrowable OP-VELO Vault::imxB (OP on OP-VELO)"
+    },
+    "0xd2ae97aad2e0be8a8c583c703d3ad777471c0464": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "VELO Impermax Borrowable OP-VELO Vault",
+      "address": "0xd2ae97aad2e0be8a8c583c703d3ad777471c0464",
+      "symbol": "imxB (VELO on OP-VELO)",
+      "logoURI": "https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-OP-VELO-VELO.png",
+      "assetGroup": "VELO Impermax Borrowable OP-VELO Vault::imxB (VELO on OP-VELO)",
+      "currencyId": "VELO Impermax Borrowable OP-VELO Vault::imxB (VELO on OP-VELO)"
+    },
+    "0xbdc2ad83ba9f27cd97b58bd05908cb6939f8d789": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "USDC Impermax Borrowable USDC-VELO Vault",
+      "address": "0xbdc2ad83ba9f27cd97b58bd05908cb6939f8d789",
+      "symbol": "imxB (USDC on USDC-VELO)",
+      "logoURI": "https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-USDC-VELO-USDC.png",
+      "assetGroup": "USDC Impermax Borrowable USDC-VELO Vault::imxB (USDC on USDC-VELO)",
+      "currencyId": "USDC Impermax Borrowable USDC-VELO Vault::imxB (USDC on USDC-VELO)"
+    },
+    "0x1f157e15cfaee06b6f8f646e3f4ad1cc7c1739bc": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "VELO Impermax Borrowable USDC-VELO Vault",
+      "address": "0x1f157e15cfaee06b6f8f646e3f4ad1cc7c1739bc",
+      "symbol": "imxB (VELO on USDC-VELO)",
+      "logoURI": "https://gitlab.com/optimism-prime/logos/-/raw/main/imxB-USDC-VELO-VELO.png",
+      "assetGroup": "VELO Impermax Borrowable USDC-VELO Vault::imxB (VELO on USDC-VELO)",
+      "currencyId": "VELO Impermax Borrowable USDC-VELO Vault::imxB (VELO on USDC-VELO)"
+    },
+    "0xb47bc3ed6d70f04fe759b2529c9bc7377889678f": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Wrapped Ether",
+      "address": "0xb47bc3ed6d70f04fe759b2529c9bc7377889678f",
+      "symbol": "WETH(Wormhole)",
+      "logoURI": "https://static.debank.com/image/mtr_token/logo_url/0x79a61d3a28f8c8537a3df63092927cfa1150fb3c/61844453e63cf81301f845d7864236f6.png",
+      "assetGroup": "Wrapped Ether::WETH(Wormhole)",
+      "currencyId": "Wrapped Ether::WETH(Wormhole)",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xdecc0c09c3b5f6e92ef4184125d5648a66e35298": {
+      "chainId": "10",
+      "decimals": 6,
+      "name": "USD Coin-LP",
+      "address": "0xdecc0c09c3b5f6e92ef4184125d5648a66e35298",
+      "symbol": "S*USDC",
+      "assetGroup": "USD Coin-LP::S*USDC",
+      "currencyId": "USD Coin-LP::S*USDC",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x8a6039fc7a479928b1d73f88040362e9c50db275": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "HarryPotterObamaSonic10Inu",
+      "address": "0x8a6039fc7a479928b1d73f88040362e9c50db275",
+      "symbol": "BITCOIN (HPOS10I)",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0x72e4f9f808c49a2a61de9c5896298920dc4eeea9/3244c9284d8345d65b2602e46a5fc6ff.png",
+      "assetGroup": "HarryPotterObamaSonic10Inu::BITCOIN (HPOS10I)",
+      "currencyId": "HarryPotterObamaSonic10Inu::BITCOIN (HPOS10I)",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x259c1c2ed264402b5ed2f02bc7dc25a15c680c18": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "OneRing",
+      "address": "0x259c1c2ed264402b5ed2f02bc7dc25a15c680c18",
+      "symbol": "RING (OneRing)",
+      "logoURI": "https://static.debank.com/image/op_token/logo_url/0x259c1c2ed264402b5ed2f02bc7dc25a15c680c18/558aa4df23094684b3941be7f1485cb6.png",
+      "assetGroup": "OneRing::RING (OneRing)",
+      "currencyId": "OneRing::RING (OneRing)",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xfb21b70922b9f6e3c6274bcd6cb1aa8a0fe20b80": {
+      "chainId": "10",
+      "decimals": 6,
+      "name": "TerraUSD",
+      "address": "0xfb21b70922b9f6e3c6274bcd6cb1aa8a0fe20b80",
+      "symbol": "UST(Terra)",
+      "logoURI": "https://static.debank.com/image/op_token/logo_url/0xfb21b70922b9f6e3c6274bcd6cb1aa8a0fe20b80/49f7b373942084bed37fba73899ecf58.png",
+      "assetGroup": "TerraUSD::UST(Terra)",
+      "currencyId": "TerraUSD::UST(Terra)",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x139052115f8b1773cf7dcba6a553f922a2e54f69": {
+      "chainId": "10",
+      "decimals": 6,
+      "name": "Nekocoin",
+      "address": "0x139052115f8b1773cf7dcba6a553f922a2e54f69",
+      "symbol": "(=ↀωↀ=)",
+      "logoURI": "https://tokens.debridge.finance/Logo/10/0x139052115f8b1773cf7dcba6a553f922a2e54f69/small/token-logo.png",
+      "assetGroup": "Nekocoin::(=ↀωↀ=)",
+      "currencyId": "Nekocoin::(=ↀωↀ=)",
+      "tags": ["debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "10",

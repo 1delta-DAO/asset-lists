@@ -27,12 +27,12 @@
     "0x29ee6138dd4c9815f46d34a4a1ed48f46758a402": {
       "chainId": "3637",
       "decimals": 6,
-      "name": "Stargate Bridged USDC  Botanix ",
+      "name": "Bridged USDC (Stargate)",
       "address": "0x29ee6138dd4c9815f46d34a4a1ed48f46758a402",
-      "symbol": "USDCE",
+      "symbol": "USDC.e",
       "logoURI": "https://assets.coingecko.com/coins/images/67555/thumb/usdc.jpg?1753169261",
-      "assetGroup": "Stargate Bridged USDC  Botanix ::USDCE",
-      "currencyId": "Stargate Bridged USDC  Botanix ::USDCE",
+      "assetGroup": "USDC",
+      "currencyId": "Bridged USDC (Stargate)::USDC.e",
       "tags": ["stargate", "bridged", "coingecko"]
     },
     "0x30e85a5c9525ad9a7a0fa5c74df4baf0b01ad241": {
@@ -77,5 +77,9 @@
     "0x30e85a5c9525ad9a7a0fa5c74df4baf0b01ad241",
     "0x3292c42e8e9ab3c6a12cfda556bbcb6f113b1e28"
   ],
-  "bridgeTokens": ["0x0000000000000000000000000000000000000000", "0x3292c42e8e9ab3c6a12cfda556bbcb6f113b1e28"]
+  "bridgeTokens": [
+    "0x0000000000000000000000000000000000000000",
+    "0x3292c42e8e9ab3c6a12cfda556bbcb6f113b1e28",
+    "0x29ee6138dd4c9815f46d34a4a1ed48f46758a402"
+  ]
 }

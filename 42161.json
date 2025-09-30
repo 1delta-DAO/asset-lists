@@ -2486,7 +2486,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/24210/thumb/Chain_icon_200x200.png?1646895054",
       "assetGroup": "Chain::XCN",
       "currencyId": "Chain::XCN",
-      "tags": ["biconomy-gas-token"],
+      "tags": ["biconomy-gas-token", "polkadot", "bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xe6c341288ec0f1e772bc6d694c9c48a6851b441b": {
@@ -3093,7 +3093,8 @@
       "symbol": "RDNT",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x0C4681e6C0235179ec3D4F4fc4DF3d14FDD96017/logo.png",
       "assetGroup": "RDNT",
-      "currencyId": "Radiant::RDNT"
+      "currencyId": "Radiant::RDNT",
+      "tags": ["biconomy-gas-token"]
     },
     "0x3082cc23568ea640225c2467653db90e9250aaa0": {
       "chainId": "42161",
@@ -5928,7 +5929,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/10347/large/fuse.png?1675703585",
       "assetGroup": "FUSE",
       "currencyId": "Bridged FUSE::FUSE",
-      "tags": ["openocean", "bridged"]
+      "tags": ["openocean", "bridged", "biconomy-gas-token"]
     },
     "0x5c1663ed38b3a0eaa5ab7a392ff149b06a13415e": {
       "chainId": "42161",
@@ -6781,7 +6782,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc944E90C64B2c07662A292be6244BDf05Cda44a7/logo.png",
       "assetGroup": "The Graph::GRT",
       "currencyId": "The Graph::GRT",
-      "tags": ["openocean"]
+      "tags": ["openocean", "biconomy-gas-token"]
     },
     "0x36d37b6cbca364cf1d843eff8c2f6824491bcf81": {
       "chainId": "42161",
@@ -10145,7 +10146,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/31751/thumb/SMURFCAT.png?1708079642",
       "assetGroup": "Real Smurf Cat::SMURFCAT",
       "currencyId": "Real Smurf Cat::SMURFCAT",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0x711b771c7c443ebb695e4b3495c337fdaf37be11": {
       "chainId": "42161",
@@ -10629,7 +10630,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/16526/thumb/chainge.jpeg?1708099639",
       "assetGroup": "Chainge::XCHNG",
       "currencyId": "Chainge::XCHNG",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "polkadot", "bridged"]
     },
     "0x64fcc3a02eeeba05ef701b7eed066c6ebd5d4e51": {
       "chainId": "42161",
@@ -14372,7 +14373,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54587/thumb/Logo.jpg?1740555504",
       "assetGroup": "Graphite Network::G",
       "currencyId": "Graphite Network::G",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf": {
       "chainId": "42161",
@@ -19086,6 +19087,7 @@
       "name": "GMX Market",
       "address": "0x70d95587d40a2caf56bd97485ab3eec10bee6336",
       "symbol": "GM",
+      "logoURI": "https://cdn.morpho.org/assets/logos/gm.svg",
       "assetGroup": "GMX Market::GM::42161::0",
       "currencyId": "GMX Market::GM",
       "tags": ["biconomy-gas-token", "VENUS"]
@@ -23051,6 +23053,175 @@
       "assetGroup": "CROTCH::CROTCH",
       "currencyId": "CROTCH::CROTCH",
       "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+    },
+    "0x54b334d68cf5382fee7fbbe496fcf1e76d9ba000": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Boson Protocol",
+      "address": "0x54b334d68cf5382fee7fbbe496fcf1e76d9ba000",
+      "symbol": "BOSON",
+      "logoURI": "https://assets.coingecko.com/coins/images/14710/large/boson_logo.png?1617882472",
+      "assetGroup": "Boson Protocol::BOSON",
+      "currencyId": "Boson Protocol::BOSON"
+    },
+    "0x4b86e1d59baa37d93dc5e2ca4c67230e55e0c973": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "BrightID",
+      "address": "0x4b86e1d59baa37d93dc5e2ca4c67230e55e0c973",
+      "symbol": "BRIGHT",
+      "logoURI": "https://assets.coingecko.com/coins/images/18415/large/bright.PNG?1631841211",
+      "assetGroup": "BRIGHT",
+      "currencyId": "BrightID::BRIGHT"
+    },
+    "0x4f49195ad35aa6dd054a51a4dd3c8d7e63a60b58": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "cVault finance",
+      "address": "0x4f49195ad35aa6dd054a51a4dd3c8d7e63a60b58",
+      "symbol": "CORE",
+      "logoURI": "https://assets.coingecko.com/coins/images/12635/large/cvault.finance_logo.png?1601353499",
+      "assetGroup": "cVault finance::CORE",
+      "currencyId": "cVault finance::CORE"
+    },
+    "0xe7bef5cc7750820516162f5f5b520e9aa510a466": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "OKB",
+      "address": "0xe7bef5cc7750820516162f5f5b520e9aa510a466",
+      "symbol": "OKB",
+      "logoURI": "https://assets.coingecko.com/coins/images/4463/large/WeChat_Image_20220118095654.png?1642471050",
+      "assetGroup": "OKB",
+      "currencyId": "OKB::OKB"
+    },
+    "0xc96f2715e2a242d50d1b0bc923dbe1740b8ecf18": {
+      "chainId": "42161",
+      "decimals": 6,
+      "name": "USDC",
+      "address": "0xc96f2715e2a242d50d1b0bc923dbe1740b8ecf18",
+      "symbol": "USDC(Wormhole)",
+      "logoURI": "https://static.debank.com/image/coin/logo_url/usdc/e87790bfe0b3f2ea855dc29069b38818.png",
+      "assetGroup": "USDC::USDC(Wormhole)",
+      "currencyId": "USDC::USDC(Wormhole)",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xd8369c2eda18dd6518eabb1f85bd60606deb39ec": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Bridged WETH (Wormhole)",
+      "address": "0xd8369c2eda18dd6518eabb1f85bd60606deb39ec",
+      "symbol": "WETH.eth",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2/61844453e63cf81301f845d7864236f6.png",
+      "assetGroup": "ETH",
+      "currencyId": "Bridged WETH (Wormhole)::WETH.eth",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xbafbcb010d920e0dab9dfdcf634de1b777028a85": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Bridged WETH (Wormhole)",
+      "address": "0xbafbcb010d920e0dab9dfdcf634de1b777028a85",
+      "symbol": "WETH",
+      "logoURI": "https://static.debank.com/image/mtr_token/logo_url/0x79a61d3a28f8c8537a3df63092927cfa1150fb3c/61844453e63cf81301f845d7864236f6.png",
+      "assetGroup": "ETH",
+      "currencyId": "Bridged WETH (Wormhole)::WETH",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xb9c8f0d3254007ee4b98970b94544e473cd610ec": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "QiDao",
+      "address": "0xb9c8f0d3254007ee4b98970b94544e473cd610ec",
+      "symbol": "QI(old)",
+      "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xb9c8f0d3254007ee4b98970b94544e473cd610ec/c0524dfb9be687e8e26191eed8774fd3.png",
+      "assetGroup": "QiDao::QI(old)",
+      "currencyId": "QiDao::QI(old)",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xda51015b73ce11f77a115bb1b8a7049e02ddecf0": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Neutra Token",
+      "address": "0xda51015b73ce11f77a115bb1b8a7049e02ddecf0",
+      "symbol": "NEU(old)",
+      "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xda51015b73ce11f77a115bb1b8a7049e02ddecf0/fe87771924b339c2454814e07d585753.png",
+      "assetGroup": "Neutra Token::NEU(old)",
+      "currencyId": "Neutra Token::NEU(old)",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xe4728f3e48e94c6da2b53610e677cc241dafb134": {
+      "chainId": "42161",
+      "decimals": 6,
+      "name": "Bridgded USDT (Wormhole)",
+      "address": "0xe4728f3e48e94c6da2b53610e677cc241dafb134",
+      "symbol": "USDT",
+      "assetGroup": "USDT",
+      "currencyId": "Bridgded USDT (Wormhole):USDT",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x892785f33cdee22a30aef750f285e18c18040c3e": {
+      "chainId": "42161",
+      "decimals": 6,
+      "name": "USD Coin (Arb1)-LP",
+      "address": "0x892785f33cdee22a30aef750f285e18c18040c3e",
+      "symbol": "S*USDC",
+      "assetGroup": "USD Coin (Arb1)-LP::S*USDC",
+      "currencyId": "USD Coin (Arb1)-LP::S*USDC",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x1a0590f951bc9c3818ce75ba5bbe92831b2cf57e": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Bridged USDC (Wormhole)",
+      "address": "0x1a0590f951bc9c3818ce75ba5bbe92831b2cf57e",
+      "symbol": "USDC.bnb",
+      "logoURI": "https://static.debank.com/image/zkfair_token/logo_url/zkfair/35ab0987153a8355a454223aae371ac7.png",
+      "assetGroup": "USDC",
+      "currencyId": "Bridged USDC (Wormhole)::USDC.bnb",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x70f9daff47ddfb3a8e776450fba0f0301022af57": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Moo Silo WETH (PT-weETH Market)",
+      "address": "0x70f9daff47ddfb3a8e776450fba0f0301022af57",
+      "symbol": "mooSiloWETH(PT-weETH)",
+      "assetGroup": "Moo Silo WETH (PT-weETH Market)::mooSiloWETH(PT-weETH)",
+      "currencyId": "Moo Silo WETH (PT-weETH Market)::mooSiloWETH(PT-weETH)",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x019be259bc299f3f653688c7655c87f998bc7bc1": {
+      "chainId": "42161",
+      "decimals": 8,
+      "name": "Notional",
+      "address": "0x019be259bc299f3f653688c7655c87f998bc7bc1",
+      "symbol": "NOTE",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xcfeaead4947f0705a14ec42ac3d44129e1ef3ed5/ebf0bbcfaf39b581a04aacbc502101a4.png",
+      "assetGroup": "Notional::NOTE",
+      "currencyId": "Notional::NOTE",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xab8ebcc9eecc20bd30c7b75c7b4e8fcccfbf01ab": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Bridged Ice (Wormhole)",
+      "address": "0xab8ebcc9eecc20bd30c7b75c7b4e8fcccfbf01ab",
+      "symbol": "ICE",
+      "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xab8ebcc9eecc20bd30c7b75c7b4e8fcccfbf01ab/83e2fad70f30e4b8abd70c31017b0fed.png",
+      "assetGroup": "Bridged Ice (Wormhole)::ICE",
+      "currencyId": "Bridged Ice (Wormhole)::ICE",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x70ed9e9fbc9f6a8a159bce0485a1d0759f5e8c72": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Wrapped Ether (MaiaDAO)",
+      "address": "0x70ed9e9fbc9f6a8a159bce0485a1d0759f5e8c72",
+      "symbol": "WETH",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2/61844453e63cf81301f845d7864236f6.png",
+      "assetGroup": "Wrapped Ether (MaiaDAO)::WETH",
+      "currencyId": "Wrapped Ether (MaiaDAO)::WETH",
+      "tags": ["biconomy-gas-token"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "42161",

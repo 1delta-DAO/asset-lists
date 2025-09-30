@@ -330,7 +330,8 @@
       "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x1Bdd8878252DaddD3Af2ba30628813271294eDc0/logo.png",
       "assetGroup": "Cati::Catizen",
       "currencyId": "Cati::Catizen",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x00000000efe302beaa2b3e6e1b18d08d69a9012a": {
       "chainId": "5000",
@@ -660,7 +661,8 @@
       "logoURI": "https://token-list.mantle.xyz/data/wstETH/logo.svg",
       "assetGroup": "WSTETH",
       "currencyId": "Wrapped liquid staked Ether 2.0::wstETH",
-      "tags": ["mantlelist", "coingecko", "biconomy-gas-token", "debridge"]
+      "tags": ["mantlelist", "coingecko", "biconomy-gas-token", "debridge"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xa0d5ed78cd27ca1dd1f081bd980b786f55106249": {
       "chainId": "5000",
@@ -731,7 +733,8 @@
       "symbol": "LOOT",
       "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x94a42083948d86432246ead625b30d49014a4bff.png",
       "assetGroup": "LOOT Token::LOOT",
-      "currencyId": "LOOT Token::LOOT"
+      "currencyId": "LOOT Token::LOOT",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x827c60adabef4419a0b23fe675fd1827b588caac": {
       "chainId": "5000",
@@ -741,7 +744,8 @@
       "symbol": "FRENS",
       "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5000/0x827c60adabef4419a0b23fe675fd1827b588caac.png",
       "assetGroup": "FRENS Item::FRENS",
-      "currencyId": "FRENS Item::FRENS"
+      "currencyId": "FRENS Item::FRENS",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x029d924928888697d3f3d169018d9d98d9f0d6b4": {
       "chainId": "5000",
@@ -762,7 +766,8 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/unified-defi/equalizer-tokens@latest/fantom/tokens/128x128/0x1b6382dbdea11d97f24495c9a90b7c88469134a4.png",
       "assetGroup": "USDC",
       "currencyId": "Bridged USDC (Axelar)::axlUSDC",
-      "tags": ["axelar", "bridged", "coingecko", "biconomy-gas-token", "debridge"]
+      "tags": ["axelar", "bridged", "coingecko", "biconomy-gas-token", "debridge"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x636d4073738c071326aa70c9e5db7c334beb87be": {
       "chainId": "5000",
@@ -806,7 +811,8 @@
       "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/ctt.png",
       "assetGroup": "Cashtree Token::CTT",
       "currencyId": "Cashtree Token::CTT",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f": {
       "chainId": "5000",
@@ -817,7 +823,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/27277/large/V-65_xQ1_400x400.jpeg",
       "assetGroup": "AXL",
       "currencyId": "Axelar::AXL",
-      "tags": ["mantlelist", "biconomy-gas-token"]
+      "tags": ["mantlelist", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x7cbf716aa9a6114281188867572ac87586e4abf2": {
       "chainId": "5000",
@@ -860,7 +867,8 @@
       "symbol": "neadCleo",
       "logoURI": "https://cleo.exchange/_next/image?url=https%3A%2F%2Fraw.githubusercontent.com%2FRamsesExchange%2Framses-assets%2Fmain%2Fblockchains%2Fmantle%2Fassets%2F0x999890b3A00EA4d60da39A65FA4B70bb0bdb61f7%2Flogo.png&w=32&q=75",
       "assetGroup": "Ennead CLEO::neadCleo",
-      "currencyId": "Ennead CLEO::neadCleo"
+      "currencyId": "Ennead CLEO::neadCleo",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x8309bc8bb43fb54db02da7d8bf87192355532829": {
       "chainId": "5000",
@@ -891,7 +899,8 @@
       "symbol": "AI",
       "logoURI": "https://raw.githubusercontent.com/RamsesExchange/ramses-assets/main/blockchains/mantle/assets/0x2598c30330D5771AE9F983979209486aE26dE875/logo.png",
       "assetGroup": "AI",
-      "currencyId": "Any Inu::AI"
+      "currencyId": "Any Inu::AI",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xa311e47bbefcf158e4224f6c206c1aed32e82531": {
       "chainId": "5000",
@@ -922,7 +931,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/axlETH.webp",
       "assetGroup": "axlETH::Axelar Wrapped Ether",
       "currencyId": "axlETH::Axelar Wrapped Ether",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x6ede8fa28da1b0880565ca0eb670396a66408272": {
       "chainId": "5000",
@@ -932,7 +942,8 @@
       "symbol": "HER",
       "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x6ede8fa28da1b0880565ca0Eb670396A66408272/logo.png",
       "assetGroup": "HER::HER",
-      "currencyId": "HER::HER"
+      "currencyId": "HER::HER",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x2b19015bd5b9270097d1cec431c800d11e9f4841": {
       "chainId": "5000",
@@ -942,7 +953,8 @@
       "symbol": "PAPPLE",
       "logoURI": "https://tropilcalswap.netlify.app/images/symbol/PAPPLE.png",
       "assetGroup": "TropicalSwap Pineapple::PAPPLE",
-      "currencyId": "TropicalSwap Pineapple::PAPPLE"
+      "currencyId": "TropicalSwap Pineapple::PAPPLE",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xc01a7ad7fb8a085a3cc16be8eaa10302c78a1783": {
       "chainId": "5000",
@@ -997,7 +1009,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/29455/thumb/MINTY.png?1706817774",
       "assetGroup": "Minterest::MINTY",
       "currencyId": "Minterest::MINTY",
-      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x5a61b1d8272b250729ea3f5ed3ef843f4d66bc6e": {
       "chainId": "5000",
@@ -1085,7 +1098,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/39473/thumb/IMG_2A1EB0FC7749-1.jpeg?1724512678",
       "assetGroup": "Chasm::CAI",
       "currencyId": "Chasm::CAI",
-      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x406cde76a3fd20e48bc1e0f60651e60ae204b040": {
       "chainId": "5000",
@@ -1096,7 +1110,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/53060/thumb/frax.jpg?1735171829",
       "assetGroup": "FRAX",
       "currencyId": "Bridged FRAX::FRAX",
-      "tags": ["bridged", "coingecko", "biconomy-gas-token", "debridge"]
+      "tags": ["bridged", "coingecko", "biconomy-gas-token", "debridge"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x62a509ba95c75cabc7190469025e5abee4eddb2a": {
       "chainId": "5000",
@@ -1162,7 +1177,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/36863/thumb/CeDeFiAi.png?1712643622",
       "assetGroup": "CDFI",
       "currencyId": "CeDeFiAi::CDFI",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xe231db5f348d709239ef1741ea30961b3b635a61": {
       "chainId": "5000",
@@ -1255,7 +1271,8 @@
       "symbol": "lvMETH",
       "assetGroup": "Lendle Mantle Market METH::lvMETH",
       "currencyId": "Lendle Mantle Market METH::lvMETH",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x44cccbbd7a5a9e2202076ea80c185da0058f1715": {
       "chainId": "5000",
@@ -1265,7 +1282,8 @@
       "symbol": "lvWBTC",
       "assetGroup": "Lendle Mantle Market WBTC::lvWBTC",
       "currencyId": "Lendle Mantle Market WBTC::lvWBTC",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x683696523512636b46a826a7e3d1b0658e8e2e1c": {
       "chainId": "5000",
@@ -1275,7 +1293,8 @@
       "symbol": "lvWMNT",
       "assetGroup": "Lendle Mantle Market WMNT::lvWMNT",
       "currencyId": "Lendle Mantle Market WMNT::lvWMNT",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x787cb0d29194f0faca73884c383cf4d2501bb874": {
       "chainId": "5000",
@@ -1285,7 +1304,8 @@
       "symbol": "lvWETH",
       "assetGroup": "Lendle Mantle Market WETH::lvWETH",
       "currencyId": "Lendle Mantle Market WETH::lvWETH",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xf36afb467d1f05541d998bbbcd5f7167d67bd8fc": {
       "chainId": "5000",
@@ -1295,7 +1315,8 @@
       "symbol": "lvUSDC",
       "assetGroup": "Lendle Mantle Market USDC::lvUSDC",
       "currencyId": "Lendle Mantle Market USDC::lvUSDC",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xe71cbaaa6b093fce66211e6f218780685077d8b5": {
       "chainId": "5000",
@@ -1305,7 +1326,8 @@
       "symbol": "lvUSDT",
       "assetGroup": "Lendle Mantle Market USDT::lvUSDT",
       "currencyId": "Lendle Mantle Market USDT::lvUSDT",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x8731d54e9d02c286767d56ac03e8037c07e01e98": {
       "chainId": "5000",
@@ -1390,7 +1412,8 @@
       "address": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
       "symbol": "oUSDT",
       "assetGroup": "OpenUSDT::oUSDT",
-      "currencyId": "OpenUSDT::oUSDT"
+      "currencyId": "OpenUSDT::oUSDT",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xfe36cf0b43aae49fbc5cfc5c0af22a623114e043": {
       "chainId": "5000",
@@ -1413,6 +1436,17 @@
       "assetGroup": "DeBox::BOX",
       "currencyId": "DeBox::BOX",
       "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0xecc68d0451e20292406967fe7c04280e5238ac7d": {
+      "chainId": "5000",
+      "decimals": 18,
+      "name": "Bridged Frax Ether (Axelar)",
+      "address": "0xecc68d0451e20292406967fe7c04280e5238ac7d",
+      "symbol": "frxETH",
+      "logoURI": "https://static.debank.com/image/mnt_token/logo_url/0xecc68d0451e20292406967fe7c04280e5238ac7d/71b8a5f7684c752901272fb31842abdf.png",
+      "assetGroup": "Bridged Frax Ether (Axelar)::frxETH",
+      "currencyId": "Bridged Frax Ether (Axelar)::frxETH",
+      "tags": ["biconomy-gas-token"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "5000",

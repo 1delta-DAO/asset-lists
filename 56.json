@@ -1914,7 +1914,8 @@
       "symbol": "MLT",
       "logoURI": "https://assets.coingecko.com/coins/images/15659/large/milc_200x200.png?1621511031",
       "assetGroup": "MLT",
-      "currencyId": "Media Licensing Token::MLT"
+      "currencyId": "Media Licensing Token::MLT",
+      "tags": ["biconomy-gas-token"]
     },
     "0xbf05279f9bf1ce69bbfed670813b7e431142afa4": {
       "chainId": "56",
@@ -2032,7 +2033,8 @@
       "symbol": "NEST",
       "logoURI": "https://assets.coingecko.com/coins/images/11284/thumb/52954052.png?1589868539",
       "assetGroup": "NEST",
-      "currencyId": "Nest Protocol::NEST"
+      "currencyId": "Nest Protocol::NEST",
+      "tags": ["biconomy-gas-token"]
     },
     "0x6e9730ecffbed43fd876a264c982e254ef05a0de": {
       "chainId": "56",
@@ -2372,7 +2374,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/13668/large/heD6cg22l3sF5VgPh4G1xC6lnKEWXJif-jbaqUpv8CDP6jbWaqn9UjBdkXWNrw1CewaQOxb8zXRdNeNJWWiUDjfsEl_d7E3bPLg4cFoilQF5TGKHfWyJlnpm3UYc9ytvRvOjxOevMuiu8-lusnNoOcwgsJpMkYWHqe322GAxLt0_30kFMVAcjEDUrOlkK6hUYi0m9P433mvNlOm.jpg?1610671732",
       "assetGroup": "PROS",
       "currencyId": "Prosper::PROS",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0xd21d29b38374528675c34936bf7d5dd693d2a577": {
       "chainId": "56",
@@ -4678,7 +4680,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0xe550a593d09FBC8DCD557b5C88Cea6946A8b404A.png",
       "assetGroup": "Tau DOGE::tDOGE",
       "currencyId": "Tau DOGE::tDOGE",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xbbeb90cfb6fafa1f69aa130b7341089abeef5811": {
       "chainId": "56",
@@ -7348,7 +7350,7 @@
       "logoURI": "https://www.ape.bond/tokenImages/APE.png",
       "assetGroup": "ApeCoin::APE",
       "currencyId": "ApeCoin::APE",
-      "tags": ["openocean"]
+      "tags": ["openocean", "biconomy-gas-token"]
     },
     "0x26193c7fa4354ae49ec53ea2cebc513dc39a10aa": {
       "chainId": "56",
@@ -7799,7 +7801,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/56/0x8c851d1a123ff703bd1f9dabe631b69902df5f97/small/token-logo.png",
       "assetGroup": "BinaryX::BNX::56::0",
       "currencyId": "BinaryX::BNX",
-      "tags": ["openocean", "coingecko", "debridge"]
+      "tags": ["openocean", "coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x96058f8c3e16576d9bd68766f3836d9a33158f89": {
       "chainId": "56",
@@ -7862,10 +7864,10 @@
       "name": "CELL",
       "address": "0xf3e1449ddb6b218da2c9463d4594ceccc8934346",
       "symbol": "CELL",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/bsc/0x0ffb06aabba09b1d6e9bd78d97791b0efac9536a.png",
+      "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xf3e1449ddb6b218da2c9463d4594ceccc8934346/4d8ee3523ddfca915232aa5295415f42.png",
       "assetGroup": "CELL::CELL",
       "currencyId": "CELL::CELL",
-      "tags": ["openocean"]
+      "tags": ["openocean", "biconomy-gas-token"]
     },
     "0x72f28c09be1342447fa01ebc76ef508473d08c5c": {
       "chainId": "56",
@@ -10296,7 +10298,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/56/0xb68a20b9e9b06fde873897e12ab3372ce48f1a8a/small/token-logo.png",
       "assetGroup": "Playdoge::PLAY",
       "currencyId": "Playdoge::PLAY",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x9e57e83ad79ac5312ba82940ba037ed30600e167": {
       "chainId": "56",
@@ -10758,7 +10760,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/56/0x0f5d8cd195a4539bcf2ec6118c6da50287c6d5f5/small/token-logo.png",
       "assetGroup": "Gold Fever Native Gold::NGL",
       "currencyId": "Gold Fever Native Gold::NGL",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x11a31b833d43853f8869c9eec17f60e3b4d2a753": {
       "chainId": "56",
@@ -16366,7 +16368,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/56/0x49d5cc521f75e13fa8eb4e89e9d381352c897c96/small/token-logo.png",
       "assetGroup": "Tether USD (Wormhole)::USDTSO",
       "currencyId": "Tether USD (Wormhole)::USDTSO",
-      "tags": ["wormhole", "bridged", "coingecko"]
+      "tags": ["wormhole", "bridged", "coingecko", "biconomy-gas-token"]
     },
     "0x81aa4d3ad2a86e7a2cd44630c36ccaacd6b30568": {
       "chainId": "56",
@@ -21972,7 +21974,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/56/0xe0b0c16038845bed3fcf70304d3e167df81ce225/small/token-logo.png",
       "assetGroup": "CrossSwap::CSWAP",
       "currencyId": "CrossSwap::CSWAP",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x8c18ffd66d943c9b0ad3dc40e2d64638f1e6e1ab": {
       "chainId": "56",
@@ -24534,7 +24536,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/56/0x4ecec618ce8eeb94d99f970f0d9b2fd031986fd5/small/token-logo.png",
       "assetGroup": "BitNomad::NOMAD",
       "currencyId": "BitNomad::NOMAD",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "nomad", "bridged"]
     },
     "0xf2619476bd0ca0eda08744029c66b62a904c2bf8": {
       "chainId": "56",
@@ -32551,7 +32553,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/56/0x085d15db9c7cd3df188422f88ec41ec573d691b9/small/token-logo.png",
       "assetGroup": "Nomad Exiles::PRIDE",
       "currencyId": "Nomad Exiles::PRIDE",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token", "nomad", "bridged"]
     },
     "0x546d499689e0d4101c7ea774a61e312d1ad72352": {
       "chainId": "56",
@@ -33431,7 +33433,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/56/0x1591e923e0836a3949b59637fbe8959f000894b9/small/token-logo.png",
       "assetGroup": "Multi AI::MAI",
       "currencyId": "Multi AI::MAI",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x4615c8e2db74517a34712c9bdea5c418d999014b": {
       "chainId": "56",
@@ -39138,7 +39140,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/18278/thumb/logo_200_%284%29.png?1696517772",
       "assetGroup": "PirateCoin::PIRATECOIN",
       "currencyId": "PirateCoin::PIRATECOIN",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "debridge"]
     },
     "0x36fdebeb2bb7538d5559f1d2968307e86eb04444": {
       "chainId": "56",
@@ -39545,7 +39547,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/17292/thumb/redfeg.PNG?1696516846",
       "assetGroup": "RedFeg::REDFEG",
       "currencyId": "RedFeg::REDFEG",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "debridge"]
     },
     "0xbdad1ddd7d7284302b3b9d8c2a97c5a17c463d91": {
       "chainId": "56",
@@ -53020,6 +53022,145 @@
       "assetGroup": "Wrapped XOC::WXOC",
       "currencyId": "Wrapped XOC::WXOC",
       "tags": ["coingecko"]
+    },
+    "0x754736e06ea5b01694144f2c83a04e64d48f68d2": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "TITM",
+      "address": "0x754736e06ea5b01694144f2c83a04e64d48f68d2",
+      "symbol": "Tastic Is The Master (TITM)",
+      "logoURI": "https://www.ape.bond/tokenImages/TITM.png",
+      "assetGroup": "TITM::Tastic Is The Master (TITM)",
+      "currencyId": "TITM::Tastic Is The Master (TITM)"
+    },
+    "0xc943c5320b9c18c153d1e2d12cc3074bebfb31a2": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "FLOW",
+      "address": "0xc943c5320b9c18c153d1e2d12cc3074bebfb31a2",
+      "symbol": "FLOW(Binance-Peg)",
+      "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xc943c5320b9c18c153d1e2d12cc3074bebfb31a2/a67181152afd71a991d4695b405e8a18.png",
+      "assetGroup": "FLOW::FLOW(Binance-Peg)",
+      "currencyId": "FLOW::FLOW(Binance-Peg)",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Elk",
+      "address": "0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c",
+      "symbol": "ELK(legacy)",
+      "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c/329f2280839ba8930e112bae1f61cbb9.png",
+      "assetGroup": "Elk::ELK(legacy)",
+      "currencyId": "Elk::ELK(legacy)",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x9aa83081aa06af7208dcc7a4cb72c94d057d2cda": {
+      "chainId": "56",
+      "decimals": 6,
+      "name": "Tether USD-LP",
+      "address": "0x9aa83081aa06af7208dcc7a4cb72c94d057d2cda",
+      "symbol": "S*USDT",
+      "assetGroup": "Tether USD-LP::S*USDT",
+      "currencyId": "Tether USD-LP::S*USDT",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x9029fdfae9a03135846381c7ce16595c3554e10a": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "OpenOcean",
+      "address": "0x9029fdfae9a03135846381c7ce16595c3554e10a",
+      "symbol": "OOE(old)",
+      "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x9029fdfae9a03135846381c7ce16595c3554e10a/82124d68da604f900e236dd424e54343.png",
+      "assetGroup": "OpenOcean::OOE(old)",
+      "currencyId": "OpenOcean::OOE(old)",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xacc234978a5eb941665fd051ca48765610d82584": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "BSCswap",
+      "address": "0xacc234978a5eb941665fd051ca48765610d82584",
+      "symbol": "BSWAP (BSCswap)",
+      "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xacc234978a5eb941665fd051ca48765610d82584/d83466eb0f16b3c810619cbc925cee28.png",
+      "assetGroup": "BSCswap::BSWAP (BSCswap)",
+      "currencyId": "BSCswap::BSWAP (BSCswap)",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xb0eb3e295b44d7d405ba8026a9734a9ab354a8b2": {
+      "chainId": "56",
+      "decimals": 8,
+      "name": "EarnGuild",
+      "address": "0xb0eb3e295b44d7d405ba8026a9734a9ab354a8b2",
+      "symbol": "EARN (Earn Guild)",
+      "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xb0eb3e295b44d7d405ba8026a9734a9ab354a8b2/9aaf46714dc228bba883b9cd052311d1.png",
+      "assetGroup": "EarnGuild::EARN (Earn Guild)",
+      "currencyId": "EarnGuild::EARN (Earn Guild)",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xf388ee045cab30321db3fb69eab7dfb0c20f10ec": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "BSCswap Governance Token V2",
+      "address": "0xf388ee045cab30321db3fb69eab7dfb0c20f10ec",
+      "symbol": "BSWAP (BSCswap V2)",
+      "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0xacc234978a5eb941665fd051ca48765610d82584/d83466eb0f16b3c810619cbc925cee28.png",
+      "assetGroup": "BSCswap Governance Token V2::BSWAP (BSCswap V2)",
+      "currencyId": "BSCswap Governance Token V2::BSWAP (BSCswap V2)",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xce30b968d5e76a67f3946e0598f95d551ce03ac3": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Four",
+      "address": "0xce30b968d5e76a67f3946e0598f95d551ce03ac3",
+      "symbol": "FOUR (unknown)",
+      "assetGroup": "Four::FOUR (unknown)",
+      "currencyId": "Four::FOUR (unknown)",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x1ea3ffc43ee291a4373418286e9b001aebe14444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "🔶",
+      "address": "0x1ea3ffc43ee291a4373418286e9b001aebe14444",
+      "symbol": "🔶",
+      "assetGroup": "🔶::🔶",
+      "currencyId": "🔶::🔶",
+      "tags": ["coingecko"]
+    },
+    "0x338ede32ef54b28a9a755d07144b4a7061dd4444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "air coin",
+      "address": "0x338ede32ef54b28a9a755d07144b4a7061dd4444",
+      "symbol": "空气币/",
+      "logoURI": "https://assets.coingecko.com/coins/images/67812/thumb/newlogoaircoin.jpg?1753939984",
+      "assetGroup": "air coin::空气币/",
+      "currencyId": "air coin::空气币/",
+      "tags": ["coingecko"]
+    },
+    "0xe818ba083116aa7b5dc9fbe2bbd48aa9ec1e0445": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "burn&#128640;&#128640;&#128640;",
+      "address": "0xe818ba083116aa7b5dc9fbe2bbd48aa9ec1e0445",
+      "symbol": "BURN&#128640;&#128640;&#128640;",
+      "logoURI": "https://tokens.debridge.finance/Logo/56/0xe818ba083116aa7b5dc9fbe2bbd48aa9ec1e0445/small/token-logo.png",
+      "assetGroup": "burn&#128640;&#128640;&#128640;::BURN&#128640;&#128640;&#128640;",
+      "currencyId": "burn&#128640;&#128640;&#128640;::BURN&#128640;&#128640;&#128640;",
+      "tags": ["debridge"]
+    },
+    "0x24d75cc35e98488b0c3a562b58182e00804bbabe": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "MiKeNeKo",
+      "address": "0x24d75cc35e98488b0c3a562b58182e00804bbabe",
+      "symbol": "MiKe💛",
+      "logoURI": "https://tokens.debridge.finance/Logo/56/0x24d75cc35e98488b0c3a562b58182e00804bbabe/small/token-logo.png",
+      "assetGroup": "MiKeNeKo::MiKe💛",
+      "currencyId": "MiKeNeKo::MiKe💛",
+      "tags": ["debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "56",

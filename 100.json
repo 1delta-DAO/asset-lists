@@ -1199,7 +1199,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/14003/thumb/PoolTogether.png?1696513732",
       "assetGroup": "POOL",
       "currencyId": "PoolTogether::POOL",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xa555d5344f6fb6c65da19e403cb4c1ec4a1a5ee3": {
       "chainId": "100",
@@ -8170,6 +8170,27 @@
       "assetGroup": "Shutter::SHU",
       "currencyId": "Shutter::SHU",
       "tags": ["coingecko"]
+    },
+    "0xdfa46478f9e5ea86d57387849598dbfb2e964b02": {
+      "chainId": "100",
+      "decimals": 18,
+      "name": "QiDao",
+      "address": "0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
+      "symbol": "QI(old)",
+      "logoURI": "https://static.debank.com/image/xdai_token/logo_url/0xdfa46478f9e5ea86d57387849598dbfb2e964b02/c34bba851a05a13fd725ddaeac24a506.png",
+      "assetGroup": "QiDao::QI(old)",
+      "currencyId": "QiDao::QI(old)",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x9b388743bdd602ed922e88d5c3c607c1585ecf51": {
+      "chainId": "100",
+      "decimals": 18,
+      "name": "Alchemist on xDai",
+      "address": "0x9b388743bdd602ed922e88d5c3c607c1585ecf51",
+      "symbol": "⚗️",
+      "assetGroup": "Alchemist on xDai::⚗️",
+      "currencyId": "Alchemist on xDai::⚗️",
+      "tags": ["biconomy-gas-token"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "100",

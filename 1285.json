@@ -614,6 +614,7 @@
       "name": "Karura",
       "address": "0xffffffff08220ad2e6e157f26ed8bd22a336a0a5",
       "symbol": "xcKAR",
+      "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonbeam/0xFfFFFFfF08220AD2E6e157f26eD8bD22A336A0A5/logo.png",
       "assetGroup": "Karura::xcKAR",
       "currencyId": "Karura::xcKAR",
       "tags": ["polkadot", "bridged"]
@@ -624,6 +625,7 @@
       "name": "Shiden",
       "address": "0xffffffff0ca324c842330521525e7de111f38972",
       "symbol": "xcSDN",
+      "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonbeam/0xFFFfffFF0Ca324C842330521525E7De111F38972/logo.png",
       "assetGroup": "Shiden::xcSDN",
       "currencyId": "Shiden::xcSDN",
       "tags": ["polkadot", "bridged"]
@@ -634,6 +636,7 @@
       "name": "Kintsugi Native Token",
       "address": "0xffffffff83f4f317d3cbf6ec6250aec3697b3ff2",
       "symbol": "xcKINT",
+      "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonbeam/0xfffFFFFF83F4f317d3cbF6EC6250AeC3697b3fF2/logo.png",
       "assetGroup": "Kintsugi Native Token::xcKINT",
       "currencyId": "Kintsugi Native Token::xcKINT",
       "tags": ["polkadot", "bridged"]
@@ -644,6 +647,7 @@
       "name": "Calamari",
       "address": "0xffffffffa083189f870640b141ae1e882c2b5bad",
       "symbol": "xcKMA",
+      "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonbeam/0xFFffFffFA083189f870640b141ae1E882c2b5bad/logo.png",
       "assetGroup": "Calamari::xcKMA",
       "currencyId": "Calamari::xcKMA",
       "tags": ["polkadot", "bridged"]
@@ -654,6 +658,7 @@
       "name": "xcBNC",
       "address": "0xfffffffff075423be54811ecb478e911f22dde7d",
       "symbol": "xcBNC",
+      "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonbeam/0xFFfFFfFFF075423be54811EcB478e911F22dDe7D/logo.png",
       "assetGroup": "xcBNC::xcBNC",
       "currencyId": "xcBNC::xcBNC",
       "tags": ["polkadot", "bridged"]
@@ -664,6 +669,7 @@
       "name": "Kintsugi Wrapped BTC",
       "address": "0xfffffffff6e528ad57184579beee00c5d5e646f0",
       "symbol": "xcKBTC",
+      "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonbeam/0xFFFfFfFfF6E528AD57184579beeE00c5d5e646F0/logo.png",
       "assetGroup": "Kintsugi Wrapped BTC::xcKBTC",
       "currencyId": "Kintsugi Wrapped BTC::xcKBTC",
       "tags": ["polkadot", "bridged"]
@@ -689,6 +695,108 @@
       "assetGroup": "ChainLink Token::LINK",
       "currencyId": "ChainLink Token::LINK",
       "tags": ["coingecko"]
+    },
+    "0x965f84d915a9efa2dd81b653e3ae736555d945f4": {
+      "chainId": "1285",
+      "decimals": 18,
+      "name": "Anyswap Frax",
+      "address": "0x965f84d915a9efa2dd81b653e3ae736555d945f4",
+      "symbol": "anyFRAX",
+      "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonbeam/0x965f84D915a9eFa2dD81b653e3AE736555d945f4/logo.png",
+      "assetGroup": "Anyswap Frax::anyFRAX",
+      "currencyId": "Anyswap Frax::anyFRAX"
+    },
+    "0x8ce2bdc6e0319cea87337d027382f09b715c9601": {
+      "chainId": "1285",
+      "decimals": 18,
+      "name": "Alpha Wood",
+      "address": "0x8ce2bdc6e0319cea87337d027382f09b715c9601",
+      "symbol": "aWOOD",
+      "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonbeam/0x8cE2BDc6e0319cea87337d027382f09B715C9601/logo.png",
+      "assetGroup": "Alpha Wood::aWOOD",
+      "currencyId": "Alpha Wood::aWOOD"
+    },
+    "0x77709c42d43f2e53c24b8fa623a207abdc89857c": {
+      "chainId": "1285",
+      "decimals": 18,
+      "name": "Alpha Stone",
+      "address": "0x77709c42d43f2e53c24b8fa623a207abdc89857c",
+      "symbol": "aSTONE",
+      "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonbeam/0x77709C42d43F2e53c24b8fA623A207abDC89857c/logo.png",
+      "assetGroup": "Alpha Stone::aSTONE",
+      "currencyId": "Alpha Stone::aSTONE"
+    },
+    "0x9e403aa2dfef9ba2a2b82286d13864a64d90bf36": {
+      "chainId": "1285",
+      "decimals": 18,
+      "name": "Alpha Iron",
+      "address": "0x9e403aa2dfef9ba2a2b82286d13864a64d90bf36",
+      "symbol": "aIRON",
+      "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonbeam/0x9E403aA2DFEF9BA2a2b82286D13864A64D90BF36/logo.png",
+      "assetGroup": "Alpha Iron::aIRON",
+      "currencyId": "Alpha Iron::aIRON"
+    },
+    "0x088fe6e0e1caca1ee45e8de96abe79e4e139f4ab": {
+      "chainId": "1285",
+      "decimals": 18,
+      "name": "Alpha Gold",
+      "address": "0x088fe6e0e1caca1ee45e8de96abe79e4e139f4ab",
+      "symbol": "aGOLD",
+      "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonbeam/0x088Fe6e0e1CaCA1eE45E8DE96AbE79e4e139F4Ab/logo.png",
+      "assetGroup": "Alpha Gold::aGOLD",
+      "currencyId": "Alpha Gold::aGOLD"
+    },
+    "0x138a90f246abb23a157da7a1d9db19dcf1691362": {
+      "chainId": "1285",
+      "decimals": 18,
+      "name": "Alpha Experience",
+      "address": "0x138a90f246abb23a157da7a1d9db19dcf1691362",
+      "symbol": "aEXP",
+      "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonbeam/0x138a90f246Abb23A157DA7a1D9dB19dCf1691362/logo.png",
+      "assetGroup": "Alpha Experience::aEXP",
+      "currencyId": "Alpha Experience::aEXP"
+    },
+    "0xffffffff893264794d9d57e1e0e21e0042af5a0a": {
+      "chainId": "1285",
+      "decimals": 10,
+      "name": "xcRMRK",
+      "address": "0xffffffff893264794d9d57e1e0e21e0042af5a0a",
+      "symbol": "xcRMRK",
+      "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonbeam/0xffffffFF893264794d9d57E1E0E21E0042aF5A0A/logo.png",
+      "assetGroup": "xcRMRK::xcRMRK",
+      "currencyId": "xcRMRK::xcRMRK",
+      "tags": ["polkadot", "bridged"]
+    },
+    "0x6ccf12b480a99c54b23647c995f4525d544a7e72": {
+      "chainId": "1285",
+      "decimals": 18,
+      "name": "Lido DAO Token",
+      "address": "0x6ccf12b480a99c54b23647c995f4525d544a7e72",
+      "symbol": "LDO",
+      "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonbeam/0x6Ccf12B480A99C54b23647c995f4525D544A7E72/logo.png",
+      "assetGroup": "Lido DAO Token::LDO",
+      "currencyId": "Lido DAO Token::LDO"
+    },
+    "0x0d2faa2064129ecbfaccd45be33dea3bcd3f8863": {
+      "chainId": "1285",
+      "decimals": 18,
+      "name": "MARA Token",
+      "address": "0x0d2faa2064129ecbfaccd45be33dea3bcd3f8863",
+      "symbol": "MARA",
+      "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonbeam/0x0d2faA2064129ecBfAccD45be33DEA3bCD3F8863/logo.png",
+      "assetGroup": "MARA Token::MARA",
+      "currencyId": "MARA Token::MARA"
+    },
+    "0xffffffff8e6b63d9e447b6d4c45bda8af9dc9603": {
+      "chainId": "1285",
+      "decimals": 12,
+      "name": "Phala Token",
+      "address": "0xffffffff8e6b63d9e447b6d4c45bda8af9dc9603",
+      "symbol": "xcPHA",
+      "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonbeam/0xffFfFFff8E6b63d9e447B6d4C45BDA8AF9dc9603/logo.png",
+      "assetGroup": "Phala Token::xcPHA",
+      "currencyId": "Phala Token::xcPHA",
+      "tags": ["polkadot", "bridged"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "1285",

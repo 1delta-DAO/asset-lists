@@ -566,7 +566,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183",
       "assetGroup": "USDT0::USDT0",
       "currencyId": "USDT0::USDT0",
-      "tags": ["coingecko", "biconomy-gas-token", "HYPERLEND", "HYPURRFI"],
+      "tags": ["coingecko", "biconomy-gas-token", "HYPERLEND", "HYPURRFI", "debridge"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x704b679f26b8daba1d5d1e59d56229a34bfee56f": {
@@ -655,7 +655,8 @@
       "logoURI": "https://app.hyperbeat.org/assets/icons/tokens/behype.svg",
       "assetGroup": "hyperbeat x ether.fi HYPE::beHYPE",
       "currencyId": "hyperbeat x ether.fi HYPE::beHYPE",
-      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xb50a96253abdf803d85efcdce07ad8becbc52bd5": {
       "chainId": "999",
@@ -3587,7 +3588,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68307/thumb/usdt0.jpg?1755312304",
       "assetGroup": "Hyperlend Interest Bearing USDT0  Wrapp::HUSDT0WHLP",
       "currencyId": "Hyperlend Interest Bearing USDT0  Wrapp::HUSDT0WHLP",
-      "tags": ["biconomy-gas-token", "coingecko"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x0725a349f733cc13c84232a706d9ca99d2a1ef23": {
       "chainId": "999",
@@ -3664,7 +3665,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68330/thumb/usdt0.jpg?1755352510",
       "assetGroup": "hyUSD₮0 (hwHLP) - 11::hyUSD₮0(hwHLP)-11",
       "currencyId": "hyUSD₮0 (hwHLP) - 11::hyUSD₮0(hwHLP)-11",
-      "tags": ["biconomy-gas-token", "coingecko"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x9efdfc72c1bc90b36f8aae35247e62310c58eacf": {
       "chainId": "999",
@@ -3741,7 +3742,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/39488/thumb/neiro.jpg?1731449567",
       "assetGroup": "Neiro::NEIRO",
       "currencyId": "Neiro::NEIRO",
-      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x4d0ff6a0dd9f7316b674fb37993a3ce28bea340e": {
       "chainId": "999",
@@ -3773,7 +3775,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/37421/thumb/AmpedLogoTrans-200.png?1714377313",
       "assetGroup": "Amped Finance::AMPED",
       "currencyId": "Amped Finance::AMPED",
-      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x111111a1a0667d36bd57c0a9f569b98057111111": {
       "chainId": "999",
@@ -3784,7 +3787,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69484/thumb/usdh.png?1758728903",
       "assetGroup": "USDH::USDH",
       "currencyId": "USDH::USDH",
-      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xdfc7d2d003a053b2e0490531e9317a59962b511e": {
       "chainId": "999",
@@ -3829,6 +3833,36 @@
       "assetGroup": "UNIBTC",
       "currencyId": "uniBTC::uniBTC",
       "tags": ["coingecko", "debridge"]
+    },
+    "0xa522572cf63e6ceed49db6c77cd9ec76c1d47d09": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "Hyperdrive Primary USD₮0 Market",
+      "address": "0xa522572cf63e6ceed49db6c77cd9ec76c1d47d09",
+      "symbol": "HD-MKT-USD₮0",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa522572cf63e6ceed49db6c77cd9ec76c1d47d09.png",
+      "assetGroup": "Hyperdrive Primary USD₮0 Market::HD-MKT-USD₮0",
+      "currencyId": "Hyperdrive Primary USD₮0 Market::HD-MKT-USD₮0"
+    },
+    "0x1c5164a764844356d57654ea83f9f1b72cd10db5": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "hyUSD₮0 (Looped HYPE) - 9",
+      "address": "0x1c5164a764844356d57654ea83f9f1b72cd10db5",
+      "symbol": "hyUSD₮0(LHYPE)-9",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x1c5164a764844356d57654ea83f9f1b72cd10db5.png",
+      "assetGroup": "hyUSD₮0 (Looped HYPE) - 9::hyUSD₮0(LHYPE)-9",
+      "currencyId": "hyUSD₮0 (Looped HYPE) - 9::hyUSD₮0(LHYPE)-9"
+    },
+    "0xdc6f4239c1d8d3b955c06cb8f1a6cf18effc5bfe": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "Static USD₮0 Hypurr",
+      "address": "0xdc6f4239c1d8d3b955c06cb8f1a6cf18effc5bfe",
+      "symbol": "stathyUSD₮0",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdc6f4239c1d8d3b955c06cb8f1a6cf18effc5bfe.png",
+      "assetGroup": "Static USD₮0 Hypurr::stathyUSD₮0",
+      "currencyId": "Static USD₮0 Hypurr::stathyUSD₮0"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "999",

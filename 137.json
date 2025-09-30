@@ -4543,7 +4543,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/13709/large/route_token_200x200-19.png?1611057698",
       "assetGroup": "ROUTE",
       "currencyId": "Router Protocol::ROUTE",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "debridge"]
     },
     "0x0bd820ad2d7ab7305b5c9538ba824c9b9beb0561": {
       "chainId": "137",
@@ -19314,7 +19314,8 @@
       "symbol": "ALPHA",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x0B048D6e01a6b9002C291060bF2179938fd8264c/logo.png",
       "assetGroup": "PolyAlpha Finance::ALPHA",
-      "currencyId": "PolyAlpha Finance::ALPHA"
+      "currencyId": "PolyAlpha Finance::ALPHA",
+      "tags": ["biconomy-gas-token"]
     },
     "0x8df26a1bd9bd98e2ec506fc9d8009954716a05dc": {
       "chainId": "137",
@@ -23215,7 +23216,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54587/thumb/Logo.jpg?1740555504",
       "assetGroup": "Graphite Network::G",
       "currencyId": "Graphite Network::G",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "debridge"]
     },
     "0xc53ac24320e3a54c7211e4993c8095078a0cb3cf": {
       "chainId": "137",
@@ -26642,7 +26643,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/137/0x7aefff599570dec2f3dbbc2ace3cb1f8206749eb/small/token-logo.png",
       "assetGroup": "Moonflow::MOON",
       "currencyId": "Moonflow::MOON",
-      "tags": ["debridge"]
+      "tags": ["debridge", "biconomy-gas-token"]
     },
     "0x9bc0abf87f9350cde55b2cda219871726d620bf9": {
       "chainId": "137",
@@ -27209,6 +27210,191 @@
       "assetGroup": "CROTCH::WCROTCH",
       "currencyId": "CROTCH::WCROTCH",
       "tags": ["debridge", "biconomy-gas-token"]
+    },
+    "0xe22483774bd8611be2ad2f4194078dac9159f4ba": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "2BRL (BRZ)",
+      "address": "0xe22483774bd8611be2ad2f4194078dac9159f4ba",
+      "symbol": "2BRL (BRZ)",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe22483774bd8611be2ad2f4194078dac9159f4ba.png",
+      "assetGroup": "2BRL (BRZ)::2BRL (BRZ)",
+      "currencyId": "2BRL (BRZ)::2BRL (BRZ)"
+    },
+    "0xe19ed40a47f9b0cea4ca6d372df66107758913ec": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "2BRL(BRZ)",
+      "address": "0xe19ed40a47f9b0cea4ca6d372df66107758913ec",
+      "symbol": "2BRL (BRZ)",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe19ed40a47f9b0cea4ca6d372df66107758913ec.png",
+      "assetGroup": "2BRL(BRZ)::2BRL (BRZ)",
+      "currencyId": "2BRL(BRZ)::2BRL (BRZ)"
+    },
+    "0x6cabaf65ab23d337008c529e3b2040908cac3b38": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Cryption Network Token ( NEW )",
+      "address": "0x6cabaf65ab23d337008c529e3b2040908cac3b38",
+      "symbol": "CNT(NEW)",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6cabaf65ab23d337008c529e3b2040908cac3b38.png",
+      "assetGroup": "Cryption Network Token ( NEW )::CNT(NEW)",
+      "currencyId": "Cryption Network Token ( NEW )::CNT(NEW)"
+    },
+    "0x6a6525d88de3c2434dc060f54eaec8fdfa12869c": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "2brl (BRLA)",
+      "address": "0x6a6525d88de3c2434dc060f54eaec8fdfa12869c",
+      "symbol": "2brl (BRLA)",
+      "assetGroup": "2brl (BRLA)::2brl (BRLA)",
+      "currencyId": "2brl (BRLA)::2brl (BRLA)"
+    },
+    "0x5d0270967bab81d0822e500b986cb6652186eaa9": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Swiss Green Gold ETP\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "address": "0x5d0270967bab81d0822e500b986cb6652186eaa9",
+      "symbol": "AUCO2\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "assetGroup": "Swiss Green Gold ETP\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000::AUCO2\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "currencyId": "Swiss Green Gold ETP\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000::AUCO2\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    "0xc48fc141c4efbe264b71005535cbc427ff4f24a6": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Anglogold Ashanti ADR\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "address": "0xc48fc141c4efbe264b71005535cbc427ff4f24a6",
+      "symbol": "CH1318754160\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "assetGroup": "Anglogold Ashanti ADR\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000::CH1318754160\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "currencyId": "Anglogold Ashanti ADR\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000::CH1318754160\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    "0x744c1f9960daef0a38e63323782c2c72706eee42": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "BIONTECH,MODERNA\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "address": "0x744c1f9960daef0a38e63323782c2c72706eee42",
+      "symbol": "CH1318755548\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "assetGroup": "BIONTECH,MODERNA\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000::CH1318755548\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+      "currencyId": "BIONTECH,MODERNA\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000::CH1318755548\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    },
+    "0x348e62131fce2f4e0d5ead3fe1719bc039b380a9": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "PYR Token",
+      "address": "0x348e62131fce2f4e0d5ead3fe1719bc039b380a9",
+      "symbol": "PYR(old)",
+      "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x348e62131fce2f4e0d5ead3fe1719bc039b380a9/c16bac72715fbe4a89b879ed7637fca7.png",
+      "assetGroup": "PYR Token::PYR(old)",
+      "currencyId": "PYR Token::PYR(old)",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xb5dfabd7ff7f83bab83995e72a52b97abb7bcf63": {
+      "chainId": "137",
+      "decimals": 9,
+      "name": "Real USD",
+      "address": "0xb5dfabd7ff7f83bab83995e72a52b97abb7bcf63",
+      "symbol": "USDR(old)",
+      "logoURI": "https://static.debank.com/image/coin/logo_url/usdr/3547003d1109759667dfca20bece3d3c.png",
+      "assetGroup": "Real USD::USDR(old)",
+      "currencyId": "Real USD::USDR(old)",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Elk",
+      "address": "0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c",
+      "symbol": "ELK(legacy)",
+      "logoURI": "https://static.debank.com/image/matic_token/logo_url/0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c/329f2280839ba8930e112bae1f61cbb9.png",
+      "assetGroup": "Elk::ELK(legacy)",
+      "currencyId": "Elk::ELK(legacy)",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xe840b73e5287865eec17d250bfb1536704b43b21": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "mUSD",
+      "address": "0xe840b73e5287865eec17d250bfb1536704b43b21",
+      "symbol": "mStableUSD(PolygonP",
+      "logoURI": "https://raw.githubusercontent.com/superfluid-finance/assets/master/public/tokens/mstable-usd-polygon-pos/icon.png",
+      "assetGroup": "mUSD::mStableUSD(PolygonP",
+      "currencyId": "mUSD::mStableUSD(PolygonP",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x4b3a922c773bdcf3ba8f1a4fdac2029e1d0e9868": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "USD Coin (Wormhole)",
+      "address": "0x4b3a922c773bdcf3ba8f1a4fdac2029e1d0e9868",
+      "symbol": "USDC.bnb(Wormhole)",
+      "logoURI": "https://static.debank.com/image/zkfair_token/logo_url/zkfair/35ab0987153a8355a454223aae371ac7.png",
+      "assetGroup": "USD Coin (Wormhole)::USDC.bnb(Wormhole)",
+      "currencyId": "USD Coin (Wormhole)::USDC.bnb(Wormhole)",
+      "tags": ["wormhole", "bridged", "biconomy-gas-token"]
+    },
+    "0x1205f31718499dbf1fca446663b532ef87481fe1": {
+      "chainId": "137",
+      "decimals": 6,
+      "name": "USD Coin (PoS)-LP",
+      "address": "0x1205f31718499dbf1fca446663b532ef87481fe1",
+      "symbol": "S*USDC",
+      "assetGroup": "USD Coin (PoS)-LP::S*USDC",
+      "currencyId": "USD Coin (PoS)-LP::S*USDC",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x29e38769f23701a2e4a8ef0492e19da4604be62c": {
+      "chainId": "137",
+      "decimals": 6,
+      "name": "(PoS) Tether USD-LP",
+      "address": "0x29e38769f23701a2e4a8ef0492e19da4604be62c",
+      "symbol": "S*USDT",
+      "assetGroup": "(PoS) Tether USD-LP::S*USDT",
+      "currencyId": "(PoS) Tether USD-LP::S*USDT",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x72bd80445b0db58ebe3e8db056529d4c5faf6f2f": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "NEAR",
+      "address": "0x72bd80445b0db58ebe3e8db056529d4c5faf6f2f",
+      "symbol": "NEAR(allbridge)",
+      "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x72bd80445b0db58ebe3e8db056529d4c5faf6f2f/43b05e93db1561c96095b25f309c938d.png",
+      "assetGroup": "NEAR::NEAR(allbridge)",
+      "currencyId": "NEAR::NEAR(allbridge)",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x6a5c59ab16268d2c872916054c50440b999e417c": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Bridged WETH (Wormhole)",
+      "address": "0x6a5c59ab16268d2c872916054c50440b999e417c",
+      "symbol": "WETH",
+      "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x82af49447d8a07e3bd95bd0d56f35241523fbab1/61844453e63cf81301f845d7864236f6.png",
+      "assetGroup": "ETH",
+      "currencyId": "Bridged ETH (Wormhole)::WETH",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x7800fe8951cdc1cdea748d878face63018d97960": {
+      "chainId": "137",
+      "decimals": 6,
+      "name": "Bridgd USDC (Wormhole)",
+      "address": "0x7800fe8951cdc1cdea748d878face63018d97960",
+      "symbol": "USDC",
+      "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xaf88d065e77c8cc2239327c5edb3a432268e5831/fffcd27b9efff5a86ab942084c05924d.png",
+      "assetGroup": "USDC",
+      "currencyId": "Bridgd USDC (Wormhole)::USDC",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x6acda5e7eb1117733dc7cb6158fc67f226b32022": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "ZROToken",
+      "address": "0x6acda5e7eb1117733dc7cb6158fc67f226b32022",
+      "symbol": "ZRO(carb0n)",
+      "logoURI": "https://static.debank.com/image/matic_token/logo_url/0x6acda5e7eb1117733dc7cb6158fc67f226b32022/e8c4c947b1f6a79f9f6cc548ff803b80.png",
+      "assetGroup": "ZROToken::ZRO(carb0n)",
+      "currencyId": "ZROToken::ZRO(carb0n)",
+      "tags": ["biconomy-gas-token"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "137",

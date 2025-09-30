@@ -121,7 +121,8 @@
       "symbol": "PASS",
       "logoURI": "https://passdex.s3.ap-southeast-1.amazonaws.com/43111/0x1B529B888d15711b4baeb5A3B12465DC3E2520A3.png",
       "assetGroup": "PassDex::PASS",
-      "currencyId": "PassDex::PASS"
+      "currencyId": "PassDex::PASS",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x71881974e96152643c74a8e0214b877cfb2a0aa1": {
       "chainId": "43111",
@@ -297,7 +298,8 @@
       "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/egeth.png",
       "assetGroup": "Bridged egETH::Bridged egETH",
       "currencyId": "Bridged egETH::Bridged egETH",
-      "tags": ["bridged"]
+      "tags": ["bridged"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xbf7d0f62b64b23053949b3a88a03da5bfd35b2e2": {
       "chainId": "43111",
@@ -349,7 +351,8 @@
       "symbol": "satUSD",
       "logoURI": "https://app.satoshiprotocol.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FsatIcon.c7c91de1.png&w=32&q=75",
       "assetGroup": "Satoshi Stablecoin V2::satUSD",
-      "currencyId": "Satoshi Stablecoin V2::satUSD"
+      "currencyId": "Satoshi Stablecoin V2::satUSD",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x8bf591eae535f93a242d5a954d3cde648b48a5a8": {
       "chainId": "43111",
@@ -489,7 +492,8 @@
       "symbol": "SLP",
       "assetGroup": "SushiSwap LP Token (VUSD-hemiBTC)::SLP",
       "currencyId": "SushiSwap LP Token (VUSD-hemiBTC)::SLP",
-      "tags": ["LENDOS"]
+      "tags": ["LENDOS"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xaf6ed58980b5a0732423469dd9f3f69d9dc6dab5": {
       "chainId": "43111",
@@ -499,7 +503,8 @@
       "symbol": "SLP",
       "assetGroup": "SushiSwap LP Token (WETH-USDC.e)::SLP",
       "currencyId": "SushiSwap LP Token (WETH-USDC.e)::SLP",
-      "tags": ["LENDOS"]
+      "tags": ["LENDOS"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xf23eec60263de9b0c8472c58be10feba28d9eb53": {
       "chainId": "43111",
@@ -509,7 +514,8 @@
       "symbol": "SLP",
       "assetGroup": "SushiSwap LP Token (VUSD-USDC.e)::SLP",
       "currencyId": "SushiSwap LP Token (VUSD-USDC.e)::SLP",
-      "tags": ["LENDOS"]
+      "tags": ["LENDOS"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xafb068838136358cfa6b54bea580b86df70bba7f": {
       "chainId": "43111",
@@ -528,7 +534,8 @@
       "address": "0x7f0b394bb1a2a4df859f8a0b2a384f3d9d4e95cc",
       "symbol": "PT-sw-bfBTC(hemiBTC)-2025/10/17",
       "assetGroup": "Principal Token: sw-bfBTC(hemiBTC) 2025/10/17::PT-sw-bfBTC(hemiBTC)-2025/10/17",
-      "currencyId": "Principal Token: sw-bfBTC(hemiBTC) 2025/10/17::PT-sw-bfBTC(hemiBTC)-2025/10/17"
+      "currencyId": "Principal Token: sw-bfBTC(hemiBTC) 2025/10/17::PT-sw-bfBTC(hemiBTC)-2025/10/17",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x99e3de3817f6081b2568208337ef83295b7f591d": {
       "chainId": "43111",

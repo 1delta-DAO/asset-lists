@@ -2412,7 +2412,8 @@
       "symbol": "YES",
       "logoURI": "https://storage.googleapis.com/zapper-fi-assets/tokens/blast/0x20fe91f17ec9080e3cac2d688b4ecb48c5ac3a9c.png",
       "assetGroup": "YES Money::YES",
-      "currencyId": "YES Money::YES"
+      "currencyId": "YES Money::YES",
+      "tags": ["biconomy-gas-token"]
     },
     "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34": {
       "chainId": "81457",
@@ -2586,6 +2587,38 @@
       "assetGroup": "Duo USD::DUSD",
       "currencyId": "Duo USD::DUSD",
       "tags": ["PAC"]
+    },
+    "0x62935d7096fe81b84f2ad376c8c5348a2648e0c1": {
+      "chainId": "81457",
+      "decimals": 18,
+      "name": "BRETT on BLAST",
+      "address": "0x62935d7096fe81b84f2ad376c8c5348a2648e0c1",
+      "symbol": "BRETT",
+      "logoURI": "https://static.debank.com/image/blast_token/logo_url/0x62935d7096fe81b84f2ad376c8c5348a2648e0c1/d6465a85fe20254a2c887b8022ca8dbe.png",
+      "assetGroup": "BRETT on BLAST::BRETT",
+      "currencyId": "BRETT on BLAST::BRETT",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x999f220296b5843b2909cc5f8b4204aaca5341d8": {
+      "chainId": "81457",
+      "decimals": 18,
+      "name": "MetaStreet V2 Deposit: WPUNKS-wstETH:40",
+      "address": "0x999f220296b5843b2909cc5f8b4204aaca5341d8",
+      "symbol": "mwstETH-WPUNKS:40",
+      "assetGroup": "MetaStreet V2 Deposit: WPUNKS-wstETH:40::mwstETH-WPUNKS:40",
+      "currencyId": "MetaStreet V2 Deposit: WPUNKS-wstETH:40::mwstETH-WPUNKS:40",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xecc68d0451e20292406967fe7c04280e5238ac7d": {
+      "chainId": "81457",
+      "decimals": 18,
+      "name": "Frax Ether",
+      "address": "0xecc68d0451e20292406967fe7c04280e5238ac7d",
+      "symbol": "frxETH(axelar)",
+      "logoURI": "https://static.debank.com/image/blast_token/logo_url/0xecc68d0451e20292406967fe7c04280e5238ac7d/71b8a5f7684c752901272fb31842abdf.png",
+      "assetGroup": "Frax Ether::frxETH(axelar)",
+      "currencyId": "Frax Ether::frxETH(axelar)",
+      "tags": ["biconomy-gas-token"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "81457",

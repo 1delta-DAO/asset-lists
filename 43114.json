@@ -2403,10 +2403,10 @@
       "name": "Axelar Wrapped UST",
       "address": "0x260bbf5698121eb85e7a74f2e45e16ce762ebe11",
       "symbol": "axlUST",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/1648112491796_24445859804930659.png",
+      "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x260bbf5698121eb85e7a74f2e45e16ce762ebe11/2643c8028832e8b7c407ba36df892d38.png",
       "assetGroup": "Axelar Wrapped UST::axlUST",
       "currencyId": "Axelar Wrapped UST::axlUST",
-      "tags": ["axelar", "bridged", "openocean"]
+      "tags": ["axelar", "bridged", "openocean", "biconomy-gas-token"]
     },
     "0x0802d66f029c46e042b74d543fc43b6705ccb4ba": {
       "chainId": "43114",
@@ -2414,10 +2414,10 @@
       "name": "ApeCoin",
       "address": "0x0802d66f029c46e042b74d543fc43b6705ccb4ba",
       "symbol": "APE",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/1647685241637_4302493200865387.jpg",
+      "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x0802d66f029c46e042b74d543fc43b6705ccb4ba/97b912e4874df863f530cedb07bfbf1c.png",
       "assetGroup": "APE",
       "currencyId": "ApeCoin::APE",
-      "tags": ["openocean"]
+      "tags": ["openocean", "biconomy-gas-token"]
     },
     "0x9f285507ea5b4f33822ca7abb5ec8953ce37a645": {
       "chainId": "43114",
@@ -2535,10 +2535,10 @@
       "name": "DeFi Kingdoms",
       "address": "0x4f60a160d8c2dddaafe16fcc57566db84d674bd6",
       "symbol": "JEWEL",
-      "logoURI": "https://s3.openocean.finance/token_logos/logos/1642171408600_5046980904932108.png",
+      "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x4f60a160d8c2dddaafe16fcc57566db84d674bd6/a94feaf839cb6af43b9687960522e2d5.png",
       "assetGroup": "JEWEL",
       "currencyId": "DeFi Kingdoms::JEWEL",
-      "tags": ["openocean"]
+      "tags": ["openocean", "biconomy-gas-token"]
     },
     "0xb00f1ad977a949a3ccc389ca1d1282a2946963b0": {
       "chainId": "43114",
@@ -4683,7 +4683,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/29656/thumb/GRELF_Logo_smol.png?1700667970",
       "assetGroup": "GRELF::GRELF",
       "currencyId": "GRELF::GRELF",
-      "tags": ["coingecko", "biconomy-gas-token"]
+      "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xe397784960f814ba35c9ee0bc4c9dffdf86925f9": {
       "chainId": "43114",
@@ -6590,7 +6590,8 @@
       "symbol": "USD+",
       "logoURI": "https://raw.githubusercontent.com/swapsicledex/swapsicle-token-list/master/logos/avalanche/0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65/logo.jpg",
       "assetGroup": "USD+",
-      "currencyId": "Overnight.fi USD+::USD+"
+      "currencyId": "Overnight.fi USD+::USD+",
+      "tags": ["biconomy-gas-token"]
     },
     "0xbb6ffece837a525a2eae033ff0161a7cdc60b693": {
       "chainId": "43114",
@@ -6753,7 +6754,7 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x42A62eb3Fd2a05eD499117F128de8a3192B49EBB.jpg",
       "assetGroup": "Axelar Wrapped ETH::axlETH",
       "currencyId": "Axelar Wrapped ETH::axlETH",
-      "tags": ["axelar", "bridged"]
+      "tags": ["axelar", "bridged", "biconomy-gas-token"]
     },
     "0xf976ba91b6bb3468c91e4f02e68b37bc64a57e66": {
       "chainId": "43114",
@@ -6905,7 +6906,8 @@
       "symbol": "oldSUSHI",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/avalanche/0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc.jpg",
       "assetGroup": "Old SushiToken::oldSUSHI",
-      "currencyId": "Old SushiToken::oldSUSHI"
+      "currencyId": "Old SushiToken::oldSUSHI",
+      "tags": ["biconomy-gas-token"]
     },
     "0xde3a24028580884448a5397872046a019649b084": {
       "chainId": "43114",
@@ -9356,6 +9358,104 @@
       "assetGroup": "LayerZero Bridged TRX::TRX",
       "currencyId": "LayerZero Bridged TRX::TRX",
       "tags": ["bridged", "layerzero", "coingecko", "debridge"]
+    },
+    "0x9d228444fc4b7e15a2c481b48e10247a03351fd8": {
+      "chainId": "43114",
+      "decimals": 6,
+      "name": "Bridged USDT (Wormhole)",
+      "address": "0x9d228444fc4b7e15a2c481b48e10247a03351fd8",
+      "symbol": "USDT",
+      "logoURI": "https://static.debank.com/image/coin/logo_url/usdt/23af7472292cb41dc39b3f1146ead0fe.png",
+      "assetGroup": "Bridged USDT (Wormhole)::USDT",
+      "currencyId": "Bridged USDT (Wormhole)::USDT",
+      "tags": ["wormhole", "bridged", "biconomy-gas-token"]
+    },
+    "0x09211dc67f9fe98fb7bbb91be0ef05f4a12fa2b2": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Bridged SPACE (Multichain)",
+      "address": "0x09211dc67f9fe98fb7bbb91be0ef05f4a12fa2b2",
+      "symbol": "SPACE",
+      "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x09211dc67f9fe98fb7bbb91be0ef05f4a12fa2b2/934201c14d045663ba04b55929590888.png",
+      "assetGroup": "Bridged SPACE (Multichain)::SPACE",
+      "currencyId": "Bridged SPACE (Multichain)::SPACE",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab": {
+      "chainId": "43114",
+      "decimals": 8,
+      "name": "Bridged WBTC",
+      "address": "0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab",
+      "symbol": "WBTC",
+      "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab/d3c52e7c7449afa8bd4fad1c93f50d93.png",
+      "assetGroup": "Bridged WBTC::WBTC",
+      "currencyId": "Bridged WBTC::WBTC",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x0ebd9537a25f56713e34c45b38f421a1e7191469": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "OpenOcean (old)",
+      "address": "0x0ebd9537a25f56713e34c45b38f421a1e7191469",
+      "symbol": "OOE",
+      "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x0ebd9537a25f56713e34c45b38f421a1e7191469/82124d68da604f900e236dd424e54343.png",
+      "assetGroup": "OpenOcean (old)::OOE",
+      "currencyId": "OpenOcean (old)::OOE",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x22fa75d747320ae5d14cc625f696487c83243cd3": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Axelar Wrapped KNC",
+      "address": "0x22fa75d747320ae5d14cc625f696487c83243cd3",
+      "symbol": "KNC",
+      "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202/1d25e188deb06e642ea6f4f4f8eb0a0c.png",
+      "assetGroup": "Axelar Wrapped KNC::KNC",
+      "currencyId": "Axelar Wrapped KNC::KNC",
+      "tags": ["axelar", "bridged", "biconomy-gas-token"]
+    },
+    "0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Elk (legacy)",
+      "address": "0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c",
+      "symbol": "ELK",
+      "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xe1c110e1b1b4a1ded0caf3e42bfbdbb7b5d7ce1c/329f2280839ba8930e112bae1f61cbb9.png",
+      "assetGroup": "Elk (legacy)::ELK",
+      "currencyId": "Elk (legacy)::ELK",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xe1c8f3d529bea8e3fa1fac5b416335a2f998ee1c": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Elk (old)",
+      "address": "0xe1c8f3d529bea8e3fa1fac5b416335a2f998ee1c",
+      "symbol": "ELK",
+      "logoURI": "https://static.debank.com/image/avax_token/logo_url/0xe1c8f3d529bea8e3fa1fac5b416335a2f998ee1c/9bb2236511ea0686d60140c0b12367d6.png",
+      "assetGroup": "Elk (old)::ELK",
+      "currencyId": "Elk (old)::ELK",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xf39f9671906d8630812f9d9863bbef5d523c84ab": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Uniswap",
+      "address": "0xf39f9671906d8630812f9d9863bbef5d523c84ab",
+      "symbol": "UNI(old avax bridge)",
+      "assetGroup": "Uniswap::UNI(old avax bridge)",
+      "currencyId": "Uniswap::UNI(old avax bridge)",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x98b172a09102869add73116fc92a0a60bff4778f": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "APEX (apexdefi.xyz)",
+      "address": "0x98b172a09102869add73116fc92a0a60bff4778f",
+      "symbol": "APEX",
+      "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x98b172a09102869add73116fc92a0a60bff4778f/8a796e6c9d95077052e6cab15c7f0c44.png",
+      "assetGroup": "APEX (apexdefi.xyz)::APEX",
+      "currencyId": "APEX (apexdefi.xyz)::APEX",
+      "tags": ["biconomy-gas-token"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "43114",
