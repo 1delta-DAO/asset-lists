@@ -397,7 +397,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/28405/thumb/xcksm.jpeg?1696527403",
       "assetGroup": "xcKSM::XCKSM",
       "currencyId": "xcKSM::XCKSM",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "polkadot", "bridged"]
     },
     "0x6bd193ee6d2104f14f94e2ca6efefae561a4334b": {
       "chainId": "1285",
@@ -615,7 +615,8 @@
       "address": "0xffffffff08220ad2e6e157f26ed8bd22a336a0a5",
       "symbol": "xcKAR",
       "assetGroup": "Karura::xcKAR",
-      "currencyId": "Karura::xcKAR"
+      "currencyId": "Karura::xcKAR",
+      "tags": ["polkadot", "bridged"]
     },
     "0xffffffff0ca324c842330521525e7de111f38972": {
       "chainId": "1285",
@@ -624,7 +625,8 @@
       "address": "0xffffffff0ca324c842330521525e7de111f38972",
       "symbol": "xcSDN",
       "assetGroup": "Shiden::xcSDN",
-      "currencyId": "Shiden::xcSDN"
+      "currencyId": "Shiden::xcSDN",
+      "tags": ["polkadot", "bridged"]
     },
     "0xffffffff83f4f317d3cbf6ec6250aec3697b3ff2": {
       "chainId": "1285",
@@ -633,7 +635,8 @@
       "address": "0xffffffff83f4f317d3cbf6ec6250aec3697b3ff2",
       "symbol": "xcKINT",
       "assetGroup": "Kintsugi Native Token::xcKINT",
-      "currencyId": "Kintsugi Native Token::xcKINT"
+      "currencyId": "Kintsugi Native Token::xcKINT",
+      "tags": ["polkadot", "bridged"]
     },
     "0xffffffffa083189f870640b141ae1e882c2b5bad": {
       "chainId": "1285",
@@ -642,7 +645,8 @@
       "address": "0xffffffffa083189f870640b141ae1e882c2b5bad",
       "symbol": "xcKMA",
       "assetGroup": "Calamari::xcKMA",
-      "currencyId": "Calamari::xcKMA"
+      "currencyId": "Calamari::xcKMA",
+      "tags": ["polkadot", "bridged"]
     },
     "0xfffffffff075423be54811ecb478e911f22dde7d": {
       "chainId": "1285",
@@ -651,7 +655,8 @@
       "address": "0xfffffffff075423be54811ecb478e911f22dde7d",
       "symbol": "xcBNC",
       "assetGroup": "xcBNC::xcBNC",
-      "currencyId": "xcBNC::xcBNC"
+      "currencyId": "xcBNC::xcBNC",
+      "tags": ["polkadot", "bridged"]
     },
     "0xfffffffff6e528ad57184579beee00c5d5e646f0": {
       "chainId": "1285",
@@ -660,7 +665,8 @@
       "address": "0xfffffffff6e528ad57184579beee00c5d5e646f0",
       "symbol": "xcKBTC",
       "assetGroup": "Kintsugi Wrapped BTC::xcKBTC",
-      "currencyId": "Kintsugi Wrapped BTC::xcKBTC"
+      "currencyId": "Kintsugi Wrapped BTC::xcKBTC",
+      "tags": ["polkadot", "bridged"]
     },
     "0xffffffff7d2b0b761af01ca8e25242976ac0ad7d": {
       "chainId": "1285",

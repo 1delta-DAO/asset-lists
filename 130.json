@@ -3252,9 +3252,9 @@
       "address": "0x15261eeb999ed3c3ae3c5319e0035940dc06a12f",
       "symbol": "XCN",
       "logoURI": "https://assets.coingecko.com/coins/images/24210/thumb/Chain_icon_200x200.png?1646895054",
-      "assetGroup": "XCN",
+      "assetGroup": "Chain::XCN",
       "currencyId": "Chain::XCN",
-      "tags": ["biconomy-gas-token"],
+      "tags": ["biconomy-gas-token", "polkadot", "bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xb1a9385b500fe81b58c4d0e3aacc39d8021265c3": {

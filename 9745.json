@@ -159,7 +159,8 @@
       "symbol": "trillions",
       "logoURI": "https://assets.coingecko.com/coins/images/69560/standard/trillions.png?1759039612",
       "assetGroup": "trillions::trillions",
-      "currencyId": "trillions::trillions"
+      "currencyId": "trillions::trillions",
+      "tags": ["biconomy-gas-token"]
     },
     "0xe561fe05c39075312aa9bc6af79ddae981461359": {
       "chainId": "9745",
@@ -291,6 +292,72 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/69514/large/SyrupUSDT.png?1758823529",
       "assetGroup": "Syrup USDT::syrupUSDT",
       "currencyId": "Syrup USDT::syrupUSDT"
+    },
+    "0xe13e223116b9f53238a228d7dc9159786fff502a": {
+      "chainId": "9745",
+      "decimals": 18,
+      "name": "Sparkle",
+      "address": "0xe13e223116b9f53238a228d7dc9159786fff502a",
+      "symbol": "SPARK",
+      "logoURI": "https://cdn.dexscreener.com/cms/images/d0f11a422d97abbb3e4a38226cd3a631aeddc4db89ebd7b987bd2c93d1c741be",
+      "assetGroup": "Sparkle::SPARK",
+      "currencyId": "Sparkle::SPARK",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xfc8a5aeefad8cc23f629489cdc6b0ec883d04702": {
+      "chainId": "9745",
+      "decimals": 18,
+      "name": "BANKLESS",
+      "address": "0xfc8a5aeefad8cc23f629489cdc6b0ec883d04702",
+      "symbol": "BANKLESS",
+      "logoURI": "https://cdn.dexscreener.com/cms/images/a237b293803fff90df6a92d02a405a5e3cc409795aa4a84261a939fd7a622897",
+      "assetGroup": "BANKLESS::BANKLESS",
+      "currencyId": "BANKLESS::BANKLESS",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xdab1d6f39a375e643752bd2c5a374a933cbeec72": {
+      "chainId": "9745",
+      "decimals": 18,
+      "name": "Xploy",
+      "address": "0xdab1d6f39a375e643752bd2c5a374a933cbeec72",
+      "symbol": "Xploy",
+      "logoURI": "https://cdn.dexscreener.com/cms/images/fb454a04a2964f2a001c40322aeaf75543edf4657fc0cd315e1c9c74bd0a069c",
+      "assetGroup": "Xploy::Xploy",
+      "currencyId": "Xploy::Xploy",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x54ef95b1eb3024e578b429b2883ab888a12a96a9": {
+      "chainId": "9745",
+      "decimals": 18,
+      "name": "LUNA",
+      "address": "0x54ef95b1eb3024e578b429b2883ab888a12a96a9",
+      "symbol": "LUNA",
+      "logoURI": "https://cdn.dexscreener.com/cms/images/0e51138cf2d4d29570103ba19f2c8ceaf381c8095064d8d87b2bf5a8a6724280",
+      "assetGroup": "LUNA::LUNA",
+      "currencyId": "LUNA::LUNA",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xc328eba438550736e8fa053a1b990783fca8a047": {
+      "chainId": "9745",
+      "decimals": 18,
+      "name": "TREVEE",
+      "address": "0xc328eba438550736e8fa053a1b990783fca8a047",
+      "symbol": "TREVEE",
+      "logoURI": "https://cdn.dexscreener.com/cms/images/02db979b28da03b9e1fd816e3d4d7d685ff498c552809e717c50ec861f3901bd",
+      "assetGroup": "TREVEE::TREVEE",
+      "currencyId": "TREVEE::TREVEE",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x6d4573f3fc333fd196b6fdb90a13e81dc52f6097": {
+      "chainId": "9745",
+      "decimals": 18,
+      "name": "Plasmatic Instant Payment System",
+      "address": "0x6d4573f3fc333fd196b6fdb90a13e81dc52f6097",
+      "symbol": "PIPS",
+      "logoURI": "https://cdn.dexscreener.com/cms/images/56c9b8e6604b49d56e29cbda9e03edc651cd184b075d1447c1a67ce1091164a4",
+      "assetGroup": "Plasmatic Instant Payment System::PIPS",
+      "currencyId": "Plasmatic Instant Payment System::PIPS",
+      "tags": ["biconomy-gas-token"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "9745",

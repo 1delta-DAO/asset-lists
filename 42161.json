@@ -2484,7 +2484,7 @@
       "address": "0x58bbc087e36db40a84b22c1b93a042294deeafed",
       "symbol": "XCN",
       "logoURI": "https://assets.coingecko.com/coins/images/24210/thumb/Chain_icon_200x200.png?1646895054",
-      "assetGroup": "XCN",
+      "assetGroup": "Chain::XCN",
       "currencyId": "Chain::XCN",
       "tags": ["biconomy-gas-token"],
       "props": { "permit": { "type": 1, "version": "1" } }
@@ -19591,7 +19591,8 @@
       "symbol": "XCAL",
       "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xd2568accd10a4c98e87c44e9920360031ad89fcb/ed5a8b59cc9e86036073a97144386ccb.png",
       "assetGroup": "3xcalibur Ecosystem Token::XCAL",
-      "currencyId": "3xcalibur Ecosystem Token::XCAL"
+      "currencyId": "3xcalibur Ecosystem Token::XCAL",
+      "tags": ["polkadot", "bridged"]
     },
     "0x81de4945807bb31425362f8f7109c18e3dc4f8f0": {
       "chainId": "42161",
@@ -22929,24 +22930,6 @@
       "currencyId": "Rain::RAIN",
       "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
-    "0xdf03eed325b82bc1d4db8b49c30ecc9e05104b96": {
-      "chainId": "42161",
-      "decimals": 18,
-      "name": "GMX Liquidity Vault [WBTC-USDC]",
-      "address": "0xdf03eed325b82bc1d4db8b49c30ecc9e05104b96",
-      "symbol": "GLV [WBTC-USDC]",
-      "assetGroup": "GMX Liquidity Vault [WBTC-USDC]::GLV [WBTC-USDC]",
-      "currencyId": "GMX Liquidity Vault [WBTC-USDC]::GLV [WBTC-USDC]"
-    },
-    "0x528a5bac7e746c9a509a1f4f6df58a03d44279f9": {
-      "chainId": "42161",
-      "decimals": 18,
-      "name": "GMX Liquidity Vault [WETH-USDC]",
-      "address": "0x528a5bac7e746c9a509a1f4f6df58a03d44279f9",
-      "symbol": "GLV [WETH-USDC]",
-      "assetGroup": "GMX Liquidity Vault [WETH-USDC]::GLV [WETH-USDC]",
-      "currencyId": "GMX Liquidity Vault [WETH-USDC]::GLV [WETH-USDC]"
-    },
     "0x5a791652f3b140d357df072d355a98ab754877d1": {
       "chainId": "42161",
       "decimals": 6,
@@ -23067,7 +23050,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68017/thumb/Crotch_Token_Logo_200.png?1754598551",
       "assetGroup": "CROTCH::CROTCH",
       "currencyId": "CROTCH::CROTCH",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "42161",

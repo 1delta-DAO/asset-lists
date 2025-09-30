@@ -2880,7 +2880,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/28034/thumb/xCRX_%28200_%C3%97_200_px%29.png?1696527049",
       "assetGroup": "xCRX::XCRX",
       "currencyId": "xCRX::XCRX",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "polkadot", "bridged"]
     },
     "0x025f1575908d85815198390b2e5366fe754f8207": {
       "chainId": "25",
@@ -3221,6 +3221,26 @@
       "assetGroup": "MyCroStrategy::MCS",
       "currencyId": "MyCroStrategy::MCS",
       "tags": ["coingecko"]
+    },
+    "0xfdea7ab3ce8cd76d6bf8d430beb9e0cb602ad392": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "PigeonToken",
+      "address": "0xfdea7ab3ce8cd76d6bf8d430beb9e0cb602ad392",
+      "symbol": "PIQ",
+      "logoURI": "https://vvs-ui.vvs.finance/2ca5b5c286c1308ef013a3cbc7eba30d72e5fc0c09ce8a600119cb77f42df250.svg",
+      "assetGroup": "PigeonToken::PIQ",
+      "currencyId": "PigeonToken::PIQ"
+    },
+    "0xba69b94c2e2c961226d25cc3d0255e5845fd34e7": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "🎣",
+      "address": "0xba69b94c2e2c961226d25cc3d0255e5845fd34e7",
+      "symbol": "FISH",
+      "logoURI": "https://vvs-ui.vvs.finance/045f25bba04d32e15a0d3c2f30d09eaf8666dee099d0c82d0123a2bebaa208e9.svg",
+      "assetGroup": "🎣::FISH",
+      "currencyId": "🎣::FISH"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "25",

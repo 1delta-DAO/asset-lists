@@ -2256,7 +2256,8 @@
       "symbol": "USDp",
       "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg",
       "assetGroup": "USDp::USDp",
-      "currencyId": "USDp::USDp"
+      "currencyId": "USDp::USDp",
+      "tags": ["coingecko", "debridge"]
     },
     "0xe8a3da6f5ed1cf04c58ac7f6a7383641e877517b": {
       "chainId": "146",
@@ -2648,7 +2649,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69534/thumb/lsd-logo-small.png?1758954992",
       "assetGroup": "Liquid Sonic Drop::LSD",
       "currencyId": "Liquid Sonic Drop::LSD",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "146",

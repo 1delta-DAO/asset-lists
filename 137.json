@@ -5886,9 +5886,9 @@
       "address": "0xa55870278d6389ec5b524553d03c04f5677c061e",
       "symbol": "XCAD",
       "logoURI": "https://assets.coingecko.com/coins/images/15857/large/logoWhiteX.jpg?1666230966",
-      "assetGroup": "XCAD",
+      "assetGroup": "XCAD Network::XCAD",
       "currencyId": "XCAD Network::XCAD",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token", "polkadot", "bridged"]
     },
     "0xd668c5e8a4a837ca95be5e3a8d5bd62f5985390d": {
       "chainId": "137",
@@ -15011,7 +15011,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/137/0x2075828cdedc356b5358d79cfd314548842e4a2e/small/token-logo.png",
       "assetGroup": "BlockChainCoinX::XCCX",
       "currencyId": "BlockChainCoinX::XCCX",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token", "polkadot", "bridged"]
     },
     "0xaf0dc42725db75ae54f5e8945e71017bc7acd27d": {
       "chainId": "137",
@@ -15121,7 +15121,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/137/0xfa3c05c2023918a4324fde7163591fe6bebd1692/small/token-logo.png",
       "assetGroup": "Cresio::XCRE",
       "currencyId": "Cresio::XCRE",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token", "polkadot", "bridged"]
     },
     "0xb0b2ef34d412d73b0ff90a709d1779a20655165a": {
       "chainId": "137",
@@ -27175,7 +27175,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/137/0xb36b62929762acf8a9cc27ecebf6d353ebb48244/small/token-logo.png",
       "assetGroup": "Sharp Token::SHARP",
       "currencyId": "Sharp Token::SHARP",
-      "tags": ["debridge"]
+      "tags": ["debridge", "biconomy-gas-token"]
     },
     "0xaa694b85c6aa5c983d211b50e27d2d4b8109589a": {
       "chainId": "137",
@@ -27183,9 +27183,10 @@
       "name": "Nakama Coin",
       "address": "0xaa694b85c6aa5c983d211b50e27d2d4b8109589a",
       "symbol": "NAKAMACOIN",
+      "logoURI": "https://assets.coingecko.com/coins/images/69300/thumb/NAKAMA-Token-Logo-512x512.jpg?1758125064",
       "assetGroup": "Nakama Coin::NAKAMACOIN",
       "currencyId": "Nakama Coin::NAKAMACOIN",
-      "tags": ["debridge"]
+      "tags": ["debridge", "biconomy-gas-token"]
     },
     "0xdfffe0c33b4011c4218acd61e68a62a32eaf9a8b": {
       "chainId": "137",
@@ -27193,9 +27194,10 @@
       "name": "Regen",
       "address": "0xdfffe0c33b4011c4218acd61e68a62a32eaf9a8b",
       "symbol": "axlREGEN",
+      "logoURI": "https://assets.coingecko.com/coins/images/16733/thumb/REGEN.png?1696516306",
       "assetGroup": "Regen::axlREGEN",
       "currencyId": "Regen::axlREGEN",
-      "tags": ["debridge"]
+      "tags": ["debridge", "biconomy-gas-token"]
     },
     "0x94195b2b2b5e772aec57d98c55a57dbbfe05b0fc": {
       "chainId": "137",
@@ -27203,9 +27205,10 @@
       "name": "CROTCH",
       "address": "0x94195b2b2b5e772aec57d98c55a57dbbfe05b0fc",
       "symbol": "WCROTCH",
+      "logoURI": "https://assets.coingecko.com/coins/images/68017/thumb/Crotch_Token_Logo_200.png?1754598551",
       "assetGroup": "CROTCH::WCROTCH",
       "currencyId": "CROTCH::WCROTCH",
-      "tags": ["debridge"]
+      "tags": ["debridge", "biconomy-gas-token"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "137",

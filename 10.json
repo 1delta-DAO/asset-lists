@@ -4212,7 +4212,7 @@
       "logoURI": "https://ethereum-optimism.github.io/data/XCHF/logo.png",
       "assetGroup": "CryptoFranc::XCHF",
       "currencyId": "CryptoFranc::XCHF",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "polkadot", "bridged"]
     },
     "0x3d51a9fb5dcc87f7b237b04975559b920a9a56ff": {
       "chainId": "10",
@@ -6331,6 +6331,17 @@
       "logoURI": "https://ethereum-optimism.github.io/data/CANA/logo.svg",
       "assetGroup": "CANA Holdings California Carbon Credits::CANA",
       "currencyId": "CANA Holdings California Carbon Credits::CANA",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x0633e91f64c22d4fea53dbe6e77b7ba4093177b8": {
+      "chainId": "10",
+      "decimals": 18,
+      "name": "Lit Protocol",
+      "address": "0x0633e91f64c22d4fea53dbe6e77b7ba4093177b8",
+      "symbol": "LITKEY",
+      "logoURI": "https://ethereum-optimism.github.io/data/LITKEY/logo.png",
+      "assetGroup": "Lit Protocol::LITKEY",
+      "currencyId": "Lit Protocol::LITKEY",
       "tags": ["biconomy-gas-token"]
     },
     "0x0000000000000000000000000000000000000000": {

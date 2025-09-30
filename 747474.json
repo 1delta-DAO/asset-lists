@@ -176,7 +176,7 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/weeth.svg",
       "assetGroup": "WEETH",
       "currencyId": "Wrapped eETH::weETH",
-      "tags": ["lrt", "yield", "eth"]
+      "tags": ["lrt", "yield", "eth", "coingecko"]
     },
     "0x62d6a123e8d19d06d68cf0d2294f9a3a0362c6b3": {
       "chainId": "747474",
@@ -341,6 +341,17 @@
       "currencyId": "ChainLink Token::LINK",
       "tags": ["coingecko"]
     },
+    "0x93fec6639717b6215a48e5a72a162c50dcc40d68": {
+      "chainId": "747474",
+      "decimals": 6,
+      "name": "AUSD yVault",
+      "address": "0x93fec6639717b6215a48e5a72a162c50dcc40d68",
+      "symbol": "AUSD",
+      "logoURI": "https://cdn.morpho.org/assets/logos/yvvbausd.svg",
+      "assetGroup": "AUSD yVault::AUSD",
+      "currencyId": "AUSD yVault::AUSD",
+      "tags": ["stablecoin", "usd-pegged", "rwa", "yield"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "747474",
       "decimals": 18,
@@ -380,7 +391,8 @@
     "0xb0f70c0bd6fd87dbeb7c10dc692a2a6106817072",
     "0x6c16e26013f2431e8b2e1ba7067ecccad0db6c52",
     "0x1e5efca3d0db2c6d5c67a4491845c43253eb9e4e",
-    "0xc2c447b04e0ed3476ddbdae8e9e39be7159d27b6"
+    "0xc2c447b04e0ed3476ddbdae8e9e39be7159d27b6",
+    "0x9893989433e7a383cb313953e4c2365107dc19a7"
   ],
   "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",

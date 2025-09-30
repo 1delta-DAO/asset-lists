@@ -7247,12 +7247,12 @@
     "0xf9a075c9647e91410bf6c402bdf166e1540f67f0": {
       "chainId": "43114",
       "decimals": 18,
-      "name": "Sing (Avalanche)",
+      "name": "Sing",
       "address": "0xf9a075c9647e91410bf6c402bdf166e1540f67f0",
       "symbol": "SING",
       "logoURI": "https://metacore.mobula.io/0970ae08607ba329fffecbf8da108a9ed5ef81dd0d56e01f000cdaff55018ee0.png",
-      "assetGroup": "Sing (Avalanche)::SING",
-      "currencyId": "Sing (Avalanche)::SING"
+      "assetGroup": "Sing::SING",
+      "currencyId": "Sing::SING"
     },
     "0x75739a693459f33b1fbcc02099eea3ebcf150cbe": {
       "chainId": "43114",
@@ -9270,7 +9270,8 @@
       "symbol": "xUSD",
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x94f9bb5c972285728dcee7eaece48bec2ff341ce.png",
       "assetGroup": "Staked Stream USD::xUSD",
-      "currencyId": "Staked Stream USD::xUSD"
+      "currencyId": "Staked Stream USD::xUSD",
+      "tags": ["coingecko", "debridge"]
     },
     "0x6eaf19b2fc24552925db245f9ff613157a7dbb4c": {
       "chainId": "43114",
@@ -9343,7 +9344,18 @@
       "logoURI": "https://assets.coingecko.com/coins/images/38501/thumb/Orderly_Network_Coingecko_200*200.png?1717751359",
       "assetGroup": "Orderly::ORDER",
       "currencyId": "Orderly::ORDER",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+    },
+    "0xc5718c4c91e9d051b082e02b1138ab5b6a01dcd1": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "LayerZero Bridged TRX",
+      "address": "0xc5718c4c91e9d051b082e02b1138ab5b6a01dcd1",
+      "symbol": "TRX",
+      "logoURI": "https://assets.coingecko.com/coins/images/69612/thumb/trx.png?1759221091",
+      "assetGroup": "LayerZero Bridged TRX::TRX",
+      "currencyId": "LayerZero Bridged TRX::TRX",
+      "tags": ["bridged", "layerzero", "coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "43114",

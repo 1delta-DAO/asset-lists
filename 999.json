@@ -3806,7 +3806,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69562/thumb/uphl_.png?1759040242",
       "assetGroup": "Upheaval Finance::UPHL",
       "currencyId": "Upheaval Finance::UPHL",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x33af3c2540ba72054e044efe504867b39ae421f5": {
       "chainId": "999",
@@ -3817,6 +3817,17 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69561/thumb/plasma.png?1759039851",
       "assetGroup": "Unit Plasma::UXPL",
       "currencyId": "Unit Plasma::UXPL",
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+    },
+    "0xf9775085d726e782e83585033b58606f7731ab18": {
+      "chainId": "999",
+      "decimals": 8,
+      "name": "uniBTC",
+      "address": "0xf9775085d726e782e83585033b58606f7731ab18",
+      "symbol": "uniBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455",
+      "assetGroup": "UNIBTC",
+      "currencyId": "uniBTC::uniBTC",
       "tags": ["coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
@@ -3862,6 +3873,7 @@
     "0xb09158c8297acee00b900dc1f8715df46b7246a6",
     "0x9b498c3c8a0b8cd8ba1d9851d40d186f1872b44e",
     "0xbe6727b535545c67d5caa73dea54865b92cf7907",
+    "0xf9775085d726e782e83585033b58606f7731ab18",
     "0x7bbcf1b600565ae023a1806ef637af4739de3255",
     "0xae4efbc7736f963982aacb17efa37fcbab924cb3",
     "0xc99f5c922dae05b6e2ff83463ce705ef7c91f077",
