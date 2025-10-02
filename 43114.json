@@ -8667,8 +8667,10 @@
       "name": "XAUt0",
       "address": "0x2775d5105276781b4b85ba6ea6a6653beed1dd32",
       "symbol": "XAUt0",
+      "logoURI": "https://assets.coingecko.com/coins/images/66560/thumb/XAUt0_Token_Icon_Gold.png?1749747942",
       "assetGroup": "XAUt0::XAUt0",
-      "currencyId": "XAUt0::XAUt0"
+      "currencyId": "XAUt0::XAUt0",
+      "tags": ["coingecko", "debridge"]
     },
     "0x0f13fc8a93ab8edc9fde0a1e19aac693161599a5": {
       "chainId": "43114",
@@ -9273,7 +9275,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x94f9bb5c972285728dcee7eaece48bec2ff341ce.png",
       "assetGroup": "Staked Stream USD::xUSD",
       "currencyId": "Staked Stream USD::xUSD",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x6eaf19b2fc24552925db245f9ff613157a7dbb4c": {
       "chainId": "43114",
@@ -9357,7 +9359,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69612/thumb/trx.png?1759221091",
       "assetGroup": "LayerZero Bridged TRX::TRX",
       "currencyId": "LayerZero Bridged TRX::TRX",
-      "tags": ["bridged", "layerzero", "coingecko", "debridge"]
+      "tags": ["bridged", "layerzero", "coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x9d228444fc4b7e15a2c481b48e10247a03351fd8": {
       "chainId": "43114",
@@ -9366,7 +9368,7 @@
       "address": "0x9d228444fc4b7e15a2c481b48e10247a03351fd8",
       "symbol": "USDT",
       "logoURI": "https://static.debank.com/image/coin/logo_url/usdt/23af7472292cb41dc39b3f1146ead0fe.png",
-      "assetGroup": "Bridged USDT (Wormhole)::USDT",
+      "assetGroup": "USDT",
       "currencyId": "Bridged USDT (Wormhole)::USDT",
       "tags": ["wormhole", "bridged", "biconomy-gas-token"]
     },
@@ -9379,7 +9381,7 @@
       "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x09211dc67f9fe98fb7bbb91be0ef05f4a12fa2b2/934201c14d045663ba04b55929590888.png",
       "assetGroup": "Bridged SPACE (Multichain)::SPACE",
       "currencyId": "Bridged SPACE (Multichain)::SPACE",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "multichain", "bridged"]
     },
     "0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab": {
       "chainId": "43114",
@@ -9388,9 +9390,9 @@
       "address": "0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab",
       "symbol": "WBTC",
       "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x408d4cd0adb7cebd1f1a1c33a0ba2098e1295bab/d3c52e7c7449afa8bd4fad1c93f50d93.png",
-      "assetGroup": "Bridged WBTC::WBTC",
+      "assetGroup": "WBTC",
       "currencyId": "Bridged WBTC::WBTC",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "bridged"]
     },
     "0x0ebd9537a25f56713e34c45b38f421a1e7191469": {
       "chainId": "43114",
@@ -9399,7 +9401,7 @@
       "address": "0x0ebd9537a25f56713e34c45b38f421a1e7191469",
       "symbol": "OOE",
       "logoURI": "https://static.debank.com/image/avax_token/logo_url/0x0ebd9537a25f56713e34c45b38f421a1e7191469/82124d68da604f900e236dd424e54343.png",
-      "assetGroup": "OpenOcean (old)::OOE",
+      "assetGroup": "OOE",
       "currencyId": "OpenOcean (old)::OOE",
       "tags": ["biconomy-gas-token"]
     },

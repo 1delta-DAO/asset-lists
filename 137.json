@@ -26631,8 +26631,10 @@
       "name": "XAUt0",
       "address": "0xf1815bd50389c46847f0bda824ec8da914045d14",
       "symbol": "XAUt0",
+      "logoURI": "https://tokens.debridge.finance/Logo/137/0xf1815bd50389c46847f0bda824ec8da914045d14/small/token-logo.png",
       "assetGroup": "XAUt0::XAUt0",
-      "currencyId": "XAUt0::XAUt0"
+      "currencyId": "XAUt0::XAUt0",
+      "tags": ["debridge"]
     },
     "0x7aefff599570dec2f3dbbc2ace3cb1f8206749eb": {
       "chainId": "137",
@@ -27371,8 +27373,8 @@
       "symbol": "WETH",
       "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x82af49447d8a07e3bd95bd0d56f35241523fbab1/61844453e63cf81301f845d7864236f6.png",
       "assetGroup": "ETH",
-      "currencyId": "Bridged ETH (Wormhole)::WETH",
-      "tags": ["biconomy-gas-token"]
+      "currencyId": "Bridged WETH (Wormhole)::WETH",
+      "tags": ["biconomy-gas-token", "wormhole", "bridged"]
     },
     "0x7800fe8951cdc1cdea748d878face63018d97960": {
       "chainId": "137",
@@ -27383,7 +27385,7 @@
       "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xaf88d065e77c8cc2239327c5edb3a432268e5831/fffcd27b9efff5a86ab942084c05924d.png",
       "assetGroup": "USDC",
       "currencyId": "Bridgd USDC (Wormhole)::USDC",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "wormhole", "bridged"]
     },
     "0x6acda5e7eb1117733dc7cb6158fc67f226b32022": {
       "chainId": "137",

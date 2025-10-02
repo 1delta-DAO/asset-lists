@@ -1956,7 +1956,7 @@
       "address": "0x7f5373ae26c3e8ffc4c77b7255df7ec1a9af52a6",
       "symbol": "USDT",
       "logoURI": "https://static.debank.com/image/coin/logo_url/usdt/23af7472292cb41dc39b3f1146ead0fe.png",
-      "assetGroup": "Axelar Wrapped USDT::USDT",
+      "assetGroup": "USDT",
       "currencyId": "Axelar Wrapped USDT::USDT",
       "tags": ["axelar", "bridged", "biconomy-gas-token"]
     },
@@ -1969,7 +1969,7 @@
       "logoURI": "https://static.debank.com/image/coin/logo_url/usdt/23af7472292cb41dc39b3f1146ead0fe.png",
       "assetGroup": "USDT",
       "currencyId": "Bridged USDT (deBridge)::USDT",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "bridged"]
     },
     "0xb448ec505c924944ca8b2c55ef05c299ee0781df": {
       "chainId": "59144",

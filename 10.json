@@ -3603,8 +3603,8 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x97513e975a7fa9072c72c92d8000b0db90b163c5.png",
       "assetGroup": "multiBeets::multiBeets",
       "currencyId": "multiBeets::multiBeets",
-      "props": { "permit": { "type": 1, "version": "1" } },
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token"],
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xd0d334b6cfd77acc94bab28c7783982387856449": {
       "chainId": "10",

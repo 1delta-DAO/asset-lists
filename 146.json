@@ -1604,7 +1604,8 @@
       "symbol": "waUSDC",
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd4fa2d31b7968e448877f69a96de69f5de8cd23e.png",
       "assetGroup": "Wrapped Aave Sonic USDC::waUSDC",
-      "currencyId": "Wrapped Aave Sonic USDC::waUSDC"
+      "currencyId": "Wrapped Aave Sonic USDC::waUSDC",
+      "tags": ["coingecko", "debridge"]
     },
     "0x18b7b8695165290f2767bc63c36d3dfea4c0f9bb": {
       "chainId": "146",
@@ -2257,7 +2258,7 @@
       "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg",
       "assetGroup": "USDp::USDp",
       "currencyId": "USDp::USDp",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0xe8a3da6f5ed1cf04c58ac7f6a7383641e877517b": {
       "chainId": "146",
@@ -2331,7 +2332,15 @@
       "assetGroup": "PT Wrapped stkscUSD 29MAY2025::PT-wstkscUSD-29MAY2025",
       "currencyId": "PT Wrapped stkscUSD 29MAY2025::PT-wstkscUSD-29MAY2025",
       "tags": ["PENDLE-PT", "ENCLABS"],
-      "props": { "pendle": { "tokenType": "PT" } }
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "ytAddress": "0xdcad0f3992a72ea0ce5eb703293a353249c0a76f",
+          "marketAddress": "0x6e4e95fab7db1f0524b4b0a05f0b9c96380b7dfa",
+          "syAddress": "0x896f4d49916ac5cfc36d7a260a7039ba4ea317b6",
+          "expiry": 1748476800
+        }
+      }
     },
     "0xd2901d474b351bc6ee7b119f9c920863b0f781b2": {
       "chainId": "146",

@@ -306,6 +306,17 @@
       "currencyId": "USDC::USDC",
       "tags": ["coingecko"]
     },
+    "0xf50258d3c1dd88946c567920b986a12e65b50dac": {
+      "chainId": "57073",
+      "decimals": 6,
+      "name": "Tether Gold Tokens",
+      "address": "0xf50258d3c1dd88946c567920b986a12e65b50dac",
+      "symbol": "XAUT0",
+      "logoURI": "https://assets.coingecko.com/coins/images/66560/thumb/XAUt0_Token_Icon_Gold.png?1749747942",
+      "assetGroup": "Tether Gold Tokens::XAUT0",
+      "currencyId": "Tether Gold Tokens::XAUT0",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "57073",
       "decimals": 18,
@@ -343,7 +354,8 @@
     "0x0606fc632ee812ba970af72f8489baaa443c4b98",
     "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
     "0x71052bae71c25c78e37fd12e5ff1101a71d9018f",
-    "0x2d270e6886d130d724215a266106e6832161eaed"
+    "0x2d270e6886d130d724215a266106e6832161eaed",
+    "0xf50258d3c1dd88946c567920b986a12e65b50dac"
   ],
   "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",

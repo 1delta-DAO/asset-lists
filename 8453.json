@@ -16721,7 +16721,8 @@
           "tokenType": "YT",
           "marketAddress": "0x483f2e223c58a5ef19c4b32fbc6de57709749cb3",
           "syAddress": "0x75372f72ec752a761e96cbcb3395f4b9586d9afd",
-          "expiry": 1766620800
+          "expiry": 1766620800,
+          "ptAddress": "8453-0xe46c8ba948f8071b425a1f7ba45c0a65cbacea2e"
         }
       }
     },
@@ -16760,7 +16761,15 @@
       "assetGroup": "PT Lombard LBTC 29MAY2025::PT-LBTC-29MAY2025",
       "currencyId": "PT Lombard LBTC 29MAY2025::PT-LBTC-29MAY2025",
       "tags": ["ZEROLEND", "PENDLE-PT", "PENDLE-YT:0x5fd84c3dd5c00ab9e04bd94685b55e8dd0c1e3fd"],
-      "props": { "pendle": { "tokenType": "PT", "ytAddress": "0x5fd84c3dd5c00ab9e04bd94685b55e8dd0c1e3fd" } }
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "ytAddress": "0x5fd84c3dd5c00ab9e04bd94685b55e8dd0c1e3fd",
+          "marketAddress": "0x727cebacfb10ffd353fc221d06a862b437ec1735",
+          "syAddress": "0xb261266cb30c255cb9c73ebf4a3ead9398d23ab4",
+          "expiry": 1748476800
+        }
+      }
     },
     "0x69000dfd5025e82f48eb28325a2b88a241182ced": {
       "chainId": "8453",
@@ -16904,7 +16913,15 @@
       "assetGroup": "PT Resolv USD 24APR2025::PT-USR-24APR2025",
       "currencyId": "PT Resolv USD 24APR2025::PT-USR-24APR2025",
       "tags": ["PENDLE-PT", "PENDLE-YT:0x22cf19b7d8de1b53bbd9792e12ea86191985731f"],
-      "props": { "pendle": { "tokenType": "PT", "ytAddress": "0x22cf19b7d8de1b53bbd9792e12ea86191985731f" } }
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "ytAddress": "0x22cf19b7d8de1b53bbd9792e12ea86191985731f",
+          "marketAddress": "0xe15578523937ed7f08e8f7a1fa8a021e07025a08",
+          "syAddress": "0x4665d514e82b2f9c78fa2b984e450f33d9efc842",
+          "expiry": 1745452800
+        }
+      }
     },
     "0x9a52fcd13fb9927d884b7eae826697c0aa0659cc": {
       "chainId": "8453",
@@ -19049,7 +19066,15 @@
         "PENDLE-YT:0x61468ea4d55c02744041f16daf8ed0262891661f",
         "PENDLE-MARKET:0x715509bde846104cf2ccebf6fdf7ef1bb874bc45"
       ],
-      "props": { "pendle": { "tokenType": "PT", "ytAddress": "0x61468ea4d55c02744041f16daf8ed0262891661f" } }
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "ytAddress": "0x61468ea4d55c02744041f16daf8ed0262891661f",
+          "marketAddress": "0x715509bde846104cf2ccebf6fdf7ef1bb874bc45",
+          "syAddress": "0x4665d514e82b2f9c78fa2b984e450f33d9efc842",
+          "expiry": 1758758400
+        }
+      }
     },
     "0x715509bde846104cf2ccebf6fdf7ef1bb874bc45": {
       "chainId": "8453",
@@ -20111,7 +20136,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x729f75aff28c726e32403e80cef2afb518cfbfa7.png",
       "assetGroup": "Wrapped Aave Base EURC::waBasEURC",
       "currencyId": "Wrapped Aave Base EURC::waBasEURC",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0xe9f2a5f9f3c846f29066d7fb3564f8e6b6b2d65b": {
       "chainId": "8453",
@@ -25507,7 +25532,15 @@
         "PENDLE-YT:0x86725be2f3b01a2b18617f77542800ed4f4cfdca",
         "PENDLE-MARKET:0x4eae2e40c6612005214ea919cc7653da853ed409"
       ],
-      "props": { "pendle": { "tokenType": "PT", "ytAddress": "0x86725be2f3b01a2b18617f77542800ed4f4cfdca" } }
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "ytAddress": "0x86725be2f3b01a2b18617f77542800ed4f4cfdca",
+          "marketAddress": "0x4eae2e40c6612005214ea919cc7653da853ed409",
+          "syAddress": "0x67e64af30e04a7277ab2d4f09ace3f77a15801f9",
+          "expiry": 1758758400
+        }
+      }
     },
     "0xaa5ad1f869b910e5f794b9366e05e5f2cab4bfad": {
       "chainId": "8453",
@@ -27107,7 +27140,7 @@
       "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg",
       "assetGroup": "USDp::USDp",
       "currencyId": "USDp::USDp",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x472ed57b376fe400259fb28e5c46eb53f0e3e7e7": {
       "chainId": "8453",
@@ -27763,7 +27796,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92.png",
       "assetGroup": "Wrapped sUSDX::sUSDX",
       "currencyId": "Wrapped sUSDX::sUSDX",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0xf3527ef8de265eaa3716fb312c12847bfba66cef": {
       "chainId": "8453",
@@ -30774,7 +30807,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69598/thumb/logo.png?1759206285",
       "assetGroup": "BiomeAI::BIOMEAI",
       "currencyId": "BiomeAI::BIOMEAI",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0xa749de6c28262b7ffbc5de27dc845dd7ecd2b358": {
       "chainId": "8453",
@@ -30785,7 +30818,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69223/thumb/download.png?1758953448",
       "assetGroup": "zkVerify::VFY",
       "currencyId": "zkVerify::VFY",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x9c4315eb7ba91b7bdc1727ad5f76ea4ac8875506": {
       "chainId": "8453",
@@ -30796,7 +30829,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69611/thumb/image-2025-09-27-104749.png?1759220364",
       "assetGroup": "Gooner::GONNER",
       "currencyId": "Gooner::GONNER",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x2fa824bb2e06d6cac7dbab00be37dc0f3d440e8b": {
       "chainId": "8453",
@@ -30840,7 +30873,7 @@
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2/61844453e63cf81301f845d7864236f6.png",
       "assetGroup": "ETH",
       "currencyId": "Bridged WETH (Wormhole)::WETH",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "wormhole", "bridged"]
     },
     "0x4976a86223777b9b418248db66a9d1fcf52f068f": {
       "chainId": "8453",
@@ -30873,7 +30906,7 @@
       "logoURI": "https://static.debank.com/image/coin/logo_url/usdt/23af7472292cb41dc39b3f1146ead0fe.png",
       "assetGroup": "USDT",
       "currencyId": "Bridged USDT (Wormhole)::USDT",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "wormhole", "bridged"]
     },
     "0xec267c53f53807c2337c257f8ac3fc3cc07cc0ed": {
       "chainId": "8453",
@@ -30884,7 +30917,7 @@
       "logoURI": "https://static.debank.com/image/coin/logo_url/usdc/e87790bfe0b3f2ea855dc29069b38818.png",
       "assetGroup": "USDC",
       "currencyId": "Bridged USDC (Wormhole)::USDC",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "wormhole", "bridged"]
     },
     "0x4730ddc61264ba9189b25169bdaeae46cf07ee93": {
       "chainId": "8453",
@@ -30938,6 +30971,50 @@
       "logoURI": "https://assets.coingecko.com/coins/images/53551/thumb/logo.png?1736671853",
       "assetGroup": "NANI::⌘",
       "currencyId": "NANI::⌘",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0xad49e213437313d88517ca13cf164be4f04e2341": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "BankrStrategy",
+      "address": "0xad49e213437313d88517ca13cf164be4f04e2341",
+      "symbol": "BNKSTR",
+      "logoURI": "https://assets.coingecko.com/coins/images/69702/thumb/2urvwg64e2s0w9fn46gz4hiyrqr2.?1759342147",
+      "assetGroup": "BankrStrategy::BNKSTR",
+      "currencyId": "BankrStrategy::BNKSTR",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x9f3bb51d5c14aaf53794fe5780c085967dacaf2d": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Blueprint",
+      "address": "0x9f3bb51d5c14aaf53794fe5780c085967dacaf2d",
+      "symbol": "BP",
+      "logoURI": "https://assets.coingecko.com/coins/images/69730/thumb/blueprint-logo.jpg?1759404265",
+      "assetGroup": "Blueprint::BP",
+      "currencyId": "Blueprint::BP",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0xda4c86b5444294a5ba3b806ae7718f1f95cc3120": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Tycoon by Shareland",
+      "address": "0xda4c86b5444294a5ba3b806ae7718f1f95cc3120",
+      "symbol": "$TYCOON",
+      "logoURI": "https://assets.coingecko.com/coins/images/69691/thumb/tycoon_pfp.jpg?1759315696",
+      "assetGroup": "Tycoon by Shareland::$TYCOON",
+      "currencyId": "Tycoon by Shareland::$TYCOON",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0xa3109f24185ce81b89b9ceead7f81e3b07a61b07": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Sequel",
+      "address": "0xa3109f24185ce81b89b9ceead7f81e3b07a61b07",
+      "symbol": "MOVIE",
+      "logoURI": "https://assets.coingecko.com/coins/images/69729/thumb/sequel-logo.jpg?1759404045",
+      "assetGroup": "Sequel::MOVIE",
+      "currencyId": "Sequel::MOVIE",
       "tags": ["coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {

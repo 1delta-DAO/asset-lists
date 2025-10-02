@@ -1383,7 +1383,15 @@
         "PENDLE-YT:0xaffe4b1b1eebe6dd1ee31ad27c88a918825c89f8",
         "PENDLE-MARKET:0x6304ccbda63a7fb94919c705de54f9889f3ce047"
       ],
-      "props": { "pendle": { "tokenType": "PT", "ytAddress": "0xaffe4b1b1eebe6dd1ee31ad27c88a918825c89f8" } }
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "ytAddress": "0xaffe4b1b1eebe6dd1ee31ad27c88a918825c89f8",
+          "marketAddress": "0x6304ccbda63a7fb94919c705de54f9889f3ce047",
+          "syAddress": "0x2ab88ac7458faec2e952bb79cc1be6577bf63e70",
+          "expiry": 1758153600
+        }
+      }
     },
     "0x482deb2f7b9608a80ea91e71f06380e9891501c6": {
       "chainId": "5000",
@@ -1444,9 +1452,9 @@
       "address": "0xecc68d0451e20292406967fe7c04280e5238ac7d",
       "symbol": "frxETH",
       "logoURI": "https://static.debank.com/image/mnt_token/logo_url/0xecc68d0451e20292406967fe7c04280e5238ac7d/71b8a5f7684c752901272fb31842abdf.png",
-      "assetGroup": "Bridged Frax Ether (Axelar)::frxETH",
+      "assetGroup": "FRXETH",
       "currencyId": "Bridged Frax Ether (Axelar)::frxETH",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "axelar", "bridged"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "5000",

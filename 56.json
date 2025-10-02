@@ -48944,7 +48944,15 @@
       "assetGroup": "PT Lista collateral BNB 24APR2025::PT-clisBNB-24APR2025",
       "currencyId": "PT Lista collateral BNB 24APR2025::PT-clisBNB-24APR2025",
       "tags": ["PENDLE-PT", "VENUS_BNB"],
-      "props": { "pendle": { "tokenType": "PT" } }
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x1d9d27f0b89181cf1593ac2b36a37b444eb66bee",
+          "syAddress": "0x27faf900007b4cba7803000251ec96bc69ff1bea",
+          "expiry": 1745452800,
+          "ytAddress": "0x44264c7be2d92f010b20b29c4531fc09381c56f3"
+        }
+      }
     },
     "0x541b5eeac7d4434c8f87e2d32019d67611179606": {
       "chainId": "56",
@@ -48955,7 +48963,15 @@
       "assetGroup": "PT SolvBTC Babylon 27MAR2025::PT-SolvBTC.BBN-27MAR2025",
       "currencyId": "PT SolvBTC Babylon 27MAR2025::PT-SolvBTC.BBN-27MAR2025",
       "tags": ["PENDLE-PT", "AVALON_SOLVBTC", "VENUS_BTC"],
-      "props": { "pendle": { "tokenType": "PT" } }
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x9daa2878a8739e66e08e7ad35316c5143c0ea7c7",
+          "syAddress": "0x141ec2d606f12ff959d7d07cde6811e5fdff2831",
+          "expiry": 1743033600,
+          "ytAddress": "0x7914d72c9e9ca7f6bfdd09fc7e3f20d7bc3fb8a0"
+        }
+      }
     },
     "0x20bff4bbeda07536ff00e073bd8359e5d80d733d": {
       "chainId": "56",
@@ -48976,7 +48992,15 @@
       "assetGroup": "PT Ethena sUSDE 26JUN2025::PT-sUSDE-26JUN2025",
       "currencyId": "PT Ethena sUSDE 26JUN2025::PT-sUSDE-26JUN2025",
       "tags": ["PENDLE-PT", "VENUS"],
-      "props": { "pendle": { "tokenType": "PT" } }
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x8557d39d4bab2b045ac5c2b7ea66d12139da9af4",
+          "syAddress": "0xf2810f8ec028576354c4388d8b347ac1921c63a2",
+          "expiry": 1750896000,
+          "ytAddress": "0x55b106c8b7c23caf60db956dda41a59329afd1c2"
+        }
+      }
     },
     "0xeeaa03ed0aa69fcb6e340d47ffa91a0b3426e1cd": {
       "chainId": "56",
@@ -52933,7 +52957,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69600/thumb/btg.png?1759214422",
       "assetGroup": "Openverse Network::BTG",
       "currencyId": "Openverse Network::BTG",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xe389d200de7825db1a0fb62a0a68723920594444": {
       "chainId": "56",
@@ -52988,7 +53012,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68283/thumb/eden.png?1755242478",
       "assetGroup": "OpenEden::EDEN",
       "currencyId": "OpenEden::EDEN",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x87241b1b7fd82cf4f4842f195909ca69aa6e4444": {
       "chainId": "56",
@@ -53161,6 +53185,105 @@
       "assetGroup": "MiKeNeKo::MiKe💛",
       "currencyId": "MiKeNeKo::MiKe💛",
       "tags": ["debridge"]
+    },
+    "0x23b35c7f686cac8297ea6e81a467286481ca4444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "BNB MEME SZN",
+      "address": "0x23b35c7f686cac8297ea6e81a467286481ca4444",
+      "symbol": "SZN",
+      "logoURI": "https://assets.coingecko.com/coins/images/69699/thumb/bnb-szn-big.png?1759326117",
+      "assetGroup": "BNB MEME SZN::SZN",
+      "currencyId": "BNB MEME SZN::SZN",
+      "tags": ["coingecko"]
+    },
+    "0x54d017c45105333fa0c52ec5c7b89d1d48ac1037": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "ZENIX",
+      "address": "0x54d017c45105333fa0c52ec5c7b89d1d48ac1037",
+      "symbol": "ZENIX",
+      "logoURI": "https://assets.coingecko.com/coins/images/69721/thumb/ZENIX200X200.fw.png?1759399598",
+      "assetGroup": "ZENIX::ZENIX",
+      "currencyId": "ZENIX::ZENIX",
+      "tags": ["coingecko"]
+    },
+    "0x2f7c6fce82a4845726c3744df21dc87788112b66": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "CashBunny",
+      "address": "0x2f7c6fce82a4845726c3744df21dc87788112b66",
+      "symbol": "BUNNY",
+      "logoURI": "https://assets.coingecko.com/coins/images/69723/thumb/logo-all-bg-circled-hi-res_%281%29.png?1759399929",
+      "assetGroup": "CashBunny::BUNNY",
+      "currencyId": "CashBunny::BUNNY",
+      "tags": ["coingecko"]
+    },
+    "0xb47fc1594402dbe62a6fdf2c6e027e8f88ffd542": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Pop Planet",
+      "address": "0xb47fc1594402dbe62a6fdf2c6e027e8f88ffd542",
+      "symbol": "P",
+      "logoURI": "https://assets.coingecko.com/coins/images/69685/thumb/pop_planet.png?1759300158",
+      "assetGroup": "Pop Planet::P",
+      "currencyId": "Pop Planet::P",
+      "tags": ["coingecko"]
+    },
+    "0xee634a826465a1799afc2cfefbdb6fa3766c8888": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "AlphaExchangeAI",
+      "address": "0xee634a826465a1799afc2cfefbdb6fa3766c8888",
+      "symbol": "AEA",
+      "logoURI": "https://assets.coingecko.com/coins/images/69688/thumb/IMG_1729.jpeg?1759314601",
+      "assetGroup": "AlphaExchangeAI::AEA",
+      "currencyId": "AlphaExchangeAI::AEA",
+      "tags": ["coingecko"]
+    },
+    "0x8d84f6a1b8ae5fa69e72c4252a3cfa519888689f": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Uptober",
+      "address": "0x8d84f6a1b8ae5fa69e72c4252a3cfa519888689f",
+      "symbol": "UPTOBER",
+      "logoURI": "https://assets.coingecko.com/coins/images/69698/thumb/photo_2025-09-27_00-20-57.jpg?1759319198",
+      "assetGroup": "Uptober::UPTOBER",
+      "currencyId": "Uptober::UPTOBER",
+      "tags": ["coingecko"]
+    },
+    "0x2aa89a0113bcbbcdc5812c6df794e2d9650fc1af": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "StrikeBit AI",
+      "address": "0x2aa89a0113bcbbcdc5812c6df794e2d9650fc1af",
+      "symbol": "STRIKE",
+      "logoURI": "https://assets.coingecko.com/coins/images/69670/thumb/strikebit.png?1759244567",
+      "assetGroup": "StrikeBit AI::STRIKE",
+      "currencyId": "StrikeBit AI::STRIKE",
+      "tags": ["coingecko"]
+    },
+    "0x9d5a383581882750ce27f84c72f017b378edb736": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Dexalot",
+      "address": "0x9d5a383581882750ce27f84c72f017b378edb736",
+      "symbol": "ALOT",
+      "logoURI": "https://assets.coingecko.com/coins/images/24188/thumb/logo_200x200.png?1696523376",
+      "assetGroup": "ALOT",
+      "currencyId": "Dexalot::ALOT",
+      "tags": ["coingecko"]
+    },
+    "0xaa036928c9c0df07d525b55ea8ee690bb5a628c1": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "EVAA Protocol",
+      "address": "0xaa036928c9c0df07d525b55ea8ee690bb5a628c1",
+      "symbol": "EVAA",
+      "logoURI": "https://assets.coingecko.com/coins/images/69601/thumb/evaa.png?1759214696",
+      "assetGroup": "EVAA Protocol::EVAA",
+      "currencyId": "EVAA Protocol::EVAA",
+      "tags": ["coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "56",

@@ -18573,7 +18573,15 @@
       "assetGroup": "PT Renzo ezETH 27JUN2024::PT-ezETH-27JUN2024",
       "currencyId": "PT Renzo ezETH 27JUN2024::PT-ezETH-27JUN2024",
       "tags": ["biconomy-gas-token", "PENDLE-PT", "PENDLE-YT:0x05735b65686635f5c87aa9d2dae494fb2e838f38"],
-      "props": { "pendle": { "tokenType": "PT", "ytAddress": "0x05735b65686635f5c87aa9d2dae494fb2e838f38" } }
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "ytAddress": "0x05735b65686635f5c87aa9d2dae494fb2e838f38",
+          "marketAddress": "0x5e03c94fc5fb2e21882000a96df0b63d2c4312e2",
+          "syAddress": "0x0de802e3d6cc9145a150bbdc8da9f988a98c5202",
+          "expiry": 1719446400
+        }
+      }
     },
     "0xdd69db25f6d620a7bad3023c5d32761d353d3de9": {
       "chainId": "42161",
@@ -21782,7 +21790,8 @@
       "symbol": "XAUt0",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/xaut0.svg",
       "assetGroup": "XAUt0::XAUt0",
-      "currencyId": "XAUt0::XAUt0"
+      "currencyId": "XAUt0::XAUt0",
+      "tags": ["coingecko", "debridge"]
     },
     "0x58bfc95a864e18e8f3041d2fcd3418f48393fe6a": {
       "chainId": "42161",
@@ -23080,9 +23089,9 @@
       "name": "GMX Liquidity Vault [WBTC-USDC]",
       "address": "0xdf03eed325b82bc1d4db8b49c30ecc9e05104b96",
       "symbol": "GLV [WBTC-USDC]",
+      "logoURI": "https://arbiscan.io/token/images/glvv2market.svg",
       "assetGroup": "GMX Liquidity Vault [WBTC-USDC]::GLV [WBTC-USDC]",
-      "currencyId": "GMX Liquidity Vault [WBTC-USDC]::GLV [WBTC-USDC]",
-      "logoURI": "https://arbiscan.io/token/images/glvv2market.svg"
+      "currencyId": "GMX Liquidity Vault [WBTC-USDC]::GLV [WBTC-USDC]"
     },
     "0x528a5bac7e746c9a509a1f4f6df58a03d44279f9": {
       "chainId": "42161",
@@ -23090,9 +23099,9 @@
       "name": "GMX Liquidity Vault [WETH-USDC]",
       "address": "0x528a5bac7e746c9a509a1f4f6df58a03d44279f9",
       "symbol": "GLV [WETH-USDC]",
+      "logoURI": "https://arbiscan.io/token/images/glvv2market.svg",
       "assetGroup": "GMX Liquidity Vault [WETH-USDC]::GLV [WETH-USDC]",
-      "currencyId": "GMX Liquidity Vault [WETH-USDC]::GLV [WETH-USDC]",
-      "logoURI": "https://arbiscan.io/token/images/glvv2market.svg"
+      "currencyId": "GMX Liquidity Vault [WETH-USDC]::GLV [WETH-USDC]"
     },
     "0x4f49195ad35aa6dd054a51a4dd3c8d7e63a60b58": {
       "chainId": "42161",
@@ -23132,9 +23141,9 @@
       "address": "0xd8369c2eda18dd6518eabb1f85bd60606deb39ec",
       "symbol": "WETH.eth",
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2/61844453e63cf81301f845d7864236f6.png",
-      "assetGroup": "ETH",
+      "assetGroup": "Bridged WETH (Wormhole)::WETH.eth",
       "currencyId": "Bridged WETH (Wormhole)::WETH.eth",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "wormhole", "bridged"]
     },
     "0xbafbcb010d920e0dab9dfdcf634de1b777028a85": {
       "chainId": "42161",
@@ -23145,7 +23154,7 @@
       "logoURI": "https://static.debank.com/image/mtr_token/logo_url/0x79a61d3a28f8c8537a3df63092927cfa1150fb3c/61844453e63cf81301f845d7864236f6.png",
       "assetGroup": "ETH",
       "currencyId": "Bridged WETH (Wormhole)::WETH",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "wormhole", "bridged"]
     },
     "0xb9c8f0d3254007ee4b98970b94544e473cd610ec": {
       "chainId": "42161",
@@ -23176,8 +23185,8 @@
       "address": "0xe4728f3e48e94c6da2b53610e677cc241dafb134",
       "symbol": "USDT",
       "assetGroup": "USDT",
-      "currencyId": "Bridgded USDT (Wormhole):USDT",
-      "tags": ["biconomy-gas-token"]
+      "currencyId": "Bridgded USDT (Wormhole)::USDT",
+      "tags": ["biconomy-gas-token", "wormhole", "bridged"]
     },
     "0x892785f33cdee22a30aef750f285e18c18040c3e": {
       "chainId": "42161",
@@ -23196,9 +23205,9 @@
       "address": "0x1a0590f951bc9c3818ce75ba5bbe92831b2cf57e",
       "symbol": "USDC.bnb",
       "logoURI": "https://static.debank.com/image/zkfair_token/logo_url/zkfair/35ab0987153a8355a454223aae371ac7.png",
-      "assetGroup": "USDC",
+      "assetGroup": "Bridged USDC (Wormhole)::USDC.bnb",
       "currencyId": "Bridged USDC (Wormhole)::USDC.bnb",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "wormhole", "bridged"]
     },
     "0x70f9daff47ddfb3a8e776450fba0f0301022af57": {
       "chainId": "42161",
@@ -23230,7 +23239,7 @@
       "logoURI": "https://static.debank.com/image/arb_token/logo_url/0xab8ebcc9eecc20bd30c7b75c7b4e8fcccfbf01ab/83e2fad70f30e4b8abd70c31017b0fed.png",
       "assetGroup": "Bridged Ice (Wormhole)::ICE",
       "currencyId": "Bridged Ice (Wormhole)::ICE",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "wormhole", "bridged"]
     },
     "0x70ed9e9fbc9f6a8a159bce0485a1d0759f5e8c72": {
       "chainId": "42161",
@@ -23242,6 +23251,17 @@
       "assetGroup": "Wrapped Ether (MaiaDAO)::WETH",
       "currencyId": "Wrapped Ether (MaiaDAO)::WETH",
       "tags": ["biconomy-gas-token"]
+    },
+    "0x139450c2dcef827c9a2a0bb1cb5506260940c9fd": {
+      "chainId": "42161",
+      "decimals": 6,
+      "name": "SuperReturn sSuperUSD",
+      "address": "0x139450c2dcef827c9a2a0bb1cb5506260940c9fd",
+      "symbol": "SSUPERUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/67821/thumb/sSuperUSD_200x200.png?1753943152",
+      "assetGroup": "SuperReturn sSuperUSD::SSUPERUSD",
+      "currencyId": "SuperReturn sSuperUSD::SSUPERUSD",
+      "tags": ["coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "42161",
