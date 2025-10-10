@@ -5,48 +5,48 @@
     "0x3c041baca94a16a4c1cc5a0a66ce2d80ba1f146c": {
       "chainId": "999",
       "decimals": 18,
-      "name": "TEST-SY-2",
+      "name": "TEST-SY-2 HyperEVM",
       "address": "0x3c041baca94a16a4c1cc5a0a66ce2d80ba1f146c",
       "symbol": "TEST-SY-2",
       "logoURI": "https://storage.googleapis.com/pendle-assets-staging/images/assets/unknown.svg",
-      "assetGroup": "TEST-SY-2::TEST-SY-2",
-      "currencyId": "TEST-SY-2::TEST-SY-2",
+      "assetGroup": "TEST-SY-2 HyperEVM::TEST-SY-2",
+      "currencyId": "TEST-SY-2 HyperEVM::TEST-SY-2",
       "tags": ["SY"],
       "props": { "pendle": { "tokenType": "SY" } }
     },
     "0x8f71bf4434ed4e3b7c4dacac6c246d3e76641d5c": {
       "chainId": "999",
       "decimals": 18,
-      "name": "PT-TEST-SY-2-6SEP2025",
+      "name": "PT-TEST-SY-2-6SEP2025 HyperEVM",
       "address": "0x8f71bf4434ed4e3b7c4dacac6c246d3e76641d5c",
       "symbol": "PT-TEST-SY-2-6SEP2025",
       "logoURI": "https://storage.googleapis.com/pendle-assets-staging/images/assets/unknown.svg",
-      "assetGroup": "PT-TEST-SY-2-6SEP2025::PT-TEST-SY-2-6SEP2025",
-      "currencyId": "PT-TEST-SY-2-6SEP2025::PT-TEST-SY-2-6SEP2025",
+      "assetGroup": "PT-TEST-SY-2-6SEP2025 HyperEVM::PT-TEST-SY-2-6SEP2025",
+      "currencyId": "PT-TEST-SY-2-6SEP2025 HyperEVM::PT-TEST-SY-2-6SEP2025",
       "tags": ["PT"],
       "props": { "pendle": { "tokenType": "PT", "expired": true } }
     },
     "0xe1edf4cbc8bd1e78fd56d358e012ec6ea65130b9": {
       "chainId": "999",
       "decimals": 18,
-      "name": "YT-TEST-SY-2-6SEP2025",
+      "name": "YT-TEST-SY-2-6SEP2025 HyperEVM",
       "address": "0xe1edf4cbc8bd1e78fd56d358e012ec6ea65130b9",
       "symbol": "YT-TEST-SY-2-6SEP2025",
       "logoURI": "https://storage.googleapis.com/pendle-assets-staging/images/assets/unknown.svg",
-      "assetGroup": "YT-TEST-SY-2-6SEP2025::YT-TEST-SY-2-6SEP2025",
-      "currencyId": "YT-TEST-SY-2-6SEP2025::YT-TEST-SY-2-6SEP2025",
+      "assetGroup": "YT-TEST-SY-2-6SEP2025 HyperEVM::YT-TEST-SY-2-6SEP2025",
+      "currencyId": "YT-TEST-SY-2-6SEP2025 HyperEVM::YT-TEST-SY-2-6SEP2025",
       "tags": ["YT"],
       "props": { "pendle": { "tokenType": "YT", "expired": true } }
     },
     "0x0fcde5a369c0d71ac932840c8654db03681912dd": {
       "chainId": "999",
       "decimals": 18,
-      "name": "hbHYPE",
+      "name": "hbHYPE HyperEVM",
       "address": "0x0fcde5a369c0d71ac932840c8654db03681912dd",
       "symbol": "SY-hbHYPE",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/e0b143e3-0854-4674-a1a0-7a3b161733d1.svg",
-      "assetGroup": "hbHYPE::SY-hbHYPE",
-      "currencyId": "hbHYPE::SY-hbHYPE",
+      "assetGroup": "hbHYPE HyperEVM::SY-hbHYPE",
+      "currencyId": "hbHYPE HyperEVM::SY-hbHYPE",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -62,12 +62,12 @@
     "0x810f9d4a751cafd5193617022b35fa0b0c166b4c": {
       "chainId": "999",
       "decimals": 18,
-      "name": "PT hbHYPE (WHYPE)",
+      "name": "PT hbHYPE (WHYPE) HyperEVM",
       "address": "0x810f9d4a751cafd5193617022b35fa0b0c166b4c",
       "symbol": "PT-hbHYPE-18DEC2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/793e1d7c-16c4-477d-8573-f826317e2aeb.svg",
-      "assetGroup": "PT hbHYPE (WHYPE)::PT-hbHYPE-18DEC2025",
-      "currencyId": "PT hbHYPE (WHYPE)::PT-hbHYPE-18DEC2025",
+      "assetGroup": "PT hbHYPE (WHYPE) HyperEVM::PT-hbHYPE-18DEC2025",
+      "currencyId": "PT hbHYPE (WHYPE) HyperEVM::PT-hbHYPE-18DEC2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -83,12 +83,12 @@
     "0x2b55b35d9be63d016ee902d87af29d2c4f397dc1": {
       "chainId": "999",
       "decimals": 18,
-      "name": "YT hbHYPE (WHYPE)",
+      "name": "YT hbHYPE (WHYPE) HyperEVM",
       "address": "0x2b55b35d9be63d016ee902d87af29d2c4f397dc1",
       "symbol": "YT-hbHYPE-18DEC2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/844ba6c2-a951-421d-8a3a-691b15bfd6e6.svg",
-      "assetGroup": "YT hbHYPE (WHYPE)::YT-hbHYPE-18DEC2025",
-      "currencyId": "YT hbHYPE (WHYPE)::YT-hbHYPE-18DEC2025",
+      "assetGroup": "YT hbHYPE (WHYPE) HyperEVM::YT-hbHYPE-18DEC2025",
+      "currencyId": "YT hbHYPE (WHYPE) HyperEVM::YT-hbHYPE-18DEC2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -104,12 +104,12 @@
     "0x57fc55dff8ceca86ee94a6bf255af2f0ed90eb9e": {
       "chainId": "999",
       "decimals": 18,
-      "name": "kHYPE",
+      "name": "kHYPE HyperEVM",
       "address": "0x57fc55dff8ceca86ee94a6bf255af2f0ed90eb9e",
       "symbol": "SY-kHYPE",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/4881d453-d6ec-49f1-9aff-bf4627402b1d.svg",
-      "assetGroup": "kHYPE::SY-kHYPE",
-      "currencyId": "kHYPE::SY-kHYPE",
+      "assetGroup": "kHYPE HyperEVM::SY-kHYPE",
+      "currencyId": "kHYPE HyperEVM::SY-kHYPE",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -125,12 +125,12 @@
     "0x311db0fde558689550c68355783c95efdfe25329": {
       "chainId": "999",
       "decimals": 18,
-      "name": "PT kHYPE (HYPE)",
+      "name": "PT kHYPE (HYPE) HyperEVM",
       "address": "0x311db0fde558689550c68355783c95efdfe25329",
       "symbol": "PT-kHYPE-13NOV2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/fcc09b6e-e47d-4e95-a1be-0dddfe76725e.svg",
-      "assetGroup": "PT kHYPE (HYPE)::PT-kHYPE-13NOV2025",
-      "currencyId": "PT kHYPE (HYPE)::PT-kHYPE-13NOV2025",
+      "assetGroup": "PT kHYPE (HYPE) HyperEVM::PT-kHYPE-13NOV2025",
+      "currencyId": "PT kHYPE (HYPE) HyperEVM::PT-kHYPE-13NOV2025",
       "tags": ["PT", "HYPERLEND", "HYPURRFI"],
       "props": {
         "pendle": {
@@ -146,12 +146,12 @@
     "0x3f6583ad479ab6020297ce12c9059d7480ab6e5a": {
       "chainId": "999",
       "decimals": 18,
-      "name": "YT kHYPE (HYPE)",
+      "name": "YT kHYPE (HYPE) HyperEVM",
       "address": "0x3f6583ad479ab6020297ce12c9059d7480ab6e5a",
       "symbol": "YT-kHYPE-13NOV2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/93cdd6bf-9c2f-4f7e-87f9-8b2cf5d006e7.svg",
-      "assetGroup": "YT kHYPE (HYPE)::YT-kHYPE-13NOV2025",
-      "currencyId": "YT kHYPE (HYPE)::YT-kHYPE-13NOV2025",
+      "assetGroup": "YT kHYPE (HYPE) HyperEVM::YT-kHYPE-13NOV2025",
+      "currencyId": "YT kHYPE (HYPE) HyperEVM::YT-kHYPE-13NOV2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -167,12 +167,12 @@
     "0x642135ff98c15cba7fcf1766502bd493be4d3492": {
       "chainId": "999",
       "decimals": 18,
-      "name": "hbUSDT",
+      "name": "hbUSDT HyperEVM",
       "address": "0x642135ff98c15cba7fcf1766502bd493be4d3492",
       "symbol": "SY-hbUSDT",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/f316d141-bfbe-431b-af18-9e24a70bf99b.svg",
-      "assetGroup": "hbUSDT::SY-hbUSDT",
-      "currencyId": "hbUSDT::SY-hbUSDT",
+      "assetGroup": "hbUSDT HyperEVM::SY-hbUSDT",
+      "currencyId": "hbUSDT HyperEVM::SY-hbUSDT",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -188,12 +188,12 @@
     "0x31a75680de78bb2787ffe9840da569dbdf4504f5": {
       "chainId": "999",
       "decimals": 6,
-      "name": "PT hbUSDT (USD₮0)",
+      "name": "PT hbUSDT (USD₮0) HyperEVM",
       "address": "0x31a75680de78bb2787ffe9840da569dbdf4504f5",
       "symbol": "PT-hbUSDT-18DEC2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/bb4102e6-91d1-4015-a0b6-5346be3f139f.svg",
-      "assetGroup": "PT hbUSDT (USD₮0)::PT-hbUSDT-18DEC2025",
-      "currencyId": "PT hbUSDT (USD₮0)::PT-hbUSDT-18DEC2025",
+      "assetGroup": "PT hbUSDT (USD₮0) HyperEVM::PT-hbUSDT-18DEC2025",
+      "currencyId": "PT hbUSDT (USD₮0) HyperEVM::PT-hbUSDT-18DEC2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -209,12 +209,12 @@
     "0x47dd54dfa68172e3354e3cba2f59521d3dc9d9c7": {
       "chainId": "999",
       "decimals": 6,
-      "name": "YT hbUSDT (USD₮0)",
+      "name": "YT hbUSDT (USD₮0) HyperEVM",
       "address": "0x47dd54dfa68172e3354e3cba2f59521d3dc9d9c7",
       "symbol": "YT-hbUSDT-18DEC2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/139862f0-51f0-401a-af57-f986c3c6b48c.svg",
-      "assetGroup": "YT hbUSDT (USD₮0)::YT-hbUSDT-18DEC2025",
-      "currencyId": "YT hbUSDT (USD₮0)::YT-hbUSDT-18DEC2025",
+      "assetGroup": "YT hbUSDT (USD₮0) HyperEVM::YT-hbUSDT-18DEC2025",
+      "currencyId": "YT hbUSDT (USD₮0) HyperEVM::YT-hbUSDT-18DEC2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -230,12 +230,12 @@
     "0x41d81daf401a0aa7422a769243fa933f351a0d64": {
       "chainId": "999",
       "decimals": 18,
-      "name": "liquidHYPE",
+      "name": "liquidHYPE HyperEVM",
       "address": "0x41d81daf401a0aa7422a769243fa933f351a0d64",
       "symbol": "SY-liquidHYPE",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/66df732a-7d10-4ad0-9853-f37a774a6e99.svg",
-      "assetGroup": "liquidHYPE::SY-liquidHYPE",
-      "currencyId": "liquidHYPE::SY-liquidHYPE",
+      "assetGroup": "liquidHYPE HyperEVM::SY-liquidHYPE",
+      "currencyId": "liquidHYPE HyperEVM::SY-liquidHYPE",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -251,12 +251,12 @@
     "0x3eceb4da795b083294f416821fa4137f2a5f06ff": {
       "chainId": "999",
       "decimals": 18,
-      "name": "PT liquidHYPE (WHYPE)",
+      "name": "PT liquidHYPE (WHYPE) HyperEVM",
       "address": "0x3eceb4da795b083294f416821fa4137f2a5f06ff",
       "symbol": "PT-liquidHYPE-30OCT2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/75e7a921-bbc9-49a4-8272-bd7f52b32d26.svg",
-      "assetGroup": "PT liquidHYPE (WHYPE)::PT-liquidHYPE-30OCT2025",
-      "currencyId": "PT liquidHYPE (WHYPE)::PT-liquidHYPE-30OCT2025",
+      "assetGroup": "PT liquidHYPE (WHYPE) HyperEVM::PT-liquidHYPE-30OCT2025",
+      "currencyId": "PT liquidHYPE (WHYPE) HyperEVM::PT-liquidHYPE-30OCT2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -272,12 +272,12 @@
     "0x8f454bfe03527e8a838002b5bf7bfe5f296aac09": {
       "chainId": "999",
       "decimals": 18,
-      "name": "YT liquidHYPE (WHYPE)",
+      "name": "YT liquidHYPE (WHYPE) HyperEVM",
       "address": "0x8f454bfe03527e8a838002b5bf7bfe5f296aac09",
       "symbol": "YT-liquidHYPE-30OCT2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/939b1c12-1322-4eec-8f67-ea8cc4f86ea9.svg",
-      "assetGroup": "YT liquidHYPE (WHYPE)::YT-liquidHYPE-30OCT2025",
-      "currencyId": "YT liquidHYPE (WHYPE)::YT-liquidHYPE-30OCT2025",
+      "assetGroup": "YT liquidHYPE (WHYPE) HyperEVM::YT-liquidHYPE-30OCT2025",
+      "currencyId": "YT liquidHYPE (WHYPE) HyperEVM::YT-liquidHYPE-30OCT2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -293,48 +293,48 @@
     "0xcad502bb55d1a3f79952f969bff3f011cf30a94a": {
       "chainId": "999",
       "decimals": 18,
-      "name": "sUSDe",
+      "name": "sUSDe HyperEVM",
       "address": "0xcad502bb55d1a3f79952f969bff3f011cf30a94a",
       "symbol": "SY-sUSDE",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/bc547d10-87dc-4a83-845b-f8d649c7b507.svg",
-      "assetGroup": "sUSDe::SY-sUSDE",
-      "currencyId": "sUSDe::SY-sUSDE",
+      "assetGroup": "sUSDe HyperEVM::SY-sUSDE",
+      "currencyId": "sUSDe HyperEVM::SY-sUSDE",
       "tags": ["SY"],
       "props": { "pendle": { "tokenType": "SY" } }
     },
     "0xb9ab3125e3d1cf7b8f190180d929b695fbbcef5b": {
       "chainId": "999",
       "decimals": 18,
-      "name": "PT sUSDe (sUSDe)",
+      "name": "PT sUSDe (sUSDe) HyperEVM",
       "address": "0xb9ab3125e3d1cf7b8f190180d929b695fbbcef5b",
       "symbol": "PT-sUSDE-25SEP2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/db99173a-ff24-4055-b5f2-f2d60272404d.svg",
-      "assetGroup": "PT sUSDe (sUSDe)::PT-sUSDE-25SEP2025",
-      "currencyId": "PT sUSDe (sUSDe)::PT-sUSDE-25SEP2025",
+      "assetGroup": "PT sUSDe (sUSDe) HyperEVM::PT-sUSDE-25SEP2025",
+      "currencyId": "PT sUSDe (sUSDe) HyperEVM::PT-sUSDE-25SEP2025",
       "tags": ["PT"],
       "props": { "pendle": { "tokenType": "PT", "expired": true } }
     },
     "0x64b2315a8b37adfd935c65f65c343904468228e7": {
       "chainId": "999",
       "decimals": 18,
-      "name": "YT sUSDe (sUSDe)",
+      "name": "YT sUSDe (sUSDe) HyperEVM",
       "address": "0x64b2315a8b37adfd935c65f65c343904468228e7",
       "symbol": "YT-sUSDE-25SEP2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/fd9d98d4-575c-4205-ad1f-d561c442808c.svg",
-      "assetGroup": "YT sUSDe (sUSDe)::YT-sUSDE-25SEP2025",
-      "currencyId": "YT sUSDe (sUSDe)::YT-sUSDE-25SEP2025",
+      "assetGroup": "YT sUSDe (sUSDe) HyperEVM::YT-sUSDE-25SEP2025",
+      "currencyId": "YT sUSDe (sUSDe) HyperEVM::YT-sUSDE-25SEP2025",
       "tags": ["YT"],
       "props": { "pendle": { "tokenType": "YT", "expired": true } }
     },
     "0xcfaa9540332afa3974bceed79bdd24d86c5fd4ee": {
       "chainId": "999",
       "decimals": 18,
-      "name": "sUSDe",
+      "name": "sUSDe HyperEVM",
       "address": "0xcfaa9540332afa3974bceed79bdd24d86c5fd4ee",
       "symbol": "SY-sUSDE",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/bc547d10-87dc-4a83-845b-f8d649c7b507.svg",
-      "assetGroup": "sUSDe::SY-sUSDE::999::0",
-      "currencyId": "sUSDe::SY-sUSDE",
+      "assetGroup": "sUSDe HyperEVM::SY-sUSDE::999::0",
+      "currencyId": "sUSDe HyperEVM::SY-sUSDE",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -350,12 +350,12 @@
     "0xb7379d395f3c83952ad794896205f7e33e358735": {
       "chainId": "999",
       "decimals": 18,
-      "name": "PT sUSDe (USDe)",
+      "name": "PT sUSDe (USDe) HyperEVM",
       "address": "0xb7379d395f3c83952ad794896205f7e33e358735",
       "symbol": "PT-sUSDE-25SEP2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/db99173a-ff24-4055-b5f2-f2d60272404d.svg",
-      "assetGroup": "PT sUSDe (USDe)::PT-sUSDE-25SEP2025",
-      "currencyId": "PT sUSDe (USDe)::PT-sUSDE-25SEP2025",
+      "assetGroup": "PT sUSDe (USDe) HyperEVM::PT-sUSDE-25SEP2025",
+      "currencyId": "PT sUSDe (USDe) HyperEVM::PT-sUSDE-25SEP2025",
       "tags": ["PT", "HYPERLEND"],
       "props": {
         "pendle": {
@@ -372,12 +372,12 @@
     "0x92b8defe476f0d5ee957533f5b2f509190d12921": {
       "chainId": "999",
       "decimals": 18,
-      "name": "YT sUSDe (USDe)",
+      "name": "YT sUSDe (USDe) HyperEVM",
       "address": "0x92b8defe476f0d5ee957533f5b2f509190d12921",
       "symbol": "YT-sUSDE-25SEP2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/fd9d98d4-575c-4205-ad1f-d561c442808c.svg",
-      "assetGroup": "YT sUSDe (USDe)::YT-sUSDE-25SEP2025",
-      "currencyId": "YT sUSDe (USDe)::YT-sUSDE-25SEP2025",
+      "assetGroup": "YT sUSDe (USDe) HyperEVM::YT-sUSDE-25SEP2025",
+      "currencyId": "YT sUSDe (USDe) HyperEVM::YT-sUSDE-25SEP2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -394,12 +394,12 @@
     "0xc3bc221de037908fd24c79602b731df848b12157": {
       "chainId": "999",
       "decimals": 6,
-      "name": "hwHLP",
+      "name": "hwHLP HyperEVM",
       "address": "0xc3bc221de037908fd24c79602b731df848b12157",
       "symbol": "SY-HWHLP",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/665f8ae1-1678-4127-b05b-d399667c2ee7.svg",
-      "assetGroup": "hwHLP::SY-HWHLP",
-      "currencyId": "hwHLP::SY-HWHLP",
+      "assetGroup": "hwHLP HyperEVM::SY-HWHLP",
+      "currencyId": "hwHLP HyperEVM::SY-HWHLP",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -415,12 +415,12 @@
     "0xfdf1704a7d60ab07d9889f33951633e7a80e34a3": {
       "chainId": "999",
       "decimals": 6,
-      "name": "PT hwHLP (USDC)",
+      "name": "PT hwHLP (USDC) HyperEVM",
       "address": "0xfdf1704a7d60ab07d9889f33951633e7a80e34a3",
       "symbol": "PT-HWHLP-18DEC2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/cee450ca-78ba-4d36-9a2b-710bea435aee.svg",
-      "assetGroup": "PT hwHLP (USDC)::PT-HWHLP-18DEC2025",
-      "currencyId": "PT hwHLP (USDC)::PT-HWHLP-18DEC2025",
+      "assetGroup": "PT hwHLP (USDC) HyperEVM::PT-HWHLP-18DEC2025",
+      "currencyId": "PT hwHLP (USDC) HyperEVM::PT-HWHLP-18DEC2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -436,12 +436,12 @@
     "0xc7a567cb16d863b069212ca8df1797b6af7b2342": {
       "chainId": "999",
       "decimals": 6,
-      "name": "YT hwHLP (USDC)",
+      "name": "YT hwHLP (USDC) HyperEVM",
       "address": "0xc7a567cb16d863b069212ca8df1797b6af7b2342",
       "symbol": "YT-HWHLP-18DEC2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/98d0fd15-032e-44ba-8dd3-a825d51d1db4.svg",
-      "assetGroup": "YT hwHLP (USDC)::YT-HWHLP-18DEC2025",
-      "currencyId": "YT hwHLP (USDC)::YT-HWHLP-18DEC2025",
+      "assetGroup": "YT hwHLP (USDC) HyperEVM::YT-HWHLP-18DEC2025",
+      "currencyId": "YT hwHLP (USDC) HyperEVM::YT-HWHLP-18DEC2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -457,48 +457,48 @@
     "0x02adf72d5d06a9c92136562eb237c07696833a84": {
       "chainId": "999",
       "decimals": 18,
-      "name": "feUSDhl",
+      "name": "feUSDhl HyperEVM",
       "address": "0x02adf72d5d06a9c92136562eb237c07696833a84",
       "symbol": "SY-feUSDhl",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/a2082a23-3921-4f78-8d42-0704f9266848.svg",
-      "assetGroup": "feUSDhl::SY-feUSDhl",
-      "currencyId": "feUSDhl::SY-feUSDhl",
+      "assetGroup": "feUSDhl HyperEVM::SY-feUSDhl",
+      "currencyId": "feUSDhl HyperEVM::SY-feUSDhl",
       "tags": ["SY"],
       "props": { "pendle": { "tokenType": "SY" } }
     },
     "0x2e47c58bc6559601954e36e6523509c1076da2b8": {
       "chainId": "999",
       "decimals": 18,
-      "name": "PT feUSDhl (USDHL-scaled18)",
+      "name": "PT feUSDhl (USDHL-scaled18) HyperEVM",
       "address": "0x2e47c58bc6559601954e36e6523509c1076da2b8",
       "symbol": "PT-feUSDhl-30OCT2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/4ae8c7a3-5c29-41f6-aca5-36ffe3840ad6.svg",
-      "assetGroup": "PT feUSDhl (USDHL-scaled18)::PT-feUSDhl-30OCT2025",
-      "currencyId": "PT feUSDhl (USDHL-scaled18)::PT-feUSDhl-30OCT2025",
+      "assetGroup": "PT feUSDhl (USDHL-scaled18) HyperEVM::PT-feUSDhl-30OCT2025",
+      "currencyId": "PT feUSDhl (USDHL-scaled18) HyperEVM::PT-feUSDhl-30OCT2025",
       "tags": ["PT"],
       "props": { "pendle": { "tokenType": "PT" } }
     },
     "0x5e31dfbb1c2e2d82dee92a31d862f3fa042fdc74": {
       "chainId": "999",
       "decimals": 18,
-      "name": "YT feUSDhl (USDHL-scaled18)",
+      "name": "YT feUSDhl (USDHL-scaled18) HyperEVM",
       "address": "0x5e31dfbb1c2e2d82dee92a31d862f3fa042fdc74",
       "symbol": "YT-feUSDhl-30OCT2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/ec85cd54-c92d-48fd-a3d5-64c9be5c96df.svg",
-      "assetGroup": "YT feUSDhl (USDHL-scaled18)::YT-feUSDhl-30OCT2025",
-      "currencyId": "YT feUSDhl (USDHL-scaled18)::YT-feUSDhl-30OCT2025",
+      "assetGroup": "YT feUSDhl (USDHL-scaled18) HyperEVM::YT-feUSDhl-30OCT2025",
+      "currencyId": "YT feUSDhl (USDHL-scaled18) HyperEVM::YT-feUSDhl-30OCT2025",
       "tags": ["YT"],
       "props": { "pendle": { "tokenType": "YT" } }
     },
     "0x457904b54f47dd7a91253f225237a5b02ca059d6": {
       "chainId": "999",
       "decimals": 18,
-      "name": "vkHYPE",
+      "name": "vkHYPE HyperEVM",
       "address": "0x457904b54f47dd7a91253f225237a5b02ca059d6",
       "symbol": "SY-vkHYPE",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/df8167b8-8fb4-4b62-af8b-41b5fa7e044e.svg",
-      "assetGroup": "vkHYPE::SY-vkHYPE",
-      "currencyId": "vkHYPE::SY-vkHYPE",
+      "assetGroup": "vkHYPE HyperEVM::SY-vkHYPE",
+      "currencyId": "vkHYPE HyperEVM::SY-vkHYPE",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -514,12 +514,12 @@
     "0x31cc92a2f8c02b8f9f427c48f12e21a848e69847": {
       "chainId": "999",
       "decimals": 18,
-      "name": "PT vkHYPE (WHYPE)",
+      "name": "PT vkHYPE (WHYPE) HyperEVM",
       "address": "0x31cc92a2f8c02b8f9f427c48f12e21a848e69847",
       "symbol": "PT-vkHYPE-13NOV2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/d3b9f5d9-0b82-4ce9-adfe-ae0acb870df8.svg",
-      "assetGroup": "PT vkHYPE (WHYPE)::PT-vkHYPE-13NOV2025",
-      "currencyId": "PT vkHYPE (WHYPE)::PT-vkHYPE-13NOV2025",
+      "assetGroup": "PT vkHYPE (WHYPE) HyperEVM::PT-vkHYPE-13NOV2025",
+      "currencyId": "PT vkHYPE (WHYPE) HyperEVM::PT-vkHYPE-13NOV2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -535,12 +535,12 @@
     "0x928294e0a7dbe6bd0779b5769e2c3e4d1b3fecab": {
       "chainId": "999",
       "decimals": 18,
-      "name": "YT vkHYPE (WHYPE)",
+      "name": "YT vkHYPE (WHYPE) HyperEVM",
       "address": "0x928294e0a7dbe6bd0779b5769e2c3e4d1b3fecab",
       "symbol": "YT-vkHYPE-13NOV2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/4c862a26-40a4-46ec-bb45-c4fbeef51f28.svg",
-      "assetGroup": "YT vkHYPE (WHYPE)::YT-vkHYPE-13NOV2025",
-      "currencyId": "YT vkHYPE (WHYPE)::YT-vkHYPE-13NOV2025",
+      "assetGroup": "YT vkHYPE (WHYPE) HyperEVM::YT-vkHYPE-13NOV2025",
+      "currencyId": "YT vkHYPE (WHYPE) HyperEVM::YT-vkHYPE-13NOV2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -556,12 +556,12 @@
     "0x859b7a5eaad0abd59a766879362829e60bcd5ffe": {
       "chainId": "999",
       "decimals": 18,
-      "name": "hHYPE",
+      "name": "hHYPE HyperEVM",
       "address": "0x859b7a5eaad0abd59a766879362829e60bcd5ffe",
       "symbol": "SY-hHyperEvmWHYPE",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/fdf5afab-7844-4ee7-97c7-16877e0c6b96.svg",
-      "assetGroup": "hHYPE::SY-hHyperEvmWHYPE",
-      "currencyId": "hHYPE::SY-hHyperEvmWHYPE",
+      "assetGroup": "hHYPE HyperEVM::SY-hHyperEvmWHYPE",
+      "currencyId": "hHYPE HyperEVM::SY-hHyperEvmWHYPE",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -577,12 +577,12 @@
     "0x415eba65d0f3f3403f50d2e61a7bdf3faf9aa9ca": {
       "chainId": "999",
       "decimals": 18,
-      "name": "PT hHYPE (WHYPE)",
+      "name": "PT hHYPE (WHYPE) HyperEVM",
       "address": "0x415eba65d0f3f3403f50d2e61a7bdf3faf9aa9ca",
       "symbol": "PT-hHyperEvmWHYPE-18DEC2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/45b1b6da-fef4-4e7c-9c0a-a5768f7d39f3.svg",
-      "assetGroup": "PT hHYPE (WHYPE)::PT-hHyperEvmWHYPE-18DEC2025",
-      "currencyId": "PT hHYPE (WHYPE)::PT-hHyperEvmWHYPE-18DEC2025",
+      "assetGroup": "PT hHYPE (WHYPE) HyperEVM::PT-hHyperEvmWHYPE-18DEC2025",
+      "currencyId": "PT hHYPE (WHYPE) HyperEVM::PT-hHyperEvmWHYPE-18DEC2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -598,12 +598,12 @@
     "0x822a6c7d25474964369b329e9df50b94d0a82141": {
       "chainId": "999",
       "decimals": 18,
-      "name": "YT hHYPE (WHYPE)",
+      "name": "YT hHYPE (WHYPE) HyperEVM",
       "address": "0x822a6c7d25474964369b329e9df50b94d0a82141",
       "symbol": "YT-hHyperEvmWHYPE-18DEC2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/e4e292e5-9e03-4eb7-8149-715b0f673475.svg",
-      "assetGroup": "YT hHYPE (WHYPE)::YT-hHyperEvmWHYPE-18DEC2025",
-      "currencyId": "YT hHYPE (WHYPE)::YT-hHyperEvmWHYPE-18DEC2025",
+      "assetGroup": "YT hHYPE (WHYPE) HyperEVM::YT-hHyperEvmWHYPE-18DEC2025",
+      "currencyId": "YT hHYPE (WHYPE) HyperEVM::YT-hHyperEvmWHYPE-18DEC2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -619,12 +619,12 @@
     "0xe1e22d55e23900f30599d8bee74a0801f09b4e58": {
       "chainId": "999",
       "decimals": 6,
-      "name": "WHLP",
+      "name": "WHLP HyperEVM",
       "address": "0xe1e22d55e23900f30599d8bee74a0801f09b4e58",
       "symbol": "SY-WHLP",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/79f2e8aa-3233-4ffe-90cc-499e100d96b6.svg",
-      "assetGroup": "WHLP::SY-WHLP",
-      "currencyId": "WHLP::SY-WHLP",
+      "assetGroup": "WHLP HyperEVM::SY-WHLP",
+      "currencyId": "WHLP HyperEVM::SY-WHLP",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -640,12 +640,12 @@
     "0x45ced175f65ea71e3d78e72e33661243fe4ec0be": {
       "chainId": "999",
       "decimals": 6,
-      "name": "PT WHLP (USDHL)",
+      "name": "PT WHLP (USDHL) HyperEVM",
       "address": "0x45ced175f65ea71e3d78e72e33661243fe4ec0be",
       "symbol": "PT-WHLP-18DEC2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/d03fba9a-fe3d-4b1e-a88b-9313f80c042a.svg",
-      "assetGroup": "PT WHLP (USDHL)::PT-WHLP-18DEC2025",
-      "currencyId": "PT WHLP (USDHL)::PT-WHLP-18DEC2025",
+      "assetGroup": "PT WHLP (USDHL) HyperEVM::PT-WHLP-18DEC2025",
+      "currencyId": "PT WHLP (USDHL) HyperEVM::PT-WHLP-18DEC2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -661,12 +661,12 @@
     "0x5600efda9b4721d110683121b3dea8e31d57a787": {
       "chainId": "999",
       "decimals": 6,
-      "name": "YT WHLP (USDHL)",
+      "name": "YT WHLP (USDHL) HyperEVM",
       "address": "0x5600efda9b4721d110683121b3dea8e31d57a787",
       "symbol": "YT-WHLP-18DEC2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/87a7dbb7-4162-4ee3-b09b-6a5942d285fe.svg",
-      "assetGroup": "YT WHLP (USDHL)::YT-WHLP-18DEC2025",
-      "currencyId": "YT WHLP (USDHL)::YT-WHLP-18DEC2025",
+      "assetGroup": "YT WHLP (USDHL) HyperEVM::YT-WHLP-18DEC2025",
+      "currencyId": "YT WHLP (USDHL) HyperEVM::YT-WHLP-18DEC2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -682,12 +682,12 @@
     "0x8608cc009e64d0ebe6ae071a3c6107e0124eff41": {
       "chainId": "999",
       "decimals": 18,
-      "name": "LHYPE",
+      "name": "LHYPE HyperEVM",
       "address": "0x8608cc009e64d0ebe6ae071a3c6107e0124eff41",
       "symbol": "SY-LHYPE",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/08af073f-7b31-46c3-a8a5-b86f5e2da3f5.svg",
-      "assetGroup": "LHYPE::SY-LHYPE",
-      "currencyId": "LHYPE::SY-LHYPE",
+      "assetGroup": "LHYPE HyperEVM::SY-LHYPE",
+      "currencyId": "LHYPE HyperEVM::SY-LHYPE",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -703,12 +703,12 @@
     "0x3603363b7b46dffaff79017aec7c3d87a291082e": {
       "chainId": "999",
       "decimals": 18,
-      "name": "PT LHYPE (WHYPE)",
+      "name": "PT LHYPE (WHYPE) HyperEVM",
       "address": "0x3603363b7b46dffaff79017aec7c3d87a291082e",
       "symbol": "PT-LHYPE-13NOV2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/32821769-8a3d-4465-966e-635b613b8261.svg",
-      "assetGroup": "PT LHYPE (WHYPE)::PT-LHYPE-13NOV2025",
-      "currencyId": "PT LHYPE (WHYPE)::PT-LHYPE-13NOV2025",
+      "assetGroup": "PT LHYPE (WHYPE) HyperEVM::PT-LHYPE-13NOV2025",
+      "currencyId": "PT LHYPE (WHYPE) HyperEVM::PT-LHYPE-13NOV2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -724,12 +724,12 @@
     "0x75ce4957ba535fbef6569ec4621e9bf2e17477fc": {
       "chainId": "999",
       "decimals": 18,
-      "name": "YT LHYPE (WHYPE)",
+      "name": "YT LHYPE (WHYPE) HyperEVM",
       "address": "0x75ce4957ba535fbef6569ec4621e9bf2e17477fc",
       "symbol": "YT-LHYPE-13NOV2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/727a897d-897c-4f64-b2fd-021282ca756e.svg",
-      "assetGroup": "YT LHYPE (WHYPE)::YT-LHYPE-13NOV2025",
-      "currencyId": "YT LHYPE (WHYPE)::YT-LHYPE-13NOV2025",
+      "assetGroup": "YT LHYPE (WHYPE) HyperEVM::YT-LHYPE-13NOV2025",
+      "currencyId": "YT LHYPE (WHYPE) HyperEVM::YT-LHYPE-13NOV2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -745,12 +745,12 @@
     "0x0e7fb0315ee061c407fa3fc3ad2eaf610aeaace5": {
       "chainId": "999",
       "decimals": 18,
-      "name": "wVLP",
+      "name": "wVLP HyperEVM",
       "address": "0x0e7fb0315ee061c407fa3fc3ad2eaf610aeaace5",
       "symbol": "SY-wVLP",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/9a4375af-7e02-4c5b-a9d6-7e5f5f97b2e2.svg",
-      "assetGroup": "wVLP::SY-wVLP",
-      "currencyId": "wVLP::SY-wVLP",
+      "assetGroup": "wVLP HyperEVM::SY-wVLP",
+      "currencyId": "wVLP HyperEVM::SY-wVLP",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -766,12 +766,12 @@
     "0xaae605abaa30566615ec835c33c861c98feede24": {
       "chainId": "999",
       "decimals": 6,
-      "name": "PT wVLP (USD₮0)",
+      "name": "PT wVLP (USD₮0) HyperEVM",
       "address": "0xaae605abaa30566615ec835c33c861c98feede24",
       "symbol": "PT-wVLP-13NOV2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/789f96fb-fb22-4313-91f6-86b36443fd85.svg",
-      "assetGroup": "PT wVLP (USD₮0)::PT-wVLP-13NOV2025",
-      "currencyId": "PT wVLP (USD₮0)::PT-wVLP-13NOV2025",
+      "assetGroup": "PT wVLP (USD₮0) HyperEVM::PT-wVLP-13NOV2025",
+      "currencyId": "PT wVLP (USD₮0) HyperEVM::PT-wVLP-13NOV2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -787,12 +787,12 @@
     "0x309b61bc4a1eea0a62573a57cc7c8ecbb207690d": {
       "chainId": "999",
       "decimals": 6,
-      "name": "YT wVLP (USD₮0)",
+      "name": "YT wVLP (USD₮0) HyperEVM",
       "address": "0x309b61bc4a1eea0a62573a57cc7c8ecbb207690d",
       "symbol": "YT-wVLP-13NOV2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/ded66d16-5712-4ed2-8d7f-a90e40df2a9f.svg",
-      "assetGroup": "YT wVLP (USD₮0)::YT-wVLP-13NOV2025",
-      "currencyId": "YT wVLP (USD₮0)::YT-wVLP-13NOV2025",
+      "assetGroup": "YT wVLP (USD₮0) HyperEVM::YT-wVLP-13NOV2025",
+      "currencyId": "YT wVLP (USD₮0) HyperEVM::YT-wVLP-13NOV2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -808,12 +808,12 @@
     "0x66616297801127ea586a7a87ce9715d374c57f7e": {
       "chainId": "999",
       "decimals": 18,
-      "name": "hwHYPE",
+      "name": "hwHYPE HyperEVM",
       "address": "0x66616297801127ea586a7a87ce9715d374c57f7e",
       "symbol": "SY-hwHYPE",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/a15032ef-7002-4dcc-86fe-2a1d382b730f.svg",
-      "assetGroup": "hwHYPE::SY-hwHYPE",
-      "currencyId": "hwHYPE::SY-hwHYPE",
+      "assetGroup": "hwHYPE HyperEVM::SY-hwHYPE",
+      "currencyId": "hwHYPE HyperEVM::SY-hwHYPE",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -829,12 +829,12 @@
     "0x02695f8b3fd88ca71a45400efe47bb8809ac888a": {
       "chainId": "999",
       "decimals": 18,
-      "name": "PT hwHYPE (WHYPE)",
+      "name": "PT hwHYPE (WHYPE) HyperEVM",
       "address": "0x02695f8b3fd88ca71a45400efe47bb8809ac888a",
       "symbol": "PT-hwHYPE-18DEC2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/158c19c6-a67d-4af0-a8f1-562f560d64e1.svg",
-      "assetGroup": "PT hwHYPE (WHYPE)::PT-hwHYPE-18DEC2025",
-      "currencyId": "PT hwHYPE (WHYPE)::PT-hwHYPE-18DEC2025",
+      "assetGroup": "PT hwHYPE (WHYPE) HyperEVM::PT-hwHYPE-18DEC2025",
+      "currencyId": "PT hwHYPE (WHYPE) HyperEVM::PT-hwHYPE-18DEC2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -850,12 +850,12 @@
     "0x7b01d7d2c151088b038b7037df5f5516fd4b698d": {
       "chainId": "999",
       "decimals": 18,
-      "name": "YT hwHYPE (WHYPE)",
+      "name": "YT hwHYPE (WHYPE) HyperEVM",
       "address": "0x7b01d7d2c151088b038b7037df5f5516fd4b698d",
       "symbol": "YT-hwHYPE-18DEC2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/adb12915-3be4-46d0-b861-4c09b4329b6e.svg",
-      "assetGroup": "YT hwHYPE (WHYPE)::YT-hwHYPE-18DEC2025",
-      "currencyId": "YT hwHYPE (WHYPE)::YT-hwHYPE-18DEC2025",
+      "assetGroup": "YT hwHYPE (WHYPE) HyperEVM::YT-hwHYPE-18DEC2025",
+      "currencyId": "YT hwHYPE (WHYPE) HyperEVM::YT-hwHYPE-18DEC2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -871,12 +871,12 @@
     "0xe24a28fe8ecd859db4280d1291783a10017d6fc4": {
       "chainId": "999",
       "decimals": 18,
-      "name": "stHYPE",
+      "name": "stHYPE HyperEVM",
       "address": "0xe24a28fe8ecd859db4280d1291783a10017d6fc4",
       "symbol": "SY-stHYPE",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/ae5719b8-4ea7-4f83-affc-6730425e2a9e.svg",
-      "assetGroup": "stHYPE::SY-stHYPE",
-      "currencyId": "stHYPE::SY-stHYPE",
+      "assetGroup": "stHYPE HyperEVM::SY-stHYPE",
+      "currencyId": "stHYPE HyperEVM::SY-stHYPE",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -892,12 +892,12 @@
     "0xcbaab2463a6ba43a65a138a41c39d541a51810cf": {
       "chainId": "999",
       "decimals": 18,
-      "name": "PT stHYPE (HYPE)",
+      "name": "PT stHYPE (HYPE) HyperEVM",
       "address": "0xcbaab2463a6ba43a65a138a41c39d541a51810cf",
       "symbol": "PT-stHYPE-26FEB2026",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/c274749b-7bea-40f9-8e1c-44e8e5cd0b2d.svg",
-      "assetGroup": "PT stHYPE (HYPE)::PT-stHYPE-26FEB2026",
-      "currencyId": "PT stHYPE (HYPE)::PT-stHYPE-26FEB2026",
+      "assetGroup": "PT stHYPE (HYPE) HyperEVM::PT-stHYPE-26FEB2026",
+      "currencyId": "PT stHYPE (HYPE) HyperEVM::PT-stHYPE-26FEB2026",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -913,12 +913,12 @@
     "0x3fe1b5550cccb78969e9cdc660fe76cd41d6be39": {
       "chainId": "999",
       "decimals": 18,
-      "name": "YT stHYPE (HYPE)",
+      "name": "YT stHYPE (HYPE) HyperEVM",
       "address": "0x3fe1b5550cccb78969e9cdc660fe76cd41d6be39",
       "symbol": "YT-stHYPE-26FEB2026",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/0e998403-95c9-4872-b20b-98ad0b5ce033.svg",
-      "assetGroup": "YT stHYPE (HYPE)::YT-stHYPE-26FEB2026",
-      "currencyId": "YT stHYPE (HYPE)::YT-stHYPE-26FEB2026",
+      "assetGroup": "YT stHYPE (HYPE) HyperEVM::YT-stHYPE-26FEB2026",
+      "currencyId": "YT stHYPE (HYPE) HyperEVM::YT-stHYPE-26FEB2026",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -934,12 +934,12 @@
     "0x06579f206257a7079eee4b0106846745f6be955a": {
       "chainId": "999",
       "decimals": 18,
-      "name": "hyWHYPE (mHYPE Isolated)",
+      "name": "hyWHYPE (mHYPE Isolated) HyperEVM",
       "address": "0x06579f206257a7079eee4b0106846745f6be955a",
       "symbol": "SY-hyWHYPE(mHYPE)-4",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/c00654c7-7cce-47c4-b3de-7c03eb5d08f4.svg",
-      "assetGroup": "hyWHYPE (mHYPE Isolated)::SY-hyWHYPE(mHYPE)-4",
-      "currencyId": "hyWHYPE (mHYPE Isolated)::SY-hyWHYPE(mHYPE)-4",
+      "assetGroup": "hyWHYPE (mHYPE Isolated) HyperEVM::SY-hyWHYPE(mHYPE)-4",
+      "currencyId": "hyWHYPE (mHYPE Isolated) HyperEVM::SY-hyWHYPE(mHYPE)-4",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -955,12 +955,12 @@
     "0xad028877011c93ad46ca900ab186f9883b06e820": {
       "chainId": "999",
       "decimals": 18,
-      "name": "PT hyWHYPE (mHYPE Isolated) (WHYPE)",
+      "name": "PT hyWHYPE (mHYPE Isolated) (WHYPE) HyperEVM",
       "address": "0xad028877011c93ad46ca900ab186f9883b06e820",
       "symbol": "PT-hyWHYPE(mHYPE)-4-20NOV2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/0c787dfe-91d4-47d6-8600-13876efd7f08.svg",
-      "assetGroup": "PT hyWHYPE (mHYPE Isolated) (WHYPE)::PT-hyWHYPE(mHYPE)-4-20NOV2025",
-      "currencyId": "PT hyWHYPE (mHYPE Isolated) (WHYPE)::PT-hyWHYPE(mHYPE)-4-20NOV2025",
+      "assetGroup": "PT hyWHYPE (mHYPE Isolated) (WHYPE) HyperEVM::PT-hyWHYPE(mHYPE)-4-20NOV2025",
+      "currencyId": "PT hyWHYPE (mHYPE Isolated) (WHYPE) HyperEVM::PT-hyWHYPE(mHYPE)-4-20NOV2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -976,12 +976,12 @@
     "0x8f195b53437182074f23cf50320daec4b3b18986": {
       "chainId": "999",
       "decimals": 18,
-      "name": "YT hyWHYPE (mHYPE Isolated) (WHYPE)",
+      "name": "YT hyWHYPE (mHYPE Isolated) (WHYPE) HyperEVM",
       "address": "0x8f195b53437182074f23cf50320daec4b3b18986",
       "symbol": "YT-hyWHYPE(mHYPE)-4-20NOV2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/37a2a761-2787-41d1-8313-29ec3ab873f6.svg",
-      "assetGroup": "YT hyWHYPE (mHYPE Isolated) (WHYPE)::YT-hyWHYPE(mHYPE)-4-20NOV2025",
-      "currencyId": "YT hyWHYPE (mHYPE Isolated) (WHYPE)::YT-hyWHYPE(mHYPE)-4-20NOV2025",
+      "assetGroup": "YT hyWHYPE (mHYPE Isolated) (WHYPE) HyperEVM::YT-hyWHYPE(mHYPE)-4-20NOV2025",
+      "currencyId": "YT hyWHYPE (mHYPE Isolated) (WHYPE) HyperEVM::YT-hyWHYPE(mHYPE)-4-20NOV2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -997,12 +997,12 @@
     "0xb335b5a8f260c4e2d4e102d4bf4bbf0fe80b6537": {
       "chainId": "999",
       "decimals": 18,
-      "name": "haHYPE",
+      "name": "haHYPE HyperEVM",
       "address": "0xb335b5a8f260c4e2d4e102d4bf4bbf0fe80b6537",
       "symbol": "SY-haHYPE",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/fb81755d-8478-4af4-a4af-92f65141ba1f.svg",
-      "assetGroup": "haHYPE::SY-haHYPE",
-      "currencyId": "haHYPE::SY-haHYPE",
+      "assetGroup": "haHYPE HyperEVM::SY-haHYPE",
+      "currencyId": "haHYPE HyperEVM::SY-haHYPE",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -1018,12 +1018,12 @@
     "0xd2f7d32f0309821fc8504bcdb0153f671423cf1f": {
       "chainId": "999",
       "decimals": 18,
-      "name": "PT haHYPE (WHYPE)",
+      "name": "PT haHYPE (WHYPE) HyperEVM",
       "address": "0xd2f7d32f0309821fc8504bcdb0153f671423cf1f",
       "symbol": "PT-haHYPE-20NOV2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/9a287d1d-2a1d-4bc6-8f63-89e7fbd80741.svg",
-      "assetGroup": "PT haHYPE (WHYPE)::PT-haHYPE-20NOV2025",
-      "currencyId": "PT haHYPE (WHYPE)::PT-haHYPE-20NOV2025",
+      "assetGroup": "PT haHYPE (WHYPE) HyperEVM::PT-haHYPE-20NOV2025",
+      "currencyId": "PT haHYPE (WHYPE) HyperEVM::PT-haHYPE-20NOV2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -1039,12 +1039,12 @@
     "0x9411928a32155b18095a80dcce634606a5117c04": {
       "chainId": "999",
       "decimals": 18,
-      "name": "YT haHYPE (WHYPE)",
+      "name": "YT haHYPE (WHYPE) HyperEVM",
       "address": "0x9411928a32155b18095a80dcce634606a5117c04",
       "symbol": "YT-haHYPE-20NOV2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/5bf630fa-69bb-4be4-9df9-c8d574b57801.svg",
-      "assetGroup": "YT haHYPE (WHYPE)::YT-haHYPE-20NOV2025",
-      "currencyId": "YT haHYPE (WHYPE)::YT-haHYPE-20NOV2025",
+      "assetGroup": "YT haHYPE (WHYPE) HyperEVM::YT-haHYPE-20NOV2025",
+      "currencyId": "YT haHYPE (WHYPE) HyperEVM::YT-haHYPE-20NOV2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -1060,48 +1060,48 @@
     "0x025cbcd0d425faf6570dceb5cf008f0c8ed8fd5d": {
       "chainId": "999",
       "decimals": 18,
-      "name": "lstHYPE",
+      "name": "lstHYPE HyperEVM",
       "address": "0x025cbcd0d425faf6570dceb5cf008f0c8ed8fd5d",
       "symbol": "SY-lstHYPE",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/3e3e9bfe-50e7-4668-ab26-7e60fe0549a6.svg",
-      "assetGroup": "lstHYPE::SY-lstHYPE",
-      "currencyId": "lstHYPE::SY-lstHYPE",
+      "assetGroup": "lstHYPE HyperEVM::SY-lstHYPE",
+      "currencyId": "lstHYPE HyperEVM::SY-lstHYPE",
       "tags": ["SY"],
       "props": { "pendle": { "tokenType": "SY" } }
     },
     "0xa3fe5786a5521c716b455ac83182ce5d94c93eea": {
       "chainId": "999",
       "decimals": 18,
-      "name": "PT lstHYPE (WHYPE)",
+      "name": "PT lstHYPE (WHYPE) HyperEVM",
       "address": "0xa3fe5786a5521c716b455ac83182ce5d94c93eea",
       "symbol": "PT-lstHYPE-27NOV2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/ded4dca7-e106-48f5-8f9b-1197a4a2ae50.svg",
-      "assetGroup": "PT lstHYPE (WHYPE)::PT-lstHYPE-27NOV2025",
-      "currencyId": "PT lstHYPE (WHYPE)::PT-lstHYPE-27NOV2025",
+      "assetGroup": "PT lstHYPE (WHYPE) HyperEVM::PT-lstHYPE-27NOV2025",
+      "currencyId": "PT lstHYPE (WHYPE) HyperEVM::PT-lstHYPE-27NOV2025",
       "tags": ["PT"],
       "props": { "pendle": { "tokenType": "PT" } }
     },
     "0x687d9269216030d91cd27e3470ce92b6d6b2a344": {
       "chainId": "999",
       "decimals": 18,
-      "name": "YT lstHYPE (WHYPE)",
+      "name": "YT lstHYPE (WHYPE) HyperEVM",
       "address": "0x687d9269216030d91cd27e3470ce92b6d6b2a344",
       "symbol": "YT-lstHYPE-27NOV2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/e0123119-4c42-4cdf-80d9-4f237eb38493.svg",
-      "assetGroup": "YT lstHYPE (WHYPE)::YT-lstHYPE-27NOV2025",
-      "currencyId": "YT lstHYPE (WHYPE)::YT-lstHYPE-27NOV2025",
+      "assetGroup": "YT lstHYPE (WHYPE) HyperEVM::YT-lstHYPE-27NOV2025",
+      "currencyId": "YT lstHYPE (WHYPE) HyperEVM::YT-lstHYPE-27NOV2025",
       "tags": ["YT"],
       "props": { "pendle": { "tokenType": "YT" } }
     },
     "0x8373ff674bb793825d7fc25e43b14798f4d00959": {
       "chainId": "999",
       "decimals": 18,
-      "name": "dnHYPE",
+      "name": "dnHYPE HyperEVM",
       "address": "0x8373ff674bb793825d7fc25e43b14798f4d00959",
       "symbol": "SY-dnHYPE",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/6bd97019-efd5-47fd-9697-c951c2469688.svg",
-      "assetGroup": "dnHYPE::SY-dnHYPE",
-      "currencyId": "dnHYPE::SY-dnHYPE",
+      "assetGroup": "dnHYPE HyperEVM::SY-dnHYPE",
+      "currencyId": "dnHYPE HyperEVM::SY-dnHYPE",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -1117,12 +1117,12 @@
     "0xe2c23327e158ded7276d0e6cdd835330f415e439": {
       "chainId": "999",
       "decimals": 6,
-      "name": "PT dnHYPE (USD₮0)",
+      "name": "PT dnHYPE (USD₮0) HyperEVM",
       "address": "0xe2c23327e158ded7276d0e6cdd835330f415e439",
       "symbol": "PT-dnHYPE-20NOV2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/d6594293-b15e-4ff8-977c-9889185dd086.svg",
-      "assetGroup": "PT dnHYPE (USD₮0)::PT-dnHYPE-20NOV2025",
-      "currencyId": "PT dnHYPE (USD₮0)::PT-dnHYPE-20NOV2025",
+      "assetGroup": "PT dnHYPE (USD₮0) HyperEVM::PT-dnHYPE-20NOV2025",
+      "currencyId": "PT dnHYPE (USD₮0) HyperEVM::PT-dnHYPE-20NOV2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -1138,12 +1138,12 @@
     "0x8000a0d4fbcb944bd726faae8d4f5a9185b849a3": {
       "chainId": "999",
       "decimals": 6,
-      "name": "YT dnHYPE (USD₮0)",
+      "name": "YT dnHYPE (USD₮0) HyperEVM",
       "address": "0x8000a0d4fbcb944bd726faae8d4f5a9185b849a3",
       "symbol": "YT-dnHYPE-20NOV2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/4c36b9c2-10e1-4aa3-b3f3-e849c9813818.svg",
-      "assetGroup": "YT dnHYPE (USD₮0)::YT-dnHYPE-20NOV2025",
-      "currencyId": "YT dnHYPE (USD₮0)::YT-dnHYPE-20NOV2025",
+      "assetGroup": "YT dnHYPE (USD₮0) HyperEVM::YT-dnHYPE-20NOV2025",
+      "currencyId": "YT dnHYPE (USD₮0) HyperEVM::YT-dnHYPE-20NOV2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -1159,48 +1159,48 @@
     "0x5d309a9b1c964e3ea36bf7571c708787a3261e56": {
       "chainId": "999",
       "decimals": 6,
-      "name": "HYPE++",
+      "name": "HYPE++ HyperEVM",
       "address": "0x5d309a9b1c964e3ea36bf7571c708787a3261e56",
       "symbol": "SY-HYPE++",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/d1a39af6-9b9a-4f95-924b-dbc985ebcbb1.svg",
-      "assetGroup": "HYPE++::SY-HYPE++",
-      "currencyId": "HYPE++::SY-HYPE++",
+      "assetGroup": "HYPE++ HyperEVM::SY-HYPE++",
+      "currencyId": "HYPE++ HyperEVM::SY-HYPE++",
       "tags": ["SY"],
       "props": { "pendle": { "tokenType": "SY" } }
     },
     "0xdc941de125ef2ce8f1c622b691b2503e3584d7f3": {
       "chainId": "999",
       "decimals": 6,
-      "name": "PT HYPE++ (USD₮0)",
+      "name": "PT HYPE++ (USD₮0) HyperEVM",
       "address": "0xdc941de125ef2ce8f1c622b691b2503e3584d7f3",
       "symbol": "PT-HYPE++-18DEC2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/25bd9103-08b3-4795-97ed-b6baaec6259d.svg",
-      "assetGroup": "PT HYPE++ (USD₮0)::PT-HYPE++-18DEC2025",
-      "currencyId": "PT HYPE++ (USD₮0)::PT-HYPE++-18DEC2025",
+      "assetGroup": "PT HYPE++ (USD₮0) HyperEVM::PT-HYPE++-18DEC2025",
+      "currencyId": "PT HYPE++ (USD₮0) HyperEVM::PT-HYPE++-18DEC2025",
       "tags": ["PT"],
       "props": { "pendle": { "tokenType": "PT" } }
     },
     "0x3478bace12088c4088790cfe0a34aba96bfc5abe": {
       "chainId": "999",
       "decimals": 6,
-      "name": "YT HYPE++ (USD₮0)",
+      "name": "YT HYPE++ (USD₮0) HyperEVM",
       "address": "0x3478bace12088c4088790cfe0a34aba96bfc5abe",
       "symbol": "YT-HYPE++-18DEC2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/c7afbd0f-7af4-4572-ab40-270d30dbde9f.svg",
-      "assetGroup": "YT HYPE++ (USD₮0)::YT-HYPE++-18DEC2025",
-      "currencyId": "YT HYPE++ (USD₮0)::YT-HYPE++-18DEC2025",
+      "assetGroup": "YT HYPE++ (USD₮0) HyperEVM::YT-HYPE++-18DEC2025",
+      "currencyId": "YT HYPE++ (USD₮0) HyperEVM::YT-HYPE++-18DEC2025",
       "tags": ["YT"],
       "props": { "pendle": { "tokenType": "YT" } }
     },
     "0x9482337ba2c5407aba8264e0bcf5406dadeb2f1c": {
       "chainId": "999",
       "decimals": 6,
-      "name": "HYPE++",
+      "name": "HYPE++ HyperEVM",
       "address": "0x9482337ba2c5407aba8264e0bcf5406dadeb2f1c",
       "symbol": "SY-HYPE++",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/995e42b4-ccfb-45d2-bf25-db0d9ff42f89.svg",
-      "assetGroup": "HYPE++::SY-HYPE++::999::0",
-      "currencyId": "HYPE++::SY-HYPE++",
+      "assetGroup": "HYPE++ HyperEVM::SY-HYPE++::999::0",
+      "currencyId": "HYPE++ HyperEVM::SY-HYPE++",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -1216,12 +1216,12 @@
     "0x55ebed862d84355a1b94d38fa3307229fcb805fa": {
       "chainId": "999",
       "decimals": 6,
-      "name": "PT HYPE++ (USD₮0)",
+      "name": "PT HYPE++ (USD₮0) HyperEVM",
       "address": "0x55ebed862d84355a1b94d38fa3307229fcb805fa",
       "symbol": "PT-HYPE++-18DEC2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/9fcfe669-0a2a-486f-869c-df4dfd133610.svg",
-      "assetGroup": "PT HYPE++ (USD₮0)::PT-HYPE++-18DEC2025::999::0",
-      "currencyId": "PT HYPE++ (USD₮0)::PT-HYPE++-18DEC2025",
+      "assetGroup": "PT HYPE++ (USD₮0) HyperEVM::PT-HYPE++-18DEC2025::999::0",
+      "currencyId": "PT HYPE++ (USD₮0) HyperEVM::PT-HYPE++-18DEC2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -1237,12 +1237,12 @@
     "0x84064d42459097a5f7c481ba800236ba691f93b6": {
       "chainId": "999",
       "decimals": 6,
-      "name": "YT HYPE++ (USD₮0)",
+      "name": "YT HYPE++ (USD₮0) HyperEVM",
       "address": "0x84064d42459097a5f7c481ba800236ba691f93b6",
       "symbol": "YT-HYPE++-18DEC2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/79d979e8-b68f-4756-9059-90116f1221c6.svg",
-      "assetGroup": "YT HYPE++ (USD₮0)::YT-HYPE++-18DEC2025::999::0",
-      "currencyId": "YT HYPE++ (USD₮0)::YT-HYPE++-18DEC2025",
+      "assetGroup": "YT HYPE++ (USD₮0) HyperEVM::YT-HYPE++-18DEC2025::999::0",
+      "currencyId": "YT HYPE++ (USD₮0) HyperEVM::YT-HYPE++-18DEC2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -1258,12 +1258,12 @@
     "0x8335496ce28deb5ecc58d87117e814731609b8e1": {
       "chainId": "999",
       "decimals": 18,
-      "name": "HYPED",
+      "name": "HYPED HyperEVM",
       "address": "0x8335496ce28deb5ecc58d87117e814731609b8e1",
       "symbol": "SY-HYPED",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/19ca7295-d880-498d-bd70-fa4d98a187d8.svg",
-      "assetGroup": "HYPED::SY-HYPED",
-      "currencyId": "HYPED::SY-HYPED",
+      "assetGroup": "HYPED HyperEVM::SY-HYPED",
+      "currencyId": "HYPED HyperEVM::SY-HYPED",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -1279,12 +1279,12 @@
     "0xdedcadddef0e099fd3edfc794a4c6757680795f2": {
       "chainId": "999",
       "decimals": 18,
-      "name": "PT HYPED (HYPE)",
+      "name": "PT HYPED (HYPE) HyperEVM",
       "address": "0xdedcadddef0e099fd3edfc794a4c6757680795f2",
       "symbol": "PT-HYPED-6NOV2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/e4ff1388-30fd-44d5-bcce-dde8bc5a43c7.svg",
-      "assetGroup": "PT HYPED (HYPE)::PT-HYPED-6NOV2025",
-      "currencyId": "PT HYPED (HYPE)::PT-HYPED-6NOV2025",
+      "assetGroup": "PT HYPED (HYPE) HyperEVM::PT-HYPED-6NOV2025",
+      "currencyId": "PT HYPED (HYPE) HyperEVM::PT-HYPED-6NOV2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -1300,12 +1300,12 @@
     "0x0838e6a6fc8a456beabffa7d16520a29a5514c5e": {
       "chainId": "999",
       "decimals": 18,
-      "name": "YT HYPED (HYPE)",
+      "name": "YT HYPED (HYPE) HyperEVM",
       "address": "0x0838e6a6fc8a456beabffa7d16520a29a5514c5e",
       "symbol": "YT-HYPED-6NOV2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/9c43d559-c21f-4e55-af13-1d83244e9649.svg",
-      "assetGroup": "YT HYPED (HYPE)::YT-HYPED-6NOV2025",
-      "currencyId": "YT HYPED (HYPE)::YT-HYPED-6NOV2025",
+      "assetGroup": "YT HYPED (HYPE) HyperEVM::YT-HYPED-6NOV2025",
+      "currencyId": "YT HYPED (HYPE) HyperEVM::YT-HYPED-6NOV2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -1321,12 +1321,12 @@
     "0xd887cd43e3f79d9d794858ba1df6742b64a22528": {
       "chainId": "999",
       "decimals": 18,
-      "name": "beHYPE",
+      "name": "beHYPE HyperEVM",
       "address": "0xd887cd43e3f79d9d794858ba1df6742b64a22528",
       "symbol": "SY-beHYPE",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/555462e6-74b2-4524-b2e3-f2f75d503ee8.svg",
-      "assetGroup": "beHYPE::SY-beHYPE",
-      "currencyId": "beHYPE::SY-beHYPE",
+      "assetGroup": "beHYPE HyperEVM::SY-beHYPE",
+      "currencyId": "beHYPE HyperEVM::SY-beHYPE",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -1342,12 +1342,12 @@
     "0x3a4dcc6e9a19bcf4063ab3a0c63a5c0041175414": {
       "chainId": "999",
       "decimals": 18,
-      "name": "PT beHYPE (HYPE)",
+      "name": "PT beHYPE (HYPE) HyperEVM",
       "address": "0x3a4dcc6e9a19bcf4063ab3a0c63a5c0041175414",
       "symbol": "PT-beHYPE-19MAR2026",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/eb7ca345-92d9-459b-82bc-05495874161a.svg",
-      "assetGroup": "PT beHYPE (HYPE)::PT-beHYPE-19MAR2026",
-      "currencyId": "PT beHYPE (HYPE)::PT-beHYPE-19MAR2026",
+      "assetGroup": "PT beHYPE (HYPE) HyperEVM::PT-beHYPE-19MAR2026",
+      "currencyId": "PT beHYPE (HYPE) HyperEVM::PT-beHYPE-19MAR2026",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -1363,12 +1363,12 @@
     "0x3f1993b58a00d31dfc7305af5a34b4e88be246b4": {
       "chainId": "999",
       "decimals": 18,
-      "name": "YT beHYPE (HYPE)",
+      "name": "YT beHYPE (HYPE) HyperEVM",
       "address": "0x3f1993b58a00d31dfc7305af5a34b4e88be246b4",
       "symbol": "YT-beHYPE-19MAR2026",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/d32fec61-641c-4697-85a2-2df4063a7265.svg",
-      "assetGroup": "YT beHYPE (HYPE)::YT-beHYPE-19MAR2026",
-      "currencyId": "YT beHYPE (HYPE)::YT-beHYPE-19MAR2026",
+      "assetGroup": "YT beHYPE (HYPE) HyperEVM::YT-beHYPE-19MAR2026",
+      "currencyId": "YT beHYPE (HYPE) HyperEVM::YT-beHYPE-19MAR2026",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -1384,12 +1384,12 @@
     "0x1d78c45512c569ad7487103d687f9a44df06bcde": {
       "chainId": "999",
       "decimals": 18,
-      "name": "USDe (Nov 2025)",
+      "name": "USDe (Nov 2025) HyperEVM",
       "address": "0x1d78c45512c569ad7487103d687f9a44df06bcde",
       "symbol": "SY-USDe",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/bdb09436-8d17-4046-a4f6-5020ddcba809.svg",
-      "assetGroup": "USDe (Nov 2025)::SY-USDe",
-      "currencyId": "USDe (Nov 2025)::SY-USDe",
+      "assetGroup": "USDe (Nov 2025) HyperEVM::SY-USDe",
+      "currencyId": "USDe (Nov 2025) HyperEVM::SY-USDe",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -1405,12 +1405,12 @@
     "0xb884ddc29f7a0a66934be8c03f25976a365a4ea2": {
       "chainId": "999",
       "decimals": 18,
-      "name": "PT USDe (USDe)",
+      "name": "PT USDe (USDe) HyperEVM",
       "address": "0xb884ddc29f7a0a66934be8c03f25976a365a4ea2",
       "symbol": "PT-USDe-27NOV2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/fa575c56-34e4-4b35-96cf-fd25cdf408f1.svg",
-      "assetGroup": "PT USDe (USDe)::PT-USDe-27NOV2025",
-      "currencyId": "PT USDe (USDe)::PT-USDe-27NOV2025",
+      "assetGroup": "PT USDe (USDe) HyperEVM::PT-USDe-27NOV2025",
+      "currencyId": "PT USDe (USDe) HyperEVM::PT-USDe-27NOV2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -1426,12 +1426,12 @@
     "0x4386391e9481050cfc2d694d65914a1ae05a0727": {
       "chainId": "999",
       "decimals": 18,
-      "name": "YT USDe (USDe)",
+      "name": "YT USDe (USDe) HyperEVM",
       "address": "0x4386391e9481050cfc2d694d65914a1ae05a0727",
       "symbol": "YT-USDe-27NOV2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/ccc69b72-a09a-48dd-b939-7e0de5a3f284.svg",
-      "assetGroup": "YT USDe (USDe)::YT-USDe-27NOV2025",
-      "currencyId": "YT USDe (USDe)::YT-USDe-27NOV2025",
+      "assetGroup": "YT USDe (USDe) HyperEVM::YT-USDe-27NOV2025",
+      "currencyId": "YT USDe (USDe) HyperEVM::YT-USDe-27NOV2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -1447,12 +1447,12 @@
     "0x618b2c320af0df4aed484e59c876b7841f631c0d": {
       "chainId": "999",
       "decimals": 18,
-      "name": "dnPUMP",
+      "name": "dnPUMP HyperEVM",
       "address": "0x618b2c320af0df4aed484e59c876b7841f631c0d",
       "symbol": "SY-dnPUMP",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/2ba040df-947e-40f1-a468-ef7e79c38854.svg",
-      "assetGroup": "dnPUMP::SY-dnPUMP",
-      "currencyId": "dnPUMP::SY-dnPUMP",
+      "assetGroup": "dnPUMP HyperEVM::SY-dnPUMP",
+      "currencyId": "dnPUMP HyperEVM::SY-dnPUMP",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -1468,12 +1468,12 @@
     "0x97afa1a25bed5788bba54abad9a672931d82636a": {
       "chainId": "999",
       "decimals": 6,
-      "name": "PT dnPUMP (USD₮0)",
+      "name": "PT dnPUMP (USD₮0) HyperEVM",
       "address": "0x97afa1a25bed5788bba54abad9a672931d82636a",
       "symbol": "PT-dnPUMP-20NOV2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/b49aae24-10f3-424a-9535-39c4005ac6c4.svg",
-      "assetGroup": "PT dnPUMP (USD₮0)::PT-dnPUMP-20NOV2025",
-      "currencyId": "PT dnPUMP (USD₮0)::PT-dnPUMP-20NOV2025",
+      "assetGroup": "PT dnPUMP (USD₮0) HyperEVM::PT-dnPUMP-20NOV2025",
+      "currencyId": "PT dnPUMP (USD₮0) HyperEVM::PT-dnPUMP-20NOV2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -1489,12 +1489,12 @@
     "0xb934f619975317387f3292adcba5e387d15a25af": {
       "chainId": "999",
       "decimals": 6,
-      "name": "YT dnPUMP (USD₮0)",
+      "name": "YT dnPUMP (USD₮0) HyperEVM",
       "address": "0xb934f619975317387f3292adcba5e387d15a25af",
       "symbol": "YT-dnPUMP-20NOV2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/00adc1e3-d7a7-4169-a6f0-350c2612232f.svg",
-      "assetGroup": "YT dnPUMP (USD₮0)::YT-dnPUMP-20NOV2025",
-      "currencyId": "YT dnPUMP (USD₮0)::YT-dnPUMP-20NOV2025",
+      "assetGroup": "YT dnPUMP (USD₮0) HyperEVM::YT-dnPUMP-20NOV2025",
+      "currencyId": "YT dnPUMP (USD₮0) HyperEVM::YT-dnPUMP-20NOV2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -1510,12 +1510,12 @@
     "0xd8769c34f0291611a31393f5fe1f33605652bd9f": {
       "chainId": "999",
       "decimals": 18,
-      "name": "hakHYPE",
+      "name": "hakHYPE HyperEVM",
       "address": "0xd8769c34f0291611a31393f5fe1f33605652bd9f",
       "symbol": "SY-hakHYPE",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/6008cf4c-c699-40c3-a2c7-567943c6abe9.svg",
-      "assetGroup": "hakHYPE::SY-hakHYPE",
-      "currencyId": "hakHYPE::SY-hakHYPE",
+      "assetGroup": "hakHYPE HyperEVM::SY-hakHYPE",
+      "currencyId": "hakHYPE HyperEVM::SY-hakHYPE",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -1531,12 +1531,12 @@
     "0x39cda9a07956aee8336fb2c743cfb4e76c5cc013": {
       "chainId": "999",
       "decimals": 18,
-      "name": "PT hakHYPE (kHYPE)",
+      "name": "PT hakHYPE (kHYPE) HyperEVM",
       "address": "0x39cda9a07956aee8336fb2c743cfb4e76c5cc013",
       "symbol": "PT-hakHYPE-20NOV2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/034b851f-7c96-4c72-a6fc-2704510d5634.svg",
-      "assetGroup": "PT hakHYPE (kHYPE)::PT-hakHYPE-20NOV2025",
-      "currencyId": "PT hakHYPE (kHYPE)::PT-hakHYPE-20NOV2025",
+      "assetGroup": "PT hakHYPE (kHYPE) HyperEVM::PT-hakHYPE-20NOV2025",
+      "currencyId": "PT hakHYPE (kHYPE) HyperEVM::PT-hakHYPE-20NOV2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -1552,12 +1552,12 @@
     "0xaddb671640d10b546252384ed51cf1efa5deb86e": {
       "chainId": "999",
       "decimals": 18,
-      "name": "YT hakHYPE (kHYPE)",
+      "name": "YT hakHYPE (kHYPE) HyperEVM",
       "address": "0xaddb671640d10b546252384ed51cf1efa5deb86e",
       "symbol": "YT-hakHYPE-20NOV2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/5eac2c48-0e79-49ff-b9c1-e24d0ffdfa87.svg",
-      "assetGroup": "YT hakHYPE (kHYPE)::YT-hakHYPE-20NOV2025",
-      "currencyId": "YT hakHYPE (kHYPE)::YT-hakHYPE-20NOV2025",
+      "assetGroup": "YT hakHYPE (kHYPE) HyperEVM::YT-hakHYPE-20NOV2025",
+      "currencyId": "YT hakHYPE (kHYPE) HyperEVM::YT-hakHYPE-20NOV2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -1573,24 +1573,24 @@
     "0xd8093043d5a7fe963773912fb2511190c06150bf": {
       "chainId": "999",
       "decimals": 18,
-      "name": "PT liquidHYPE (WHYPE)",
+      "name": "PT liquidHYPE (WHYPE) HyperEVM",
       "address": "0xd8093043d5a7fe963773912fb2511190c06150bf",
       "symbol": "PT-liquidHYPE-29JAN2026",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/75e7a921-bbc9-49a4-8272-bd7f52b32d26.svg",
-      "assetGroup": "PT liquidHYPE (WHYPE)::PT-liquidHYPE-29JAN2026",
-      "currencyId": "PT liquidHYPE (WHYPE)::PT-liquidHYPE-29JAN2026",
+      "assetGroup": "PT liquidHYPE (WHYPE) HyperEVM::PT-liquidHYPE-29JAN2026",
+      "currencyId": "PT liquidHYPE (WHYPE) HyperEVM::PT-liquidHYPE-29JAN2026",
       "tags": ["PT"],
       "props": { "pendle": { "tokenType": "PT" } }
     },
     "0x38230d78c1969049734a32421fbcdd61efed216c": {
       "chainId": "999",
       "decimals": 18,
-      "name": "YT liquidHYPE (WHYPE)",
+      "name": "YT liquidHYPE (WHYPE) HyperEVM",
       "address": "0x38230d78c1969049734a32421fbcdd61efed216c",
       "symbol": "YT-liquidHYPE-29JAN2026",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/939b1c12-1322-4eec-8f67-ea8cc4f86ea9.svg",
-      "assetGroup": "YT liquidHYPE (WHYPE)::YT-liquidHYPE-29JAN2026",
-      "currencyId": "YT liquidHYPE (WHYPE)::YT-liquidHYPE-29JAN2026",
+      "assetGroup": "YT liquidHYPE (WHYPE) HyperEVM::YT-liquidHYPE-29JAN2026",
+      "currencyId": "YT liquidHYPE (WHYPE) HyperEVM::YT-liquidHYPE-29JAN2026",
       "tags": ["YT"],
       "props": { "pendle": { "tokenType": "YT" } }
     },

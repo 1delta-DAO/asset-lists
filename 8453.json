@@ -5,36 +5,36 @@
     "0xaee0844a089d4de3677cdb1d0ae4595a89963e78": {
       "chainId": "8453",
       "decimals": 8,
-      "name": "SY-LBTC",
+      "name": "SY-LBTC Base",
       "address": "0xaee0844a089d4de3677cdb1d0ae4595a89963e78",
       "symbol": "SY-LBTC",
       "logoURI": "https://storage.googleapis.com/pendle-assets-staging/images/assets/unknown.svg",
-      "assetGroup": "SY-LBTC::SY-LBTC",
-      "currencyId": "SY-LBTC::SY-LBTC",
+      "assetGroup": "SY-LBTC Base::SY-LBTC",
+      "currencyId": "SY-LBTC Base::SY-LBTC",
       "tags": ["SY"],
       "props": { "pendle": { "tokenType": "SY" } }
     },
     "0x7ae6d25e8ef05e424ae8c04b48822e8211b3cddc": {
       "chainId": "8453",
       "decimals": 8,
-      "name": "PT-LBTC-29MAY2025",
+      "name": "PT-LBTC-29MAY2025 Base",
       "address": "0x7ae6d25e8ef05e424ae8c04b48822e8211b3cddc",
       "symbol": "PT-LBTC-29MAY2025",
       "logoURI": "https://storage.googleapis.com/pendle-assets-staging/images/assets/unknown.svg",
-      "assetGroup": "PT-LBTC-29MAY2025::PT-LBTC-29MAY2025",
-      "currencyId": "PT-LBTC-29MAY2025::PT-LBTC-29MAY2025",
+      "assetGroup": "PT-LBTC-29MAY2025 Base::PT-LBTC-29MAY2025",
+      "currencyId": "PT-LBTC-29MAY2025 Base::PT-LBTC-29MAY2025",
       "tags": ["PT"],
       "props": { "pendle": { "tokenType": "PT", "expired": true } }
     },
     "0x75372f72ec752a761e96cbcb3395f4b9586d9afd": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "cbETH",
+      "name": "cbETH Base",
       "address": "0x75372f72ec752a761e96cbcb3395f4b9586d9afd",
       "symbol": "SY-cbETH",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/91c4c8d9-9b26-46be-9788-c82147c41c23.svg",
-      "assetGroup": "cbETH::SY-cbETH",
-      "currencyId": "cbETH::SY-cbETH",
+      "assetGroup": "cbETH Base::SY-cbETH",
+      "currencyId": "cbETH Base::SY-cbETH",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -50,24 +50,24 @@
     "0x475a89c208281d2bf952690b1172c56f366c1489": {
       "chainId": "8453",
       "decimals": 8,
-      "name": "YT-LBTC-29MAY2025",
+      "name": "YT-LBTC-29MAY2025 Base",
       "address": "0x475a89c208281d2bf952690b1172c56f366c1489",
       "symbol": "YT-LBTC-29MAY2025",
       "logoURI": "https://storage.googleapis.com/pendle-assets-staging/images/assets/unknown.svg",
-      "assetGroup": "YT-LBTC-29MAY2025::YT-LBTC-29MAY2025",
-      "currencyId": "YT-LBTC-29MAY2025::YT-LBTC-29MAY2025",
+      "assetGroup": "YT-LBTC-29MAY2025 Base::YT-LBTC-29MAY2025",
+      "currencyId": "YT-LBTC-29MAY2025 Base::YT-LBTC-29MAY2025",
       "tags": ["YT"],
       "props": { "pendle": { "tokenType": "YT", "expired": true } }
     },
     "0xf9da8f69d518d7f6488179014f475e843ee2defd": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "YT cbETH (ETH)",
+      "name": "YT cbETH (ETH) Base",
       "address": "0xf9da8f69d518d7f6488179014f475e843ee2defd",
       "symbol": "YT-cbETH-25DEC2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/75d33cab-e9c9-485d-b799-d1c9f45c5496.svg",
-      "assetGroup": "YT cbETH (ETH)::YT-cbETH-25DEC2025",
-      "currencyId": "YT cbETH (ETH)::YT-cbETH-25DEC2025",
+      "assetGroup": "YT cbETH (ETH) Base::YT-cbETH-25DEC2025",
+      "currencyId": "YT cbETH (ETH) Base::YT-cbETH-25DEC2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -83,12 +83,12 @@
     "0xe46c8ba948f8071b425a1f7ba45c0a65cbacea2e": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "PT cbETH (ETH)",
+      "name": "PT cbETH (ETH) Base",
       "address": "0xe46c8ba948f8071b425a1f7ba45c0a65cbacea2e",
       "symbol": "PT-cbETH-25DEC2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/cec7c095-6d6c-400b-9509-c2b68a1f54f3.svg",
-      "assetGroup": "PT cbETH (ETH)::PT-cbETH-25DEC2025",
-      "currencyId": "PT cbETH (ETH)::PT-cbETH-25DEC2025",
+      "assetGroup": "PT cbETH (ETH) Base::PT-cbETH-25DEC2025",
+      "currencyId": "PT cbETH (ETH) Base::PT-cbETH-25DEC2025",
       "tags": ["PT", "ZEROLEND"],
       "props": {
         "pendle": {
@@ -104,12 +104,12 @@
     "0xb261266cb30c255cb9c73ebf4a3ead9398d23ab4": {
       "chainId": "8453",
       "decimals": 8,
-      "name": "LBTC",
+      "name": "LBTC Base",
       "address": "0xb261266cb30c255cb9c73ebf4a3ead9398d23ab4",
       "symbol": "SY-LBTC",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/47b51c4d-8925-4ff0-b324-d6be10985464.svg",
-      "assetGroup": "LBTC::SY-LBTC",
-      "currencyId": "LBTC::SY-LBTC",
+      "assetGroup": "LBTC Base::SY-LBTC",
+      "currencyId": "LBTC Base::SY-LBTC",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -125,12 +125,12 @@
     "0x5d746848005507da0b1717c137a10c30ad9ee307": {
       "chainId": "8453",
       "decimals": 8,
-      "name": "PT LBTC (cbBTC)",
+      "name": "PT LBTC (cbBTC) Base",
       "address": "0x5d746848005507da0b1717c137a10c30ad9ee307",
       "symbol": "PT-LBTC-29MAY2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/95280b7c-e3a4-43ce-8a73-e544e2600624.svg",
-      "assetGroup": "PT LBTC (cbBTC)::PT-LBTC-29MAY2025",
-      "currencyId": "PT LBTC (cbBTC)::PT-LBTC-29MAY2025",
+      "assetGroup": "PT LBTC (cbBTC) Base::PT-LBTC-29MAY2025",
+      "currencyId": "PT LBTC (cbBTC) Base::PT-LBTC-29MAY2025",
       "tags": ["PT", "ZEROLEND"],
       "props": {
         "pendle": {
@@ -147,12 +147,12 @@
     "0x5fd84c3dd5c00ab9e04bd94685b55e8dd0c1e3fd": {
       "chainId": "8453",
       "decimals": 8,
-      "name": "YT LBTC (cbBTC)",
+      "name": "YT LBTC (cbBTC) Base",
       "address": "0x5fd84c3dd5c00ab9e04bd94685b55e8dd0c1e3fd",
       "symbol": "YT-LBTC-29MAY2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/af8af2d5-d210-475d-a342-00abf5d20589.svg",
-      "assetGroup": "YT LBTC (cbBTC)::YT-LBTC-29MAY2025",
-      "currencyId": "YT LBTC (cbBTC)::YT-LBTC-29MAY2025",
+      "assetGroup": "YT LBTC (cbBTC) Base::YT-LBTC-29MAY2025",
+      "currencyId": "YT LBTC (cbBTC) Base::YT-LBTC-29MAY2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -169,12 +169,12 @@
     "0xc40febf5a33b8c92b187d9be0fd3fe0ac2e4b07c": {
       "chainId": "8453",
       "decimals": 8,
-      "name": "mUSDC",
+      "name": "mUSDC Base",
       "address": "0xc40febf5a33b8c92b187d9be0fd3fe0ac2e4b07c",
       "symbol": "SY-mUSDC",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/026330b1-18bb-43fb-9dc4-9e97998807c4.svg",
-      "assetGroup": "mUSDC::SY-mUSDC",
-      "currencyId": "mUSDC::SY-mUSDC",
+      "assetGroup": "mUSDC Base::SY-mUSDC",
+      "currencyId": "mUSDC Base::SY-mUSDC",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -190,12 +190,12 @@
     "0x2a9e9256e0d1ad0f7f9d7c7248cb7e2f06072deb": {
       "chainId": "8453",
       "decimals": 6,
-      "name": "PT mUSDC (USDC)",
+      "name": "PT mUSDC (USDC) Base",
       "address": "0x2a9e9256e0d1ad0f7f9d7c7248cb7e2f06072deb",
       "symbol": "PT-mUSDC-26JUN2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/dd3dd5af-a072-409a-af35-3ac803ede34a.svg",
-      "assetGroup": "PT mUSDC (USDC)::PT-mUSDC-26JUN2025",
-      "currencyId": "PT mUSDC (USDC)::PT-mUSDC-26JUN2025",
+      "assetGroup": "PT mUSDC (USDC) Base::PT-mUSDC-26JUN2025",
+      "currencyId": "PT mUSDC (USDC) Base::PT-mUSDC-26JUN2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -212,12 +212,12 @@
     "0xe84009923221bb401c811643c5a5efaf56eed4ca": {
       "chainId": "8453",
       "decimals": 6,
-      "name": "YT mUSDC (USDC)",
+      "name": "YT mUSDC (USDC) Base",
       "address": "0xe84009923221bb401c811643c5a5efaf56eed4ca",
       "symbol": "YT-mUSDC-26JUN2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/7bfb5820-5ebd-4a97-a2a7-e4a1f2a2fef0.svg",
-      "assetGroup": "YT mUSDC (USDC)::YT-mUSDC-26JUN2025",
-      "currencyId": "YT mUSDC (USDC)::YT-mUSDC-26JUN2025",
+      "assetGroup": "YT mUSDC (USDC) Base::YT-mUSDC-26JUN2025",
+      "currencyId": "YT mUSDC (USDC) Base::YT-mUSDC-26JUN2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -234,12 +234,12 @@
     "0x7f5efa1bb887a5080ceacd6f3e2c0fc16bd90c90": {
       "chainId": "8453",
       "decimals": 8,
-      "name": "mcbBTC",
+      "name": "mcbBTC Base",
       "address": "0x7f5efa1bb887a5080ceacd6f3e2c0fc16bd90c90",
       "symbol": "SY-mcbBTC",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/e86ef827-c5b0-4e17-b73f-edd6efcadae2.svg",
-      "assetGroup": "mcbBTC::SY-mcbBTC",
-      "currencyId": "mcbBTC::SY-mcbBTC",
+      "assetGroup": "mcbBTC Base::SY-mcbBTC",
+      "currencyId": "mcbBTC Base::SY-mcbBTC",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -255,12 +255,12 @@
     "0x5c6593f57ee95519ff6a8cd16a5e41ff50af239a": {
       "chainId": "8453",
       "decimals": 8,
-      "name": "PT mcbBTC (cbBTC)",
+      "name": "PT mcbBTC (cbBTC) Base",
       "address": "0x5c6593f57ee95519ff6a8cd16a5e41ff50af239a",
       "symbol": "PT-mcbBTC-26JUN2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/c877240e-a45b-4e8c-b42e-a2b6d96ed332.svg",
-      "assetGroup": "PT mcbBTC (cbBTC)::PT-mcbBTC-26JUN2025",
-      "currencyId": "PT mcbBTC (cbBTC)::PT-mcbBTC-26JUN2025",
+      "assetGroup": "PT mcbBTC (cbBTC) Base::PT-mcbBTC-26JUN2025",
+      "currencyId": "PT mcbBTC (cbBTC) Base::PT-mcbBTC-26JUN2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -277,12 +277,12 @@
     "0xdc2ffc7b4bd5a38d5842e5fdbb407e731dd30796": {
       "chainId": "8453",
       "decimals": 8,
-      "name": "YT mcbBTC (cbBTC)",
+      "name": "YT mcbBTC (cbBTC) Base",
       "address": "0xdc2ffc7b4bd5a38d5842e5fdbb407e731dd30796",
       "symbol": "YT-mcbBTC-26JUN2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/27bcfbe5-efbb-4ea1-8f8c-b9507dda853e.svg",
-      "assetGroup": "YT mcbBTC (cbBTC)::YT-mcbBTC-26JUN2025",
-      "currencyId": "YT mcbBTC (cbBTC)::YT-mcbBTC-26JUN2025",
+      "assetGroup": "YT mcbBTC (cbBTC) Base::YT-mcbBTC-26JUN2025",
+      "currencyId": "YT mcbBTC (cbBTC) Base::YT-mcbBTC-26JUN2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -299,48 +299,48 @@
     "0x6e5f3a139acd6c8258472fa08d2133b555d10fb2": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "PT-wsupperOETHb-26JUN2025",
+      "name": "PT-wsupperOETHb-26JUN2025 Base",
       "address": "0x6e5f3a139acd6c8258472fa08d2133b555d10fb2",
       "symbol": "PT-wsupperOETHb-26JUN2025",
       "logoURI": "https://storage.googleapis.com/pendle-assets-staging/images/assets/unknown.svg",
-      "assetGroup": "PT-wsupperOETHb-26JUN2025::PT-wsupperOETHb-26JUN2025",
-      "currencyId": "PT-wsupperOETHb-26JUN2025::PT-wsupperOETHb-26JUN2025",
+      "assetGroup": "PT-wsupperOETHb-26JUN2025 Base::PT-wsupperOETHb-26JUN2025",
+      "currencyId": "PT-wsupperOETHb-26JUN2025 Base::PT-wsupperOETHb-26JUN2025",
       "tags": ["PT"],
       "props": { "pendle": { "tokenType": "PT", "expired": true } }
     },
     "0x07bfd831b3d9908a2a657151389ac26ad900c66c": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "YT-wsupperOETHb-26JUN2025",
+      "name": "YT-wsupperOETHb-26JUN2025 Base",
       "address": "0x07bfd831b3d9908a2a657151389ac26ad900c66c",
       "symbol": "YT-wsupperOETHb-26JUN2025",
       "logoURI": "https://storage.googleapis.com/pendle-assets-staging/images/assets/unknown.svg",
-      "assetGroup": "YT-wsupperOETHb-26JUN2025::YT-wsupperOETHb-26JUN2025",
-      "currencyId": "YT-wsupperOETHb-26JUN2025::YT-wsupperOETHb-26JUN2025",
+      "assetGroup": "YT-wsupperOETHb-26JUN2025 Base::YT-wsupperOETHb-26JUN2025",
+      "currencyId": "YT-wsupperOETHb-26JUN2025 Base::YT-wsupperOETHb-26JUN2025",
       "tags": ["YT"],
       "props": { "pendle": { "tokenType": "YT", "expired": true } }
     },
     "0x7c7cd4acc9729b1d45c3f67624a59c5f38f6435a": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "SY-wsupperOETHb",
+      "name": "SY-wsupperOETHb Base",
       "address": "0x7c7cd4acc9729b1d45c3f67624a59c5f38f6435a",
       "symbol": "SY-wsupperOETHb",
       "logoURI": "https://storage.googleapis.com/pendle-assets-staging/images/assets/unknown.svg",
-      "assetGroup": "SY-wsupperOETHb::SY-wsupperOETHb",
-      "currencyId": "SY-wsupperOETHb::SY-wsupperOETHb",
+      "assetGroup": "SY-wsupperOETHb Base::SY-wsupperOETHb",
+      "currencyId": "SY-wsupperOETHb Base::SY-wsupperOETHb",
       "tags": ["SY"],
       "props": { "pendle": { "tokenType": "SY" } }
     },
     "0x67507f3e26e7e2fd0a42c48fbc85069ccfcbd2ff": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "wsuperOETHb",
+      "name": "wsuperOETHb Base",
       "address": "0x67507f3e26e7e2fd0a42c48fbc85069ccfcbd2ff",
       "symbol": "SY-wsuperOETHb",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/c08d40b9-9573-4e18-af3d-9d3bea24d748.svg",
-      "assetGroup": "wsuperOETHb::SY-wsuperOETHb",
-      "currencyId": "wsuperOETHb::SY-wsuperOETHb",
+      "assetGroup": "wsuperOETHb Base::SY-wsuperOETHb",
+      "currencyId": "wsuperOETHb Base::SY-wsuperOETHb",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -356,12 +356,12 @@
     "0x25d2b7e3b71f4edcc366e79134570704a079923a": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "PT wsuperOETHb (superOETHb)",
+      "name": "PT wsuperOETHb (superOETHb) Base",
       "address": "0x25d2b7e3b71f4edcc366e79134570704a079923a",
       "symbol": "PT-wsuperOETHb-26JUN2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/ac4127a6-cda2-41ba-8db7-9cda2d2c2e94.svg",
-      "assetGroup": "PT wsuperOETHb (superOETHb)::PT-wsuperOETHb-26JUN2025",
-      "currencyId": "PT wsuperOETHb (superOETHb)::PT-wsuperOETHb-26JUN2025",
+      "assetGroup": "PT wsuperOETHb (superOETHb) Base::PT-wsuperOETHb-26JUN2025",
+      "currencyId": "PT wsuperOETHb (superOETHb) Base::PT-wsuperOETHb-26JUN2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -378,12 +378,12 @@
     "0x1188331820daa0a8af69c0779334d53cb4a9cef1": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "YT wsuperOETHb (superOETHb)",
+      "name": "YT wsuperOETHb (superOETHb) Base",
       "address": "0x1188331820daa0a8af69c0779334d53cb4a9cef1",
       "symbol": "YT-wsuperOETHb-26JUN2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/cfcfe49c-174f-4edf-8d88-6daa92450448.svg",
-      "assetGroup": "YT wsuperOETHb (superOETHb)::YT-wsuperOETHb-26JUN2025",
-      "currencyId": "YT wsuperOETHb (superOETHb)::YT-wsuperOETHb-26JUN2025",
+      "assetGroup": "YT wsuperOETHb (superOETHb) Base::YT-wsuperOETHb-26JUN2025",
+      "currencyId": "YT wsuperOETHb (superOETHb) Base::YT-wsuperOETHb-26JUN2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -400,12 +400,12 @@
     "0xff702347d81725ed8bbe341392af511e29cfed98": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "sUSDz",
+      "name": "sUSDz Base",
       "address": "0xff702347d81725ed8bbe341392af511e29cfed98",
       "symbol": "SY-sUSDz",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/0e81fa2d-84ff-4d9f-b674-f794b45c0b34.svg",
-      "assetGroup": "sUSDz::SY-sUSDz",
-      "currencyId": "sUSDz::SY-sUSDz",
+      "assetGroup": "sUSDz Base::SY-sUSDz",
+      "currencyId": "sUSDz Base::SY-sUSDz",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -421,12 +421,12 @@
     "0xc1e4d7ca05045dfbc654b67e11124901148b1266": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "PT sUSDz (USDz)",
+      "name": "PT sUSDz (USDz) Base",
       "address": "0xc1e4d7ca05045dfbc654b67e11124901148b1266",
       "symbol": "PT-sUSDz-27MAR2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/296a6c38-c626-42f0-9cf1-456837aa29d4.svg",
-      "assetGroup": "PT sUSDz (USDz)::PT-sUSDz-27MAR2025",
-      "currencyId": "PT sUSDz (USDz)::PT-sUSDz-27MAR2025",
+      "assetGroup": "PT sUSDz (USDz) Base::PT-sUSDz-27MAR2025",
+      "currencyId": "PT sUSDz (USDz) Base::PT-sUSDz-27MAR2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -443,12 +443,12 @@
     "0xb80b9f31064be8a97e4ced4e1368f45826c59868": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "YT sUSDz (USDz)",
+      "name": "YT sUSDz (USDz) Base",
       "address": "0xb80b9f31064be8a97e4ced4e1368f45826c59868",
       "symbol": "YT-sUSDz-27MAR2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/65b3eede-b217-4e4e-90cc-5e002dbaab54.svg",
-      "assetGroup": "YT sUSDz (USDz)::YT-sUSDz-27MAR2025",
-      "currencyId": "YT sUSDz (USDz)::YT-sUSDz-27MAR2025",
+      "assetGroup": "YT sUSDz (USDz) Base::YT-sUSDz-27MAR2025",
+      "currencyId": "YT sUSDz (USDz) Base::YT-sUSDz-27MAR2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -465,12 +465,12 @@
     "0x02adf72d5d06a9c92136562eb237c07696833a84": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "vAMM-VIRTUAL/cbBTC",
+      "name": "vAMM-VIRTUAL/cbBTC Base",
       "address": "0x02adf72d5d06a9c92136562eb237c07696833a84",
       "symbol": "SY Aerodrome VIR/CBBTC",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/2cc23de6-1ae1-448f-8317-29670d68cbeb.svg",
-      "assetGroup": "vAMM-VIRTUAL/cbBTC::SY Aerodrome VIR/CBBTC",
-      "currencyId": "vAMM-VIRTUAL/cbBTC::SY Aerodrome VIR/CBBTC",
+      "assetGroup": "vAMM-VIRTUAL/cbBTC Base::SY Aerodrome VIR/CBBTC",
+      "currencyId": "vAMM-VIRTUAL/cbBTC Base::SY Aerodrome VIR/CBBTC",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -486,12 +486,12 @@
     "0x603e2d1af3d0673f4af756b6e12a2044bfebb714": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "PT vAMM-VIRTUAL/cbBTC (vAMM-VIRTUAL/cbBTC)",
+      "name": "PT vAMM-VIRTUAL/cbBTC (vAMM-VIRTUAL/cbBTC) Base",
       "address": "0x603e2d1af3d0673f4af756b6e12a2044bfebb714",
       "symbol": "PT-Aerodrome VIR/CBBTC-26JUN2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/706e880e-c1ee-4258-827e-5be4e935b0a8.svg",
-      "assetGroup": "PT vAMM-VIRTUAL/cbBTC (vAMM-VIRTUAL/cbBTC)::PT-Aerodrome VIR/CBBTC-26JUN2025",
-      "currencyId": "PT vAMM-VIRTUAL/cbBTC (vAMM-VIRTUAL/cbBTC)::PT-Aerodrome VIR/CBBTC-26JUN2025",
+      "assetGroup": "PT vAMM-VIRTUAL/cbBTC (vAMM-VIRTUAL/cbBTC) Base::PT-Aerodrome VIR/CBBTC-26JUN2025",
+      "currencyId": "PT vAMM-VIRTUAL/cbBTC (vAMM-VIRTUAL/cbBTC) Base::PT-Aerodrome VIR/CBBTC-26JUN2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -508,12 +508,12 @@
     "0xce714a2ce5ecec1ba7efdc6456f12c4e7b46fa69": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "YT vAMM-VIRTUAL/cbBTC (vAMM-VIRTUAL/cbBTC)",
+      "name": "YT vAMM-VIRTUAL/cbBTC (vAMM-VIRTUAL/cbBTC) Base",
       "address": "0xce714a2ce5ecec1ba7efdc6456f12c4e7b46fa69",
       "symbol": "YT-Aerodrome VIR/CBBTC-26JUN2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/51eec45e-c68a-4743-8753-e5201832b6f8.svg",
-      "assetGroup": "YT vAMM-VIRTUAL/cbBTC (vAMM-VIRTUAL/cbBTC)::YT-Aerodrome VIR/CBBTC-26JUN2025",
-      "currencyId": "YT vAMM-VIRTUAL/cbBTC (vAMM-VIRTUAL/cbBTC)::YT-Aerodrome VIR/CBBTC-26JUN2025",
+      "assetGroup": "YT vAMM-VIRTUAL/cbBTC (vAMM-VIRTUAL/cbBTC) Base::YT-Aerodrome VIR/CBBTC-26JUN2025",
+      "currencyId": "YT vAMM-VIRTUAL/cbBTC (vAMM-VIRTUAL/cbBTC) Base::YT-Aerodrome VIR/CBBTC-26JUN2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -530,12 +530,12 @@
     "0x4665d514e82b2f9c78fa2b984e450f33d9efc842": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "USR",
+      "name": "USR Base",
       "address": "0x4665d514e82b2f9c78fa2b984e450f33d9efc842",
       "symbol": "SY-USR",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/afdab316-9443-4594-9de8-0c44c2890ffc.svg",
-      "assetGroup": "USR::SY-USR",
-      "currencyId": "USR::SY-USR",
+      "assetGroup": "USR Base::SY-USR",
+      "currencyId": "USR Base::SY-USR",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -551,12 +551,12 @@
     "0xec443e7e0e745348e500084892c89218b3ba4683": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "PT USR (USR)",
+      "name": "PT USR (USR) Base",
       "address": "0xec443e7e0e745348e500084892c89218b3ba4683",
       "symbol": "PT-USR-24APR2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/ceb019d3-32ce-4dc5-875f-c930a0f2bde8.svg",
-      "assetGroup": "PT USR (USR)::PT-USR-24APR2025",
-      "currencyId": "PT USR (USR)::PT-USR-24APR2025",
+      "assetGroup": "PT USR (USR) Base::PT-USR-24APR2025",
+      "currencyId": "PT USR (USR) Base::PT-USR-24APR2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -573,12 +573,12 @@
     "0x22cf19b7d8de1b53bbd9792e12ea86191985731f": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "YT USR (USR)",
+      "name": "YT USR (USR) Base",
       "address": "0x22cf19b7d8de1b53bbd9792e12ea86191985731f",
       "symbol": "YT-USR-24APR2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/7b6a874d-cb86-4288-857e-e79c6903b328.svg",
-      "assetGroup": "YT USR (USR)::YT-USR-24APR2025",
-      "currencyId": "YT USR (USR)::YT-USR-24APR2025",
+      "assetGroup": "YT USR (USR) Base::YT-USR-24APR2025",
+      "currencyId": "YT USR (USR) Base::YT-USR-24APR2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -595,12 +595,12 @@
     "0x2c14e596c51fb6c0dbad96858b1829835257b93b": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "PT sUSDz (USDz)",
+      "name": "PT sUSDz (USDz) Base",
       "address": "0x2c14e596c51fb6c0dbad96858b1829835257b93b",
       "symbol": "PT-sUSDz-25SEP2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/296a6c38-c626-42f0-9cf1-456837aa29d4.svg",
-      "assetGroup": "PT sUSDz (USDz)::PT-sUSDz-25SEP2025",
-      "currencyId": "PT sUSDz (USDz)::PT-sUSDz-25SEP2025",
+      "assetGroup": "PT sUSDz (USDz) Base::PT-sUSDz-25SEP2025",
+      "currencyId": "PT sUSDz (USDz) Base::PT-sUSDz-25SEP2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -617,12 +617,12 @@
     "0x18839da000e86b3a55fe3f0e32cfe6ef23e84096": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "YT sUSDz (USDz)",
+      "name": "YT sUSDz (USDz) Base",
       "address": "0x18839da000e86b3a55fe3f0e32cfe6ef23e84096",
       "symbol": "YT-sUSDz-25SEP2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/65b3eede-b217-4e4e-90cc-5e002dbaab54.svg",
-      "assetGroup": "YT sUSDz (USDz)::YT-sUSDz-25SEP2025",
-      "currencyId": "YT sUSDz (USDz)::YT-sUSDz-25SEP2025",
+      "assetGroup": "YT sUSDz (USDz) Base::YT-sUSDz-25SEP2025",
+      "currencyId": "YT sUSDz (USDz) Base::YT-sUSDz-25SEP2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -639,12 +639,12 @@
     "0xa6f0a4d18b6f6ddd408936e81b7b3a8befa18e77": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "PT USR (USR)",
+      "name": "PT USR (USR) Base",
       "address": "0xa6f0a4d18b6f6ddd408936e81b7b3a8befa18e77",
       "symbol": "PT-USR-25SEP2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/ceb019d3-32ce-4dc5-875f-c930a0f2bde8.svg",
-      "assetGroup": "PT USR (USR)::PT-USR-25SEP2025",
-      "currencyId": "PT USR (USR)::PT-USR-25SEP2025",
+      "assetGroup": "PT USR (USR) Base::PT-USR-25SEP2025",
+      "currencyId": "PT USR (USR) Base::PT-USR-25SEP2025",
       "tags": ["PT", "XLEND"],
       "props": {
         "pendle": {
@@ -661,12 +661,12 @@
     "0x61468ea4d55c02744041f16daf8ed0262891661f": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "YT USR (USR)",
+      "name": "YT USR (USR) Base",
       "address": "0x61468ea4d55c02744041f16daf8ed0262891661f",
       "symbol": "YT-USR-25SEP2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/7b6a874d-cb86-4288-857e-e79c6903b328.svg",
-      "assetGroup": "YT USR (USR)::YT-USR-25SEP2025",
-      "currencyId": "YT USR (USR)::YT-USR-25SEP2025",
+      "assetGroup": "YT USR (USR) Base::YT-USR-25SEP2025",
+      "currencyId": "YT USR (USR) Base::YT-USR-25SEP2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -683,12 +683,12 @@
     "0x4b272672a58da22b213e733f5aba48cfec534d30": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "sKAITO",
+      "name": "sKAITO Base",
       "address": "0x4b272672a58da22b213e733f5aba48cfec534d30",
       "symbol": "SY-sKAITO",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/c601b717-3608-4768-be58-215e333d405d.svg",
-      "assetGroup": "sKAITO::SY-sKAITO",
-      "currencyId": "sKAITO::SY-sKAITO",
+      "assetGroup": "sKAITO Base::SY-sKAITO",
+      "currencyId": "sKAITO Base::SY-sKAITO",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -704,12 +704,12 @@
     "0xa28a34f1e16d845a0a709bafaac3831ca7a417a7": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "PT sKAITO (KAITO)",
+      "name": "PT sKAITO (KAITO) Base",
       "address": "0xa28a34f1e16d845a0a709bafaac3831ca7a417a7",
       "symbol": "PT-sKAITO-31JUL2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/927ad7e1-b4df-4161-8906-9eeea0c6692a.svg",
-      "assetGroup": "PT sKAITO (KAITO)::PT-sKAITO-31JUL2025",
-      "currencyId": "PT sKAITO (KAITO)::PT-sKAITO-31JUL2025",
+      "assetGroup": "PT sKAITO (KAITO) Base::PT-sKAITO-31JUL2025",
+      "currencyId": "PT sKAITO (KAITO) Base::PT-sKAITO-31JUL2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -726,12 +726,12 @@
     "0x5f42d7365ed7b51a77c275e9f36a8d8f9cc56750": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "YT sKAITO (KAITO)",
+      "name": "YT sKAITO (KAITO) Base",
       "address": "0x5f42d7365ed7b51a77c275e9f36a8d8f9cc56750",
       "symbol": "YT-sKAITO-31JUL2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/83c2665b-3419-40fc-b26c-49eb196f60be.svg",
-      "assetGroup": "YT sKAITO (KAITO)::YT-sKAITO-31JUL2025",
-      "currencyId": "YT sKAITO (KAITO)::YT-sKAITO-31JUL2025",
+      "assetGroup": "YT sKAITO (KAITO) Base::YT-sKAITO-31JUL2025",
+      "currencyId": "YT sKAITO (KAITO) Base::YT-sKAITO-31JUL2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -748,12 +748,12 @@
     "0x66d32c781a5be5a78ec9e260cad288d75de80295": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "yvBal-GHO-USR",
+      "name": "yvBal-GHO-USR Base",
       "address": "0x66d32c781a5be5a78ec9e260cad288d75de80295",
       "symbol": "SY-yvBal-GHO-USR",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/e9b65db0-27ab-4eb6-a2b3-427b43b4a8ed.svg",
-      "assetGroup": "yvBal-GHO-USR::SY-yvBal-GHO-USR",
-      "currencyId": "yvBal-GHO-USR::SY-yvBal-GHO-USR",
+      "assetGroup": "yvBal-GHO-USR Base::SY-yvBal-GHO-USR",
+      "currencyId": "yvBal-GHO-USR Base::SY-yvBal-GHO-USR",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -769,12 +769,12 @@
     "0xe4862da6e20c3a2a4e437a0ecdb823a2aebbf140": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "PT yvBal-GHO-USR (Aave GHO-USR)",
+      "name": "PT yvBal-GHO-USR (Aave GHO-USR) Base",
       "address": "0xe4862da6e20c3a2a4e437a0ecdb823a2aebbf140",
       "symbol": "PT-yvBal-GHO-USR-25SEP2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/7afa9df8-ac58-4e2b-8480-d1a086dc91ac.svg",
-      "assetGroup": "PT yvBal-GHO-USR (Aave GHO-USR)::PT-yvBal-GHO-USR-25SEP2025",
-      "currencyId": "PT yvBal-GHO-USR (Aave GHO-USR)::PT-yvBal-GHO-USR-25SEP2025",
+      "assetGroup": "PT yvBal-GHO-USR (Aave GHO-USR) Base::PT-yvBal-GHO-USR-25SEP2025",
+      "currencyId": "PT yvBal-GHO-USR (Aave GHO-USR) Base::PT-yvBal-GHO-USR-25SEP2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -791,12 +791,12 @@
     "0xd7bc85f4aa2315c5fe7f256b314ed9c083027c23": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "YT yvBal-GHO-USR (Aave GHO-USR)",
+      "name": "YT yvBal-GHO-USR (Aave GHO-USR) Base",
       "address": "0xd7bc85f4aa2315c5fe7f256b314ed9c083027c23",
       "symbol": "YT-yvBal-GHO-USR-25SEP2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/938c7547-6209-406f-aa2b-8d590a95052f.svg",
-      "assetGroup": "YT yvBal-GHO-USR (Aave GHO-USR)::YT-yvBal-GHO-USR-25SEP2025",
-      "currencyId": "YT yvBal-GHO-USR (Aave GHO-USR)::YT-yvBal-GHO-USR-25SEP2025",
+      "assetGroup": "YT yvBal-GHO-USR (Aave GHO-USR) Base::YT-yvBal-GHO-USR-25SEP2025",
+      "currencyId": "YT yvBal-GHO-USR (Aave GHO-USR) Base::YT-yvBal-GHO-USR-25SEP2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -813,12 +813,12 @@
     "0x540e181d4e3c70632e6bb153282bead2886d0768": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "aGHO",
+      "name": "aGHO Base",
       "address": "0x540e181d4e3c70632e6bb153282bead2886d0768",
       "symbol": "SY-aBasGHO",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/bf7f97c6-caa0-4405-9dd3-4a7d286d118a.svg",
-      "assetGroup": "aGHO::SY-aBasGHO",
-      "currencyId": "aGHO::SY-aBasGHO",
+      "assetGroup": "aGHO Base::SY-aBasGHO",
+      "currencyId": "aGHO Base::SY-aBasGHO",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -834,12 +834,12 @@
     "0xb1847b85da0595c6f72b0757ee292bd472dca45e": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "PT aGHO (GHO)",
+      "name": "PT aGHO (GHO) Base",
       "address": "0xb1847b85da0595c6f72b0757ee292bd472dca45e",
       "symbol": "PT-aBasGHO-31JUL2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/8768ffca-f97b-4b8b-b980-416a331ff0b0.svg",
-      "assetGroup": "PT aGHO (GHO)::PT-aBasGHO-31JUL2025",
-      "currencyId": "PT aGHO (GHO)::PT-aBasGHO-31JUL2025",
+      "assetGroup": "PT aGHO (GHO) Base::PT-aBasGHO-31JUL2025",
+      "currencyId": "PT aGHO (GHO) Base::PT-aBasGHO-31JUL2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -856,12 +856,12 @@
     "0x5cd855d8dbe1e94065622d83d2e112a3a168d1cf": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "YT aGHO (GHO)",
+      "name": "YT aGHO (GHO) Base",
       "address": "0x5cd855d8dbe1e94065622d83d2e112a3a168d1cf",
       "symbol": "YT-aBasGHO-31JUL2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/e4a7d53e-1c6f-486b-ac4f-07a828440ede.svg",
-      "assetGroup": "YT aGHO (GHO)::YT-aBasGHO-31JUL2025",
-      "currencyId": "YT aGHO (GHO)::YT-aBasGHO-31JUL2025",
+      "assetGroup": "YT aGHO (GHO) Base::YT-aBasGHO-31JUL2025",
+      "currencyId": "YT aGHO (GHO) Base::YT-aBasGHO-31JUL2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -878,12 +878,12 @@
     "0x77d07ab8466a57fb8615aeb75c37abff25c06ebf": {
       "chainId": "8453",
       "decimals": 6,
-      "name": "wcgUSD",
+      "name": "wcgUSD Base",
       "address": "0x77d07ab8466a57fb8615aeb75c37abff25c06ebf",
       "symbol": "SY-wcgUSD",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/d4295e5b-bc07-46e1-a0ee-22a007086131.svg",
-      "assetGroup": "wcgUSD::SY-wcgUSD",
-      "currencyId": "wcgUSD::SY-wcgUSD",
+      "assetGroup": "wcgUSD Base::SY-wcgUSD",
+      "currencyId": "wcgUSD Base::SY-wcgUSD",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -899,12 +899,12 @@
     "0x43fe057b02ce301a2b09c9873676032892566de7": {
       "chainId": "8453",
       "decimals": 6,
-      "name": "PT wcgUSD (cgUSD)",
+      "name": "PT wcgUSD (cgUSD) Base",
       "address": "0x43fe057b02ce301a2b09c9873676032892566de7",
       "symbol": "PT-wcgUSD-26JUN2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/b6d00344-7aa1-4985-92e9-2505a8c76bcb.svg",
-      "assetGroup": "PT wcgUSD (cgUSD)::PT-wcgUSD-26JUN2025",
-      "currencyId": "PT wcgUSD (cgUSD)::PT-wcgUSD-26JUN2025",
+      "assetGroup": "PT wcgUSD (cgUSD) Base::PT-wcgUSD-26JUN2025",
+      "currencyId": "PT wcgUSD (cgUSD) Base::PT-wcgUSD-26JUN2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -921,12 +921,12 @@
     "0x24d852316bc60502982cc0177e90433997c5e6af": {
       "chainId": "8453",
       "decimals": 6,
-      "name": "YT wcgUSD (cgUSD)",
+      "name": "YT wcgUSD (cgUSD) Base",
       "address": "0x24d852316bc60502982cc0177e90433997c5e6af",
       "symbol": "YT-wcgUSD-26JUN2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/4382dba6-0ee0-4786-8291-96a1ea493adc.svg",
-      "assetGroup": "YT wcgUSD (cgUSD)::YT-wcgUSD-26JUN2025",
-      "currencyId": "YT wcgUSD (cgUSD)::YT-wcgUSD-26JUN2025",
+      "assetGroup": "YT wcgUSD (cgUSD) Base::YT-wcgUSD-26JUN2025",
+      "currencyId": "YT wcgUSD (cgUSD) Base::YT-wcgUSD-26JUN2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -943,36 +943,36 @@
     "0x44fc59f869ee0ed2cbd4151a0d2025932add14df": {
       "chainId": "8453",
       "decimals": 8,
-      "name": "PT LBTC",
+      "name": "PT LBTC Base",
       "address": "0x44fc59f869ee0ed2cbd4151a0d2025932add14df",
       "symbol": "PT-LBTC-25SEP2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/95280b7c-e3a4-43ce-8a73-e544e2600624.svg",
-      "assetGroup": "PT LBTC::PT-LBTC-25SEP2025",
-      "currencyId": "PT LBTC::PT-LBTC-25SEP2025",
+      "assetGroup": "PT LBTC Base::PT-LBTC-25SEP2025",
+      "currencyId": "PT LBTC Base::PT-LBTC-25SEP2025",
       "tags": ["PT"],
       "props": { "pendle": { "tokenType": "PT", "expired": true } }
     },
     "0xe029f05239d5b6c3b654579e3699f1721cb827f5": {
       "chainId": "8453",
       "decimals": 8,
-      "name": "YT LBTC",
+      "name": "YT LBTC Base",
       "address": "0xe029f05239d5b6c3b654579e3699f1721cb827f5",
       "symbol": "YT-LBTC-25SEP2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/af8af2d5-d210-475d-a342-00abf5d20589.svg",
-      "assetGroup": "YT LBTC::YT-LBTC-25SEP2025",
-      "currencyId": "YT LBTC::YT-LBTC-25SEP2025",
+      "assetGroup": "YT LBTC Base::YT-LBTC-25SEP2025",
+      "currencyId": "YT LBTC Base::YT-LBTC-25SEP2025",
       "tags": ["YT"],
       "props": { "pendle": { "tokenType": "YT", "expired": true } }
     },
     "0x67e64af30e04a7277ab2d4f09ace3f77a15801f9": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "LBTC",
+      "name": "LBTC Base",
       "address": "0x67e64af30e04a7277ab2d4f09ace3f77a15801f9",
       "symbol": "SY-LBTC-scaled18",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/08eafc21-77f3-47a7-8b76-a3f6da0ffa81.svg",
-      "assetGroup": "LBTC::SY-LBTC-scaled18",
-      "currencyId": "LBTC::SY-LBTC-scaled18",
+      "assetGroup": "LBTC Base::SY-LBTC-scaled18",
+      "currencyId": "LBTC Base::SY-LBTC-scaled18",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -988,12 +988,12 @@
     "0x7c3039d2385000cf366e3ac6ab9d7642e8440dd2": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "PT LBTC (cbBTC)",
+      "name": "PT LBTC (cbBTC) Base",
       "address": "0x7c3039d2385000cf366e3ac6ab9d7642e8440dd2",
       "symbol": "PT-LBTC-scaled18-25SEP2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/3dae8d06-bf58-4701-a3b2-d5c9a721349f.svg",
-      "assetGroup": "PT LBTC (cbBTC)::PT-LBTC-scaled18-25SEP2025",
-      "currencyId": "PT LBTC (cbBTC)::PT-LBTC-scaled18-25SEP2025",
+      "assetGroup": "PT LBTC (cbBTC) Base::PT-LBTC-scaled18-25SEP2025",
+      "currencyId": "PT LBTC (cbBTC) Base::PT-LBTC-scaled18-25SEP2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -1010,12 +1010,12 @@
     "0x86725be2f3b01a2b18617f77542800ed4f4cfdca": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "YT LBTC (cbBTC)",
+      "name": "YT LBTC (cbBTC) Base",
       "address": "0x86725be2f3b01a2b18617f77542800ed4f4cfdca",
       "symbol": "YT-LBTC-scaled18-25SEP2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/5d7595ef-38e6-4dd5-a53f-e7d4114fdb14.svg",
-      "assetGroup": "YT LBTC (cbBTC)::YT-LBTC-scaled18-25SEP2025",
-      "currencyId": "YT LBTC (cbBTC)::YT-LBTC-scaled18-25SEP2025",
+      "assetGroup": "YT LBTC (cbBTC) Base::YT-LBTC-scaled18-25SEP2025",
+      "currencyId": "YT LBTC (cbBTC) Base::YT-LBTC-scaled18-25SEP2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -1032,12 +1032,12 @@
     "0xe574de45b4ea2c5db7dd6f4074349f270ee97c64": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "yoETH",
+      "name": "yoETH Base",
       "address": "0xe574de45b4ea2c5db7dd6f4074349f270ee97c64",
       "symbol": "SY-yoETH",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/71bbd5b6-11c8-4617-aaad-f4cded2ed3e4.svg",
-      "assetGroup": "yoETH::SY-yoETH",
-      "currencyId": "yoETH::SY-yoETH",
+      "assetGroup": "yoETH Base::SY-yoETH",
+      "currencyId": "yoETH Base::SY-yoETH",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -1053,12 +1053,12 @@
     "0xde4f5adc052aed60000f3171785b168a3d27dcd7": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "PT yoETH (WETH)",
+      "name": "PT yoETH (WETH) Base",
       "address": "0xde4f5adc052aed60000f3171785b168a3d27dcd7",
       "symbol": "PT-yoETH-25SEP2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/74372bd2-368e-4e01-aa4f-11420a5f14e3.svg",
-      "assetGroup": "PT yoETH (WETH)::PT-yoETH-25SEP2025",
-      "currencyId": "PT yoETH (WETH)::PT-yoETH-25SEP2025",
+      "assetGroup": "PT yoETH (WETH) Base::PT-yoETH-25SEP2025",
+      "currencyId": "PT yoETH (WETH) Base::PT-yoETH-25SEP2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -1075,12 +1075,12 @@
     "0x621bede1ca0043e96735bf7d1bede903d55cd62a": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "YT yoETH (WETH)",
+      "name": "YT yoETH (WETH) Base",
       "address": "0x621bede1ca0043e96735bf7d1bede903d55cd62a",
       "symbol": "YT-yoETH-25SEP2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/04cb9974-d2a8-4053-884c-81ced01ada55.svg",
-      "assetGroup": "YT yoETH (WETH)::YT-yoETH-25SEP2025",
-      "currencyId": "YT yoETH (WETH)::YT-yoETH-25SEP2025",
+      "assetGroup": "YT yoETH (WETH) Base::YT-yoETH-25SEP2025",
+      "currencyId": "YT yoETH (WETH) Base::YT-yoETH-25SEP2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -1097,12 +1097,12 @@
     "0x6ab33a86b72e1d343730c6030ffda992cd43035e": {
       "chainId": "8453",
       "decimals": 6,
-      "name": "PT wcgUSD (cgUSD)",
+      "name": "PT wcgUSD (cgUSD) Base",
       "address": "0x6ab33a86b72e1d343730c6030ffda992cd43035e",
       "symbol": "PT-wcgUSD-18DEC2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/b6d00344-7aa1-4985-92e9-2505a8c76bcb.svg",
-      "assetGroup": "PT wcgUSD (cgUSD)::PT-wcgUSD-18DEC2025",
-      "currencyId": "PT wcgUSD (cgUSD)::PT-wcgUSD-18DEC2025",
+      "assetGroup": "PT wcgUSD (cgUSD) Base::PT-wcgUSD-18DEC2025",
+      "currencyId": "PT wcgUSD (cgUSD) Base::PT-wcgUSD-18DEC2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -1118,12 +1118,12 @@
     "0x3d2e091fbf85ff7f3b20f2d96488dd9c92441a69": {
       "chainId": "8453",
       "decimals": 6,
-      "name": "YT wcgUSD (cgUSD)",
+      "name": "YT wcgUSD (cgUSD) Base",
       "address": "0x3d2e091fbf85ff7f3b20f2d96488dd9c92441a69",
       "symbol": "YT-wcgUSD-18DEC2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/4382dba6-0ee0-4786-8291-96a1ea493adc.svg",
-      "assetGroup": "YT wcgUSD (cgUSD)::YT-wcgUSD-18DEC2025",
-      "currencyId": "YT wcgUSD (cgUSD)::YT-wcgUSD-18DEC2025",
+      "assetGroup": "YT wcgUSD (cgUSD) Base::YT-wcgUSD-18DEC2025",
+      "currencyId": "YT wcgUSD (cgUSD) Base::YT-wcgUSD-18DEC2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -1139,12 +1139,12 @@
     "0x5fab08f1ec79ca9c21c4516aa38a12ef2c42c0cc": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "PT wsuperOETHb (superOETHb)",
+      "name": "PT wsuperOETHb (superOETHb) Base",
       "address": "0x5fab08f1ec79ca9c21c4516aa38a12ef2c42c0cc",
       "symbol": "PT-wsuperOETHb-25JUN2026",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/ac4127a6-cda2-41ba-8db7-9cda2d2c2e94.svg",
-      "assetGroup": "PT wsuperOETHb (superOETHb)::PT-wsuperOETHb-25JUN2026",
-      "currencyId": "PT wsuperOETHb (superOETHb)::PT-wsuperOETHb-25JUN2026",
+      "assetGroup": "PT wsuperOETHb (superOETHb) Base::PT-wsuperOETHb-25JUN2026",
+      "currencyId": "PT wsuperOETHb (superOETHb) Base::PT-wsuperOETHb-25JUN2026",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -1160,12 +1160,12 @@
     "0x0000fcec03d0b1fa261985175b3f0e2d98e3ca24": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "YT wsuperOETHb (superOETHb)",
+      "name": "YT wsuperOETHb (superOETHb) Base",
       "address": "0x0000fcec03d0b1fa261985175b3f0e2d98e3ca24",
       "symbol": "YT-wsuperOETHb-25JUN2026",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/cfcfe49c-174f-4edf-8d88-6daa92450448.svg",
-      "assetGroup": "YT wsuperOETHb (superOETHb)::YT-wsuperOETHb-25JUN2026",
-      "currencyId": "YT wsuperOETHb (superOETHb)::YT-wsuperOETHb-25JUN2026",
+      "assetGroup": "YT wsuperOETHb (superOETHb) Base::YT-wsuperOETHb-25JUN2026",
+      "currencyId": "YT wsuperOETHb (superOETHb) Base::YT-wsuperOETHb-25JUN2026",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -1181,12 +1181,12 @@
     "0x6f5672efdfc9666707b14fc698c7c96294b04997": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "rETH",
+      "name": "rETH Base",
       "address": "0x6f5672efdfc9666707b14fc698c7c96294b04997",
       "symbol": "SY-rETH",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/60d36a08-0b9b-4f74-9c4b-f838ad740ce9.svg",
-      "assetGroup": "rETH::SY-rETH",
-      "currencyId": "rETH::SY-rETH",
+      "assetGroup": "rETH Base::SY-rETH",
+      "currencyId": "rETH Base::SY-rETH",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -1202,12 +1202,12 @@
     "0xdd3574d0b6e58050b85091f01d62a4435b49287a": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "PT rETH (ETH)",
+      "name": "PT rETH (ETH) Base",
       "address": "0xdd3574d0b6e58050b85091f01d62a4435b49287a",
       "symbol": "PT-rETH-18DEC2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/dca97a36-3121-46db-a22f-154d68e4b466.svg",
-      "assetGroup": "PT rETH (ETH)::PT-rETH-18DEC2025",
-      "currencyId": "PT rETH (ETH)::PT-rETH-18DEC2025",
+      "assetGroup": "PT rETH (ETH) Base::PT-rETH-18DEC2025",
+      "currencyId": "PT rETH (ETH) Base::PT-rETH-18DEC2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -1223,12 +1223,12 @@
     "0xbef1cc67f26a517c7d742a5c77f25c4285a07985": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "YT rETH (ETH)",
+      "name": "YT rETH (ETH) Base",
       "address": "0xbef1cc67f26a517c7d742a5c77f25c4285a07985",
       "symbol": "YT-rETH-18DEC2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/dbf39f9e-ee43-483d-8996-bee7e5c1114e.svg",
-      "assetGroup": "YT rETH (ETH)::YT-rETH-18DEC2025",
-      "currencyId": "YT rETH (ETH)::YT-rETH-18DEC2025",
+      "assetGroup": "YT rETH (ETH) Base::YT-rETH-18DEC2025",
+      "currencyId": "YT rETH (ETH) Base::YT-rETH-18DEC2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -1244,12 +1244,12 @@
     "0xe181aed8e14469231618504df46e8c069314589b": {
       "chainId": "8453",
       "decimals": 6,
-      "name": "yoUSD",
+      "name": "yoUSD Base",
       "address": "0xe181aed8e14469231618504df46e8c069314589b",
       "symbol": "SY-yoUSD",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/c464a935-9336-4268-bde0-23959c33a2e8.svg",
-      "assetGroup": "yoUSD::SY-yoUSD",
-      "currencyId": "yoUSD::SY-yoUSD",
+      "assetGroup": "yoUSD Base::SY-yoUSD",
+      "currencyId": "yoUSD Base::SY-yoUSD",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -1265,12 +1265,12 @@
     "0xb04cee9901c0a8d783fe280ded66e60c13a4e296": {
       "chainId": "8453",
       "decimals": 6,
-      "name": "PT yoUSD (USDC)",
+      "name": "PT yoUSD (USDC) Base",
       "address": "0xb04cee9901c0a8d783fe280ded66e60c13a4e296",
       "symbol": "PT-yoUSD-25SEP2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/7b898c2d-809a-43b0-b7ec-ddf7b0ff3b39.svg",
-      "assetGroup": "PT yoUSD (USDC)::PT-yoUSD-25SEP2025",
-      "currencyId": "PT yoUSD (USDC)::PT-yoUSD-25SEP2025",
+      "assetGroup": "PT yoUSD (USDC) Base::PT-yoUSD-25SEP2025",
+      "currencyId": "PT yoUSD (USDC) Base::PT-yoUSD-25SEP2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -1287,12 +1287,12 @@
     "0xe8652183d21bd5de4c8168c1d6c085db5333df11": {
       "chainId": "8453",
       "decimals": 6,
-      "name": "YT yoUSD (USDC)",
+      "name": "YT yoUSD (USDC) Base",
       "address": "0xe8652183d21bd5de4c8168c1d6c085db5333df11",
       "symbol": "YT-yoUSD-25SEP2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/6d8f3984-1575-4970-a7fd-44e3e0be09d9.svg",
-      "assetGroup": "YT yoUSD (USDC)::YT-yoUSD-25SEP2025",
-      "currencyId": "YT yoUSD (USDC)::YT-yoUSD-25SEP2025",
+      "assetGroup": "YT yoUSD (USDC) Base::YT-yoUSD-25SEP2025",
+      "currencyId": "YT yoUSD (USDC) Base::YT-yoUSD-25SEP2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -1309,36 +1309,36 @@
     "0x45796c01021313764146ea6bc5d48efec3f0f5b1": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "PT aGHO (GHO)",
+      "name": "PT aGHO (GHO) Base",
       "address": "0x45796c01021313764146ea6bc5d48efec3f0f5b1",
       "symbol": "PT-aBasGHO-18DEC2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/8768ffca-f97b-4b8b-b980-416a331ff0b0.svg",
-      "assetGroup": "PT aGHO (GHO)::PT-aBasGHO-18DEC2025",
-      "currencyId": "PT aGHO (GHO)::PT-aBasGHO-18DEC2025",
+      "assetGroup": "PT aGHO (GHO) Base::PT-aBasGHO-18DEC2025",
+      "currencyId": "PT aGHO (GHO) Base::PT-aBasGHO-18DEC2025",
       "tags": ["PT"],
       "props": { "pendle": { "tokenType": "PT" } }
     },
     "0x5b47c6dd8727e5109df86ef2bfbc87efceaf4f49": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "YT aGHO (GHO)",
+      "name": "YT aGHO (GHO) Base",
       "address": "0x5b47c6dd8727e5109df86ef2bfbc87efceaf4f49",
       "symbol": "YT-aBasGHO-18DEC2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/e4a7d53e-1c6f-486b-ac4f-07a828440ede.svg",
-      "assetGroup": "YT aGHO (GHO)::YT-aBasGHO-18DEC2025",
-      "currencyId": "YT aGHO (GHO)::YT-aBasGHO-18DEC2025",
+      "assetGroup": "YT aGHO (GHO) Base::YT-aBasGHO-18DEC2025",
+      "currencyId": "YT aGHO (GHO) Base::YT-aBasGHO-18DEC2025",
       "tags": ["YT"],
       "props": { "pendle": { "tokenType": "YT" } }
     },
     "0xc7eb21815b9698d627410f7b1dffd9e65c980ebd": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "PT sKAITO (KAITO)",
+      "name": "PT sKAITO (KAITO) Base",
       "address": "0xc7eb21815b9698d627410f7b1dffd9e65c980ebd",
       "symbol": "PT-sKAITO-29JAN2026",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/927ad7e1-b4df-4161-8906-9eeea0c6692a.svg",
-      "assetGroup": "PT sKAITO (KAITO)::PT-sKAITO-29JAN2026",
-      "currencyId": "PT sKAITO (KAITO)::PT-sKAITO-29JAN2026",
+      "assetGroup": "PT sKAITO (KAITO) Base::PT-sKAITO-29JAN2026",
+      "currencyId": "PT sKAITO (KAITO) Base::PT-sKAITO-29JAN2026",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -1354,12 +1354,12 @@
     "0xbf0741d9ec96d2e94b6982247c1cd6c23d5ead08": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "YT sKAITO (KAITO)",
+      "name": "YT sKAITO (KAITO) Base",
       "address": "0xbf0741d9ec96d2e94b6982247c1cd6c23d5ead08",
       "symbol": "YT-sKAITO-29JAN2026",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/83c2665b-3419-40fc-b26c-49eb196f60be.svg",
-      "assetGroup": "YT sKAITO (KAITO)::YT-sKAITO-29JAN2026",
-      "currencyId": "YT sKAITO (KAITO)::YT-sKAITO-29JAN2026",
+      "assetGroup": "YT sKAITO (KAITO) Base::YT-sKAITO-29JAN2026",
+      "currencyId": "YT sKAITO (KAITO) Base::YT-sKAITO-29JAN2026",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -1375,12 +1375,12 @@
     "0xe36ed9610a514977f18530c5897e1ebae5c578a5": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "YU",
+      "name": "YU Base",
       "address": "0xe36ed9610a514977f18530c5897e1ebae5c578a5",
       "symbol": "SY-YU",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/4eb6fd85-3ee8-42ac-99aa-2d5f22c8ad65.svg",
-      "assetGroup": "YU::SY-YU",
-      "currencyId": "YU::SY-YU",
+      "assetGroup": "YU Base::SY-YU",
+      "currencyId": "YU Base::SY-YU",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -1396,12 +1396,12 @@
     "0x945c047af002588f17efd1cba951a5a447284d3c": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "PT YU (YU)",
+      "name": "PT YU (YU) Base",
       "address": "0x945c047af002588f17efd1cba951a5a447284d3c",
       "symbol": "PT-YU-4DEC2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/9278ec38-b153-4f99-aed5-4e6023ebb7e5.svg",
-      "assetGroup": "PT YU (YU)::PT-YU-4DEC2025",
-      "currencyId": "PT YU (YU)::PT-YU-4DEC2025",
+      "assetGroup": "PT YU (YU) Base::PT-YU-4DEC2025",
+      "currencyId": "PT YU (YU) Base::PT-YU-4DEC2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -1417,12 +1417,12 @@
     "0x6df7e4c782a19cbfd3c6d9020b4ce5eb5272fa6b": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "YT YU (YU)",
+      "name": "YT YU (YU) Base",
       "address": "0x6df7e4c782a19cbfd3c6d9020b4ce5eb5272fa6b",
       "symbol": "YT-YU-4DEC2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/a26ee4eb-c529-4d09-b895-419cf64cee77.svg",
-      "assetGroup": "YT YU (YU)::YT-YU-4DEC2025",
-      "currencyId": "YT YU (YU)::YT-YU-4DEC2025",
+      "assetGroup": "YT YU (YU) Base::YT-YU-4DEC2025",
+      "currencyId": "YT YU (YU) Base::YT-YU-4DEC2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -1438,12 +1438,12 @@
     "0xfd26b239f919ce94daf5c71362ff4aa1199ad8ab": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "USDX",
+      "name": "USDX Base",
       "address": "0xfd26b239f919ce94daf5c71362ff4aa1199ad8ab",
       "symbol": "SY-USDX",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/5f53ea76-c749-4e1e-aa2f-c2d0f74968b2.svg",
-      "assetGroup": "USDX::SY-USDX",
-      "currencyId": "USDX::SY-USDX",
+      "assetGroup": "USDX Base::SY-USDX",
+      "currencyId": "USDX Base::SY-USDX",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -1459,12 +1459,12 @@
     "0x44759cc0b62a863d59235695be88750b70dc4b36": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "PT USDX (USDX)",
+      "name": "PT USDX (USDX) Base",
       "address": "0x44759cc0b62a863d59235695be88750b70dc4b36",
       "symbol": "PT-USDX-26MAR2026",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/39daffed-29f4-4af8-880d-e020ffda7703.svg",
-      "assetGroup": "PT USDX (USDX)::PT-USDX-26MAR2026",
-      "currencyId": "PT USDX (USDX)::PT-USDX-26MAR2026",
+      "assetGroup": "PT USDX (USDX) Base::PT-USDX-26MAR2026",
+      "currencyId": "PT USDX (USDX) Base::PT-USDX-26MAR2026",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -1480,12 +1480,12 @@
     "0x5b4a01b07049bcd34df5c6dcc89984ea01978095": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "YT USDX (USDX)",
+      "name": "YT USDX (USDX) Base",
       "address": "0x5b4a01b07049bcd34df5c6dcc89984ea01978095",
       "symbol": "YT-USDX-26MAR2026",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/0e33236f-c5c4-4216-b621-10496d476e09.svg",
-      "assetGroup": "YT USDX (USDX)::YT-USDX-26MAR2026",
-      "currencyId": "YT USDX (USDX)::YT-USDX-26MAR2026",
+      "assetGroup": "YT USDX (USDX) Base::YT-USDX-26MAR2026",
+      "currencyId": "YT USDX (USDX) Base::YT-USDX-26MAR2026",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -1501,12 +1501,12 @@
     "0x5dfbeaea9e41f85c334075482a20afb7031207ae": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "USDe",
+      "name": "USDe Base",
       "address": "0x5dfbeaea9e41f85c334075482a20afb7031207ae",
       "symbol": "SY-USDe",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/4f69cd58-8a2b-4076-8edd-0034dc22b324.svg",
-      "assetGroup": "USDe::SY-USDe",
-      "currencyId": "USDe::SY-USDe",
+      "assetGroup": "USDe Base::SY-USDe",
+      "currencyId": "USDe Base::SY-USDe",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -1522,12 +1522,12 @@
     "0x194b8fed256c02ef1036ed812cae0c659ee6f7fd": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "PT USDe (USDe)",
+      "name": "PT USDe (USDe) Base",
       "address": "0x194b8fed256c02ef1036ed812cae0c659ee6f7fd",
       "symbol": "PT-USDe-11DEC2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/e11ec419-3a4a-43ff-8360-a93bced4abab.svg",
-      "assetGroup": "PT USDe (USDe)::PT-USDe-11DEC2025",
-      "currencyId": "PT USDe (USDe)::PT-USDe-11DEC2025",
+      "assetGroup": "PT USDe (USDe) Base::PT-USDe-11DEC2025",
+      "currencyId": "PT USDe (USDe) Base::PT-USDe-11DEC2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -1543,12 +1543,12 @@
     "0x1490516d8391e4d0bcbd13b7a56b4fe4996478be": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "YT USDe (USDe)",
+      "name": "YT USDe (USDe) Base",
       "address": "0x1490516d8391e4d0bcbd13b7a56b4fe4996478be",
       "symbol": "YT-USDe-11DEC2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/4668096c-c84c-426d-8839-3706aad5695a.svg",
-      "assetGroup": "YT USDe (USDe)::YT-USDe-11DEC2025",
-      "currencyId": "YT USDe (USDe)::YT-USDe-11DEC2025",
+      "assetGroup": "YT USDe (USDe) Base::YT-USDe-11DEC2025",
+      "currencyId": "YT USDe (USDe) Base::YT-USDe-11DEC2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -1564,12 +1564,12 @@
     "0x7f45ce7cdf902aa1abee8624f89e540a6c2aa99d": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "gtUSDa",
+      "name": "gtUSDa Base",
       "address": "0x7f45ce7cdf902aa1abee8624f89e540a6c2aa99d",
       "symbol": "SY-gtUSDa",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/ac0783b7-f7f0-4016-9dac-e0ac5368b9e2.svg",
-      "assetGroup": "gtUSDa::SY-gtUSDa",
-      "currencyId": "gtUSDa::SY-gtUSDa",
+      "assetGroup": "gtUSDa Base::SY-gtUSDa",
+      "currencyId": "gtUSDa Base::SY-gtUSDa",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -1585,12 +1585,12 @@
     "0xbc4df9839d7a14dab0e1a5b44abed8a69324a74f": {
       "chainId": "8453",
       "decimals": 6,
-      "name": "PT gtUSDa (USDC)",
+      "name": "PT gtUSDa (USDC) Base",
       "address": "0xbc4df9839d7a14dab0e1a5b44abed8a69324a74f",
       "symbol": "PT-gtUSDa-18DEC2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/702c2950-84c6-42a2-a1dd-d1442fa19a8f.svg",
-      "assetGroup": "PT gtUSDa (USDC)::PT-gtUSDa-18DEC2025",
-      "currencyId": "PT gtUSDa (USDC)::PT-gtUSDa-18DEC2025",
+      "assetGroup": "PT gtUSDa (USDC) Base::PT-gtUSDa-18DEC2025",
+      "currencyId": "PT gtUSDa (USDC) Base::PT-gtUSDa-18DEC2025",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -1606,12 +1606,12 @@
     "0x888f73c4030baa5361d0389fa082d4eb8883c4b7": {
       "chainId": "8453",
       "decimals": 6,
-      "name": "YT gtUSDa (USDC)",
+      "name": "YT gtUSDa (USDC) Base",
       "address": "0x888f73c4030baa5361d0389fa082d4eb8883c4b7",
       "symbol": "YT-gtUSDa-18DEC2025",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/6fa545c3-8c41-4df0-ac15-5239e0c89b3e.svg",
-      "assetGroup": "YT gtUSDa (USDC)::YT-gtUSDa-18DEC2025",
-      "currencyId": "YT gtUSDa (USDC)::YT-gtUSDa-18DEC2025",
+      "assetGroup": "YT gtUSDa (USDC) Base::YT-gtUSDa-18DEC2025",
+      "currencyId": "YT gtUSDa (USDC) Base::YT-gtUSDa-18DEC2025",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -1627,12 +1627,12 @@
     "0x1a5c5ea50717a2ea0e4f7036fb289349deaab58b": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "PT yoETH (WETH)",
+      "name": "PT yoETH (WETH) Base",
       "address": "0x1a5c5ea50717a2ea0e4f7036fb289349deaab58b",
       "symbol": "PT-yoETH-26MAR2026",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/74372bd2-368e-4e01-aa4f-11420a5f14e3.svg",
-      "assetGroup": "PT yoETH (WETH)::PT-yoETH-26MAR2026",
-      "currencyId": "PT yoETH (WETH)::PT-yoETH-26MAR2026",
+      "assetGroup": "PT yoETH (WETH) Base::PT-yoETH-26MAR2026",
+      "currencyId": "PT yoETH (WETH) Base::PT-yoETH-26MAR2026",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -1648,12 +1648,12 @@
     "0x0ec1292d5ce7220be4c8e3a16eff7ddd165c9111": {
       "chainId": "8453",
       "decimals": 18,
-      "name": "YT yoETH (WETH)",
+      "name": "YT yoETH (WETH) Base",
       "address": "0x0ec1292d5ce7220be4c8e3a16eff7ddd165c9111",
       "symbol": "YT-yoETH-26MAR2026",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/04cb9974-d2a8-4053-884c-81ced01ada55.svg",
-      "assetGroup": "YT yoETH (WETH)::YT-yoETH-26MAR2026",
-      "currencyId": "YT yoETH (WETH)::YT-yoETH-26MAR2026",
+      "assetGroup": "YT yoETH (WETH) Base::YT-yoETH-26MAR2026",
+      "currencyId": "YT yoETH (WETH) Base::YT-yoETH-26MAR2026",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -1669,12 +1669,12 @@
     "0x0177055f7429d3bd6b19f2dd591127db871a510e": {
       "chainId": "8453",
       "decimals": 6,
-      "name": "PT yoUSD (USDC)",
+      "name": "PT yoUSD (USDC) Base",
       "address": "0x0177055f7429d3bd6b19f2dd591127db871a510e",
       "symbol": "PT-yoUSD-26MAR2026",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/7b898c2d-809a-43b0-b7ec-ddf7b0ff3b39.svg",
-      "assetGroup": "PT yoUSD (USDC)::PT-yoUSD-26MAR2026",
-      "currencyId": "PT yoUSD (USDC)::PT-yoUSD-26MAR2026",
+      "assetGroup": "PT yoUSD (USDC) Base::PT-yoUSD-26MAR2026",
+      "currencyId": "PT yoUSD (USDC) Base::PT-yoUSD-26MAR2026",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -1690,12 +1690,12 @@
     "0x1658a0a2e5d06b0260cee8339bc08f07e374a5e2": {
       "chainId": "8453",
       "decimals": 6,
-      "name": "YT yoUSD (USDC)",
+      "name": "YT yoUSD (USDC) Base",
       "address": "0x1658a0a2e5d06b0260cee8339bc08f07e374a5e2",
       "symbol": "YT-yoUSD-26MAR2026",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/6d8f3984-1575-4970-a7fd-44e3e0be09d9.svg",
-      "assetGroup": "YT yoUSD (USDC)::YT-yoUSD-26MAR2026",
-      "currencyId": "YT yoUSD (USDC)::YT-yoUSD-26MAR2026",
+      "assetGroup": "YT yoUSD (USDC) Base::YT-yoUSD-26MAR2026",
+      "currencyId": "YT yoUSD (USDC) Base::YT-yoUSD-26MAR2026",
       "tags": ["YT"],
       "props": {
         "pendle": {
@@ -1711,12 +1711,12 @@
     "0x94f2b17c451bcc28bd3210124d3ca1e8848d2c07": {
       "chainId": "8453",
       "decimals": 6,
-      "name": "yoEUR",
+      "name": "yoEUR Base",
       "address": "0x94f2b17c451bcc28bd3210124d3ca1e8848d2c07",
       "symbol": "SY-yoEUR",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/d7dabdfa-3d08-49ef-82bd-b9efb0a50c87.svg",
-      "assetGroup": "yoEUR::SY-yoEUR",
-      "currencyId": "yoEUR::SY-yoEUR",
+      "assetGroup": "yoEUR Base::SY-yoEUR",
+      "currencyId": "yoEUR Base::SY-yoEUR",
       "tags": ["SY"],
       "props": {
         "pendle": {
@@ -1732,12 +1732,12 @@
     "0x3d94e67179d6d87b79b6d600ed83ee0fe15034c8": {
       "chainId": "8453",
       "decimals": 6,
-      "name": "PT yoEUR (EURC)",
+      "name": "PT yoEUR (EURC) Base",
       "address": "0x3d94e67179d6d87b79b6d600ed83ee0fe15034c8",
       "symbol": "PT-yoEUR-26MAR2026",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/19e0d2aa-1255-4f1b-8c3c-1d4292f70be4.svg",
-      "assetGroup": "PT yoEUR (EURC)::PT-yoEUR-26MAR2026",
-      "currencyId": "PT yoEUR (EURC)::PT-yoEUR-26MAR2026",
+      "assetGroup": "PT yoEUR (EURC) Base::PT-yoEUR-26MAR2026",
+      "currencyId": "PT yoEUR (EURC) Base::PT-yoEUR-26MAR2026",
       "tags": ["PT"],
       "props": {
         "pendle": {
@@ -1753,12 +1753,12 @@
     "0x625f92ec1fa7ea5b437c5c7bf9268800de0503a0": {
       "chainId": "8453",
       "decimals": 6,
-      "name": "YT yoEUR (EURC)",
+      "name": "YT yoEUR (EURC) Base",
       "address": "0x625f92ec1fa7ea5b437c5c7bf9268800de0503a0",
       "symbol": "YT-yoEUR-26MAR2026",
       "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/e166e0b5-9a6b-4a67-87d5-ca045ef5c0e1.svg",
-      "assetGroup": "YT yoEUR (EURC)::YT-yoEUR-26MAR2026",
-      "currencyId": "YT yoEUR (EURC)::YT-yoEUR-26MAR2026",
+      "assetGroup": "YT yoEUR (EURC) Base::YT-yoEUR-26MAR2026",
+      "currencyId": "YT yoEUR (EURC) Base::YT-yoEUR-26MAR2026",
       "tags": ["YT"],
       "props": {
         "pendle": {
