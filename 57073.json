@@ -207,7 +207,8 @@
       "symbol": "frxUSD",
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xcacd6fd266af91b8aed52accc382b4e165586e29/7610ebe75cb08ff21ee6dfb7e1592e25.png",
       "assetGroup": "FRXUSD",
-      "currencyId": "Frax USD::frxUSD"
+      "currencyId": "Frax USD::frxUSD",
+      "tags": ["coingecko"]
     },
     "0x3ec3849c33291a9ef4c5db86de593eb4a37fde45": {
       "chainId": "57073",
@@ -315,6 +316,17 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66560/thumb/XAUt0_Token_Icon_Gold.png?1749747942",
       "assetGroup": "Tether Gold Tokens::XAUT0",
       "currencyId": "Tether Gold Tokens::XAUT0",
+      "tags": ["coingecko"]
+    },
+    "0x64445f0aecc51e94ad52d8ac56b7190e764e561a": {
+      "chainId": "57073",
+      "decimals": 18,
+      "name": "Wrapped FRAX",
+      "address": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+      "symbol": "WFRAX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624",
+      "assetGroup": "Wrapped FRAX::WFRAX",
+      "currencyId": "Wrapped FRAX::WFRAX",
       "tags": ["coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {

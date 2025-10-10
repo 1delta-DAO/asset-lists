@@ -221,6 +221,17 @@
       "currencyId": "Stargate Bridged USDT0::USDT0",
       "tags": ["stargate", "bridged", "coingecko"]
     },
+    "0x80ccfbec4b8c82265abdc226ad3df84c0726e7a3": {
+      "chainId": "1923",
+      "decimals": 18,
+      "name": "Euler",
+      "address": "0x80ccfbec4b8c82265abdc226ad3df84c0726e7a3",
+      "symbol": "EUL",
+      "logoURI": "https://assets.coingecko.com/coins/images/26149/thumb/Coingecko_logo_%281%29.png?1706026067",
+      "assetGroup": "EUL",
+      "currencyId": "Euler::EUL",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "1923",
       "decimals": 18,
@@ -254,7 +265,8 @@
     "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
     "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
     "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
-    "0x102d758f688a4c1c5a80b116bd945d4455460282"
+    "0x102d758f688a4c1c5a80b116bd945d4455460282",
+    "0x80ccfbec4b8c82265abdc226ad3df84c0726e7a3"
   ],
   "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",

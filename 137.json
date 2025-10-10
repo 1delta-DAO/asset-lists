@@ -19128,7 +19128,8 @@
       "symbol": "PRL",
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7790dd69aa10ed3f1271e41cd7222d2a7d2d5948.png",
       "assetGroup": "Parallel Governance Token::PRL",
-      "currencyId": "Parallel Governance Token::PRL"
+      "currencyId": "Parallel Governance Token::PRL",
+      "tags": ["biconomy-gas-token", "debridge"]
     },
     "0x2e2dde47952b9c7defde7424d00dd2341ad927ca": {
       "chainId": "137",
@@ -26634,7 +26635,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/137/0xf1815bd50389c46847f0bda824ec8da914045d14/small/token-logo.png",
       "assetGroup": "XAUt0::XAUt0",
       "currencyId": "XAUt0::XAUt0",
-      "tags": ["debridge"]
+      "tags": ["debridge", "biconomy-gas-token"]
     },
     "0x7aefff599570dec2f3dbbc2ace3cb1f8206749eb": {
       "chainId": "137",
@@ -27397,6 +27398,47 @@
       "assetGroup": "ZROToken::ZRO(carb0n)",
       "currencyId": "ZROToken::ZRO(carb0n)",
       "tags": ["biconomy-gas-token"]
+    },
+    "0x695a61817d468983fd32881ea4ce83e91ef2c11e": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Real Yield Token",
+      "address": "0x695a61817d468983fd32881ea4ce83e91ef2c11e",
+      "symbol": "RYT",
+      "logoURI": "https://cdn.morpho.org/assets/logos/ryt.svg",
+      "assetGroup": "Real Yield Token::RYT",
+      "currencyId": "Real Yield Token::RYT"
+    },
+    "0x64445f0aecc51e94ad52d8ac56b7190e764e561a": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Wrapped FRAX",
+      "address": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+      "symbol": "WFRAX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624",
+      "assetGroup": "Wrapped FRAX::WFRAX",
+      "currencyId": "Wrapped FRAX::WFRAX",
+      "tags": ["biconomy-gas-token", "debridge"]
+    },
+    "0xc0fda56253e95505027e5766a1af1f27a073544f": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "VELTA Token",
+      "address": "0xc0fda56253e95505027e5766a1af1f27a073544f",
+      "symbol": "VTA",
+      "assetGroup": "VELTA Token::VTA",
+      "currencyId": "VELTA Token::VTA",
+      "tags": ["debridge"]
+    },
+    "0x476ef9ac6d8673e220d0e8bc0a810c2dc6a2aa84": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "US Permissionless Dollar",
+      "address": "0x476ef9ac6d8673e220d0e8bc0a810c2dc6a2aa84",
+      "symbol": "USPD",
+      "assetGroup": "US Permissionless Dollar::USPD",
+      "currencyId": "US Permissionless Dollar::USPD",
+      "tags": ["debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "137",

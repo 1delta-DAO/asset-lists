@@ -2,6 +2,1720 @@
   "chainId": "56",
   "version": "0",
   "list": {
+    "0x96f77f24b3d17166fcaf3a9e3b8330ff38b966f9": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "wBETH",
+      "address": "0x96f77f24b3d17166fcaf3a9e3b8330ff38b966f9",
+      "symbol": "SY-wbETH",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/0dd9a2e1-eafe-47f8-a425-c648b113aa3b.svg",
+      "assetGroup": "wBETH::SY-wbETH",
+      "currencyId": "wBETH::SY-wbETH",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x080f52a881ba96eee2268682733c857c560e5dd4",
+          "expiry": 1735171200,
+          "underlyingAsset": "0xa2e3356610840701bdf5611a53974510ae27e2e1",
+          "ptAddress": "0x70c1138b54ba212776d3a9d29b6160c54c31cd5d",
+          "ytAddress": "0x429c77e193ff7e6c6c3b2e1f00877b91792e87ee"
+        }
+      }
+    },
+    "0x70c1138b54ba212776d3a9d29b6160c54c31cd5d": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT wBETH (ETH)",
+      "address": "0x70c1138b54ba212776d3a9d29b6160c54c31cd5d",
+      "symbol": "PT-wbETH-26DEC2024",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/95748686-1b86-4907-8f9a-72c4b148c7fb.svg",
+      "assetGroup": "PT wBETH (ETH)::PT-wbETH-26DEC2024",
+      "currencyId": "PT wBETH (ETH)::PT-wbETH-26DEC2024",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x080f52a881ba96eee2268682733c857c560e5dd4",
+          "expiry": 1735171200,
+          "underlyingAsset": "0xa2e3356610840701bdf5611a53974510ae27e2e1",
+          "ytAddress": "0x429c77e193ff7e6c6c3b2e1f00877b91792e87ee",
+          "syAddress": "0x96f77f24b3d17166fcaf3a9e3b8330ff38b966f9",
+          "expired": true
+        }
+      }
+    },
+    "0x429c77e193ff7e6c6c3b2e1f00877b91792e87ee": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YT wBETH (ETH)",
+      "address": "0x429c77e193ff7e6c6c3b2e1f00877b91792e87ee",
+      "symbol": "YT-wbETH-26DEC2024",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/3dd8db5e-cba3-4100-8dd2-5098a6c19f57.svg",
+      "assetGroup": "YT wBETH (ETH)::YT-wbETH-26DEC2024",
+      "currencyId": "YT wBETH (ETH)::YT-wbETH-26DEC2024",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x080f52a881ba96eee2268682733c857c560e5dd4",
+          "expiry": 1735171200,
+          "underlyingAsset": "0xa2e3356610840701bdf5611a53974510ae27e2e1",
+          "ptAddress": "0x70c1138b54ba212776d3a9d29b6160c54c31cd5d",
+          "syAddress": "0x96f77f24b3d17166fcaf3a9e3b8330ff38b966f9",
+          "expired": true
+        }
+      }
+    },
+    "0xf86dda825885674f85c5420079e1df1bc0f372c6": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "frxETH-ETH ThenaLP",
+      "address": "0xf86dda825885674f85c5420079e1df1bc0f372c6",
+      "symbol": "SY-Thena frxETH-ETH",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/199968dd-a728-4740-bde6-ca7488dcc4f6.png",
+      "assetGroup": "frxETH-ETH ThenaLP::SY-Thena frxETH-ETH",
+      "currencyId": "frxETH-ETH ThenaLP::SY-Thena frxETH-ETH",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x66317dec4a3d8d1e47b85f704e5df675a68bb7c9",
+          "expiry": 1719446400,
+          "underlyingAsset": "0x8a420aaca0c92e3f97cdcfdd852e01ac5b609452",
+          "ptAddress": "0x5ec2ae0afdec891e7702344dc2a31c636b3627eb",
+          "ytAddress": "0x8d0884eba8e481ccadf2f91e62170cdf79ae9c64"
+        }
+      }
+    },
+    "0x5ec2ae0afdec891e7702344dc2a31c636b3627eb": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT frxETH-ETH ThenaLP (frxETH-ETH ThenaLP)",
+      "address": "0x5ec2ae0afdec891e7702344dc2a31c636b3627eb",
+      "symbol": "PT-Thena frxETH-ETH-27JUN2024",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/e8ecadbf-6f0a-4468-8e52-dc7b53dee1e1.png",
+      "assetGroup": "PT frxETH-ETH ThenaLP (frxETH-ETH ThenaLP)::PT-Thena frxETH-ETH-27JUN2024",
+      "currencyId": "PT frxETH-ETH ThenaLP (frxETH-ETH ThenaLP)::PT-Thena frxETH-ETH-27JUN2024",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x66317dec4a3d8d1e47b85f704e5df675a68bb7c9",
+          "expiry": 1719446400,
+          "underlyingAsset": "0x8a420aaca0c92e3f97cdcfdd852e01ac5b609452",
+          "ytAddress": "0x8d0884eba8e481ccadf2f91e62170cdf79ae9c64",
+          "syAddress": "0xf86dda825885674f85c5420079e1df1bc0f372c6",
+          "expired": true
+        }
+      }
+    },
+    "0x8d0884eba8e481ccadf2f91e62170cdf79ae9c64": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YT frxETH-ETH ThenaLP (frxETH-ETH ThenaLP)",
+      "address": "0x8d0884eba8e481ccadf2f91e62170cdf79ae9c64",
+      "symbol": "YT-Thena frxETH-ETH-27JUN2024",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/57f269ff-b821-459b-948d-632535d0f88d.png",
+      "assetGroup": "YT frxETH-ETH ThenaLP (frxETH-ETH ThenaLP)::YT-Thena frxETH-ETH-27JUN2024",
+      "currencyId": "YT frxETH-ETH ThenaLP (frxETH-ETH ThenaLP)::YT-Thena frxETH-ETH-27JUN2024",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x66317dec4a3d8d1e47b85f704e5df675a68bb7c9",
+          "expiry": 1719446400,
+          "underlyingAsset": "0x8a420aaca0c92e3f97cdcfdd852e01ac5b609452",
+          "ptAddress": "0x5ec2ae0afdec891e7702344dc2a31c636b3627eb",
+          "syAddress": "0xf86dda825885674f85c5420079e1df1bc0f372c6",
+          "expired": true
+        }
+      }
+    },
+    "0x58732f1c1243a0d5876a601fb8d1ee508b21580d": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "ankrBNB",
+      "address": "0x58732f1c1243a0d5876a601fb8d1ee508b21580d",
+      "symbol": "SY-ankrBNB",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/bae6bcbd-12d6-483c-baec-e93c5a921b30.svg",
+      "assetGroup": "ankrBNB::SY-ankrBNB",
+      "currencyId": "ankrBNB::SY-ankrBNB",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0xeda1d0e1681d59dea451702963d6287b844cb94c",
+          "expiry": 1750896000,
+          "underlyingAsset": "0x52f24a5e03aee338da5fd9df68d2b6fae1178827",
+          "ptAddress": "0x04eb6b56ff53f457c8e857ca8d4fbc8d9a531c0c",
+          "ytAddress": "0x269f3e230c90c0a29140106d4cfb5860af6f6827"
+        }
+      }
+    },
+    "0x04eb6b56ff53f457c8e857ca8d4fbc8d9a531c0c": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT ankrBNB (BNB)",
+      "address": "0x04eb6b56ff53f457c8e857ca8d4fbc8d9a531c0c",
+      "symbol": "PT-ankrBNB-26JUN2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/c172da67-2428-48cb-8602-58bfc0276af0.svg",
+      "assetGroup": "PT ankrBNB (BNB)::PT-ankrBNB-26JUN2025",
+      "currencyId": "PT ankrBNB (BNB)::PT-ankrBNB-26JUN2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0xeda1d0e1681d59dea451702963d6287b844cb94c",
+          "expiry": 1750896000,
+          "underlyingAsset": "0x52f24a5e03aee338da5fd9df68d2b6fae1178827",
+          "ytAddress": "0x269f3e230c90c0a29140106d4cfb5860af6f6827",
+          "syAddress": "0x58732f1c1243a0d5876a601fb8d1ee508b21580d",
+          "expired": true
+        }
+      }
+    },
+    "0x269f3e230c90c0a29140106d4cfb5860af6f6827": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YT ankrBNB (BNB)",
+      "address": "0x269f3e230c90c0a29140106d4cfb5860af6f6827",
+      "symbol": "YT-ankrBNB-26JUN2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/869de91a-cf26-4b35-a2ce-01631dcd1328.svg",
+      "assetGroup": "YT ankrBNB (BNB)::YT-ankrBNB-26JUN2025",
+      "currencyId": "YT ankrBNB (BNB)::YT-ankrBNB-26JUN2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0xeda1d0e1681d59dea451702963d6287b844cb94c",
+          "expiry": 1750896000,
+          "underlyingAsset": "0x52f24a5e03aee338da5fd9df68d2b6fae1178827",
+          "ptAddress": "0x04eb6b56ff53f457c8e857ca8d4fbc8d9a531c0c",
+          "syAddress": "0x58732f1c1243a0d5876a601fb8d1ee508b21580d",
+          "expired": true
+        }
+      }
+    },
+    "0xe49269b5d31299bce407c8cccf241274e9a93c9a": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "ezETH",
+      "address": "0xe49269b5d31299bce407c8cccf241274e9a93c9a",
+      "symbol": "SY-ezETH",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/d9f1937e-1497-4104-86fa-6e6f487f5af7.svg",
+      "assetGroup": "ezETH::SY-ezETH",
+      "currencyId": "ezETH::SY-ezETH",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0xb2eea27af50030a445418553c4892065cf3a720a",
+          "expiry": 1727308800,
+          "underlyingAsset": "0x2416092f143378750bb29b79ed961ab195cceea5",
+          "ptAddress": "0x5ec5033a44ffb6f21da3a4f4cce4163485d61747",
+          "ytAddress": "0x964b6d486a89025e5557a5af3b4cc100a3f9734c"
+        }
+      }
+    },
+    "0x5ec5033a44ffb6f21da3a4f4cce4163485d61747": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT ezETH (ETH)",
+      "address": "0x5ec5033a44ffb6f21da3a4f4cce4163485d61747",
+      "symbol": "PT-ezETH-26SEP2024",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/2f55cf53-0cc2-4d32-ad6f-4d801a430858.svg",
+      "assetGroup": "PT ezETH (ETH)::PT-ezETH-26SEP2024",
+      "currencyId": "PT ezETH (ETH)::PT-ezETH-26SEP2024",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0xb2eea27af50030a445418553c4892065cf3a720a",
+          "expiry": 1727308800,
+          "underlyingAsset": "0x2416092f143378750bb29b79ed961ab195cceea5",
+          "ytAddress": "0x964b6d486a89025e5557a5af3b4cc100a3f9734c",
+          "syAddress": "0xe49269b5d31299bce407c8cccf241274e9a93c9a",
+          "expired": true
+        }
+      }
+    },
+    "0x964b6d486a89025e5557a5af3b4cc100a3f9734c": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YT ezETH (ETH)",
+      "address": "0x964b6d486a89025e5557a5af3b4cc100a3f9734c",
+      "symbol": "YT-ezETH-26SEP2024",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/9477aa94-5115-48b0-b40f-03d608f59367.svg",
+      "assetGroup": "YT ezETH (ETH)::YT-ezETH-26SEP2024",
+      "currencyId": "YT ezETH (ETH)::YT-ezETH-26SEP2024",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0xb2eea27af50030a445418553c4892065cf3a720a",
+          "expiry": 1727308800,
+          "underlyingAsset": "0x2416092f143378750bb29b79ed961ab195cceea5",
+          "ptAddress": "0x5ec5033a44ffb6f21da3a4f4cce4163485d61747",
+          "syAddress": "0xe49269b5d31299bce407c8cccf241274e9a93c9a",
+          "expired": true
+        }
+      }
+    },
+    "0x56b70ac3a6ae850f6aee67591d1bb86895ba211e": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "weETH",
+      "address": "0x56b70ac3a6ae850f6aee67591d1bb86895ba211e",
+      "symbol": "SY-weETH",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/156dada6-839a-41f2-a586-a68199ad3388.svg",
+      "assetGroup": "weETH::SY-weETH",
+      "currencyId": "weETH::SY-weETH",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x27255f9aff1868a8efb1182471f4de2121946fd0",
+          "expiry": 1727308800,
+          "underlyingAsset": "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
+          "ptAddress": "0x0e8ba474fcb6581059c61c328a21cfa285c7cee7",
+          "ytAddress": "0xbf1e6e67ce2bd8da1ea7342354126b59b46d4000"
+        }
+      }
+    },
+    "0x0e8ba474fcb6581059c61c328a21cfa285c7cee7": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT weETH (eETH)",
+      "address": "0x0e8ba474fcb6581059c61c328a21cfa285c7cee7",
+      "symbol": "PT-weETH-26SEP2024",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/71c1e2db-3866-4f96-8425-988190158909.svg",
+      "assetGroup": "PT weETH (eETH)::PT-weETH-26SEP2024",
+      "currencyId": "PT weETH (eETH)::PT-weETH-26SEP2024",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x27255f9aff1868a8efb1182471f4de2121946fd0",
+          "expiry": 1727308800,
+          "underlyingAsset": "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
+          "ytAddress": "0xbf1e6e67ce2bd8da1ea7342354126b59b46d4000",
+          "syAddress": "0x56b70ac3a6ae850f6aee67591d1bb86895ba211e",
+          "expired": true
+        }
+      }
+    },
+    "0xbf1e6e67ce2bd8da1ea7342354126b59b46d4000": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YT weETH (eETH)",
+      "address": "0xbf1e6e67ce2bd8da1ea7342354126b59b46d4000",
+      "symbol": "YT-weETH-26SEP2024",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/353e8d55-8ff2-4ec4-8aed-27e0c029b1eb.svg",
+      "assetGroup": "YT weETH (eETH)::YT-weETH-26SEP2024",
+      "currencyId": "YT weETH (eETH)::YT-weETH-26SEP2024",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x27255f9aff1868a8efb1182471f4de2121946fd0",
+          "expiry": 1727308800,
+          "underlyingAsset": "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a",
+          "ptAddress": "0x0e8ba474fcb6581059c61c328a21cfa285c7cee7",
+          "syAddress": "0x56b70ac3a6ae850f6aee67591d1bb86895ba211e",
+          "expired": true
+        }
+      }
+    },
+    "0x141ec2d606f12ff959d7d07cde6811e5fdff2831": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "xSolvBTC",
+      "address": "0x141ec2d606f12ff959d7d07cde6811e5fdff2831",
+      "symbol": "SY-SolvBTC.BBN",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/73dc31bc-df31-490b-9a51-baf5c01f9087.svg",
+      "assetGroup": "xSolvBTC::SY-SolvBTC.BBN",
+      "currencyId": "xSolvBTC::SY-SolvBTC.BBN",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0xe616d50e441aa2f6d6cd43eba1b1632ab1b046e6",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x1346b618dc92810ec74163e4c27004c921d446a5",
+          "ptAddress": "0x154b13a628e947034ca69378ee0acde9d973d868",
+          "ytAddress": "0xf52623e5a65ae9cdaa8cb999ac2021ca81a13730"
+        }
+      }
+    },
+    "0x541b5eeac7d4434c8f87e2d32019d67611179606": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT xSolvBTC (BTCB)",
+      "address": "0x541b5eeac7d4434c8f87e2d32019d67611179606",
+      "symbol": "PT-SolvBTC.BBN-27MAR2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/8d1737eb-039f-4eaa-a0dc-5440712589c1.svg",
+      "assetGroup": "PT xSolvBTC (BTCB)::PT-SolvBTC.BBN-27MAR2025",
+      "currencyId": "PT xSolvBTC (BTCB)::PT-SolvBTC.BBN-27MAR2025",
+      "tags": ["PT", "AVALON_SOLVBTC", "VENUS_BTC"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x9daa2878a8739e66e08e7ad35316c5143c0ea7c7",
+          "expiry": 1743033600,
+          "underlyingAsset": "0x1346b618dc92810ec74163e4c27004c921d446a5",
+          "ytAddress": "0x7914d72c9e9ca7f6bfdd09fc7e3f20d7bc3fb8a0",
+          "syAddress": "0x141ec2d606f12ff959d7d07cde6811e5fdff2831",
+          "expired": true
+        }
+      }
+    },
+    "0x7914d72c9e9ca7f6bfdd09fc7e3f20d7bc3fb8a0": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YT xSolvBTC (BTCB)",
+      "address": "0x7914d72c9e9ca7f6bfdd09fc7e3f20d7bc3fb8a0",
+      "symbol": "YT-SolvBTC.BBN-27MAR2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/b319ead1-410e-47e3-b4e7-45a69fe36de4.svg",
+      "assetGroup": "YT xSolvBTC (BTCB)::YT-SolvBTC.BBN-27MAR2025",
+      "currencyId": "YT xSolvBTC (BTCB)::YT-SolvBTC.BBN-27MAR2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x9daa2878a8739e66e08e7ad35316c5143c0ea7c7",
+          "expiry": 1743033600,
+          "underlyingAsset": "0x1346b618dc92810ec74163e4c27004c921d446a5",
+          "ptAddress": "0x541b5eeac7d4434c8f87e2d32019d67611179606",
+          "syAddress": "0x141ec2d606f12ff959d7d07cde6811e5fdff2831",
+          "expired": true
+        }
+      }
+    },
+    "0x7b5a43070bd97c2814f0d8b3b31ed53450375c19": {
+      "chainId": "56",
+      "decimals": 8,
+      "name": "vBNB",
+      "address": "0x7b5a43070bd97c2814f0d8b3b31ed53450375c19",
+      "symbol": "SY-vBNB",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/364a6c43-1849-4663-b76b-13b893f456f1.svg",
+      "assetGroup": "vBNB::SY-vBNB",
+      "currencyId": "vBNB::SY-vBNB",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x0921ccc98956b1599003fd9739d5e66bf319a161",
+          "expiry": 1750896000,
+          "underlyingAsset": "0xa07c5b74c9b40447a954e1466938b865b6bbea36",
+          "ptAddress": "0x5d1735b8e33bae069708cea245066de1a12cd38d",
+          "ytAddress": "0xfbebe2d163add17dc718ffc7b08880ca765a0fab"
+        }
+      }
+    },
+    "0x5d1735b8e33bae069708cea245066de1a12cd38d": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT vBNB (BNB)",
+      "address": "0x5d1735b8e33bae069708cea245066de1a12cd38d",
+      "symbol": "PT-vBNB-26JUN2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/821bd337-240a-4c03-b4cb-07c7f0d59544.svg",
+      "assetGroup": "PT vBNB (BNB)::PT-vBNB-26JUN2025",
+      "currencyId": "PT vBNB (BNB)::PT-vBNB-26JUN2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x0921ccc98956b1599003fd9739d5e66bf319a161",
+          "expiry": 1750896000,
+          "underlyingAsset": "0xa07c5b74c9b40447a954e1466938b865b6bbea36",
+          "ytAddress": "0xfbebe2d163add17dc718ffc7b08880ca765a0fab",
+          "syAddress": "0x7b5a43070bd97c2814f0d8b3b31ed53450375c19",
+          "expired": true
+        }
+      }
+    },
+    "0xfbebe2d163add17dc718ffc7b08880ca765a0fab": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YT vBNB (BNB)",
+      "address": "0xfbebe2d163add17dc718ffc7b08880ca765a0fab",
+      "symbol": "YT-vBNB-26JUN2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/4e461bac-a8af-40ed-b728-f2754adb62c3.svg",
+      "assetGroup": "YT vBNB (BNB)::YT-vBNB-26JUN2025",
+      "currencyId": "YT vBNB (BNB)::YT-vBNB-26JUN2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x0921ccc98956b1599003fd9739d5e66bf319a161",
+          "expiry": 1750896000,
+          "underlyingAsset": "0xa07c5b74c9b40447a954e1466938b865b6bbea36",
+          "ptAddress": "0x5d1735b8e33bae069708cea245066de1a12cd38d",
+          "syAddress": "0x7b5a43070bd97c2814f0d8b3b31ed53450375c19",
+          "expired": true
+        }
+      }
+    },
+    "0x27faf900007b4cba7803000251ec96bc69ff1bea": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "slisBNBx",
+      "address": "0x27faf900007b4cba7803000251ec96bc69ff1bea",
+      "symbol": "SY-clisBNB",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/6a341c86-510f-470e-a9de-d1c5c30e1ded.svg",
+      "assetGroup": "slisBNBx::SY-clisBNB",
+      "currencyId": "slisBNBx::SY-clisBNB",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0xbd577ddabb5a1672d3c786726b87a175de652b96",
+          "expiry": 1761782400,
+          "underlyingAsset": "0xb0b84d294e0c75a6abe60171b70edeb2efd14a1b",
+          "ptAddress": "0xb84cec1ab2af11b530ae0d8594b1493556be49cd",
+          "ytAddress": "0xbe436f6ed7ff7f747aae1912f88c59549df82158"
+        }
+      }
+    },
+    "0xe8f1c9804770e11ab73395be54686ad656601e9e": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT slisBNB (BNB)",
+      "address": "0xe8f1c9804770e11ab73395be54686ad656601e9e",
+      "symbol": "PT-clisBNB-24APR2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/609a2f5a-d97e-4015-b1c9-f93893e94620.svg",
+      "assetGroup": "PT slisBNB (BNB)::PT-clisBNB-24APR2025",
+      "currencyId": "PT slisBNB (BNB)::PT-clisBNB-24APR2025",
+      "tags": ["PT", "VENUS_BNB"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x1d9d27f0b89181cf1593ac2b36a37b444eb66bee",
+          "expiry": 1745452800,
+          "underlyingAsset": "0xb0b84d294e0c75a6abe60171b70edeb2efd14a1b",
+          "ytAddress": "0x44264c7be2d92f010b20b29c4531fc09381c56f3",
+          "syAddress": "0x27faf900007b4cba7803000251ec96bc69ff1bea",
+          "expired": true
+        }
+      }
+    },
+    "0x44264c7be2d92f010b20b29c4531fc09381c56f3": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YT slisBNB (BNB)",
+      "address": "0x44264c7be2d92f010b20b29c4531fc09381c56f3",
+      "symbol": "YT-clisBNB-24APR2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/2070af40-80a4-4104-8127-4808a0aa4bc2.svg",
+      "assetGroup": "YT slisBNB (BNB)::YT-clisBNB-24APR2025",
+      "currencyId": "YT slisBNB (BNB)::YT-clisBNB-24APR2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x1d9d27f0b89181cf1593ac2b36a37b444eb66bee",
+          "expiry": 1745452800,
+          "underlyingAsset": "0xb0b84d294e0c75a6abe60171b70edeb2efd14a1b",
+          "ptAddress": "0xe8f1c9804770e11ab73395be54686ad656601e9e",
+          "syAddress": "0x27faf900007b4cba7803000251ec96bc69ff1bea",
+          "expired": true
+        }
+      }
+    },
+    "0x7eec75fe8d9ac678f9b4e0ecf2af7b445e0c5b4c": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "asUSDF",
+      "address": "0x7eec75fe8d9ac678f9b4e0ecf2af7b445e0c5b4c",
+      "symbol": "SY-asUSDF",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/7a7c0f11-94ee-4546-b5bf-c2604254f6f0.svg",
+      "assetGroup": "asUSDF::SY-asUSDF",
+      "currencyId": "asUSDF::SY-asUSDF",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x2ac20c37b5577e04bb68e239a45f4fb3b4edb184",
+          "expiry": 1764201600,
+          "underlyingAsset": "0x917af46b3c3c6e1bb7286b9f59637fb7c65851fb",
+          "ptAddress": "0x9456715be226bba4265c8771f80cc054d4d38f2b",
+          "ytAddress": "0x25eedcefa69bad7964c993d5e5f3e9cbd6fe8050"
+        }
+      }
+    },
+    "0xa3de5349b50baab12b9578a31f29eaa5d6682895": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT asUSDF (USDF)",
+      "address": "0xa3de5349b50baab12b9578a31f29eaa5d6682895",
+      "symbol": "PT-asUSDF-29MAY2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/c57a4c26-5a86-4171-b824-786243b15551.svg",
+      "assetGroup": "PT asUSDF (USDF)::PT-asUSDF-29MAY2025",
+      "currencyId": "PT asUSDF (USDF)::PT-asUSDF-29MAY2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x9e515a7115c86d7314159dbdab41e555d5330dfe",
+          "expiry": 1748476800,
+          "underlyingAsset": "0x917af46b3c3c6e1bb7286b9f59637fb7c65851fb",
+          "ytAddress": "0x5e4ea9538e8ae4c22f3897e85c7ab51672bb3a62",
+          "syAddress": "0x7eec75fe8d9ac678f9b4e0ecf2af7b445e0c5b4c",
+          "expired": true
+        }
+      }
+    },
+    "0x5e4ea9538e8ae4c22f3897e85c7ab51672bb3a62": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YT asUSDF (USDF)",
+      "address": "0x5e4ea9538e8ae4c22f3897e85c7ab51672bb3a62",
+      "symbol": "YT-asUSDF-29MAY2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/9f961114-f83d-42ae-9a34-1d420edc15d8.svg",
+      "assetGroup": "YT asUSDF (USDF)::YT-asUSDF-29MAY2025",
+      "currencyId": "YT asUSDF (USDF)::YT-asUSDF-29MAY2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x9e515a7115c86d7314159dbdab41e555d5330dfe",
+          "expiry": 1748476800,
+          "underlyingAsset": "0x917af46b3c3c6e1bb7286b9f59637fb7c65851fb",
+          "ptAddress": "0xa3de5349b50baab12b9578a31f29eaa5d6682895",
+          "syAddress": "0x7eec75fe8d9ac678f9b4e0ecf2af7b445e0c5b4c",
+          "expired": true
+        }
+      }
+    },
+    "0x5b4918e997b9f6e09309d297ab44f2433245b8a3": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "sUSDX",
+      "address": "0x5b4918e997b9f6e09309d297ab44f2433245b8a3",
+      "symbol": "SY-sUSDX",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/73bb8eb3-6f0c-4ecf-8c84-8d6a8c72d667.png",
+      "assetGroup": "sUSDX::SY-sUSDX",
+      "currencyId": "sUSDX::SY-sUSDX",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0xd765fd428ce4bbb79054e4a6d6e837475b9284c2",
+          "expiry": 1774483200,
+          "underlyingAsset": "0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92",
+          "ptAddress": "0x66a2a3d068fa8bb786eed331e51782597d8f961e",
+          "ytAddress": "0x3d8a5d0e4430a77b8f4709969a59acafab0a10ae"
+        }
+      }
+    },
+    "0xfa56005cdf111725a8e5395fc90cd33135bccae8": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT sUSDX (USDX)",
+      "address": "0xfa56005cdf111725a8e5395fc90cd33135bccae8",
+      "symbol": "PT-sUSDX-1SEP2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/ede8e258-479b-4705-a98b-5c506ffd3832.svg",
+      "assetGroup": "PT sUSDX (USDX)::PT-sUSDX-1SEP2025",
+      "currencyId": "PT sUSDX (USDX)::PT-sUSDX-1SEP2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0xe08fc3054450053cd341da695f72b18e6110fffc",
+          "expiry": 1756684800,
+          "underlyingAsset": "0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92",
+          "ytAddress": "0x74a5afde0ae6ab639ce3826ffa33efd7e636092e",
+          "syAddress": "0x5b4918e997b9f6e09309d297ab44f2433245b8a3",
+          "expired": true
+        }
+      }
+    },
+    "0x74a5afde0ae6ab639ce3826ffa33efd7e636092e": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YT sUSDX (USDX)",
+      "address": "0x74a5afde0ae6ab639ce3826ffa33efd7e636092e",
+      "symbol": "YT-sUSDX-1SEP2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/a1ce5a74-9169-4fcd-9adf-892127c64cf6.svg",
+      "assetGroup": "YT sUSDX (USDX)::YT-sUSDX-1SEP2025",
+      "currencyId": "YT sUSDX (USDX)::YT-sUSDX-1SEP2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0xe08fc3054450053cd341da695f72b18e6110fffc",
+          "expiry": 1756684800,
+          "underlyingAsset": "0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92",
+          "ptAddress": "0xfa56005cdf111725a8e5395fc90cd33135bccae8",
+          "syAddress": "0x5b4918e997b9f6e09309d297ab44f2433245b8a3",
+          "expired": true
+        }
+      }
+    },
+    "0x154b13a628e947034ca69378ee0acde9d973d868": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT xSolvBTC (BTCB)",
+      "address": "0x154b13a628e947034ca69378ee0acde9d973d868",
+      "symbol": "PT-SolvBTC.BBN-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/36d0e9f3-6b6e-43e2-a70a-601a516c5ffb.svg",
+      "assetGroup": "PT xSolvBTC (BTCB)::PT-SolvBTC.BBN-18DEC2025",
+      "currencyId": "PT xSolvBTC (BTCB)::PT-SolvBTC.BBN-18DEC2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0xe616d50e441aa2f6d6cd43eba1b1632ab1b046e6",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x1346b618dc92810ec74163e4c27004c921d446a5",
+          "ytAddress": "0xf52623e5a65ae9cdaa8cb999ac2021ca81a13730",
+          "syAddress": "0x141ec2d606f12ff959d7d07cde6811e5fdff2831"
+        }
+      }
+    },
+    "0xf52623e5a65ae9cdaa8cb999ac2021ca81a13730": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YT xSolvBTC (BTCB)",
+      "address": "0xf52623e5a65ae9cdaa8cb999ac2021ca81a13730",
+      "symbol": "YT-SolvBTC.BBN-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/a1da53e6-3f06-4394-a1b9-6914605b2860.svg",
+      "assetGroup": "YT xSolvBTC (BTCB)::YT-SolvBTC.BBN-18DEC2025",
+      "currencyId": "YT xSolvBTC (BTCB)::YT-SolvBTC.BBN-18DEC2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0xe616d50e441aa2f6d6cd43eba1b1632ab1b046e6",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x1346b618dc92810ec74163e4c27004c921d446a5",
+          "ptAddress": "0x154b13a628e947034ca69378ee0acde9d973d868",
+          "syAddress": "0x141ec2d606f12ff959d7d07cde6811e5fdff2831"
+        }
+      }
+    },
+    "0xe954c3b53b2cd8b9056737193780f0a541815bb2": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "asBNB",
+      "address": "0xe954c3b53b2cd8b9056737193780f0a541815bb2",
+      "symbol": "SY-asBNB",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/b8b6127b-78d5-468b-b5a8-ea67d5d3008f.svg",
+      "assetGroup": "asBNB::SY-asBNB",
+      "currencyId": "asBNB::SY-asBNB",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0xd75d9fbc6486ca5a18037f9ea2fd48044fa9e414",
+          "expiry": 1753315200,
+          "underlyingAsset": "0x77734e70b6e88b4d82fe632a168edf6e700912b6",
+          "ptAddress": "0x5f63b282089905c55a283110d4868a56e265aec5",
+          "ytAddress": "0x89c625c475f33a78a8c60250137a3d51aa12b357"
+        }
+      }
+    },
+    "0x5f63b282089905c55a283110d4868a56e265aec5": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT asBNB (BNB)",
+      "address": "0x5f63b282089905c55a283110d4868a56e265aec5",
+      "symbol": "PT-asBNB-24JUL2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/d15f6bde-e2a8-46db-a00b-13cbc23f1255.svg",
+      "assetGroup": "PT asBNB (BNB)::PT-asBNB-24JUL2025",
+      "currencyId": "PT asBNB (BNB)::PT-asBNB-24JUL2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0xd75d9fbc6486ca5a18037f9ea2fd48044fa9e414",
+          "expiry": 1753315200,
+          "underlyingAsset": "0x77734e70b6e88b4d82fe632a168edf6e700912b6",
+          "ytAddress": "0x89c625c475f33a78a8c60250137a3d51aa12b357",
+          "syAddress": "0xe954c3b53b2cd8b9056737193780f0a541815bb2",
+          "expired": true
+        }
+      }
+    },
+    "0x89c625c475f33a78a8c60250137a3d51aa12b357": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YT asBNB (BNB)",
+      "address": "0x89c625c475f33a78a8c60250137a3d51aa12b357",
+      "symbol": "YT-asBNB-24JUL2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/d40dfdcb-70d4-4e3f-98a4-4746c5308c51.svg",
+      "assetGroup": "YT asBNB (BNB)::YT-asBNB-24JUL2025",
+      "currencyId": "YT asBNB (BNB)::YT-asBNB-24JUL2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0xd75d9fbc6486ca5a18037f9ea2fd48044fa9e414",
+          "expiry": 1753315200,
+          "underlyingAsset": "0x77734e70b6e88b4d82fe632a168edf6e700912b6",
+          "ptAddress": "0x5f63b282089905c55a283110d4868a56e265aec5",
+          "syAddress": "0xe954c3b53b2cd8b9056737193780f0a541815bb2",
+          "expired": true
+        }
+      }
+    },
+    "0xdc1afdf60b8b9296df468288f1ad89dced3b1b4d": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT-asUSDF-24JUL2025",
+      "address": "0xdc1afdf60b8b9296df468288f1ad89dced3b1b4d",
+      "symbol": "PT-asUSDF-24JUL2025",
+      "logoURI": "https://storage.googleapis.com/pendle-assets-staging/images/assets/unknown.svg",
+      "assetGroup": "PT-asUSDF-24JUL2025::PT-asUSDF-24JUL2025",
+      "currencyId": "PT-asUSDF-24JUL2025::PT-asUSDF-24JUL2025",
+      "tags": ["PT"],
+      "props": { "pendle": { "tokenType": "PT", "expired": true } }
+    },
+    "0x8cc33b03958e0721a240cf4e5ebe424aa8232461": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YT-asUSDF-24JUL2025",
+      "address": "0x8cc33b03958e0721a240cf4e5ebe424aa8232461",
+      "symbol": "YT-asUSDF-24JUL2025",
+      "logoURI": "https://storage.googleapis.com/pendle-assets-staging/images/assets/unknown.svg",
+      "assetGroup": "YT-asUSDF-24JUL2025::YT-asUSDF-24JUL2025",
+      "currencyId": "YT-asUSDF-24JUL2025::YT-asUSDF-24JUL2025",
+      "tags": ["YT"],
+      "props": { "pendle": { "tokenType": "YT", "expired": true } }
+    },
+    "0x0f47aee96fae2558b0081c8d2dffbb8512397e23": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "USDF",
+      "address": "0x0f47aee96fae2558b0081c8d2dffbb8512397e23",
+      "symbol": "SY-USDF",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/ab2ac35e-c7c2-4a7c-a464-43d6addfbcc7.svg",
+      "assetGroup": "USDF::SY-USDF",
+      "currencyId": "USDF::SY-USDF",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x61b79369738fad86c4e948fc775048104b7ffbf0",
+          "expiry": 1753315200,
+          "underlyingAsset": "0x5a110fc00474038f6c02e89c707d638602ea44b5",
+          "ptAddress": "0x1627abfd41cdaaff4fc595444519410160fe9df1",
+          "ytAddress": "0x5e9d14e48c7a35c77caf83bd15ae2f73d411e523"
+        }
+      }
+    },
+    "0x1627abfd41cdaaff4fc595444519410160fe9df1": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT USDF (USDF)",
+      "address": "0x1627abfd41cdaaff4fc595444519410160fe9df1",
+      "symbol": "PT-USDF-24JUL2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/154dc033-e511-4d0a-b3a5-6d243684186b.svg",
+      "assetGroup": "PT USDF (USDF)::PT-USDF-24JUL2025",
+      "currencyId": "PT USDF (USDF)::PT-USDF-24JUL2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x61b79369738fad86c4e948fc775048104b7ffbf0",
+          "expiry": 1753315200,
+          "underlyingAsset": "0x5a110fc00474038f6c02e89c707d638602ea44b5",
+          "ytAddress": "0x5e9d14e48c7a35c77caf83bd15ae2f73d411e523",
+          "syAddress": "0x0f47aee96fae2558b0081c8d2dffbb8512397e23",
+          "expired": true
+        }
+      }
+    },
+    "0x5e9d14e48c7a35c77caf83bd15ae2f73d411e523": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YT USDF (USDF)",
+      "address": "0x5e9d14e48c7a35c77caf83bd15ae2f73d411e523",
+      "symbol": "YT-USDF-24JUL2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/cfc7a706-1cb5-46f4-87ff-7502ac6caa67.svg",
+      "assetGroup": "YT USDF (USDF)::YT-USDF-24JUL2025",
+      "currencyId": "YT USDF (USDF)::YT-USDF-24JUL2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x61b79369738fad86c4e948fc775048104b7ffbf0",
+          "expiry": 1753315200,
+          "underlyingAsset": "0x5a110fc00474038f6c02e89c707d638602ea44b5",
+          "ptAddress": "0x1627abfd41cdaaff4fc595444519410160fe9df1",
+          "syAddress": "0x0f47aee96fae2558b0081c8d2dffbb8512397e23",
+          "expired": true
+        }
+      }
+    },
+    "0xf2810f8ec028576354c4388d8b347ac1921c63a2": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "sUSDe",
+      "address": "0xf2810f8ec028576354c4388d8b347ac1921c63a2",
+      "symbol": "SY-sUSDE",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/0881eb43-6ddc-4df2-9ac0-f8afba0c1e31.svg",
+      "assetGroup": "sUSDe::SY-sUSDE",
+      "currencyId": "sUSDe::SY-sUSDE",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x8557d39d4bab2b045ac5c2b7ea66d12139da9af4",
+          "expiry": 1750896000,
+          "underlyingAsset": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+          "ptAddress": "0xdd809435ba6c9d6903730f923038801781ca66ce",
+          "ytAddress": "0x55b106c8b7c23caf60db956dda41a59329afd1c2"
+        }
+      }
+    },
+    "0xdd809435ba6c9d6903730f923038801781ca66ce": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT sUSDe (USDe)",
+      "address": "0xdd809435ba6c9d6903730f923038801781ca66ce",
+      "symbol": "PT-sUSDE-26JUN2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/5a09eda9-8c88-478d-9cfb-1e4347136aa9.svg",
+      "assetGroup": "PT sUSDe (USDe)::PT-sUSDE-26JUN2025",
+      "currencyId": "PT sUSDe (USDe)::PT-sUSDE-26JUN2025",
+      "tags": ["PT", "VENUS"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x8557d39d4bab2b045ac5c2b7ea66d12139da9af4",
+          "expiry": 1750896000,
+          "underlyingAsset": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+          "ytAddress": "0x55b106c8b7c23caf60db956dda41a59329afd1c2",
+          "syAddress": "0xf2810f8ec028576354c4388d8b347ac1921c63a2",
+          "expired": true
+        }
+      }
+    },
+    "0x55b106c8b7c23caf60db956dda41a59329afd1c2": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YT sUSDe (USDe)",
+      "address": "0x55b106c8b7c23caf60db956dda41a59329afd1c2",
+      "symbol": "YT-sUSDE-26JUN2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/08a9d520-9f6a-4166-ac8f-e633d7bb636c.svg",
+      "assetGroup": "YT sUSDe (USDe)::YT-sUSDE-26JUN2025",
+      "currencyId": "YT sUSDe (USDe)::YT-sUSDE-26JUN2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x8557d39d4bab2b045ac5c2b7ea66d12139da9af4",
+          "expiry": 1750896000,
+          "underlyingAsset": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+          "ptAddress": "0xdd809435ba6c9d6903730f923038801781ca66ce",
+          "syAddress": "0xf2810f8ec028576354c4388d8b347ac1921c63a2",
+          "expired": true
+        }
+      }
+    },
+    "0xb84cec1ab2af11b530ae0d8594b1493556be49cd": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT slisBNBx (BNB)",
+      "address": "0xb84cec1ab2af11b530ae0d8594b1493556be49cd",
+      "symbol": "PT-clisBNB-30OCT2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/f82586ed-d4fd-4ba9-912a-0d62c1b114cc.svg",
+      "assetGroup": "PT slisBNBx (BNB)::PT-clisBNB-30OCT2025",
+      "currencyId": "PT slisBNBx (BNB)::PT-clisBNB-30OCT2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0xbd577ddabb5a1672d3c786726b87a175de652b96",
+          "expiry": 1761782400,
+          "underlyingAsset": "0xb0b84d294e0c75a6abe60171b70edeb2efd14a1b",
+          "ytAddress": "0xbe436f6ed7ff7f747aae1912f88c59549df82158",
+          "syAddress": "0x27faf900007b4cba7803000251ec96bc69ff1bea"
+        }
+      }
+    },
+    "0xbe436f6ed7ff7f747aae1912f88c59549df82158": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YT slisBNBx (BNB)",
+      "address": "0xbe436f6ed7ff7f747aae1912f88c59549df82158",
+      "symbol": "YT-clisBNB-30OCT2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/46247a45-4b42-4c18-9261-dcaa6f841e32.svg",
+      "assetGroup": "YT slisBNBx (BNB)::YT-clisBNB-30OCT2025",
+      "currencyId": "YT slisBNBx (BNB)::YT-clisBNB-30OCT2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0xbd577ddabb5a1672d3c786726b87a175de652b96",
+          "expiry": 1761782400,
+          "underlyingAsset": "0xb0b84d294e0c75a6abe60171b70edeb2efd14a1b",
+          "ptAddress": "0xb84cec1ab2af11b530ae0d8594b1493556be49cd",
+          "syAddress": "0x27faf900007b4cba7803000251ec96bc69ff1bea"
+        }
+      }
+    },
+    "0xfec0d38a9c16d4e1280d984f2b5d674670159bf4": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "ynBNBx",
+      "address": "0xfec0d38a9c16d4e1280d984f2b5d674670159bf4",
+      "symbol": "SY-ynBNBx",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/f88fde35-1732-4bdd-8477-806e93ac3f4b.svg",
+      "assetGroup": "ynBNBx::SY-ynBNBx",
+      "currencyId": "ynBNBx::SY-ynBNBx",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x7608eb2fc533343556e443511a2747f605e49c9b",
+          "expiry": 1760572800,
+          "underlyingAsset": "0x32c830f5c34122c6afb8ae87aba541b7900a2c5f",
+          "ptAddress": "0x50956c8e46a4f7dfc7475e3957c162d29b39f75f",
+          "ytAddress": "0x6a665855c2b98c8ab71a58e4b97cd3653ee591db"
+        }
+      }
+    },
+    "0x50956c8e46a4f7dfc7475e3957c162d29b39f75f": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT ynBNBx (WBNB)",
+      "address": "0x50956c8e46a4f7dfc7475e3957c162d29b39f75f",
+      "symbol": "PT-ynBNBx-16OCT2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/f963b018-f30e-42db-a302-0e83157b891b.svg",
+      "assetGroup": "PT ynBNBx (WBNB)::PT-ynBNBx-16OCT2025",
+      "currencyId": "PT ynBNBx (WBNB)::PT-ynBNBx-16OCT2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x7608eb2fc533343556e443511a2747f605e49c9b",
+          "expiry": 1760572800,
+          "underlyingAsset": "0x32c830f5c34122c6afb8ae87aba541b7900a2c5f",
+          "ytAddress": "0x6a665855c2b98c8ab71a58e4b97cd3653ee591db",
+          "syAddress": "0xfec0d38a9c16d4e1280d984f2b5d674670159bf4"
+        }
+      }
+    },
+    "0x6a665855c2b98c8ab71a58e4b97cd3653ee591db": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YT ynBNBx (WBNB)",
+      "address": "0x6a665855c2b98c8ab71a58e4b97cd3653ee591db",
+      "symbol": "YT-ynBNBx-16OCT2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/1d24dd25-08d5-4ab0-98d0-8c5e0c7fd556.svg",
+      "assetGroup": "YT ynBNBx (WBNB)::YT-ynBNBx-16OCT2025",
+      "currencyId": "YT ynBNBx (WBNB)::YT-ynBNBx-16OCT2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x7608eb2fc533343556e443511a2747f605e49c9b",
+          "expiry": 1760572800,
+          "underlyingAsset": "0x32c830f5c34122c6afb8ae87aba541b7900a2c5f",
+          "ptAddress": "0x50956c8e46a4f7dfc7475e3957c162d29b39f75f",
+          "syAddress": "0xfec0d38a9c16d4e1280d984f2b5d674670159bf4"
+        }
+      }
+    },
+    "0x414d3c8a26157085f286abe3bc6e1bb010733602": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "USR",
+      "address": "0x414d3c8a26157085f286abe3bc6e1bb010733602",
+      "symbol": "SY-USR",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/49ec6a96-8d8e-4565-af8c-95ce0101f63f.svg",
+      "assetGroup": "USR::SY-USR",
+      "currencyId": "USR::SY-USR",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x1630d8228588d406767c2225f927154c05d2e2bb",
+          "expiry": 1764201600,
+          "underlyingAsset": "0x2492d0006411af6c8bbb1c8afc1b0197350a79e9",
+          "ptAddress": "0x4a3846d069b800343d53e72b80a644bb496d9ab2",
+          "ytAddress": "0xdcf4f4260ab766fd458e4d883ddf01522a7e4bb8"
+        }
+      }
+    },
+    "0x4a3846d069b800343d53e72b80a644bb496d9ab2": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT USR (USR)",
+      "address": "0x4a3846d069b800343d53e72b80a644bb496d9ab2",
+      "symbol": "PT-USR-27NOV2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/2bec710d-796c-48c6-82b4-b66af66bfb03.svg",
+      "assetGroup": "PT USR (USR)::PT-USR-27NOV2025",
+      "currencyId": "PT USR (USR)::PT-USR-27NOV2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x1630d8228588d406767c2225f927154c05d2e2bb",
+          "expiry": 1764201600,
+          "underlyingAsset": "0x2492d0006411af6c8bbb1c8afc1b0197350a79e9",
+          "ytAddress": "0xdcf4f4260ab766fd458e4d883ddf01522a7e4bb8",
+          "syAddress": "0x414d3c8a26157085f286abe3bc6e1bb010733602"
+        }
+      }
+    },
+    "0xdcf4f4260ab766fd458e4d883ddf01522a7e4bb8": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YT USR (USR)",
+      "address": "0xdcf4f4260ab766fd458e4d883ddf01522a7e4bb8",
+      "symbol": "YT-USR-27NOV2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/75a49368-6f12-412b-ae64-c28349a38de7.svg",
+      "assetGroup": "YT USR (USR)::YT-USR-27NOV2025",
+      "currencyId": "YT USR (USR)::YT-USR-27NOV2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x1630d8228588d406767c2225f927154c05d2e2bb",
+          "expiry": 1764201600,
+          "underlyingAsset": "0x2492d0006411af6c8bbb1c8afc1b0197350a79e9",
+          "ptAddress": "0x4a3846d069b800343d53e72b80a644bb496d9ab2",
+          "syAddress": "0x414d3c8a26157085f286abe3bc6e1bb010733602"
+        }
+      }
+    },
+    "0x58b4441b97c577b66e46aa155e04dc4652fd0d34": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "SolvBTC.BNB",
+      "address": "0x58b4441b97c577b66e46aa155e04dc4652fd0d34",
+      "symbol": "SY-SolvBTC.BNB",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/9c6abeea-ff4e-4065-8328-33f83bfa11c2.svg",
+      "assetGroup": "SolvBTC.BNB::SY-SolvBTC.BNB",
+      "currencyId": "SolvBTC.BNB::SY-SolvBTC.BNB",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x527be6fa23ff71e3faf5c2c1511b0531b67a701d",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x6c948a4c31d013515d871930fe3807276102f25d",
+          "ptAddress": "0xee61a49a180cd23c3e629c5a70c1ee6539c004bd",
+          "ytAddress": "0xa23e43ff30b6bb9972a6c6617a9aebad34adca3f"
+        }
+      }
+    },
+    "0xee61a49a180cd23c3e629c5a70c1ee6539c004bd": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT SolvBTC.BNB (SolvBTC.BNB)",
+      "address": "0xee61a49a180cd23c3e629c5a70c1ee6539c004bd",
+      "symbol": "PT-SolvBTC.BNB-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/e40797a7-daab-48fa-ac75-8ed6c8bc1ca2.svg",
+      "assetGroup": "PT SolvBTC.BNB (SolvBTC.BNB)::PT-SolvBTC.BNB-18DEC2025",
+      "currencyId": "PT SolvBTC.BNB (SolvBTC.BNB)::PT-SolvBTC.BNB-18DEC2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x527be6fa23ff71e3faf5c2c1511b0531b67a701d",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x6c948a4c31d013515d871930fe3807276102f25d",
+          "ytAddress": "0xa23e43ff30b6bb9972a6c6617a9aebad34adca3f",
+          "syAddress": "0x58b4441b97c577b66e46aa155e04dc4652fd0d34"
+        }
+      }
+    },
+    "0xa23e43ff30b6bb9972a6c6617a9aebad34adca3f": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YT SolvBTC.BNB (SolvBTC.BNB)",
+      "address": "0xa23e43ff30b6bb9972a6c6617a9aebad34adca3f",
+      "symbol": "YT-SolvBTC.BNB-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/21cbd195-6a7e-441c-9d5e-cc6ab7195e8c.svg",
+      "assetGroup": "YT SolvBTC.BNB (SolvBTC.BNB)::YT-SolvBTC.BNB-18DEC2025",
+      "currencyId": "YT SolvBTC.BNB (SolvBTC.BNB)::YT-SolvBTC.BNB-18DEC2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x527be6fa23ff71e3faf5c2c1511b0531b67a701d",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x6c948a4c31d013515d871930fe3807276102f25d",
+          "ptAddress": "0xee61a49a180cd23c3e629c5a70c1ee6539c004bd",
+          "syAddress": "0x58b4441b97c577b66e46aa155e04dc4652fd0d34"
+        }
+      }
+    },
+    "0x09f317b127bcc9d16f5dd17cadbeda9d034c0f8c": {
+      "chainId": "56",
+      "decimals": 8,
+      "name": "uniBTC",
+      "address": "0x09f317b127bcc9d16f5dd17cadbeda9d034c0f8c",
+      "symbol": "SY-uniBTC",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/9e9d2397-3525-47c1-8dde-66b08b531c75.svg",
+      "assetGroup": "uniBTC::SY-uniBTC",
+      "currencyId": "uniBTC::SY-uniBTC",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0xe4bb20d7fc50b5633896f5ea9a17758e8bc82eaf",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x6b2a01a5f79deb4c2f3c0eda7b01df456fbd726a",
+          "ptAddress": "0xd5cee155593f7a5da4db3181e8af6a37e73f6c8f",
+          "ytAddress": "0x435cf5ca8394e553e56d5bb334a5cd14243b6dcc"
+        }
+      }
+    },
+    "0xe669b136cffc8625096ba2b8451ce3bfded81d23": {
+      "chainId": "56",
+      "decimals": 8,
+      "name": "PT uniBTC (uniBTC)",
+      "address": "0xe669b136cffc8625096ba2b8451ce3bfded81d23",
+      "symbol": "PT-uniBTC-28AUG2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/b36bbe43-c1b8-4bca-b7cb-08ad887485c9.svg",
+      "assetGroup": "PT uniBTC (uniBTC)::PT-uniBTC-28AUG2025",
+      "currencyId": "PT uniBTC (uniBTC)::PT-uniBTC-28AUG2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x4c6c233b16fd3f9c4ec139174ca8ee8ba0eb8a88",
+          "expiry": 1756339200,
+          "underlyingAsset": "0x6b2a01a5f79deb4c2f3c0eda7b01df456fbd726a",
+          "ytAddress": "0x22177ce13e64e6432ab035b0ad1c39d8cf6e0169",
+          "syAddress": "0x09f317b127bcc9d16f5dd17cadbeda9d034c0f8c",
+          "expired": true
+        }
+      }
+    },
+    "0x22177ce13e64e6432ab035b0ad1c39d8cf6e0169": {
+      "chainId": "56",
+      "decimals": 8,
+      "name": "YT uniBTC (uniBTC)",
+      "address": "0x22177ce13e64e6432ab035b0ad1c39d8cf6e0169",
+      "symbol": "YT-uniBTC-28AUG2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/0956525f-b79f-49a6-8d2a-64f59eed6ee4.svg",
+      "assetGroup": "YT uniBTC (uniBTC)::YT-uniBTC-28AUG2025",
+      "currencyId": "YT uniBTC (uniBTC)::YT-uniBTC-28AUG2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x4c6c233b16fd3f9c4ec139174ca8ee8ba0eb8a88",
+          "expiry": 1756339200,
+          "underlyingAsset": "0x6b2a01a5f79deb4c2f3c0eda7b01df456fbd726a",
+          "ptAddress": "0xe669b136cffc8625096ba2b8451ce3bfded81d23",
+          "syAddress": "0x09f317b127bcc9d16f5dd17cadbeda9d034c0f8c",
+          "expired": true
+        }
+      }
+    },
+    "0x9456715be226bba4265c8771f80cc054d4d38f2b": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT asUSDF (USDF)",
+      "address": "0x9456715be226bba4265c8771f80cc054d4d38f2b",
+      "symbol": "PT-asUSDF-27NOV2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/c57a4c26-5a86-4171-b824-786243b15551.svg",
+      "assetGroup": "PT asUSDF (USDF)::PT-asUSDF-27NOV2025",
+      "currencyId": "PT asUSDF (USDF)::PT-asUSDF-27NOV2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x2ac20c37b5577e04bb68e239a45f4fb3b4edb184",
+          "expiry": 1764201600,
+          "underlyingAsset": "0x917af46b3c3c6e1bb7286b9f59637fb7c65851fb",
+          "ytAddress": "0x25eedcefa69bad7964c993d5e5f3e9cbd6fe8050",
+          "syAddress": "0x7eec75fe8d9ac678f9b4e0ecf2af7b445e0c5b4c"
+        }
+      }
+    },
+    "0x25eedcefa69bad7964c993d5e5f3e9cbd6fe8050": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YT asUSDF (USDF)",
+      "address": "0x25eedcefa69bad7964c993d5e5f3e9cbd6fe8050",
+      "symbol": "YT-asUSDF-27NOV2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/9f961114-f83d-42ae-9a34-1d420edc15d8.svg",
+      "assetGroup": "YT asUSDF (USDF)::YT-asUSDF-27NOV2025",
+      "currencyId": "YT asUSDF (USDF)::YT-asUSDF-27NOV2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x2ac20c37b5577e04bb68e239a45f4fb3b4edb184",
+          "expiry": 1764201600,
+          "underlyingAsset": "0x917af46b3c3c6e1bb7286b9f59637fb7c65851fb",
+          "ptAddress": "0x9456715be226bba4265c8771f80cc054d4d38f2b",
+          "syAddress": "0x7eec75fe8d9ac678f9b4e0ecf2af7b445e0c5b4c"
+        }
+      }
+    },
+    "0x5719acdb9abbbc6ba414c9dbff5b2967342f465d": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "USDe (Aug 2025)",
+      "address": "0x5719acdb9abbbc6ba414c9dbff5b2967342f465d",
+      "symbol": "SY-USDe",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/a49c9847-7b89-444e-9b9d-31583bcb0506.svg",
+      "assetGroup": "USDe (Aug 2025)::SY-USDe",
+      "currencyId": "USDe (Aug 2025)::SY-USDe",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0xb5b56637810e4d090894785993f4cdd6875d927e",
+          "expiry": 1761782400,
+          "underlyingAsset": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+          "ptAddress": "0x607c834cfb7fcbbb341cbe23f77a6e83bcf3f55c",
+          "ytAddress": "0x35c4668db919ded034f047526765544a92a4da09"
+        }
+      }
+    },
+    "0x37fbffe3a305e342c2cd00929a904e971c65bafd": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT USDe (USDe)",
+      "address": "0x37fbffe3a305e342c2cd00929a904e971c65bafd",
+      "symbol": "PT-USDe-7AUG2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/39c9a8b3-f38d-4889-9162-9e2f627dbd5d.svg",
+      "assetGroup": "PT USDe (USDe)::PT-USDe-7AUG2025",
+      "currencyId": "PT USDe (USDe)::PT-USDe-7AUG2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0xfa4b91d63e7cab716dd049a23c56f70237c6ddbb",
+          "expiry": 1754524800,
+          "underlyingAsset": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+          "ytAddress": "0x7670557db8891a3365350ad0899a096c967ebdb9",
+          "syAddress": "0x5719acdb9abbbc6ba414c9dbff5b2967342f465d",
+          "expired": true
+        }
+      }
+    },
+    "0x7670557db8891a3365350ad0899a096c967ebdb9": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YT USDe (USDe)",
+      "address": "0x7670557db8891a3365350ad0899a096c967ebdb9",
+      "symbol": "YT-USDe-7AUG2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/23a6f090-803b-4009-9a71-c3299fdd91bb.svg",
+      "assetGroup": "YT USDe (USDe)::YT-USDe-7AUG2025",
+      "currencyId": "YT USDe (USDe)::YT-USDe-7AUG2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0xfa4b91d63e7cab716dd049a23c56f70237c6ddbb",
+          "expiry": 1754524800,
+          "underlyingAsset": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+          "ptAddress": "0x37fbffe3a305e342c2cd00929a904e971c65bafd",
+          "syAddress": "0x5719acdb9abbbc6ba414c9dbff5b2967342f465d",
+          "expired": true
+        }
+      }
+    },
+    "0x193b2f36957f7e9e498758bbf182273bc145bb92": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "satUSD+",
+      "address": "0x193b2f36957f7e9e498758bbf182273bc145bb92",
+      "symbol": "SY-satUSD+",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/0c5a9f6a-737c-4753-b300-4377972e8fe0.svg",
+      "assetGroup": "satUSD+::SY-satUSD+",
+      "currencyId": "satUSD+::SY-satUSD+",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0xdb69ed950cbe21baaec158506c090f6d945a163a",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x03d9c4e4bc5d3678a9076cac50db0251d8676872",
+          "ptAddress": "0x31e88bf4ac49eef6711756d141f1a63e78f9f665",
+          "ytAddress": "0x8023e1196e8988a9eb9b0f45cd4fce40307b41c8"
+        }
+      }
+    },
+    "0xb901c7a2d2bc05d8b7e7ee4f7fcf72caaabd2f49": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT satUSD+ (satUSD)",
+      "address": "0xb901c7a2d2bc05d8b7e7ee4f7fcf72caaabd2f49",
+      "symbol": "PT-satUSD+-11SEP2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/e52ad33f-e2a2-4afc-a492-fba8fd1f7cfe.svg",
+      "assetGroup": "PT satUSD+ (satUSD)::PT-satUSD+-11SEP2025",
+      "currencyId": "PT satUSD+ (satUSD)::PT-satUSD+-11SEP2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x74c5050a89046c40296a32aeaed31be89d6a6d87",
+          "expiry": 1757548800,
+          "underlyingAsset": "0x03d9c4e4bc5d3678a9076cac50db0251d8676872",
+          "ytAddress": "0x950490f74db75c60351ccd4468e755d131826672",
+          "syAddress": "0x193b2f36957f7e9e498758bbf182273bc145bb92",
+          "expired": true
+        }
+      }
+    },
+    "0x950490f74db75c60351ccd4468e755d131826672": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YT satUSD+ (satUSD)",
+      "address": "0x950490f74db75c60351ccd4468e755d131826672",
+      "symbol": "YT-satUSD+-11SEP2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/7209fadd-a32c-4821-9e27-ad8ab7f021a8.svg",
+      "assetGroup": "YT satUSD+ (satUSD)::YT-satUSD+-11SEP2025",
+      "currencyId": "YT satUSD+ (satUSD)::YT-satUSD+-11SEP2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x74c5050a89046c40296a32aeaed31be89d6a6d87",
+          "expiry": 1757548800,
+          "underlyingAsset": "0x03d9c4e4bc5d3678a9076cac50db0251d8676872",
+          "ptAddress": "0xb901c7a2d2bc05d8b7e7ee4f7fcf72caaabd2f49",
+          "syAddress": "0x193b2f36957f7e9e498758bbf182273bc145bb92",
+          "expired": true
+        }
+      }
+    },
+    "0x607c834cfb7fcbbb341cbe23f77a6e83bcf3f55c": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT USDe (USDe)",
+      "address": "0x607c834cfb7fcbbb341cbe23f77a6e83bcf3f55c",
+      "symbol": "PT-USDe-30OCT2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/39c9a8b3-f38d-4889-9162-9e2f627dbd5d.svg",
+      "assetGroup": "PT USDe (USDe)::PT-USDe-30OCT2025",
+      "currencyId": "PT USDe (USDe)::PT-USDe-30OCT2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0xb5b56637810e4d090894785993f4cdd6875d927e",
+          "expiry": 1761782400,
+          "underlyingAsset": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+          "ytAddress": "0x35c4668db919ded034f047526765544a92a4da09",
+          "syAddress": "0x5719acdb9abbbc6ba414c9dbff5b2967342f465d"
+        }
+      }
+    },
+    "0x35c4668db919ded034f047526765544a92a4da09": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YT USDe (USDe)",
+      "address": "0x35c4668db919ded034f047526765544a92a4da09",
+      "symbol": "YT-USDe-30OCT2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/23a6f090-803b-4009-9a71-c3299fdd91bb.svg",
+      "assetGroup": "YT USDe (USDe)::YT-USDe-30OCT2025",
+      "currencyId": "YT USDe (USDe)::YT-USDe-30OCT2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0xb5b56637810e4d090894785993f4cdd6875d927e",
+          "expiry": 1761782400,
+          "underlyingAsset": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+          "ptAddress": "0x607c834cfb7fcbbb341cbe23f77a6e83bcf3f55c",
+          "syAddress": "0x5719acdb9abbbc6ba414c9dbff5b2967342f465d"
+        }
+      }
+    },
+    "0x5edcbc20cac67adc2e724d4348ff85132b085b82": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "sigmaSP",
+      "address": "0x5edcbc20cac67adc2e724d4348ff85132b085b82",
+      "symbol": "SY-sigmaSP",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/b18abf94-dc56-4640-829a-e9c74f42a205.svg",
+      "assetGroup": "sigmaSP::SY-sigmaSP",
+      "currencyId": "sigmaSP::SY-sigmaSP",
+      "tags": ["SY"],
+      "props": { "pendle": { "tokenType": "SY" } }
+    },
+    "0x81f363401a49b7821c13d32674e01b303eb9bce7": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT sigmaSP (sigmaSP)",
+      "address": "0x81f363401a49b7821c13d32674e01b303eb9bce7",
+      "symbol": "PT-sigmaSP-25SEP2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/55ce669c-1e6f-4fe4-823d-28a2c4bec58f.svg",
+      "assetGroup": "PT sigmaSP (sigmaSP)::PT-sigmaSP-25SEP2025",
+      "currencyId": "PT sigmaSP (sigmaSP)::PT-sigmaSP-25SEP2025",
+      "tags": ["PT"],
+      "props": { "pendle": { "tokenType": "PT", "expired": true } }
+    },
+    "0x1e3f2a26d2ecfe21fa8c016bfd4b2975e7cef710": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YT sigmaSP (sigmaSP)",
+      "address": "0x1e3f2a26d2ecfe21fa8c016bfd4b2975e7cef710",
+      "symbol": "YT-sigmaSP-25SEP2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/a72a2a97-40c3-4045-a5eb-74f1aab14ddf.svg",
+      "assetGroup": "YT sigmaSP (sigmaSP)::YT-sigmaSP-25SEP2025",
+      "currencyId": "YT sigmaSP (sigmaSP)::YT-sigmaSP-25SEP2025",
+      "tags": ["YT"],
+      "props": { "pendle": { "tokenType": "YT", "expired": true } }
+    },
+    "0x30ccf4bbee313fcd19f3e295b3ba2920a24e2f62": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "sigmaSP",
+      "address": "0x30ccf4bbee313fcd19f3e295b3ba2920a24e2f62",
+      "symbol": "SY-sigmaSP",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/b8fe057e-0bb5-4aba-a865-6936ea9a1f5b.svg",
+      "assetGroup": "sigmaSP::SY-sigmaSP::56::0",
+      "currencyId": "sigmaSP::SY-sigmaSP",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0xdb46d65ac78c11e794517bb6924833a420814bfc",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x2b9c1f069ddcd873275b3363986081bda94a3aa3",
+          "ptAddress": "0x9f96d7ce4fc11111426b69e0668233f3756efbdd",
+          "ytAddress": "0x697e53575cb42271d400446552dd5cd986410237"
+        }
+      }
+    },
+    "0xd76ec0a96eaffe1cca33313352deda1cd3cfa7ee": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT sigmaSP (sigmaSP)",
+      "address": "0xd76ec0a96eaffe1cca33313352deda1cd3cfa7ee",
+      "symbol": "PT-sigmaSP-25SEP2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/a7d4fa35-4e10-4e1d-afac-fe6bb6c3c956.svg",
+      "assetGroup": "PT sigmaSP (sigmaSP)::PT-sigmaSP-25SEP2025::56::0",
+      "currencyId": "PT sigmaSP (sigmaSP)::PT-sigmaSP-25SEP2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x9edac81bac78a2c06b59514d6eb62dd7a57adf21",
+          "expiry": 1758758400,
+          "underlyingAsset": "0x2b9c1f069ddcd873275b3363986081bda94a3aa3",
+          "ytAddress": "0x365e24398c0c0f03ab1c5423d3e665ede408198d",
+          "syAddress": "0x30ccf4bbee313fcd19f3e295b3ba2920a24e2f62",
+          "expired": true
+        }
+      }
+    },
+    "0x365e24398c0c0f03ab1c5423d3e665ede408198d": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YT sigmaSP (sigmaSP)",
+      "address": "0x365e24398c0c0f03ab1c5423d3e665ede408198d",
+      "symbol": "YT-sigmaSP-25SEP2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/bfdb3203-f3df-453a-853c-e78c88542ab5.svg",
+      "assetGroup": "YT sigmaSP (sigmaSP)::YT-sigmaSP-25SEP2025::56::0",
+      "currencyId": "YT sigmaSP (sigmaSP)::YT-sigmaSP-25SEP2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x9edac81bac78a2c06b59514d6eb62dd7a57adf21",
+          "expiry": 1758758400,
+          "underlyingAsset": "0x2b9c1f069ddcd873275b3363986081bda94a3aa3",
+          "ptAddress": "0xd76ec0a96eaffe1cca33313352deda1cd3cfa7ee",
+          "syAddress": "0x30ccf4bbee313fcd19f3e295b3ba2920a24e2f62",
+          "expired": true
+        }
+      }
+    },
+    "0xd5cee155593f7a5da4db3181e8af6a37e73f6c8f": {
+      "chainId": "56",
+      "decimals": 8,
+      "name": "PT uniBTC (uniBTC)",
+      "address": "0xd5cee155593f7a5da4db3181e8af6a37e73f6c8f",
+      "symbol": "PT-uniBTC-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/b36bbe43-c1b8-4bca-b7cb-08ad887485c9.svg",
+      "assetGroup": "PT uniBTC (uniBTC)::PT-uniBTC-18DEC2025",
+      "currencyId": "PT uniBTC (uniBTC)::PT-uniBTC-18DEC2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0xe4bb20d7fc50b5633896f5ea9a17758e8bc82eaf",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x6b2a01a5f79deb4c2f3c0eda7b01df456fbd726a",
+          "ytAddress": "0x435cf5ca8394e553e56d5bb334a5cd14243b6dcc",
+          "syAddress": "0x09f317b127bcc9d16f5dd17cadbeda9d034c0f8c"
+        }
+      }
+    },
+    "0x435cf5ca8394e553e56d5bb334a5cd14243b6dcc": {
+      "chainId": "56",
+      "decimals": 8,
+      "name": "YT uniBTC (uniBTC)",
+      "address": "0x435cf5ca8394e553e56d5bb334a5cd14243b6dcc",
+      "symbol": "YT-uniBTC-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/0956525f-b79f-49a6-8d2a-64f59eed6ee4.svg",
+      "assetGroup": "YT uniBTC (uniBTC)::YT-uniBTC-18DEC2025",
+      "currencyId": "YT uniBTC (uniBTC)::YT-uniBTC-18DEC2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0xe4bb20d7fc50b5633896f5ea9a17758e8bc82eaf",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x6b2a01a5f79deb4c2f3c0eda7b01df456fbd726a",
+          "ptAddress": "0xd5cee155593f7a5da4db3181e8af6a37e73f6c8f",
+          "syAddress": "0x09f317b127bcc9d16f5dd17cadbeda9d034c0f8c"
+        }
+      }
+    },
+    "0x31e88bf4ac49eef6711756d141f1a63e78f9f665": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT satUSD+ (satUSD)",
+      "address": "0x31e88bf4ac49eef6711756d141f1a63e78f9f665",
+      "symbol": "PT-satUSD+-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/e52ad33f-e2a2-4afc-a492-fba8fd1f7cfe.svg",
+      "assetGroup": "PT satUSD+ (satUSD)::PT-satUSD+-18DEC2025",
+      "currencyId": "PT satUSD+ (satUSD)::PT-satUSD+-18DEC2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0xdb69ed950cbe21baaec158506c090f6d945a163a",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x03d9c4e4bc5d3678a9076cac50db0251d8676872",
+          "ytAddress": "0x8023e1196e8988a9eb9b0f45cd4fce40307b41c8",
+          "syAddress": "0x193b2f36957f7e9e498758bbf182273bc145bb92"
+        }
+      }
+    },
+    "0x8023e1196e8988a9eb9b0f45cd4fce40307b41c8": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YT satUSD+ (satUSD)",
+      "address": "0x8023e1196e8988a9eb9b0f45cd4fce40307b41c8",
+      "symbol": "YT-satUSD+-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/7209fadd-a32c-4821-9e27-ad8ab7f021a8.svg",
+      "assetGroup": "YT satUSD+ (satUSD)::YT-satUSD+-18DEC2025",
+      "currencyId": "YT satUSD+ (satUSD)::YT-satUSD+-18DEC2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0xdb69ed950cbe21baaec158506c090f6d945a163a",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x03d9c4e4bc5d3678a9076cac50db0251d8676872",
+          "ptAddress": "0x31e88bf4ac49eef6711756d141f1a63e78f9f665",
+          "syAddress": "0x193b2f36957f7e9e498758bbf182273bc145bb92"
+        }
+      }
+    },
+    "0x66a2a3d068fa8bb786eed331e51782597d8f961e": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT sUSDX (USDX)",
+      "address": "0x66a2a3d068fa8bb786eed331e51782597d8f961e",
+      "symbol": "PT-sUSDX-26MAR2026",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/ede8e258-479b-4705-a98b-5c506ffd3832.svg",
+      "assetGroup": "PT sUSDX (USDX)::PT-sUSDX-26MAR2026",
+      "currencyId": "PT sUSDX (USDX)::PT-sUSDX-26MAR2026",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0xd765fd428ce4bbb79054e4a6d6e837475b9284c2",
+          "expiry": 1774483200,
+          "underlyingAsset": "0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92",
+          "ytAddress": "0x3d8a5d0e4430a77b8f4709969a59acafab0a10ae",
+          "syAddress": "0x5b4918e997b9f6e09309d297ab44f2433245b8a3"
+        }
+      }
+    },
+    "0x3d8a5d0e4430a77b8f4709969a59acafab0a10ae": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YT sUSDX (USDX)",
+      "address": "0x3d8a5d0e4430a77b8f4709969a59acafab0a10ae",
+      "symbol": "YT-sUSDX-26MAR2026",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/a1ce5a74-9169-4fcd-9adf-892127c64cf6.svg",
+      "assetGroup": "YT sUSDX (USDX)::YT-sUSDX-26MAR2026",
+      "currencyId": "YT sUSDX (USDX)::YT-sUSDX-26MAR2026",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0xd765fd428ce4bbb79054e4a6d6e837475b9284c2",
+          "expiry": 1774483200,
+          "underlyingAsset": "0x7788a3538c5fc7f9c7c8a74eac4c898fc8d87d92",
+          "ptAddress": "0x66a2a3d068fa8bb786eed331e51782597d8f961e",
+          "syAddress": "0x5b4918e997b9f6e09309d297ab44f2433245b8a3"
+        }
+      }
+    },
+    "0x9f96d7ce4fc11111426b69e0668233f3756efbdd": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT sigmaSP (sigmaSP)",
+      "address": "0x9f96d7ce4fc11111426b69e0668233f3756efbdd",
+      "symbol": "PT-sigmaSP-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/a7d4fa35-4e10-4e1d-afac-fe6bb6c3c956.svg",
+      "assetGroup": "PT sigmaSP (sigmaSP)::PT-sigmaSP-18DEC2025",
+      "currencyId": "PT sigmaSP (sigmaSP)::PT-sigmaSP-18DEC2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0xdb46d65ac78c11e794517bb6924833a420814bfc",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x2b9c1f069ddcd873275b3363986081bda94a3aa3",
+          "ytAddress": "0x697e53575cb42271d400446552dd5cd986410237",
+          "syAddress": "0x30ccf4bbee313fcd19f3e295b3ba2920a24e2f62"
+        }
+      }
+    },
+    "0x697e53575cb42271d400446552dd5cd986410237": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YT sigmaSP (sigmaSP)",
+      "address": "0x697e53575cb42271d400446552dd5cd986410237",
+      "symbol": "YT-sigmaSP-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/bfdb3203-f3df-453a-853c-e78c88542ab5.svg",
+      "assetGroup": "YT sigmaSP (sigmaSP)::YT-sigmaSP-18DEC2025",
+      "currencyId": "YT sigmaSP (sigmaSP)::YT-sigmaSP-18DEC2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0xdb46d65ac78c11e794517bb6924833a420814bfc",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x2b9c1f069ddcd873275b3363986081bda94a3aa3",
+          "ptAddress": "0x9f96d7ce4fc11111426b69e0668233f3756efbdd",
+          "syAddress": "0x30ccf4bbee313fcd19f3e295b3ba2920a24e2f62"
+        }
+      }
+    },
+    "0xe052823b4aefc6e230faf46231a57d0905e30ae0": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT slisBNB (BNB)",
+      "address": "0xe052823b4aefc6e230faf46231a57d0905e30ae0",
+      "symbol": "PT-clisBNB-25JUN2026",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/609a2f5a-d97e-4015-b1c9-f93893e94620.svg",
+      "assetGroup": "PT slisBNB (BNB)::PT-clisBNB-25JUN2026",
+      "currencyId": "PT slisBNB (BNB)::PT-clisBNB-25JUN2026",
+      "tags": ["PT"],
+      "props": { "pendle": { "tokenType": "PT" } }
+    },
+    "0xc08e81a01cfdcf0e68ebc0441c9bb8cce36aa25c": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "YT slisBNB (BNB)",
+      "address": "0xc08e81a01cfdcf0e68ebc0441c9bb8cce36aa25c",
+      "symbol": "YT-clisBNB-25JUN2026",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/2070af40-80a4-4104-8127-4808a0aa4bc2.svg",
+      "assetGroup": "YT slisBNB (BNB)::YT-clisBNB-25JUN2026",
+      "currencyId": "YT slisBNB (BNB)::YT-clisBNB-25JUN2026",
+      "tags": ["YT"],
+      "props": { "pendle": { "tokenType": "YT" } }
+    },
     "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c": {
       "chainId": "56",
       "decimals": 18,
@@ -48935,44 +50649,6 @@
       "currencyId": "Evolve PRO::EVOP",
       "tags": ["coingecko"]
     },
-    "0xe8f1c9804770e11ab73395be54686ad656601e9e": {
-      "chainId": "56",
-      "decimals": 18,
-      "name": "PT Lista collateral BNB 24APR2025",
-      "address": "0xe8f1c9804770e11ab73395be54686ad656601e9e",
-      "symbol": "PT-clisBNB-24APR2025",
-      "assetGroup": "PT Lista collateral BNB 24APR2025::PT-clisBNB-24APR2025",
-      "currencyId": "PT Lista collateral BNB 24APR2025::PT-clisBNB-24APR2025",
-      "tags": ["PENDLE-PT", "VENUS_BNB"],
-      "props": {
-        "pendle": {
-          "tokenType": "PT",
-          "marketAddress": "0x1d9d27f0b89181cf1593ac2b36a37b444eb66bee",
-          "syAddress": "0x27faf900007b4cba7803000251ec96bc69ff1bea",
-          "expiry": 1745452800,
-          "ytAddress": "0x44264c7be2d92f010b20b29c4531fc09381c56f3"
-        }
-      }
-    },
-    "0x541b5eeac7d4434c8f87e2d32019d67611179606": {
-      "chainId": "56",
-      "decimals": 18,
-      "name": "PT SolvBTC Babylon 27MAR2025",
-      "address": "0x541b5eeac7d4434c8f87e2d32019d67611179606",
-      "symbol": "PT-SolvBTC.BBN-27MAR2025",
-      "assetGroup": "PT SolvBTC Babylon 27MAR2025::PT-SolvBTC.BBN-27MAR2025",
-      "currencyId": "PT SolvBTC Babylon 27MAR2025::PT-SolvBTC.BBN-27MAR2025",
-      "tags": ["PENDLE-PT", "AVALON_SOLVBTC", "VENUS_BTC"],
-      "props": {
-        "pendle": {
-          "tokenType": "PT",
-          "marketAddress": "0x9daa2878a8739e66e08e7ad35316c5143c0ea7c7",
-          "syAddress": "0x141ec2d606f12ff959d7d07cde6811e5fdff2831",
-          "expiry": 1743033600,
-          "ytAddress": "0x7914d72c9e9ca7f6bfdd09fc7e3f20d7bc3fb8a0"
-        }
-      }
-    },
     "0x20bff4bbeda07536ff00e073bd8359e5d80d733d": {
       "chainId": "56",
       "decimals": 18,
@@ -48982,25 +50658,6 @@
       "assetGroup": "Cannon::CAN",
       "currencyId": "Cannon::CAN",
       "tags": ["VENUS"]
-    },
-    "0xdd809435ba6c9d6903730f923038801781ca66ce": {
-      "chainId": "56",
-      "decimals": 18,
-      "name": "PT Ethena sUSDE 26JUN2025",
-      "address": "0xdd809435ba6c9d6903730f923038801781ca66ce",
-      "symbol": "PT-sUSDE-26JUN2025",
-      "assetGroup": "PT Ethena sUSDE 26JUN2025::PT-sUSDE-26JUN2025",
-      "currencyId": "PT Ethena sUSDE 26JUN2025::PT-sUSDE-26JUN2025",
-      "tags": ["PENDLE-PT", "VENUS"],
-      "props": {
-        "pendle": {
-          "tokenType": "PT",
-          "marketAddress": "0x8557d39d4bab2b045ac5c2b7ea66d12139da9af4",
-          "syAddress": "0xf2810f8ec028576354c4388d8b347ac1921c63a2",
-          "expiry": 1750896000,
-          "ytAddress": "0x55b106c8b7c23caf60db956dda41a59329afd1c2"
-        }
-      }
     },
     "0xeeaa03ed0aa69fcb6e340d47ffa91a0b3426e1cd": {
       "chainId": "56",
@@ -52055,7 +53712,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x6CFfFa5bFD4277a04D83307fEedFe2D18D944DD2.png",
       "assetGroup": "Aleo::ALEO",
       "currencyId": "Aleo::ALEO",
-      "tags": ["biconomy-gas-token"]
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x40b8129b786d766267a7a118cf8c07e31cdb6fde": {
       "chainId": "56",
@@ -52814,7 +54471,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69536/thumb/20250924_144051.jpg?1758955711",
       "assetGroup": "Lendr::RWAL",
       "currencyId": "Lendr::RWAL",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0xfb40a811fb2568de9709476c09935a6a0dafa6aa": {
       "chainId": "56",
@@ -53261,7 +54918,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69670/thumb/strikebit.png?1759244567",
       "assetGroup": "StrikeBit AI::STRIKE",
       "currencyId": "StrikeBit AI::STRIKE",
-      "tags": ["coingecko"]
+      "tags": ["coingecko", "biconomy-gas-token"]
     },
     "0x9d5a383581882750ce27f84c72f017b378edb736": {
       "chainId": "56",
@@ -53283,6 +54940,742 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69601/thumb/evaa.png?1759214696",
       "assetGroup": "EVAA Protocol::EVAA",
       "currencyId": "EVAA Protocol::EVAA",
+      "tags": ["coingecko", "biconomy-gas-token"]
+    },
+    "0x0a43fc31a73013089df59194872ecae4cae14444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "4",
+      "address": "0x0a43fc31a73013089df59194872ecae4cae14444",
+      "symbol": "4",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x0A43fC31a73013089DF59194872Ecae4cAe14444.png",
+      "assetGroup": "4::4",
+      "currencyId": "4::4",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x810df4c7daf4ee06ae7c621d0680e73a505c9a06": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PoP Planet",
+      "address": "0x810df4c7daf4ee06ae7c621d0680e73a505c9a06",
+      "symbol": "P",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x810DF4c7Daf4eE06AE7c621D0680E73a505C9A06.png",
+      "assetGroup": "PoP Planet::P",
+      "currencyId": "PoP Planet::P",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x7997fc068fc3803dc35f0ae99ab61ba0b272165e": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "WABA Token",
+      "address": "0x7997fc068fc3803dc35f0ae99ab61ba0b272165e",
+      "symbol": "WABA",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x7997FC068FC3803DC35f0Ae99ab61ba0b272165e.png",
+      "assetGroup": "WABA Token::WABA",
+      "currencyId": "WABA Token::WABA",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x302dfaf2cdbe51a18d97186a7384e87cf599877d": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Everlyn Token",
+      "address": "0x302dfaf2cdbe51a18d97186a7384e87cf599877d",
+      "symbol": "LYN",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x302DFaF2CDbE51a18d97186A7384e87CF599877D.png",
+      "assetGroup": "Everlyn Token::LYN",
+      "currencyId": "Everlyn Token::LYN",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xf3d5b4c34ed623478cc5141861776e6cf7ae3a1e": {
+      "chainId": "56",
+      "decimals": 8,
+      "name": "KGEN",
+      "address": "0xf3d5b4c34ed623478cc5141861776e6cf7ae3a1e",
+      "symbol": "KGEN",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xF3d5b4c34Ed623478cc5141861776E6cf7AE3A1E.png",
+      "assetGroup": "KGEN::KGEN",
+      "currencyId": "KGEN::KGEN",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x924fa68a0fc644485b8df8abfa0a41c2e7744444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "币安人生",
+      "address": "0x924fa68a0fc644485b8df8abfa0a41c2e7744444",
+      "symbol": "币安人生",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x924fa68a0FC644485b8df8AbfA0A41C2e7744444.png",
+      "assetGroup": "币安人生::币安人生",
+      "currencyId": "币安人生::币安人生",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x02e75d28a8aa2a0033b8cf866fcf0bb0e1ee4444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Palu",
+      "address": "0x02e75d28a8aa2a0033b8cf866fcf0bb0e1ee4444",
+      "symbol": "PALU",
+      "logoURI": "https://assets.coingecko.com/coins/images/69847/thumb/palu.png?1759825177",
+      "assetGroup": "Palu::PALU",
+      "currencyId": "Palu::PALU",
+      "tags": ["coingecko"]
+    },
+    "0x78525f54e46d2821ec59bfae27201058881b4444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Bulls",
+      "address": "0x78525f54e46d2821ec59bfae27201058881b4444",
+      "symbol": "BULLS",
+      "logoURI": "https://assets.coingecko.com/coins/images/69939/thumb/bulls.png?1760094454",
+      "assetGroup": "Bulls::BULLS",
+      "currencyId": "Bulls::BULLS",
+      "tags": ["coingecko"]
+    },
+    "0x1224721fe8b31ac9d5d55ced8e0b12a573de4444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Namimoto Token",
+      "address": "0x1224721fe8b31ac9d5d55ced8e0b12a573de4444",
+      "symbol": "NAMT",
+      "logoURI": "https://assets.coingecko.com/coins/images/69854/thumb/nam_logo_%281%29.png?1759846732",
+      "assetGroup": "Namimoto Token::NAMT",
+      "currencyId": "Namimoto Token::NAMT",
+      "tags": ["coingecko"]
+    },
+    "0x18e596bcefdd0ff9dc8c50d0b9d329ea770d5ef1": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "BTS Chain",
+      "address": "0x18e596bcefdd0ff9dc8c50d0b9d329ea770d5ef1",
+      "symbol": "BTSC",
+      "logoURI": "https://assets.coingecko.com/coins/images/19386/thumb/mDVn3lgM_400x400.jpg?1696518826",
+      "assetGroup": "BTS Chain::BTSC",
+      "currencyId": "BTS Chain::BTSC",
+      "tags": ["coingecko"]
+    },
+    "0xd60af69c2158c102a8912d43d45fac02546d4444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Asteroid Bot",
+      "address": "0xd60af69c2158c102a8912d43d45fac02546d4444",
+      "symbol": "ASTEROIDBOT",
+      "logoURI": "https://assets.coingecko.com/coins/images/69823/thumb/Asteroid_logo_blackBG.png?1759763991",
+      "assetGroup": "Asteroid Bot::ASTEROIDBOT",
+      "currencyId": "Asteroid Bot::ASTEROIDBOT",
+      "tags": ["coingecko"]
+    },
+    "0xabfd54934ca4535afa589346bf7938b8ce3f4444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Yellow Shib",
+      "address": "0xabfd54934ca4535afa589346bf7938b8ce3f4444",
+      "symbol": "SHIBY",
+      "logoURI": "https://assets.coingecko.com/coins/images/69824/thumb/photo_2025-10-05_18-32-43.jpg?1759764392",
+      "assetGroup": "Yellow Shib::SHIBY",
+      "currencyId": "Yellow Shib::SHIBY",
+      "tags": ["coingecko"]
+    },
+    "0x0c5429e9dd1362bfb55c31c01b7f0f38f5f64444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Binance Yellow Robot",
+      "address": "0x0c5429e9dd1362bfb55c31c01b7f0f38f5f64444",
+      "symbol": "BINA",
+      "logoURI": "https://assets.coingecko.com/coins/images/69849/thumb/bina.png?1759840117",
+      "assetGroup": "Binance Yellow Robot::BINA",
+      "currencyId": "Binance Yellow Robot::BINA",
+      "tags": ["coingecko"]
+    },
+    "0x4f0a3bb884ac105d5e9f5ece437b05fc9a374444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Send It",
+      "address": "0x4f0a3bb884ac105d5e9f5ece437b05fc9a374444",
+      "symbol": "SENDIT",
+      "logoURI": "https://assets.coingecko.com/coins/images/69850/thumb/output-onlinepngtools_%289%29.png?1759843385",
+      "assetGroup": "Send It::SENDIT",
+      "currencyId": "Send It::SENDIT",
+      "tags": ["coingecko"]
+    },
+    "0xbb6b75ad7ab30a172e7b5ce46ef2fcf299d14219": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "AXIOMA TOKEN",
+      "address": "0xbb6b75ad7ab30a172e7b5ce46ef2fcf299d14219",
+      "symbol": "AXT",
+      "logoURI": "https://assets.coingecko.com/coins/images/69789/thumb/WhatsApp_Image_2025-10-03_at_8.14.38_PM.jpeg?1759653593",
+      "assetGroup": "AXIOMA TOKEN::AXT",
+      "currencyId": "AXIOMA TOKEN::AXT",
+      "tags": ["coingecko"]
+    },
+    "0x2e8138054d64917703af28d81629499318a047fa": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "ApexToken",
+      "address": "0x2e8138054d64917703af28d81629499318a047fa",
+      "symbol": "APX",
+      "logoURI": "https://assets.coingecko.com/coins/images/69792/thumb/image_%281%29.png?1759655531",
+      "assetGroup": "ApexToken::APX",
+      "currencyId": "ApexToken::APX",
+      "tags": ["coingecko"]
+    },
+    "0x593964358e7a1f4aa29e3c371e2148d18a6e4444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Uptober",
+      "address": "0x593964358e7a1f4aa29e3c371e2148d18a6e4444",
+      "symbol": "UPTOBER",
+      "logoURI": "https://assets.coingecko.com/coins/images/69795/thumb/bbab4lqtft1510m6zxo4rqq1myef.?1759656782",
+      "assetGroup": "Uptober::UPTOBER::56::0",
+      "currencyId": "Uptober::UPTOBER",
+      "tags": ["coingecko"]
+    },
+    "0xe9e3d8609e50c333b7e8fafb1a06f5443cb64444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Yellow Pepe",
+      "address": "0xe9e3d8609e50c333b7e8fafb1a06f5443cb64444",
+      "symbol": "YEPE",
+      "logoURI": "https://assets.coingecko.com/coins/images/69800/thumb/yepe-logo.jpg?1759657796",
+      "assetGroup": "Yellow Pepe::YEPE",
+      "currencyId": "Yellow Pepe::YEPE",
+      "tags": ["coingecko"]
+    },
+    "0xc6babab7068bd5eddd18941841f4d663bbc0a916": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "SQUAD Strategy",
+      "address": "0xc6babab7068bd5eddd18941841f4d663bbc0a916",
+      "symbol": "SQUADSTR",
+      "logoURI": "https://assets.coingecko.com/coins/images/69853/thumb/SquadStrategy_Profile.png?1759844546",
+      "assetGroup": "SQUAD Strategy::SQUADSTR",
+      "currencyId": "SQUAD Strategy::SQUADSTR",
+      "tags": ["coingecko"]
+    },
+    "0x76e9b54b49739837be8ad10c3687fc6b543de852": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Klink Finance",
+      "address": "0x76e9b54b49739837be8ad10c3687fc6b543de852",
+      "symbol": "KLINK",
+      "logoURI": "https://assets.coingecko.com/coins/images/54192/thumb/CMC_Logo.png?1738722266",
+      "assetGroup": "Klink Finance::KLINK::56::0",
+      "currencyId": "Klink Finance::KLINK",
+      "tags": ["coingecko"]
+    },
+    "0x3b2b271e7736db0f47ae4fb0c408c0c943d34444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "destable coin",
+      "address": "0x3b2b271e7736db0f47ae4fb0c408c0c943d34444",
+      "symbol": "DESTABLE",
+      "logoURI": "https://assets.coingecko.com/coins/images/69855/thumb/destable.jpg?1759846896",
+      "assetGroup": "destable coin::DESTABLE",
+      "currencyId": "destable coin::DESTABLE",
+      "tags": ["coingecko"]
+    },
+    "0x31bacbd9c4f9dcc5bc7b59ba3a3b0ee5bee34444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Fight For Justice",
+      "address": "0x31bacbd9c4f9dcc5bc7b59ba3a3b0ee5bee34444",
+      "symbol": "FFJ",
+      "logoURI": "https://assets.coingecko.com/coins/images/69856/thumb/cz-up.png?1759847894",
+      "assetGroup": "Fight For Justice::FFJ",
+      "currencyId": "Fight For Justice::FFJ",
+      "tags": ["coingecko"]
+    },
+    "0x29a4ccfe144a28d36f77f713b3a192fb44e25f12": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "VCHAT Token",
+      "address": "0x29a4ccfe144a28d36f77f713b3a192fb44e25f12",
+      "symbol": "VCT",
+      "logoURI": "https://assets.coingecko.com/coins/images/68976/thumb/VCHAT_Token.jpg?1757139088",
+      "assetGroup": "VCHAT Token::VCT::56::0",
+      "currencyId": "VCHAT Token::VCT",
+      "tags": ["coingecko"]
+    },
+    "0xdf68a4a2bfab8e675dcef97eb97cbcb02ea54444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "BNTOBER",
+      "address": "0xdf68a4a2bfab8e675dcef97eb97cbcb02ea54444",
+      "symbol": "BNTOBER",
+      "logoURI": "https://assets.coingecko.com/coins/images/69861/thumb/IMG_2531.jpeg?1759852663",
+      "assetGroup": "BNTOBER::BNTOBER",
+      "currencyId": "BNTOBER::BNTOBER",
+      "tags": ["coingecko"]
+    },
+    "0x8a063a9ff4de28dcb87117cc759be6ce70e09f81": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Slimex",
+      "address": "0x8a063a9ff4de28dcb87117cc759be6ce70e09f81",
+      "symbol": "SLX",
+      "logoURI": "https://assets.coingecko.com/coins/images/69852/thumb/slx.png?1759844406",
+      "assetGroup": "Slimex::SLX",
+      "currencyId": "Slimex::SLX",
+      "tags": ["coingecko"]
+    },
+    "0x06e08a9bfb83e0e791cd1f24535ada4fa4094444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Animus",
+      "address": "0x06e08a9bfb83e0e791cd1f24535ada4fa4094444",
+      "symbol": "ANIMUS",
+      "logoURI": "https://assets.coingecko.com/coins/images/69868/thumb/Alpha.png?1759905451",
+      "assetGroup": "Animus::ANIMUS",
+      "currencyId": "Animus::ANIMUS",
+      "tags": ["coingecko"]
+    },
+    "0xa890f8ba60051ec8a5b528f056da362ba208a96f": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Griffin AI",
+      "address": "0xa890f8ba60051ec8a5b528f056da362ba208a96f",
+      "symbol": "GAIN",
+      "logoURI": "https://assets.coingecko.com/coins/images/69923/thumb/gain.png?1760032447",
+      "assetGroup": "Griffin AI::GAIN::56::0",
+      "currencyId": "Griffin AI::GAIN",
+      "tags": ["coingecko"]
+    },
+    "0xe77223430bfb8e497a3c8e126cb5ad5275934444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "1",
+      "address": "0xe77223430bfb8e497a3c8e126cb5ad5275934444",
+      "symbol": "1",
+      "logoURI": "https://assets.coingecko.com/coins/images/69772/thumb/1_logo_new.png?1759648867",
+      "assetGroup": "1::1",
+      "currencyId": "1::1",
+      "tags": ["coingecko"]
+    },
+    "0x977c4f40742daca3f1a4c11b44938fc12d714444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "2",
+      "address": "0x977c4f40742daca3f1a4c11b44938fc12d714444",
+      "symbol": "2",
+      "logoURI": "https://assets.coingecko.com/coins/images/69773/thumb/1000005024.jpg?1759561618",
+      "assetGroup": "2::2",
+      "currencyId": "2::2",
+      "tags": ["coingecko"]
+    },
+    "0xb3eb140b4183bd155eb6d3e62a28758ad8a04444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Capybara LULU",
+      "address": "0xb3eb140b4183bd155eb6d3e62a28758ad8a04444",
+      "symbol": "LULU",
+      "logoURI": "https://assets.coingecko.com/coins/images/69776/thumb/lulu-logo.jpg?1759562448",
+      "assetGroup": "Capybara LULU::LULU",
+      "currencyId": "Capybara LULU::LULU",
+      "tags": ["coingecko"]
+    },
+    "0x73b84f7e3901f39fc29f3704a03126d317ab4444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PUP",
+      "address": "0x73b84f7e3901f39fc29f3704a03126d317ab4444",
+      "symbol": "PUP",
+      "logoURI": "https://assets.coingecko.com/coins/images/69777/thumb/pup-logo.jpeg?1759579798",
+      "assetGroup": "PUP::PUP",
+      "currencyId": "PUP::PUP",
+      "tags": ["coingecko"]
+    },
+    "0x40af8fd127dcd302d7ffa6f37cf5a002e54ac68c": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Concilium",
+      "address": "0x40af8fd127dcd302d7ffa6f37cf5a002e54ac68c",
+      "symbol": "CONCILIUM",
+      "logoURI": "https://assets.coingecko.com/coins/images/69743/thumb/hpool_%2875%29.png?1759479468",
+      "assetGroup": "Concilium::CONCILIUM",
+      "currencyId": "Concilium::CONCILIUM",
+      "tags": ["coingecko"]
+    },
+    "0xe815f6941d19d1e20b0e1f92471c6143809f4444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Baby 4",
+      "address": "0xe815f6941d19d1e20b0e1f92471c6143809f4444",
+      "symbol": "BABY4",
+      "logoURI": "https://assets.coingecko.com/coins/images/69761/thumb/1000450911.jpg?1759501478",
+      "assetGroup": "Baby 4::BABY4",
+      "currencyId": "Baby 4::BABY4",
+      "tags": ["coingecko"]
+    },
+    "0x2036a6ea0371dc8e88b5dfd5c2adc373e76c4444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "赵长娥",
+      "address": "0x2036a6ea0371dc8e88b5dfd5c2adc373e76c4444",
+      "symbol": "赵长娥",
+      "logoURI": "https://assets.coingecko.com/coins/images/69803/thumb/cz.jpg?1759727994",
+      "assetGroup": "赵长娥::赵长娥",
+      "currencyId": "赵长娥::赵长娥",
+      "tags": ["coingecko"]
+    },
+    "0x671f8c6d387b0291fd1b24e93dd9599225a6aea7": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "SpinNFT",
+      "address": "0x671f8c6d387b0291fd1b24e93dd9599225a6aea7",
+      "symbol": "SPIN",
+      "logoURI": "https://assets.coingecko.com/coins/images/69804/thumb/Logo_Spin_Industry_Final_%28200x200%29.png?1759728934",
+      "assetGroup": "SpinNFT::SPIN",
+      "currencyId": "SpinNFT::SPIN",
+      "tags": ["coingecko"]
+    },
+    "0x77d689c28b9a1661aa75451dcee6d3d3c0264444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "HODL",
+      "address": "0x77d689c28b9a1661aa75451dcee6d3d3c0264444",
+      "symbol": "HODL",
+      "logoURI": "https://assets.coingecko.com/coins/images/69810/thumb/photo_2025-10-05_02.47.07.png?1759730830",
+      "assetGroup": "HODL::HODL::56::1",
+      "currencyId": "HODL::HODL",
+      "tags": ["coingecko"]
+    },
+    "0x3a89ff5a692cbb4a726a4d58253cbbbca9914444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Santacoin",
+      "address": "0x3a89ff5a692cbb4a726a4d58253cbbbca9914444",
+      "symbol": "SANTA",
+      "logoURI": "https://assets.coingecko.com/coins/images/69871/thumb/Santacoin_logo.png?1759916915",
+      "assetGroup": "Santacoin::SANTA",
+      "currencyId": "Santacoin::SANTA",
+      "tags": ["coingecko"]
+    },
+    "0x1d62584d38d26519ea509ee0668e4df25d164444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "ZIBA",
+      "address": "0x1d62584d38d26519ea509ee0668e4df25d164444",
+      "symbol": "ZIB",
+      "logoURI": "https://assets.coingecko.com/coins/images/69872/thumb/IMG-20250919-WA0000.jpg?1759917203",
+      "assetGroup": "ZIBA::ZIB",
+      "currencyId": "ZIBA::ZIB",
+      "tags": ["coingecko"]
+    },
+    "0x5119b761c43ee153b5464d83fda4361512f15835": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Yellow BNB 4",
+      "address": "0x5119b761c43ee153b5464d83fda4361512f15835",
+      "symbol": "YBNB",
+      "logoURI": "https://assets.coingecko.com/coins/images/69886/thumb/ChatGPT_Image_Oct_5__2025__06_28_15_PM.png?1759941112",
+      "assetGroup": "Yellow BNB 4::YBNB",
+      "currencyId": "Yellow BNB 4::YBNB",
+      "tags": ["coingecko"]
+    },
+    "0x3ac8e2c113d5d7824ac6ebe82a3c60b1b9d64444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "客服小何 (Customer Service Xiao He)",
+      "address": "0x3ac8e2c113d5d7824ac6ebe82a3c60b1b9d64444",
+      "symbol": "客服小何",
+      "logoURI": "https://assets.coingecko.com/coins/images/69891/thumb/hdi60crc1liyfzb850w98x4pcywf.?1759958482",
+      "assetGroup": "客服小何 (Customer Service Xiao He)::客服小何",
+      "currencyId": "客服小何 (Customer Service Xiao He)::客服小何",
+      "tags": ["coingecko"]
+    },
+    "0xd0593df7a9a99ae03b46437c5f20c339bc02fc37": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "Baby Aster",
+      "address": "0xd0593df7a9a99ae03b46437c5f20c339bc02fc37",
+      "symbol": "BABYASTER",
+      "logoURI": "https://assets.coingecko.com/coins/images/69888/thumb/babyaster.jpg?1759958080",
+      "assetGroup": "Baby Aster::BABYASTER",
+      "currencyId": "Baby Aster::BABYASTER",
+      "tags": ["coingecko"]
+    },
+    "0x6331bf8d601f0d7f0d2101772af5137c418c4444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Binance Super Cycle",
+      "address": "0x6331bf8d601f0d7f0d2101772af5137c418c4444",
+      "symbol": "BSC",
+      "assetGroup": "Binance Super Cycle::BSC",
+      "currencyId": "Binance Super Cycle::BSC",
+      "tags": ["coingecko"]
+    },
+    "0x4e8cdadcd5d62420584a860ded4236af787d4444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Czlu",
+      "address": "0x4e8cdadcd5d62420584a860ded4236af787d4444",
+      "symbol": "CZLU",
+      "logoURI": "https://assets.coingecko.com/coins/images/69892/thumb/czlu-mascot-1.png?1760075376",
+      "assetGroup": "Czlu::CZLU",
+      "currencyId": "Czlu::CZLU",
+      "tags": ["coingecko"]
+    },
+    "0x7e4dab87cbd6307e8833cc5c540ee151c6db4f42": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Belgian Malinois",
+      "address": "0x7e4dab87cbd6307e8833cc5c540ee151c6db4f42",
+      "symbol": "BELG",
+      "logoURI": "https://assets.coingecko.com/coins/images/69893/thumb/occum7qjrg9qi8cfg2afcm1x81k7.?1759958840",
+      "assetGroup": "Belgian Malinois::BELG",
+      "currencyId": "Belgian Malinois::BELG",
+      "tags": ["coingecko"]
+    },
+    "0xa1658064de3ec6bc7ef0934f505676b4fdb44444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "WISHDOG",
+      "address": "0xa1658064de3ec6bc7ef0934f505676b4fdb44444",
+      "symbol": "WISHDOG",
+      "logoURI": "https://assets.coingecko.com/coins/images/69894/thumb/wish.jpg?1759958990",
+      "assetGroup": "WISHDOG::WISHDOG",
+      "currencyId": "WISHDOG::WISHDOG",
+      "tags": ["coingecko"]
+    },
+    "0xb77a1bd00d9c7ff5e15d70c7f78e4b80e18e4444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "財務自由 (Financial Freedom)",
+      "address": "0xb77a1bd00d9c7ff5e15d70c7f78e4b80e18e4444",
+      "symbol": "財務自由",
+      "logoURI": "https://assets.coingecko.com/coins/images/69887/thumb/fd.png?1759944505",
+      "assetGroup": "財務自由 (Financial Freedom)::財務自由",
+      "currencyId": "財務自由 (Financial Freedom)::財務自由",
+      "tags": ["coingecko"]
+    },
+    "0x3f2b10f3327ea2337c524eef23f4cd61bc364444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Funds are SAFU",
+      "address": "0x3f2b10f3327ea2337c524eef23f4cd61bc364444",
+      "symbol": "SAFU",
+      "logoURI": "https://assets.coingecko.com/coins/images/69895/thumb/safu.jpg?1759959104",
+      "assetGroup": "Funds are SAFU::SAFU",
+      "currencyId": "Funds are SAFU::SAFU",
+      "tags": ["coingecko"]
+    },
+    "0x136acf349e28936489742f0d031f6271239ff63c": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "NiHao Coin",
+      "address": "0x136acf349e28936489742f0d031f6271239ff63c",
+      "symbol": "NIHAO",
+      "logoURI": "https://assets.coingecko.com/coins/images/69927/thumb/lEqnkd_W_400x400.jpg?1760046555",
+      "assetGroup": "NiHao Coin::NIHAO",
+      "currencyId": "NiHao Coin::NIHAO",
+      "tags": ["coingecko"]
+    },
+    "0xf368b32764a4b9e58cf6da67bb454f7809bc4444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "just buy 1bnb",
+      "address": "0xf368b32764a4b9e58cf6da67bb454f7809bc4444",
+      "symbol": "1BNB",
+      "logoURI": "https://assets.coingecko.com/coins/images/69926/thumb/ul2bm98s46903rvky0zzp47eeo1o.?1760046304",
+      "assetGroup": "just buy 1bnb::1BNB",
+      "currencyId": "just buy 1bnb::1BNB",
+      "tags": ["coingecko"]
+    },
+    "0x82ec31d69b3c289e541b50e30681fd1acad24444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "哈基米 (Hakimi)",
+      "address": "0x82ec31d69b3c289e541b50e30681fd1acad24444",
+      "symbol": "哈基米",
+      "logoURI": "https://assets.coingecko.com/coins/images/69928/thumb/zcslpjiz4jgzaot9e2f7ltpvgge9.?1760046765",
+      "assetGroup": "哈基米 (Hakimi)::哈基米",
+      "currencyId": "哈基米 (Hakimi)::哈基米",
+      "tags": ["coingecko"]
+    },
+    "0x6b4917a11bcb3bdcb545d79f211e81aa5835a3ba": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "BNB SUPER CYCLE",
+      "address": "0x6b4917a11bcb3bdcb545d79f211e81aa5835a3ba",
+      "symbol": "BSC",
+      "logoURI": "https://assets.coingecko.com/coins/images/69907/thumb/BNB.png?1759987599",
+      "assetGroup": "BNB SUPER CYCLE::BSC",
+      "currencyId": "BNB SUPER CYCLE::BSC",
+      "tags": ["coingecko"]
+    },
+    "0xf892fc3c0c45471fd06ace8533b29eb84d3f2953": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "VoltGo Token",
+      "address": "0xf892fc3c0c45471fd06ace8533b29eb84d3f2953",
+      "symbol": "VTGO",
+      "logoURI": "https://assets.coingecko.com/coins/images/69911/thumb/IMG_390F23DFBD15-1.jpeg?1759988526",
+      "assetGroup": "VoltGo Token::VTGO",
+      "currencyId": "VoltGo Token::VTGO",
+      "tags": ["coingecko"]
+    },
+    "0xf17ed7686e6a7096f962f90f00bdeabb45c7630d": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "DEEPTICS",
+      "address": "0xf17ed7686e6a7096f962f90f00bdeabb45c7630d",
+      "symbol": "DPTX",
+      "logoURI": "https://assets.coingecko.com/coins/images/69914/thumb/deeptics_200.png?1759989523",
+      "assetGroup": "DEEPTICS::DPTX",
+      "currencyId": "DEEPTICS::DPTX",
+      "tags": ["coingecko"]
+    },
+    "0xa9b54868089235cf5cf2969d9ada8dbf5d964444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "BNB Wallstreet Bull",
+      "address": "0xa9b54868089235cf5cf2969d9ada8dbf5d964444",
+      "symbol": "WBULL",
+      "logoURI": "https://assets.coingecko.com/coins/images/69905/thumb/cg.png?1759987291",
+      "assetGroup": "BNB Wallstreet Bull::WBULL",
+      "currencyId": "BNB Wallstreet Bull::WBULL",
+      "tags": ["coingecko"]
+    },
+    "0xf63d65a803efc5389ebded67473819a208ef4444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Palie",
+      "address": "0xf63d65a803efc5389ebded67473819a208ef4444",
+      "symbol": "PALIE",
+      "logoURI": "https://assets.coingecko.com/coins/images/69908/thumb/Paliepfp.jpg?1759987913",
+      "assetGroup": "Palie::PALIE",
+      "currencyId": "Palie::PALIE",
+      "tags": ["coingecko"]
+    },
+    "0xdc280afcd08e61be78ca8d154f78ef0bfea6deac": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Biaoqing",
+      "address": "0xdc280afcd08e61be78ca8d154f78ef0bfea6deac",
+      "symbol": "$BIAO",
+      "logoURI": "https://assets.coingecko.com/coins/images/69910/thumb/Biao_Logo.png?1759988269",
+      "assetGroup": "Biaoqing::$BIAO",
+      "currencyId": "Biaoqing::$BIAO",
+      "tags": ["coingecko"]
+    },
+    "0x0320ac98a6b24acc65af829d15822f2c47904444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Baby Bitcoin",
+      "address": "0x0320ac98a6b24acc65af829d15822f2c47904444",
+      "symbol": "BABYBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/69890/thumb/4jox3h8snjycle6txqsql8ow0en3.?1759958285",
+      "assetGroup": "Baby Bitcoin::BABYBTC",
+      "currencyId": "Baby Bitcoin::BABYBTC",
+      "tags": ["coingecko"]
+    },
+    "0xc643f4dd66a10955e53e3f67a81ba54703d3b7fb": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "CrypGPT",
+      "address": "0xc643f4dd66a10955e53e3f67a81ba54703d3b7fb",
+      "symbol": "CGPT",
+      "logoURI": "https://assets.coingecko.com/coins/images/69931/thumb/IMG_2631.jpeg?1760091340",
+      "assetGroup": "CrypGPT::CGPT",
+      "currencyId": "CrypGPT::CGPT",
+      "tags": ["coingecko"]
+    },
+    "0xfd9a3f94bec6b08711d90ff69cbba42fac96b45a": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Coral Finance",
+      "address": "0xfd9a3f94bec6b08711d90ff69cbba42fac96b45a",
+      "symbol": "CORL",
+      "logoURI": "https://assets.coingecko.com/coins/images/69932/thumb/coral.png?1760091449",
+      "assetGroup": "Coral Finance::CORL",
+      "currencyId": "Coral Finance::CORL",
+      "tags": ["coingecko"]
+    },
+    "0x544028231562a43b106fbceca722b65cb5c861b0": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "OLY",
+      "address": "0x544028231562a43b106fbceca722b65cb5c861b0",
+      "symbol": "OLY",
+      "logoURI": "https://assets.coingecko.com/coins/images/69934/thumb/IMG_2005.jpeg?1760091751",
+      "assetGroup": "OLY::OLY",
+      "currencyId": "OLY::OLY",
+      "tags": ["coingecko"]
+    },
+    "0x55f75fe8345db62fd30d57e0c60903a758484444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "松狮犬 (Chow-chow)",
+      "address": "0x55f75fe8345db62fd30d57e0c60903a758484444",
+      "symbol": "CHOW-CHOW",
+      "logoURI": "https://assets.coingecko.com/coins/images/69935/thumb/photo_2025-10-08_21.11.36.jpeg?1760092499",
+      "assetGroup": "松狮犬 (Chow-chow)::CHOW-CHOW",
+      "currencyId": "松狮犬 (Chow-chow)::CHOW-CHOW",
+      "tags": ["coingecko"]
+    },
+    "0x623f2774d9f27b59bc6b954544487532ce79d9df": {
+      "chainId": "56",
+      "decimals": 8,
+      "name": "BitFi Bitcoin",
+      "address": "0x623f2774d9f27b59bc6b954544487532ce79d9df",
+      "symbol": "BFBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/69326/thumb/bfBTC-logo-symbol-color.png?1758193458",
+      "assetGroup": "BitFi Bitcoin::BFBTC",
+      "currencyId": "BitFi Bitcoin::BFBTC",
+      "tags": ["coingecko"]
+    },
+    "0x66fd8de541c0594b4dccdfc13bf3a390e50d3afd": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Turtle",
+      "address": "0x66fd8de541c0594b4dccdfc13bf3a390e50d3afd",
+      "symbol": "TURTLE",
+      "logoURI": "https://assets.coingecko.com/coins/images/69595/thumb/OUDzqTkE_400x400.png?1759166194",
+      "assetGroup": "Turtle::TURTLE",
+      "currencyId": "Turtle::TURTLE",
+      "tags": ["coingecko"]
+    },
+    "0x2117e8b79e8e176a670c9fcf945d4348556bffad": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Euler",
+      "address": "0x2117e8b79e8e176a670c9fcf945d4348556bffad",
+      "symbol": "EUL",
+      "logoURI": "https://assets.coingecko.com/coins/images/26149/thumb/Coingecko_logo_%281%29.png?1706026067",
+      "assetGroup": "EUL",
+      "currencyId": "Euler::EUL",
+      "tags": ["coingecko"]
+    },
+    "0x0a80bbfcfe280eb072e767e4c015a2fc2da5145c": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "Pepe Inverted",
+      "address": "0x0a80bbfcfe280eb072e767e4c015a2fc2da5145c",
+      "symbol": "ƎԀƎԀ",
+      "logoURI": "https://assets.coingecko.com/coins/images/31948/thumb/epep-logo-coingecko_.png?1722576800",
+      "assetGroup": "Pepe Inverted::ƎԀƎԀ",
+      "currencyId": "Pepe Inverted::ƎԀƎԀ",
+      "tags": ["coingecko"]
+    },
+    "0xe0e8a04242f35b95dc64b07e0eae23a8e43a78e4": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "rsERG",
+      "address": "0xe0e8a04242f35b95dc64b07e0eae23a8e43a78e4",
+      "symbol": "RSERG",
+      "logoURI": "https://assets.coingecko.com/coins/images/51002/thumb/symbol_bold__1080px__black.png?1729700748",
+      "assetGroup": "rsERG::RSERG",
+      "currencyId": "rsERG::RSERG",
+      "tags": ["coingecko"]
+    },
+    "0xfab99fcf605fd8f4593edb70a43ba56542777777": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "ZEROBASE",
+      "address": "0xfab99fcf605fd8f4593edb70a43ba56542777777",
+      "symbol": "ZBT",
+      "logoURI": "https://assets.coingecko.com/coins/images/69446/thumb/zbt.png?1758621515",
+      "assetGroup": "ZEROBASE::ZBT",
+      "currencyId": "ZEROBASE::ZBT",
       "tags": ["coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {

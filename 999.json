@@ -2,6 +2,1598 @@
   "chainId": "999",
   "version": "0",
   "list": {
+    "0x3c041baca94a16a4c1cc5a0a66ce2d80ba1f146c": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "TEST-SY-2",
+      "address": "0x3c041baca94a16a4c1cc5a0a66ce2d80ba1f146c",
+      "symbol": "TEST-SY-2",
+      "logoURI": "https://storage.googleapis.com/pendle-assets-staging/images/assets/unknown.svg",
+      "assetGroup": "TEST-SY-2::TEST-SY-2",
+      "currencyId": "TEST-SY-2::TEST-SY-2",
+      "tags": ["SY"],
+      "props": { "pendle": { "tokenType": "SY" } }
+    },
+    "0x8f71bf4434ed4e3b7c4dacac6c246d3e76641d5c": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "PT-TEST-SY-2-6SEP2025",
+      "address": "0x8f71bf4434ed4e3b7c4dacac6c246d3e76641d5c",
+      "symbol": "PT-TEST-SY-2-6SEP2025",
+      "logoURI": "https://storage.googleapis.com/pendle-assets-staging/images/assets/unknown.svg",
+      "assetGroup": "PT-TEST-SY-2-6SEP2025::PT-TEST-SY-2-6SEP2025",
+      "currencyId": "PT-TEST-SY-2-6SEP2025::PT-TEST-SY-2-6SEP2025",
+      "tags": ["PT"],
+      "props": { "pendle": { "tokenType": "PT", "expired": true } }
+    },
+    "0xe1edf4cbc8bd1e78fd56d358e012ec6ea65130b9": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "YT-TEST-SY-2-6SEP2025",
+      "address": "0xe1edf4cbc8bd1e78fd56d358e012ec6ea65130b9",
+      "symbol": "YT-TEST-SY-2-6SEP2025",
+      "logoURI": "https://storage.googleapis.com/pendle-assets-staging/images/assets/unknown.svg",
+      "assetGroup": "YT-TEST-SY-2-6SEP2025::YT-TEST-SY-2-6SEP2025",
+      "currencyId": "YT-TEST-SY-2-6SEP2025::YT-TEST-SY-2-6SEP2025",
+      "tags": ["YT"],
+      "props": { "pendle": { "tokenType": "YT", "expired": true } }
+    },
+    "0x0fcde5a369c0d71ac932840c8654db03681912dd": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "hbHYPE",
+      "address": "0x0fcde5a369c0d71ac932840c8654db03681912dd",
+      "symbol": "SY-hbHYPE",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/e0b143e3-0854-4674-a1a0-7a3b161733d1.svg",
+      "assetGroup": "hbHYPE::SY-hbHYPE",
+      "currencyId": "hbHYPE::SY-hbHYPE",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x97d985a71131afc02c320b636a268df34c6f42a4",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x96c6cbb6251ee1c257b2162ca0f39aa5fa44b1fb",
+          "ptAddress": "0x810f9d4a751cafd5193617022b35fa0b0c166b4c",
+          "ytAddress": "0x2b55b35d9be63d016ee902d87af29d2c4f397dc1"
+        }
+      }
+    },
+    "0x810f9d4a751cafd5193617022b35fa0b0c166b4c": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "PT hbHYPE (WHYPE)",
+      "address": "0x810f9d4a751cafd5193617022b35fa0b0c166b4c",
+      "symbol": "PT-hbHYPE-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/793e1d7c-16c4-477d-8573-f826317e2aeb.svg",
+      "assetGroup": "PT hbHYPE (WHYPE)::PT-hbHYPE-18DEC2025",
+      "currencyId": "PT hbHYPE (WHYPE)::PT-hbHYPE-18DEC2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x97d985a71131afc02c320b636a268df34c6f42a4",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x96c6cbb6251ee1c257b2162ca0f39aa5fa44b1fb",
+          "ytAddress": "0x2b55b35d9be63d016ee902d87af29d2c4f397dc1",
+          "syAddress": "0x0fcde5a369c0d71ac932840c8654db03681912dd"
+        }
+      }
+    },
+    "0x2b55b35d9be63d016ee902d87af29d2c4f397dc1": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "YT hbHYPE (WHYPE)",
+      "address": "0x2b55b35d9be63d016ee902d87af29d2c4f397dc1",
+      "symbol": "YT-hbHYPE-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/844ba6c2-a951-421d-8a3a-691b15bfd6e6.svg",
+      "assetGroup": "YT hbHYPE (WHYPE)::YT-hbHYPE-18DEC2025",
+      "currencyId": "YT hbHYPE (WHYPE)::YT-hbHYPE-18DEC2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x97d985a71131afc02c320b636a268df34c6f42a4",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x96c6cbb6251ee1c257b2162ca0f39aa5fa44b1fb",
+          "ptAddress": "0x810f9d4a751cafd5193617022b35fa0b0c166b4c",
+          "syAddress": "0x0fcde5a369c0d71ac932840c8654db03681912dd"
+        }
+      }
+    },
+    "0x57fc55dff8ceca86ee94a6bf255af2f0ed90eb9e": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "kHYPE",
+      "address": "0x57fc55dff8ceca86ee94a6bf255af2f0ed90eb9e",
+      "symbol": "SY-kHYPE",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/4881d453-d6ec-49f1-9aff-bf4627402b1d.svg",
+      "assetGroup": "kHYPE::SY-kHYPE",
+      "currencyId": "kHYPE::SY-kHYPE",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x8867d2b7adb8609c51810237ecc9a25a2f601b97",
+          "expiry": 1762992000,
+          "underlyingAsset": "0xfd739d4e423301ce9385c1fb8850539d657c296d",
+          "ptAddress": "0x311db0fde558689550c68355783c95efdfe25329",
+          "ytAddress": "0x3f6583ad479ab6020297ce12c9059d7480ab6e5a"
+        }
+      }
+    },
+    "0x311db0fde558689550c68355783c95efdfe25329": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "PT kHYPE (HYPE)",
+      "address": "0x311db0fde558689550c68355783c95efdfe25329",
+      "symbol": "PT-kHYPE-13NOV2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/fcc09b6e-e47d-4e95-a1be-0dddfe76725e.svg",
+      "assetGroup": "PT kHYPE (HYPE)::PT-kHYPE-13NOV2025",
+      "currencyId": "PT kHYPE (HYPE)::PT-kHYPE-13NOV2025",
+      "tags": ["PT", "HYPERLEND", "HYPURRFI"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x8867d2b7adb8609c51810237ecc9a25a2f601b97",
+          "expiry": 1762992000,
+          "underlyingAsset": "0xfd739d4e423301ce9385c1fb8850539d657c296d",
+          "ytAddress": "0x3f6583ad479ab6020297ce12c9059d7480ab6e5a",
+          "syAddress": "0x57fc55dff8ceca86ee94a6bf255af2f0ed90eb9e"
+        }
+      }
+    },
+    "0x3f6583ad479ab6020297ce12c9059d7480ab6e5a": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "YT kHYPE (HYPE)",
+      "address": "0x3f6583ad479ab6020297ce12c9059d7480ab6e5a",
+      "symbol": "YT-kHYPE-13NOV2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/93cdd6bf-9c2f-4f7e-87f9-8b2cf5d006e7.svg",
+      "assetGroup": "YT kHYPE (HYPE)::YT-kHYPE-13NOV2025",
+      "currencyId": "YT kHYPE (HYPE)::YT-kHYPE-13NOV2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x8867d2b7adb8609c51810237ecc9a25a2f601b97",
+          "expiry": 1762992000,
+          "underlyingAsset": "0xfd739d4e423301ce9385c1fb8850539d657c296d",
+          "ptAddress": "0x311db0fde558689550c68355783c95efdfe25329",
+          "syAddress": "0x57fc55dff8ceca86ee94a6bf255af2f0ed90eb9e"
+        }
+      }
+    },
+    "0x642135ff98c15cba7fcf1766502bd493be4d3492": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "hbUSDT",
+      "address": "0x642135ff98c15cba7fcf1766502bd493be4d3492",
+      "symbol": "SY-hbUSDT",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/f316d141-bfbe-431b-af18-9e24a70bf99b.svg",
+      "assetGroup": "hbUSDT::SY-hbUSDT",
+      "currencyId": "hbUSDT::SY-hbUSDT",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0xab9b8a04d21c9fb1fee7b7d219cab9e725a86b0a",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x5e105266db42f78fa814322bce7f388b4c2e61eb",
+          "ptAddress": "0x31a75680de78bb2787ffe9840da569dbdf4504f5",
+          "ytAddress": "0x47dd54dfa68172e3354e3cba2f59521d3dc9d9c7"
+        }
+      }
+    },
+    "0x31a75680de78bb2787ffe9840da569dbdf4504f5": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "PT hbUSDT (USD₮0)",
+      "address": "0x31a75680de78bb2787ffe9840da569dbdf4504f5",
+      "symbol": "PT-hbUSDT-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/bb4102e6-91d1-4015-a0b6-5346be3f139f.svg",
+      "assetGroup": "PT hbUSDT (USD₮0)::PT-hbUSDT-18DEC2025",
+      "currencyId": "PT hbUSDT (USD₮0)::PT-hbUSDT-18DEC2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0xab9b8a04d21c9fb1fee7b7d219cab9e725a86b0a",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x5e105266db42f78fa814322bce7f388b4c2e61eb",
+          "ytAddress": "0x47dd54dfa68172e3354e3cba2f59521d3dc9d9c7",
+          "syAddress": "0x642135ff98c15cba7fcf1766502bd493be4d3492"
+        }
+      }
+    },
+    "0x47dd54dfa68172e3354e3cba2f59521d3dc9d9c7": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "YT hbUSDT (USD₮0)",
+      "address": "0x47dd54dfa68172e3354e3cba2f59521d3dc9d9c7",
+      "symbol": "YT-hbUSDT-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/139862f0-51f0-401a-af57-f986c3c6b48c.svg",
+      "assetGroup": "YT hbUSDT (USD₮0)::YT-hbUSDT-18DEC2025",
+      "currencyId": "YT hbUSDT (USD₮0)::YT-hbUSDT-18DEC2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0xab9b8a04d21c9fb1fee7b7d219cab9e725a86b0a",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x5e105266db42f78fa814322bce7f388b4c2e61eb",
+          "ptAddress": "0x31a75680de78bb2787ffe9840da569dbdf4504f5",
+          "syAddress": "0x642135ff98c15cba7fcf1766502bd493be4d3492"
+        }
+      }
+    },
+    "0x41d81daf401a0aa7422a769243fa933f351a0d64": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "liquidHYPE",
+      "address": "0x41d81daf401a0aa7422a769243fa933f351a0d64",
+      "symbol": "SY-liquidHYPE",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/66df732a-7d10-4ad0-9853-f37a774a6e99.svg",
+      "assetGroup": "liquidHYPE::SY-liquidHYPE",
+      "currencyId": "liquidHYPE::SY-liquidHYPE",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x976fb34e06c933bdd97cb1e8b868e04442edaa8d",
+          "expiry": 1761782400,
+          "underlyingAsset": "0x441794d6a8f9a3739f5d4e98a728937b33489d29",
+          "ptAddress": "0x3eceb4da795b083294f416821fa4137f2a5f06ff",
+          "ytAddress": "0x8f454bfe03527e8a838002b5bf7bfe5f296aac09"
+        }
+      }
+    },
+    "0x3eceb4da795b083294f416821fa4137f2a5f06ff": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "PT liquidHYPE (WHYPE)",
+      "address": "0x3eceb4da795b083294f416821fa4137f2a5f06ff",
+      "symbol": "PT-liquidHYPE-30OCT2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/75e7a921-bbc9-49a4-8272-bd7f52b32d26.svg",
+      "assetGroup": "PT liquidHYPE (WHYPE)::PT-liquidHYPE-30OCT2025",
+      "currencyId": "PT liquidHYPE (WHYPE)::PT-liquidHYPE-30OCT2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x976fb34e06c933bdd97cb1e8b868e04442edaa8d",
+          "expiry": 1761782400,
+          "underlyingAsset": "0x441794d6a8f9a3739f5d4e98a728937b33489d29",
+          "ytAddress": "0x8f454bfe03527e8a838002b5bf7bfe5f296aac09",
+          "syAddress": "0x41d81daf401a0aa7422a769243fa933f351a0d64"
+        }
+      }
+    },
+    "0x8f454bfe03527e8a838002b5bf7bfe5f296aac09": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "YT liquidHYPE (WHYPE)",
+      "address": "0x8f454bfe03527e8a838002b5bf7bfe5f296aac09",
+      "symbol": "YT-liquidHYPE-30OCT2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/939b1c12-1322-4eec-8f67-ea8cc4f86ea9.svg",
+      "assetGroup": "YT liquidHYPE (WHYPE)::YT-liquidHYPE-30OCT2025",
+      "currencyId": "YT liquidHYPE (WHYPE)::YT-liquidHYPE-30OCT2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x976fb34e06c933bdd97cb1e8b868e04442edaa8d",
+          "expiry": 1761782400,
+          "underlyingAsset": "0x441794d6a8f9a3739f5d4e98a728937b33489d29",
+          "ptAddress": "0x3eceb4da795b083294f416821fa4137f2a5f06ff",
+          "syAddress": "0x41d81daf401a0aa7422a769243fa933f351a0d64"
+        }
+      }
+    },
+    "0xcad502bb55d1a3f79952f969bff3f011cf30a94a": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "sUSDe",
+      "address": "0xcad502bb55d1a3f79952f969bff3f011cf30a94a",
+      "symbol": "SY-sUSDE",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/bc547d10-87dc-4a83-845b-f8d649c7b507.svg",
+      "assetGroup": "sUSDe::SY-sUSDE",
+      "currencyId": "sUSDe::SY-sUSDE",
+      "tags": ["SY"],
+      "props": { "pendle": { "tokenType": "SY" } }
+    },
+    "0xb9ab3125e3d1cf7b8f190180d929b695fbbcef5b": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "PT sUSDe (sUSDe)",
+      "address": "0xb9ab3125e3d1cf7b8f190180d929b695fbbcef5b",
+      "symbol": "PT-sUSDE-25SEP2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/db99173a-ff24-4055-b5f2-f2d60272404d.svg",
+      "assetGroup": "PT sUSDe (sUSDe)::PT-sUSDE-25SEP2025",
+      "currencyId": "PT sUSDe (sUSDe)::PT-sUSDE-25SEP2025",
+      "tags": ["PT"],
+      "props": { "pendle": { "tokenType": "PT", "expired": true } }
+    },
+    "0x64b2315a8b37adfd935c65f65c343904468228e7": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "YT sUSDe (sUSDe)",
+      "address": "0x64b2315a8b37adfd935c65f65c343904468228e7",
+      "symbol": "YT-sUSDE-25SEP2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/fd9d98d4-575c-4205-ad1f-d561c442808c.svg",
+      "assetGroup": "YT sUSDe (sUSDe)::YT-sUSDE-25SEP2025",
+      "currencyId": "YT sUSDe (sUSDe)::YT-sUSDE-25SEP2025",
+      "tags": ["YT"],
+      "props": { "pendle": { "tokenType": "YT", "expired": true } }
+    },
+    "0xcfaa9540332afa3974bceed79bdd24d86c5fd4ee": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "sUSDe",
+      "address": "0xcfaa9540332afa3974bceed79bdd24d86c5fd4ee",
+      "symbol": "SY-sUSDE",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/bc547d10-87dc-4a83-845b-f8d649c7b507.svg",
+      "assetGroup": "sUSDe::SY-sUSDE::999::0",
+      "currencyId": "sUSDe::SY-sUSDE",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0xe3765ec51aead35ea0a7f3745c1975a73dca21dc",
+          "expiry": 1758758400,
+          "underlyingAsset": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+          "ptAddress": "0xb7379d395f3c83952ad794896205f7e33e358735",
+          "ytAddress": "0x92b8defe476f0d5ee957533f5b2f509190d12921"
+        }
+      }
+    },
+    "0xb7379d395f3c83952ad794896205f7e33e358735": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "PT sUSDe (USDe)",
+      "address": "0xb7379d395f3c83952ad794896205f7e33e358735",
+      "symbol": "PT-sUSDE-25SEP2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/db99173a-ff24-4055-b5f2-f2d60272404d.svg",
+      "assetGroup": "PT sUSDe (USDe)::PT-sUSDE-25SEP2025",
+      "currencyId": "PT sUSDe (USDe)::PT-sUSDE-25SEP2025",
+      "tags": ["PT", "HYPERLEND"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0xe3765ec51aead35ea0a7f3745c1975a73dca21dc",
+          "expiry": 1758758400,
+          "underlyingAsset": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+          "ytAddress": "0x92b8defe476f0d5ee957533f5b2f509190d12921",
+          "syAddress": "0xcfaa9540332afa3974bceed79bdd24d86c5fd4ee",
+          "expired": true
+        }
+      }
+    },
+    "0x92b8defe476f0d5ee957533f5b2f509190d12921": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "YT sUSDe (USDe)",
+      "address": "0x92b8defe476f0d5ee957533f5b2f509190d12921",
+      "symbol": "YT-sUSDE-25SEP2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/fd9d98d4-575c-4205-ad1f-d561c442808c.svg",
+      "assetGroup": "YT sUSDe (USDe)::YT-sUSDE-25SEP2025",
+      "currencyId": "YT sUSDe (USDe)::YT-sUSDE-25SEP2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0xe3765ec51aead35ea0a7f3745c1975a73dca21dc",
+          "expiry": 1758758400,
+          "underlyingAsset": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+          "ptAddress": "0xb7379d395f3c83952ad794896205f7e33e358735",
+          "syAddress": "0xcfaa9540332afa3974bceed79bdd24d86c5fd4ee",
+          "expired": true
+        }
+      }
+    },
+    "0xc3bc221de037908fd24c79602b731df848b12157": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "hwHLP",
+      "address": "0xc3bc221de037908fd24c79602b731df848b12157",
+      "symbol": "SY-HWHLP",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/665f8ae1-1678-4127-b05b-d399667c2ee7.svg",
+      "assetGroup": "hwHLP::SY-HWHLP",
+      "currencyId": "hwHLP::SY-HWHLP",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x905a911e627eccc7a0ee3a30bb4f7e98501a1fb1",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1",
+          "ptAddress": "0xfdf1704a7d60ab07d9889f33951633e7a80e34a3",
+          "ytAddress": "0xc7a567cb16d863b069212ca8df1797b6af7b2342"
+        }
+      }
+    },
+    "0xfdf1704a7d60ab07d9889f33951633e7a80e34a3": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "PT hwHLP (USDC)",
+      "address": "0xfdf1704a7d60ab07d9889f33951633e7a80e34a3",
+      "symbol": "PT-HWHLP-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/cee450ca-78ba-4d36-9a2b-710bea435aee.svg",
+      "assetGroup": "PT hwHLP (USDC)::PT-HWHLP-18DEC2025",
+      "currencyId": "PT hwHLP (USDC)::PT-HWHLP-18DEC2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x905a911e627eccc7a0ee3a30bb4f7e98501a1fb1",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1",
+          "ytAddress": "0xc7a567cb16d863b069212ca8df1797b6af7b2342",
+          "syAddress": "0xc3bc221de037908fd24c79602b731df848b12157"
+        }
+      }
+    },
+    "0xc7a567cb16d863b069212ca8df1797b6af7b2342": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "YT hwHLP (USDC)",
+      "address": "0xc7a567cb16d863b069212ca8df1797b6af7b2342",
+      "symbol": "YT-HWHLP-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/98d0fd15-032e-44ba-8dd3-a825d51d1db4.svg",
+      "assetGroup": "YT hwHLP (USDC)::YT-HWHLP-18DEC2025",
+      "currencyId": "YT hwHLP (USDC)::YT-HWHLP-18DEC2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x905a911e627eccc7a0ee3a30bb4f7e98501a1fb1",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1",
+          "ptAddress": "0xfdf1704a7d60ab07d9889f33951633e7a80e34a3",
+          "syAddress": "0xc3bc221de037908fd24c79602b731df848b12157"
+        }
+      }
+    },
+    "0x02adf72d5d06a9c92136562eb237c07696833a84": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "feUSDhl",
+      "address": "0x02adf72d5d06a9c92136562eb237c07696833a84",
+      "symbol": "SY-feUSDhl",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/a2082a23-3921-4f78-8d42-0704f9266848.svg",
+      "assetGroup": "feUSDhl::SY-feUSDhl",
+      "currencyId": "feUSDhl::SY-feUSDhl",
+      "tags": ["SY"],
+      "props": { "pendle": { "tokenType": "SY" } }
+    },
+    "0x2e47c58bc6559601954e36e6523509c1076da2b8": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "PT feUSDhl (USDHL-scaled18)",
+      "address": "0x2e47c58bc6559601954e36e6523509c1076da2b8",
+      "symbol": "PT-feUSDhl-30OCT2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/4ae8c7a3-5c29-41f6-aca5-36ffe3840ad6.svg",
+      "assetGroup": "PT feUSDhl (USDHL-scaled18)::PT-feUSDhl-30OCT2025",
+      "currencyId": "PT feUSDhl (USDHL-scaled18)::PT-feUSDhl-30OCT2025",
+      "tags": ["PT"],
+      "props": { "pendle": { "tokenType": "PT" } }
+    },
+    "0x5e31dfbb1c2e2d82dee92a31d862f3fa042fdc74": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "YT feUSDhl (USDHL-scaled18)",
+      "address": "0x5e31dfbb1c2e2d82dee92a31d862f3fa042fdc74",
+      "symbol": "YT-feUSDhl-30OCT2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/ec85cd54-c92d-48fd-a3d5-64c9be5c96df.svg",
+      "assetGroup": "YT feUSDhl (USDHL-scaled18)::YT-feUSDhl-30OCT2025",
+      "currencyId": "YT feUSDhl (USDHL-scaled18)::YT-feUSDhl-30OCT2025",
+      "tags": ["YT"],
+      "props": { "pendle": { "tokenType": "YT" } }
+    },
+    "0x457904b54f47dd7a91253f225237a5b02ca059d6": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "vkHYPE",
+      "address": "0x457904b54f47dd7a91253f225237a5b02ca059d6",
+      "symbol": "SY-vkHYPE",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/df8167b8-8fb4-4b62-af8b-41b5fa7e044e.svg",
+      "assetGroup": "vkHYPE::SY-vkHYPE",
+      "currencyId": "vkHYPE::SY-vkHYPE",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x61e4a41853550dc09dc296088ac83d770cd45c5a",
+          "expiry": 1762992000,
+          "underlyingAsset": "0x9ba2edc44e0a4632eb4723e81d4142353e1bb160",
+          "ptAddress": "0x31cc92a2f8c02b8f9f427c48f12e21a848e69847",
+          "ytAddress": "0x928294e0a7dbe6bd0779b5769e2c3e4d1b3fecab"
+        }
+      }
+    },
+    "0x31cc92a2f8c02b8f9f427c48f12e21a848e69847": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "PT vkHYPE (WHYPE)",
+      "address": "0x31cc92a2f8c02b8f9f427c48f12e21a848e69847",
+      "symbol": "PT-vkHYPE-13NOV2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/d3b9f5d9-0b82-4ce9-adfe-ae0acb870df8.svg",
+      "assetGroup": "PT vkHYPE (WHYPE)::PT-vkHYPE-13NOV2025",
+      "currencyId": "PT vkHYPE (WHYPE)::PT-vkHYPE-13NOV2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x61e4a41853550dc09dc296088ac83d770cd45c5a",
+          "expiry": 1762992000,
+          "underlyingAsset": "0x9ba2edc44e0a4632eb4723e81d4142353e1bb160",
+          "ytAddress": "0x928294e0a7dbe6bd0779b5769e2c3e4d1b3fecab",
+          "syAddress": "0x457904b54f47dd7a91253f225237a5b02ca059d6"
+        }
+      }
+    },
+    "0x928294e0a7dbe6bd0779b5769e2c3e4d1b3fecab": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "YT vkHYPE (WHYPE)",
+      "address": "0x928294e0a7dbe6bd0779b5769e2c3e4d1b3fecab",
+      "symbol": "YT-vkHYPE-13NOV2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/4c862a26-40a4-46ec-bb45-c4fbeef51f28.svg",
+      "assetGroup": "YT vkHYPE (WHYPE)::YT-vkHYPE-13NOV2025",
+      "currencyId": "YT vkHYPE (WHYPE)::YT-vkHYPE-13NOV2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x61e4a41853550dc09dc296088ac83d770cd45c5a",
+          "expiry": 1762992000,
+          "underlyingAsset": "0x9ba2edc44e0a4632eb4723e81d4142353e1bb160",
+          "ptAddress": "0x31cc92a2f8c02b8f9f427c48f12e21a848e69847",
+          "syAddress": "0x457904b54f47dd7a91253f225237a5b02ca059d6"
+        }
+      }
+    },
+    "0x859b7a5eaad0abd59a766879362829e60bcd5ffe": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "hHYPE",
+      "address": "0x859b7a5eaad0abd59a766879362829e60bcd5ffe",
+      "symbol": "SY-hHyperEvmWHYPE",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/fdf5afab-7844-4ee7-97c7-16877e0c6b96.svg",
+      "assetGroup": "hHYPE::SY-hHyperEvmWHYPE",
+      "currencyId": "hHYPE::SY-hHyperEvmWHYPE",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x09b4e98da09ccbf594a5501dc6b5c36dae273d6c",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x0d745eaa9e70bb8b6e2a0317f85f1d536616bd34",
+          "ptAddress": "0x415eba65d0f3f3403f50d2e61a7bdf3faf9aa9ca",
+          "ytAddress": "0x822a6c7d25474964369b329e9df50b94d0a82141"
+        }
+      }
+    },
+    "0x415eba65d0f3f3403f50d2e61a7bdf3faf9aa9ca": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "PT hHYPE (WHYPE)",
+      "address": "0x415eba65d0f3f3403f50d2e61a7bdf3faf9aa9ca",
+      "symbol": "PT-hHyperEvmWHYPE-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/45b1b6da-fef4-4e7c-9c0a-a5768f7d39f3.svg",
+      "assetGroup": "PT hHYPE (WHYPE)::PT-hHyperEvmWHYPE-18DEC2025",
+      "currencyId": "PT hHYPE (WHYPE)::PT-hHyperEvmWHYPE-18DEC2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x09b4e98da09ccbf594a5501dc6b5c36dae273d6c",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x0d745eaa9e70bb8b6e2a0317f85f1d536616bd34",
+          "ytAddress": "0x822a6c7d25474964369b329e9df50b94d0a82141",
+          "syAddress": "0x859b7a5eaad0abd59a766879362829e60bcd5ffe"
+        }
+      }
+    },
+    "0x822a6c7d25474964369b329e9df50b94d0a82141": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "YT hHYPE (WHYPE)",
+      "address": "0x822a6c7d25474964369b329e9df50b94d0a82141",
+      "symbol": "YT-hHyperEvmWHYPE-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/e4e292e5-9e03-4eb7-8149-715b0f673475.svg",
+      "assetGroup": "YT hHYPE (WHYPE)::YT-hHyperEvmWHYPE-18DEC2025",
+      "currencyId": "YT hHYPE (WHYPE)::YT-hHyperEvmWHYPE-18DEC2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x09b4e98da09ccbf594a5501dc6b5c36dae273d6c",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x0d745eaa9e70bb8b6e2a0317f85f1d536616bd34",
+          "ptAddress": "0x415eba65d0f3f3403f50d2e61a7bdf3faf9aa9ca",
+          "syAddress": "0x859b7a5eaad0abd59a766879362829e60bcd5ffe"
+        }
+      }
+    },
+    "0xe1e22d55e23900f30599d8bee74a0801f09b4e58": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "WHLP",
+      "address": "0xe1e22d55e23900f30599d8bee74a0801f09b4e58",
+      "symbol": "SY-WHLP",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/79f2e8aa-3233-4ffe-90cc-499e100d96b6.svg",
+      "assetGroup": "WHLP::SY-WHLP",
+      "currencyId": "WHLP::SY-WHLP",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x181c9118a16e7ac4bb6ea545adaa119dcaf7e307",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x1359b05241ca5076c9f59605214f4f84114c0de8",
+          "ptAddress": "0x45ced175f65ea71e3d78e72e33661243fe4ec0be",
+          "ytAddress": "0x5600efda9b4721d110683121b3dea8e31d57a787"
+        }
+      }
+    },
+    "0x45ced175f65ea71e3d78e72e33661243fe4ec0be": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "PT WHLP (USDHL)",
+      "address": "0x45ced175f65ea71e3d78e72e33661243fe4ec0be",
+      "symbol": "PT-WHLP-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/d03fba9a-fe3d-4b1e-a88b-9313f80c042a.svg",
+      "assetGroup": "PT WHLP (USDHL)::PT-WHLP-18DEC2025",
+      "currencyId": "PT WHLP (USDHL)::PT-WHLP-18DEC2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x181c9118a16e7ac4bb6ea545adaa119dcaf7e307",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x1359b05241ca5076c9f59605214f4f84114c0de8",
+          "ytAddress": "0x5600efda9b4721d110683121b3dea8e31d57a787",
+          "syAddress": "0xe1e22d55e23900f30599d8bee74a0801f09b4e58"
+        }
+      }
+    },
+    "0x5600efda9b4721d110683121b3dea8e31d57a787": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "YT WHLP (USDHL)",
+      "address": "0x5600efda9b4721d110683121b3dea8e31d57a787",
+      "symbol": "YT-WHLP-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/87a7dbb7-4162-4ee3-b09b-6a5942d285fe.svg",
+      "assetGroup": "YT WHLP (USDHL)::YT-WHLP-18DEC2025",
+      "currencyId": "YT WHLP (USDHL)::YT-WHLP-18DEC2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x181c9118a16e7ac4bb6ea545adaa119dcaf7e307",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x1359b05241ca5076c9f59605214f4f84114c0de8",
+          "ptAddress": "0x45ced175f65ea71e3d78e72e33661243fe4ec0be",
+          "syAddress": "0xe1e22d55e23900f30599d8bee74a0801f09b4e58"
+        }
+      }
+    },
+    "0x8608cc009e64d0ebe6ae071a3c6107e0124eff41": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "LHYPE",
+      "address": "0x8608cc009e64d0ebe6ae071a3c6107e0124eff41",
+      "symbol": "SY-LHYPE",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/08af073f-7b31-46c3-a8a5-b86f5e2da3f5.svg",
+      "assetGroup": "LHYPE::SY-LHYPE",
+      "currencyId": "LHYPE::SY-LHYPE",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x25e8a59e7b42fd3e805edfaddd2e558bb6394682",
+          "expiry": 1762992000,
+          "underlyingAsset": "0x5748ae796ae46a4f1348a1693de4b50560485562",
+          "ptAddress": "0x3603363b7b46dffaff79017aec7c3d87a291082e",
+          "ytAddress": "0x75ce4957ba535fbef6569ec4621e9bf2e17477fc"
+        }
+      }
+    },
+    "0x3603363b7b46dffaff79017aec7c3d87a291082e": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "PT LHYPE (WHYPE)",
+      "address": "0x3603363b7b46dffaff79017aec7c3d87a291082e",
+      "symbol": "PT-LHYPE-13NOV2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/32821769-8a3d-4465-966e-635b613b8261.svg",
+      "assetGroup": "PT LHYPE (WHYPE)::PT-LHYPE-13NOV2025",
+      "currencyId": "PT LHYPE (WHYPE)::PT-LHYPE-13NOV2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x25e8a59e7b42fd3e805edfaddd2e558bb6394682",
+          "expiry": 1762992000,
+          "underlyingAsset": "0x5748ae796ae46a4f1348a1693de4b50560485562",
+          "ytAddress": "0x75ce4957ba535fbef6569ec4621e9bf2e17477fc",
+          "syAddress": "0x8608cc009e64d0ebe6ae071a3c6107e0124eff41"
+        }
+      }
+    },
+    "0x75ce4957ba535fbef6569ec4621e9bf2e17477fc": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "YT LHYPE (WHYPE)",
+      "address": "0x75ce4957ba535fbef6569ec4621e9bf2e17477fc",
+      "symbol": "YT-LHYPE-13NOV2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/727a897d-897c-4f64-b2fd-021282ca756e.svg",
+      "assetGroup": "YT LHYPE (WHYPE)::YT-LHYPE-13NOV2025",
+      "currencyId": "YT LHYPE (WHYPE)::YT-LHYPE-13NOV2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x25e8a59e7b42fd3e805edfaddd2e558bb6394682",
+          "expiry": 1762992000,
+          "underlyingAsset": "0x5748ae796ae46a4f1348a1693de4b50560485562",
+          "ptAddress": "0x3603363b7b46dffaff79017aec7c3d87a291082e",
+          "syAddress": "0x8608cc009e64d0ebe6ae071a3c6107e0124eff41"
+        }
+      }
+    },
+    "0x0e7fb0315ee061c407fa3fc3ad2eaf610aeaace5": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "wVLP",
+      "address": "0x0e7fb0315ee061c407fa3fc3ad2eaf610aeaace5",
+      "symbol": "SY-wVLP",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/9a4375af-7e02-4c5b-a9d6-7e5f5f97b2e2.svg",
+      "assetGroup": "wVLP::SY-wVLP",
+      "currencyId": "wVLP::SY-wVLP",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x74bd27939416bbe5d184d9a974d2c7358f637433",
+          "expiry": 1762992000,
+          "underlyingAsset": "0xd66d69c288d9a6fd735d7be8b2e389970fc4fd42",
+          "ptAddress": "0xaae605abaa30566615ec835c33c861c98feede24",
+          "ytAddress": "0x309b61bc4a1eea0a62573a57cc7c8ecbb207690d"
+        }
+      }
+    },
+    "0xaae605abaa30566615ec835c33c861c98feede24": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "PT wVLP (USD₮0)",
+      "address": "0xaae605abaa30566615ec835c33c861c98feede24",
+      "symbol": "PT-wVLP-13NOV2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/789f96fb-fb22-4313-91f6-86b36443fd85.svg",
+      "assetGroup": "PT wVLP (USD₮0)::PT-wVLP-13NOV2025",
+      "currencyId": "PT wVLP (USD₮0)::PT-wVLP-13NOV2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x74bd27939416bbe5d184d9a974d2c7358f637433",
+          "expiry": 1762992000,
+          "underlyingAsset": "0xd66d69c288d9a6fd735d7be8b2e389970fc4fd42",
+          "ytAddress": "0x309b61bc4a1eea0a62573a57cc7c8ecbb207690d",
+          "syAddress": "0x0e7fb0315ee061c407fa3fc3ad2eaf610aeaace5"
+        }
+      }
+    },
+    "0x309b61bc4a1eea0a62573a57cc7c8ecbb207690d": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "YT wVLP (USD₮0)",
+      "address": "0x309b61bc4a1eea0a62573a57cc7c8ecbb207690d",
+      "symbol": "YT-wVLP-13NOV2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/ded66d16-5712-4ed2-8d7f-a90e40df2a9f.svg",
+      "assetGroup": "YT wVLP (USD₮0)::YT-wVLP-13NOV2025",
+      "currencyId": "YT wVLP (USD₮0)::YT-wVLP-13NOV2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x74bd27939416bbe5d184d9a974d2c7358f637433",
+          "expiry": 1762992000,
+          "underlyingAsset": "0xd66d69c288d9a6fd735d7be8b2e389970fc4fd42",
+          "ptAddress": "0xaae605abaa30566615ec835c33c861c98feede24",
+          "syAddress": "0x0e7fb0315ee061c407fa3fc3ad2eaf610aeaace5"
+        }
+      }
+    },
+    "0x66616297801127ea586a7a87ce9715d374c57f7e": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "hwHYPE",
+      "address": "0x66616297801127ea586a7a87ce9715d374c57f7e",
+      "symbol": "SY-hwHYPE",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/a15032ef-7002-4dcc-86fe-2a1d382b730f.svg",
+      "assetGroup": "hwHYPE::SY-hwHYPE",
+      "currencyId": "hwHYPE::SY-hwHYPE",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0xa4517e4b96d0923122b407a6f0b3f58d5ef87a61",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x4de03ca1f02591b717495cfa19913ad56a2f5858",
+          "ptAddress": "0x02695f8b3fd88ca71a45400efe47bb8809ac888a",
+          "ytAddress": "0x7b01d7d2c151088b038b7037df5f5516fd4b698d"
+        }
+      }
+    },
+    "0x02695f8b3fd88ca71a45400efe47bb8809ac888a": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "PT hwHYPE (WHYPE)",
+      "address": "0x02695f8b3fd88ca71a45400efe47bb8809ac888a",
+      "symbol": "PT-hwHYPE-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/158c19c6-a67d-4af0-a8f1-562f560d64e1.svg",
+      "assetGroup": "PT hwHYPE (WHYPE)::PT-hwHYPE-18DEC2025",
+      "currencyId": "PT hwHYPE (WHYPE)::PT-hwHYPE-18DEC2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0xa4517e4b96d0923122b407a6f0b3f58d5ef87a61",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x4de03ca1f02591b717495cfa19913ad56a2f5858",
+          "ytAddress": "0x7b01d7d2c151088b038b7037df5f5516fd4b698d",
+          "syAddress": "0x66616297801127ea586a7a87ce9715d374c57f7e"
+        }
+      }
+    },
+    "0x7b01d7d2c151088b038b7037df5f5516fd4b698d": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "YT hwHYPE (WHYPE)",
+      "address": "0x7b01d7d2c151088b038b7037df5f5516fd4b698d",
+      "symbol": "YT-hwHYPE-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/adb12915-3be4-46d0-b861-4c09b4329b6e.svg",
+      "assetGroup": "YT hwHYPE (WHYPE)::YT-hwHYPE-18DEC2025",
+      "currencyId": "YT hwHYPE (WHYPE)::YT-hwHYPE-18DEC2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0xa4517e4b96d0923122b407a6f0b3f58d5ef87a61",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x4de03ca1f02591b717495cfa19913ad56a2f5858",
+          "ptAddress": "0x02695f8b3fd88ca71a45400efe47bb8809ac888a",
+          "syAddress": "0x66616297801127ea586a7a87ce9715d374c57f7e"
+        }
+      }
+    },
+    "0xe24a28fe8ecd859db4280d1291783a10017d6fc4": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "stHYPE",
+      "address": "0xe24a28fe8ecd859db4280d1291783a10017d6fc4",
+      "symbol": "SY-stHYPE",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/ae5719b8-4ea7-4f83-affc-6730425e2a9e.svg",
+      "assetGroup": "stHYPE::SY-stHYPE",
+      "currencyId": "stHYPE::SY-stHYPE",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x433081c58a8bff30060014134eed2601e5922759",
+          "expiry": 1772064000,
+          "underlyingAsset": "0xffaa4a3d97fe9107cef8a3f48c069f577ff76cc1",
+          "ptAddress": "0xcbaab2463a6ba43a65a138a41c39d541a51810cf",
+          "ytAddress": "0x3fe1b5550cccb78969e9cdc660fe76cd41d6be39"
+        }
+      }
+    },
+    "0xcbaab2463a6ba43a65a138a41c39d541a51810cf": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "PT stHYPE (HYPE)",
+      "address": "0xcbaab2463a6ba43a65a138a41c39d541a51810cf",
+      "symbol": "PT-stHYPE-26FEB2026",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/c274749b-7bea-40f9-8e1c-44e8e5cd0b2d.svg",
+      "assetGroup": "PT stHYPE (HYPE)::PT-stHYPE-26FEB2026",
+      "currencyId": "PT stHYPE (HYPE)::PT-stHYPE-26FEB2026",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x433081c58a8bff30060014134eed2601e5922759",
+          "expiry": 1772064000,
+          "underlyingAsset": "0xffaa4a3d97fe9107cef8a3f48c069f577ff76cc1",
+          "ytAddress": "0x3fe1b5550cccb78969e9cdc660fe76cd41d6be39",
+          "syAddress": "0xe24a28fe8ecd859db4280d1291783a10017d6fc4"
+        }
+      }
+    },
+    "0x3fe1b5550cccb78969e9cdc660fe76cd41d6be39": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "YT stHYPE (HYPE)",
+      "address": "0x3fe1b5550cccb78969e9cdc660fe76cd41d6be39",
+      "symbol": "YT-stHYPE-26FEB2026",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/0e998403-95c9-4872-b20b-98ad0b5ce033.svg",
+      "assetGroup": "YT stHYPE (HYPE)::YT-stHYPE-26FEB2026",
+      "currencyId": "YT stHYPE (HYPE)::YT-stHYPE-26FEB2026",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x433081c58a8bff30060014134eed2601e5922759",
+          "expiry": 1772064000,
+          "underlyingAsset": "0xffaa4a3d97fe9107cef8a3f48c069f577ff76cc1",
+          "ptAddress": "0xcbaab2463a6ba43a65a138a41c39d541a51810cf",
+          "syAddress": "0xe24a28fe8ecd859db4280d1291783a10017d6fc4"
+        }
+      }
+    },
+    "0x06579f206257a7079eee4b0106846745f6be955a": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "hyWHYPE (mHYPE Isolated)",
+      "address": "0x06579f206257a7079eee4b0106846745f6be955a",
+      "symbol": "SY-hyWHYPE(mHYPE)-4",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/c00654c7-7cce-47c4-b3de-7c03eb5d08f4.svg",
+      "assetGroup": "hyWHYPE (mHYPE Isolated)::SY-hyWHYPE(mHYPE)-4",
+      "currencyId": "hyWHYPE (mHYPE Isolated)::SY-hyWHYPE(mHYPE)-4",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x438a5973eed017e9b4e6a0dcfcfae67290b07ee0",
+          "expiry": 1763596800,
+          "underlyingAsset": "0xe4847cb23dad9311b9907497ef8b39d00ac1de14",
+          "ptAddress": "0xad028877011c93ad46ca900ab186f9883b06e820",
+          "ytAddress": "0x8f195b53437182074f23cf50320daec4b3b18986"
+        }
+      }
+    },
+    "0xad028877011c93ad46ca900ab186f9883b06e820": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "PT hyWHYPE (mHYPE Isolated) (WHYPE)",
+      "address": "0xad028877011c93ad46ca900ab186f9883b06e820",
+      "symbol": "PT-hyWHYPE(mHYPE)-4-20NOV2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/0c787dfe-91d4-47d6-8600-13876efd7f08.svg",
+      "assetGroup": "PT hyWHYPE (mHYPE Isolated) (WHYPE)::PT-hyWHYPE(mHYPE)-4-20NOV2025",
+      "currencyId": "PT hyWHYPE (mHYPE Isolated) (WHYPE)::PT-hyWHYPE(mHYPE)-4-20NOV2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x438a5973eed017e9b4e6a0dcfcfae67290b07ee0",
+          "expiry": 1763596800,
+          "underlyingAsset": "0xe4847cb23dad9311b9907497ef8b39d00ac1de14",
+          "ytAddress": "0x8f195b53437182074f23cf50320daec4b3b18986",
+          "syAddress": "0x06579f206257a7079eee4b0106846745f6be955a"
+        }
+      }
+    },
+    "0x8f195b53437182074f23cf50320daec4b3b18986": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "YT hyWHYPE (mHYPE Isolated) (WHYPE)",
+      "address": "0x8f195b53437182074f23cf50320daec4b3b18986",
+      "symbol": "YT-hyWHYPE(mHYPE)-4-20NOV2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/37a2a761-2787-41d1-8313-29ec3ab873f6.svg",
+      "assetGroup": "YT hyWHYPE (mHYPE Isolated) (WHYPE)::YT-hyWHYPE(mHYPE)-4-20NOV2025",
+      "currencyId": "YT hyWHYPE (mHYPE Isolated) (WHYPE)::YT-hyWHYPE(mHYPE)-4-20NOV2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x438a5973eed017e9b4e6a0dcfcfae67290b07ee0",
+          "expiry": 1763596800,
+          "underlyingAsset": "0xe4847cb23dad9311b9907497ef8b39d00ac1de14",
+          "ptAddress": "0xad028877011c93ad46ca900ab186f9883b06e820",
+          "syAddress": "0x06579f206257a7079eee4b0106846745f6be955a"
+        }
+      }
+    },
+    "0xb335b5a8f260c4e2d4e102d4bf4bbf0fe80b6537": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "haHYPE",
+      "address": "0xb335b5a8f260c4e2d4e102d4bf4bbf0fe80b6537",
+      "symbol": "SY-haHYPE",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/fb81755d-8478-4af4-a4af-92f65141ba1f.svg",
+      "assetGroup": "haHYPE::SY-haHYPE",
+      "currencyId": "haHYPE::SY-haHYPE",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0xdca1064fac3cb8326a405018c2fae5158fc0e97c",
+          "expiry": 1763596800,
+          "underlyingAsset": "0xfde5b0626fc80e36885e2fa9cd5ad9d7768d725c",
+          "ptAddress": "0xd2f7d32f0309821fc8504bcdb0153f671423cf1f",
+          "ytAddress": "0x9411928a32155b18095a80dcce634606a5117c04"
+        }
+      }
+    },
+    "0xd2f7d32f0309821fc8504bcdb0153f671423cf1f": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "PT haHYPE (WHYPE)",
+      "address": "0xd2f7d32f0309821fc8504bcdb0153f671423cf1f",
+      "symbol": "PT-haHYPE-20NOV2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/9a287d1d-2a1d-4bc6-8f63-89e7fbd80741.svg",
+      "assetGroup": "PT haHYPE (WHYPE)::PT-haHYPE-20NOV2025",
+      "currencyId": "PT haHYPE (WHYPE)::PT-haHYPE-20NOV2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0xdca1064fac3cb8326a405018c2fae5158fc0e97c",
+          "expiry": 1763596800,
+          "underlyingAsset": "0xfde5b0626fc80e36885e2fa9cd5ad9d7768d725c",
+          "ytAddress": "0x9411928a32155b18095a80dcce634606a5117c04",
+          "syAddress": "0xb335b5a8f260c4e2d4e102d4bf4bbf0fe80b6537"
+        }
+      }
+    },
+    "0x9411928a32155b18095a80dcce634606a5117c04": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "YT haHYPE (WHYPE)",
+      "address": "0x9411928a32155b18095a80dcce634606a5117c04",
+      "symbol": "YT-haHYPE-20NOV2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/5bf630fa-69bb-4be4-9df9-c8d574b57801.svg",
+      "assetGroup": "YT haHYPE (WHYPE)::YT-haHYPE-20NOV2025",
+      "currencyId": "YT haHYPE (WHYPE)::YT-haHYPE-20NOV2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0xdca1064fac3cb8326a405018c2fae5158fc0e97c",
+          "expiry": 1763596800,
+          "underlyingAsset": "0xfde5b0626fc80e36885e2fa9cd5ad9d7768d725c",
+          "ptAddress": "0xd2f7d32f0309821fc8504bcdb0153f671423cf1f",
+          "syAddress": "0xb335b5a8f260c4e2d4e102d4bf4bbf0fe80b6537"
+        }
+      }
+    },
+    "0x025cbcd0d425faf6570dceb5cf008f0c8ed8fd5d": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "lstHYPE",
+      "address": "0x025cbcd0d425faf6570dceb5cf008f0c8ed8fd5d",
+      "symbol": "SY-lstHYPE",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/3e3e9bfe-50e7-4668-ab26-7e60fe0549a6.svg",
+      "assetGroup": "lstHYPE::SY-lstHYPE",
+      "currencyId": "lstHYPE::SY-lstHYPE",
+      "tags": ["SY"],
+      "props": { "pendle": { "tokenType": "SY" } }
+    },
+    "0xa3fe5786a5521c716b455ac83182ce5d94c93eea": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "PT lstHYPE (WHYPE)",
+      "address": "0xa3fe5786a5521c716b455ac83182ce5d94c93eea",
+      "symbol": "PT-lstHYPE-27NOV2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/ded4dca7-e106-48f5-8f9b-1197a4a2ae50.svg",
+      "assetGroup": "PT lstHYPE (WHYPE)::PT-lstHYPE-27NOV2025",
+      "currencyId": "PT lstHYPE (WHYPE)::PT-lstHYPE-27NOV2025",
+      "tags": ["PT"],
+      "props": { "pendle": { "tokenType": "PT" } }
+    },
+    "0x687d9269216030d91cd27e3470ce92b6d6b2a344": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "YT lstHYPE (WHYPE)",
+      "address": "0x687d9269216030d91cd27e3470ce92b6d6b2a344",
+      "symbol": "YT-lstHYPE-27NOV2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/e0123119-4c42-4cdf-80d9-4f237eb38493.svg",
+      "assetGroup": "YT lstHYPE (WHYPE)::YT-lstHYPE-27NOV2025",
+      "currencyId": "YT lstHYPE (WHYPE)::YT-lstHYPE-27NOV2025",
+      "tags": ["YT"],
+      "props": { "pendle": { "tokenType": "YT" } }
+    },
+    "0x8373ff674bb793825d7fc25e43b14798f4d00959": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "dnHYPE",
+      "address": "0x8373ff674bb793825d7fc25e43b14798f4d00959",
+      "symbol": "SY-dnHYPE",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/6bd97019-efd5-47fd-9697-c951c2469688.svg",
+      "assetGroup": "dnHYPE::SY-dnHYPE",
+      "currencyId": "dnHYPE::SY-dnHYPE",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x66edf9343d7db8a1a970058cc2ac1c0d5484f504",
+          "expiry": 1763596800,
+          "underlyingAsset": "0x949a7250bb55eb79bc6bcc97fcd1c473db3e6f29",
+          "ptAddress": "0xe2c23327e158ded7276d0e6cdd835330f415e439",
+          "ytAddress": "0x8000a0d4fbcb944bd726faae8d4f5a9185b849a3"
+        }
+      }
+    },
+    "0xe2c23327e158ded7276d0e6cdd835330f415e439": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "PT dnHYPE (USD₮0)",
+      "address": "0xe2c23327e158ded7276d0e6cdd835330f415e439",
+      "symbol": "PT-dnHYPE-20NOV2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/d6594293-b15e-4ff8-977c-9889185dd086.svg",
+      "assetGroup": "PT dnHYPE (USD₮0)::PT-dnHYPE-20NOV2025",
+      "currencyId": "PT dnHYPE (USD₮0)::PT-dnHYPE-20NOV2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x66edf9343d7db8a1a970058cc2ac1c0d5484f504",
+          "expiry": 1763596800,
+          "underlyingAsset": "0x949a7250bb55eb79bc6bcc97fcd1c473db3e6f29",
+          "ytAddress": "0x8000a0d4fbcb944bd726faae8d4f5a9185b849a3",
+          "syAddress": "0x8373ff674bb793825d7fc25e43b14798f4d00959"
+        }
+      }
+    },
+    "0x8000a0d4fbcb944bd726faae8d4f5a9185b849a3": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "YT dnHYPE (USD₮0)",
+      "address": "0x8000a0d4fbcb944bd726faae8d4f5a9185b849a3",
+      "symbol": "YT-dnHYPE-20NOV2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/4c36b9c2-10e1-4aa3-b3f3-e849c9813818.svg",
+      "assetGroup": "YT dnHYPE (USD₮0)::YT-dnHYPE-20NOV2025",
+      "currencyId": "YT dnHYPE (USD₮0)::YT-dnHYPE-20NOV2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x66edf9343d7db8a1a970058cc2ac1c0d5484f504",
+          "expiry": 1763596800,
+          "underlyingAsset": "0x949a7250bb55eb79bc6bcc97fcd1c473db3e6f29",
+          "ptAddress": "0xe2c23327e158ded7276d0e6cdd835330f415e439",
+          "syAddress": "0x8373ff674bb793825d7fc25e43b14798f4d00959"
+        }
+      }
+    },
+    "0x5d309a9b1c964e3ea36bf7571c708787a3261e56": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "HYPE++",
+      "address": "0x5d309a9b1c964e3ea36bf7571c708787a3261e56",
+      "symbol": "SY-HYPE++",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/d1a39af6-9b9a-4f95-924b-dbc985ebcbb1.svg",
+      "assetGroup": "HYPE++::SY-HYPE++",
+      "currencyId": "HYPE++::SY-HYPE++",
+      "tags": ["SY"],
+      "props": { "pendle": { "tokenType": "SY" } }
+    },
+    "0xdc941de125ef2ce8f1c622b691b2503e3584d7f3": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "PT HYPE++ (USD₮0)",
+      "address": "0xdc941de125ef2ce8f1c622b691b2503e3584d7f3",
+      "symbol": "PT-HYPE++-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/25bd9103-08b3-4795-97ed-b6baaec6259d.svg",
+      "assetGroup": "PT HYPE++ (USD₮0)::PT-HYPE++-18DEC2025",
+      "currencyId": "PT HYPE++ (USD₮0)::PT-HYPE++-18DEC2025",
+      "tags": ["PT"],
+      "props": { "pendle": { "tokenType": "PT" } }
+    },
+    "0x3478bace12088c4088790cfe0a34aba96bfc5abe": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "YT HYPE++ (USD₮0)",
+      "address": "0x3478bace12088c4088790cfe0a34aba96bfc5abe",
+      "symbol": "YT-HYPE++-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/c7afbd0f-7af4-4572-ab40-270d30dbde9f.svg",
+      "assetGroup": "YT HYPE++ (USD₮0)::YT-HYPE++-18DEC2025",
+      "currencyId": "YT HYPE++ (USD₮0)::YT-HYPE++-18DEC2025",
+      "tags": ["YT"],
+      "props": { "pendle": { "tokenType": "YT" } }
+    },
+    "0x9482337ba2c5407aba8264e0bcf5406dadeb2f1c": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "HYPE++",
+      "address": "0x9482337ba2c5407aba8264e0bcf5406dadeb2f1c",
+      "symbol": "SY-HYPE++",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/995e42b4-ccfb-45d2-bf25-db0d9ff42f89.svg",
+      "assetGroup": "HYPE++::SY-HYPE++::999::0",
+      "currencyId": "HYPE++::SY-HYPE++",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x1525bc953c05b9b4557c443323b3c0f09064e249",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x195eb4d088f222c982282b5dd495e76dba4bc7d1",
+          "ptAddress": "0x55ebed862d84355a1b94d38fa3307229fcb805fa",
+          "ytAddress": "0x84064d42459097a5f7c481ba800236ba691f93b6"
+        }
+      }
+    },
+    "0x55ebed862d84355a1b94d38fa3307229fcb805fa": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "PT HYPE++ (USD₮0)",
+      "address": "0x55ebed862d84355a1b94d38fa3307229fcb805fa",
+      "symbol": "PT-HYPE++-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/9fcfe669-0a2a-486f-869c-df4dfd133610.svg",
+      "assetGroup": "PT HYPE++ (USD₮0)::PT-HYPE++-18DEC2025::999::0",
+      "currencyId": "PT HYPE++ (USD₮0)::PT-HYPE++-18DEC2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x1525bc953c05b9b4557c443323b3c0f09064e249",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x195eb4d088f222c982282b5dd495e76dba4bc7d1",
+          "ytAddress": "0x84064d42459097a5f7c481ba800236ba691f93b6",
+          "syAddress": "0x9482337ba2c5407aba8264e0bcf5406dadeb2f1c"
+        }
+      }
+    },
+    "0x84064d42459097a5f7c481ba800236ba691f93b6": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "YT HYPE++ (USD₮0)",
+      "address": "0x84064d42459097a5f7c481ba800236ba691f93b6",
+      "symbol": "YT-HYPE++-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/79d979e8-b68f-4756-9059-90116f1221c6.svg",
+      "assetGroup": "YT HYPE++ (USD₮0)::YT-HYPE++-18DEC2025::999::0",
+      "currencyId": "YT HYPE++ (USD₮0)::YT-HYPE++-18DEC2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x1525bc953c05b9b4557c443323b3c0f09064e249",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x195eb4d088f222c982282b5dd495e76dba4bc7d1",
+          "ptAddress": "0x55ebed862d84355a1b94d38fa3307229fcb805fa",
+          "syAddress": "0x9482337ba2c5407aba8264e0bcf5406dadeb2f1c"
+        }
+      }
+    },
+    "0x8335496ce28deb5ecc58d87117e814731609b8e1": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "HYPED",
+      "address": "0x8335496ce28deb5ecc58d87117e814731609b8e1",
+      "symbol": "SY-HYPED",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/19ca7295-d880-498d-bd70-fa4d98a187d8.svg",
+      "assetGroup": "HYPED::SY-HYPED",
+      "currencyId": "HYPED::SY-HYPED",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x7af366c06939535628f1d10f9f2a7ee6a2e58535",
+          "expiry": 1762387200,
+          "underlyingAsset": "0x4d0ff6a0dd9f7316b674fb37993a3ce28bea340e",
+          "ptAddress": "0xdedcadddef0e099fd3edfc794a4c6757680795f2",
+          "ytAddress": "0x0838e6a6fc8a456beabffa7d16520a29a5514c5e"
+        }
+      }
+    },
+    "0xdedcadddef0e099fd3edfc794a4c6757680795f2": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "PT HYPED (HYPE)",
+      "address": "0xdedcadddef0e099fd3edfc794a4c6757680795f2",
+      "symbol": "PT-HYPED-6NOV2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/e4ff1388-30fd-44d5-bcce-dde8bc5a43c7.svg",
+      "assetGroup": "PT HYPED (HYPE)::PT-HYPED-6NOV2025",
+      "currencyId": "PT HYPED (HYPE)::PT-HYPED-6NOV2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x7af366c06939535628f1d10f9f2a7ee6a2e58535",
+          "expiry": 1762387200,
+          "underlyingAsset": "0x4d0ff6a0dd9f7316b674fb37993a3ce28bea340e",
+          "ytAddress": "0x0838e6a6fc8a456beabffa7d16520a29a5514c5e",
+          "syAddress": "0x8335496ce28deb5ecc58d87117e814731609b8e1"
+        }
+      }
+    },
+    "0x0838e6a6fc8a456beabffa7d16520a29a5514c5e": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "YT HYPED (HYPE)",
+      "address": "0x0838e6a6fc8a456beabffa7d16520a29a5514c5e",
+      "symbol": "YT-HYPED-6NOV2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/9c43d559-c21f-4e55-af13-1d83244e9649.svg",
+      "assetGroup": "YT HYPED (HYPE)::YT-HYPED-6NOV2025",
+      "currencyId": "YT HYPED (HYPE)::YT-HYPED-6NOV2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x7af366c06939535628f1d10f9f2a7ee6a2e58535",
+          "expiry": 1762387200,
+          "underlyingAsset": "0x4d0ff6a0dd9f7316b674fb37993a3ce28bea340e",
+          "ptAddress": "0xdedcadddef0e099fd3edfc794a4c6757680795f2",
+          "syAddress": "0x8335496ce28deb5ecc58d87117e814731609b8e1"
+        }
+      }
+    },
+    "0xd887cd43e3f79d9d794858ba1df6742b64a22528": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "beHYPE",
+      "address": "0xd887cd43e3f79d9d794858ba1df6742b64a22528",
+      "symbol": "SY-beHYPE",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/555462e6-74b2-4524-b2e3-f2f75d503ee8.svg",
+      "assetGroup": "beHYPE::SY-beHYPE",
+      "currencyId": "beHYPE::SY-beHYPE",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x36005a19c2e99e06c745603ce61cd175bc74158e",
+          "expiry": 1773878400,
+          "underlyingAsset": "0xd8fc8f0b03eba61f64d08b0bef69d80916e5dda9",
+          "ptAddress": "0x3a4dcc6e9a19bcf4063ab3a0c63a5c0041175414",
+          "ytAddress": "0x3f1993b58a00d31dfc7305af5a34b4e88be246b4"
+        }
+      }
+    },
+    "0x3a4dcc6e9a19bcf4063ab3a0c63a5c0041175414": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "PT beHYPE (HYPE)",
+      "address": "0x3a4dcc6e9a19bcf4063ab3a0c63a5c0041175414",
+      "symbol": "PT-beHYPE-19MAR2026",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/eb7ca345-92d9-459b-82bc-05495874161a.svg",
+      "assetGroup": "PT beHYPE (HYPE)::PT-beHYPE-19MAR2026",
+      "currencyId": "PT beHYPE (HYPE)::PT-beHYPE-19MAR2026",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x36005a19c2e99e06c745603ce61cd175bc74158e",
+          "expiry": 1773878400,
+          "underlyingAsset": "0xd8fc8f0b03eba61f64d08b0bef69d80916e5dda9",
+          "ytAddress": "0x3f1993b58a00d31dfc7305af5a34b4e88be246b4",
+          "syAddress": "0xd887cd43e3f79d9d794858ba1df6742b64a22528"
+        }
+      }
+    },
+    "0x3f1993b58a00d31dfc7305af5a34b4e88be246b4": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "YT beHYPE (HYPE)",
+      "address": "0x3f1993b58a00d31dfc7305af5a34b4e88be246b4",
+      "symbol": "YT-beHYPE-19MAR2026",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/d32fec61-641c-4697-85a2-2df4063a7265.svg",
+      "assetGroup": "YT beHYPE (HYPE)::YT-beHYPE-19MAR2026",
+      "currencyId": "YT beHYPE (HYPE)::YT-beHYPE-19MAR2026",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x36005a19c2e99e06c745603ce61cd175bc74158e",
+          "expiry": 1773878400,
+          "underlyingAsset": "0xd8fc8f0b03eba61f64d08b0bef69d80916e5dda9",
+          "ptAddress": "0x3a4dcc6e9a19bcf4063ab3a0c63a5c0041175414",
+          "syAddress": "0xd887cd43e3f79d9d794858ba1df6742b64a22528"
+        }
+      }
+    },
+    "0x1d78c45512c569ad7487103d687f9a44df06bcde": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "USDe (Nov 2025)",
+      "address": "0x1d78c45512c569ad7487103d687f9a44df06bcde",
+      "symbol": "SY-USDe",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/bdb09436-8d17-4046-a4f6-5020ddcba809.svg",
+      "assetGroup": "USDe (Nov 2025)::SY-USDe",
+      "currencyId": "USDe (Nov 2025)::SY-USDe",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x3b26334d4f11cf879e468144804cf82a8bbc5a90",
+          "expiry": 1764201600,
+          "underlyingAsset": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+          "ptAddress": "0xb884ddc29f7a0a66934be8c03f25976a365a4ea2",
+          "ytAddress": "0x4386391e9481050cfc2d694d65914a1ae05a0727"
+        }
+      }
+    },
+    "0xb884ddc29f7a0a66934be8c03f25976a365a4ea2": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "PT USDe (USDe)",
+      "address": "0xb884ddc29f7a0a66934be8c03f25976a365a4ea2",
+      "symbol": "PT-USDe-27NOV2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/fa575c56-34e4-4b35-96cf-fd25cdf408f1.svg",
+      "assetGroup": "PT USDe (USDe)::PT-USDe-27NOV2025",
+      "currencyId": "PT USDe (USDe)::PT-USDe-27NOV2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x3b26334d4f11cf879e468144804cf82a8bbc5a90",
+          "expiry": 1764201600,
+          "underlyingAsset": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+          "ytAddress": "0x4386391e9481050cfc2d694d65914a1ae05a0727",
+          "syAddress": "0x1d78c45512c569ad7487103d687f9a44df06bcde"
+        }
+      }
+    },
+    "0x4386391e9481050cfc2d694d65914a1ae05a0727": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "YT USDe (USDe)",
+      "address": "0x4386391e9481050cfc2d694d65914a1ae05a0727",
+      "symbol": "YT-USDe-27NOV2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/ccc69b72-a09a-48dd-b939-7e0de5a3f284.svg",
+      "assetGroup": "YT USDe (USDe)::YT-USDe-27NOV2025",
+      "currencyId": "YT USDe (USDe)::YT-USDe-27NOV2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x3b26334d4f11cf879e468144804cf82a8bbc5a90",
+          "expiry": 1764201600,
+          "underlyingAsset": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+          "ptAddress": "0xb884ddc29f7a0a66934be8c03f25976a365a4ea2",
+          "syAddress": "0x1d78c45512c569ad7487103d687f9a44df06bcde"
+        }
+      }
+    },
+    "0x618b2c320af0df4aed484e59c876b7841f631c0d": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "dnPUMP",
+      "address": "0x618b2c320af0df4aed484e59c876b7841f631c0d",
+      "symbol": "SY-dnPUMP",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/2ba040df-947e-40f1-a468-ef7e79c38854.svg",
+      "assetGroup": "dnPUMP::SY-dnPUMP",
+      "currencyId": "dnPUMP::SY-dnPUMP",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x2929d03fd3dc5e3c83d455c92f00ecae7182adcc",
+          "expiry": 1763596800,
+          "underlyingAsset": "0x8858a307a85982c2b3cb2ace1720237f2f09c39b",
+          "ptAddress": "0x97afa1a25bed5788bba54abad9a672931d82636a",
+          "ytAddress": "0xb934f619975317387f3292adcba5e387d15a25af"
+        }
+      }
+    },
+    "0x97afa1a25bed5788bba54abad9a672931d82636a": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "PT dnPUMP (USD₮0)",
+      "address": "0x97afa1a25bed5788bba54abad9a672931d82636a",
+      "symbol": "PT-dnPUMP-20NOV2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/b49aae24-10f3-424a-9535-39c4005ac6c4.svg",
+      "assetGroup": "PT dnPUMP (USD₮0)::PT-dnPUMP-20NOV2025",
+      "currencyId": "PT dnPUMP (USD₮0)::PT-dnPUMP-20NOV2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x2929d03fd3dc5e3c83d455c92f00ecae7182adcc",
+          "expiry": 1763596800,
+          "underlyingAsset": "0x8858a307a85982c2b3cb2ace1720237f2f09c39b",
+          "ytAddress": "0xb934f619975317387f3292adcba5e387d15a25af",
+          "syAddress": "0x618b2c320af0df4aed484e59c876b7841f631c0d"
+        }
+      }
+    },
+    "0xb934f619975317387f3292adcba5e387d15a25af": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "YT dnPUMP (USD₮0)",
+      "address": "0xb934f619975317387f3292adcba5e387d15a25af",
+      "symbol": "YT-dnPUMP-20NOV2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/00adc1e3-d7a7-4169-a6f0-350c2612232f.svg",
+      "assetGroup": "YT dnPUMP (USD₮0)::YT-dnPUMP-20NOV2025",
+      "currencyId": "YT dnPUMP (USD₮0)::YT-dnPUMP-20NOV2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x2929d03fd3dc5e3c83d455c92f00ecae7182adcc",
+          "expiry": 1763596800,
+          "underlyingAsset": "0x8858a307a85982c2b3cb2ace1720237f2f09c39b",
+          "ptAddress": "0x97afa1a25bed5788bba54abad9a672931d82636a",
+          "syAddress": "0x618b2c320af0df4aed484e59c876b7841f631c0d"
+        }
+      }
+    },
+    "0xd8769c34f0291611a31393f5fe1f33605652bd9f": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "hakHYPE",
+      "address": "0xd8769c34f0291611a31393f5fe1f33605652bd9f",
+      "symbol": "SY-hakHYPE",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/6008cf4c-c699-40c3-a2c7-567943c6abe9.svg",
+      "assetGroup": "hakHYPE::SY-hakHYPE",
+      "currencyId": "hakHYPE::SY-hakHYPE",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x62ea53cdc0f923e1fa14dd3dab926dd1646f8cfd",
+          "expiry": 1763596800,
+          "underlyingAsset": "0x1368ee9d1212ae5b26ff166049220051a9eebc42",
+          "ptAddress": "0x39cda9a07956aee8336fb2c743cfb4e76c5cc013",
+          "ytAddress": "0xaddb671640d10b546252384ed51cf1efa5deb86e"
+        }
+      }
+    },
+    "0x39cda9a07956aee8336fb2c743cfb4e76c5cc013": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "PT hakHYPE (kHYPE)",
+      "address": "0x39cda9a07956aee8336fb2c743cfb4e76c5cc013",
+      "symbol": "PT-hakHYPE-20NOV2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/034b851f-7c96-4c72-a6fc-2704510d5634.svg",
+      "assetGroup": "PT hakHYPE (kHYPE)::PT-hakHYPE-20NOV2025",
+      "currencyId": "PT hakHYPE (kHYPE)::PT-hakHYPE-20NOV2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x62ea53cdc0f923e1fa14dd3dab926dd1646f8cfd",
+          "expiry": 1763596800,
+          "underlyingAsset": "0x1368ee9d1212ae5b26ff166049220051a9eebc42",
+          "ytAddress": "0xaddb671640d10b546252384ed51cf1efa5deb86e",
+          "syAddress": "0xd8769c34f0291611a31393f5fe1f33605652bd9f"
+        }
+      }
+    },
+    "0xaddb671640d10b546252384ed51cf1efa5deb86e": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "YT hakHYPE (kHYPE)",
+      "address": "0xaddb671640d10b546252384ed51cf1efa5deb86e",
+      "symbol": "YT-hakHYPE-20NOV2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/5eac2c48-0e79-49ff-b9c1-e24d0ffdfa87.svg",
+      "assetGroup": "YT hakHYPE (kHYPE)::YT-hakHYPE-20NOV2025",
+      "currencyId": "YT hakHYPE (kHYPE)::YT-hakHYPE-20NOV2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x62ea53cdc0f923e1fa14dd3dab926dd1646f8cfd",
+          "expiry": 1763596800,
+          "underlyingAsset": "0x1368ee9d1212ae5b26ff166049220051a9eebc42",
+          "ptAddress": "0x39cda9a07956aee8336fb2c743cfb4e76c5cc013",
+          "syAddress": "0xd8769c34f0291611a31393f5fe1f33605652bd9f"
+        }
+      }
+    },
+    "0xd8093043d5a7fe963773912fb2511190c06150bf": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "PT liquidHYPE (WHYPE)",
+      "address": "0xd8093043d5a7fe963773912fb2511190c06150bf",
+      "symbol": "PT-liquidHYPE-29JAN2026",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/75e7a921-bbc9-49a4-8272-bd7f52b32d26.svg",
+      "assetGroup": "PT liquidHYPE (WHYPE)::PT-liquidHYPE-29JAN2026",
+      "currencyId": "PT liquidHYPE (WHYPE)::PT-liquidHYPE-29JAN2026",
+      "tags": ["PT"],
+      "props": { "pendle": { "tokenType": "PT" } }
+    },
+    "0x38230d78c1969049734a32421fbcdd61efed216c": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "YT liquidHYPE (WHYPE)",
+      "address": "0x38230d78c1969049734a32421fbcdd61efed216c",
+      "symbol": "YT-liquidHYPE-29JAN2026",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/939b1c12-1322-4eec-8f67-ea8cc4f86ea9.svg",
+      "assetGroup": "YT liquidHYPE (WHYPE)::YT-liquidHYPE-29JAN2026",
+      "currencyId": "YT liquidHYPE (WHYPE)::YT-liquidHYPE-29JAN2026",
+      "tags": ["YT"],
+      "props": { "pendle": { "tokenType": "YT" } }
+    },
     "0xca79db4b49f608ef54a5cb813fbed3a6387bc645": {
       "chainId": "999",
       "decimals": 18,
@@ -2898,16 +4490,6 @@
       "currencyId": "Balancer mcUSR-MC_USDT0::mcUSR-MC_USDT0",
       "props": { "permit": { "type": 1, "version": "1" } }
     },
-    "0x8f71bf4434ed4e3b7c4dacac6c246d3e76641d5c": {
-      "chainId": "999",
-      "decimals": 18,
-      "name": "PT Test SY 2 6SEP2025",
-      "address": "0x8f71bf4434ed4e3b7c4dacac6c246d3e76641d5c",
-      "symbol": "PT-TEST-SY-2-6SEP2025",
-      "assetGroup": "PT Test SY 2 6SEP2025::PT-TEST-SY-2-6SEP2025",
-      "currencyId": "PT Test SY 2 6SEP2025::PT-TEST-SY-2-6SEP2025",
-      "props": { "pendle": { "tokenType": "PT" } }
-    },
     "0xb2432ac4bb415716c106dca066a13c1a0ab3cc23": {
       "chainId": "999",
       "decimals": 18,
@@ -2917,15 +4499,6 @@
       "assetGroup": "Laminar V2::LAMINAR-V2::999::0",
       "currencyId": "Laminar V2::LAMINAR-V2",
       "props": { "permit": { "type": 1, "version": "1" } }
-    },
-    "0xe1edf4cbc8bd1e78fd56d358e012ec6ea65130b9": {
-      "chainId": "999",
-      "decimals": 18,
-      "name": "YT Test SY 2 6SEP2025",
-      "address": "0xe1edf4cbc8bd1e78fd56d358e012ec6ea65130b9",
-      "symbol": "YT-TEST-SY-2-6SEP2025",
-      "assetGroup": "YT Test SY 2 6SEP2025::YT-TEST-SY-2-6SEP2025",
-      "currencyId": "YT Test SY 2 6SEP2025::YT-TEST-SY-2-6SEP2025"
     },
     "0x6763b125cd2aff99b3701b2061e5fd6584cb9b2b": {
       "chainId": "999",
@@ -2985,24 +4558,6 @@
       "assetGroup": "Pendle Market::PENDLE-LPT",
       "currencyId": "Pendle Market::PENDLE-LPT"
     },
-    "0x810f9d4a751cafd5193617022b35fa0b0c166b4c": {
-      "chainId": "999",
-      "decimals": 18,
-      "name": "PT Hyperbeat Ultra HYPE 18DEC2025",
-      "address": "0x810f9d4a751cafd5193617022b35fa0b0c166b4c",
-      "symbol": "PT-hbHYPE-18DEC2025",
-      "assetGroup": "PT Hyperbeat Ultra HYPE 18DEC2025::PT-hbHYPE-18DEC2025",
-      "currencyId": "PT Hyperbeat Ultra HYPE 18DEC2025::PT-hbHYPE-18DEC2025",
-      "props": {
-        "pendle": {
-          "tokenType": "PT",
-          "marketAddress": "0x97d985a71131afc02c320b636a268df34c6f42a4",
-          "syAddress": "0x0fcde5a369c0d71ac932840c8654db03681912dd",
-          "expiry": 1766016000,
-          "ytAddress": "0x2b55b35d9be63d016ee902d87af29d2c4f397dc1"
-        }
-      }
-    },
     "0x97d985a71131afc02c320b636a268df34c6f42a4": {
       "chainId": "999",
       "decimals": 18,
@@ -3012,64 +4567,6 @@
       "assetGroup": "Pendle Market::PENDLE-LPT::999::0",
       "currencyId": "Pendle Market::PENDLE-LPT"
     },
-    "0x0fcde5a369c0d71ac932840c8654db03681912dd": {
-      "chainId": "999",
-      "decimals": 18,
-      "name": "SY Hyperbeat Ultra HYPE",
-      "address": "0x0fcde5a369c0d71ac932840c8654db03681912dd",
-      "symbol": "SY-hbHYPE",
-      "assetGroup": "SY Hyperbeat Ultra HYPE::SY-hbHYPE",
-      "currencyId": "SY Hyperbeat Ultra HYPE::SY-hbHYPE",
-      "props": { "permit": { "type": 1, "version": "1" } }
-    },
-    "0x2b55b35d9be63d016ee902d87af29d2c4f397dc1": {
-      "chainId": "999",
-      "decimals": 18,
-      "name": "YT Hyperbeat Ultra HYPE 18DEC2025",
-      "address": "0x2b55b35d9be63d016ee902d87af29d2c4f397dc1",
-      "symbol": "YT-hbHYPE-18DEC2025",
-      "assetGroup": "YT Hyperbeat Ultra HYPE 18DEC2025::YT-hbHYPE-18DEC2025",
-      "currencyId": "YT Hyperbeat Ultra HYPE 18DEC2025::YT-hbHYPE-18DEC2025"
-    },
-    "0x311db0fde558689550c68355783c95efdfe25329": {
-      "chainId": "999",
-      "decimals": 18,
-      "name": "PT Kinetiq Staked HYPE 13NOV2025",
-      "address": "0x311db0fde558689550c68355783c95efdfe25329",
-      "symbol": "PT-kHYPE-13NOV2025",
-      "logoURI": "https://app.hyperlend.finance/assets/pt-khype-icon-C75KsiSC.svg",
-      "assetGroup": "PT Kinetiq Staked HYPE 13NOV2025::PT-kHYPE-13NOV2025",
-      "currencyId": "PT Kinetiq Staked HYPE 13NOV2025::PT-kHYPE-13NOV2025",
-      "tags": ["HYPERLEND", "HYPURRFI"],
-      "props": {
-        "pendle": {
-          "tokenType": "PT",
-          "marketAddress": "0x8867d2b7adb8609c51810237ecc9a25a2f601b97",
-          "syAddress": "0x57fc55dff8ceca86ee94a6bf255af2f0ed90eb9e",
-          "expiry": 1762992000,
-          "ytAddress": "0x3f6583ad479ab6020297ce12c9059d7480ab6e5a"
-        }
-      }
-    },
-    "0x31a75680de78bb2787ffe9840da569dbdf4504f5": {
-      "chainId": "999",
-      "decimals": 6,
-      "name": "PT Hyperbeat USDT 18DEC2025",
-      "address": "0x31a75680de78bb2787ffe9840da569dbdf4504f5",
-      "symbol": "PT-hbUSDT-18DEC2025",
-      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/bb4102e6-91d1-4015-a0b6-5346be3f139f.svg",
-      "assetGroup": "PT Hyperbeat USDT 18DEC2025::PT-hbUSDT-18DEC2025",
-      "currencyId": "PT Hyperbeat USDT 18DEC2025::PT-hbUSDT-18DEC2025",
-      "props": {
-        "pendle": {
-          "tokenType": "PT",
-          "marketAddress": "0xab9b8a04d21c9fb1fee7b7d219cab9e725a86b0a",
-          "syAddress": "0x642135ff98c15cba7fcf1766502bd493be4d3492",
-          "expiry": 1766016000,
-          "ytAddress": "0x47dd54dfa68172e3354e3cba2f59521d3dc9d9c7"
-        }
-      }
-    },
     "0x8867d2b7adb8609c51810237ecc9a25a2f601b97": {
       "chainId": "999",
       "decimals": 18,
@@ -3078,15 +4575,6 @@
       "symbol": "PENDLE-LPT",
       "assetGroup": "Pendle Market::PENDLE-LPT::999::1",
       "currencyId": "Pendle Market::PENDLE-LPT"
-    },
-    "0x8f454bfe03527e8a838002b5bf7bfe5f296aac09": {
-      "chainId": "999",
-      "decimals": 18,
-      "name": "YT Liquid HYPE Yield 30OCT2025",
-      "address": "0x8f454bfe03527e8a838002b5bf7bfe5f296aac09",
-      "symbol": "YT-liquidHYPE-30OCT2025",
-      "assetGroup": "YT Liquid HYPE Yield 30OCT2025::YT-liquidHYPE-30OCT2025",
-      "currencyId": "YT Liquid HYPE Yield 30OCT2025::YT-liquidHYPE-30OCT2025"
     },
     "0x976fb34e06c933bdd97cb1e8b868e04442edaa8d": {
       "chainId": "999",
@@ -3105,71 +4593,6 @@
       "symbol": "PENDLE-LPT",
       "assetGroup": "Pendle Market::PENDLE-LPT::999::3",
       "currencyId": "Pendle Market::PENDLE-LPT"
-    },
-    "0x3eceb4da795b083294f416821fa4137f2a5f06ff": {
-      "chainId": "999",
-      "decimals": 18,
-      "name": "PT Liquid HYPE Yield 30OCT2025",
-      "address": "0x3eceb4da795b083294f416821fa4137f2a5f06ff",
-      "symbol": "PT-liquidHYPE-30OCT2025",
-      "assetGroup": "PT Liquid HYPE Yield 30OCT2025::PT-liquidHYPE-30OCT2025",
-      "currencyId": "PT Liquid HYPE Yield 30OCT2025::PT-liquidHYPE-30OCT2025",
-      "props": {
-        "pendle": {
-          "tokenType": "PT",
-          "marketAddress": "0x976fb34e06c933bdd97cb1e8b868e04442edaa8d",
-          "syAddress": "0x41d81daf401a0aa7422a769243fa933f351a0d64",
-          "expiry": 1761782400,
-          "ytAddress": "0x8f454bfe03527e8a838002b5bf7bfe5f296aac09"
-        }
-      }
-    },
-    "0x3f6583ad479ab6020297ce12c9059d7480ab6e5a": {
-      "chainId": "999",
-      "decimals": 18,
-      "name": "YT Kinetiq Staked HYPE 13NOV2025",
-      "address": "0x3f6583ad479ab6020297ce12c9059d7480ab6e5a",
-      "symbol": "YT-kHYPE-13NOV2025",
-      "assetGroup": "YT Kinetiq Staked HYPE 13NOV2025::YT-kHYPE-13NOV2025",
-      "currencyId": "YT Kinetiq Staked HYPE 13NOV2025::YT-kHYPE-13NOV2025"
-    },
-    "0x41d81daf401a0aa7422a769243fa933f351a0d64": {
-      "chainId": "999",
-      "decimals": 18,
-      "name": "SY Liquid HYPE Yield",
-      "address": "0x41d81daf401a0aa7422a769243fa933f351a0d64",
-      "symbol": "SY-liquidHYPE",
-      "assetGroup": "SY Liquid HYPE Yield::SY-liquidHYPE",
-      "currencyId": "SY Liquid HYPE Yield::SY-liquidHYPE",
-      "props": { "permit": { "type": 1, "version": "1" } }
-    },
-    "0x47dd54dfa68172e3354e3cba2f59521d3dc9d9c7": {
-      "chainId": "999",
-      "decimals": 6,
-      "name": "YT Hyperbeat USDT 18DEC2025",
-      "address": "0x47dd54dfa68172e3354e3cba2f59521d3dc9d9c7",
-      "symbol": "YT-hbUSDT-18DEC2025",
-      "assetGroup": "YT Hyperbeat USDT 18DEC2025::YT-hbUSDT-18DEC2025",
-      "currencyId": "YT Hyperbeat USDT 18DEC2025::YT-hbUSDT-18DEC2025"
-    },
-    "0x57fc55dff8ceca86ee94a6bf255af2f0ed90eb9e": {
-      "chainId": "999",
-      "decimals": 18,
-      "name": "SY Kinetiq Staked HYPE",
-      "address": "0x57fc55dff8ceca86ee94a6bf255af2f0ed90eb9e",
-      "symbol": "SY-kHYPE",
-      "assetGroup": "SY Kinetiq Staked HYPE::SY-kHYPE",
-      "currencyId": "SY Kinetiq Staked HYPE::SY-kHYPE"
-    },
-    "0x642135ff98c15cba7fcf1766502bd493be4d3492": {
-      "chainId": "999",
-      "decimals": 18,
-      "name": "SY Hyperbeat USDT",
-      "address": "0x642135ff98c15cba7fcf1766502bd493be4d3492",
-      "symbol": "SY-hbUSDT",
-      "assetGroup": "SY Hyperbeat USDT::SY-hbUSDT",
-      "currencyId": "SY Hyperbeat USDT::SY-hbUSDT",
-      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x131707fbcc247b12e235af154fd7f7558803c24e": {
       "chainId": "999",
@@ -3601,26 +5024,6 @@
       "currencyId": "Boros::BOROS",
       "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
-    "0xb7379d395f3c83952ad794896205f7e33e358735": {
-      "chainId": "999",
-      "decimals": 18,
-      "name": "PT Ethena sUSDE 25SEP2025",
-      "address": "0xb7379d395f3c83952ad794896205f7e33e358735",
-      "symbol": "PT-sUSDE-25SEP2025",
-      "logoURI": "data:image/svg+xml,%3csvg%20width='37'%20height='37'%20viewBox='0%200%2037%2037'%20xmlns='http://www.w3.org/2000/svg'%3e%3cg%20xmlns='http://www.w3.org/2000/svg'%20width='37'%20height='37'%20fill='none'%20viewBox='0%200%2037%2037'%20transform='translate(0.5037572496646159,%200.5047842634690775)%20scale(0.9736842105263158,%200.9736842105263158)'%3e%3cpath%20fill='%23fff'%20stroke='%23000'%20stroke-width='0.67'%20d='M18.509.334c10.038%200%2018.175%208.137%2018.175%2018.175S28.547%2036.683%2018.51%2036.683h-.001C8.472%2036.683.335%2028.547.335%2018.51S8.472.334%2018.509.334Z'%3e%3c/path%3e%3cpath%20fill='%23000'%20fill-rule='evenodd'%20d='M15.54%203.278C8.395%204.654%202.998%2010.94%202.998%2018.486S8.395%2032.32%2015.54%2033.695v-1.452C9.186%2030.89%204.42%2025.244%204.42%2018.486c0-6.757%204.766-12.402%2011.12-13.756zm5.92%201.458V3.283c7.131%201.387%2012.515%207.667%2012.515%2015.204S28.59%2032.303%2021.46%2033.69v-1.453c6.34-1.364%2011.092-7.002%2011.092-13.75S27.8%206.1%2021.46%204.736'%20clip-rule='evenodd'%3e%3c/path%3e%3cpath%20fill='%23000'%20d='M20.693%2017.969q1.773.338%202.75%201.303.978.94.977%202.413v1.544q0%201.762-1.272%202.848-1.273%201.06-3.341%201.061h-.477V29.6h-1.636v-2.462h-.5q-1.364%200-2.41-.603a4.4%204.4%200%200%201-1.636-1.737q-.567-1.134-.568-2.606h1.636q0%201.496.819%202.437.84.917%202.204.917h2.523q1.34%200%202.159-.628.818-.651.818-1.689v-1.544q0-.82-.614-1.4-.591-.579-1.636-.748l-4.09-.724q-1.728-.313-2.683-1.303t-.954-2.485v-1.303q0-1.762%201.227-2.8%201.25-1.06%203.296-1.061h.409V7.399h1.636v2.462h.523q1.93%200%203.113%201.255%201.182%201.23%201.182%203.257H22.51q0-1.327-.727-2.123t-1.931-.797h-2.568q-1.296%200-2.069.628-.772.603-.772%201.64v1.304q0%20.844.568%201.423.591.58%201.613.773z'%3e%3c/path%3e%3c/g%3e%3ccircle%20cx='18.5'%20cy='18.5'%20r='17.5'%20stroke='%231BE3C2'%20stroke-width='2'%20fill='none'%3e%3c/circle%3e%3c/svg%3e",
-      "assetGroup": "PT Ethena sUSDE 25SEP2025::PT-sUSDE-25SEP2025",
-      "currencyId": "PT Ethena sUSDE 25SEP2025::PT-sUSDE-25SEP2025",
-      "tags": ["HYPERLEND"],
-      "props": {
-        "pendle": {
-          "tokenType": "PT",
-          "marketAddress": "0xe3765ec51aead35ea0a7f3745c1975a73dca21dc",
-          "syAddress": "0xcfaa9540332afa3974bceed79bdd24d86c5fd4ee",
-          "expiry": 1758758400,
-          "ytAddress": "0x92b8defe476f0d5ee957533f5b2f509190d12921"
-        }
-      }
-    },
     "0x9a12cb8869498d8826567437abea27be1c2ba9ab": {
       "chainId": "999",
       "decimals": 18,
@@ -3629,7 +5032,8 @@
       "symbol": "LINK0",
       "logoURI": "https://app.hyperliquid.xyz/coins/LINK.svg",
       "assetGroup": "LINK0::LINK0",
-      "currencyId": "LINK0::LINK0"
+      "currencyId": "LINK0::LINK0",
+      "tags": ["coingecko", "debridge"]
     },
     "0x36721e62edea413dc5195c4ca9c5a7eb175feb6b": {
       "chainId": "999",
@@ -3881,7 +5285,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69683/thumb/hypstr.png?1759296797",
       "assetGroup": "HypurrStrategy::HYPSTR",
       "currencyId": "HypurrStrategy::HYPSTR",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "999",

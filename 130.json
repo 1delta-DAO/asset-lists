@@ -3589,9 +3589,11 @@
       "name": "BetSwirl v2",
       "address": "0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5",
       "symbol": "BETS",
+      "logoURI": "https://assets.coingecko.com/coins/images/26618/thumb/icon_200.png?1696525691",
       "assetGroup": "BetSwirl v2::BETS",
       "currencyId": "BetSwirl v2::BETS",
-      "props": { "permit": { "type": 1, "version": "1" } }
+      "props": { "permit": { "type": 1, "version": "1" } },
+      "tags": ["coingecko"]
     },
     "0x830898200f0e8be8dc1c9a836f4ab29ecedf76eb": {
       "chainId": "130",
@@ -3779,6 +3781,17 @@
       "logoURI": "https://assets.coingecko.com/coins/images/53039/thumb/brBTC_200.png?1735074374",
       "assetGroup": "BRBTC",
       "currencyId": "brBTC::brBTC",
+      "tags": ["coingecko"]
+    },
+    "0x64445f0aecc51e94ad52d8ac56b7190e764e561a": {
+      "chainId": "130",
+      "decimals": 18,
+      "name": "Wrapped FRAX",
+      "address": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+      "symbol": "WFRAX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624",
+      "assetGroup": "Wrapped FRAX::WFRAX",
+      "currencyId": "Wrapped FRAX::WFRAX",
       "tags": ["coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {

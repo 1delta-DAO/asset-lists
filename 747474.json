@@ -352,6 +352,39 @@
       "currencyId": "AUSD yVault::AUSD",
       "tags": ["stablecoin", "usd-pegged", "rwa", "yield"]
     },
+    "0xca52d08737e6af8763a2bf6034b3b03868f24dda": {
+      "chainId": "747474",
+      "decimals": 18,
+      "name": "dTRINITY USD",
+      "address": "0xca52d08737e6af8763a2bf6034b3b03868f24dda",
+      "symbol": "DUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/53290/thumb/dUSD_Logo.png?1735997462",
+      "assetGroup": "dTRINITY USD::DUSD",
+      "currencyId": "dTRINITY USD::DUSD",
+      "tags": ["coingecko"]
+    },
+    "0x64445f0aecc51e94ad52d8ac56b7190e764e561a": {
+      "chainId": "747474",
+      "decimals": 18,
+      "name": "Wrapped FRAX",
+      "address": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+      "symbol": "WFRAX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624",
+      "assetGroup": "Wrapped FRAX::WFRAX",
+      "currencyId": "Wrapped FRAX::WFRAX",
+      "tags": ["coingecko"]
+    },
+    "0x80eede496655fb9047dd39d9f418d5483ed600df": {
+      "chainId": "747474",
+      "decimals": 18,
+      "name": "Frax USD",
+      "address": "0x80eede496655fb9047dd39d9f418d5483ed600df",
+      "symbol": "FRXUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154",
+      "assetGroup": "FRXUSD",
+      "currencyId": "Frax USD::FRXUSD",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "747474",
       "decimals": 18,
@@ -392,7 +425,10 @@
     "0x6c16e26013f2431e8b2e1ba7067ecccad0db6c52",
     "0x1e5efca3d0db2c6d5c67a4491845c43253eb9e4e",
     "0xc2c447b04e0ed3476ddbdae8e9e39be7159d27b6",
-    "0x9893989433e7a383cb313953e4c2365107dc19a7"
+    "0x9893989433e7a383cb313953e4c2365107dc19a7",
+    "0xca52d08737e6af8763a2bf6034b3b03868f24dda",
+    "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+    "0x80eede496655fb9047dd39d9f418d5483ed600df"
   ],
   "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",

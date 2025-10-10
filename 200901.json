@@ -255,6 +255,17 @@
       "currencyId": "brBTC::brBTC",
       "tags": ["coingecko"]
     },
+    "0xcdfb58c8c859cb3f62ebe9cf2767f9e036c7fb15": {
+      "chainId": "200901",
+      "decimals": 8,
+      "name": "BitFi Bitcoin",
+      "address": "0xcdfb58c8c859cb3f62ebe9cf2767f9e036c7fb15",
+      "symbol": "BFBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/69326/thumb/bfBTC-logo-symbol-color.png?1758193458",
+      "assetGroup": "BitFi Bitcoin::BFBTC",
+      "currencyId": "BitFi Bitcoin::BFBTC",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "200901",
       "decimals": 18,
@@ -294,7 +305,8 @@
     "0xf8c374ce88a3be3d374e8888349c7768b607c755",
     "0x4fdb0511f1e5c6c215596570f855cb1f9924b8b6",
     "0x56b275c0ec034a229a1ded8db17089544bc276d9",
-    "0x11b3808a5c0b612bc284ef7c2c6034c77a66be7b"
+    "0x11b3808a5c0b612bc284ef7c2c6034c77a66be7b",
+    "0xcdfb58c8c859cb3f62ebe9cf2767f9e036c7fb15"
   ],
   "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",

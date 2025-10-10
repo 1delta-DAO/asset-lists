@@ -359,6 +359,17 @@
       "currencyId": "Ethena::ENA",
       "tags": ["coingecko"]
     },
+    "0x368ec3d7c755abea7d48b0c006d282a1aba2f898": {
+      "chainId": "252",
+      "decimals": 18,
+      "name": "Squill",
+      "address": "0x368ec3d7c755abea7d48b0c006d282a1aba2f898",
+      "symbol": "SQUILL",
+      "logoURI": "https://assets.coingecko.com/coins/images/66883/thumb/SQUILL-200x200.png?1750922589",
+      "assetGroup": "Squill::SQUILL",
+      "currencyId": "Squill::SQUILL",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "252",
       "address": "0x0000000000000000000000000000000000000000",
@@ -398,7 +409,8 @@
     "0xfc00000000000000000000000000000000000004",
     "0xb102f7efa0d5de071a8d37b3548e1c7cb148caf3",
     "0x2416092f143378750bb29b79ed961ab195cceea5",
-    "0x58538e6a46e07434d7e7375bc268d3cb839c0133"
+    "0x58538e6a46e07434d7e7375bc268d3cb839c0133",
+    "0x368ec3d7c755abea7d48b0c006d282a1aba2f898"
   ],
   "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",

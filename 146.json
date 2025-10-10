@@ -2,6 +2,1611 @@
   "chainId": "146",
   "version": "0",
   "list": {
+    "0x986a98967ed30dced4cc458066f3aae9c7fc47a4": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Sonic Gems Distribution",
+      "address": "0x986a98967ed30dced4cc458066f3aae9c7fc47a4",
+      "symbol": "SY-Token",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/91449ebe-a8e0-49b4-9eba-c70c9ae5af90.svg",
+      "assetGroup": "Sonic Gems Distribution::SY-Token",
+      "currencyId": "Sonic Gems Distribution::SY-Token",
+      "tags": ["SY"],
+      "props": { "pendle": { "tokenType": "SY" } }
+    },
+    "0x020c8a523b38161df0d5580a6894d6859eab6ed5": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Sonic Gems Distribution",
+      "address": "0x020c8a523b38161df0d5580a6894d6859eab6ed5",
+      "symbol": "PT-Token-1MAY2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/826c3236-65b3-4497-83ce-0b05cac2a81f.svg",
+      "assetGroup": "Sonic Gems Distribution::PT-Token-1MAY2025",
+      "currencyId": "Sonic Gems Distribution::PT-Token-1MAY2025",
+      "tags": ["PT"],
+      "props": { "pendle": { "tokenType": "PT", "expired": true } }
+    },
+    "0x0a323de15f88546a02f3f62f0d98f3835e406377": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Sonic Gems Distribution",
+      "address": "0x0a323de15f88546a02f3f62f0d98f3835e406377",
+      "symbol": "YT-Token-1MAY2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/7fd91c80-cb51-4f93-809d-e5795fc72010.svg",
+      "assetGroup": "Sonic Gems Distribution::YT-Token-1MAY2025",
+      "currencyId": "Sonic Gems Distribution::YT-Token-1MAY2025",
+      "tags": ["YT"],
+      "props": { "pendle": { "tokenType": "YT", "expired": true } }
+    },
+    "0x896f4d49916ac5cfc36d7a260a7039ba4ea317b6": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "wstkscUSD",
+      "address": "0x896f4d49916ac5cfc36d7a260a7039ba4ea317b6",
+      "symbol": "SY-wstkscUSD",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/817c321f-f5ea-455b-a5a5-cd5baf69326b.svg",
+      "assetGroup": "wstkscUSD::SY-wstkscUSD",
+      "currencyId": "wstkscUSD::SY-wstkscUSD",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x004f76045b42ef3e89814b12b37e69da19c8a212",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x9fb76f7ce5fceaa2c42887ff441d46095e494206",
+          "ptAddress": "0x0fb682c9692addcc1769f4d4d938c54420d54fa3",
+          "ytAddress": "0x2405243576fdff777d54963bca4782180287b6a1"
+        }
+      }
+    },
+    "0xbe27993204ec64238f71a527b4c4d5f4949034c3": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "PT wstkscUSD (stkscUSD)",
+      "address": "0xbe27993204ec64238f71a527b4c4d5f4949034c3",
+      "symbol": "PT-wstkscUSD-29MAY2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/9d33074f-3fe7-4bf5-b12d-9cfe73c7d26d.svg",
+      "assetGroup": "PT wstkscUSD (stkscUSD)::PT-wstkscUSD-29MAY2025",
+      "currencyId": "PT wstkscUSD (stkscUSD)::PT-wstkscUSD-29MAY2025",
+      "tags": ["PT", "ENCLABS"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x6e4e95fab7db1f0524b4b0a05f0b9c96380b7dfa",
+          "expiry": 1748476800,
+          "underlyingAsset": "0x9fb76f7ce5fceaa2c42887ff441d46095e494206",
+          "ytAddress": "0xdcad0f3992a72ea0ce5eb703293a353249c0a76f",
+          "syAddress": "0x896f4d49916ac5cfc36d7a260a7039ba4ea317b6",
+          "expired": true
+        }
+      }
+    },
+    "0xdcad0f3992a72ea0ce5eb703293a353249c0a76f": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "YT wstkscUSD (stkscUSD)",
+      "address": "0xdcad0f3992a72ea0ce5eb703293a353249c0a76f",
+      "symbol": "YT-wstkscUSD-29MAY2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/ed73a8ea-be65-4734-a9a1-810cb6af5fbd.svg",
+      "assetGroup": "YT wstkscUSD (stkscUSD)::YT-wstkscUSD-29MAY2025",
+      "currencyId": "YT wstkscUSD (stkscUSD)::YT-wstkscUSD-29MAY2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x6e4e95fab7db1f0524b4b0a05f0b9c96380b7dfa",
+          "expiry": 1748476800,
+          "underlyingAsset": "0x9fb76f7ce5fceaa2c42887ff441d46095e494206",
+          "ptAddress": "0xbe27993204ec64238f71a527b4c4d5f4949034c3",
+          "syAddress": "0x896f4d49916ac5cfc36d7a260a7039ba4ea317b6",
+          "expired": true
+        }
+      }
+    },
+    "0x8bb86a99f97f5d19718bd5ca0b0ca00354532ef3": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "wstkscETH",
+      "address": "0x8bb86a99f97f5d19718bd5ca0b0ca00354532ef3",
+      "symbol": "SY-wstkscETH",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/7a8f9cf2-c71b-4e85-8c71-9fee3aa59a19.svg",
+      "assetGroup": "wstkscETH::SY-wstkscETH",
+      "currencyId": "wstkscETH::SY-wstkscETH",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x7e2bcdb749d90aa1e9e7262872ac8b1e062b2c4d",
+          "expiry": 1766016000,
+          "underlyingAsset": "0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47",
+          "ptAddress": "0x7e52f587f5b870d4c2cac8559ac4c49742d31a28",
+          "ytAddress": "0xdb7b0ca74c76d3b2449057b54b699d6ba04a4e70"
+        }
+      }
+    },
+    "0xa2161e75edf50d70544e6588788a5732a3105c00": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "PT wstkscETH (stkscETH)",
+      "address": "0xa2161e75edf50d70544e6588788a5732a3105c00",
+      "symbol": "PT-wstkscETH-29MAY2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/9674f014-0800-49a4-8fc9-a45c39f699d5.svg",
+      "assetGroup": "PT wstkscETH (stkscETH)::PT-wstkscETH-29MAY2025",
+      "currencyId": "PT wstkscETH (stkscETH)::PT-wstkscETH-29MAY2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0xd14117baf6ec5d12be68cd06e763a4b82c9b6d1d",
+          "expiry": 1748476800,
+          "underlyingAsset": "0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47",
+          "ytAddress": "0x30989fd89e9fa16191f38807d56cdfe98ad206f2",
+          "syAddress": "0x8bb86a99f97f5d19718bd5ca0b0ca00354532ef3",
+          "expired": true
+        }
+      }
+    },
+    "0x30989fd89e9fa16191f38807d56cdfe98ad206f2": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "YT wstkscETH (stkscETH)",
+      "address": "0x30989fd89e9fa16191f38807d56cdfe98ad206f2",
+      "symbol": "YT-wstkscETH-29MAY2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/878ca1c2-26a6-4c52-b770-1fc8d3de6166.svg",
+      "assetGroup": "YT wstkscETH (stkscETH)::YT-wstkscETH-29MAY2025",
+      "currencyId": "YT wstkscETH (stkscETH)::YT-wstkscETH-29MAY2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0xd14117baf6ec5d12be68cd06e763a4b82c9b6d1d",
+          "expiry": 1748476800,
+          "underlyingAsset": "0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47",
+          "ptAddress": "0xa2161e75edf50d70544e6588788a5732a3105c00",
+          "syAddress": "0x8bb86a99f97f5d19718bd5ca0b0ca00354532ef3",
+          "expired": true
+        }
+      }
+    },
+    "0x7076dee976098b444f68c6382e8f062237879a9f": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "stS",
+      "address": "0x7076dee976098b444f68c6382e8f062237879a9f",
+      "symbol": "SY-stS",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/3ba58f44-39c1-4050-a4e2-532dda96e6b0.svg",
+      "assetGroup": "stS::SY-stS",
+      "currencyId": "stS::SY-stS",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x7fa648887b2a10cbbf7c54d00d86d0b2a0a37b53",
+          "expiry": 1766016000,
+          "underlyingAsset": "0xe5da20f15420ad15de0fa650600afc998bbe3955",
+          "ptAddress": "0xe2bc30a4896ff4c52adcb180213666d2d6b21c6d",
+          "ytAddress": "0x6132c18f4112ef3fcdf2df658ddd0da55d28e5eb"
+        }
+      }
+    },
+    "0x420df605d062f8611efb3f203bf258159b8fffde": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "PT stS (Sonic)",
+      "address": "0x420df605d062f8611efb3f203bf258159b8fffde",
+      "symbol": "PT-stS-29MAY2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/1bb28886-399a-484f-ac3d-19263a36ab73.svg",
+      "assetGroup": "PT stS (Sonic)::PT-stS-29MAY2025",
+      "currencyId": "PT stS (Sonic)::PT-stS-29MAY2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x3aef1d372d0a7a7e482f465bc14a42d78f920392",
+          "expiry": 1748476800,
+          "underlyingAsset": "0xe5da20f15420ad15de0fa650600afc998bbe3955",
+          "ytAddress": "0xd8f57b34e69270f7ba179e854020ee80f16eebf4",
+          "syAddress": "0x7076dee976098b444f68c6382e8f062237879a9f",
+          "expired": true
+        }
+      }
+    },
+    "0xd8f57b34e69270f7ba179e854020ee80f16eebf4": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "YT stS (Sonic)",
+      "address": "0xd8f57b34e69270f7ba179e854020ee80f16eebf4",
+      "symbol": "YT-stS-29MAY2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/ba37abf3-5c9f-4a8f-98a9-d6ae3205c069.svg",
+      "assetGroup": "YT stS (Sonic)::YT-stS-29MAY2025",
+      "currencyId": "YT stS (Sonic)::YT-stS-29MAY2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x3aef1d372d0a7a7e482f465bc14a42d78f920392",
+          "expiry": 1748476800,
+          "underlyingAsset": "0xe5da20f15420ad15de0fa650600afc998bbe3955",
+          "ptAddress": "0x420df605d062f8611efb3f203bf258159b8fffde",
+          "syAddress": "0x7076dee976098b444f68c6382e8f062237879a9f",
+          "expired": true
+        }
+      }
+    },
+    "0xb261266cb30c255cb9c73ebf4a3ead9398d23ab4": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "wOS",
+      "address": "0xb261266cb30c255cb9c73ebf4a3ead9398d23ab4",
+      "symbol": "SY-wOS",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/533da53e-cee0-45ea-bc36-2450a92244af.svg",
+      "assetGroup": "wOS::SY-wOS",
+      "currencyId": "wOS::SY-wOS",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0xc1fd739f2bf1aad96f04d6ae35ed04da4d68366b",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x9f0df7799f6fdad409300080cff680f5a23df4b1",
+          "ptAddress": "0x200338559c1975d1f216adcda8352aff2869afab",
+          "ytAddress": "0x236093091952fb85cd755c6c808ee9802c3874d6"
+        }
+      }
+    },
+    "0x46eb02b9f47634c4fab3110cc7adc1c6311dfac1": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "PT wOS (OS)",
+      "address": "0x46eb02b9f47634c4fab3110cc7adc1c6311dfac1",
+      "symbol": "PT-wOS-29MAY2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/f8f75880-395d-49a0-9c58-17d0b149def3.svg",
+      "assetGroup": "PT wOS (OS)::PT-wOS-29MAY2025",
+      "currencyId": "PT wOS (OS)::PT-wOS-29MAY2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x4e82347bc41cfd5d62cef483c7f0a739a8158963",
+          "expiry": 1748476800,
+          "underlyingAsset": "0x9f0df7799f6fdad409300080cff680f5a23df4b1",
+          "ytAddress": "0x1a1b312378e42de5495d986c7948075a4723e660",
+          "syAddress": "0xb261266cb30c255cb9c73ebf4a3ead9398d23ab4",
+          "expired": true
+        }
+      }
+    },
+    "0x1a1b312378e42de5495d986c7948075a4723e660": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "YT wOS (OS)",
+      "address": "0x1a1b312378e42de5495d986c7948075a4723e660",
+      "symbol": "YT-wOS-29MAY2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/5e3e39ac-f06c-4819-aa90-56e9ae9d53e4.svg",
+      "assetGroup": "YT wOS (OS)::YT-wOS-29MAY2025",
+      "currencyId": "YT wOS (OS)::YT-wOS-29MAY2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x4e82347bc41cfd5d62cef483c7f0a739a8158963",
+          "expiry": 1748476800,
+          "underlyingAsset": "0x9f0df7799f6fdad409300080cff680f5a23df4b1",
+          "ptAddress": "0x46eb02b9f47634c4fab3110cc7adc1c6311dfac1",
+          "syAddress": "0xb261266cb30c255cb9c73ebf4a3ead9398d23ab4",
+          "expired": true
+        }
+      }
+    },
+    "0xc4a9d8b486f388cc0e4168d2904277e8c8372fa3": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "aUSDC",
+      "address": "0xc4a9d8b486f388cc0e4168d2904277e8c8372fa3",
+      "symbol": "SY-aSonUSDC",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/c8147707-3aed-44c7-9e32-47b7414944e3.svg",
+      "assetGroup": "aUSDC::SY-aSonUSDC",
+      "currencyId": "aUSDC::SY-aSonUSDC",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x3f5ea53d1160177445b1898afbb16da111182418",
+          "expiry": 1755129600,
+          "underlyingAsset": "0x578ee1ca3a8e1b54554da1bf7c583506c4cd11c6",
+          "ptAddress": "0x930441aa7ab17654df5663781ca0c02cc17e6643",
+          "ytAddress": "0x18d2d54f42ba720851bae861b98a0f4b079e6027"
+        }
+      }
+    },
+    "0x930441aa7ab17654df5663781ca0c02cc17e6643": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "PT aUSDC (USDC)",
+      "address": "0x930441aa7ab17654df5663781ca0c02cc17e6643",
+      "symbol": "PT-aSonUSDC-14AUG2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/39704a56-2168-4794-8a9f-407937288636.svg",
+      "assetGroup": "PT aUSDC (USDC)::PT-aSonUSDC-14AUG2025",
+      "currencyId": "PT aUSDC (USDC)::PT-aSonUSDC-14AUG2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x3f5ea53d1160177445b1898afbb16da111182418",
+          "expiry": 1755129600,
+          "underlyingAsset": "0x578ee1ca3a8e1b54554da1bf7c583506c4cd11c6",
+          "ytAddress": "0x18d2d54f42ba720851bae861b98a0f4b079e6027",
+          "syAddress": "0xc4a9d8b486f388cc0e4168d2904277e8c8372fa3",
+          "expired": true
+        }
+      }
+    },
+    "0x18d2d54f42ba720851bae861b98a0f4b079e6027": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "YT aUSDC (USDC)",
+      "address": "0x18d2d54f42ba720851bae861b98a0f4b079e6027",
+      "symbol": "YT-aSonUSDC-14AUG2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/5eedf00e-35eb-42db-a1b5-262de905d6d9.svg",
+      "assetGroup": "YT aUSDC (USDC)::YT-aSonUSDC-14AUG2025",
+      "currencyId": "YT aUSDC (USDC)::YT-aSonUSDC-14AUG2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x3f5ea53d1160177445b1898afbb16da111182418",
+          "expiry": 1755129600,
+          "underlyingAsset": "0x578ee1ca3a8e1b54554da1bf7c583506c4cd11c6",
+          "ptAddress": "0x930441aa7ab17654df5663781ca0c02cc17e6643",
+          "syAddress": "0xc4a9d8b486f388cc0e4168d2904277e8c8372fa3",
+          "expired": true
+        }
+      }
+    },
+    "0x40ae6da2d92aa3dcb7f8d7a7209fd12bdfcb7c85": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "xSolvBTC",
+      "address": "0x40ae6da2d92aa3dcb7f8d7a7209fd12bdfcb7c85",
+      "symbol": "SY-SolvBTC.BBN",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/2ffacb18-e488-431e-a9f8-bc65aa683a7c.png",
+      "assetGroup": "xSolvBTC::SY-SolvBTC.BBN",
+      "currencyId": "xSolvBTC::SY-SolvBTC.BBN",
+      "tags": ["SY"],
+      "props": { "pendle": { "tokenType": "SY" } }
+    },
+    "0x15c2b34593e47253ed3fd1115887c5c2d73d5722": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "PT xSolvBTC (xSolvBTC)",
+      "address": "0x15c2b34593e47253ed3fd1115887c5c2d73d5722",
+      "symbol": "PT-SolvBTC.BBN-26JUN2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/1299ff07-8e4a-40ce-a8e4-00606c48d856.svg",
+      "assetGroup": "PT xSolvBTC (xSolvBTC)::PT-SolvBTC.BBN-26JUN2025",
+      "currencyId": "PT xSolvBTC (xSolvBTC)::PT-SolvBTC.BBN-26JUN2025",
+      "tags": ["PT"],
+      "props": { "pendle": { "tokenType": "PT", "expired": true } }
+    },
+    "0x253bf4d07b1df144301313752d4d5135b23b18bb": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "YT xSolvBTC (xSolvBTC)",
+      "address": "0x253bf4d07b1df144301313752d4d5135b23b18bb",
+      "symbol": "YT-SolvBTC.BBN-26JUN2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/ddf178b5-d686-498c-83dc-d94e95bb5f2e.svg",
+      "assetGroup": "YT xSolvBTC (xSolvBTC)::YT-SolvBTC.BBN-26JUN2025",
+      "currencyId": "YT xSolvBTC (xSolvBTC)::YT-SolvBTC.BBN-26JUN2025",
+      "tags": ["YT"],
+      "props": { "pendle": { "tokenType": "YT", "expired": true } }
+    },
+    "0x27b1dacd74688af24a64bd3c9c1b143118740784": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "wanS",
+      "address": "0x27b1dacd74688af24a64bd3c9c1b143118740784",
+      "symbol": "SY-wanS",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/dd6db2c1-792f-4884-b5ec-2d19d637a716.png",
+      "assetGroup": "wanS::SY-wanS",
+      "currencyId": "wanS::SY-wanS",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x9700c4c218237550ead3a78022d43215a717e5e7",
+          "expiry": 1756339200,
+          "underlyingAsset": "0xfa85fe5a8f5560e9039c04f2b0a90de1415abd70",
+          "ptAddress": "0x789ca09b0b4bcc83062d817c43206f96bd464015",
+          "ytAddress": "0x081424ec3f4bfe0ad829297d6cb73997656f56ac"
+        }
+      }
+    },
+    "0x789ca09b0b4bcc83062d817c43206f96bd464015": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "PT wanS (anS)",
+      "address": "0x789ca09b0b4bcc83062d817c43206f96bd464015",
+      "symbol": "PT-wanS-28AUG2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/420cb100-6e3e-40f7-a44b-ca42a7785446.svg",
+      "assetGroup": "PT wanS (anS)::PT-wanS-28AUG2025",
+      "currencyId": "PT wanS (anS)::PT-wanS-28AUG2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x9700c4c218237550ead3a78022d43215a717e5e7",
+          "expiry": 1756339200,
+          "underlyingAsset": "0xfa85fe5a8f5560e9039c04f2b0a90de1415abd70",
+          "ytAddress": "0x081424ec3f4bfe0ad829297d6cb73997656f56ac",
+          "syAddress": "0x27b1dacd74688af24a64bd3c9c1b143118740784",
+          "expired": true
+        }
+      }
+    },
+    "0x081424ec3f4bfe0ad829297d6cb73997656f56ac": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "YT wanS (anS)",
+      "address": "0x081424ec3f4bfe0ad829297d6cb73997656f56ac",
+      "symbol": "YT-wanS-28AUG2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/678008e7-dd3b-47f3-9e93-7583f2458d66.svg",
+      "assetGroup": "YT wanS (anS)::YT-wanS-28AUG2025",
+      "currencyId": "YT wanS (anS)::YT-wanS-28AUG2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x9700c4c218237550ead3a78022d43215a717e5e7",
+          "expiry": 1756339200,
+          "underlyingAsset": "0xfa85fe5a8f5560e9039c04f2b0a90de1415abd70",
+          "ptAddress": "0x789ca09b0b4bcc83062d817c43206f96bd464015",
+          "syAddress": "0x27b1dacd74688af24a64bd3c9c1b143118740784",
+          "expired": true
+        }
+      }
+    },
+    "0x3bbacda010e7f4347e54f2bf0f42ff30b5a897da": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "SY-Silo-46-USDC.e",
+      "address": "0x3bbacda010e7f4347e54f2bf0f42ff30b5a897da",
+      "symbol": "SY-Silo-46-USDC.e",
+      "logoURI": "https://storage.googleapis.com/pendle-assets-staging/images/assets/unknown.svg",
+      "assetGroup": "SY-Silo-46-USDC.e::SY-Silo-46-USDC.e",
+      "currencyId": "SY-Silo-46-USDC.e::SY-Silo-46-USDC.e",
+      "tags": ["SY"],
+      "props": { "pendle": { "tokenType": "SY" } }
+    },
+    "0x266635c81d92ff7acf28174785ca03e2a53def3b": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "PT-Silo-46-USDC.e-25SEP2025",
+      "address": "0x266635c81d92ff7acf28174785ca03e2a53def3b",
+      "symbol": "PT-Silo-46-USDC.e-25SEP2025",
+      "logoURI": "https://storage.googleapis.com/pendle-assets-staging/images/assets/unknown.svg",
+      "assetGroup": "PT-Silo-46-USDC.e-25SEP2025::PT-Silo-46-USDC.e-25SEP2025",
+      "currencyId": "PT-Silo-46-USDC.e-25SEP2025::PT-Silo-46-USDC.e-25SEP2025",
+      "tags": ["PT"],
+      "props": { "pendle": { "tokenType": "PT", "expired": true } }
+    },
+    "0xae1bd3f12717721a67a1670e8f226ce903dd844e": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "YT-Silo-46-USDC.e-25SEP2025",
+      "address": "0xae1bd3f12717721a67a1670e8f226ce903dd844e",
+      "symbol": "YT-Silo-46-USDC.e-25SEP2025",
+      "logoURI": "https://storage.googleapis.com/pendle-assets-staging/images/assets/unknown.svg",
+      "assetGroup": "YT-Silo-46-USDC.e-25SEP2025::YT-Silo-46-USDC.e-25SEP2025",
+      "currencyId": "YT-Silo-46-USDC.e-25SEP2025::YT-Silo-46-USDC.e-25SEP2025",
+      "tags": ["YT"],
+      "props": { "pendle": { "tokenType": "YT", "expired": true } }
+    },
+    "0x642135ff98c15cba7fcf1766502bd493be4d3492": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "USDC (Silo-20)",
+      "address": "0x642135ff98c15cba7fcf1766502bd493be4d3492",
+      "symbol": "SY-Silo-20-USDC.e",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/2b0f9efa-a16f-4e7a-bedf-3f8a31430b5d.svg",
+      "assetGroup": "USDC (Silo-20)::SY-Silo-20-USDC.e",
+      "currencyId": "USDC (Silo-20)::SY-Silo-20-USDC.e",
+      "tags": ["SY"],
+      "props": { "pendle": { "tokenType": "SY" } }
+    },
+    "0x3ae4038069228760aa4b305314313fd028dd93fe": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "PT USDC (Silo-20)",
+      "address": "0x3ae4038069228760aa4b305314313fd028dd93fe",
+      "symbol": "PT-Silo-20-USDC.e-25SEP2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/a01bd7c7-bbd0-40f2-9def-1fd151b1deb0.svg",
+      "assetGroup": "PT USDC (Silo-20)::PT-Silo-20-USDC.e-25SEP2025",
+      "currencyId": "PT USDC (Silo-20)::PT-Silo-20-USDC.e-25SEP2025",
+      "tags": ["PT"],
+      "props": { "pendle": { "tokenType": "PT", "expired": true } }
+    },
+    "0xdf417f38b6cf9246a2d856fefad7dbef47cb62ec": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "YT USDC (Silo-20)",
+      "address": "0xdf417f38b6cf9246a2d856fefad7dbef47cb62ec",
+      "symbol": "YT-Silo-20-USDC.e-25SEP2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/a6a13059-a320-48f5-9a96-522e5ce958de.svg",
+      "assetGroup": "YT USDC (Silo-20)::YT-Silo-20-USDC.e-25SEP2025",
+      "currencyId": "YT USDC (Silo-20)::YT-Silo-20-USDC.e-25SEP2025",
+      "tags": ["YT"],
+      "props": { "pendle": { "tokenType": "YT", "expired": true } }
+    },
+    "0x068def65b9dbaff02b4ee54572a9fa7dfb188ea3": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "scUSD-Silo46",
+      "address": "0x068def65b9dbaff02b4ee54572a9fa7dfb188ea3",
+      "symbol": "SY-Silo-46-scUSD",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/1d21223a-be99-4db3-a95a-14ea0d80cb6c.svg",
+      "assetGroup": "scUSD-Silo46::SY-Silo-46-scUSD",
+      "currencyId": "scUSD-Silo46::SY-Silo-46-scUSD",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x84ecc6be573f15991736131f924f7bf571ed3b60",
+          "expiry": 1755129600,
+          "underlyingAsset": "0xe6605932e4a686534d19005bb9db0fba1f101272",
+          "ptAddress": "0x9731842ed581816913933c01de142c7ee412a8c8",
+          "ytAddress": "0x3ab07241db5e87e45edca012ddf4bde84c078920"
+        }
+      }
+    },
+    "0x9c2f643f60dd16e7d44dbd0d5ce2d79d38af30d5": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "PT-Silo-46-scUSD-25SEP2025",
+      "address": "0x9c2f643f60dd16e7d44dbd0d5ce2d79d38af30d5",
+      "symbol": "PT-Silo-46-scUSD-25SEP2025",
+      "logoURI": "https://storage.googleapis.com/pendle-assets-staging/images/assets/unknown.svg",
+      "assetGroup": "PT-Silo-46-scUSD-25SEP2025::PT-Silo-46-scUSD-25SEP2025",
+      "currencyId": "PT-Silo-46-scUSD-25SEP2025::PT-Silo-46-scUSD-25SEP2025",
+      "tags": ["PT"],
+      "props": { "pendle": { "tokenType": "PT", "expired": true } }
+    },
+    "0x23ec637324456796f39f3a4a468d9b9ddd6b9a7a": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "YT-Silo-46-scUSD-25SEP2025",
+      "address": "0x23ec637324456796f39f3a4a468d9b9ddd6b9a7a",
+      "symbol": "YT-Silo-46-scUSD-25SEP2025",
+      "logoURI": "https://storage.googleapis.com/pendle-assets-staging/images/assets/unknown.svg",
+      "assetGroup": "YT-Silo-46-scUSD-25SEP2025::YT-Silo-46-scUSD-25SEP2025",
+      "currencyId": "YT-Silo-46-scUSD-25SEP2025::YT-Silo-46-scUSD-25SEP2025",
+      "tags": ["YT"],
+      "props": { "pendle": { "tokenType": "YT", "expired": true } }
+    },
+    "0xa9da5457ffc301d7c98fb38105f551a665511af3": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "USDC-Silo20",
+      "address": "0xa9da5457ffc301d7c98fb38105f551a665511af3",
+      "symbol": "SY-Silo-20-USDC.e",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/909aaf4b-6552-4b97-bf61-f4dc6b561d76.svg",
+      "assetGroup": "USDC-Silo20::SY-Silo-20-USDC.e",
+      "currencyId": "USDC-Silo20::SY-Silo-20-USDC.e",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0xacfad541698437f6ef0e728c56a50ce35c73cc3e",
+          "expiry": 1752710400,
+          "underlyingAsset": "0x322e1d5384aa4ed66aeca770b95686271de61dc3",
+          "ptAddress": "0x77d8f09053c28faf1e00df6511b23125d438616f",
+          "ytAddress": "0x64547ba3f2d032c2d9f43e6ca1a98516a43dad3f"
+        }
+      }
+    },
+    "0x9731842ed581816913933c01de142c7ee412a8c8": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "PT scUSD-Silo46 (scUSD)",
+      "address": "0x9731842ed581816913933c01de142c7ee412a8c8",
+      "symbol": "PT-Silo-46-scUSD-14AUG2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/9006941e-0583-4c15-b26a-43cda0eb3995.svg",
+      "assetGroup": "PT scUSD-Silo46 (scUSD)::PT-Silo-46-scUSD-14AUG2025",
+      "currencyId": "PT scUSD-Silo46 (scUSD)::PT-Silo-46-scUSD-14AUG2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x84ecc6be573f15991736131f924f7bf571ed3b60",
+          "expiry": 1755129600,
+          "underlyingAsset": "0xe6605932e4a686534d19005bb9db0fba1f101272",
+          "ytAddress": "0x3ab07241db5e87e45edca012ddf4bde84c078920",
+          "syAddress": "0x068def65b9dbaff02b4ee54572a9fa7dfb188ea3",
+          "expired": true
+        }
+      }
+    },
+    "0x3ab07241db5e87e45edca012ddf4bde84c078920": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "YT scUSD-Silo46 (scUSD)",
+      "address": "0x3ab07241db5e87e45edca012ddf4bde84c078920",
+      "symbol": "YT-Silo-46-scUSD-14AUG2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/a49ffde3-4e28-4a02-9088-3e46429f9583.svg",
+      "assetGroup": "YT scUSD-Silo46 (scUSD)::YT-Silo-46-scUSD-14AUG2025",
+      "currencyId": "YT scUSD-Silo46 (scUSD)::YT-Silo-46-scUSD-14AUG2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x84ecc6be573f15991736131f924f7bf571ed3b60",
+          "expiry": 1755129600,
+          "underlyingAsset": "0xe6605932e4a686534d19005bb9db0fba1f101272",
+          "ptAddress": "0x9731842ed581816913933c01de142c7ee412a8c8",
+          "syAddress": "0x068def65b9dbaff02b4ee54572a9fa7dfb188ea3",
+          "expired": true
+        }
+      }
+    },
+    "0x77d8f09053c28faf1e00df6511b23125d438616f": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "PT USDC-Silo20 (USDC.e)",
+      "address": "0x77d8f09053c28faf1e00df6511b23125d438616f",
+      "symbol": "PT-Silo-20-USDC.e-17JUL2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/b7d5a31c-db0d-4d28-9d71-67354b3b5181.svg",
+      "assetGroup": "PT USDC-Silo20 (USDC.e)::PT-Silo-20-USDC.e-17JUL2025",
+      "currencyId": "PT USDC-Silo20 (USDC.e)::PT-Silo-20-USDC.e-17JUL2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0xacfad541698437f6ef0e728c56a50ce35c73cc3e",
+          "expiry": 1752710400,
+          "underlyingAsset": "0x322e1d5384aa4ed66aeca770b95686271de61dc3",
+          "ytAddress": "0x64547ba3f2d032c2d9f43e6ca1a98516a43dad3f",
+          "syAddress": "0xa9da5457ffc301d7c98fb38105f551a665511af3",
+          "expired": true
+        }
+      }
+    },
+    "0x64547ba3f2d032c2d9f43e6ca1a98516a43dad3f": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "YT USDC-Silo20 (USDC.e)",
+      "address": "0x64547ba3f2d032c2d9f43e6ca1a98516a43dad3f",
+      "symbol": "YT-Silo-20-USDC.e-17JUL2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/2f0ec9b9-4242-4489-9ab7-42ed09dd5033.svg",
+      "assetGroup": "YT USDC-Silo20 (USDC.e)::YT-Silo-20-USDC.e-17JUL2025",
+      "currencyId": "YT USDC-Silo20 (USDC.e)::YT-Silo-20-USDC.e-17JUL2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0xacfad541698437f6ef0e728c56a50ce35c73cc3e",
+          "expiry": 1752710400,
+          "underlyingAsset": "0x322e1d5384aa4ed66aeca770b95686271de61dc3",
+          "ptAddress": "0x77d8f09053c28faf1e00df6511b23125d438616f",
+          "syAddress": "0xa9da5457ffc301d7c98fb38105f551a665511af3",
+          "expired": true
+        }
+      }
+    },
+    "0x69a23f16974024a1b6a5362ac2a11bfeeefd5827": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "x33",
+      "address": "0x69a23f16974024a1b6a5362ac2a11bfeeefd5827",
+      "symbol": "SY-x33",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/a04d7026-30ca-40cd-ae3f-74cb8e596be7.svg",
+      "assetGroup": "x33::SY-x33",
+      "currencyId": "x33::SY-x33",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0xc9646f2a8a1d2f12a7fbf0274ec2d3ecc65f1468",
+          "expiry": 1772064000,
+          "underlyingAsset": "0x3333111a391cc08fa51353e9195526a70b333333",
+          "ptAddress": "0x22fe64c10f482004c48872c98d1f03cbdcaddce9",
+          "ytAddress": "0xc92113f9590999f3dab6fb32a17e050da1efdd76"
+        }
+      }
+    },
+    "0x3ce2972ae5e7ef2a6382644c6b75b6a333bcd604": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "PT x33 (xSHADOW)",
+      "address": "0x3ce2972ae5e7ef2a6382644c6b75b6a333bcd604",
+      "symbol": "PT-x33-14AUG2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/44e55c0d-95ff-438f-94b0-fccaadbc2b19.svg",
+      "assetGroup": "PT x33 (xSHADOW)::PT-x33-14AUG2025",
+      "currencyId": "PT x33 (xSHADOW)::PT-x33-14AUG2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x6d3ecf7a9fc726387bb6a91fffb4f90d1f38139c",
+          "expiry": 1755129600,
+          "underlyingAsset": "0x3333111a391cc08fa51353e9195526a70b333333",
+          "ytAddress": "0xad2afe99cf283c0751fcade3c53575f0b3154bcf",
+          "syAddress": "0x69a23f16974024a1b6a5362ac2a11bfeeefd5827",
+          "expired": true
+        }
+      }
+    },
+    "0xad2afe99cf283c0751fcade3c53575f0b3154bcf": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "YT x33 (xSHADOW)",
+      "address": "0xad2afe99cf283c0751fcade3c53575f0b3154bcf",
+      "symbol": "YT-x33-14AUG2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/ed94f93b-0b82-40a3-b4e2-9f271c7e24c0.svg",
+      "assetGroup": "YT x33 (xSHADOW)::YT-x33-14AUG2025",
+      "currencyId": "YT x33 (xSHADOW)::YT-x33-14AUG2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x6d3ecf7a9fc726387bb6a91fffb4f90d1f38139c",
+          "expiry": 1755129600,
+          "underlyingAsset": "0x3333111a391cc08fa51353e9195526a70b333333",
+          "ptAddress": "0x3ce2972ae5e7ef2a6382644c6b75b6a333bcd604",
+          "syAddress": "0x69a23f16974024a1b6a5362ac2a11bfeeefd5827",
+          "expired": true
+        }
+      }
+    },
+    "0x7e52f587f5b870d4c2cac8559ac4c49742d31a28": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "PT wstkscETH (stkscETH)",
+      "address": "0x7e52f587f5b870d4c2cac8559ac4c49742d31a28",
+      "symbol": "PT-wstkscETH-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/9674f014-0800-49a4-8fc9-a45c39f699d5.svg",
+      "assetGroup": "PT wstkscETH (stkscETH)::PT-wstkscETH-18DEC2025",
+      "currencyId": "PT wstkscETH (stkscETH)::PT-wstkscETH-18DEC2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x7e2bcdb749d90aa1e9e7262872ac8b1e062b2c4d",
+          "expiry": 1766016000,
+          "underlyingAsset": "0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47",
+          "ytAddress": "0xdb7b0ca74c76d3b2449057b54b699d6ba04a4e70",
+          "syAddress": "0x8bb86a99f97f5d19718bd5ca0b0ca00354532ef3"
+        }
+      }
+    },
+    "0xdb7b0ca74c76d3b2449057b54b699d6ba04a4e70": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "YT wstkscETH (stkscETH)",
+      "address": "0xdb7b0ca74c76d3b2449057b54b699d6ba04a4e70",
+      "symbol": "YT-wstkscETH-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/878ca1c2-26a6-4c52-b770-1fc8d3de6166.svg",
+      "assetGroup": "YT wstkscETH (stkscETH)::YT-wstkscETH-18DEC2025",
+      "currencyId": "YT wstkscETH (stkscETH)::YT-wstkscETH-18DEC2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x7e2bcdb749d90aa1e9e7262872ac8b1e062b2c4d",
+          "expiry": 1766016000,
+          "underlyingAsset": "0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47",
+          "ptAddress": "0x7e52f587f5b870d4c2cac8559ac4c49742d31a28",
+          "syAddress": "0x8bb86a99f97f5d19718bd5ca0b0ca00354532ef3"
+        }
+      }
+    },
+    "0x0fb682c9692addcc1769f4d4d938c54420d54fa3": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "PT wstkscUSD (stkscUSD)",
+      "address": "0x0fb682c9692addcc1769f4d4d938c54420d54fa3",
+      "symbol": "PT-wstkscUSD-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/9d33074f-3fe7-4bf5-b12d-9cfe73c7d26d.svg",
+      "assetGroup": "PT wstkscUSD (stkscUSD)::PT-wstkscUSD-18DEC2025",
+      "currencyId": "PT wstkscUSD (stkscUSD)::PT-wstkscUSD-18DEC2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x004f76045b42ef3e89814b12b37e69da19c8a212",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x9fb76f7ce5fceaa2c42887ff441d46095e494206",
+          "ytAddress": "0x2405243576fdff777d54963bca4782180287b6a1",
+          "syAddress": "0x896f4d49916ac5cfc36d7a260a7039ba4ea317b6"
+        }
+      }
+    },
+    "0x2405243576fdff777d54963bca4782180287b6a1": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "YT wstkscUSD (stkscUSD)",
+      "address": "0x2405243576fdff777d54963bca4782180287b6a1",
+      "symbol": "YT-wstkscUSD-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/ed73a8ea-be65-4734-a9a1-810cb6af5fbd.svg",
+      "assetGroup": "YT wstkscUSD (stkscUSD)::YT-wstkscUSD-18DEC2025",
+      "currencyId": "YT wstkscUSD (stkscUSD)::YT-wstkscUSD-18DEC2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x004f76045b42ef3e89814b12b37e69da19c8a212",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x9fb76f7ce5fceaa2c42887ff441d46095e494206",
+          "ptAddress": "0x0fb682c9692addcc1769f4d4d938c54420d54fa3",
+          "syAddress": "0x896f4d49916ac5cfc36d7a260a7039ba4ea317b6"
+        }
+      }
+    },
+    "0x200338559c1975d1f216adcda8352aff2869afab": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "PT wOS (OS)",
+      "address": "0x200338559c1975d1f216adcda8352aff2869afab",
+      "symbol": "PT-wOS-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/f8f75880-395d-49a0-9c58-17d0b149def3.svg",
+      "assetGroup": "PT wOS (OS)::PT-wOS-18DEC2025",
+      "currencyId": "PT wOS (OS)::PT-wOS-18DEC2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0xc1fd739f2bf1aad96f04d6ae35ed04da4d68366b",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x9f0df7799f6fdad409300080cff680f5a23df4b1",
+          "ytAddress": "0x236093091952fb85cd755c6c808ee9802c3874d6",
+          "syAddress": "0xb261266cb30c255cb9c73ebf4a3ead9398d23ab4"
+        }
+      }
+    },
+    "0x236093091952fb85cd755c6c808ee9802c3874d6": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "YT wOS (OS)",
+      "address": "0x236093091952fb85cd755c6c808ee9802c3874d6",
+      "symbol": "YT-wOS-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/5e3e39ac-f06c-4819-aa90-56e9ae9d53e4.svg",
+      "assetGroup": "YT wOS (OS)::YT-wOS-18DEC2025",
+      "currencyId": "YT wOS (OS)::YT-wOS-18DEC2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0xc1fd739f2bf1aad96f04d6ae35ed04da4d68366b",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x9f0df7799f6fdad409300080cff680f5a23df4b1",
+          "ptAddress": "0x200338559c1975d1f216adcda8352aff2869afab",
+          "syAddress": "0xb261266cb30c255cb9c73ebf4a3ead9398d23ab4"
+        }
+      }
+    },
+    "0xe2bc30a4896ff4c52adcb180213666d2d6b21c6d": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "PT stS (Sonic)",
+      "address": "0xe2bc30a4896ff4c52adcb180213666d2d6b21c6d",
+      "symbol": "PT-stS-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/1bb28886-399a-484f-ac3d-19263a36ab73.svg",
+      "assetGroup": "PT stS (Sonic)::PT-stS-18DEC2025",
+      "currencyId": "PT stS (Sonic)::PT-stS-18DEC2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x7fa648887b2a10cbbf7c54d00d86d0b2a0a37b53",
+          "expiry": 1766016000,
+          "underlyingAsset": "0xe5da20f15420ad15de0fa650600afc998bbe3955",
+          "ytAddress": "0x6132c18f4112ef3fcdf2df658ddd0da55d28e5eb",
+          "syAddress": "0x7076dee976098b444f68c6382e8f062237879a9f"
+        }
+      }
+    },
+    "0x6132c18f4112ef3fcdf2df658ddd0da55d28e5eb": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "YT stS (Sonic)",
+      "address": "0x6132c18f4112ef3fcdf2df658ddd0da55d28e5eb",
+      "symbol": "YT-stS-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/ba37abf3-5c9f-4a8f-98a9-d6ae3205c069.svg",
+      "assetGroup": "YT stS (Sonic)::YT-stS-18DEC2025",
+      "currencyId": "YT stS (Sonic)::YT-stS-18DEC2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x7fa648887b2a10cbbf7c54d00d86d0b2a0a37b53",
+          "expiry": 1766016000,
+          "underlyingAsset": "0xe5da20f15420ad15de0fa650600afc998bbe3955",
+          "ptAddress": "0xe2bc30a4896ff4c52adcb180213666d2d6b21c6d",
+          "syAddress": "0x7076dee976098b444f68c6382e8f062237879a9f"
+        }
+      }
+    },
+    "0xee79b2473e5180f9bd7366f508961655c770f021": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "USDC (Silo Apostro)",
+      "address": "0xee79b2473e5180f9bd7366f508961655c770f021",
+      "symbol": "SY-aprUSDC",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/64265150-846f-4fb4-a88e-a4d405ebe663.svg",
+      "assetGroup": "USDC (Silo Apostro)::SY-aprUSDC",
+      "currencyId": "USDC (Silo Apostro)::SY-aprUSDC",
+      "tags": ["SY"],
+      "props": { "pendle": { "tokenType": "SY" } }
+    },
+    "0xaa3350c98a4a3a4cbbf35d0858420bc937579598": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "S-Silo Varlamore",
+      "address": "0xaa3350c98a4a3a4cbbf35d0858420bc937579598",
+      "symbol": "SY-vS",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/21e1d805-1917-4491-8437-c34c0a405a24.svg",
+      "assetGroup": "S-Silo Varlamore::SY-vS",
+      "currencyId": "S-Silo Varlamore::SY-vS",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x92a991e5cf27de3ffd021d2fcf79f0b2f140aad4",
+          "expiry": 1766016000,
+          "underlyingAsset": "0xded4ac8645619334186f28b8798e07ca354cfa0e",
+          "ptAddress": "0xd8c09ae367988a3b56e118977e0d98b9d223d071",
+          "ytAddress": "0x5902b89a2c79021df9a6011fe58911804c8ce68a"
+        }
+      }
+    },
+    "0xd8c09ae367988a3b56e118977e0d98b9d223d071": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "PT S-Silo Varlamore (wS)",
+      "address": "0xd8c09ae367988a3b56e118977e0d98b9d223d071",
+      "symbol": "PT-vS-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/71b78e39-10a8-4c75-b701-7c4009d0fd71.svg",
+      "assetGroup": "PT S-Silo Varlamore (wS)::PT-vS-18DEC2025",
+      "currencyId": "PT S-Silo Varlamore (wS)::PT-vS-18DEC2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x92a991e5cf27de3ffd021d2fcf79f0b2f140aad4",
+          "expiry": 1766016000,
+          "underlyingAsset": "0xded4ac8645619334186f28b8798e07ca354cfa0e",
+          "ytAddress": "0x5902b89a2c79021df9a6011fe58911804c8ce68a",
+          "syAddress": "0xaa3350c98a4a3a4cbbf35d0858420bc937579598"
+        }
+      }
+    },
+    "0x5902b89a2c79021df9a6011fe58911804c8ce68a": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "YT S-Silo Varlamore (wS)",
+      "address": "0x5902b89a2c79021df9a6011fe58911804c8ce68a",
+      "symbol": "YT-vS-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/9696c6b5-1994-49d2-a544-baf470ac8a17.svg",
+      "assetGroup": "YT S-Silo Varlamore (wS)::YT-vS-18DEC2025",
+      "currencyId": "YT S-Silo Varlamore (wS)::YT-vS-18DEC2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x92a991e5cf27de3ffd021d2fcf79f0b2f140aad4",
+          "expiry": 1766016000,
+          "underlyingAsset": "0xded4ac8645619334186f28b8798e07ca354cfa0e",
+          "ptAddress": "0xd8c09ae367988a3b56e118977e0d98b9d223d071",
+          "syAddress": "0xaa3350c98a4a3a4cbbf35d0858420bc937579598"
+        }
+      }
+    },
+    "0x3ba56bd2ddf751c6d1929e9f499a1718d424811f": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "USDC-Silo Varlamore",
+      "address": "0x3ba56bd2ddf751c6d1929e9f499a1718d424811f",
+      "symbol": "SY-vgUSDC",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/98f5d67e-4c4e-45bf-b1ce-513f6e7b6fc7.svg",
+      "assetGroup": "USDC-Silo Varlamore::SY-vgUSDC",
+      "currencyId": "USDC-Silo Varlamore::SY-vgUSDC",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0xd0e59a083cc31356d29d9b6d2574024e945468a3",
+          "expiry": 1766016000,
+          "underlyingAsset": "0xf6f87073cf8929c206a77b0694619dc776f89885",
+          "ptAddress": "0x3ed026bd27f7b8435e8daefa4f4f4d8637890c12",
+          "ytAddress": "0xaeb470c21d7e0afd071dfc885535d55d8f096e4a"
+        }
+      }
+    },
+    "0x3ed026bd27f7b8435e8daefa4f4f4d8637890c12": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "PT USDC-Silo Varlamore (USDC)",
+      "address": "0x3ed026bd27f7b8435e8daefa4f4f4d8637890c12",
+      "symbol": "PT-vgUSDC-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/cb72d15a-a9e5-4c53-b28a-857b50354d77.svg",
+      "assetGroup": "PT USDC-Silo Varlamore (USDC)::PT-vgUSDC-18DEC2025",
+      "currencyId": "PT USDC-Silo Varlamore (USDC)::PT-vgUSDC-18DEC2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0xd0e59a083cc31356d29d9b6d2574024e945468a3",
+          "expiry": 1766016000,
+          "underlyingAsset": "0xf6f87073cf8929c206a77b0694619dc776f89885",
+          "ytAddress": "0xaeb470c21d7e0afd071dfc885535d55d8f096e4a",
+          "syAddress": "0x3ba56bd2ddf751c6d1929e9f499a1718d424811f"
+        }
+      }
+    },
+    "0xaeb470c21d7e0afd071dfc885535d55d8f096e4a": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "YT USDC-Silo Varlamore (USDC)",
+      "address": "0xaeb470c21d7e0afd071dfc885535d55d8f096e4a",
+      "symbol": "YT-vgUSDC-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/931f66f0-b554-4a69-94af-c87103f0d0ae.svg",
+      "assetGroup": "YT USDC-Silo Varlamore (USDC)::YT-vgUSDC-18DEC2025",
+      "currencyId": "YT USDC-Silo Varlamore (USDC)::YT-vgUSDC-18DEC2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0xd0e59a083cc31356d29d9b6d2574024e945468a3",
+          "expiry": 1766016000,
+          "underlyingAsset": "0xf6f87073cf8929c206a77b0694619dc776f89885",
+          "ptAddress": "0x3ed026bd27f7b8435e8daefa4f4f4d8637890c12",
+          "syAddress": "0x3ba56bd2ddf751c6d1929e9f499a1718d424811f"
+        }
+      }
+    },
+    "0x89a3cfaac1905bb42ee834ac79178705f098a76c": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "USDC-Silo Apostro",
+      "address": "0x89a3cfaac1905bb42ee834ac79178705f098a76c",
+      "symbol": "SY-aprUSDC",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/0c37a63d-1e95-453d-88b4-3fe5886736bc.svg",
+      "assetGroup": "USDC-Silo Apostro::SY-aprUSDC",
+      "currencyId": "USDC-Silo Apostro::SY-aprUSDC",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0xb92dd6487a9644ce384b4a2198aa2dd230e00b72",
+          "expiry": 1766016000,
+          "underlyingAsset": "0xcca902f2d3d265151f123d8ce8fdac38ba9745ed",
+          "ptAddress": "0x4ec936df4a703929361bd7dea86038feba6ebfac",
+          "ytAddress": "0x9c306e72771e77dca71d608e4073926fefdf3480"
+        }
+      }
+    },
+    "0x4ec936df4a703929361bd7dea86038feba6ebfac": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "PT USDC-Silo Apostro (USDC)",
+      "address": "0x4ec936df4a703929361bd7dea86038feba6ebfac",
+      "symbol": "PT-aprUSDC-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/c7001755-ff38-416f-866f-4f58575a8fe4.svg",
+      "assetGroup": "PT USDC-Silo Apostro (USDC)::PT-aprUSDC-18DEC2025",
+      "currencyId": "PT USDC-Silo Apostro (USDC)::PT-aprUSDC-18DEC2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0xb92dd6487a9644ce384b4a2198aa2dd230e00b72",
+          "expiry": 1766016000,
+          "underlyingAsset": "0xcca902f2d3d265151f123d8ce8fdac38ba9745ed",
+          "ytAddress": "0x9c306e72771e77dca71d608e4073926fefdf3480",
+          "syAddress": "0x89a3cfaac1905bb42ee834ac79178705f098a76c"
+        }
+      }
+    },
+    "0x9c306e72771e77dca71d608e4073926fefdf3480": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "YT USDC-Silo Apostro (USDC)",
+      "address": "0x9c306e72771e77dca71d608e4073926fefdf3480",
+      "symbol": "YT-aprUSDC-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/bc1ae6d8-5e38-4311-9b3d-38aa7edf91d0.svg",
+      "assetGroup": "YT USDC-Silo Apostro (USDC)::YT-aprUSDC-18DEC2025",
+      "currencyId": "YT USDC-Silo Apostro (USDC)::YT-aprUSDC-18DEC2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0xb92dd6487a9644ce384b4a2198aa2dd230e00b72",
+          "expiry": 1766016000,
+          "underlyingAsset": "0xcca902f2d3d265151f123d8ce8fdac38ba9745ed",
+          "ptAddress": "0x4ec936df4a703929361bd7dea86038feba6ebfac",
+          "syAddress": "0x89a3cfaac1905bb42ee834ac79178705f098a76c"
+        }
+      }
+    },
+    "0x30ccf4bbee313fcd19f3e295b3ba2920a24e2f62": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "lstRZR",
+      "address": "0x30ccf4bbee313fcd19f3e295b3ba2920a24e2f62",
+      "symbol": "SY-lstRZR",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/5a0f3203-6d45-4991-a2d9-555b9e2dfecf.svg",
+      "assetGroup": "lstRZR::SY-lstRZR",
+      "currencyId": "lstRZR::SY-lstRZR",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0xabfc41b413891c647d0d1cd66bf64bc6ed8fee71",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x67a298e5b65db2b4616e05c3b455e017275f53cb",
+          "ptAddress": "0xbab91a3046003a5be46693d14e28d3b48252cf93",
+          "ytAddress": "0x9691b32ad2ac224695b8e071673a2441b0d3dbe0"
+        }
+      }
+    },
+    "0xbab91a3046003a5be46693d14e28d3b48252cf93": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "PT lstRZR (RZR)",
+      "address": "0xbab91a3046003a5be46693d14e28d3b48252cf93",
+      "symbol": "PT-lstRZR-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/3d65eb79-7e6d-40f8-9879-aec48d1fa7f3.svg",
+      "assetGroup": "PT lstRZR (RZR)::PT-lstRZR-18DEC2025",
+      "currencyId": "PT lstRZR (RZR)::PT-lstRZR-18DEC2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0xabfc41b413891c647d0d1cd66bf64bc6ed8fee71",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x67a298e5b65db2b4616e05c3b455e017275f53cb",
+          "ytAddress": "0x9691b32ad2ac224695b8e071673a2441b0d3dbe0",
+          "syAddress": "0x30ccf4bbee313fcd19f3e295b3ba2920a24e2f62"
+        }
+      }
+    },
+    "0x9691b32ad2ac224695b8e071673a2441b0d3dbe0": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "YT lstRZR (RZR)",
+      "address": "0x9691b32ad2ac224695b8e071673a2441b0d3dbe0",
+      "symbol": "YT-lstRZR-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/5a913a29-b0a5-480a-a6cf-b6e6c5689919.svg",
+      "assetGroup": "YT lstRZR (RZR)::YT-lstRZR-18DEC2025",
+      "currencyId": "YT lstRZR (RZR)::YT-lstRZR-18DEC2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0xabfc41b413891c647d0d1cd66bf64bc6ed8fee71",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x67a298e5b65db2b4616e05c3b455e017275f53cb",
+          "ptAddress": "0xbab91a3046003a5be46693d14e28d3b48252cf93",
+          "syAddress": "0x30ccf4bbee313fcd19f3e295b3ba2920a24e2f62"
+        }
+      }
+    },
+    "0x3a9dc0b33ab3b6e6ce1ead61909f59acd7682036": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "USDC-Silo Greenhouse",
+      "address": "0x3a9dc0b33ab3b6e6ce1ead61909f59acd7682036",
+      "symbol": "SY-ghUSDC",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/c9c988cd-46b0-45a6-bfeb-5bec2e42ec37.svg",
+      "assetGroup": "USDC-Silo Greenhouse::SY-ghUSDC",
+      "currencyId": "USDC-Silo Greenhouse::SY-ghUSDC",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x784abe614738e4b30add5ae8cc96e59b5728d936",
+          "expiry": 1766016000,
+          "underlyingAsset": "0xf6bc16b79c469b94cdd25f3e2334dd4fee47a581",
+          "ptAddress": "0x01d6dafa8b3bd04bdf7ba6ff76104d15e2b7485c",
+          "ytAddress": "0xad6825518b0d38200a2311489bb3b025df38ec72"
+        }
+      }
+    },
+    "0x01d6dafa8b3bd04bdf7ba6ff76104d15e2b7485c": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "PT USDC-Silo Greenhouse (USDC.e)",
+      "address": "0x01d6dafa8b3bd04bdf7ba6ff76104d15e2b7485c",
+      "symbol": "PT-ghUSDC-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/6742e255-f31c-43b9-843e-93ea87b0f2f0.svg",
+      "assetGroup": "PT USDC-Silo Greenhouse (USDC.e)::PT-ghUSDC-18DEC2025",
+      "currencyId": "PT USDC-Silo Greenhouse (USDC.e)::PT-ghUSDC-18DEC2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x784abe614738e4b30add5ae8cc96e59b5728d936",
+          "expiry": 1766016000,
+          "underlyingAsset": "0xf6bc16b79c469b94cdd25f3e2334dd4fee47a581",
+          "ytAddress": "0xad6825518b0d38200a2311489bb3b025df38ec72",
+          "syAddress": "0x3a9dc0b33ab3b6e6ce1ead61909f59acd7682036"
+        }
+      }
+    },
+    "0xad6825518b0d38200a2311489bb3b025df38ec72": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "YT USDC-Silo Greenhouse (USDC.e)",
+      "address": "0xad6825518b0d38200a2311489bb3b025df38ec72",
+      "symbol": "YT-ghUSDC-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/01c02a13-12db-455a-91de-838462ee9468.svg",
+      "assetGroup": "YT USDC-Silo Greenhouse (USDC.e)::YT-ghUSDC-18DEC2025",
+      "currencyId": "YT USDC-Silo Greenhouse (USDC.e)::YT-ghUSDC-18DEC2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x784abe614738e4b30add5ae8cc96e59b5728d936",
+          "expiry": 1766016000,
+          "underlyingAsset": "0xf6bc16b79c469b94cdd25f3e2334dd4fee47a581",
+          "ptAddress": "0x01d6dafa8b3bd04bdf7ba6ff76104d15e2b7485c",
+          "syAddress": "0x3a9dc0b33ab3b6e6ce1ead61909f59acd7682036"
+        }
+      }
+    },
+    "0xdd3059d662497a212e4ef71260387ec6adc6e8b9": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "xSILO",
+      "address": "0xdd3059d662497a212e4ef71260387ec6adc6e8b9",
+      "symbol": "SY-xSILO",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/12b6645a-9610-40dd-a3c1-245ddd0cf9f3.svg",
+      "assetGroup": "xSILO::SY-xSILO",
+      "currencyId": "xSILO::SY-xSILO",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x19524fc9b2348d4d6a489a4cd3179405e84eeb9b",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x4451765739b2d7bce5f8bc95beaf966c45e1dcc9",
+          "ptAddress": "0x0816792e394707f9b51b1e710a8186e2a4f98fa6",
+          "ytAddress": "0xde891fae97a70acc25c10a3275874919b0cca44c"
+        }
+      }
+    },
+    "0x0816792e394707f9b51b1e710a8186e2a4f98fa6": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "PT xSILO (SILO)",
+      "address": "0x0816792e394707f9b51b1e710a8186e2a4f98fa6",
+      "symbol": "PT-xSILO-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/60341cd1-0b7d-4d22-acce-d44da68f0c8b.svg",
+      "assetGroup": "PT xSILO (SILO)::PT-xSILO-18DEC2025",
+      "currencyId": "PT xSILO (SILO)::PT-xSILO-18DEC2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x19524fc9b2348d4d6a489a4cd3179405e84eeb9b",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x4451765739b2d7bce5f8bc95beaf966c45e1dcc9",
+          "ytAddress": "0xde891fae97a70acc25c10a3275874919b0cca44c",
+          "syAddress": "0xdd3059d662497a212e4ef71260387ec6adc6e8b9"
+        }
+      }
+    },
+    "0xde891fae97a70acc25c10a3275874919b0cca44c": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "YT xSILO (SILO)",
+      "address": "0xde891fae97a70acc25c10a3275874919b0cca44c",
+      "symbol": "YT-xSILO-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/713869ed-1930-464e-9643-120b806eac77.svg",
+      "assetGroup": "YT xSILO (SILO)::YT-xSILO-18DEC2025",
+      "currencyId": "YT xSILO (SILO)::YT-xSILO-18DEC2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x19524fc9b2348d4d6a489a4cd3179405e84eeb9b",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x4451765739b2d7bce5f8bc95beaf966c45e1dcc9",
+          "ptAddress": "0x0816792e394707f9b51b1e710a8186e2a4f98fa6",
+          "syAddress": "0xdd3059d662497a212e4ef71260387ec6adc6e8b9"
+        }
+      }
+    },
+    "0x23a052dfcabd4fa7bd52e7e67e0fb0ee596e7383": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "smsUSD",
+      "address": "0x23a052dfcabd4fa7bd52e7e67e0fb0ee596e7383",
+      "symbol": "SY-smsUSD",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/91de4406-3ff5-405f-99dd-1aad5b511928.svg",
+      "assetGroup": "smsUSD::SY-smsUSD",
+      "currencyId": "smsUSD::SY-smsUSD",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x4aee8d5e242c2485bd124299203c7fa5108c25fc",
+          "expiry": 1761782400,
+          "underlyingAsset": "0xc7990369da608c2f4903715e3bd22f2970536c29",
+          "ptAddress": "0x5ee17fd12ede62b508f9615db384ce7b834ba657",
+          "ytAddress": "0x8ea40880fd6e9647b73fe3faa5042e6694576f0c"
+        }
+      }
+    },
+    "0x5ee17fd12ede62b508f9615db384ce7b834ba657": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "PT smsUSD (msUSD)",
+      "address": "0x5ee17fd12ede62b508f9615db384ce7b834ba657",
+      "symbol": "PT-smsUSD-30OCT2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/1001e683-6598-42cc-9ec3-c1522707d5f7.svg",
+      "assetGroup": "PT smsUSD (msUSD)::PT-smsUSD-30OCT2025",
+      "currencyId": "PT smsUSD (msUSD)::PT-smsUSD-30OCT2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x4aee8d5e242c2485bd124299203c7fa5108c25fc",
+          "expiry": 1761782400,
+          "underlyingAsset": "0xc7990369da608c2f4903715e3bd22f2970536c29",
+          "ytAddress": "0x8ea40880fd6e9647b73fe3faa5042e6694576f0c",
+          "syAddress": "0x23a052dfcabd4fa7bd52e7e67e0fb0ee596e7383"
+        }
+      }
+    },
+    "0x8ea40880fd6e9647b73fe3faa5042e6694576f0c": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "YT smsUSD (msUSD)",
+      "address": "0x8ea40880fd6e9647b73fe3faa5042e6694576f0c",
+      "symbol": "YT-smsUSD-30OCT2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/98a6044b-d10e-4913-9b72-53bb79b0cb78.svg",
+      "assetGroup": "YT smsUSD (msUSD)::YT-smsUSD-30OCT2025",
+      "currencyId": "YT smsUSD (msUSD)::YT-smsUSD-30OCT2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x4aee8d5e242c2485bd124299203c7fa5108c25fc",
+          "expiry": 1761782400,
+          "underlyingAsset": "0xc7990369da608c2f4903715e3bd22f2970536c29",
+          "ptAddress": "0x5ee17fd12ede62b508f9615db384ce7b834ba657",
+          "syAddress": "0x23a052dfcabd4fa7bd52e7e67e0fb0ee596e7383"
+        }
+      }
+    },
+    "0xa809c9814d04282490c0078200a7597452a9452d": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "msUSD",
+      "address": "0xa809c9814d04282490c0078200a7597452a9452d",
+      "symbol": "SY-msUSD",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/b25a7750-8770-487d-955a-cf9eef8958a6.svg",
+      "assetGroup": "msUSD::SY-msUSD",
+      "currencyId": "msUSD::SY-msUSD",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x0d769b6ad1a553cb789490ca264352318aaaa8c6",
+          "expiry": 1761782400,
+          "underlyingAsset": "0xe5fb2ed6832def99dde57c0b9d9a56537c89121d",
+          "ptAddress": "0x319e3bbe49c5f2562e8a35a1480c20f311055d5f",
+          "ytAddress": "0x61c0859debe81b04c3bb2935da2aeb52772ce455"
+        }
+      }
+    },
+    "0x319e3bbe49c5f2562e8a35a1480c20f311055d5f": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "PT msUSD (msUSD)",
+      "address": "0x319e3bbe49c5f2562e8a35a1480c20f311055d5f",
+      "symbol": "PT-msUSD-30OCT2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/3c80ec21-41e5-45ea-bcb0-ba574043f73d.svg",
+      "assetGroup": "PT msUSD (msUSD)::PT-msUSD-30OCT2025",
+      "currencyId": "PT msUSD (msUSD)::PT-msUSD-30OCT2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x0d769b6ad1a553cb789490ca264352318aaaa8c6",
+          "expiry": 1761782400,
+          "underlyingAsset": "0xe5fb2ed6832def99dde57c0b9d9a56537c89121d",
+          "ytAddress": "0x61c0859debe81b04c3bb2935da2aeb52772ce455",
+          "syAddress": "0xa809c9814d04282490c0078200a7597452a9452d"
+        }
+      }
+    },
+    "0x61c0859debe81b04c3bb2935da2aeb52772ce455": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "YT msUSD (msUSD)",
+      "address": "0x61c0859debe81b04c3bb2935da2aeb52772ce455",
+      "symbol": "YT-msUSD-30OCT2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/57efb32e-1779-457a-b2a4-44c3c7097cfd.svg",
+      "assetGroup": "YT msUSD (msUSD)::YT-msUSD-30OCT2025",
+      "currencyId": "YT msUSD (msUSD)::YT-msUSD-30OCT2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x0d769b6ad1a553cb789490ca264352318aaaa8c6",
+          "expiry": 1761782400,
+          "underlyingAsset": "0xe5fb2ed6832def99dde57c0b9d9a56537c89121d",
+          "ptAddress": "0x319e3bbe49c5f2562e8a35a1480c20f311055d5f",
+          "syAddress": "0xa809c9814d04282490c0078200a7597452a9452d"
+        }
+      }
+    },
+    "0x7a657c50c6b640ecaab7bb8dad86344169bf8c16": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "re-aUSDC",
+      "address": "0x7a657c50c6b640ecaab7bb8dad86344169bf8c16",
+      "symbol": "SY-re-aUSDC",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/9e8c648b-e7ec-4dc4-8c3a-f272abe94638.svg",
+      "assetGroup": "re-aUSDC::SY-re-aUSDC",
+      "currencyId": "re-aUSDC::SY-re-aUSDC",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x1ab8253c77eb7edd5e4d95ed435e1e77042e95a0",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x561d1907dd7c0b92e5278356bc230b7e94704d57",
+          "ptAddress": "0x3bd6ab986b069b65e7ffad03a9047ac70123265c",
+          "ytAddress": "0x6784b1c55983a4755735035cee9c090d9ab4eca9"
+        }
+      }
+    },
+    "0x3bd6ab986b069b65e7ffad03a9047ac70123265c": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "PT re-aUSDC (aUSDC)",
+      "address": "0x3bd6ab986b069b65e7ffad03a9047ac70123265c",
+      "symbol": "PT-re-aUSDC-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/a35a1525-560e-4e59-8bc7-e9904dd67aac.svg",
+      "assetGroup": "PT re-aUSDC (aUSDC)::PT-re-aUSDC-18DEC2025",
+      "currencyId": "PT re-aUSDC (aUSDC)::PT-re-aUSDC-18DEC2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x1ab8253c77eb7edd5e4d95ed435e1e77042e95a0",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x561d1907dd7c0b92e5278356bc230b7e94704d57",
+          "ytAddress": "0x6784b1c55983a4755735035cee9c090d9ab4eca9",
+          "syAddress": "0x7a657c50c6b640ecaab7bb8dad86344169bf8c16"
+        }
+      }
+    },
+    "0x6784b1c55983a4755735035cee9c090d9ab4eca9": {
+      "chainId": "146",
+      "decimals": 6,
+      "name": "YT re-aUSDC (aUSDC)",
+      "address": "0x6784b1c55983a4755735035cee9c090d9ab4eca9",
+      "symbol": "YT-re-aUSDC-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/88b54734-1a9b-4972-881f-ca658e2bb2e8.svg",
+      "assetGroup": "YT re-aUSDC (aUSDC)::YT-re-aUSDC-18DEC2025",
+      "currencyId": "YT re-aUSDC (aUSDC)::YT-re-aUSDC-18DEC2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x1ab8253c77eb7edd5e4d95ed435e1e77042e95a0",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x561d1907dd7c0b92e5278356bc230b7e94704d57",
+          "ptAddress": "0x3bd6ab986b069b65e7ffad03a9047ac70123265c",
+          "syAddress": "0x7a657c50c6b640ecaab7bb8dad86344169bf8c16"
+        }
+      }
+    },
+    "0x22fe64c10f482004c48872c98d1f03cbdcaddce9": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "PT x33 (xSHADOW)",
+      "address": "0x22fe64c10f482004c48872c98d1f03cbdcaddce9",
+      "symbol": "PT-x33-26FEB2026",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/44e55c0d-95ff-438f-94b0-fccaadbc2b19.svg",
+      "assetGroup": "PT x33 (xSHADOW)::PT-x33-26FEB2026",
+      "currencyId": "PT x33 (xSHADOW)::PT-x33-26FEB2026",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0xc9646f2a8a1d2f12a7fbf0274ec2d3ecc65f1468",
+          "expiry": 1772064000,
+          "underlyingAsset": "0x3333111a391cc08fa51353e9195526a70b333333",
+          "ytAddress": "0xc92113f9590999f3dab6fb32a17e050da1efdd76",
+          "syAddress": "0x69a23f16974024a1b6a5362ac2a11bfeeefd5827"
+        }
+      }
+    },
+    "0xc92113f9590999f3dab6fb32a17e050da1efdd76": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "YT x33 (xSHADOW)",
+      "address": "0xc92113f9590999f3dab6fb32a17e050da1efdd76",
+      "symbol": "YT-x33-26FEB2026",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/ed94f93b-0b82-40a3-b4e2-9f271c7e24c0.svg",
+      "assetGroup": "YT x33 (xSHADOW)::YT-x33-26FEB2026",
+      "currencyId": "YT x33 (xSHADOW)::YT-x33-26FEB2026",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0xc9646f2a8a1d2f12a7fbf0274ec2d3ecc65f1468",
+          "expiry": 1772064000,
+          "underlyingAsset": "0x3333111a391cc08fa51353e9195526a70b333333",
+          "ptAddress": "0x22fe64c10f482004c48872c98d1f03cbdcaddce9",
+          "syAddress": "0x69a23f16974024a1b6a5362ac2a11bfeeefd5827"
+        }
+      }
+    },
+    "0xf81829f40d3ce77288deeb1a69b219e2d915e64d": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "ARM-WS-OS",
+      "address": "0xf81829f40d3ce77288deeb1a69b219e2d915e64d",
+      "symbol": "SY-ARM-WS-OS",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/c43629e9-19c5-4ca8-9b07-4509dc8f293f.svg",
+      "assetGroup": "ARM-WS-OS::SY-ARM-WS-OS",
+      "currencyId": "ARM-WS-OS::SY-ARM-WS-OS",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0xcb8c4ee27096da1f045ad60696779011c90c7ce1",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x2f872623d1e1af5835b08b0e49aad2d81d649d30",
+          "ptAddress": "0x14438b1cc1c4183432f7eae2dc27400467033036",
+          "ytAddress": "0x8a2a558a8cf7503b066b2e457a2b5b03f80a8e99"
+        }
+      }
+    },
+    "0x14438b1cc1c4183432f7eae2dc27400467033036": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "PT ARM-WS-OS (wS)",
+      "address": "0x14438b1cc1c4183432f7eae2dc27400467033036",
+      "symbol": "PT-ARM-WS-OS-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/c77cd435-09b2-4080-aa51-afee33aef045.svg",
+      "assetGroup": "PT ARM-WS-OS (wS)::PT-ARM-WS-OS-18DEC2025",
+      "currencyId": "PT ARM-WS-OS (wS)::PT-ARM-WS-OS-18DEC2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0xcb8c4ee27096da1f045ad60696779011c90c7ce1",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x2f872623d1e1af5835b08b0e49aad2d81d649d30",
+          "ytAddress": "0x8a2a558a8cf7503b066b2e457a2b5b03f80a8e99",
+          "syAddress": "0xf81829f40d3ce77288deeb1a69b219e2d915e64d"
+        }
+      }
+    },
+    "0x8a2a558a8cf7503b066b2e457a2b5b03f80a8e99": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "YT ARM-WS-OS (wS)",
+      "address": "0x8a2a558a8cf7503b066b2e457a2b5b03f80a8e99",
+      "symbol": "YT-ARM-WS-OS-18DEC2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/9205056f-38fb-4fbe-aad2-1c695c451546.svg",
+      "assetGroup": "YT ARM-WS-OS (wS)::YT-ARM-WS-OS-18DEC2025",
+      "currencyId": "YT ARM-WS-OS (wS)::YT-ARM-WS-OS-18DEC2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0xcb8c4ee27096da1f045ad60696779011c90c7ce1",
+          "expiry": 1766016000,
+          "underlyingAsset": "0x2f872623d1e1af5835b08b0e49aad2d81d649d30",
+          "ptAddress": "0x14438b1cc1c4183432f7eae2dc27400467033036",
+          "syAddress": "0xf81829f40d3ce77288deeb1a69b219e2d915e64d"
+        }
+      }
+    },
     "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c": {
       "chainId": "146",
       "decimals": 18,
@@ -1605,7 +3210,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd4fa2d31b7968e448877f69a96de69f5de8cd23e.png",
       "assetGroup": "Wrapped Aave Sonic USDC::waUSDC",
       "currencyId": "Wrapped Aave Sonic USDC::waUSDC",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x18b7b8695165290f2767bc63c36d3dfea4c0f9bb": {
       "chainId": "146",
@@ -1756,7 +3361,8 @@
       "symbol": "PRL",
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfd28f108e95f4d41daae9dbfff707d677985998e.png",
       "assetGroup": "Parallel Governance Token::PRL",
-      "currencyId": "Parallel Governance Token::PRL"
+      "currencyId": "Parallel Governance Token::PRL",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x90a804d316a06e00755444d56b9ef52e5c4f4d73": {
       "chainId": "146",
@@ -2323,25 +3929,6 @@
       "currencyId": "Principal Token: sw-wstkscUSD-1751241607::PT-sw-wstkscUSD-1751241607",
       "tags": ["ENCLABS_PT_ETH"]
     },
-    "0xbe27993204ec64238f71a527b4c4d5f4949034c3": {
-      "chainId": "146",
-      "decimals": 6,
-      "name": "PT Wrapped stkscUSD 29MAY2025",
-      "address": "0xbe27993204ec64238f71a527b4c4d5f4949034c3",
-      "symbol": "PT-wstkscUSD-29MAY2025",
-      "assetGroup": "PT Wrapped stkscUSD 29MAY2025::PT-wstkscUSD-29MAY2025",
-      "currencyId": "PT Wrapped stkscUSD 29MAY2025::PT-wstkscUSD-29MAY2025",
-      "tags": ["PENDLE-PT", "ENCLABS"],
-      "props": {
-        "pendle": {
-          "tokenType": "PT",
-          "ytAddress": "0xdcad0f3992a72ea0ce5eb703293a353249c0a76f",
-          "marketAddress": "0x6e4e95fab7db1f0524b4b0a05f0b9c96380b7dfa",
-          "syAddress": "0x896f4d49916ac5cfc36d7a260a7039ba4ea317b6",
-          "expiry": 1748476800
-        }
-      }
-    },
     "0xd2901d474b351bc6ee7b119f9c920863b0f781b2": {
       "chainId": "146",
       "decimals": 18,
@@ -2659,6 +4246,27 @@
       "assetGroup": "Liquid Sonic Drop::LSD",
       "currencyId": "Liquid Sonic Drop::LSD",
       "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+    },
+    "0xc76995054ce51dfbbc954840d699b2f33d2538ee": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Beets Looped Sonic",
+      "address": "0xc76995054ce51dfbbc954840d699b2f33d2538ee",
+      "symbol": "loopS",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc76995054ce51dfbbc954840d699b2f33d2538ee.png",
+      "assetGroup": "Beets Looped Sonic::loopS",
+      "currencyId": "Beets Looped Sonic::loopS"
+    },
+    "0x2117e8b79e8e176a670c9fcf945d4348556bffad": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Euler",
+      "address": "0x2117e8b79e8e176a670c9fcf945d4348556bffad",
+      "symbol": "EUL",
+      "logoURI": "https://assets.coingecko.com/coins/images/26149/thumb/Coingecko_logo_%281%29.png?1706026067",
+      "assetGroup": "EUL",
+      "currencyId": "Euler::EUL",
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "146",

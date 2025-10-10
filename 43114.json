@@ -5750,7 +5750,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154",
       "assetGroup": "FRXUSD",
       "currencyId": "Frax USD::frxUSD",
-      "tags": ["debridge", "biconomy-gas-token"]
+      "tags": ["debridge", "biconomy-gas-token", "coingecko"]
     },
     "0x08c4b51e6ca9eb89c255f0a5ab8afd721420e447": {
       "chainId": "43114",
@@ -6373,7 +6373,8 @@
       "symbol": "waAvaAUSD",
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x45cf39eeb437fa95bb9b52c0105254a6bd25d01e.png",
       "assetGroup": "Wrapped Aave Avalanche AUSD::waAvaAUSD",
-      "currencyId": "Wrapped Aave Avalanche AUSD::waAvaAUSD"
+      "currencyId": "Wrapped Aave Avalanche AUSD::waAvaAUSD",
+      "tags": ["coingecko", "debridge"]
     },
     "0x59933c571d200dc6a7fd1cda22495db442082e34": {
       "chainId": "43114",
@@ -8670,7 +8671,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/66560/thumb/XAUt0_Token_Icon_Gold.png?1749747942",
       "assetGroup": "XAUt0::XAUt0",
       "currencyId": "XAUt0::XAUt0",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x0f13fc8a93ab8edc9fde0a1e19aac693161599a5": {
       "chainId": "43114",
@@ -9458,6 +9459,39 @@
       "assetGroup": "APEX (apexdefi.xyz)::APEX",
       "currencyId": "APEX (apexdefi.xyz)::APEX",
       "tags": ["biconomy-gas-token"]
+    },
+    "0xfc87d55bc8bf441abfc24d04b2068a8f77bcfcc0": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "MON",
+      "address": "0xfc87d55bc8bf441abfc24d04b2068a8f77bcfcc0",
+      "symbol": "MON",
+      "logoURI": "https://assets.coingecko.com/coins/images/37395/thumb/WhatsApp_Image_2024-02-27_at_18.34.45_01762153.jpg?1716261730",
+      "assetGroup": "MON::MON",
+      "currencyId": "MON::MON",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x64445f0aecc51e94ad52d8ac56b7190e764e561a": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Wrapped FRAX",
+      "address": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+      "symbol": "WFRAX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624",
+      "assetGroup": "Wrapped FRAX::WFRAX",
+      "currencyId": "Wrapped FRAX::WFRAX",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x53c44c368a11f54b8dc496915dd71bd42bd64a91": {
+      "chainId": "43114",
+      "decimals": 9,
+      "name": "Pepe Inverted",
+      "address": "0x53c44c368a11f54b8dc496915dd71bd42bd64a91",
+      "symbol": "ƎԀƎԀ",
+      "logoURI": "https://assets.coingecko.com/coins/images/31948/thumb/epep-logo-coingecko_.png?1722576800",
+      "assetGroup": "Pepe Inverted::ƎԀƎԀ",
+      "currencyId": "Pepe Inverted::ƎԀƎԀ",
+      "tags": ["coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "43114",

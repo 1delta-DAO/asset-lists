@@ -2125,7 +2125,7 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/blast/0xEB466342C4d449BC9f53A865D5Cb90586f405215.jpg",
       "assetGroup": "USDC",
       "currencyId": "Axelar Wrapped USDC::axlUSDC",
-      "tags": ["axelar", "bridged", "biconomy-gas-token"]
+      "tags": ["axelar", "bridged", "biconomy-gas-token", "coingecko"]
     },
     "0x84fc0e1dca50cf341b497a56f843d4dd7d818b84": {
       "chainId": "81457",
@@ -2474,7 +2474,8 @@
       "symbol": "frxUSD",
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xcacd6fd266af91b8aed52accc382b4e165586e29/7610ebe75cb08ff21ee6dfb7e1592e25.png",
       "assetGroup": "FRXUSD",
-      "currencyId": "Frax USD::frxUSD"
+      "currencyId": "Frax USD::frxUSD",
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x93202ec683288a9ea75bb829c6bacfb2bfea9013": {
       "chainId": "81457",
@@ -2619,6 +2620,17 @@
       "assetGroup": "Frax Ether::frxETH(axelar)",
       "currencyId": "Frax Ether::frxETH(axelar)",
       "tags": ["biconomy-gas-token"]
+    },
+    "0x64445f0aecc51e94ad52d8ac56b7190e764e561a": {
+      "chainId": "81457",
+      "decimals": 18,
+      "name": "Wrapped FRAX",
+      "address": "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+      "symbol": "WFRAX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624",
+      "assetGroup": "Wrapped FRAX::WFRAX",
+      "currencyId": "Wrapped FRAX::WFRAX",
+      "tags": ["biconomy-gas-token", "coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "81457",

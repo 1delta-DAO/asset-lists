@@ -869,6 +869,28 @@
       "currencyId": "Axelar Wrapped KNC::KNC",
       "tags": ["axelar", "bridged", "biconomy-gas-token"]
     },
+    "0x879ba0efe1ab0119fefa745a21585fa205b07907": {
+      "chainId": "534352",
+      "decimals": 18,
+      "name": "Wrapped FRAX",
+      "address": "0x879ba0efe1ab0119fefa745a21585fa205b07907",
+      "symbol": "WFRAX",
+      "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624",
+      "assetGroup": "Wrapped FRAX::WFRAX",
+      "currencyId": "Wrapped FRAX::WFRAX",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0x397f939c3b91a74c321ea7129396492ba9cdce82": {
+      "chainId": "534352",
+      "decimals": 18,
+      "name": "Frax USD",
+      "address": "0x397f939c3b91a74c321ea7129396492ba9cdce82",
+      "symbol": "FRXUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154",
+      "assetGroup": "FRXUSD",
+      "currencyId": "Frax USD::FRXUSD",
+      "tags": ["biconomy-gas-token", "coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "534352",
       "decimals": 18,
