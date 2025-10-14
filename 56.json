@@ -913,27 +913,6 @@
         }
       }
     },
-    "0xb84cec1ab2af11b530ae0d8594b1493556be49cd": {
-      "chainId": "56",
-      "decimals": 18,
-      "name": "PT slisBNBx (BNB) BNB",
-      "address": "0xb84cec1ab2af11b530ae0d8594b1493556be49cd",
-      "symbol": "PT-clisBNB-30OCT2025",
-      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/f82586ed-d4fd-4ba9-912a-0d62c1b114cc.svg",
-      "assetGroup": "PT slisBNBx (BNB) BNB::PT-clisBNB-30OCT2025",
-      "currencyId": "PT slisBNBx (BNB) BNB::PT-clisBNB-30OCT2025",
-      "tags": ["PT"],
-      "props": {
-        "pendle": {
-          "tokenType": "PT",
-          "marketAddress": "0xbd577ddabb5a1672d3c786726b87a175de652b96",
-          "expiry": 1761782400,
-          "underlyingAsset": "0xb0b84d294e0c75a6abe60171b70edeb2efd14a1b",
-          "ytAddress": "0xbe436f6ed7ff7f747aae1912f88c59549df82158",
-          "syAddress": "0x27faf900007b4cba7803000251ec96bc69ff1bea"
-        }
-      }
-    },
     "0xbe436f6ed7ff7f747aae1912f88c59549df82158": {
       "chainId": "56",
       "decimals": 18,
@@ -951,6 +930,27 @@
           "expiry": 1761782400,
           "underlyingAsset": "0xb0b84d294e0c75a6abe60171b70edeb2efd14a1b",
           "ptAddress": "0xb84cec1ab2af11b530ae0d8594b1493556be49cd",
+          "syAddress": "0x27faf900007b4cba7803000251ec96bc69ff1bea"
+        }
+      }
+    },
+    "0xb84cec1ab2af11b530ae0d8594b1493556be49cd": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "PT slisBNBx (BNB) BNB",
+      "address": "0xb84cec1ab2af11b530ae0d8594b1493556be49cd",
+      "symbol": "PT-clisBNB-30OCT2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/f82586ed-d4fd-4ba9-912a-0d62c1b114cc.svg",
+      "assetGroup": "PT slisBNBx (BNB) BNB::PT-clisBNB-30OCT2025",
+      "currencyId": "PT slisBNBx (BNB) BNB::PT-clisBNB-30OCT2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0xbd577ddabb5a1672d3c786726b87a175de652b96",
+          "expiry": 1761782400,
+          "underlyingAsset": "0xb0b84d294e0c75a6abe60171b70edeb2efd14a1b",
+          "ytAddress": "0xbe436f6ed7ff7f747aae1912f88c59549df82158",
           "syAddress": "0x27faf900007b4cba7803000251ec96bc69ff1bea"
         }
       }
@@ -55399,6 +55399,7 @@
       "name": "Binance Super Cycle",
       "address": "0x6331bf8d601f0d7f0d2101772af5137c418c4444",
       "symbol": "BSC",
+      "logoURI": "https://assets.coingecko.com/coins/images/69889/thumb/binancesupercycle-logo.jpeg?1760164069",
       "assetGroup": "Binance Super Cycle::BSC",
       "currencyId": "Binance Super Cycle::BSC",
       "tags": ["coingecko"]
@@ -55676,6 +55677,358 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69446/thumb/zbt.png?1758621515",
       "assetGroup": "ZEROBASE::ZBT",
       "currencyId": "ZEROBASE::ZBT",
+      "tags": ["coingecko"]
+    },
+    "0xffda10b7fd9cf172e0502a6bc0e5e355516c5232": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Seedify.fund",
+      "address": "0xffda10b7fd9cf172e0502a6bc0e5e355516c5232",
+      "symbol": "SFUND",
+      "logoURI": "https://assets.coingecko.com/coins/images/14614/thumb/Favicon_Icon.png?1696514292",
+      "assetGroup": "Seedify.fund::SFUND",
+      "currencyId": "Seedify.fund::SFUND",
+      "tags": ["coingecko"]
+    },
+    "0x343b783aed05d158d6f2af950a34ab431701e44e": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "Four",
+      "address": "0x343b783aed05d158d6f2af950a34ab431701e44e",
+      "symbol": "FOUR",
+      "logoURI": "https://assets.coingecko.com/coins/images/69952/thumb/WhatsApp_Image_2025-10-08_at_09.22.30_9c1ce60e.jpg?1760169337",
+      "assetGroup": "Four::FOUR",
+      "currencyId": "Four::FOUR",
+      "tags": ["coingecko"]
+    },
+    "0xe8c392861d675517fd4b078330cd175053c74444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "招财猫 (Lucky Cat)",
+      "address": "0xe8c392861d675517fd4b078330cd175053c74444",
+      "symbol": "招财猫",
+      "logoURI": "https://assets.coingecko.com/coins/images/69966/thumb/ad8io25uouyz05830pv3499tc6si.?1760173282",
+      "assetGroup": "招财猫 (Lucky Cat)::招财猫",
+      "currencyId": "招财猫 (Lucky Cat)::招财猫",
+      "tags": ["coingecko"]
+    },
+    "0xbe1922750760c4cae69edb6fe79a22ae9b62a23d": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Staked USD Coin",
+      "address": "0xbe1922750760c4cae69edb6fe79a22ae9b62a23d",
+      "symbol": "SUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/70016/thumb/susd-200x200.png?1760353281",
+      "assetGroup": "Staked USD Coin::SUSD",
+      "currencyId": "Staked USD Coin::SUSD",
+      "tags": ["coingecko"]
+    },
+    "0x29d4236a49f2f633898cef4b4dcd0c67c7c357f1": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "The Story of Binance",
+      "address": "0x29d4236a49f2f633898cef4b4dcd0c67c7c357f1",
+      "symbol": "币安故事",
+      "logoURI": "https://assets.coingecko.com/coins/images/69997/thumb/logo.png?1760338584",
+      "assetGroup": "The Story of Binance::币安故事",
+      "currencyId": "The Story of Binance::币安故事",
+      "tags": ["coingecko"]
+    },
+    "0x9edcb93ecbe489d1ff2e4b9a4370d32309474444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "上证综合指数6900 (Shanghai Composite Index 6900)",
+      "address": "0x9edcb93ecbe489d1ff2e4b9a4370d32309474444",
+      "symbol": "SCI6900",
+      "logoURI": "https://assets.coingecko.com/coins/images/69960/thumb/sci6900-logo.jpg?1760171972",
+      "assetGroup": "上证综合指数6900 (Shanghai Composite Index 6900)::SCI6900",
+      "currencyId": "上证综合指数6900 (Shanghai Composite Index 6900)::SCI6900",
+      "tags": ["coingecko"]
+    },
+    "0xf1cf3b0e5c427c04cc48dbb3ab7f6ba357434444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Shamatte",
+      "address": "0xf1cf3b0e5c427c04cc48dbb3ab7f6ba357434444",
+      "symbol": "杀马特",
+      "logoURI": "https://assets.coingecko.com/coins/images/69982/thumb/shamatte-logo.jpg?1760269656",
+      "assetGroup": "Shamatte::杀马特",
+      "currencyId": "Shamatte::杀马特",
+      "tags": ["coingecko"]
+    },
+    "0xe53bacfa964b3e1f2a45932fb542126224a34444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Pumpy",
+      "address": "0xe53bacfa964b3e1f2a45932fb542126224a34444",
+      "symbol": "PUMPY",
+      "logoURI": "https://assets.coingecko.com/coins/images/69951/thumb/czzzzz.png?1760168773",
+      "assetGroup": "Pumpy::PUMPY",
+      "currencyId": "Pumpy::PUMPY",
+      "tags": ["coingecko"]
+    },
+    "0xd454ceab6f2fa934b4574d6ee61a04fdcaff4444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Caspur Zoomies",
+      "address": "0xd454ceab6f2fa934b4574d6ee61a04fdcaff4444",
+      "symbol": "CASPUR",
+      "logoURI": "https://assets.coingecko.com/coins/images/69943/thumb/Caspur_Zoomies.jpg?1760119849",
+      "assetGroup": "Caspur Zoomies::CASPUR",
+      "currencyId": "Caspur Zoomies::CASPUR",
+      "tags": ["coingecko"]
+    },
+    "0xf197e06dab32b3c1cd8c055598bea0af11b44444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Binancians",
+      "address": "0xf197e06dab32b3c1cd8c055598bea0af11b44444",
+      "symbol": "BINANCIANS",
+      "logoURI": "https://assets.coingecko.com/coins/images/69989/thumb/IMG_F95B9F6F9B0C-1.jpeg?1760323085",
+      "assetGroup": "Binancians::BINANCIANS",
+      "currencyId": "Binancians::BINANCIANS",
+      "tags": ["coingecko"]
+    },
+    "0x8406275af53df29ccd4c9a2c79675467299864d0": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "Binance Super CZ",
+      "address": "0x8406275af53df29ccd4c9a2c79675467299864d0",
+      "symbol": "BSC",
+      "logoURI": "https://assets.coingecko.com/coins/images/69988/thumb/_logo.jpg?1760277901",
+      "assetGroup": "Binance Super CZ::BSC",
+      "currencyId": "Binance Super CZ::BSC",
+      "tags": ["coingecko"]
+    },
+    "0xf6661fdb33c5fbf6d2c514598cdee0ea9ff04444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "OracleBNB",
+      "address": "0xf6661fdb33c5fbf6d2c514598cdee0ea9ff04444",
+      "symbol": "ORACLE",
+      "logoURI": "https://assets.coingecko.com/coins/images/69961/thumb/3tlptvg2zobxtw7inwdwbe95zozq.?1760172163",
+      "assetGroup": "OracleBNB::ORACLE",
+      "currencyId": "OracleBNB::ORACLE",
+      "tags": ["coingecko"]
+    },
+    "0x23d6645c66ebb25a68aa2862357eac378a274444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "马喽 (Malou)",
+      "address": "0x23d6645c66ebb25a68aa2862357eac378a274444",
+      "symbol": "马喽",
+      "logoURI": "https://assets.coingecko.com/coins/images/69981/thumb/906s13ptjep87im2xg38uch8clwn.?1760269477",
+      "assetGroup": "马喽 (Malou)::马喽",
+      "currencyId": "马喽 (Malou)::马喽",
+      "tags": ["coingecko"]
+    },
+    "0x0da9446a96b69c3f66000f7da3768ebbb55facf5": {
+      "chainId": "56",
+      "decimals": 2,
+      "name": "GOLD BNB",
+      "address": "0x0da9446a96b69c3f66000f7da3768ebbb55facf5",
+      "symbol": "GBNB",
+      "logoURI": "https://assets.coingecko.com/coins/images/69992/thumb/26741543_ac87e270-2191-4e96-d005-a08a27ea3d81.png?1760336663",
+      "assetGroup": "GOLD BNB::GBNB",
+      "currencyId": "GOLD BNB::GBNB",
+      "tags": ["coingecko"]
+    },
+    "0xc3c1b25ff8c3f828f36a030960d54082ed984444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "龙Long",
+      "address": "0xc3c1b25ff8c3f828f36a030960d54082ed984444",
+      "symbol": "龙LONG",
+      "logoURI": "https://assets.coingecko.com/coins/images/70015/thumb/1ga1mcbci99jan919r5y4bzi0dun.?1760352842",
+      "assetGroup": "龙Long::龙LONG",
+      "currencyId": "龙Long::龙LONG",
+      "tags": ["coingecko"]
+    },
+    "0x2e45bed32903ea421edd9f53f4b895683bf84444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "FourBook",
+      "address": "0x2e45bed32903ea421edd9f53f4b895683bf84444",
+      "symbol": "FB",
+      "logoURI": "https://assets.coingecko.com/coins/images/69958/thumb/ChatGPT_Image_Oct_9__2025__01_37_13_PM.png?1760170552",
+      "assetGroup": "FourBook::FB",
+      "currencyId": "FourBook::FB",
+      "tags": ["coingecko"]
+    },
+    "0x4444f20947325dc5d37643bcaaa537c85cfcb524": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "BULL FROG",
+      "address": "0x4444f20947325dc5d37643bcaaa537c85cfcb524",
+      "symbol": "BOA",
+      "logoURI": "https://assets.coingecko.com/coins/images/69963/thumb/bullfrog-logo.jpg?1760173927",
+      "assetGroup": "BULL FROG::BOA",
+      "currencyId": "BULL FROG::BOA",
+      "tags": ["coingecko"]
+    },
+    "0x4444140f59535d58b165f71667765228d9308f3f": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "深脑链",
+      "address": "0x4444140f59535d58b165f71667765228d9308f3f",
+      "symbol": "深脑链",
+      "logoURI": "https://assets.coingecko.com/coins/images/70017/thumb/deepbrain_400x400.jpg?1760354010",
+      "assetGroup": "深脑链::深脑链",
+      "currencyId": "深脑链::深脑链",
+      "tags": ["coingecko"]
+    },
+    "0xf909f5b0533f3269eea797c93d2c8e2abdbf4444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "BNBdip",
+      "address": "0xf909f5b0533f3269eea797c93d2c8e2abdbf4444",
+      "symbol": "BNBDIP",
+      "logoURI": "https://assets.coingecko.com/coins/images/70011/thumb/scs44nx6rmx8bwr7me0stkpb343m.?1760351063",
+      "assetGroup": "BNBdip::BNBDIP",
+      "currencyId": "BNBdip::BNBDIP",
+      "tags": ["coingecko"]
+    },
+    "0x6efa75a8c3f2f233b0b42cb8dc3893073e7edd95": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Caniverse",
+      "address": "0x6efa75a8c3f2f233b0b42cb8dc3893073e7edd95",
+      "symbol": "CNV",
+      "logoURI": "https://assets.coingecko.com/coins/images/69979/thumb/resizecom_PHOTO-2025-10-10-15-38-06-removebg-preview.png?1760260321",
+      "assetGroup": "Caniverse::CNV",
+      "currencyId": "Caniverse::CNV",
+      "tags": ["coingecko"]
+    },
+    "0x444416a582466fdae0f2fcdf0a859675f8ff6e9f": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "MarsCoin",
+      "address": "0x444416a582466fdae0f2fcdf0a859675f8ff6e9f",
+      "symbol": "MARSCOIN",
+      "logoURI": "https://assets.coingecko.com/coins/images/69964/thumb/otzbmxargj7x4l9ah730d48v4cyj.?1760172923",
+      "assetGroup": "MarsCoin::MARSCOIN",
+      "currencyId": "MarsCoin::MARSCOIN",
+      "tags": ["coingecko"]
+    },
+    "0x7ec43cf65f1663f820427c62a5780b8f2e25593a": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "LAB",
+      "address": "0x7ec43cf65f1663f820427c62a5780b8f2e25593a",
+      "symbol": "LAB",
+      "logoURI": "https://assets.coingecko.com/coins/images/70014/thumb/lab.png?1760352822",
+      "assetGroup": "LAB::LAB",
+      "currencyId": "LAB::LAB",
+      "tags": ["coingecko"]
+    },
+    "0x44b10e1bdfbce70a48006c29c110ff1e39e0fb37": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "MemeStrategy",
+      "address": "0x44b10e1bdfbce70a48006c29c110ff1e39e0fb37",
+      "symbol": "MEMESTR",
+      "logoURI": "https://assets.coingecko.com/coins/images/69977/thumb/ms_coin_%282%29.png?1760259782",
+      "assetGroup": "MemeStrategy::MEMESTR",
+      "currencyId": "MemeStrategy::MEMESTR",
+      "tags": ["coingecko"]
+    },
+    "0x7eb8f6a94cb6ffdf9f38c9d5b92e45de81474444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Pepe on BnB",
+      "address": "0x7eb8f6a94cb6ffdf9f38c9d5b92e45de81474444",
+      "symbol": "佩佩",
+      "logoURI": "https://assets.coingecko.com/coins/images/70009/thumb/b8hm25kvhwzw9qkrezk4tacxij0p.?1760350453",
+      "assetGroup": "Pepe on BnB::佩佩",
+      "currencyId": "Pepe on BnB::佩佩",
+      "tags": ["coingecko"]
+    },
+    "0xeb57ec5ec83d9cc498be2e7b5ce5fbf75a216f45": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "BlockFi",
+      "address": "0xeb57ec5ec83d9cc498be2e7b5ce5fbf75a216f45",
+      "symbol": "BFI",
+      "logoURI": "https://assets.coingecko.com/coins/images/55970/thumb/LOGO_BLOCKFI_200X200.jpg?1747890006",
+      "assetGroup": "BlockFi::BFI",
+      "currencyId": "BlockFi::BFI",
+      "tags": ["coingecko"]
+    },
+    "0x017b22fdeff61724ee94642121799960875f4444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "币安汽车 (Bianqiche)",
+      "address": "0x017b22fdeff61724ee94642121799960875f4444",
+      "symbol": "币安汽车",
+      "logoURI": "https://assets.coingecko.com/coins/images/69999/thumb/vM5TJcj7_400x400.jpg?1760339324",
+      "assetGroup": "币安汽车 (Bianqiche)::币安汽车",
+      "currencyId": "币安汽车 (Bianqiche)::币安汽车",
+      "tags": ["coingecko"]
+    },
+    "0xed0e0d988da8c70250671c3b03dcf7249142a045": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Zodplay",
+      "address": "0xed0e0d988da8c70250671c3b03dcf7249142a045",
+      "symbol": "ZOD",
+      "logoURI": "https://assets.coingecko.com/coins/images/70004/thumb/zodplay.png?1760345833",
+      "assetGroup": "Zodplay::ZOD",
+      "currencyId": "Zodplay::ZOD",
+      "tags": ["coingecko"]
+    },
+    "0x44443dd87ec4d1bea3425acc118adb023f07f91b": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "修仙 (Xiūxiān)",
+      "address": "0x44443dd87ec4d1bea3425acc118adb023f07f91b",
+      "symbol": "修仙",
+      "logoURI": "https://assets.coingecko.com/coins/images/69962/thumb/kv7vbwrj47ac0kixzx5otsau24n1.?1760172552",
+      "assetGroup": "修仙 (Xiūxiān)::修仙",
+      "currencyId": "修仙 (Xiūxiān)::修仙",
+      "tags": ["coingecko"]
+    },
+    "0x81d3a238b02827f62b9f390f947d36d4a5bf89d2": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Yei Finance",
+      "address": "0x81d3a238b02827f62b9f390f947d36d4a5bf89d2",
+      "symbol": "CLO",
+      "logoURI": "https://assets.coingecko.com/coins/images/69987/thumb/yei.png?1760271689",
+      "assetGroup": "Yei Finance::CLO",
+      "currencyId": "Yei Finance::CLO",
+      "tags": ["coingecko"]
+    },
+    "0xf96bf89ac671e0e3c931bcbfc12de00572f218e0": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "STO Operating System Token",
+      "address": "0xf96bf89ac671e0e3c931bcbfc12de00572f218e0",
+      "symbol": "STOOS",
+      "logoURI": "https://assets.coingecko.com/coins/images/52088/thumb/STO_LOGO_%28200X200%29.jpg?1732541151",
+      "assetGroup": "STO Operating System Token::STOOS",
+      "currencyId": "STO Operating System Token::STOOS",
+      "tags": ["coingecko"]
+    },
+    "0x5afadcd1e8e3ca78ee2d37100102f2aec8bc0aa8": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Plume",
+      "address": "0x5afadcd1e8e3ca78ee2d37100102f2aec8bc0aa8",
+      "symbol": "PLUME",
+      "logoURI": "https://assets.coingecko.com/coins/images/53623/thumb/plume-token.png?1736896935",
+      "assetGroup": "Plume::PLUME",
+      "currencyId": "Plume::PLUME",
+      "tags": ["coingecko"]
+    },
+    "0xefbc84bb7f92d1cdbd9c3c9144946dd34d4e7c93": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "MyOnion.fun",
+      "address": "0xefbc84bb7f92d1cdbd9c3c9144946dd34d4e7c93",
+      "symbol": "$ONION",
+      "logoURI": "https://assets.coingecko.com/coins/images/54662/thumb/200xxxxx%281%29.jpg?1740897818",
+      "assetGroup": "MyOnion.fun::$ONION",
+      "currencyId": "MyOnion.fun::$ONION",
       "tags": ["coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {

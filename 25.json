@@ -3241,7 +3241,8 @@
       "symbol": "FISH",
       "logoURI": "https://vvs-ui.vvs.finance/045f25bba04d32e15a0d3c2f30d09eaf8666dee099d0c82d0123a2bebaa208e9.svg",
       "assetGroup": "🎣::FISH",
-      "currencyId": "🎣::FISH"
+      "currencyId": "🎣::FISH",
+      "tags": ["coingecko"]
     },
     "0x4d7c922d6c12cfbf5bc85f56c9ccb1f61f49bf61": {
       "chainId": "25",
@@ -3252,6 +3253,17 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69909/thumb/_KITTY_PFP_Circle_200.png?1759988049",
       "assetGroup": "KitCoin::KITTY",
       "currencyId": "KitCoin::KITTY",
+      "tags": ["coingecko"]
+    },
+    "0x898cd4e6f0a364956e28cb0b51f67a4a0f02589c": {
+      "chainId": "25",
+      "decimals": 18,
+      "name": "BONE",
+      "address": "0x898cd4e6f0a364956e28cb0b51f67a4a0f02589c",
+      "symbol": "$BONE",
+      "logoURI": "https://assets.coingecko.com/coins/images/69998/thumb/bone_logo.png?1760339064",
+      "assetGroup": "BONE::$BONE",
+      "currencyId": "BONE::$BONE",
       "tags": ["coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {

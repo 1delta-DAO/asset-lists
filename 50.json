@@ -444,6 +444,17 @@
       "currencyId": "Australian Digital Dollar::AUDD",
       "tags": ["coingecko"]
     },
+    "0x2d1c02cf9e7a1659b82185fef243078bfd237b23": {
+      "chainId": "50",
+      "decimals": 18,
+      "name": "ROXONN",
+      "address": "0x2d1c02cf9e7a1659b82185fef243078bfd237b23",
+      "symbol": "ROXN",
+      "logoURI": "https://assets.coingecko.com/coins/images/69991/thumb/ROXN-logo-200x200_%281%29.png?1760336498",
+      "assetGroup": "ROXONN::ROXN",
+      "currencyId": "ROXONN::ROXN",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "50",
       "decimals": 18,
@@ -479,7 +490,8 @@
     "0xaec5eaf63402bf842d8642d917685e5ad3ba14bb",
     "0xb25cb6a275a8d6a613228fb161eb3627b50eb696",
     "0xfa2958cb79b0491cc627c1557f441ef849ca8eb1",
-    "0x9fe4e6321eeb7c4bc537570f015e4734b15002b8"
+    "0x9fe4e6321eeb7c4bc537570f015e4734b15002b8",
+    "0x2d1c02cf9e7a1659b82185fef243078bfd237b23"
   ],
   "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",

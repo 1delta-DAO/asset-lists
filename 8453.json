@@ -1050,28 +1050,6 @@
         }
       }
     },
-    "0xde4f5adc052aed60000f3171785b168a3d27dcd7": {
-      "chainId": "8453",
-      "decimals": 18,
-      "name": "PT yoETH (WETH) Base",
-      "address": "0xde4f5adc052aed60000f3171785b168a3d27dcd7",
-      "symbol": "PT-yoETH-25SEP2025",
-      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/74372bd2-368e-4e01-aa4f-11420a5f14e3.svg",
-      "assetGroup": "PT yoETH (WETH) Base::PT-yoETH-25SEP2025",
-      "currencyId": "PT yoETH (WETH) Base::PT-yoETH-25SEP2025",
-      "tags": ["PT"],
-      "props": {
-        "pendle": {
-          "tokenType": "PT",
-          "marketAddress": "0xee2058f408a43f6d952ebd55812b4bf0d1ca8854",
-          "expiry": 1758758400,
-          "underlyingAsset": "0x3a43aec53490cb9fa922847385d82fe25d0e9de7",
-          "ytAddress": "0x621bede1ca0043e96735bf7d1bede903d55cd62a",
-          "syAddress": "0xe574de45b4ea2c5db7dd6f4074349f270ee97c64",
-          "expired": true
-        }
-      }
-    },
     "0x621bede1ca0043e96735bf7d1bede903d55cd62a": {
       "chainId": "8453",
       "decimals": 18,
@@ -1089,6 +1067,28 @@
           "expiry": 1758758400,
           "underlyingAsset": "0x3a43aec53490cb9fa922847385d82fe25d0e9de7",
           "ptAddress": "0xde4f5adc052aed60000f3171785b168a3d27dcd7",
+          "syAddress": "0xe574de45b4ea2c5db7dd6f4074349f270ee97c64",
+          "expired": true
+        }
+      }
+    },
+    "0xde4f5adc052aed60000f3171785b168a3d27dcd7": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "PT yoETH (WETH) Base",
+      "address": "0xde4f5adc052aed60000f3171785b168a3d27dcd7",
+      "symbol": "PT-yoETH-25SEP2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/74372bd2-368e-4e01-aa4f-11420a5f14e3.svg",
+      "assetGroup": "PT yoETH (WETH) Base::PT-yoETH-25SEP2025",
+      "currencyId": "PT yoETH (WETH) Base::PT-yoETH-25SEP2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0xee2058f408a43f6d952ebd55812b4bf0d1ca8854",
+          "expiry": 1758758400,
+          "underlyingAsset": "0x3a43aec53490cb9fa922847385d82fe25d0e9de7",
+          "ytAddress": "0x621bede1ca0043e96735bf7d1bede903d55cd62a",
           "syAddress": "0xe574de45b4ea2c5db7dd6f4074349f270ee97c64",
           "expired": true
         }
@@ -32819,6 +32819,83 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68352/thumb/Caesar_CG.png?1755423967",
       "assetGroup": "Caesar::CAESAR",
       "currencyId": "Caesar::CAESAR",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0xa123c72c3995968213c27b3edd8128f4cae62f4e": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Based Neko",
+      "address": "0xa123c72c3995968213c27b3edd8128f4cae62f4e",
+      "symbol": "NEKO",
+      "logoURI": "https://assets.coingecko.com/coins/images/70006/thumb/UIYPpFog_400x400_%281%29.jpg?1760346125",
+      "assetGroup": "Based Neko::NEKO",
+      "currencyId": "Based Neko::NEKO",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x1f16e03c1a5908818f47f6ee7bb16690b40d0671": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Recall",
+      "address": "0x1f16e03c1a5908818f47f6ee7bb16690b40d0671",
+      "symbol": "RECALL",
+      "logoURI": "https://assets.coingecko.com/coins/images/69994/thumb/recall-logo.jpeg?1760337415",
+      "assetGroup": "Recall::RECALL",
+      "currencyId": "Recall::RECALL",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0xfb3ad5550ca5730a6f91350032c4da1efdfde3e8": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Phi",
+      "address": "0xfb3ad5550ca5730a6f91350032c4da1efdfde3e8",
+      "symbol": "PHI",
+      "logoURI": "https://assets.coingecko.com/coins/images/68025/thumb/phi-logo.jpeg?1760167655",
+      "assetGroup": "Phi::PHI",
+      "currencyId": "Phi::PHI",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x1fc11c079a3432b42f27527a272d1cde7af1a745": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Metalos",
+      "address": "0x1fc11c079a3432b42f27527a272d1cde7af1a745",
+      "symbol": "METALOS",
+      "logoURI": "https://assets.coingecko.com/coins/images/70019/thumb/xa7e2x2ynfo6v14x5xriv420e1yb.?1760358259",
+      "assetGroup": "Metalos::METALOS",
+      "currencyId": "Metalos::METALOS",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x331ae2af41c4d3a644ceb5dc79a4b900f7a5b60d": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "AIxBET",
+      "address": "0x331ae2af41c4d3a644ceb5dc79a4b900f7a5b60d",
+      "symbol": "$AXB",
+      "logoURI": "https://assets.coingecko.com/coins/images/69953/thumb/20250526_1428_Futuristic_AI_Presence_simple_compose_01jw5dhd3se3xafv33s9ed7h4j_%281%29.png?1760335272",
+      "assetGroup": "AIxBET::$AXB",
+      "currencyId": "AIxBET::$AXB",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0x00000000efe302beaa2b3e6e1b18d08d69a9012a": {
+      "chainId": "8453",
+      "decimals": 6,
+      "name": "AUSD",
+      "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+      "symbol": "AUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/Circle_Agora_White_on_Olive_1080px.png?1722961274",
+      "assetGroup": "AUSD",
+      "currencyId": "AUSD::AUSD",
+      "tags": ["coingecko", "debridge"]
+    },
+    "0xfab99fcf605fd8f4593edb70a43ba56542777777": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "ZEROBASE",
+      "address": "0xfab99fcf605fd8f4593edb70a43ba56542777777",
+      "symbol": "ZBT",
+      "logoURI": "https://assets.coingecko.com/coins/images/69446/thumb/zbt.png?1758621515",
+      "assetGroup": "ZEROBASE::ZBT",
+      "currencyId": "ZEROBASE::ZBT",
       "tags": ["coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
