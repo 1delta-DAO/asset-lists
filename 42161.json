@@ -24023,11 +24023,12 @@
     "0x47c031236e19d024b42f8ae6780e44a573170703": {
       "chainId": "42161",
       "decimals": 18,
-      "name": "GMX Market",
+      "name": "GMX Market BTC/USD",
       "address": "0x47c031236e19d024b42f8ae6780e44a573170703",
-      "symbol": "GM",
-      "assetGroup": "GMX Market::GM",
-      "currencyId": "GMX Market::GM",
+      "symbol": "GM [WBTC-USDC]",
+      "assetGroup": "GMX Market BTC/USD::GM [WBTC-USDC]",
+      "currencyId": "GMX Market BTC/USD::GM [WBTC-USDC]",
+      "logoURI": "https://arbiscan.io/token/images/gmv2market.svg",
       "tags": ["biconomy-gas-token", "VENUS"]
     },
     "0x116172b2482c5dc3e6f445c16ac13367ac3fcd35": {
@@ -24343,12 +24344,12 @@
     "0x70d95587d40a2caf56bd97485ab3eec10bee6336": {
       "chainId": "42161",
       "decimals": 18,
-      "name": "GMX Market",
+      "name": "GMX Market ETH/USD",
       "address": "0x70d95587d40a2caf56bd97485ab3eec10bee6336",
-      "symbol": "GM",
+      "symbol": "GM [WETH-USDC]",
       "logoURI": "https://cdn.morpho.org/assets/logos/gm.svg",
-      "assetGroup": "GMX Market::GM::42161::0",
-      "currencyId": "GMX Market::GM",
+      "assetGroup": "GMX Market ETH/USD::GM [WETH-USDC]",
+      "currencyId": "GMX Market ETH/USD::GM [WETH-USDC]",
       "tags": ["biconomy-gas-token", "VENUS"]
     },
     "0x17573150d67d820542efb24210371545a4868b03": {
