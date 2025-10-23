@@ -189,28 +189,6 @@
         }
       }
     },
-    "0xd8f57b34e69270f7ba179e854020ee80f16eebf4": {
-      "chainId": "146",
-      "decimals": 18,
-      "name": "YT stS (Sonic) Sonic",
-      "address": "0xd8f57b34e69270f7ba179e854020ee80f16eebf4",
-      "symbol": "YT-stS-29MAY2025",
-      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/ba37abf3-5c9f-4a8f-98a9-d6ae3205c069.svg",
-      "assetGroup": "YT stS (Sonic) Sonic::YT-stS-29MAY2025",
-      "currencyId": "YT stS (Sonic) Sonic::YT-stS-29MAY2025",
-      "tags": ["YT"],
-      "props": {
-        "pendle": {
-          "tokenType": "YT",
-          "marketAddress": "0x3aef1d372d0a7a7e482f465bc14a42d78f920392",
-          "expiry": 1748476800,
-          "underlyingAsset": "0xe5da20f15420ad15de0fa650600afc998bbe3955",
-          "ptAddress": "0x420df605d062f8611efb3f203bf258159b8fffde",
-          "syAddress": "0x7076dee976098b444f68c6382e8f062237879a9f",
-          "expired": true
-        }
-      }
-    },
     "0x420df605d062f8611efb3f203bf258159b8fffde": {
       "chainId": "146",
       "decimals": 18,
@@ -228,6 +206,28 @@
           "expiry": 1748476800,
           "underlyingAsset": "0xe5da20f15420ad15de0fa650600afc998bbe3955",
           "ytAddress": "0xd8f57b34e69270f7ba179e854020ee80f16eebf4",
+          "syAddress": "0x7076dee976098b444f68c6382e8f062237879a9f",
+          "expired": true
+        }
+      }
+    },
+    "0xd8f57b34e69270f7ba179e854020ee80f16eebf4": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "YT stS (Sonic) Sonic",
+      "address": "0xd8f57b34e69270f7ba179e854020ee80f16eebf4",
+      "symbol": "YT-stS-29MAY2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/ba37abf3-5c9f-4a8f-98a9-d6ae3205c069.svg",
+      "assetGroup": "YT stS (Sonic) Sonic::YT-stS-29MAY2025",
+      "currencyId": "YT stS (Sonic) Sonic::YT-stS-29MAY2025",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x3aef1d372d0a7a7e482f465bc14a42d78f920392",
+          "expiry": 1748476800,
+          "underlyingAsset": "0xe5da20f15420ad15de0fa650600afc998bbe3955",
+          "ptAddress": "0x420df605d062f8611efb3f203bf258159b8fffde",
           "syAddress": "0x7076dee976098b444f68c6382e8f062237879a9f",
           "expired": true
         }
@@ -2328,10 +2328,10 @@
       "decimals": 18,
       "name": "Staked Frax USD",
       "address": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
-      "symbol": "SFRXUSD",
+      "symbol": "sfrxUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/53964/thumb/sfrxUSD.png?1737792232",
-      "assetGroup": "Staked Frax USD::SFRXUSD",
-      "currencyId": "Staked Frax USD::SFRXUSD",
+      "assetGroup": "Staked Frax USD::sfrxUSD",
+      "currencyId": "Staked Frax USD::sfrxUSD",
       "tags": ["coingecko", "biconomy-gas-token", "debridge"]
     },
     "0xcc0966d8418d412c599a6421b760a847eb169a8c": {
@@ -4267,6 +4267,28 @@
       "assetGroup": "EUL",
       "currencyId": "Euler::EUL",
       "tags": ["biconomy-gas-token", "coingecko"]
+    },
+    "0xe90fe2de4a415ad48b6dcec08ba6ae98231948ac": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "Trevee Token",
+      "address": "0xe90fe2de4a415ad48b6dcec08ba6ae98231948ac",
+      "symbol": "TREVEE",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/trevee.png",
+      "assetGroup": "Trevee Token::TREVEE",
+      "currencyId": "Trevee Token::TREVEE",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0xf9f143705b2bbde9b4abfd0320f328ae59364f5e": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "GammaSwap",
+      "address": "0xf9f143705b2bbde9b4abfd0320f328ae59364f5e",
+      "symbol": "GS",
+      "logoURI": "https://assets.coingecko.com/coins/images/29222/thumb/gstokenlogo500x500.png?1747484190",
+      "assetGroup": "GammaSwap::GS",
+      "currencyId": "GammaSwap::GS",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "146",

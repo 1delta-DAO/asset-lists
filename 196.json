@@ -96,10 +96,10 @@
       "decimals": 18,
       "name": "Staked Frax USD",
       "address": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
-      "symbol": "SFRXUSD",
+      "symbol": "sfrxUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/53964/thumb/sfrxUSD.png?1737792232",
-      "assetGroup": "Staked Frax USD::SFRXUSD",
-      "currencyId": "Staked Frax USD::SFRXUSD",
+      "assetGroup": "Staked Frax USD::sfrxUSD",
+      "currencyId": "Staked Frax USD::sfrxUSD",
       "tags": ["coingecko"]
     },
     "0x843d794ed4335b27d02184ca86787c14e6247074": {
@@ -484,6 +484,17 @@
       "currencyId": "GOUT Coin::GOUTCOIN",
       "tags": ["coingecko"]
     },
+    "0xb3e7c5d277bccff26bfe5ba90e22fc6d5ac8c8b3": {
+      "chainId": "196",
+      "decimals": 18,
+      "name": "XBOOS",
+      "address": "0xb3e7c5d277bccff26bfe5ba90e22fc6d5ac8c8b3",
+      "symbol": "XBOOS",
+      "logoURI": "https://assets.coingecko.com/coins/images/70110/thumb/2025-10-15_12.55.31_%281%29.jpg?1760601786",
+      "assetGroup": "XBOOS::XBOOS",
+      "currencyId": "XBOOS::XBOOS",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "196",
       "decimals": 18,
@@ -534,7 +545,8 @@
     "0x96e049d796732b2e93e2a520ca43c2f05e37fce6",
     "0xf7c868cc4fa5a7300c399c62d891e3dfce440556",
     "0xda90ac6898b841a86960e41ea9eec44471dfe02b",
-    "0x0af1b7d7a063b339afe7a64c8e7fd71693e4fe45"
+    "0x0af1b7d7a063b339afe7a64c8e7fd71693e4fe45",
+    "0xb3e7c5d277bccff26bfe5ba90e22fc6d5ac8c8b3"
   ],
   "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",

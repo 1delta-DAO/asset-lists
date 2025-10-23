@@ -68,27 +68,6 @@
         }
       }
     },
-    "0x7b28407bf5df59ce93867b5e011575d14c1d7703": {
-      "chainId": "9745",
-      "decimals": 18,
-      "name": "YT sUSDe (USDe) Plasma",
-      "address": "0x7b28407bf5df59ce93867b5e011575d14c1d7703",
-      "symbol": "YT-sUSDE-15JAN2026",
-      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/e6879e1f-fa5f-450f-80b1-615de6d46080.svg",
-      "assetGroup": "YT sUSDe (USDe) Plasma::YT-sUSDE-15JAN2026",
-      "currencyId": "YT sUSDe (USDe) Plasma::YT-sUSDE-15JAN2026",
-      "tags": ["YT"],
-      "props": {
-        "pendle": {
-          "tokenType": "YT",
-          "marketAddress": "0xe06c3b972ba630ccf3392cecdbe070690b4e6b55",
-          "expiry": 1768435200,
-          "underlyingAsset": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
-          "ptAddress": "0x02fcc4989b4c9d435b7ced3fe1ba4cf77bbb5dd8",
-          "syAddress": "0x16ac410945f082ce2de16d6e6a1ff60b318ed540"
-        }
-      }
-    },
     "0x02fcc4989b4c9d435b7ced3fe1ba4cf77bbb5dd8": {
       "chainId": "9745",
       "decimals": 18,
@@ -106,6 +85,27 @@
           "expiry": 1768435200,
           "underlyingAsset": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
           "ytAddress": "0x7b28407bf5df59ce93867b5e011575d14c1d7703",
+          "syAddress": "0x16ac410945f082ce2de16d6e6a1ff60b318ed540"
+        }
+      }
+    },
+    "0x7b28407bf5df59ce93867b5e011575d14c1d7703": {
+      "chainId": "9745",
+      "decimals": 18,
+      "name": "YT sUSDe (USDe) Plasma",
+      "address": "0x7b28407bf5df59ce93867b5e011575d14c1d7703",
+      "symbol": "YT-sUSDE-15JAN2026",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/e6879e1f-fa5f-450f-80b1-615de6d46080.svg",
+      "assetGroup": "YT sUSDe (USDe) Plasma::YT-sUSDE-15JAN2026",
+      "currencyId": "YT sUSDe (USDe) Plasma::YT-sUSDE-15JAN2026",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0xe06c3b972ba630ccf3392cecdbe070690b4e6b55",
+          "expiry": 1768435200,
+          "underlyingAsset": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+          "ptAddress": "0x02fcc4989b4c9d435b7ced3fe1ba4cf77bbb5dd8",
           "syAddress": "0x16ac410945f082ce2de16d6e6a1ff60b318ed540"
         }
       }
@@ -386,27 +386,6 @@
         }
       }
     },
-    "0xbe45f6f17b81571fc30253bdae0a2a6f7b04d60f": {
-      "chainId": "9745",
-      "decimals": 6,
-      "name": "PT fUSDT0 (USDT0) Plasma",
-      "address": "0xbe45f6f17b81571fc30253bdae0a2a6f7b04d60f",
-      "symbol": "PT-fUSDT0-26FEB2026",
-      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/b881b173-8e77-45e0-a138-6374d57f8a61.svg",
-      "assetGroup": "PT fUSDT0 (USDT0) Plasma::PT-fUSDT0-26FEB2026",
-      "currencyId": "PT fUSDT0 (USDT0) Plasma::PT-fUSDT0-26FEB2026",
-      "tags": ["PT"],
-      "props": {
-        "pendle": {
-          "tokenType": "PT",
-          "marketAddress": "0x0cb289e9df2d0dcfe13732638c89655fb80c2be2",
-          "expiry": 1772064000,
-          "underlyingAsset": "0x1dd4b13fcae900c60a350589be8052959d2ed27b",
-          "ytAddress": "0xc0f6a41a9837c4d824bc8d346341db77e634ae69",
-          "syAddress": "0xff3ccc1245d59b21b6ec4a597557e748f8311e8c"
-        }
-      }
-    },
     "0xc0f6a41a9837c4d824bc8d346341db77e634ae69": {
       "chainId": "9745",
       "decimals": 6,
@@ -424,6 +403,27 @@
           "expiry": 1772064000,
           "underlyingAsset": "0x1dd4b13fcae900c60a350589be8052959d2ed27b",
           "ptAddress": "0xbe45f6f17b81571fc30253bdae0a2a6f7b04d60f",
+          "syAddress": "0xff3ccc1245d59b21b6ec4a597557e748f8311e8c"
+        }
+      }
+    },
+    "0xbe45f6f17b81571fc30253bdae0a2a6f7b04d60f": {
+      "chainId": "9745",
+      "decimals": 6,
+      "name": "PT fUSDT0 (USDT0) Plasma",
+      "address": "0xbe45f6f17b81571fc30253bdae0a2a6f7b04d60f",
+      "symbol": "PT-fUSDT0-26FEB2026",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/b881b173-8e77-45e0-a138-6374d57f8a61.svg",
+      "assetGroup": "PT fUSDT0 (USDT0) Plasma::PT-fUSDT0-26FEB2026",
+      "currencyId": "PT fUSDT0 (USDT0) Plasma::PT-fUSDT0-26FEB2026",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x0cb289e9df2d0dcfe13732638c89655fb80c2be2",
+          "expiry": 1772064000,
+          "underlyingAsset": "0x1dd4b13fcae900c60a350589be8052959d2ed27b",
+          "ytAddress": "0xc0f6a41a9837c4d824bc8d346341db77e634ae69",
           "syAddress": "0xff3ccc1245d59b21b6ec4a597557e748f8311e8c"
         }
       }
@@ -564,7 +564,16 @@
       "assetGroup": "splUSD Plasma::SY-splUSD",
       "currencyId": "splUSD Plasma::SY-splUSD",
       "tags": ["SY"],
-      "props": { "pendle": { "tokenType": "SY" } }
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x9d0676ec013cb50b7bf9b291c22b618e9fe86832",
+          "expiry": 1769644800,
+          "underlyingAsset": "0x616185600989bf8339b58ac9e539d49536598343",
+          "ptAddress": "0xa6c55e31154d39bb0aa3ca2ff9f7665bda4e47fc",
+          "ytAddress": "0x13e695e95601545657caaa7cd62a22fa87b62bdd"
+        }
+      }
     },
     "0xa6c55e31154d39bb0aa3ca2ff9f7665bda4e47fc": {
       "chainId": "9745",
@@ -576,7 +585,16 @@
       "assetGroup": "PT splUSD (plUSD) Plasma::PT-splUSD-29JAN2026",
       "currencyId": "PT splUSD (plUSD) Plasma::PT-splUSD-29JAN2026",
       "tags": ["PT"],
-      "props": { "pendle": { "tokenType": "PT" } }
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x9d0676ec013cb50b7bf9b291c22b618e9fe86832",
+          "expiry": 1769644800,
+          "underlyingAsset": "0x616185600989bf8339b58ac9e539d49536598343",
+          "ytAddress": "0x13e695e95601545657caaa7cd62a22fa87b62bdd",
+          "syAddress": "0xad96c88ec5d39fc5020851075ecb756b2b228060"
+        }
+      }
     },
     "0x13e695e95601545657caaa7cd62a22fa87b62bdd": {
       "chainId": "9745",
@@ -588,7 +606,205 @@
       "assetGroup": "YT splUSD (plUSD) Plasma::YT-splUSD-29JAN2026",
       "currencyId": "YT splUSD (plUSD) Plasma::YT-splUSD-29JAN2026",
       "tags": ["YT"],
-      "props": { "pendle": { "tokenType": "YT" } }
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x9d0676ec013cb50b7bf9b291c22b618e9fe86832",
+          "expiry": 1769644800,
+          "underlyingAsset": "0x616185600989bf8339b58ac9e539d49536598343",
+          "ptAddress": "0xa6c55e31154d39bb0aa3ca2ff9f7665bda4e47fc",
+          "syAddress": "0xad96c88ec5d39fc5020851075ecb756b2b228060"
+        }
+      }
+    },
+    "0x825645da91d741e429247f7fc01ca2dfacb61420": {
+      "chainId": "9745",
+      "decimals": 18,
+      "name": "mHYPER Plasma",
+      "address": "0x825645da91d741e429247f7fc01ca2dfacb61420",
+      "symbol": "SY-mHYPER",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/c4a5befc-d44a-4344-9337-b8fd8fe7e6b2.svg",
+      "assetGroup": "mHYPER Plasma::SY-mHYPER",
+      "currencyId": "mHYPER Plasma::SY-mHYPER",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0xca2d052fcedbf532ca8cef2d3d1d84a041a258f7",
+          "expiry": 1769644800,
+          "underlyingAsset": "0xb31bea5c2a43f942a3800558b1aa25978da75f8a",
+          "ptAddress": "0xcea23ab8fde0b90e4d08eb68e8876e43933721d2",
+          "ytAddress": "0xeb9445e79047807e8a6fb394c2b66c42ca621463"
+        }
+      }
+    },
+    "0xcea23ab8fde0b90e4d08eb68e8876e43933721d2": {
+      "chainId": "9745",
+      "decimals": 6,
+      "name": "PT mHYPER (USDT0) Plasma",
+      "address": "0xcea23ab8fde0b90e4d08eb68e8876e43933721d2",
+      "symbol": "PT-mHYPER-29JAN2026",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/1131fb94-1cf2-4916-8204-44ed706dec8b.svg",
+      "assetGroup": "PT mHYPER (USDT0) Plasma::PT-mHYPER-29JAN2026",
+      "currencyId": "PT mHYPER (USDT0) Plasma::PT-mHYPER-29JAN2026",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0xca2d052fcedbf532ca8cef2d3d1d84a041a258f7",
+          "expiry": 1769644800,
+          "underlyingAsset": "0xb31bea5c2a43f942a3800558b1aa25978da75f8a",
+          "ytAddress": "0xeb9445e79047807e8a6fb394c2b66c42ca621463",
+          "syAddress": "0x825645da91d741e429247f7fc01ca2dfacb61420"
+        }
+      }
+    },
+    "0xeb9445e79047807e8a6fb394c2b66c42ca621463": {
+      "chainId": "9745",
+      "decimals": 6,
+      "name": "YT mHYPER (USDT0) Plasma",
+      "address": "0xeb9445e79047807e8a6fb394c2b66c42ca621463",
+      "symbol": "YT-mHYPER-29JAN2026",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/28aa7f4a-9a35-47c5-8d31-2572de8adfee.svg",
+      "assetGroup": "YT mHYPER (USDT0) Plasma::YT-mHYPER-29JAN2026",
+      "currencyId": "YT mHYPER (USDT0) Plasma::YT-mHYPER-29JAN2026",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0xca2d052fcedbf532ca8cef2d3d1d84a041a258f7",
+          "expiry": 1769644800,
+          "underlyingAsset": "0xb31bea5c2a43f942a3800558b1aa25978da75f8a",
+          "ptAddress": "0xcea23ab8fde0b90e4d08eb68e8876e43933721d2",
+          "syAddress": "0x825645da91d741e429247f7fc01ca2dfacb61420"
+        }
+      }
+    },
+    "0x641066fc5b4f53432c4ad9ad745a175af4da7233": {
+      "chainId": "9745",
+      "decimals": 18,
+      "name": "RLP Plasma",
+      "address": "0x641066fc5b4f53432c4ad9ad745a175af4da7233",
+      "symbol": "SY-RLP",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/afecc057-b881-4315-a6c3-cb2efb71169a.svg",
+      "assetGroup": "RLP Plasma::SY-RLP",
+      "currencyId": "RLP Plasma::SY-RLP",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x23280356de3a7aec0b0710cd9b902ac8f431368c",
+          "expiry": 1772064000,
+          "underlyingAsset": "0x35533f54740f1f1aa4179e57ba37039dfa16868b",
+          "ptAddress": "0x48f119b3fca8244274531f2e06b74ac4b1f5fe58",
+          "ytAddress": "0xdff365879600a918b1f57de6f7bbdc7092df39fc"
+        }
+      }
+    },
+    "0x48f119b3fca8244274531f2e06b74ac4b1f5fe58": {
+      "chainId": "9745",
+      "decimals": 6,
+      "name": "PT RLP (USDT0) Plasma",
+      "address": "0x48f119b3fca8244274531f2e06b74ac4b1f5fe58",
+      "symbol": "PT-RLP-26FEB2026",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/15b3aaeb-78e6-469a-8cb5-87ee792e5d95.svg",
+      "assetGroup": "PT RLP (USDT0) Plasma::PT-RLP-26FEB2026",
+      "currencyId": "PT RLP (USDT0) Plasma::PT-RLP-26FEB2026",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x23280356de3a7aec0b0710cd9b902ac8f431368c",
+          "expiry": 1772064000,
+          "underlyingAsset": "0x35533f54740f1f1aa4179e57ba37039dfa16868b",
+          "ytAddress": "0xdff365879600a918b1f57de6f7bbdc7092df39fc",
+          "syAddress": "0x641066fc5b4f53432c4ad9ad745a175af4da7233"
+        }
+      }
+    },
+    "0xdff365879600a918b1f57de6f7bbdc7092df39fc": {
+      "chainId": "9745",
+      "decimals": 6,
+      "name": "YT RLP (USDT0) Plasma",
+      "address": "0xdff365879600a918b1f57de6f7bbdc7092df39fc",
+      "symbol": "YT-RLP-26FEB2026",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/db32441a-1b9f-46d1-92c9-7007dbb9260e.svg",
+      "assetGroup": "YT RLP (USDT0) Plasma::YT-RLP-26FEB2026",
+      "currencyId": "YT RLP (USDT0) Plasma::YT-RLP-26FEB2026",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x23280356de3a7aec0b0710cd9b902ac8f431368c",
+          "expiry": 1772064000,
+          "underlyingAsset": "0x35533f54740f1f1aa4179e57ba37039dfa16868b",
+          "ptAddress": "0x48f119b3fca8244274531f2e06b74ac4b1f5fe58",
+          "syAddress": "0x641066fc5b4f53432c4ad9ad745a175af4da7233"
+        }
+      }
+    },
+    "0x2b04604c6f27b7d2cb910735110170bc26c33a4f": {
+      "chainId": "9745",
+      "decimals": 18,
+      "name": "wstUSR Plasma",
+      "address": "0x2b04604c6f27b7d2cb910735110170bc26c33a4f",
+      "symbol": "SY-wstUSR",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/c7594efb-64e6-4409-a549-084cef57e5f3.svg",
+      "assetGroup": "wstUSR Plasma::SY-wstUSR",
+      "currencyId": "wstUSR Plasma::SY-wstUSR",
+      "tags": ["SY"],
+      "props": {
+        "pendle": {
+          "tokenType": "SY",
+          "marketAddress": "0x23180d15651fe6e4415ce27b212cf8e5d2deda96",
+          "expiry": 1772064000,
+          "underlyingAsset": "0x2a52b289ba68bbd02676640aa9f605700c9e5699",
+          "ptAddress": "0xffaf49f320b8ae1bb9ea596197040077a3666105",
+          "ytAddress": "0xdc8c86bc1cbc61946dde5e084e44f59619dfa75e"
+        }
+      }
+    },
+    "0xffaf49f320b8ae1bb9ea596197040077a3666105": {
+      "chainId": "9745",
+      "decimals": 18,
+      "name": "PT wstUSR (USR) Plasma",
+      "address": "0xffaf49f320b8ae1bb9ea596197040077a3666105",
+      "symbol": "PT-wstUSR-26FEB2026",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/580b10b1-3933-4b8d-ab74-a42654c53e48.svg",
+      "assetGroup": "PT wstUSR (USR) Plasma::PT-wstUSR-26FEB2026",
+      "currencyId": "PT wstUSR (USR) Plasma::PT-wstUSR-26FEB2026",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x23180d15651fe6e4415ce27b212cf8e5d2deda96",
+          "expiry": 1772064000,
+          "underlyingAsset": "0x2a52b289ba68bbd02676640aa9f605700c9e5699",
+          "ytAddress": "0xdc8c86bc1cbc61946dde5e084e44f59619dfa75e",
+          "syAddress": "0x2b04604c6f27b7d2cb910735110170bc26c33a4f"
+        }
+      }
+    },
+    "0xdc8c86bc1cbc61946dde5e084e44f59619dfa75e": {
+      "chainId": "9745",
+      "decimals": 18,
+      "name": "YT wstUSR (USR) Plasma",
+      "address": "0xdc8c86bc1cbc61946dde5e084e44f59619dfa75e",
+      "symbol": "YT-wstUSR-26FEB2026",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/4e1a3911-544f-45b5-a0d2-5b8eb7fab7c6.svg",
+      "assetGroup": "YT wstUSR (USR) Plasma::YT-wstUSR-26FEB2026",
+      "currencyId": "YT wstUSR (USR) Plasma::YT-wstUSR-26FEB2026",
+      "tags": ["YT"],
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x23180d15651fe6e4415ce27b212cf8e5d2deda96",
+          "expiry": 1772064000,
+          "underlyingAsset": "0x2a52b289ba68bbd02676640aa9f605700c9e5699",
+          "ptAddress": "0xffaf49f320b8ae1bb9ea596197040077a3666105",
+          "syAddress": "0x2b04604c6f27b7d2cb910735110170bc26c33a4f"
+        }
+      }
     },
     "0x6100e367285b01f48d07953803a2d8dca5d19873": {
       "chainId": "9745",
@@ -753,12 +969,12 @@
     "0xe561fe05c39075312aa9bc6af79ddae981461359": {
       "chainId": "9745",
       "decimals": 18,
-      "name": "rsETHWrapper",
+      "name": "Wrapped rsETH",
       "address": "0xe561fe05c39075312aa9bc6af79ddae981461359",
       "symbol": "wrsETH",
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe561fe05c39075312aa9bc6af79ddae981461359.png",
-      "assetGroup": "rsETHWrapper::wrsETH",
-      "currencyId": "rsETHWrapper::wrsETH",
+      "assetGroup": "RSETH",
+      "currencyId": "Wrapped rsETH::wrsETH",
       "tags": ["biconomy-gas-token"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
@@ -1006,6 +1222,47 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x76309a9a56309104518847bba321c261b7b4a43f.png",
       "assetGroup": "USDT0::dUSDT0-V3-0",
       "currencyId": "USDT0::dUSDT0-V3-0"
+    },
+    "0x9c46ee1f01d2b551048f5ff99a4659d98d04bed1": {
+      "chainId": "9745",
+      "decimals": 6,
+      "name": "246Club TelosC Earn USDT0",
+      "address": "0x9c46ee1f01d2b551048f5ff99a4659d98d04bed1",
+      "symbol": "246USDT0",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x9c46ee1f01d2b551048f5ff99a4659d98d04bed1.png",
+      "assetGroup": "246Club TelosC Earn USDT0::246USDT0",
+      "currencyId": "246Club TelosC Earn USDT0::246USDT0"
+    },
+    "0xc8a8df9b210243c55d31c73090f06787ad0a1bf6": {
+      "chainId": "9745",
+      "decimals": 18,
+      "name": "Staked Yuzu USD",
+      "address": "0xc8a8df9b210243c55d31c73090f06787ad0a1bf6",
+      "symbol": "syzUSD",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc8a8df9b210243c55d31c73090f06787ad0a1bf6.png",
+      "assetGroup": "Staked Yuzu USD::syzUSD",
+      "currencyId": "Staked Yuzu USD::syzUSD"
+    },
+    "0xabb48792a3161e81b47ca084c0b7a22a50324a44": {
+      "chainId": "9745",
+      "decimals": 18,
+      "name": "Lithos",
+      "address": "0xabb48792a3161e81b47ca084c0b7a22a50324a44",
+      "symbol": "LITH",
+      "logoURI": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/tokens/9745/lith.svg",
+      "assetGroup": "Lithos::LITH",
+      "currencyId": "Lithos::LITH",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xe48d935e6c9e735463cccf29a7f11e32bc09136e" : {
+      "chainId": "1",
+      "decimals": 18,
+      "name": "Wrapped liquid staked Ether 2.0",
+      "address": "0xe48d935e6c9e735463cccf29a7f11e32bc09136e",
+      "symbol": "wstETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/18834/large/wstETH.png?1633565443",
+      "assetGroup": "WSTETH",
+      "currencyId": "Wrapped liquid staked Ether 2.0::wstETH"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "9745",

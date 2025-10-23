@@ -385,6 +385,17 @@
       "currencyId": "Frax USD::FRXUSD",
       "tags": ["coingecko"]
     },
+    "0x5bff88ca1442c2496f7e475e9e7786383bc070c0": {
+      "chainId": "747474",
+      "decimals": 18,
+      "name": "Staked Frax USD",
+      "address": "0x5bff88ca1442c2496f7e475e9e7786383bc070c0",
+      "symbol": "sfrxUSD",
+      "logoURI": "https://cdn.morpho.org/assets/logos/sfrxusd.svg",
+      "assetGroup": "Staked Frax USD::sfrxUSD",
+      "currencyId": "Staked Frax USD::sfrxUSD",
+      "tags": ["yield"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "747474",
       "decimals": 18,

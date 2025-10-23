@@ -27426,9 +27426,10 @@
       "name": "VELTA Token",
       "address": "0xc0fda56253e95505027e5766a1af1f27a073544f",
       "symbol": "VTA",
+      "logoURI": "https://assets.coingecko.com/coins/images/35276/thumb/VELTA_logo_referencement.png?1708054293",
       "assetGroup": "VELTA Token::VTA",
       "currencyId": "VELTA Token::VTA",
-      "tags": ["debridge"]
+      "tags": ["debridge", "biconomy-gas-token"]
     },
     "0x476ef9ac6d8673e220d0e8bc0a810c2dc6a2aa84": {
       "chainId": "137",
@@ -27436,9 +27437,10 @@
       "name": "US Permissionless Dollar",
       "address": "0x476ef9ac6d8673e220d0e8bc0a810c2dc6a2aa84",
       "symbol": "USPD",
+      "logoURI": "https://assets.coingecko.com/coins/images/69917/thumb/logo_uspd_200_200.png?1760025748",
       "assetGroup": "US Permissionless Dollar::USPD",
       "currencyId": "US Permissionless Dollar::USPD",
-      "tags": ["debridge"]
+      "tags": ["debridge", "biconomy-gas-token"]
     },
     "0x2d34a748427801e5d3da862bf474e2b28e501624": {
       "chainId": "137",
@@ -27446,9 +27448,10 @@
       "name": "MPOOL",
       "address": "0x2d34a748427801e5d3da862bf474e2b28e501624",
       "symbol": "Mult Pool",
+      "logoURI": "https://assets.coingecko.com/coins/images/69971/thumb/logo_moedampool02.png?1760257128",
       "assetGroup": "MPOOL::Mult Pool",
       "currencyId": "MPOOL::Mult Pool",
-      "tags": ["debridge"]
+      "tags": ["debridge", "biconomy-gas-token"]
     },
     "0xae840deab9916d80fadf42e218119a6051468169": {
       "chainId": "137",
@@ -27456,8 +27459,41 @@
       "name": "ElevateFi",
       "address": "0xae840deab9916d80fadf42e218119a6051468169",
       "symbol": "EFI",
+      "logoURI": "https://assets.coingecko.com/coins/images/70007/thumb/EFI_Transperent_1755852921083-Dc7YZe11.png?1760347038",
       "assetGroup": "ElevateFi::EFI",
       "currencyId": "ElevateFi::EFI",
+      "tags": ["debridge", "biconomy-gas-token"]
+    },
+    "0x4933a85b5b5466fbaf179f72d3de273c287ec2c2": {
+      "chainId": "137",
+      "decimals": 6,
+      "name": "AllUnity EUR",
+      "address": "0x4933a85b5b5466fbaf179f72d3de273c287ec2c2",
+      "symbol": "EURAU",
+      "logoURI": "https://assets.coingecko.com/coins/images/68076/thumb/EURAU_Full_Colour.png?1754717091",
+      "assetGroup": "AllUnity EUR::EURAU",
+      "currencyId": "AllUnity EUR::EURAU",
+      "tags": ["biconomy-gas-token", "debridge"]
+    },
+    "0x1cca311b786dd7906c07414095fa719eabfd070f": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Play",
+      "address": "0x1cca311b786dd7906c07414095fa719eabfd070f",
+      "symbol": "PLAY",
+      "logoURI": "https://assets.coingecko.com/coins/images/70170/thumb/token-logo-200.png?1760865359",
+      "assetGroup": "PLAY",
+      "currencyId": "Play::PLAY",
+      "tags": ["biconomy-gas-token", "debridge"]
+    },
+    "0x3e12b9d6a4d12cd9b4a6d613872d0eb32f68b380": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Flower",
+      "address": "0x3e12b9d6a4d12cd9b4a6d613872d0eb32f68b380",
+      "symbol": "FLOWER",
+      "assetGroup": "Flower::FLOWER",
+      "currencyId": "Flower::FLOWER",
       "tags": ["debridge"]
     },
     "0x0000000000000000000000000000000000000000": {

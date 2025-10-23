@@ -6374,7 +6374,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x45cf39eeb437fa95bb9b52c0105254a6bd25d01e.png",
       "assetGroup": "Wrapped Aave Avalanche AUSD::waAvaAUSD",
       "currencyId": "Wrapped Aave Avalanche AUSD::waAvaAUSD",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x59933c571d200dc6a7fd1cda22495db442082e34": {
       "chainId": "43114",
@@ -8764,7 +8764,8 @@
       "symbol": "USDp",
       "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg",
       "assetGroup": "USDp::USDp",
-      "currencyId": "USDp::USDp"
+      "currencyId": "USDp::USDp",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x9b9fd410d5f01a6a60acf4678a5a99d8027fa5a7": {
       "chainId": "43114",
@@ -9491,7 +9492,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/31948/thumb/epep-logo-coingecko_.png?1722576800",
       "assetGroup": "Pepe Inverted::ƎԀƎԀ",
       "currencyId": "Pepe Inverted::ƎԀƎԀ",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x297731eb3cab3834525fc9ea061fd71d8f4645c9": {
       "chainId": "43114",
@@ -9502,7 +9503,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/69996/thumb/blazetoken200.jpg?1760338523",
       "assetGroup": "Blaze::BLAZE",
       "currencyId": "Blaze::BLAZE",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
     },
     "0x0f875ae3eb1fc8a3289657676fc2a288585982a5": {
       "chainId": "43114",
@@ -9513,7 +9514,29 @@
       "logoURI": "https://assets.coingecko.com/coins/images/51727/thumb/rektcion_trans_200px.png?1731910587",
       "assetGroup": "Rekt::REKT",
       "currencyId": "Rekt::REKT",
-      "tags": ["coingecko", "debridge"]
+      "tags": ["coingecko", "debridge", "biconomy-gas-token"]
+    },
+    "0x13a466998ce03db73abc2d4df3bbd845ed1f28e7": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Pharaoh",
+      "address": "0x13a466998ce03db73abc2d4df3bbd845ed1f28e7",
+      "symbol": "PHAR",
+      "logoURI": "https://assets.coingecko.com/coins/images/70102/thumb/PHAROAH.jpg?1760558123",
+      "assetGroup": "Pharaoh::PHAR::43114::0",
+      "currencyId": "Pharaoh::PHAR",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x26e9dbe75aed331e41272bece932ff1b48926ca9": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Pharaoh Liquid Staking Token",
+      "address": "0x26e9dbe75aed331e41272bece932ff1b48926ca9",
+      "symbol": "P33",
+      "logoURI": "https://assets.coingecko.com/coins/images/70131/thumb/p33.png?1760694957",
+      "assetGroup": "Pharaoh Liquid Staking Token::P33",
+      "currencyId": "Pharaoh Liquid Staking Token::P33",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "43114",
