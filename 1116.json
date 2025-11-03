@@ -241,6 +241,18 @@
       "tags": ["coingecko", "COLEND", "COLEND_LSTBTC", "AVALON", "wnative"],
       "props": { "wnative": true }
     },
+
+    "0xe85411c030fb32a9d8b14bbbc6cb19417391f711": {
+      "chainId": "1116",
+      "decimals": 18,
+      "name": "Sumerian BTC",
+      "address": "0xe85411c030fb32a9d8b14bbbc6cb19417391f711",
+      "symbol": "suBTC",
+      "logoURI": "https://d2f70xi62kby8n.cloudfront.net/tokens/subtc.webp?auto=compress%2Cformat",
+      "assetGroup": "SUBTC",
+      "currencyId": "Sumerian BTC::suBTC",
+      "tags": ["debridge"]
+    },
     "0xe56016187c0fb36f76c33d0d0b36b47648a42d0a": {
       "chainId": "1116",
       "decimals": 18,
