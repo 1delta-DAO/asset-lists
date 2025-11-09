@@ -10,8 +10,7 @@
       "symbol": "USDC.e",
       "logoURI": "https://assets.coingecko.com/coins/images/35218/large/USDC_Icon.png?1707908537",
       "assetGroup": "USDC",
-      "currencyId": "Bridged USDC::USDC.e",
-      "tags": ["bridged"]
+      "currencyId": "Bridged USDC::USDC.e"
     },
     "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3": {
       "chainId": "480",
@@ -32,8 +31,8 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "tags": ["wnative"],
-      "props": { "wnative": true }
+      "props": { "wnative": true },
+      "tags": ["wnative"]
     },
     "0x2cfc85d8e48f8eab294be644d9e25c3030863003": {
       "chainId": "480",
@@ -63,17 +62,11 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "assetGroup": "ETH",
       "currencyId": "Ether::ETH",
-      "tags": ["native", "wrapped:0x4200000000000000000000000000000000000006"],
-      "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" }
+      "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" },
+      "tags": ["wnative"]
     }
   },
   "mainTokens": [
-    "0x0000000000000000000000000000000000000000",
-    "0x79a02482a880bce3f13e09da970dc34db4cd24d1",
-    "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
-    "0x4200000000000000000000000000000000000006"
-  ],
-  "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",
     "0x79a02482a880bce3f13e09da970dc34db4cd24d1",
     "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",

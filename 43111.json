@@ -11,8 +11,8 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "tags": ["wnative", "LAYERBANK_V3", "ZEROLEND", "LENDOS", "biconomy-gas-token"],
-      "props": { "wnative": true }
+      "props": { "wnative": true },
+      "tags": ["wnative"]
     },
     "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa": {
       "chainId": "43111",
@@ -23,7 +23,6 @@
       "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdce.svg",
       "assetGroup": "USDC",
       "currencyId": "Bridged USDC (Stargate)::USDC.e",
-      "tags": ["stargate", "bridged", "LAYERBANK_V3", "ZEROLEND", "LENDOS", "biconomy-gas-token"],
       "props": { "permit": { "type": 1, "version": "2" } }
     },
     "0x7a06c4aef988e7925575c50261297a946ad204a8": {
@@ -34,8 +33,7 @@
       "symbol": "VUSD",
       "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/vusd.png",
       "assetGroup": "VUSD",
-      "currencyId": "Vesper V-Dollar::VUSD",
-      "tags": ["LAYERBANK_V3", "ZEROLEND", "LENDOS"]
+      "currencyId": "Vesper V-Dollar::VUSD"
     },
     "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e": {
       "chainId": "43111",
@@ -46,7 +44,6 @@
       "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdt.png",
       "assetGroup": "USDT",
       "currencyId": "Tether USD::USDT",
-      "tags": ["LAYERBANK_V3", "ZEROLEND", "LENDOS", "biconomy-gas-token"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xaa40c0c7644e0b2b224509571e10ad20d9c4ef28": {
@@ -57,8 +54,7 @@
       "symbol": "hemiBTC",
       "logoURI": "https://raw.githubusercontent.com/hemilabs/token-list/master/src/logos/hemibtc.svg",
       "assetGroup": "HEMIBTC",
-      "currencyId": "Hemi Bitcoin::hemiBTC",
-      "tags": ["LAYERBANK_V3", "ZEROLEND", "LENDOS", "biconomy-gas-token"]
+      "currencyId": "Hemi Bitcoin::hemiBTC"
     },
     "0x623f2774d9f27b59bc6b954544487532ce79d9df": {
       "chainId": "43111",
@@ -78,8 +74,7 @@
       "symbol": "WBTC",
       "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2/logo.png",
       "assetGroup": "WBTC",
-      "currencyId": "Wrapped BTC::WBTC",
-      "tags": ["LAYERBANK_V3", "ZEROLEND", "LENDOS"]
+      "currencyId": "Wrapped BTC::WBTC"
     },
     "0x93919784c523f39cacaa98ee0a9d96c3f32b593e": {
       "chainId": "43111",
@@ -89,8 +84,7 @@
       "symbol": "brBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/53039/standard/brBTC_200.png?1735074374",
       "assetGroup": "BRBTC",
-      "currencyId": "brBTC::brBTC",
-      "tags": ["LAYERBANK_V3", "ZEROLEND"]
+      "currencyId": "brBTC::brBTC"
     },
     "0x6a9a65b84843f5fd4ac9a0471c4fc11afffbce4a": {
       "chainId": "43111",
@@ -100,8 +94,7 @@
       "symbol": "enzoBTC",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/enzoBTC.webp",
       "assetGroup": "ENZOBTC",
-      "currencyId": "Lorenzo Wrapped Bitcoin::enzoBTC",
-      "tags": ["LAYERBANK_V3"]
+      "currencyId": "Lorenzo Wrapped Bitcoin::enzoBTC"
     },
     "0x1596be338b999e2376675c908168a7548c8b0525": {
       "chainId": "43111",
@@ -182,8 +175,7 @@
       "symbol": "IBTC",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/iBTC.webp",
       "assetGroup": "IBTC",
-      "currencyId": "iBTC::IBTC",
-      "tags": ["LAYERBANK_V3"]
+      "currencyId": "iBTC::IBTC"
     },
     "0xe3c0ff176ef92fc225096c6d1788ccb818808b35": {
       "chainId": "43111",
@@ -203,8 +195,7 @@
       "symbol": "uBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/55079/thumb/uBTC.png?1743613297",
       "assetGroup": "UBTC",
-      "currencyId": "uBTC::uBTC",
-      "tags": ["LAYERBANK_V3"]
+      "currencyId": "uBTC::uBTC"
     },
     "0x9bfa177621119e64cecbeabe184ab9993e2ef727": {
       "chainId": "43111",
@@ -214,8 +205,7 @@
       "symbol": "M-BTC",
       "logoURI": "https://assets.coingecko.com/coins/images/36566/standard/photo_2024-03-25_22-04-42.jpg?1711936162",
       "assetGroup": "M-BTC",
-      "currencyId": "Merlin BTC::M-BTC",
-      "tags": ["LAYERBANK_V3", "ZEROLEND"]
+      "currencyId": "Merlin BTC::M-BTC"
     },
     "0xf469fbd2abcd6b9de8e169d128226c0fc90a012e": {
       "chainId": "43111",
@@ -225,8 +215,7 @@
       "symbol": "pumpBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/39232/thumb/200pxPumpBTCLogo.png?1721227861",
       "assetGroup": "PUMPBTC",
-      "currencyId": "pumpBTC::pumpBTC",
-      "tags": ["ZEROLEND"]
+      "currencyId": "pumpBTC::pumpBTC"
     },
     "0x12b6e6fc45f81cda81d2656b974e8190e4ab8d93": {
       "chainId": "43111",
@@ -246,8 +235,7 @@
       "symbol": "uniBTC",
       "logoURI": "https://raw.githubusercontent.com/Bedrock-Technology/bedrock-static/39b68b34ecef136a7f57720ac6ac8773606539da/logo/unibtc.svg",
       "assetGroup": "UNIBTC",
-      "currencyId": "uniBTC::uniBTC",
-      "tags": ["LAYERBANK_V3", "ZEROLEND"]
+      "currencyId": "uniBTC::uniBTC"
     },
     "0x0af3ec6f9592c193196bef220bc0ce4d9311527d": {
       "chainId": "43111",
@@ -286,8 +274,7 @@
       "symbol": "rsETH",
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x4186BFC76E2E237523CBC30FD220FE055156b41F/logo.png",
       "assetGroup": "RSETH",
-      "currencyId": "KelpDao Restaked ETH::rsETH",
-      "tags": ["ZEROLEND"]
+      "currencyId": "KelpDao Restaked ETH::rsETH"
     },
     "0x027a9d301fb747cd972cfb29a63f3bda551dfc5c": {
       "chainId": "43111",
@@ -298,7 +285,6 @@
       "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/egeth.png",
       "assetGroup": "Bridged egETH::Bridged egETH",
       "currencyId": "Bridged egETH::Bridged egETH",
-      "tags": ["bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xbf7d0f62b64b23053949b3a88a03da5bfd35b2e2": {
@@ -309,8 +295,7 @@
       "symbol": "msETH",
       "logoURI": "https://cdn.sushi.com/image/upload/f_auto,c_limit,w_32/d_unknown.png/tokens/43111/0xBF7d0F62B64B23053949B3a88a03da5Bfd35b2E2.jpg",
       "assetGroup": "Metronome Synth ETH::msETH",
-      "currencyId": "Metronome Synth ETH::msETH",
-      "tags": ["bridged"]
+      "currencyId": "Metronome Synth ETH::msETH"
     },
     "0x1855911ab07ed5cd056008f409b709dfa9d01183": {
       "chainId": "43111",
@@ -320,8 +305,7 @@
       "symbol": "msBTC",
       "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/msbtc.png",
       "assetGroup": "Metronome Synth BTC::msBTC",
-      "currencyId": "Metronome Synth BTC::msBTC",
-      "tags": ["bridged"]
+      "currencyId": "Metronome Synth BTC::msBTC"
     },
     "0x3ea24e3727a85a479e29e02cc70e792936fbbcad": {
       "chainId": "43111",
@@ -331,8 +315,7 @@
       "symbol": "msUSD",
       "logoURI": "https://cdn.sushi.com/image/upload/f_auto,c_limit,w_48/d_unknown.png/tokens/43111/0x3EA24E3727a85A479E29E02Cc70e792936FbBcaD.jpg",
       "assetGroup": "Metronome Synth USD::msUSD",
-      "currencyId": "Metronome Synth USD::msUSD",
-      "tags": ["bridged"]
+      "currencyId": "Metronome Synth USD::msUSD"
     },
     "0x1c22531aa9747d76fff8f0a43b37954ca67d28e0": {
       "chainId": "43111",
@@ -352,8 +335,7 @@
       "logoURI": "https://app.satoshiprotocol.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FsatIcon.c7c91de1.png&w=32&q=75",
       "assetGroup": "Satoshi Stablecoin V2::satUSD",
       "currencyId": "Satoshi Stablecoin V2::satUSD",
-      "props": { "permit": { "type": 1, "version": "1" } },
-      "tags": ["biconomy-gas-token"]
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x8bf591eae535f93a242d5a954d3cde648b48a5a8": {
       "chainId": "43111",
@@ -493,7 +475,6 @@
       "symbol": "SLP",
       "assetGroup": "SushiSwap LP Token (VUSD-hemiBTC)::SLP",
       "currencyId": "SushiSwap LP Token (VUSD-hemiBTC)::SLP",
-      "tags": ["LENDOS"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xaf6ed58980b5a0732423469dd9f3f69d9dc6dab5": {
@@ -504,7 +485,6 @@
       "symbol": "SLP",
       "assetGroup": "SushiSwap LP Token (WETH-USDC.e)::SLP",
       "currencyId": "SushiSwap LP Token (WETH-USDC.e)::SLP",
-      "tags": ["LENDOS"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xf23eec60263de9b0c8472c58be10feba28d9eb53": {
@@ -515,7 +495,6 @@
       "symbol": "SLP",
       "assetGroup": "SushiSwap LP Token (VUSD-USDC.e)::SLP",
       "currencyId": "SushiSwap LP Token (VUSD-USDC.e)::SLP",
-      "tags": ["LENDOS"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xafb068838136358cfa6b54bea580b86df70bba7f": {
@@ -556,8 +535,7 @@
       "symbol": "HEMI",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/HEMI.webp",
       "assetGroup": "Hemi::HEMI",
-      "currencyId": "Hemi::HEMI",
-      "tags": ["biconomy-gas-token"]
+      "currencyId": "Hemi::HEMI"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "43111",
@@ -568,15 +546,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "assetGroup": "ETH",
       "currencyId": "Ether::ETH",
-      "tags": [
-        "native",
-        "LAYERBANK_V3",
-        "ZEROLEND",
-        "LENDOS",
-        "biconomy-gas-token",
-        "wrapped:0x4200000000000000000000000000000000000006"
-      ],
-      "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" }
+      "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" },
+      "tags": ["wnative"]
     }
   },
   "mainTokens": [
@@ -607,12 +578,5 @@
     "0xe3c0ff176ef92fc225096c6d1788ccb818808b35",
     "0xf9775085d726e782e83585033b58606f7731ab18",
     "0x8bf591eae535f93a242d5a954d3cde648b48a5a8"
-  ],
-  "bridgeTokens": [
-    "0x0000000000000000000000000000000000000000",
-    "0x4200000000000000000000000000000000000006",
-    "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa",
-    "0xbb0d083fb1be0a9f6157ec484b6c79e0a4e31c2e",
-    "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3"
   ]
 }

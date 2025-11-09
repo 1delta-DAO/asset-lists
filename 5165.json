@@ -11,8 +11,8 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/28478/large/lightenicon_200x200.png?1696527472",
       "assetGroup": "FTN",
       "currencyId": "Wrapped FTN::WFTN",
-      "tags": ["wnative"],
-      "props": { "wnative": true }
+      "props": { "wnative": true },
+      "tags": ["wnative"]
     },
     "0xdef886c55a79830c47108eeb9c37e78a49684e41": {
       "chainId": "5165",
@@ -61,8 +61,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/ftn.webp",
       "assetGroup": "FTN",
       "currencyId": "FTN::FTN",
-      "tags": ["native", "wrapped:0x4084ab20f8ffca76c19aaf854fb5fe9de6217fbb"],
-      "props": { "isNative": true, "wrapped": "0x4084ab20f8ffca76c19aaf854fb5fe9de6217fbb" }
+      "props": { "isNative": true, "wrapped": "0x4084ab20f8ffca76c19aaf854fb5fe9de6217fbb" },
+      "tags": ["wnative"]
     }
   },
   "mainTokens": [
@@ -70,10 +70,5 @@
     "0xdef886c55a79830c47108eeb9c37e78a49684e41",
     "0x4237e0a5b55233d5b6d6d1d9bf421723954130d8",
     "0x4084ab20f8ffca76c19aaf854fb5fe9de6217fbb"
-  ],
-  "bridgeTokens": [
-    "0x0000000000000000000000000000000000000000",
-    "0xdef886c55a79830c47108eeb9c37e78a49684e41",
-    "0x4237e0a5b55233d5b6d6d1d9bf421723954130d8"
   ]
 }

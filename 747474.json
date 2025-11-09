@@ -51,8 +51,8 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/vbeth.svg",
       "assetGroup": "ETH",
       "currencyId": "Vault Bridge ETH::vbETH",
-      "tags": ["eth", "coingecko", "vault bridge", "bridged", "wnative"],
-      "props": { "permit": { "type": 1, "version": "1" }, "wnative": true }
+      "props": { "permit": { "type": 1, "version": "1" }, "wnative": true },
+      "tags": ["wnative"]
     },
     "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36": {
       "chainId": "747474",
@@ -63,7 +63,6 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/vbusdc.svg",
       "assetGroup": "USDC",
       "currencyId": "Vault Bridge USDC::vbUSDC",
-      "tags": ["stablecoin", "usd-pegged", "coingecko", "vault bridge", "bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x2dca96907fde857dd3d816880a0df407eeb2d2f2": {
@@ -75,7 +74,6 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/vbusdt.svg",
       "assetGroup": "USDT",
       "currencyId": "Vault Bridge USDT::vbUSDT",
-      "tags": ["stablecoin", "usd-pegged", "coingecko", "vault bridge", "bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x0913da6da4b42f538b445599b46bb4622342cf52": {
@@ -87,7 +85,6 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/vbwbtc.svg",
       "assetGroup": "WBTC",
       "currencyId": "Vault Bridge WBTC::vbWBTC",
-      "tags": ["btc", "coingecko", "vault bridge", "bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x00000000efe302beaa2b3e6e1b18d08d69a9012a": {
@@ -98,8 +95,7 @@
       "symbol": "AUSD",
       "logoURI": "https://cdn.morpho.org/assets/logos/ausd.svg",
       "assetGroup": "AUSD",
-      "currencyId": "AUSD::AUSD",
-      "tags": ["stablecoin", "usd-pegged", "coingecko"]
+      "currencyId": "AUSD::AUSD"
     },
     "0x1e5efca3d0db2c6d5c67a4491845c43253eb9e4e": {
       "chainId": "747474",
@@ -109,8 +105,7 @@
       "symbol": "MORPHO",
       "logoURI": "https://cdn.morpho.org/assets/logos/morpho.svg",
       "assetGroup": "MORPHO",
-      "currencyId": "Morpho Token::MORPHO",
-      "tags": ["coingecko"]
+      "currencyId": "Morpho Token::MORPHO"
     },
     "0x9b8df6e244526ab5f6e6400d331db28c8fdddb55": {
       "chainId": "747474",
@@ -120,8 +115,7 @@
       "symbol": "uSOL",
       "logoURI": "https://cdn.morpho.org/assets/logos/usol.svg",
       "assetGroup": "Solana (Universal)::uSOL",
-      "currencyId": "Solana (Universal)::uSOL",
-      "tags": ["coingecko"]
+      "currencyId": "Solana (Universal)::uSOL"
     },
     "0x7fb4d0f51544f24f385a421db6e7d4fc71ad8e5c": {
       "chainId": "747474",
@@ -131,8 +125,7 @@
       "symbol": "wstETH",
       "logoURI": "https://cdn.morpho.org/assets/logos/wsteth.svg",
       "assetGroup": "WSTETH",
-      "currencyId": "Wrapped liquid staked Ether 2.0::wstETH",
-      "tags": ["yield", "lst", "eth", "coingecko"]
+      "currencyId": "Wrapped liquid staked Ether 2.0::wstETH"
     },
     "0xb24e3035d1fcbc0e43cf3143c3fd92e53df2009b": {
       "chainId": "747474",
@@ -142,8 +135,7 @@
       "symbol": "POL",
       "logoURI": "https://cdn.morpho.org/assets/logos/pol.svg",
       "assetGroup": "POL",
-      "currencyId": "Polygon::POL",
-      "tags": ["coingecko"]
+      "currencyId": "Polygon::POL"
     },
     "0xecac9c5f704e954931349da37f60e39f515c11c1": {
       "chainId": "747474",
@@ -153,8 +145,7 @@
       "symbol": "LBTC",
       "logoURI": "https://cdn.morpho.org/assets/logos/lbtc.svg",
       "assetGroup": "LBTC",
-      "currencyId": "Lombard Staked BTC::LBTC",
-      "tags": ["btc", "lst", "coingecko"]
+      "currencyId": "Lombard Staked BTC::LBTC"
     },
     "0xb0f70c0bd6fd87dbeb7c10dc692a2a6106817072": {
       "chainId": "747474",
@@ -164,8 +155,7 @@
       "symbol": "BTCK",
       "logoURI": "https://cdn.morpho.org/assets/logos/btck.svg",
       "assetGroup": "Bitcoin on Katana::BTCK",
-      "currencyId": "Bitcoin on Katana::BTCK",
-      "tags": ["btc", "coingecko"]
+      "currencyId": "Bitcoin on Katana::BTCK"
     },
     "0x9893989433e7a383cb313953e4c2365107dc19a7": {
       "chainId": "747474",
@@ -175,8 +165,7 @@
       "symbol": "weETH",
       "logoURI": "https://cdn.morpho.org/assets/logos/weeth.svg",
       "assetGroup": "WEETH",
-      "currencyId": "Wrapped eETH::weETH",
-      "tags": ["lrt", "yield", "eth", "coingecko"]
+      "currencyId": "Wrapped eETH::weETH"
     },
     "0x62d6a123e8d19d06d68cf0d2294f9a3a0362c6b3": {
       "chainId": "747474",
@@ -187,7 +176,6 @@
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xdc035d45d973e3ec169d2276ddab16f1e407384f/78fbc2e73e33fa80fcecfaafa2074887.png",
       "assetGroup": "USDS",
       "currencyId": "Vault Bridge USDS::vbUSDS",
-      "tags": ["vault bridge", "bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xb0505e5a99abd03d94a1169e638b78edfed26ea4": {
@@ -228,8 +216,7 @@
       "symbol": "WETH",
       "logoURI": "https://static.debank.com/image/katana_token/logo_url/0x4200000000000000000000000000000000000006/61844453e63cf81301f845d7864236f6.png",
       "assetGroup": "ETH",
-      "currencyId": "Wrapped Ether::WETH",
-      "tags": ["wnative"]
+      "currencyId": "Wrapped Ether::WETH"
     },
     "0x80c34bd3a3569e126e7055831036aa7b212cb159": {
       "chainId": "747474",
@@ -239,8 +226,7 @@
       "symbol": "yvvbUSDC",
       "logoURI": "https://cdn.morpho.org/assets/logos/yvvbusdc.svg",
       "assetGroup": "vbUSDC yVault::yvvbUSDC",
-      "currencyId": "vbUSDC yVault::yvvbUSDC",
-      "tags": ["yield", "erc4626"]
+      "currencyId": "vbUSDC yVault::yvvbUSDC"
     },
     "0x9a6bd7b6fd5c4f87eb66356441502fc7dcdd185b": {
       "chainId": "747474",
@@ -250,8 +236,7 @@
       "symbol": "yvvbUSDT",
       "logoURI": "https://cdn.morpho.org/assets/logos/yvvbusdt.svg",
       "assetGroup": "vbUSDT yVault::yvvbUSDT",
-      "currencyId": "vbUSDT yVault::yvvbUSDT",
-      "tags": ["yield", "erc4626"]
+      "currencyId": "vbUSDT yVault::yvvbUSDT"
     },
     "0x4772d2e014f9fc3a820c444e3313968e9a5c8121": {
       "chainId": "747474",
@@ -261,8 +246,7 @@
       "symbol": "yUSD",
       "logoURI": "https://cdn.morpho.org/assets/logos/yusd.svg",
       "assetGroup": "YieldFi yUSD::yUSD",
-      "currencyId": "YieldFi yUSD::yUSD",
-      "tags": ["stablecoin", "usd-pegged", "yield", "coingecko"]
+      "currencyId": "YieldFi yUSD::yUSD"
     },
     "0xfba805659e5050544e185cccdf592fd77f8c7210": {
       "chainId": "747474",
@@ -272,8 +256,7 @@
       "symbol": "KITSU",
       "logoURI": "https://assets.coingecko.com/coins/images/67868/thumb/KitsuPNG2.png?1754110292",
       "assetGroup": "Kitsu::KITSU",
-      "currencyId": "Kitsu::KITSU",
-      "tags": ["coingecko"]
+      "currencyId": "Kitsu::KITSU"
     },
     "0x6c16e26013f2431e8b2e1ba7067ecccad0db6c52": {
       "chainId": "747474",
@@ -283,8 +266,7 @@
       "symbol": "JitoSOL",
       "logoURI": "https://cdn.morpho.org/assets/logos/jitosol.svg",
       "assetGroup": "Jito Staked SOL::JitoSOL",
-      "currencyId": "Jito Staked SOL::JitoSOL",
-      "tags": ["coingecko"]
+      "currencyId": "Jito Staked SOL::JitoSOL"
     },
     "0x09d4214c03d01f49544c0448dbe3a27f768f2b34": {
       "chainId": "747474",
@@ -294,8 +276,7 @@
       "symbol": "RUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/54117/thumb/rusd_bera2.png?1738311629",
       "assetGroup": "Reservoir rUSD::RUSD",
-      "currencyId": "Reservoir rUSD::RUSD",
-      "tags": ["coingecko"]
+      "currencyId": "Reservoir rUSD::RUSD"
     },
     "0x4809010926aec940b550d34a46a52739f996d75d": {
       "chainId": "747474",
@@ -305,8 +286,7 @@
       "symbol": "WSRUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/66163/thumb/wsrUSD.png?1748500965",
       "assetGroup": "Wrapped Savings rUSD::WSRUSD",
-      "currencyId": "Wrapped Savings rUSD::WSRUSD",
-      "tags": ["coingecko"]
+      "currencyId": "Wrapped Savings rUSD::WSRUSD"
     },
     "0xe007ca01894c863d7898045ed5a3b4abf0b18f37": {
       "chainId": "747474",
@@ -316,8 +296,7 @@
       "symbol": "yvvbETH",
       "logoURI": "https://cdn.morpho.org/assets/logos/yvvbeth.svg",
       "assetGroup": "vbETH yVault::yvvbETH",
-      "currencyId": "vbETH yVault::yvvbETH",
-      "tags": ["erc4626"]
+      "currencyId": "vbETH yVault::yvvbETH"
     },
     "0xaa0362ecc584b985056e47812931270b99c91f9d": {
       "chainId": "747474",
@@ -327,8 +306,7 @@
       "symbol": "yvvbWBTC",
       "logoURI": "https://cdn.morpho.org/assets/logos/yvvbwbtc.svg",
       "assetGroup": "vbWBTC yVault::yvvbWBTC",
-      "currencyId": "vbWBTC yVault::yvvbWBTC",
-      "tags": ["erc4626", "btc"]
+      "currencyId": "vbWBTC yVault::yvvbWBTC"
     },
     "0xc2c447b04e0ed3476ddbdae8e9e39be7159d27b6": {
       "chainId": "747474",
@@ -338,8 +316,7 @@
       "symbol": "LINK",
       "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
       "assetGroup": "LINK",
-      "currencyId": "ChainLink Token::LINK",
-      "tags": ["coingecko"]
+      "currencyId": "ChainLink Token::LINK"
     },
     "0x93fec6639717b6215a48e5a72a162c50dcc40d68": {
       "chainId": "747474",
@@ -349,8 +326,7 @@
       "symbol": "AUSD",
       "logoURI": "https://cdn.morpho.org/assets/logos/yvvbausd.svg",
       "assetGroup": "AUSD yVault::AUSD",
-      "currencyId": "AUSD yVault::AUSD",
-      "tags": ["stablecoin", "usd-pegged", "rwa", "yield"]
+      "currencyId": "AUSD yVault::AUSD"
     },
     "0xca52d08737e6af8763a2bf6034b3b03868f24dda": {
       "chainId": "747474",
@@ -360,8 +336,7 @@
       "symbol": "DUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/53290/thumb/dUSD_Logo.png?1735997462",
       "assetGroup": "dTRINITY USD::DUSD",
-      "currencyId": "dTRINITY USD::DUSD",
-      "tags": ["coingecko"]
+      "currencyId": "dTRINITY USD::DUSD"
     },
     "0x64445f0aecc51e94ad52d8ac56b7190e764e561a": {
       "chainId": "747474",
@@ -371,8 +346,7 @@
       "symbol": "WFRAX",
       "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624",
       "assetGroup": "Wrapped FRAX::WFRAX",
-      "currencyId": "Wrapped FRAX::WFRAX",
-      "tags": ["coingecko"]
+      "currencyId": "Wrapped FRAX::WFRAX"
     },
     "0x80eede496655fb9047dd39d9f418d5483ed600df": {
       "chainId": "747474",
@@ -382,8 +356,7 @@
       "symbol": "FRXUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/53963/thumb/frxUSD.png?1737792154",
       "assetGroup": "FRXUSD",
-      "currencyId": "Frax USD::FRXUSD",
-      "tags": ["coingecko"]
+      "currencyId": "Frax USD::FRXUSD"
     },
     "0x5bff88ca1442c2496f7e475e9e7786383bc070c0": {
       "chainId": "747474",
@@ -393,8 +366,7 @@
       "symbol": "sfrxUSD",
       "logoURI": "https://cdn.morpho.org/assets/logos/sfrxusd.svg",
       "assetGroup": "Staked Frax USD::sfrxUSD",
-      "currencyId": "Staked Frax USD::sfrxUSD",
-      "tags": ["yield", "coingecko"]
+      "currencyId": "Staked Frax USD::sfrxUSD"
     },
     "0xc6135d59f8d10c9c035963ce9037b3635170d716": {
       "chainId": "747474",
@@ -404,8 +376,7 @@
       "symbol": "MRE7SOL",
       "logoURI": "https://assets.coingecko.com/coins/images/70338/thumb/mre7sol-C2QhWme8.png?1761638664",
       "assetGroup": "Midas mRe7SOL::MRE7SOL",
-      "currencyId": "Midas mRe7SOL::MRE7SOL",
-      "tags": ["coingecko"]
+      "currencyId": "Midas mRe7SOL::MRE7SOL"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "747474",
@@ -416,15 +387,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "assetGroup": "ETH",
       "currencyId": "Ether::ETH",
-      "tags": [
-        "native",
-        "eth",
-        "coingecko",
-        "vault bridge",
-        "bridged",
-        "wrapped:0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62"
-      ],
-      "props": { "isNative": true, "wrapped": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62" }
+      "props": { "isNative": true, "wrapped": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62" },
+      "tags": ["wnative"]
     }
   },
   "mainTokens": [
@@ -454,11 +418,5 @@
     "0x7fb4d0f51544f24f385a421db6e7d4fc71ad8e5c",
     "0xc6135d59f8d10c9c035963ce9037b3635170d716",
     "0x5bff88ca1442c2496f7e475e9e7786383bc070c0"
-  ],
-  "bridgeTokens": [
-    "0x0000000000000000000000000000000000000000",
-    "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
-    "0x2dca96907fde857dd3d816880a0df407eeb2d2f2",
-    "0x4200000000000000000000000000000000000006"
   ]
 }

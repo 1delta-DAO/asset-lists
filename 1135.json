@@ -30,8 +30,7 @@
       "symbol": "USDC.e",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
       "assetGroup": "USDC",
-      "currencyId": "Bridged USDC (Lisk)::USDC.e",
-      "tags": ["bridged"]
+      "currencyId": "Bridged USDC (Lisk)::USDC.e"
     },
     "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3": {
       "chainId": "1135",
@@ -60,9 +59,8 @@
       "address": "0x43f2376d5d03553ae72f4a8093bbe9de4336eb08",
       "symbol": "USDT0",
       "logoURI": "https://raw.githubusercontent.com/lifinance/types/main/src/assets/icons/tokens/USDT0.svg",
-      "assetGroup": "USDT",
-      "currencyId": "Stargate USD₮0 (Bridged)::USDT0",
-      "tags": ["stargate", "bridged"]
+      "assetGroup": "Stargate USD₮0 (Bridged)::USDT0",
+      "currencyId": "Stargate USD₮0 (Bridged)::USDT0"
     },
     "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189": {
       "chainId": "1135",
@@ -89,7 +87,6 @@
       "address": "0x0000000000000000000000000000000000000000",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "currencyId": "Ether::ETH",
-      "tags": ["native"],
       "props": { "isNative": true },
       "name": "Ether",
       "symbol": "ETH",
@@ -101,10 +98,5 @@
     "0x4200000000000000000000000000000000000006",
     "0x05d032ac25d322df992303dca074ee7392c117b9",
     "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3"
-  ],
-  "bridgeTokens": [
-    "0x0000000000000000000000000000000000000000",
-    "0x4200000000000000000000000000000000000006",
-    "0x05d032ac25d322df992303dca074ee7392c117b9"
   ]
 }

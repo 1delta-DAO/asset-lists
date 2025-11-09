@@ -10,8 +10,7 @@
       "symbol": "CAT",
       "logoURI": "https://assets.coingecko.com/coins/images/54745/thumb/DV_dS5E9_400x400_%282%29.png?1741326959",
       "assetGroup": "Cat Call Agent::CAT",
-      "currencyId": "Cat Call Agent::CAT",
-      "tags": ["coingecko"]
+      "currencyId": "Cat Call Agent::CAT"
     },
     "0xca5f2ccbd9c40b32657df57c716de44237f80f05": {
       "chainId": "57073",
@@ -21,8 +20,7 @@
       "symbol": "KRAKEN",
       "logoURI": "https://assets.coingecko.com/coins/images/52919/thumb/kraken.jpg?1734685461",
       "assetGroup": "Kraken::KRAKEN",
-      "currencyId": "Kraken::KRAKEN",
-      "tags": ["coingecko"]
+      "currencyId": "Kraken::KRAKEN"
     },
     "0x0c5e2d1c98cd265c751e02f8f3293bc5764f9111": {
       "chainId": "57073",
@@ -32,8 +30,7 @@
       "symbol": "SHROOMY",
       "logoURI": "https://assets.coingecko.com/coins/images/54002/thumb/1000000182.jpg?1737942213",
       "assetGroup": "Shroomy::SHROOMY",
-      "currencyId": "Shroomy::SHROOMY",
-      "tags": ["coingecko"]
+      "currencyId": "Shroomy::SHROOMY"
     },
     "0xf1815bd50389c46847f0bda824ec8da914045d14": {
       "chainId": "57073",
@@ -43,8 +40,7 @@
       "symbol": "USDC.e",
       "logoURI": "https://assets.coingecko.com/coins/images/53782/thumb/usdc.jpg?1737346127",
       "assetGroup": "USDC",
-      "currencyId": "Bridged USDC (Stargate)::USDC.e",
-      "tags": ["stargate", "bridged", "coingecko"]
+      "currencyId": "Bridged USDC (Stargate)::USDC.e"
     },
     "0xbf0cafcbaaf0be8221ae8d630500984edc908861": {
       "chainId": "57073",
@@ -54,8 +50,7 @@
       "symbol": "SQUIDS",
       "logoURI": "https://assets.coingecko.com/coins/images/53494/thumb/squidswap.jpg?1736504228",
       "assetGroup": "Squidswap::SQUIDS",
-      "currencyId": "Squidswap::SQUIDS",
-      "tags": ["coingecko"]
+      "currencyId": "Squidswap::SQUIDS"
     },
     "0x0200c29006150606b650577bbe7b6248f58470c1": {
       "chainId": "57073",
@@ -65,8 +60,7 @@
       "symbol": "USDT0",
       "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183",
       "assetGroup": "USDT0::USDT0",
-      "currencyId": "USDT0::USDT0",
-      "tags": ["coingecko"]
+      "currencyId": "USDT0::USDT0"
     },
     "0x4200000000000000000000000000000000000006": {
       "chainId": "57073",
@@ -77,8 +71,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/52918/thumb/weth_2.jpg?1734684690",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "tags": ["coingecko", "wnative"],
-      "props": { "wnative": true }
+      "props": { "wnative": true },
+      "tags": ["wnative"]
     },
     "0xd642b49d10cc6e1bc1c6945725667c35e0875f22": {
       "chainId": "57073",
@@ -88,8 +82,7 @@
       "symbol": "PURPLE",
       "logoURI": "https://assets.coingecko.com/coins/images/53880/thumb/ink_purple.png?1738227741",
       "assetGroup": "Purple::PURPLE",
-      "currencyId": "Purple::PURPLE",
-      "tags": ["coingecko"]
+      "currencyId": "Purple::PURPLE"
     },
     "0x53ad50d3b6fcacb8965d3a49cb722917c7dae1f3": {
       "chainId": "57073",
@@ -99,8 +92,7 @@
       "symbol": "ACRED",
       "logoURI": "https://assets.coingecko.com/coins/images/54809/thumb/ACRED.png?1741801356",
       "assetGroup": "Apollo Diversified Credit Securitize Fu::ACRED",
-      "currencyId": "Apollo Diversified Credit Securitize Fu::ACRED",
-      "tags": ["coingecko"]
+      "currencyId": "Apollo Diversified Credit Securitize Fu::ACRED"
     },
     "0x73e0c0d45e048d25fc26fa3159b0aa04bfa4db98": {
       "chainId": "57073",
@@ -110,8 +102,7 @@
       "symbol": "KBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/50879/thumb/kBTC.png?1730321084",
       "assetGroup": "KBTC",
-      "currencyId": "Kraken Wrapped BTC::KBTC",
-      "tags": ["coingecko"]
+      "currencyId": "Kraken Wrapped BTC::KBTC"
     },
     "0x3d63825b0d8669307366e6c8202f656b9e91d368": {
       "chainId": "57073",
@@ -121,8 +112,7 @@
       "symbol": "WGC",
       "logoURI": "https://assets.coingecko.com/coins/images/37966/thumb/COIN_200x200.png?1716778831",
       "assetGroup": "Wild Goat Coin::WGC",
-      "currencyId": "Wild Goat Coin::WGC",
-      "tags": ["coingecko"]
+      "currencyId": "Wild Goat Coin::WGC"
     },
     "0xae4efbc7736f963982aacb17efa37fcbab924cb3": {
       "chainId": "57073",
@@ -132,8 +122,7 @@
       "symbol": "SolvBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/36800/thumb/solvBTC.png?1719810684",
       "assetGroup": "SOLVBTC",
-      "currencyId": "Solv BTC::SolvBTC",
-      "tags": ["coingecko"]
+      "currencyId": "Solv BTC::SolvBTC"
     },
     "0xc99f5c922dae05b6e2ff83463ce705ef7c91f077": {
       "chainId": "57073",
@@ -143,8 +132,7 @@
       "symbol": "xSolvBTC",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/xSolvBTC.webp",
       "assetGroup": "XSOLVBTC",
-      "currencyId": "xSolvBTC::xSolvBTC",
-      "tags": ["coingecko"]
+      "currencyId": "xSolvBTC::xSolvBTC"
     },
     "0x17906b1cd88aa8efaefc5e82891b52a22219bd45": {
       "chainId": "57073",
@@ -154,8 +142,7 @@
       "symbol": "SUPR",
       "logoURI": "https://assets.coingecko.com/coins/images/55519/thumb/Small.png?1746469855",
       "assetGroup": "Superseed::SUPR",
-      "currencyId": "Superseed::SUPR",
-      "tags": ["coingecko"]
+      "currencyId": "Superseed::SUPR"
     },
     "0xa802bccd14f7e78e48ffe0c9cf9ad0273c77d4b0": {
       "chainId": "57073",
@@ -165,8 +152,7 @@
       "symbol": "INKEDUSDT",
       "logoURI": "https://assets.coingecko.com/coins/images/66510/thumb/usdt.png?1749593577",
       "assetGroup": "Ink USDT Veda Vault::INKEDUSDT",
-      "currencyId": "Ink USDT Veda Vault::INKEDUSDT",
-      "tags": ["coingecko"]
+      "currencyId": "Ink USDT Veda Vault::INKEDUSDT"
     },
     "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189": {
       "chainId": "57073",
@@ -176,8 +162,7 @@
       "symbol": "OpenUSDT",
       "logoURI": "https://static.debank.com/image/celo_token/logo_url/0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189/57033d27afe3975bf4d498799a8bc396.png",
       "assetGroup": "Super USDT::OpenUSDT",
-      "currencyId": "Super USDT::OpenUSDT",
-      "tags": ["coingecko"]
+      "currencyId": "Super USDT::OpenUSDT"
     },
     "0x5bff88ca1442c2496f7e475e9e7786383bc070c0": {
       "chainId": "57073",
@@ -207,8 +192,7 @@
       "symbol": "frxUSD",
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xcacd6fd266af91b8aed52accc382b4e165586e29/7610ebe75cb08ff21ee6dfb7e1592e25.png",
       "assetGroup": "FRXUSD",
-      "currencyId": "Frax USD::frxUSD",
-      "tags": ["coingecko"]
+      "currencyId": "Frax USD::frxUSD"
     },
     "0x3ec3849c33291a9ef4c5db86de593eb4a37fde45": {
       "chainId": "57073",
@@ -238,8 +222,7 @@
       "symbol": "WATCH",
       "logoURI": "https://assets.coingecko.com/coins/images/67089/thumb/GkveKRgXcAESEPj_%281%29.png?1751702681",
       "assetGroup": "WATCHDOGS::WATCH",
-      "currencyId": "WATCHDOGS::WATCH",
-      "tags": ["coingecko"]
+      "currencyId": "WATCHDOGS::WATCH"
     },
     "0xe343167631d89b6ffc58b88d6b7fb0228795491d": {
       "chainId": "57073",
@@ -249,8 +232,7 @@
       "symbol": "USDG",
       "logoURI": "https://assets.coingecko.com/coins/images/51281/thumb/GDN_USDG_Token_200x200.png?1730484111",
       "assetGroup": "Global Dollar::USDG",
-      "currencyId": "Global Dollar::USDG",
-      "tags": ["coingecko"]
+      "currencyId": "Global Dollar::USDG"
     },
     "0x7160644365e7011fa96ce60706743b434df32690": {
       "chainId": "57073",
@@ -260,8 +242,7 @@
       "symbol": "KEK",
       "logoURI": "https://assets.coingecko.com/coins/images/67904/thumb/200x200.jpg?1754222647",
       "assetGroup": "KEK::KEK",
-      "currencyId": "KEK::KEK",
-      "tags": ["coingecko"]
+      "currencyId": "KEK::KEK"
     },
     "0x62c99fac20b33b5423fdf9226179e973a8353e36": {
       "chainId": "57073",
@@ -271,8 +252,7 @@
       "symbol": "BERT",
       "logoURI": "https://assets.coingecko.com/coins/images/68104/thumb/BERT_LOGO_4.jpg?1754802668",
       "assetGroup": "Bert::BERT",
-      "currencyId": "Bert::BERT",
-      "tags": ["coingecko"]
+      "currencyId": "Bert::BERT"
     },
     "0x0606fc632ee812ba970af72f8489baaa443c4b98": {
       "chainId": "57073",
@@ -282,8 +262,7 @@
       "symbol": "ANITA",
       "logoURI": "https://assets.coingecko.com/coins/images/68173/thumb/_L_L.png?1754996486",
       "assetGroup": "ANITA::ANITA",
-      "currencyId": "ANITA::ANITA",
-      "tags": ["coingecko"]
+      "currencyId": "ANITA::ANITA"
     },
     "0x71052bae71c25c78e37fd12e5ff1101a71d9018f": {
       "chainId": "57073",
@@ -293,8 +272,7 @@
       "symbol": "LINK",
       "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
       "assetGroup": "LINK",
-      "currencyId": "ChainLink Token::LINK",
-      "tags": ["coingecko"]
+      "currencyId": "ChainLink Token::LINK"
     },
     "0x2d270e6886d130d724215a266106e6832161eaed": {
       "chainId": "57073",
@@ -304,8 +282,7 @@
       "symbol": "USDC",
       "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/usdc.png?1696506694",
       "assetGroup": "USDC",
-      "currencyId": "USDC::USDC",
-      "tags": ["coingecko"]
+      "currencyId": "USDC::USDC"
     },
     "0xf50258d3c1dd88946c567920b986a12e65b50dac": {
       "chainId": "57073",
@@ -315,8 +292,7 @@
       "symbol": "XAUT0",
       "logoURI": "https://assets.coingecko.com/coins/images/66560/thumb/XAUt0_Token_Icon_Gold.png?1749747942",
       "assetGroup": "Tether Gold Tokens::XAUT0",
-      "currencyId": "Tether Gold Tokens::XAUT0",
-      "tags": ["coingecko"]
+      "currencyId": "Tether Gold Tokens::XAUT0"
     },
     "0x64445f0aecc51e94ad52d8ac56b7190e764e561a": {
       "chainId": "57073",
@@ -326,8 +302,7 @@
       "symbol": "WFRAX",
       "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624",
       "assetGroup": "Wrapped FRAX::WFRAX",
-      "currencyId": "Wrapped FRAX::WFRAX",
-      "tags": ["coingecko"]
+      "currencyId": "Wrapped FRAX::WFRAX"
     },
     "0xfc421ad3c883bf9e7c4f42de845c4e4405799e73": {
       "chainId": "57073",
@@ -337,8 +312,7 @@
       "symbol": "GHO",
       "logoURI": "https://assets.coingecko.com/coins/images/30663/thumb/gho-token-logo.png?1720517092",
       "assetGroup": "GHO::GHO",
-      "currencyId": "GHO::GHO",
-      "tags": ["coingecko"]
+      "currencyId": "GHO::GHO"
     },
     "0xd3c8da379d71a33bfee8875f87ac2748beb1d58d": {
       "chainId": "57073",
@@ -348,8 +322,7 @@
       "symbol": "uniBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455",
       "assetGroup": "UNIBTC",
-      "currencyId": "uniBTC::uniBTC",
-      "tags": ["coingecko"]
+      "currencyId": "uniBTC::uniBTC"
     },
     "0xa161132371c94299d215915d4cbc3b629e2059be": {
       "chainId": "57073",
@@ -359,8 +332,7 @@
       "symbol": "brBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/53039/thumb/brBTC_200.png?1735074374",
       "assetGroup": "BRBTC",
-      "currencyId": "brBTC::brBTC",
-      "tags": ["coingecko"]
+      "currencyId": "brBTC::brBTC"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "57073",
@@ -371,8 +343,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "assetGroup": "ETH",
       "currencyId": "Ether::ETH",
-      "tags": ["native", "coingecko", "wrapped:0x4200000000000000000000000000000000000006"],
-      "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" }
+      "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" },
+      "tags": ["wnative"]
     }
   },
   "mainTokens": [
@@ -401,12 +373,5 @@
     "0x71052bae71c25c78e37fd12e5ff1101a71d9018f",
     "0x2d270e6886d130d724215a266106e6832161eaed",
     "0xf50258d3c1dd88946c567920b986a12e65b50dac"
-  ],
-  "bridgeTokens": [
-    "0x0000000000000000000000000000000000000000",
-    "0xf1815bd50389c46847f0bda824ec8da914045d14",
-    "0x0200c29006150606b650577bbe7b6248f58470c1",
-    "0x4200000000000000000000000000000000000006",
-    "0x2d270e6886d130d724215a266106e6832161eaed"
   ]
 }

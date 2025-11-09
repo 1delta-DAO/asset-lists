@@ -461,8 +461,8 @@
       "logoURI": "https://hecoinfo.com/token/images/HT_32.png",
       "assetGroup": "Wrapped HT::WHT",
       "currencyId": "Wrapped HT::WHT",
-      "tags": ["wnative"],
-      "props": { "wnative": true }
+      "props": { "wnative": true },
+      "tags": ["wnative"]
     },
     "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73": {
       "chainId": "128",
@@ -493,8 +493,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/ht.webp",
       "assetGroup": "Wrapped HT::WHT",
       "currencyId": "Huobi ECO Chain Native Token::HT",
-      "tags": ["native", "wrapped:0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f"],
-      "props": { "isNative": true, "wrapped": "0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f" }
+      "props": { "isNative": true, "wrapped": "0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f" },
+      "tags": ["wnative"]
     }
   },
   "mainTokens": [
@@ -545,11 +545,5 @@
     "0x52e00b2da5bd7940ffe26b609a42f957f31118d5",
     "0x329dda64cbc4dfd5fa5072b447b3941ce054ebb3",
     "0x22c54ce8321a4015740ee1109d9cbc25815c46e6"
-  ],
-  "bridgeTokens": [
-    "0x0000000000000000000000000000000000000000",
-    "0x64ff637fb478863b7468bc97d30a5bf3a428a1fd",
-    "0x9362bbef4b8313a8aa9f0c9808b80577aa26b73b",
-    "0xa71edc38d189767582c38a3145b5873052c3e47a"
   ]
 }

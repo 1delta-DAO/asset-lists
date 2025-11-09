@@ -11,7 +11,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/29988/thumb/phala.jpg?1696528913",
       "assetGroup": "PHA",
       "currencyId": "Phala::XCPHA",
-      "tags": ["coingecko", "polkadot", "bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xffffffff43b4560bc0c451a3386e082bff50ac90": {
@@ -23,7 +22,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/15880/thumb/icon___gradient_1.png?1696515495",
       "assetGroup": "Subsocial::SUB",
       "currencyId": "Subsocial::SUB",
-      "tags": ["coingecko"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xacc15dc74880c9944775448304b263d191c6077f": {
@@ -35,8 +33,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/23688/thumb/Moonbeam_WGLMR_ICON.png?1716655228",
       "assetGroup": "GLMR",
       "currencyId": "Wrapped Glimmer::WGLMR",
-      "tags": ["coingecko", "wnative"],
-      "props": { "wnative": true }
+      "props": { "wnative": true },
+      "tags": ["wnative"]
     },
     "0xcd3b51d98478d53f4515a306be565c6eebef1d58": {
       "chainId": "1284",
@@ -46,8 +44,7 @@
       "symbol": "GLINT",
       "logoURI": "https://assets.coingecko.com/coins/images/22893/thumb/glint.png?1696522190",
       "assetGroup": "BeamSwap::GLINT",
-      "currencyId": "BeamSwap::GLINT",
-      "tags": ["coingecko"]
+      "currencyId": "BeamSwap::GLINT"
     },
     "0xffffffffa893ad19e540e172c10d78d4d479b5cf": {
       "chainId": "1284",
@@ -58,7 +55,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/29986/thumb/astar.jpg?1696528911",
       "assetGroup": "Astar::XCASTR",
       "currencyId": "Astar::XCASTR",
-      "tags": ["coingecko", "polkadot", "bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x511ab53f793683763e5a8829738301368a2411e3": {
@@ -69,8 +65,7 @@
       "symbol": "WELL",
       "logoURI": "https://assets.coingecko.com/coins/images/26133/thumb/WELL.png?1696525221",
       "assetGroup": "WELL",
-      "currencyId": "Moonwell::WELL",
-      "tags": ["coingecko"]
+      "currencyId": "Moonwell::WELL"
     },
     "0xffffffffea09fb06d082fd1275cd48b191cbcd1d": {
       "chainId": "1284",
@@ -81,7 +76,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/29019/thumb/usdt.png?1696527990",
       "assetGroup": "USDT",
       "currencyId": "xcUSDT::XCUSDT",
-      "tags": ["coingecko", "polkadot", "bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x765277eebeca2e31912c9946eae1021199b39c61": {
@@ -93,7 +87,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/39799/thumb/dai.png?1724125463",
       "assetGroup": "Multichain Bridged DAI::DAI",
       "currencyId": "Multichain Bridged DAI::DAI",
-      "tags": ["multichain", "bridged", "coingecko"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x4792c1ecb969b036eb51330c63bd27899a13d84e": {
@@ -105,7 +98,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/53014/thumb/avax.png?1734993474",
       "assetGroup": "Multichain Bridged WAVAX::WAVAX",
       "currencyId": "Multichain Bridged WAVAX::WAVAX",
-      "tags": ["multichain", "bridged", "coingecko"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x6021d2c27b6fbd6e7608d1f39b41398caee2f824": {
@@ -116,8 +108,7 @@
       "symbol": "CP",
       "logoURI": "https://assets.coingecko.com/coins/images/35286/thumb/photo_2024-12-05_05-17-52.jpg?1733694753",
       "assetGroup": "Cypress::CP",
-      "currencyId": "Cypress::CP",
-      "tags": ["coingecko"]
+      "currencyId": "Cypress::CP"
     },
     "0xe3e43888fa7803cdc7bea478ab327cf1a0dc11a7": {
       "chainId": "1284",
@@ -128,7 +119,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/24310/thumb/Solarflare.png?1696523491",
       "assetGroup": "Solarflare::FLARE",
       "currencyId": "Solarflare::FLARE",
-      "tags": ["coingecko"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xbc7e02c4178a7df7d3e564323a5c359dc96c4db4": {
@@ -139,8 +129,7 @@
       "symbol": "STDOT",
       "logoURI": "https://assets.coingecko.com/coins/images/33872/thumb/stDOT.png?1703132036",
       "assetGroup": "StellaSwap Staked DOT::STDOT",
-      "currencyId": "StellaSwap Staked DOT::STDOT",
-      "tags": ["coingecko"]
+      "currencyId": "StellaSwap Staked DOT::STDOT"
     },
     "0x8f552a71efe5eefc207bf75485b356a0b3f01ec9": {
       "chainId": "1284",
@@ -150,8 +139,7 @@
       "symbol": "USDC",
       "logoURI": "https://assets.coingecko.com/coins/images/35231/thumb/USDC.jpg?1707925331",
       "assetGroup": "Bridged USDC (Nomad)::USDC",
-      "currencyId": "Bridged USDC (Nomad)::USDC",
-      "tags": ["bridged", "coingecko", "nomad"]
+      "currencyId": "Bridged USDC (Nomad)::USDC"
     },
     "0xffffffff8a9736b44ebf188972725bed67bf694e": {
       "chainId": "1284",
@@ -162,7 +150,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/39413/thumb/round_icon_dark_on_bright_background_%281%29.png?1722180372",
       "assetGroup": "Apillon::NCTR",
       "currencyId": "Apillon::NCTR",
-      "tags": ["coingecko"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x30d2a9f5fdf90ace8c17952cbb4ee48a55d916a7": {
@@ -173,8 +160,7 @@
       "symbol": "WETH",
       "logoURI": "https://assets.coingecko.com/coins/images/39720/thumb/WETH.PNG?1723732514",
       "assetGroup": "Bridged WETH (Nomad)::WETH",
-      "currencyId": "Bridged WETH (Nomad)::WETH",
-      "tags": ["bridged", "coingecko", "nomad"]
+      "currencyId": "Bridged WETH (Nomad)::WETH"
     },
     "0xab3f0245b83feb11d15aaffefd7ad465a59817ed": {
       "chainId": "1284",
@@ -184,8 +170,7 @@
       "symbol": "WETH",
       "logoURI": "https://assets.coingecko.com/coins/images/39965/thumb/weth.png?1724953086",
       "assetGroup": "ETH",
-      "currencyId": "Wrapped Ether (Wormhole)::WETH",
-      "tags": ["wormhole", "bridged", "coingecko"]
+      "currencyId": "Wrapped Ether (Wormhole)::WETH"
     },
     "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b": {
       "chainId": "1284",
@@ -195,8 +180,7 @@
       "symbol": "USDC",
       "logoURI": "https://assets.coingecko.com/coins/images/35230/thumb/USDC.jpg?1707924914",
       "assetGroup": "Bridged USDC (Multichain)::USDC",
-      "currencyId": "Bridged USDC (Multichain)::USDC",
-      "tags": ["multichain", "bridged", "coingecko"]
+      "currencyId": "Bridged USDC (Multichain)::USDC"
     },
     "0x0e358838ce72d5e61e0018a2ffac4bec5f4c88d2": {
       "chainId": "1284",
@@ -206,8 +190,7 @@
       "symbol": "STELLA",
       "logoURI": "https://assets.coingecko.com/coins/images/22801/thumb/stellaswap.jpg?1696522104",
       "assetGroup": "StellaSwap::STELLA",
-      "currencyId": "StellaSwap::STELLA",
-      "tags": ["coingecko"]
+      "currencyId": "StellaSwap::STELLA"
     },
     "0xffffffff1fcacbd218edc0eba20fc2308c778080": {
       "chainId": "1284",
@@ -218,7 +201,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/26044/thumb/polkadot-asset_32.png?1696525125",
       "assetGroup": "xcDOT::DOT",
       "currencyId": "xcDOT::DOT",
-      "tags": ["coingecko"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xffffffff5ac1f9a51a93f5c527385edf7fe98a52": {
@@ -230,7 +212,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/26217/thumb/interBTC_for_Exchanges.png?1696525302",
       "assetGroup": "interBTC::IBTC",
       "currencyId": "interBTC::IBTC",
-      "tags": ["coingecko"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x823d826d3ab6956ba934893f325e7c323faaf6ca": {
@@ -241,8 +222,7 @@
       "symbol": "HPO",
       "logoURI": "https://assets.coingecko.com/coins/images/28089/thumb/b77170dd-1dd1-4581-91b2-e352794fa045.jpg?1696527099",
       "assetGroup": "Hippo Wallet::HPO",
-      "currencyId": "Hippo Wallet::HPO",
-      "tags": ["coingecko"]
+      "currencyId": "Hippo Wallet::HPO"
     },
     "0x322e86852e492a7ee17f28a78c663da38fb33bfb": {
       "chainId": "1284",
@@ -253,7 +233,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/13422/thumb/frax-logo.png?1739780303",
       "assetGroup": "FRAX",
       "currencyId": "Frax::FRAX",
-      "tags": ["coingecko"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x82bbd1b6f6de2b7bb63d3e1546e6b1553508be99": {
@@ -265,7 +244,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/28284/thumb/frxETH_icon.png?1696527284",
       "assetGroup": "FRXETH",
       "currencyId": "Frax Ether::frxETH",
-      "tags": ["coingecko"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xecf91116348af1cffe335e9807f0051332be128d": {
@@ -277,7 +255,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/28285/thumb/sfrxETH_icon.png?1696527285",
       "assetGroup": "SFRXETH",
       "currencyId": "Staked Frax Ether::sfrxETH",
-      "tags": ["coingecko"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xffffffff52c56a9257bb97f4b2b6f7b2d624ecda": {
@@ -299,8 +276,7 @@
       "symbol": "WELLE",
       "logoURI": "https://assets.coingecko.com/coins/images/32715/thumb/WELLE-TKN-1.png?1699000890",
       "assetGroup": "Welle::WELLE",
-      "currencyId": "Welle::WELLE",
-      "tags": ["coingecko"]
+      "currencyId": "Welle::WELLE"
     },
     "0xfeb25f3fddad13f82c4d6dbc1481516f62236429": {
       "chainId": "1284",
@@ -311,7 +287,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/40062/thumb/IconGreen400.png?1725459580",
       "assetGroup": "BRLA",
       "currencyId": "BRLA Digital BRLA::BRLA",
-      "tags": ["coingecko"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x524d524b4c9366be706d3a90dcf70076ca037ae3": {
@@ -323,7 +298,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/18656/thumb/download_%281%29_%281%29.png?1696518126",
       "assetGroup": "RMRK::RMRK",
       "currencyId": "RMRK::RMRK",
-      "tags": ["coingecko"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x3405a1bd46b85c5c029483fbecf2f3e611026e45": {
@@ -335,7 +309,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/polygon.png?1698233745",
       "assetGroup": "Bridged MATIC (Multichain)::MATIC",
       "currencyId": "Bridged MATIC (Multichain)::MATIC",
-      "tags": ["coingecko", "multichain", "bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x6a2d262d56735dba19dd70682b39f6be9a931d98": {
@@ -346,8 +319,7 @@
       "symbol": "CEUSDC",
       "logoURI": "https://assets.coingecko.com/coins/images/24823/thumb/usdc.png?1696523981",
       "assetGroup": "Bridged USDC (Celer)::CEUSDC",
-      "currencyId": "Bridged USDC (Celer)::CEUSDC",
-      "tags": ["celer", "bridged", "coingecko"]
+      "currencyId": "Bridged USDC (Celer)::CEUSDC"
     },
     "0x1581929770be3275a82068c1135b6dd59c5334ed": {
       "chainId": "1284",
@@ -357,8 +329,7 @@
       "symbol": "ALM",
       "logoURI": "https://assets.coingecko.com/coins/images/15621/thumb/alium.png?1696515255",
       "assetGroup": "Alium Finance::ALM",
-      "currencyId": "Alium Finance::ALM",
-      "tags": ["coingecko"]
+      "currencyId": "Alium Finance::ALM"
     },
     "0xa423e7eeb60547d9c7b65005477b63ae7ce67e62": {
       "chainId": "1284",
@@ -379,7 +350,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/26476/thumb/uausdc_D_3x.png?1696525548",
       "assetGroup": "USDC",
       "currencyId": "Bridged USDC (Axelar)::AXLUSDC",
-      "tags": ["axelar", "bridged", "coingecko"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xdfa46478f9e5ea86d57387849598dbfb2e964b02": {
@@ -390,8 +360,7 @@
       "symbol": "miMATIC",
       "logoURI": "https://assets.coingecko.com/coins/images/15264/thumb/mimatic-red.png?1696514916",
       "assetGroup": "MIMATIC",
-      "currencyId": "Mai Stablecoin::miMATIC",
-      "tags": ["coingecko"]
+      "currencyId": "Mai Stablecoin::miMATIC"
     },
     "0x467719ad09025fcc6cf6f8311755809d45a5e5f3": {
       "chainId": "1284",
@@ -402,7 +371,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/27277/thumb/V-65_xQ1_400x400.jpeg?1696526329",
       "assetGroup": "AXL",
       "currencyId": "Axelar::AXL",
-      "tags": ["coingecko"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x14df360966a1c4582d2b18edbdae432ea0a27575": {
@@ -414,7 +382,6 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonbeam/0x14dF360966a1c4582d2b18EDbdae432EA0A27575.jpg",
       "assetGroup": "DAI",
       "currencyId": "Axelar Wrapped DAI::axlDAI",
-      "tags": ["axelar", "bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x85a8b472d116585e2cc10eb1e0e3e3127e1f5d3f": {
@@ -426,7 +393,6 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonbeam/0x85a8B472d116585E2cc10eB1e0e3E3127E1f5D3f.jpg",
       "assetGroup": "Axelar Wrapped ETH::axlETH",
       "currencyId": "Axelar Wrapped ETH::axlETH",
-      "tags": ["axelar", "bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xdfd74af792bc6d45d1803f425ce62dd16f8ae038": {
@@ -438,7 +404,6 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonbeam/0xDFd74aF792bC6D45D1803F425CE62Dd16f8Ae038.jpg",
       "assetGroup": "USDT",
       "currencyId": "Axelar Wrapped USDT::axlUSDT",
-      "tags": ["axelar", "bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xc234a67a4f840e61ade794be47de455361b52413": {
@@ -449,8 +414,7 @@
       "symbol": "DAI",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/dai.jpg",
       "assetGroup": "Bridged DAI (Nomad)::DAI",
-      "currencyId": "Bridged DAI (Nomad)::DAI",
-      "tags": ["nomad", "bridged"]
+      "currencyId": "Bridged DAI (Nomad)::DAI"
     },
     "0x2cc0a9d8047a5011defe85328a6f26968c8aaa1c": {
       "chainId": "1284",
@@ -471,8 +435,7 @@
       "symbol": "wh.USDC",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonbeam/0x931715FEE2d06333043d11F658C8CE934aC61D0c.jpg",
       "assetGroup": "USD Coin (Wormhole)::wh.USDC",
-      "currencyId": "USD Coin (Wormhole)::wh.USDC",
-      "tags": ["wormhole", "bridged"]
+      "currencyId": "USD Coin (Wormhole)::wh.USDC"
     },
     "0x8e70cd5b4ff3f62659049e74b6649c6603a0e594": {
       "chainId": "1284",
@@ -482,8 +445,7 @@
       "symbol": "USDT",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg",
       "assetGroup": "Bridged USDT (Nomad)::USDT",
-      "currencyId": "Bridged USDT (Nomad)::USDT",
-      "tags": ["nomad", "bridged"]
+      "currencyId": "Bridged USDT (Nomad)::USDT"
     },
     "0x085416975fe14c2a731a97ec38b9bf8135231f62": {
       "chainId": "1284",
@@ -493,8 +455,7 @@
       "symbol": "UST",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/ust.jpg",
       "assetGroup": "TerraUSD (Axelar)::UST",
-      "currencyId": "TerraUSD (Axelar)::UST",
-      "tags": ["axelar", "bridged"]
+      "currencyId": "TerraUSD (Axelar)::UST"
     },
     "0x1dc78acda13a8bc4408b207c9e48cdbc096d95e0": {
       "chainId": "1284",
@@ -504,8 +465,7 @@
       "symbol": "WBTC",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/btc.jpg",
       "assetGroup": "Bridged WBTC (Nomad)::WBTC",
-      "currencyId": "Bridged WBTC (Nomad)::WBTC",
-      "tags": ["nomad", "bridged"]
+      "currencyId": "Bridged WBTC (Nomad)::WBTC"
     },
     "0x2c78f1b70ccf63cdee49f9233e9faa99d43aa07e": {
       "chainId": "1284",
@@ -516,7 +476,6 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/sushi.jpg",
       "assetGroup": "Sushi (Multichain)::SUSHI",
       "currencyId": "Sushi (Multichain)::SUSHI",
-      "tags": ["multichain", "bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xe57ebd2d67b462e9926e04a8e33f01cd0d64346d": {
@@ -527,8 +486,7 @@
       "symbol": "wh.WBTC",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/moonbeam/0xE57eBd2d67B462E9926e04a8e33f01cD0D64346D.jpg",
       "assetGroup": "Wrapped BTC (Wormhole)::wh.WBTC",
-      "currencyId": "Wrapped BTC (Wormhole)::wh.WBTC",
-      "tags": ["wormhole", "bridged"]
+      "currencyId": "Wrapped BTC (Wormhole)::wh.WBTC"
     },
     "0xfa9343c3897324496a05fc75abed6bac29f8a40f": {
       "chainId": "1284",
@@ -538,8 +496,7 @@
       "symbol": "ETH",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "assetGroup": "Bridged ETH (Multichain)::ETH",
-      "currencyId": "Bridged ETH (Multichain)::ETH",
-      "tags": ["multichain", "bridged"]
+      "currencyId": "Bridged ETH (Multichain)::ETH"
     },
     "0x922d641a426dcffaef11680e5358f34d97d112e1": {
       "chainId": "1284",
@@ -550,7 +507,6 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
       "assetGroup": "Bridged WBTC (Multichain)::WBTC",
       "currencyId": "Bridged WBTC (Multichain)::WBTC",
-      "tags": ["multichain", "bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xffffffff15e1b7e3df971dd813bc394deb899abf": {
@@ -562,7 +518,6 @@
       "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0xffffffff15e1b7e3df971dd813bc394deb899abf/e5a3f58c8e94ba24423a1245ba4227cb.png",
       "assetGroup": "Bifrost Voucher DOT::xcvDOT",
       "currencyId": "Bifrost Voucher DOT::xcvDOT",
-      "tags": ["polkadot", "bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xffffffff4c1cbcd97597339702436d4f18a375ab": {
@@ -574,7 +529,6 @@
       "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0xffffffff4c1cbcd97597339702436d4f18a375ab/14d666b3eec8c29f8d507a9b5664a0b4.png",
       "assetGroup": "Interlay::xcINTR",
       "currencyId": "Interlay::xcINTR",
-      "tags": ["polkadot", "bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xffffffff7cc06abdf7201b350a1265c62c8601d2": {
@@ -586,7 +540,6 @@
       "logoURI": "https://static.debank.com/image/project/logo_url/bifrost/12a460bd2dd0f869030571119f280ba0.png",
       "assetGroup": "BNC::xcBNC",
       "currencyId": "BNC::xcBNC",
-      "tags": ["polkadot", "bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xffffffff7d3875460d4509eb8d0362c611b4e841": {
@@ -598,7 +551,6 @@
       "logoURI": "https://static.debank.com/image/project/logo_url/mantabridge/84bd75bca44bd4ce46e14e71bcb3be51.png",
       "assetGroup": "Manta::xcMANTA",
       "currencyId": "Manta::xcMANTA",
-      "tags": ["polkadot", "bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xffffffff99dabe1a8de0ea22baa6fd48fde96f6c": {
@@ -610,7 +562,6 @@
       "logoURI": "https://static.debank.com/image/chain/logo_url/mobm/a8442077d76b258297181c3e6eb8c9cc.png",
       "assetGroup": "Bifrost Voucher GLMR::xcvGLMR",
       "currencyId": "Bifrost Voucher GLMR::xcvGLMR",
-      "tags": ["polkadot", "bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xffffffffa922fef94566104a6e5a35a4fcddaa9f": {
@@ -622,7 +573,6 @@
       "logoURI": "https://static.debank.com/image/mobm_token/logo_url/0xffffffffa922fef94566104a6e5a35a4fcddaa9f/a0078a52d053752b1a83206de57101a4.png",
       "assetGroup": "Acala::xcACA",
       "currencyId": "Acala::xcACA",
-      "tags": ["polkadot", "bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xffffffff5da2d7214d268375cf8fb1715705fdc6": {
@@ -633,7 +583,6 @@
       "symbol": "xcDED",
       "assetGroup": "DED::xcDED",
       "currencyId": "DED::xcDED",
-      "tags": ["polkadot", "bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x29c795559e4db87054ba70fafc454214c20adbd4": {
@@ -667,7 +616,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/825/small/binance-coin-logo.png?1547034615",
       "assetGroup": "Bridged BNB (Multichain)::BNB",
       "currencyId": "Bridged BNB (Multichain)::BNB",
-      "tags": ["multichain", "bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x0db6729c03c85b0708166ca92801bcb5cac781fc": {
@@ -710,7 +658,6 @@
       "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x0eb3a705fc54725037cc9e008bdede697f62f335/b91685db7e70217cf1c7f1bb7993ab40.png",
       "assetGroup": "Axelar Wrapped ATOM::axlATOM",
       "currencyId": "Axelar Wrapped ATOM::axlATOM",
-      "tags": ["axelar", "bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73": {
@@ -722,7 +669,6 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
       "assetGroup": "Bridged USDT (Multichain)::USDT",
       "currencyId": "Bridged USDT (Multichain)::USDT",
-      "tags": ["multichain", "bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x4bde98731149093a12579d71338fd3741fe6e5ce": {
@@ -774,8 +720,7 @@
       "symbol": "xcRMRK",
       "logoURI": "https://static.debank.com/image/movr_token/logo_url/0xffffffff893264794d9d57e1e0e21e0042af5a0a/fd049786331b33bc6205de366961bb2d.png",
       "assetGroup": "xcRMRK::xcRMRK",
-      "currencyId": "xcRMRK::xcRMRK",
-      "tags": ["polkadot", "bridged"]
+      "currencyId": "xcRMRK::xcRMRK"
     },
     "0xc806b0600cbafa0b197562a9f7e3b9856866e9bf": {
       "chainId": "1284",
@@ -826,7 +771,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68438/thumb/usdc.jpg?1755740037",
       "assetGroup": "USDC",
       "currencyId": "xcUSDC::XCUSDC",
-      "tags": ["coingecko", "polkadot", "bridged"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xe8e8bd89a429526561e1283cb789719864ffd0b4": {
@@ -837,8 +781,7 @@
       "symbol": "GU",
       "logoURI": "https://assets.coingecko.com/coins/images/68189/thumb/GU-logo.png?1755024305",
       "assetGroup": "Gu::GU",
-      "currencyId": "Gu::GU",
-      "tags": ["coingecko"]
+      "currencyId": "Gu::GU"
     },
     "0x012414a392f9fa442a3109f1320c439c45518ac3": {
       "chainId": "1284",
@@ -848,8 +791,7 @@
       "symbol": "LINK",
       "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
       "assetGroup": "LINK",
-      "currencyId": "ChainLink Token::LINK",
-      "tags": ["coingecko"]
+      "currencyId": "ChainLink Token::LINK"
     },
     "0xa649325aa7c5093d12d6f98eb4378deae68ce23f": {
       "chainId": "1284",
@@ -859,8 +801,7 @@
       "symbol": "BUSD",
       "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonbeam/0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F/logo.png",
       "assetGroup": "Bridged BUSD (Multichain)::BUSD",
-      "currencyId": "Bridged BUSD (Multichain)::BUSD",
-      "tags": ["multichain", "bridged"]
+      "currencyId": "Bridged BUSD (Multichain)::BUSD"
     },
     "0x692c57641fc054c2ad6551ccc6566eba599de1ba": {
       "chainId": "1284",
@@ -870,8 +811,7 @@
       "symbol": "BUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/9576/thumb/BUSD.png?1568947766",
       "assetGroup": "BUSD",
-      "currencyId": "Bridged BUSD::BUSD",
-      "tags": ["bridged"]
+      "currencyId": "Bridged BUSD::BUSD"
     },
     "0x08c98ad2d4856bec0a0eaf18c2a06e7201613f90": {
       "chainId": "1284",
@@ -901,8 +841,7 @@
       "symbol": "LUNA",
       "logoURI": "https://raw.githubusercontent.com/solarbeamio/solarbeam-tokenlist/main/assets/moonbeam/0x31DAB3430f3081dfF3Ccd80F17AD98583437B213/logo.png",
       "assetGroup": "Axelar Wrapped LUNA::LUNA",
-      "currencyId": "Axelar Wrapped LUNA::LUNA",
-      "tags": ["axelar", "bridged"]
+      "currencyId": "Axelar Wrapped LUNA::LUNA"
     },
     "0xf6ad62cca52a5d3c5d567303347e013c2dadec92": {
       "chainId": "1284",
@@ -912,8 +851,7 @@
       "symbol": "MST",
       "logoURI": "https://assets.coingecko.com/coins/images/34343/thumb/Meridian_Icon.png?1720634198",
       "assetGroup": "MST",
-      "currencyId": "Meridian MST::MST",
-      "tags": ["coingecko"]
+      "currencyId": "Meridian MST::MST"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "1284",
@@ -924,8 +862,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/glmr.webp",
       "assetGroup": "GLMR",
       "currencyId": "Glimmer::GLMR",
-      "tags": ["native", "coingecko", "wrapped:0xacc15dc74880c9944775448304b263d191c6077f"],
-      "props": { "isNative": true, "wrapped": "0xacc15dc74880c9944775448304b263d191c6077f" }
+      "props": { "isNative": true, "wrapped": "0xacc15dc74880c9944775448304b263d191c6077f" },
+      "tags": ["wnative"]
     }
   },
   "mainTokens": [
@@ -966,23 +904,5 @@
     "0x8f552a71efe5eefc207bf75485b356a0b3f01ec9",
     "0x8e70cd5b4ff3f62659049e74b6649c6603a0e594",
     "0xc234a67a4f840e61ade794be47de455361b52413"
-  ],
-  "bridgeTokens": [
-    "0x0000000000000000000000000000000000000000",
-    "0xffffffffea09fb06d082fd1275cd48b191cbcd1d",
-    "0x4792c1ecb969b036eb51330c63bd27899a13d84e",
-    "0x8f552a71efe5eefc207bf75485b356a0b3f01ec9",
-    "0x30d2a9f5fdf90ace8c17952cbb4ee48a55d916a7",
-    "0xab3f0245b83feb11d15aaffefd7ad465a59817ed",
-    "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
-    "0x3405a1bd46b85c5c029483fbecf2f3e611026e45",
-    "0x6a2d262d56735dba19dd70682b39f6be9a931d98",
-    "0xca01a1d0993565291051daff390892518acfad3a",
-    "0x467719ad09025fcc6cf6f8311755809d45a5e5f3",
-    "0x14df360966a1c4582d2b18edbdae432ea0a27575",
-    "0x85a8b472d116585e2cc10eb1e0e3e3127e1f5d3f",
-    "0xdfd74af792bc6d45d1803f425ce62dd16f8ae038",
-    "0x931715fee2d06333043d11f658c8ce934ac61d0c",
-    "0x8e70cd5b4ff3f62659049e74b6649c6603a0e594"
   ]
 }

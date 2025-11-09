@@ -11,8 +11,8 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/edu.svg",
       "assetGroup": "Wrapped EDU::WEDU",
       "currencyId": "Wrapped EDU::WEDU",
-      "tags": ["wnative", "coingecko"],
-      "props": { "wnative": true }
+      "props": { "wnative": true },
+      "tags": ["wnative"]
     },
     "0x836d275563bab5e93fd6ca62a95db7065da94342": {
       "chainId": "41923",
@@ -22,8 +22,7 @@
       "symbol": "USDC",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdc.svg",
       "assetGroup": "USDC",
-      "currencyId": "USD Coin::USDC",
-      "tags": ["coingecko"]
+      "currencyId": "USD Coin::USDC"
     },
     "0x7277cc818e3f3ffbb169c6da9cc77fc2d2a34895": {
       "chainId": "41923",
@@ -33,8 +32,7 @@
       "symbol": "USDT",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdt.svg",
       "assetGroup": "USDT",
-      "currencyId": "Tether USD::USDT",
-      "tags": ["coingecko"]
+      "currencyId": "Tether USD::USDT"
     },
     "0x22fa593845fda46db5784f519b3364432a1d4203": {
       "chainId": "41923",
@@ -54,8 +52,7 @@
       "symbol": "ESD",
       "logoURI": "https://assets.coingecko.com/coins/images/54756/thumb/esd.jpg?1741347661",
       "assetGroup": "EDU StableDollar::ESD",
-      "currencyId": "EDU StableDollar::ESD",
-      "tags": ["coingecko"]
+      "currencyId": "EDU StableDollar::ESD"
     },
     "0x526e8a66e357ffeaeeec6d7be1e5ea44a788dd1d": {
       "chainId": "41923",
@@ -65,8 +62,7 @@
       "symbol": "BLEND",
       "logoURI": "https://assets.coingecko.com/coins/images/54778/thumb/Blend0.png?1741517155",
       "assetGroup": "BLEND::BLEND",
-      "currencyId": "BLEND::BLEND",
-      "tags": ["coingecko"]
+      "currencyId": "BLEND::BLEND"
     },
     "0x12a272a581fee5577a5dfa371afeb4b2f3a8c2f8": {
       "chainId": "41923",
@@ -76,8 +72,7 @@
       "symbol": "USDC.e",
       "logoURI": "https://assets.coingecko.com/coins/images/69099/thumb/USDC_Token.png?1757497003",
       "assetGroup": "USDC",
-      "currencyId": "Stargate Bridged USDC::USDC.e",
-      "tags": ["stargate", "bridged", "coingecko"]
+      "currencyId": "Stargate Bridged USDC::USDC.e"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "41923",
@@ -88,8 +83,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/edu.webp",
       "assetGroup": "Wrapped EDU::WEDU",
       "currencyId": "EDU::EDU",
-      "tags": ["native", "coingecko", "wrapped:0xd02e8c38a8e3db71f8b2ae30b8186d7874934e12"],
-      "props": { "isNative": true, "wrapped": "0xd02e8c38a8e3db71f8b2ae30b8186d7874934e12" }
+      "props": { "isNative": true, "wrapped": "0xd02e8c38a8e3db71f8b2ae30b8186d7874934e12" },
+      "tags": ["wnative"]
     }
   },
   "mainTokens": [
@@ -99,12 +94,6 @@
     "0xd02e8c38a8e3db71f8b2ae30b8186d7874934e12",
     "0xd282de0c2bd41556c887f319a5c19ff441dcdf90",
     "0x526e8a66e357ffeaeeec6d7be1e5ea44a788dd1d",
-    "0x12a272a581fee5577a5dfa371afeb4b2f3a8c2f8"
-  ],
-  "bridgeTokens": [
-    "0x0000000000000000000000000000000000000000",
-    "0x836d275563bab5e93fd6ca62a95db7065da94342",
-    "0x7277cc818e3f3ffbb169c6da9cc77fc2d2a34895",
     "0x12a272a581fee5577a5dfa371afeb4b2f3a8c2f8"
   ]
 }

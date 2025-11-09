@@ -11,8 +11,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/26638/thumb/astar.jpeg?1696525710",
       "assetGroup": "ASTR",
       "currencyId": "Wrapped ASTR::WASTR",
-      "tags": ["coingecko", "wnative"],
-      "props": { "wnative": true }
+      "props": { "wnative": true },
+      "tags": ["wnative"]
     },
     "0x6a2d262d56735dba19dd70682b39f6be9a931d98": {
       "chainId": "592",
@@ -22,8 +22,7 @@
       "symbol": "USDC",
       "logoURI": "https://assets.coingecko.com/coins/images/35321/thumb/USDC.jpg?1708177478",
       "assetGroup": "USDC",
-      "currencyId": "Bridged USDC (Celer)::USDC",
-      "tags": ["celer", "bridged", "coingecko"]
+      "currencyId": "Bridged USDC (Celer)::USDC"
     },
     "0xad543f18cff85c77e140e3e5e3c3392f6ba9d5ca": {
       "chainId": "592",
@@ -33,8 +32,7 @@
       "symbol": "WBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/39574/thumb/wbtc.png?1722994041",
       "assetGroup": "WBTC",
-      "currencyId": "Bridged WBTC::WBTC",
-      "tags": ["bridged", "coingecko"]
+      "currencyId": "Bridged WBTC::WBTC"
     },
     "0x81ecac0d6be0550a00ff064a4f9dd2400585fe9c": {
       "chainId": "592",
@@ -44,8 +42,7 @@
       "symbol": "WETH",
       "logoURI": "https://assets.coingecko.com/coins/images/39691/thumb/weth.png?1723670097",
       "assetGroup": "ETH",
-      "currencyId": "Bridged WETH (Celer)::WETH",
-      "tags": ["celer", "bridged", "coingecko"]
+      "currencyId": "Bridged WETH (Celer)::WETH"
     },
     "0x733ebcc6df85f8266349defd0980f8ced9b45f35": {
       "chainId": "592",
@@ -55,8 +52,7 @@
       "symbol": "BAI",
       "logoURI": "https://assets.coingecko.com/coins/images/25385/thumb/BAI_Token_Logo.png?1696524518",
       "assetGroup": "BAI Stablecoin::BAI",
-      "currencyId": "BAI Stablecoin::BAI",
-      "tags": ["coingecko"]
+      "currencyId": "BAI Stablecoin::BAI"
     },
     "0xc4335b1b76fa6d52877b3046eca68f6e708a27dd": {
       "chainId": "592",
@@ -86,8 +82,7 @@
       "symbol": "ARSW",
       "logoURI": "https://assets.coingecko.com/coins/images/26048/thumb/arsw.png?1696525133",
       "assetGroup": "ArthSwap::ARSW",
-      "currencyId": "ArthSwap::ARSW",
-      "tags": ["coingecko"]
+      "currencyId": "ArthSwap::ARSW"
     },
     "0x6de33698e9e9b787e09d3bd7771ef63557e148bb": {
       "chainId": "592",
@@ -97,8 +92,7 @@
       "symbol": "DAI",
       "logoURI": "https://assets.coingecko.com/coins/images/39801/thumb/dai.png?1724125754",
       "assetGroup": "DAI",
-      "currencyId": "Bridged DAI (Celer)::DAI",
-      "tags": ["celer", "bridged", "coingecko"]
+      "currencyId": "Bridged DAI (Celer)::DAI"
     },
     "0xffffffffffffffffffffffffffffffffffffffff": {
       "chainId": "592",
@@ -108,8 +102,7 @@
       "symbol": "WDOT",
       "logoURI": "https://assets.coingecko.com/coins/images/26650/thumb/polkadot.png?1696525722",
       "assetGroup": "WDOT::WDOT",
-      "currencyId": "WDOT::WDOT",
-      "tags": ["coingecko"]
+      "currencyId": "WDOT::WDOT"
     },
     "0xe511ed88575c57767bafb72bfd10775413e3f2b0": {
       "chainId": "592",
@@ -119,8 +112,7 @@
       "symbol": "NASTR",
       "logoURI": "https://assets.coingecko.com/coins/images/28481/thumb/Rectangle_152.png?1696527474",
       "assetGroup": "Liquid ASTR::NASTR",
-      "currencyId": "Liquid ASTR::NASTR",
-      "tags": ["coingecko"]
+      "currencyId": "Liquid ASTR::NASTR"
     },
     "0xe69583b62d7b7d8a568e1ec08f34b648589f4cf1": {
       "chainId": "592",
@@ -140,8 +132,7 @@
       "symbol": "IBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/26217/thumb/interBTC_for_Exchanges.png?1696525302",
       "assetGroup": "interBTC::IBTC",
-      "currencyId": "interBTC::IBTC",
-      "tags": ["coingecko"]
+      "currencyId": "interBTC::IBTC"
     },
     "0x75364d4f779d0bd0facd9a218c67f87dd9aff3b4": {
       "chainId": "592",
@@ -151,8 +142,7 @@
       "symbol": "WSDN",
       "logoURI": "https://assets.coingecko.com/coins/images/24817/thumb/sdn.png?1696523975",
       "assetGroup": "Wrapped Shiden Network::WSDN",
-      "currencyId": "Wrapped Shiden Network::WSDN",
-      "tags": ["coingecko"]
+      "currencyId": "Wrapped Shiden Network::WSDN"
     },
     "0x29f6e49c6e3397c3a84f715885f9f233a441165c": {
       "chainId": "592",
@@ -162,8 +152,7 @@
       "symbol": "OUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/12589/thumb/ousd-logo-200x200.png?1696512399",
       "assetGroup": "OUSD",
-      "currencyId": "Origin Dollar::OUSD",
-      "tags": ["coingecko"]
+      "currencyId": "Origin Dollar::OUSD"
     },
     "0xdd90e5e87a2081dcf0391920868ebc2ffb81a1af": {
       "chainId": "592",
@@ -173,8 +162,7 @@
       "symbol": "MATIC",
       "logoURI": "https://assets.coingecko.com/coins/images/14073/thumb/matic.png?1696513797",
       "assetGroup": "POL",
-      "currencyId": "Polygon (OLD)::MATIC",
-      "tags": ["coingecko"]
+      "currencyId": "Polygon (OLD)::MATIC"
     },
     "0x998082c488e548820f970df5173bd2061ce90635": {
       "chainId": "592",
@@ -184,8 +172,7 @@
       "symbol": "ZLK",
       "logoURI": "https://assets.coingecko.com/coins/images/20884/thumb/zenlink.PNG?1696520277",
       "assetGroup": "Zenlink Network::ZLK",
-      "currencyId": "Zenlink Network::ZLK",
-      "tags": ["coingecko"]
+      "currencyId": "Zenlink Network::ZLK"
     },
     "0x431d5dff03120afa4bdf332c61a6e1766ef37bdb": {
       "chainId": "592",
@@ -195,8 +182,7 @@
       "symbol": "JPYC",
       "logoURI": "https://assets.coingecko.com/coins/images/25971/thumb/JPYC_Prepaid.png?1734356447",
       "assetGroup": "JPY Coin::JPYC",
-      "currencyId": "JPY Coin::JPYC",
-      "tags": ["coingecko"]
+      "currencyId": "JPY Coin::JPYC"
     },
     "0x4bf769b05e832fcdc9053fffbc78ca889acb5e1e": {
       "chainId": "592",
@@ -205,8 +191,7 @@
       "address": "0x4bf769b05e832fcdc9053fffbc78ca889acb5e1e",
       "symbol": "BUSD",
       "assetGroup": "BUSD",
-      "currencyId": "Bridged BUSD::BUSD",
-      "tags": ["bridged", "coingecko"]
+      "currencyId": "Bridged BUSD::BUSD"
     },
     "0x3795c36e7d12a8c252a20c5a7b455f7c57b60283": {
       "chainId": "592",
@@ -216,8 +201,7 @@
       "symbol": "USDT",
       "logoURI": "https://assets.coingecko.com/coins/images/35137/thumb/usdt_logo.png?1707447287",
       "assetGroup": "USDT",
-      "currencyId": "Celer Bridged USDT::USDT",
-      "tags": ["celer", "bridged", "coingecko"]
+      "currencyId": "Celer Bridged USDT::USDT"
     },
     "0x31efb841d5e0b4082f7e1267dab8de1b853f2a9d": {
       "chainId": "592",
@@ -227,8 +211,7 @@
       "symbol": "LINK",
       "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
       "assetGroup": "LINK",
-      "currencyId": "ChainLink Token::LINK",
-      "tags": ["coingecko"]
+      "currencyId": "ChainLink Token::LINK"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "592",
@@ -239,8 +222,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/astr.webp",
       "assetGroup": "ASTR",
       "currencyId": "Astar::ASTR",
-      "tags": ["native", "coingecko", "wrapped:0xaeaaf0e2c81af264101b9129c00f4440ccf0f720"],
-      "props": { "isNative": true, "wrapped": "0xaeaaf0e2c81af264101b9129c00f4440ccf0f720" }
+      "props": { "isNative": true, "wrapped": "0xaeaaf0e2c81af264101b9129c00f4440ccf0f720" },
+      "tags": ["wnative"]
     }
   },
   "mainTokens": [
@@ -266,12 +249,5 @@
     "0x4bf769b05e832fcdc9053fffbc78ca889acb5e1e",
     "0x3795c36e7d12a8c252a20c5a7b455f7c57b60283",
     "0x31efb841d5e0b4082f7e1267dab8de1b853f2a9d"
-  ],
-  "bridgeTokens": [
-    "0x0000000000000000000000000000000000000000",
-    "0x6a2d262d56735dba19dd70682b39f6be9a931d98",
-    "0xad543f18cff85c77e140e3e5e3c3392f6ba9d5ca",
-    "0x81ecac0d6be0550a00ff064a4f9dd2400585fe9c",
-    "0x3795c36e7d12a8c252a20c5a7b455f7c57b60283"
   ]
 }

@@ -20,8 +20,7 @@
       "symbol": "USDT",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1380012617/0x7D5a56742C082FcDfc240cd7D1775f00e059771F.png",
       "assetGroup": "USDT",
-      "currencyId": "Bridged USDT (ICE)::USDT",
-      "tags": ["bridged", "ice"]
+      "currencyId": "Bridged USDT (ICE)::USDT"
     },
     "0xf037540e51d71b2d2b1120e8432ba49f29edfbd0": {
       "chainId": "1380012617",
@@ -88,7 +87,6 @@
       "address": "0x0000000000000000000000000000000000000000",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "currencyId": "Ethereum::ETH",
-      "tags": ["native"],
       "props": { "isNative": true },
       "name": "Ethereum",
       "symbol": "ETH",
@@ -96,13 +94,6 @@
     }
   },
   "mainTokens": [
-    "0x0000000000000000000000000000000000000000",
-    "0x7d5a56742c082fcdfc240cd7d1775f00e059771f",
-    "0xf037540e51d71b2d2b1120e8432ba49f29edfbd0",
-    "0xfbda5f676cb37624f28265a144a48b0d6e87d3b6",
-    "0x362fae9a75b27bbc550aac28a7c1f96c8d483120"
-  ],
-  "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",
     "0x7d5a56742c082fcdfc240cd7d1775f00e059771f",
     "0xf037540e51d71b2d2b1120e8432ba49f29edfbd0",

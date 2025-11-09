@@ -11,8 +11,8 @@
       "logoURI": "https://assets.bulbaswap.io/icons/2818/address/0x5300000000000000000000000000000000000011.svg",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "tags": ["wnative"],
-      "props": { "wnative": true }
+      "props": { "wnative": true },
+      "tags": ["wnative"]
     },
     "0x4116bd299e4118b6b1acbfbd9acbaf034a9d5389": {
       "chainId": "2818",
@@ -502,8 +502,7 @@
       "symbol": "USDC.e",
       "logoURI": "https://assets.bulbaswap.io/icons/default.svg",
       "assetGroup": "USDC",
-      "currencyId": "Bridged USDC::USDC.e",
-      "tags": ["bridged"]
+      "currencyId": "Bridged USDC::USDC.e"
     },
     "0xde372c87a91c95fe1e447a4bfdcf60239aeea3a1": {
       "chainId": "2818",
@@ -1274,8 +1273,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "assetGroup": "ETH",
       "currencyId": "Ether::ETH",
-      "tags": ["native", "wrapped:0x5300000000000000000000000000000000000011"],
-      "props": { "isNative": true, "wrapped": "0x5300000000000000000000000000000000000011" }
+      "props": { "isNative": true, "wrapped": "0x5300000000000000000000000000000000000011" },
+      "tags": ["wnative"]
     }
   },
   "mainTokens": [
@@ -1292,13 +1291,5 @@
     "0xfd940682b73ad25d7758636983a6f22074a4995a",
     "0x1199e23c0bae9710ccd9f645fa57794e5d469d06",
     "0x2ff36ffc488deb8e0b824d477756499cd4902186"
-  ],
-  "bridgeTokens": [
-    "0x0000000000000000000000000000000000000000",
-    "0x5300000000000000000000000000000000000011",
-    "0xc7d67a9cbb121b3b0b9c053dd9f469523243379a",
-    "0x803dce4d3f4ae2e17af6c51343040dee320c149d",
-    "0xe34c91815d7fc18a9e2148bcd4241d0a5848b693",
-    "0x1199e23c0bae9710ccd9f645fa57794e5d469d06"
   ]
 }

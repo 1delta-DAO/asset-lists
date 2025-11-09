@@ -11,8 +11,8 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/weth.svg",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "tags": ["wnative"],
-      "props": { "wnative": true }
+      "props": { "wnative": true },
+      "tags": ["wnative"]
     },
     "0xa9f32a851b1800742e47725da54a09a7ef2556a3": {
       "chainId": "1729",
@@ -53,10 +53,9 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "assetGroup": "ETH",
       "currencyId": "Ether::ETH",
-      "tags": ["native", "wrapped:0x6b48c2e6a32077ec17e8ba0d98ffc676dfab1a30"],
-      "props": { "isNative": true, "wrapped": "0x6b48c2e6a32077ec17e8ba0d98ffc676dfab1a30" }
+      "props": { "isNative": true, "wrapped": "0x6b48c2e6a32077ec17e8ba0d98ffc676dfab1a30" },
+      "tags": ["wnative"]
     }
   },
-  "mainTokens": ["0x0000000000000000000000000000000000000000", "0x6b48c2e6a32077ec17e8ba0d98ffc676dfab1a30"],
-  "bridgeTokens": ["0x0000000000000000000000000000000000000000", "0x6b48c2e6a32077ec17e8ba0d98ffc676dfab1a30"]
+  "mainTokens": ["0x0000000000000000000000000000000000000000", "0x6b48c2e6a32077ec17e8ba0d98ffc676dfab1a30"]
 }

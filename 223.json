@@ -11,8 +11,8 @@
       "logoURI": "https://tokenlist.glowswap.io/images/glow/0x4200000000000000000000000000000000000006.png",
       "assetGroup": "WBTC",
       "currencyId": "Wrapped BTC::WBTC",
-      "tags": ["wnative"],
-      "props": { "wnative": true }
+      "props": { "wnative": true },
+      "tags": ["wnative"]
     },
     "0xe544e8a38add9b1abf21922090445ba93f74b9e5": {
       "chainId": "223",
@@ -112,8 +112,7 @@
       "symbol": "uBTC",
       "logoURI": "https://tokenlist.glowswap.io/images/glow/0x796e4d53067ff374b89b2ac101ce0c1f72ccaac2.png",
       "assetGroup": "UBTC",
-      "currencyId": "uBTC::uBTC",
-      "tags": ["AVALON"]
+      "currencyId": "uBTC::uBTC"
     },
     "0x46fecc5bef70615ee3bfdbd2b278944368b78cf5": {
       "chainId": "223",
@@ -182,8 +181,7 @@
       "address": "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3",
       "symbol": "stBTC",
       "assetGroup": "STBTC",
-      "currencyId": "Lorenzo stBTC::stBTC",
-      "tags": ["AVALON"]
+      "currencyId": "Lorenzo stBTC::stBTC"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "223",
@@ -194,19 +192,11 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/btc.webp",
       "assetGroup": "WBTC",
       "currencyId": "Bitcoin::BTC",
-      "tags": ["native", "wrapped:0x4200000000000000000000000000000000000006"],
-      "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" }
+      "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" },
+      "tags": ["wnative"]
     }
   },
   "mainTokens": [
-    "0x0000000000000000000000000000000000000000",
-    "0x4200000000000000000000000000000000000006",
-    "0xe544e8a38add9b1abf21922090445ba93f74b9e5",
-    "0x681202351a488040fa4fdcc24188afb582c9dd62",
-    "0xd48d3a551757ac47655fce25bde1b0b6b1cb2a5a",
-    "0xc3ee2df14b1bc526c24ed802f1873d49664a0d5c"
-  ],
-  "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",
     "0x4200000000000000000000000000000000000006",
     "0xe544e8a38add9b1abf21922090445ba93f74b9e5",

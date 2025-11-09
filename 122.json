@@ -10,8 +10,7 @@
       "symbol": "ICE",
       "logoURI": "https://assets.coingecko.com/coins/images/26237/thumb/icecream.png?1696525321",
       "assetGroup": "ICE",
-      "currencyId": "IceCream::ICE",
-      "tags": ["coingecko"]
+      "currencyId": "IceCream::ICE"
     },
     "0x12aa82525deff84777fa78578a68ceb854a85f43": {
       "chainId": "122",
@@ -41,8 +40,7 @@
       "symbol": "WBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/39557/thumb/wbtc.png?1722898201",
       "assetGroup": "WBTC",
-      "currencyId": "Wrapped BTC::WBTC",
-      "tags": ["coingecko"]
+      "currencyId": "Wrapped BTC::WBTC"
     },
     "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590": {
       "chainId": "122",
@@ -52,8 +50,7 @@
       "symbol": "WETH",
       "logoURI": "https://assets.coingecko.com/coins/images/53042/thumb/wETH_32.png?1735081743",
       "assetGroup": "ETH",
-      "currencyId": "Wrapped Ether (Stargate)::WETH",
-      "tags": ["stargate", "bridged", "coingecko"]
+      "currencyId": "Wrapped Ether (Stargate)::WETH"
     },
     "0xce86a1cf3cff48139598de6bf9b1df2e0f79f86f": {
       "chainId": "122",
@@ -63,8 +60,7 @@
       "symbol": "FUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/24046/thumb/FUSD.png?1696523236",
       "assetGroup": "Dollar V3::FUSD",
-      "currencyId": "Dollar V3::FUSD",
-      "tags": ["coingecko"]
+      "currencyId": "Dollar V3::FUSD"
     },
     "0xc6bc407706b7140ee8eef2f86f9504651b63e7f9": {
       "chainId": "122",
@@ -74,8 +70,7 @@
       "symbol": "USDC.e",
       "logoURI": "https://assets.coingecko.com/coins/images/53044/thumb/USDC_Icon.png?1735081798",
       "assetGroup": "USDC",
-      "currencyId": "Bridged USDC (Stargate)::USDC.e",
-      "tags": ["stargate", "bridged", "coingecko"]
+      "currencyId": "Bridged USDC (Stargate)::USDC.e"
     },
     "0x3695dd1d1d43b794c0b13eb8be8419eb3ac22bf7": {
       "chainId": "122",
@@ -85,8 +80,7 @@
       "symbol": "USDT",
       "logoURI": "https://assets.coingecko.com/coins/images/53043/thumb/usdt.png?1735081778",
       "assetGroup": "USDT",
-      "currencyId": "Bridged USDT (Stargate)::USDT",
-      "tags": ["stargate", "bridged", "coingecko"]
+      "currencyId": "Bridged USDT (Stargate)::USDT"
     },
     "0xb10ed6e3810c95a380e4f3e448af1755fa3368cf": {
       "chainId": "122",
@@ -107,8 +101,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/33535/thumb/3WFUSE_token_logo_crl.png?1703026207",
       "assetGroup": "FUSE",
       "currencyId": "Wrapped FUSE::WFUSE",
-      "tags": ["coingecko", "wnative"],
-      "props": { "wnative": true }
+      "props": { "wnative": true },
+      "tags": ["wnative"]
     },
     "0x34ef2cc892a88415e9f02b91bfa9c91fc0be6bd4": {
       "chainId": "122",
@@ -118,8 +112,7 @@
       "symbol": "VOLT",
       "logoURI": "https://assets.coingecko.com/coins/images/21886/thumb/My_project.png?1696521238",
       "assetGroup": "Voltage Finance::VOLT",
-      "currencyId": "Voltage Finance::VOLT",
-      "tags": ["coingecko"]
+      "currencyId": "Voltage Finance::VOLT"
     },
     "0xa722c13135930332eb3d749b2f0906559d2c5b99": {
       "chainId": "122",
@@ -129,8 +122,7 @@
       "symbol": "WETH",
       "logoURI": "https://assets.coingecko.com/coins/images/33412/thumb/weth.jpg?1726731618",
       "assetGroup": "ETH",
-      "currencyId": "Bridged WETH::WETH",
-      "tags": ["bridged", "coingecko"]
+      "currencyId": "Bridged WETH::WETH"
     },
     "0x68c9736781e9316ebf5c3d49fe0c1f45d2d104cd": {
       "chainId": "122",
@@ -140,8 +132,7 @@
       "symbol": "USDT",
       "logoURI": "https://assets.coingecko.com/coins/images/32986/thumb/logo_%288%29.png?1700094172",
       "assetGroup": "USDT",
-      "currencyId": "Bridged USDT (Layer0 Bridge)::USDT",
-      "tags": ["bridged", "coingecko"]
+      "currencyId": "Bridged USDT (Layer0 Bridge)::USDT"
     },
     "0x2931b47c2cee4febad348ba3d322cb4a17662c34": {
       "chainId": "122",
@@ -151,8 +142,7 @@
       "symbol": "wstETH",
       "logoURI": "https://assets.coingecko.com/coins/images/51545/thumb/logo_%2811%29.png?1731503581",
       "assetGroup": "WSTETH",
-      "currencyId": "Wrapped liquid staked Ether 2.0::wstETH",
-      "tags": ["coingecko"]
+      "currencyId": "Wrapped liquid staked Ether 2.0::wstETH"
     },
     "0x8bf40e191ac82bc09d946629655a6b8baf8f063e": {
       "chainId": "122",
@@ -172,8 +162,7 @@
       "symbol": "WBNB",
       "logoURI": "https://assets.coingecko.com/coins/images/53071/thumb/wrapped_bnb.png?1735197840",
       "assetGroup": "BNB",
-      "currencyId": "Bridged WBNB::WBNB",
-      "tags": ["bridged", "coingecko"]
+      "currencyId": "Bridged WBNB::WBNB"
     },
     "0x5622f6dc93e08a8b717b149677930c38d5d50682": {
       "chainId": "122",
@@ -183,8 +172,7 @@
       "symbol": "WETH",
       "logoURI": "https://assets.coingecko.com/coins/images/32759/thumb/logo_%286%29.png?1699324862",
       "assetGroup": "ETH",
-      "currencyId": "Bridged WETH::WETH",
-      "tags": ["bridged", "coingecko"]
+      "currencyId": "Bridged WETH::WETH"
     },
     "0x28c3d1cd466ba22f6cae51b1a4692a831696391a": {
       "chainId": "122",
@@ -194,8 +182,7 @@
       "symbol": "USDC",
       "logoURI": "https://assets.coingecko.com/coins/images/32758/thumb/USDC_v2.png?1699324701",
       "assetGroup": "USDC",
-      "currencyId": "Bridged USDC (Layer0 Bridge)::USDC",
-      "tags": ["bridged"]
+      "currencyId": "Bridged USDC (Layer0 Bridge)::USDC"
     },
     "0x5dd8015cec49f4db01fd228f688bf30337d3e0a9": {
       "chainId": "122",
@@ -205,8 +192,7 @@
       "symbol": "ELON",
       "logoURI": "https://assets.coingecko.com/coins/images/14962/thumb/6GxcPRo3_400x400.jpg?1696514622",
       "assetGroup": "ELON",
-      "currencyId": "Dogelon Mars::ELON",
-      "tags": ["coingecko"]
+      "currencyId": "Dogelon Mars::ELON"
     },
     "0x495d133b938596c9984d462f007b676bdc57ecec": {
       "chainId": "122",
@@ -216,8 +202,7 @@
       "symbol": "G",
       "logoURI": "https://assets.coingecko.com/coins/images/14782/thumb/G__Coin_%281%29.png?1696514451",
       "assetGroup": "GoodDollar::G",
-      "currencyId": "GoodDollar::G",
-      "tags": ["coingecko"]
+      "currencyId": "GoodDollar::G"
     },
     "0xfadbbf8ce7d5b7041be672561bba99f79c532e10": {
       "chainId": "122",
@@ -227,8 +212,7 @@
       "symbol": "USDT",
       "logoURI": "https://assets.coingecko.com/coins/images/35001/thumb/logo.png?1706959346",
       "assetGroup": "USDT",
-      "currencyId": "Bridged USDT::USDT",
-      "tags": ["bridged", "coingecko"]
+      "currencyId": "Bridged USDT::USDT"
     },
     "0x620fd5fa44be6af63715ef4e65ddfa0387ad13f5": {
       "chainId": "122",
@@ -238,8 +222,7 @@
       "symbol": "USDC",
       "logoURI": "https://assets.coingecko.com/coins/images/35218/thumb/USDC_Icon.png?1707908537",
       "assetGroup": "USDC",
-      "currencyId": "Bridged USDC::USDC",
-      "tags": ["bridged", "coingecko"]
+      "currencyId": "Bridged USDC::USDC"
     },
     "0xeeeeeb57642040be42185f49c52f7e9b38f8eeee": {
       "chainId": "122",
@@ -249,8 +232,7 @@
       "symbol": "ELK",
       "logoURI": "https://assets.coingecko.com/coins/images/17813/thumb/elk.png?1696517333",
       "assetGroup": "Elk Finance::ELK",
-      "currencyId": "Elk Finance::ELK",
-      "tags": ["coingecko"]
+      "currencyId": "Elk Finance::ELK"
     },
     "0x6a5f6a8121592becd6747a38d67451b310f7f156": {
       "chainId": "122",
@@ -260,8 +242,7 @@
       "symbol": "BUSD",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png",
       "assetGroup": "BUSD",
-      "currencyId": "Bridged BUSD::BUSD",
-      "tags": ["bridged", "coingecko"]
+      "currencyId": "Bridged BUSD::BUSD"
     },
     "0x34009565bfeefded0f7e774629a745636bf35e82": {
       "chainId": "122",
@@ -271,8 +252,7 @@
       "symbol": "WBTCV2",
       "logoURI": "https://assets.coingecko.com/coins/images/55265/thumb/logo_%2813%29.png?1745051128",
       "assetGroup": "Wrapped BTC::WBTCV2",
-      "currencyId": "Wrapped BTC::WBTCV2",
-      "tags": ["coingecko"]
+      "currencyId": "Wrapped BTC::WBTCV2"
     },
     "0x94ba7a27c7a95863d1bdc7645ac2951e0cca06ba": {
       "chainId": "122",
@@ -585,8 +565,7 @@
       "symbol": "SOUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/68960/thumb/soUSD_logo.png?1757088705",
       "assetGroup": "Solid USD soUSD::SOUSD",
-      "currencyId": "Solid USD soUSD::SOUSD",
-      "tags": ["coingecko"]
+      "currencyId": "Solid USD soUSD::SOUSD"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "122",
@@ -597,8 +576,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/fuse.webp",
       "assetGroup": "FUSE",
       "currencyId": "Fuse::FUSE",
-      "tags": ["native", "coingecko", "wrapped:0x0be9e53fd7edac9f859882afdda116645287c629"],
-      "props": { "isNative": true, "wrapped": "0x0be9e53fd7edac9f859882afdda116645287c629" }
+      "props": { "isNative": true, "wrapped": "0x0be9e53fd7edac9f859882afdda116645287c629" },
+      "tags": ["wnative"]
     }
   },
   "mainTokens": [
@@ -634,19 +613,5 @@
     "0x90708b20ccc1eb95a4fa7c8b18fd2c22a0ff9e78",
     "0x117c0419352ddb6fe575a67faa70315bdc4a93f3",
     "0xd8bf72f3e163b9cf0c73dfdcc316417a5ac20670"
-  ],
-  "bridgeTokens": [
-    "0x0000000000000000000000000000000000000000",
-    "0x33284f95ccb7b948d9d352e1439561cf83d8d00d",
-    "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590",
-    "0xc6bc407706b7140ee8eef2f86f9504651b63e7f9",
-    "0x3695dd1d1d43b794c0b13eb8be8419eb3ac22bf7",
-    "0xa722c13135930332eb3d749b2f0906559d2c5b99",
-    "0x68c9736781e9316ebf5c3d49fe0c1f45d2d104cd",
-    "0x6acb34b1df86e254b544189ec32cf737e2482058",
-    "0x5622f6dc93e08a8b717b149677930c38d5d50682",
-    "0x28c3d1cd466ba22f6cae51b1a4692a831696391a",
-    "0xfadbbf8ce7d5b7041be672561bba99f79c532e10",
-    "0x620fd5fa44be6af63715ef4e65ddfa0387ad13f5"
   ]
 }

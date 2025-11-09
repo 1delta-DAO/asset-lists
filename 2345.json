@@ -9,8 +9,7 @@
       "address": "0xe1ad845d93853fff44990ae0dcecd8575293681e",
       "symbol": "USDT",
       "assetGroup": "USDT",
-      "currencyId": "Bridged stgUSDT::USDT",
-      "tags": ["bridged", "AVALON"]
+      "currencyId": "Bridged stgUSDT::USDT"
     },
     "0x3022b87ac063de95b1570f46f5e470f8b53112d8": {
       "chainId": "2345",
@@ -19,8 +18,7 @@
       "address": "0x3022b87ac063de95b1570f46f5e470f8b53112d8",
       "symbol": "USDC.e",
       "assetGroup": "USDC",
-      "currencyId": "Bridged USDC (Stargate)::USDC.e",
-      "tags": ["stargate", "bridged", "AVALON"]
+      "currencyId": "Bridged USDC (Stargate)::USDC.e"
     },
     "0xbc10000000000000000000000000000000000000": {
       "chainId": "2345",
@@ -29,8 +27,7 @@
       "address": "0xbc10000000000000000000000000000000000000",
       "symbol": "WGBTC",
       "assetGroup": "Wrapped Goat Bitcoin::WGBTC",
-      "currencyId": "Wrapped Goat Bitcoin::WGBTC",
-      "tags": ["AVALON"]
+      "currencyId": "Wrapped Goat Bitcoin::WGBTC"
     },
     "0xfe41e7e5cb3460c483ab2a38eb605cda9e2d248e": {
       "chainId": "2345",
@@ -39,8 +36,7 @@
       "address": "0xfe41e7e5cb3460c483ab2a38eb605cda9e2d248e",
       "symbol": "BTCB",
       "assetGroup": "BTCB Token::BTCB",
-      "currencyId": "BTCB Token::BTCB",
-      "tags": ["AVALON"]
+      "currencyId": "BTCB Token::BTCB"
     },
     "0x1e0d0303a8c4ad428953f5acb1477db42bb838cf": {
       "chainId": "2345",
@@ -49,8 +45,7 @@
       "address": "0x1e0d0303a8c4ad428953f5acb1477db42bb838cf",
       "symbol": "DOGEB",
       "assetGroup": "GOAT BSC DOGE::DOGEB",
-      "currencyId": "GOAT BSC DOGE::DOGEB",
-      "tags": ["AVALON"]
+      "currencyId": "GOAT BSC DOGE::DOGEB"
     },
     "0x3a1293bdb83bbbdd5ebf4fac96605ad2021bbc0f": {
       "chainId": "2345",
@@ -59,15 +54,13 @@
       "address": "0x3a1293bdb83bbbdd5ebf4fac96605ad2021bbc0f",
       "symbol": "WETH",
       "assetGroup": "ETH",
-      "currencyId": "WETH::WETH",
-      "tags": ["AVALON"]
+      "currencyId": "WETH::WETH"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "2345",
       "address": "0x0000000000000000000000000000000000000000",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/btc.webp",
       "currencyId": "Bitcoin::BTC",
-      "tags": ["native"],
       "props": { "isNative": true },
       "name": "Bitcoin",
       "symbol": "BTC",
@@ -78,11 +71,5 @@
     "0x0000000000000000000000000000000000000000",
     "0xe1ad845d93853fff44990ae0dcecd8575293681e",
     "0x3a1293bdb83bbbdd5ebf4fac96605ad2021bbc0f"
-  ],
-  "bridgeTokens": [
-    "0x0000000000000000000000000000000000000000",
-    "0xe1ad845d93853fff44990ae0dcecd8575293681e",
-    "0x3a1293bdb83bbbdd5ebf4fac96605ad2021bbc0f",
-    "0x3022b87ac063de95b1570f46f5e470f8b53112d8"
   ]
 }

@@ -20,21 +20,18 @@
       "symbol": "USDCe",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
       "assetGroup": "Bridged USDC (Superposition)::USDCe",
-      "currencyId": "Bridged USDC (Superposition)::USDCe",
-      "tags": ["bridged"]
+      "currencyId": "Bridged USDC (Superposition)::USDCe"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "55244",
       "address": "0x0000000000000000000000000000000000000000",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "currencyId": "Ether::ETH",
-      "tags": ["native"],
       "props": { "isNative": true },
       "name": "Ether",
       "symbol": "ETH",
       "decimals": 18
     }
   },
-  "mainTokens": ["0x0000000000000000000000000000000000000000", "0x1fb719f10b56d7a85dcd32f27f897375fb21cfdd"],
-  "bridgeTokens": ["0x0000000000000000000000000000000000000000", "0x1fb719f10b56d7a85dcd32f27f897375fb21cfdd"]
+  "mainTokens": ["0x0000000000000000000000000000000000000000", "0x1fb719f10b56d7a85dcd32f27f897375fb21cfdd"]
 }

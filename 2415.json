@@ -51,8 +51,8 @@
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/2415/0x2F3AD0cdC8AD20337eb02bD6411b808EE30c7896.png",
       "assetGroup": "XODEX",
       "currencyId": "Wrapped XODEX::WXODEX",
-      "tags": ["wnative"],
-      "props": { "wnative": true }
+      "props": { "wnative": true },
+      "tags": ["wnative"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "2415",
@@ -63,8 +63,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/xodex.webp",
       "assetGroup": "XODEX",
       "currencyId": "XODEX Native Token::XODEX",
-      "tags": ["native", "wrapped:0x2f3ad0cdc8ad20337eb02bd6411b808ee30c7896"],
-      "props": { "isNative": true, "wrapped": "0x2f3ad0cdc8ad20337eb02bd6411b808ee30c7896" }
+      "props": { "isNative": true, "wrapped": "0x2f3ad0cdc8ad20337eb02bd6411b808ee30c7896" },
+      "tags": ["wnative"]
     }
   },
   "mainTokens": [
@@ -73,11 +73,5 @@
     "0x867f08a3ab824b42e8058a1b48e32e1df205b092",
     "0x54051d9dbe99687867090d95fe15c3d3e35512ba",
     "0x2f3ad0cdc8ad20337eb02bd6411b808ee30c7896"
-  ],
-  "bridgeTokens": [
-    "0x0000000000000000000000000000000000000000",
-    "0x12aa82525deff84777fa78578a68ceb854a85f43",
-    "0x867f08a3ab824b42e8058a1b48e32e1df205b092",
-    "0x54051d9dbe99687867090d95fe15c3d3e35512ba"
   ]
 }

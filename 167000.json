@@ -11,8 +11,8 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "tags": ["wnative", "biconomy-gas-token", "HANA", "TAKOTAKO", "TAKOTAKO_ETH", "MERIDIAN"],
-      "props": { "wnative": true }
+      "props": { "wnative": true },
+      "tags": ["wnative"]
     },
     "0x07d83526730c7438048d55a4fc0b850e2aab6f0b": {
       "chainId": "167000",
@@ -23,7 +23,6 @@
       "logoURI": "https://ethereum-optimism.github.io/data/USDC/logo.png",
       "assetGroup": "USDC",
       "currencyId": "USD Coin::USDC",
-      "tags": ["biconomy-gas-token", "HANA", "TAKOTAKO", "MERIDIAN", "AVALON", "AVALON_USDA"],
       "props": { "permit": { "type": 1, "version": "2" } }
     },
     "0x19e26b0638bf63aa9fa4d14c6baf8d52ebe86c5c": {
@@ -35,7 +34,6 @@
       "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdce.svg",
       "assetGroup": "USDC",
       "currencyId": "Bridged USDC (Stargate)::USDC.e",
-      "tags": ["stargate", "bridged", "biconomy-gas-token", "HANA", "MERIDIAN"],
       "props": { "permit": { "type": 1, "version": "2" } }
     },
     "0x9c2dc7377717603eb92b2655c5f2e7997a4945bd": {
@@ -46,8 +44,7 @@
       "symbol": "USDT",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
       "assetGroup": "USDT",
-      "currencyId": "Bridged USDT (Stargate)::USDT",
-      "tags": ["stargate", "bridged", "TAKOTAKO", "MERIDIAN", "biconomy-gas-token"]
+      "currencyId": "Bridged USDT (Stargate)::USDT"
     },
     "0x2def195713cf4a606b49d07e520e22c17899a736": {
       "chainId": "167000",
@@ -57,8 +54,7 @@
       "symbol": "USDT",
       "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdt.png",
       "assetGroup": "USDT",
-      "currencyId": "Tether USD::USDT",
-      "tags": ["biconomy-gas-token", "TAKOTAKO", "AVALON", "AVALON_USDA"]
+      "currencyId": "Tether USD::USDT"
     },
     "0xc4c410459fbaf8f7f86b6cee52b4fa1282ff9704": {
       "chainId": "167000",
@@ -79,7 +75,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/38058/standard/taiko.jpeg",
       "assetGroup": "TAIKO",
       "currencyId": "Taiko Token::TAIKO",
-      "tags": ["biconomy-gas-token", "HANA", "TAKOTAKO", "MERIDIAN", "AVALON"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x7e91f29f8a213c8311712a8fc8c61219fb9477cb": {
@@ -130,8 +125,7 @@
       "symbol": "weETH",
       "logoURI": "https://assets.coingecko.com/coins/images/33033/thumb/weETH.png?1701438396",
       "assetGroup": "WEETH",
-      "currencyId": "Wrapped eETH::weETH",
-      "tags": ["TAKOTAKO_ETH"]
+      "currencyId": "Wrapped eETH::weETH"
     },
     "0xf9a06e3afaadbccccc8824a1255a88d648ca0ef6": {
       "chainId": "167000",
@@ -192,8 +186,7 @@
       "symbol": "SolvBTC",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/SolvBTC.webp",
       "assetGroup": "SOLVBTC",
-      "currencyId": "Solv BTC::SolvBTC",
-      "tags": ["biconomy-gas-token", "AVALON_SOLVBTC"]
+      "currencyId": "Solv BTC::SolvBTC"
     },
     "0xcc0966d8418d412c599a6421b760a847eb169a8c": {
       "chainId": "167000",
@@ -203,8 +196,7 @@
       "symbol": "xSolvBTC",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/xSolvBTC.webp",
       "assetGroup": "XSOLVBTC",
-      "currencyId": "xSolvBTC::xSolvBTC",
-      "tags": ["AVALON_SOLVBTC"]
+      "currencyId": "xSolvBTC::xSolvBTC"
     },
     "0xf7fb2df9280eb0a76427dc3b34761db8b1441a49": {
       "chainId": "167000",
@@ -214,8 +206,7 @@
       "symbol": "M-BTC",
       "logoURI": "https://assets.coingecko.com/coins/images/36566/standard/photo_2024-03-25_22-04-42.jpg?1711936162",
       "assetGroup": "M-BTC",
-      "currencyId": "Merlin BTC::M-BTC",
-      "tags": ["TAKOTAKO", "AVALON_SOLVBTC"]
+      "currencyId": "Merlin BTC::M-BTC"
     },
     "0x93919784c523f39cacaa98ee0a9d96c3f32b593e": {
       "chainId": "167000",
@@ -317,8 +308,7 @@
       "symbol": "TKOSWAP",
       "logoURI": "https://assets.coingecko.com/coins/images/38471/standard/taikoswap.jpeg?1717647381",
       "assetGroup": "TaikoSwap::TKOSWAP",
-      "currencyId": "TaikoSwap::TKOSWAP",
-      "tags": ["biconomy-gas-token"]
+      "currencyId": "TaikoSwap::TKOSWAP"
     },
     "0xff12470a969dd362eb6595ffb44c82c959fe9acc": {
       "chainId": "167000",
@@ -328,8 +318,7 @@
       "symbol": "USDa",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/USDa.webp",
       "assetGroup": "USDa::USDa",
-      "currencyId": "USDa::USDa",
-      "tags": ["AVALON_USDA"]
+      "currencyId": "USDa::USDa"
     },
     "0x5d5c8aec46661f029a5136a4411c73647a5714a7": {
       "chainId": "167000",
@@ -339,8 +328,7 @@
       "symbol": "sUSDa",
       "logoURI": "https://assets.coingecko.com/coins/images/51821/thumb/USDA.png?1732035172",
       "assetGroup": "SUSDA",
-      "currencyId": "sUSDa::sUSDa",
-      "tags": ["AVALON_USDA"]
+      "currencyId": "sUSDa::sUSDa"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "167000",
@@ -351,16 +339,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "assetGroup": "ETH",
       "currencyId": "Ether::ETH",
-      "tags": [
-        "native",
-        "biconomy-gas-token",
-        "HANA",
-        "TAKOTAKO",
-        "TAKOTAKO_ETH",
-        "MERIDIAN",
-        "wrapped:0xa51894664a773981c6c112c43ce576f315d5b1b6"
-      ],
-      "props": { "isNative": true, "wrapped": "0xa51894664a773981c6c112c43ce576f315d5b1b6" }
+      "props": { "isNative": true, "wrapped": "0xa51894664a773981c6c112c43ce576f315d5b1b6" },
+      "tags": ["wnative"]
     }
   },
   "mainTokens": [
@@ -392,14 +372,5 @@
     "0xda9a0fbce1b8b11fcbd8114354ec266594c0ff5a",
     "0xcc0966d8418d412c599a6421b760a847eb169a8c",
     "0x9c2dc7377717603eb92b2655c5f2e7997a4945bd"
-  ],
-  "bridgeTokens": [
-    "0x0000000000000000000000000000000000000000",
-    "0xa51894664a773981c6c112c43ce576f315d5b1b6",
-    "0x07d83526730c7438048d55a4fc0b850e2aab6f0b",
-    "0x19e26b0638bf63aa9fa4d14c6baf8d52ebe86c5c",
-    "0x2def195713cf4a606b49d07e520e22c17899a736",
-    "0x9c2dc7377717603eb92b2655c5f2e7997a4945bd",
-    "0xc4c410459fbaf8f7f86b6cee52b4fa1282ff9704"
   ]
 }

@@ -70,8 +70,7 @@
       "symbol": "KRWO",
       "logoURI": "https://ss.new.klayswap.com/data/img/token/0x7fc692699f2216647a0e06225d8bdf8cdee40e7f/icon.png?v=1736231502436",
       "assetGroup": "KRWO::KRWO",
-      "currencyId": "KRWO::KRWO",
-      "tags": ["RHOMBUS"]
+      "currencyId": "KRWO::KRWO"
     },
     "0x608e8512d31cae43cd8058d81e6b56203a112539": {
       "chainId": "8217",
@@ -101,8 +100,7 @@
       "symbol": "WETH",
       "logoURI": "https://ss.new.klayswap.com/data/img/token/0x98a8345bb9d3dda9d808ca1c9142a28f6b0430e1/icon.svg?v=1709794027729",
       "assetGroup": "ETH",
-      "currencyId": "Wrapped Ether::WETH",
-      "tags": ["RHOMBUS", "KLAP", "AVALON"]
+      "currencyId": "Wrapped Ether::WETH"
     },
     "0x5c13e303a62fc5dedf5b52d66873f2e59fedadc2": {
       "chainId": "8217",
@@ -112,8 +110,7 @@
       "symbol": "USDT",
       "logoURI": "https://ss.new.klayswap.com/data/img/token/0x5c13e303a62fc5dedf5b52d66873f2e59fedadc2/icon.svg?v=1709703032569",
       "assetGroup": "USDT",
-      "currencyId": "Tether USD::USDT",
-      "tags": ["RHOMBUS", "KLAP", "AVALON", "AVALON_USDA"]
+      "currencyId": "Tether USD::USDT"
     },
     "0x608792deb376cce1c9fa4d0e6b7b44f507cffa6a": {
       "chainId": "8217",
@@ -123,8 +120,7 @@
       "symbol": "USDC",
       "logoURI": "https://ss.new.klayswap.com/data/img/token/0x608792deb376cce1c9fa4d0e6b7b44f507cffa6a/icon.svg?v=1709794012177",
       "assetGroup": "USDC",
-      "currencyId": "USD Coin::USDC",
-      "tags": ["RHOMBUS", "KLAP", "AVALON", "AVALON_USDA"]
+      "currencyId": "USD Coin::USDC"
     },
     "0x19aac5f612f524b754ca7e7c41cbfa2e981a4432": {
       "chainId": "8217",
@@ -135,8 +131,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/kaia.webp",
       "assetGroup": "KAIA",
       "currencyId": "Wrapped KAIA::WKAIA",
-      "tags": ["wnative", "RHOMBUS", "AVALON", "AVALON_SKAIA"],
-      "props": { "wnative": true }
+      "props": { "wnative": true },
+      "tags": ["wnative"]
     },
     "0x15d9f3ab1982b0e5a415451259994ff40369f584": {
       "chainId": "8217",
@@ -146,8 +142,7 @@
       "symbol": "BTCB",
       "logoURI": "https://ss.new.klayswap.com/data/img/token/0x15d9f3ab1982b0e5a415451259994ff40369f584/icon.svg?v=1709793968248",
       "assetGroup": "BTCB Token::BTCB",
-      "currencyId": "BTCB Token::BTCB",
-      "tags": ["AVALON"]
+      "currencyId": "BTCB Token::BTCB"
     },
     "0x0f9d34aafe97717e4c599c226444ba1e5846a85d": {
       "chainId": "8217",
@@ -177,8 +172,7 @@
       "symbol": "GRND",
       "logoURI": "https://coin-images.coingecko.com/coins/images/27186/large/GRND_3x.png?1696526235",
       "assetGroup": "GRND",
-      "currencyId": "SuperWalk::GRND",
-      "tags": ["RHOMBUS"]
+      "currencyId": "SuperWalk::GRND"
     },
     "0xedcad4bd04f59e8fcc7c5fc7547e5112ae9923df": {
       "chainId": "8217",
@@ -208,8 +202,7 @@
       "symbol": "BORA",
       "logoURI": "https://coin-images.coingecko.com/coins/images/7646/large/mqFw8hxm_400x400.jpeg?1696507900",
       "assetGroup": "BORA::BORA",
-      "currencyId": "BORA::BORA",
-      "tags": ["RHOMBUS"]
+      "currencyId": "BORA::BORA"
     },
     "0x42952b873ed6f7f0a7e4992e2a9818e3a9001995": {
       "chainId": "8217",
@@ -219,8 +212,7 @@
       "symbol": "stKAIA",
       "logoURI": "https://api.swapscanner.io/v0/tokens/0x42952b873ed6f7f0a7e4992e2a9818e3a9001995/icon",
       "assetGroup": "Lair Staked KAIA::stKAIA",
-      "currencyId": "Lair Staked KAIA::stKAIA",
-      "tags": ["RHOMBUS", "AVALON_SKAIA"]
+      "currencyId": "Lair Staked KAIA::stKAIA"
     },
     "0xcb2c7998696ef7a582dfd0aafadcd008d03e791a": {
       "chainId": "8217",
@@ -230,8 +222,7 @@
       "symbol": "DAI",
       "logoURI": "https://api.swapscanner.io/v0/tokens/0xcb2c7998696ef7a582dfd0aafadcd008d03e791a/icon",
       "assetGroup": "DAI",
-      "currencyId": "Dai Stablecoin::DAI",
-      "tags": ["KLAP"]
+      "currencyId": "Dai Stablecoin::DAI"
     },
     "0xac9c1e4787139af4c751b1c0fadfb513c44ed833": {
       "chainId": "8217",
@@ -241,8 +232,7 @@
       "symbol": "WBNB",
       "logoURI": "https://api.swapscanner.io/v0/tokens/0xac9c1e4787139af4c751b1c0fadfb513c44ed833/icon",
       "assetGroup": "BNB",
-      "currencyId": "Wrapped BNB::WBNB",
-      "tags": ["KLAP"]
+      "currencyId": "Wrapped BNB::WBNB"
     },
     "0xfaa03a2ac2d1b8481ec3ff44a0152ea818340e6d": {
       "chainId": "8217",
@@ -252,8 +242,7 @@
       "symbol": "SOL",
       "logoURI": "https://api.swapscanner.io/v0/tokens/0xfaa03a2ac2d1b8481ec3ff44a0152ea818340e6d/icon",
       "assetGroup": "SOL",
-      "currencyId": "Wrapped SOL::SOL",
-      "tags": ["KLAP"]
+      "currencyId": "Wrapped SOL::SOL"
     },
     "0x45830b92443a8f750247da2a76c85c70d0f1ebf3": {
       "chainId": "8217",
@@ -263,8 +252,7 @@
       "symbol": "WAVAX",
       "logoURI": "https://api.swapscanner.io/v0/tokens/0x45830b92443a8f750247da2a76c85c70d0f1ebf3/icon",
       "assetGroup": "AVAX",
-      "currencyId": "Wrapped AVAX::WAVAX",
-      "tags": ["KLAP"]
+      "currencyId": "Wrapped AVAX::WAVAX"
     },
     "0xd068c52d81f4409b9502da926ace3301cc41f623": {
       "chainId": "8217",
@@ -304,8 +292,7 @@
       "symbol": "SLN",
       "logoURI": "https://api.swapscanner.io/v0/tokens/0x06a210eae2b07f9dc22cdb10c2c77ca99b3d8968/icon",
       "assetGroup": "Smart Layer Network (Portal Bridge)::SLN",
-      "currencyId": "Smart Layer Network (Portal Bridge)::SLN",
-      "tags": ["portal", "bridged"]
+      "currencyId": "Smart Layer Network (Portal Bridge)::SLN"
     },
     "0xaaecb956075daf626bc5d507bb38764e122cf209": {
       "chainId": "8217",
@@ -315,8 +302,7 @@
       "symbol": "ACE",
       "logoURI": "https://api.swapscanner.io/v0/tokens/0xaaecb956075daf626bc5d507bb38764e122cf209/icon",
       "assetGroup": "Fusionist (Portal Bridge)::ACE",
-      "currencyId": "Fusionist (Portal Bridge)::ACE",
-      "tags": ["portal", "bridged"]
+      "currencyId": "Fusionist (Portal Bridge)::ACE"
     },
     "0x5166fa1acba89e5e0de27841a1110b7f9ac112da": {
       "chainId": "8217",
@@ -446,8 +432,7 @@
       "symbol": "xGRND",
       "logoURI": "https://rhombusprotocol.io/icons/tokens/xgrnd.svg",
       "assetGroup": "Staked GRND::xGRND",
-      "currencyId": "Staked GRND::xGRND",
-      "tags": ["RHOMBUS"]
+      "currencyId": "Staked GRND::xGRND"
     },
     "0x230c2b527364e923ba896e1201f86f683ee3523c": {
       "chainId": "8217",
@@ -537,8 +522,7 @@
       "symbol": "USDT",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
       "assetGroup": "USDT",
-      "currencyId": "Bridged USDT (Stargate)::USDT",
-      "tags": ["stargate", "bridged"]
+      "currencyId": "Bridged USDT (Stargate)::USDT"
     },
     "0xe2053bcf56d2030d2470fb454574237cf9ee3d4b": {
       "chainId": "8217",
@@ -548,8 +532,7 @@
       "symbol": "USDC.e",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
       "assetGroup": "USDC",
-      "currencyId": "Bridged USDC (Stargate)::USDC.e",
-      "tags": ["stargate", "bridged"]
+      "currencyId": "Bridged USDC (Stargate)::USDC.e"
     },
     "0x6009950e4b05fba0f95fe799ce47b56e2de4a34f": {
       "chainId": "8217",
@@ -589,8 +572,7 @@
       "symbol": "wGCKAIA",
       "logoURI": "https://api.swapscanner.io/v0/tokens/0xa9999999c3d05fb75ce7230e0d22f5625527d583/icon",
       "assetGroup": "Wrapped Governance Council Kaia::wGCKAIA",
-      "currencyId": "Wrapped Governance Council Kaia::wGCKAIA",
-      "tags": ["RHOMBUS"]
+      "currencyId": "Wrapped Governance Council Kaia::wGCKAIA"
     },
     "0x4e4a231e864219704ccc1acd81043129157c1901": {
       "chainId": "8217",
@@ -690,8 +672,7 @@
       "symbol": "oUSDC",
       "logoURI": "https://coin-images.coingecko.com/coins/images/26943/large/ousdc.png?1696525998",
       "assetGroup": "USD Coin (Orbit Bridge)::oUSDC",
-      "currencyId": "USD Coin (Orbit Bridge)::oUSDC",
-      "tags": ["KLAYBANK"]
+      "currencyId": "USD Coin (Orbit Bridge)::oUSDC"
     },
     "0xef632e070df56371ad33a85148de398104ec55ab": {
       "chainId": "8217",
@@ -761,8 +742,7 @@
       "symbol": "KDAI",
       "logoURI": "https://coin-images.coingecko.com/coins/images/27010/large/download_%284%29.png?1696526062",
       "assetGroup": "Dai Stable Coin (Orbit Bridge)::KDAI",
-      "currencyId": "Dai Stable Coin (Orbit Bridge)::KDAI",
-      "tags": ["KLAYBANK"]
+      "currencyId": "Dai Stable Coin (Orbit Bridge)::KDAI"
     },
     "0x34d21b1e550d73cee41151c77f3c73359527a396": {
       "chainId": "8217",
@@ -772,8 +752,7 @@
       "symbol": "oETH",
       "logoURI": "https://ss.new.klayswap.com/data/img/token/0x34d21b1e550d73cee41151c77f3c73359527a396.svg",
       "assetGroup": "Ethereum (Orbit Bridge)::oETH",
-      "currencyId": "Ethereum (Orbit Bridge)::oETH",
-      "tags": ["KLAYBANK"]
+      "currencyId": "Ethereum (Orbit Bridge)::oETH"
     },
     "0x16d0e1fbd024c600ca0380a4c5d57ee7a2ecbf9c": {
       "chainId": "8217",
@@ -783,8 +762,7 @@
       "symbol": "oWBTC",
       "logoURI": "https://ss.new.klayswap.com/data/img/token/0x16d0e1fbd024c600ca0380a4c5d57ee7a2ecbf9c.svg",
       "assetGroup": "Wrapped Bitcoin (Orbit Bridge)::oWBTC",
-      "currencyId": "Wrapped Bitcoin (Orbit Bridge)::oWBTC",
-      "tags": ["KLAYBANK"]
+      "currencyId": "Wrapped Bitcoin (Orbit Bridge)::oWBTC"
     },
     "0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167": {
       "chainId": "8217",
@@ -794,8 +772,7 @@
       "symbol": "oUSDT",
       "logoURI": "https://coin-images.coingecko.com/coins/images/26273/large/-p1Br7oh_400x400.png?1696525357",
       "assetGroup": "Tether USD (Orbit Bridge)::oUSDT",
-      "currencyId": "Tether USD (Orbit Bridge)::oUSDT",
-      "tags": ["KLAP", "KLAYBANK"]
+      "currencyId": "Tether USD (Orbit Bridge)::oUSDT"
     },
     "0xfe41102f325deaa9f303fdd9484eb5911a7ba557": {
       "chainId": "8217",
@@ -895,8 +872,7 @@
       "symbol": "WEMIX",
       "logoURI": "https://ss.new.klayswap.com/data/img/token/0x5096db80b21ef45230c9e423c373f1fc9c0198dd.png",
       "assetGroup": "Wemix::WEMIX",
-      "currencyId": "Wemix::WEMIX",
-      "tags": ["KLAYBANK"]
+      "currencyId": "Wemix::WEMIX"
     },
     "0x321bc0b63efb1e4af08ec6d20c85d5e94ddaaa18": {
       "chainId": "8217",
@@ -1526,8 +1502,7 @@
       "symbol": "KSD",
       "logoURI": "https://api.swapscanner.io/v0/tokens/0x4fa62f1f404188ce860c8f0041d6ac3765a72e67/icon",
       "assetGroup": "KSD::KSD",
-      "currencyId": "KSD::KSD",
-      "tags": ["KLAP", "KLAYBANK"]
+      "currencyId": "KSD::KSD"
     },
     "0x7f223b1607171b81ebd68d22f1ca79157fd4a44b": {
       "chainId": "8217",
@@ -4527,8 +4502,7 @@
       "symbol": "DAI",
       "logoURI": "https://api.swapscanner.io/v0/tokens/0x078db7827a5531359f6cb63f62cfa20183c4f10c/icon",
       "assetGroup": "DAI",
-      "currencyId": "Bridged DAI (Synapse)::DAI",
-      "tags": ["bridged", "KLAP"]
+      "currencyId": "Bridged DAI (Synapse)::DAI"
     },
     "0x6270b58be569a7c0b8f47594f191631ae5b2c86c": {
       "chainId": "8217",
@@ -4538,8 +4512,7 @@
       "symbol": "USDC",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
       "assetGroup": "USD Coin (Synapse)::USDC",
-      "currencyId": "USD Coin (Synapse)::USDC",
-      "tags": ["KLAP"]
+      "currencyId": "USD Coin (Synapse)::USDC"
     },
     "0x089ebd525949ee505a48eb14eecba653bc8d1b97": {
       "chainId": "8217",
@@ -5229,8 +5202,7 @@
       "symbol": "TALK",
       "logoURI": "https://coin-images.coingecko.com/coins/images/18146/large/4NNLx3BF_400x400.jpg?1696517648",
       "assetGroup": "Talken (Portal Bridge)::TALK",
-      "currencyId": "Talken (Portal Bridge)::TALK",
-      "tags": ["portal", "bridged"]
+      "currencyId": "Talken (Portal Bridge)::TALK"
     },
     "0x9832505d3930150ae1ecafd85180432863525660": {
       "chainId": "8217",
@@ -6860,8 +6832,7 @@
       "symbol": "WETH",
       "logoURI": "https://api.swapscanner.io/v0/tokens/0xcd6f29dc9ca217d0973d3d21bf58edd3ca871a86/icon",
       "assetGroup": "Wrapped ETH (Synapse)::WETH",
-      "currencyId": "Wrapped ETH (Synapse)::WETH",
-      "tags": ["KLAP"]
+      "currencyId": "Wrapped ETH (Synapse)::WETH"
     },
     "0x8ab38eef81b84bf30d5edb67f763f352cc244d5f": {
       "chainId": "8217",
@@ -6941,8 +6912,7 @@
       "symbol": "USDT",
       "logoURI": "https://api.swapscanner.io/v0/tokens/0xd6dab4cff47df175349e6e7ee2bf7c40bb8c05a3/icon",
       "assetGroup": "Tether USD (Synapse)::USDT",
-      "currencyId": "Tether USD (Synapse)::USDT",
-      "tags": ["KLAP"]
+      "currencyId": "Tether USD (Synapse)::USDT"
     },
     "0xed948fd90b07a9e305b8a24f41bebc4ca1507de3": {
       "chainId": "8217",
@@ -7112,8 +7082,7 @@
       "symbol": "20portalAVAX-20portalBTC-20portalETH-20portalBNB-20WKLAY",
       "logoURI": "https://api.swapscanner.io/v0/tokens/0x801c1ffff83f9d7107d2de7424b336ce5ef22578/icon",
       "assetGroup": "20portalAVAX-20portalBTC-20portalETH-20portalBNB-20WKLAY::20portalAVAX-20portalBTC-20portalETH-20portalBNB-20WKLAY",
-      "currencyId": "20portalAVAX-20portalBTC-20portalETH-20portalBNB-20WKLAY::20portalAVAX-20portalBTC-20portalETH-20portalBNB-20WKLAY",
-      "tags": ["portal", "bridged"]
+      "currencyId": "20portalAVAX-20portalBTC-20portalETH-20portalBNB-20WKLAY::20portalAVAX-20portalBTC-20portalETH-20portalBNB-20WKLAY"
     },
     "0xb1f47254a4b267e0f8233de1a77b165fa6f29d37": {
       "chainId": "8217",
@@ -7503,8 +7472,7 @@
       "symbol": "PI MAINNET",
       "logoURI": "https://api.swapscanner.io/v0/tokens/0x43713a769b67dcaee106990d92eb0c9a5759b875/icon",
       "assetGroup": "Pi MainNet::PI MAINNET",
-      "currencyId": "Pi MainNet::PI MAINNET",
-      "tags": ["mainnet", "bridged"]
+      "currencyId": "Pi MainNet::PI MAINNET"
     },
     "0x970c21df8d04e21b6bbb54d219b55add2c06712a": {
       "chainId": "8217",
@@ -7734,8 +7702,7 @@
       "symbol": "NW",
       "logoURI": "https://api.swapscanner.io/v0/tokens/0xa8bcf517dc50b2bd34f91c66b0cf9e1c5ceba6eb/icon",
       "assetGroup": "Nomadworks::NW",
-      "currencyId": "Nomadworks::NW",
-      "tags": ["nomad", "bridged"]
+      "currencyId": "Nomadworks::NW"
     },
     "0x2a38b82bdc34f8acdc77aca8ab3289eaedc594b8": {
       "chainId": "8217",
@@ -8195,8 +8162,7 @@
       "symbol": "WBTC",
       "logoURI": "https://api.swapscanner.io/v0/tokens/0xdcbacf3f7a069922e677912998c8d57423c37dfa/icon",
       "assetGroup": "WBTC",
-      "currencyId": "Wrapped BTC (Synapse)::WBTC",
-      "tags": ["KLAP"]
+      "currencyId": "Wrapped BTC (Synapse)::WBTC"
     },
     "0xcd8fe44a29db9159db36f96570d7a4d91986f528": {
       "chainId": "8217",
@@ -9016,8 +8982,7 @@
       "symbol": "sUSDa",
       "logoURI": "https://assets.coingecko.com/coins/images/51821/thumb/USDA.png?1732035172",
       "assetGroup": "SUSDA",
-      "currencyId": "sUSDa::sUSDa",
-      "tags": ["AVALON", "AVALON_USDA"]
+      "currencyId": "sUSDa::sUSDa"
     },
     "0xdc3cf1961b08da169b078f7df6f26676bf6a4ff6": {
       "chainId": "8217",
@@ -9027,8 +8992,7 @@
       "symbol": "USDa",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/USDa.webp",
       "assetGroup": "USDa::USDa",
-      "currencyId": "USDa::USDa",
-      "tags": ["AVALON_USDA"]
+      "currencyId": "USDa::USDa"
     },
     "0x7132f567e833e7bf633265223e74f3be99be0762": {
       "chainId": "8217",
@@ -9328,8 +9292,7 @@
       "symbol": "WBTC",
       "logoURI": "https://api.swapscanner.io/v0/tokens/0x981846be8d2d697f4dfef6689a161a25ffbab8f9/icon",
       "assetGroup": "Wrapped BTC::WBTC",
-      "currencyId": "Wrapped BTC::WBTC",
-      "tags": ["KLAP"]
+      "currencyId": "Wrapped BTC::WBTC"
     },
     "0xc1a0e1cb257dcca2265f453d0b60ce7c46261780": {
       "chainId": "8217",
@@ -9889,8 +9852,7 @@
       "symbol": "ETH",
       "logoURI": "https://api.swapscanner.io/v0/tokens/0x2234fb338784f1961af1649f7009ebd44c613856/icon",
       "assetGroup": "Bridged ETH::ETH",
-      "currencyId": "Bridged ETH::ETH",
-      "tags": ["bridged"]
+      "currencyId": "Bridged ETH::ETH"
     },
     "0x7b79e295930d5cc0b5d1de94be265397fe97b5c0": {
       "chainId": "8217",
@@ -10639,8 +10601,7 @@
       "address": "0xe4f05a66ec68b54a58b17c22107b02e0232cc817",
       "symbol": "WKLAY",
       "assetGroup": "Wrapped Klay::WKLAY",
-      "currencyId": "Wrapped Klay::WKLAY",
-      "tags": ["KLAP", "KLAYBANK"]
+      "currencyId": "Wrapped Klay::WKLAY"
     },
     "0xe2765f3721dab5f080cf14ace661529e1ab9ade7": {
       "chainId": "8217",
@@ -10649,8 +10610,7 @@
       "address": "0xe2765f3721dab5f080cf14ace661529e1ab9ade7",
       "symbol": "BUSD",
       "assetGroup": "BUSD",
-      "currencyId": "BUSD Token::BUSD",
-      "tags": ["KLAP"]
+      "currencyId": "BUSD Token::BUSD"
     },
     "0xd0b995aebb7f0abf470f3ad90a9b1cd800f5417e": {
       "chainId": "8217",
@@ -10849,9 +10809,8 @@
       "address": "0xd077a400968890eacc75cdc901f0356c943e4fdb",
       "symbol": "USD₮",
       "logoURI": "https://api.swapscanner.io/v0/tokens/0xd077a400968890eacc75cdc901f0356c943e4fdb/icon",
-      "assetGroup": "USDT",
-      "currencyId": "Tether USD::USD₮",
-      "tags": ["AVALON"]
+      "assetGroup": "Tether USD::USD₮",
+      "currencyId": "Tether USD::USD₮"
     },
     "0x47cc74d34b6832105c2eb240059f8c16ed29c75f": {
       "chainId": "8217",
@@ -10932,8 +10891,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/kaia.webp",
       "assetGroup": "KAIA",
       "currencyId": "KAIA::KAIA",
-      "tags": ["native", "RHOMBUS", "AVALON", "AVALON_SKAIA", "wrapped:0x19aac5f612f524b754ca7e7c41cbfa2e981a4432"],
-      "props": { "isNative": true, "wrapped": "0x19aac5f612f524b754ca7e7c41cbfa2e981a4432" }
+      "props": { "isNative": true, "wrapped": "0x19aac5f612f524b754ca7e7c41cbfa2e981a4432" },
+      "tags": ["wnative"]
     }
   },
   "mainTokens": [
@@ -10976,28 +10935,5 @@
     "0x55acee547df909cf844e32dd66ee55a6f81dc71b",
     "0x2234fb338784f1961af1649f7009ebd44c613856",
     "0xd17795a7783dd1be6c21a5b54b89f5c5806d1ed5"
-  ],
-  "bridgeTokens": [
-    "0x0000000000000000000000000000000000000000",
-    "0x98a8345bb9d3dda9d808ca1c9142a28f6b0430e1",
-    "0x5c13e303a62fc5dedf5b52d66873f2e59fedadc2",
-    "0x608792deb376cce1c9fa4d0e6b7b44f507cffa6a",
-    "0xac9c1e4787139af4c751b1c0fadfb513c44ed833",
-    "0x45830b92443a8f750247da2a76c85c70d0f1ebf3",
-    "0x9025095263d1e548dc890a7589a4c78038ac40ab",
-    "0xe2053bcf56d2030d2470fb454574237cf9ee3d4b",
-    "0x4e4a231e864219704ccc1acd81043129157c1901",
-    "0x754288077d0ff82af7a5317c7cb8c444d421d103",
-    "0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167",
-    "0x6270b58be569a7c0b8f47594f191631ae5b2c86c",
-    "0xcd6f29dc9ca217d0973d3d21bf58edd3ca871a86",
-    "0xd6dab4cff47df175349e6e7ee2bf7c40bb8c05a3",
-    "0x56a8bda5210008dbab60f8bd9e34e42499c05800",
-    "0xdcbacf3f7a069922e677912998c8d57423c37dfa",
-    "0xcd8fe44a29db9159db36f96570d7a4d91986f528",
-    "0x7d8142a696ddbb8eaaa937696c35772190b234cb",
-    "0x55acee547df909cf844e32dd66ee55a6f81dc71b",
-    "0x981846be8d2d697f4dfef6689a161a25ffbab8f9",
-    "0xa2edb25c0ece2ad64eec7fca2d40ff6d22d87fbd"
   ]
 }

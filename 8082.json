@@ -31,8 +31,8 @@
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/8082/0x5eB65C6feC23d4eb36bC9966aA110Fe13FBd7c7F.png",
       "assetGroup": "Wrapped SHM::WSHM",
       "currencyId": "Wrapped SHM::WSHM",
-      "tags": ["wnative"],
-      "props": { "wnative": true }
+      "props": { "wnative": true },
+      "tags": ["wnative"]
     },
     "0x7e9fec46e66d1a7b7310d81c8f769cfe64b3d275": {
       "chainId": "8082",
@@ -63,14 +63,13 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/shm.webp",
       "assetGroup": "Wrapped SHM::WSHM",
       "currencyId": "Shardeum SHM::SHM",
-      "tags": ["native", "wrapped:0x5eb65c6fec23d4eb36bc9966aa110fe13fbd7c7f"],
-      "props": { "isNative": true, "wrapped": "0x5eb65c6fec23d4eb36bc9966aa110fe13fbd7c7f" }
+      "props": { "isNative": true, "wrapped": "0x5eb65c6fec23d4eb36bc9966aa110fe13fbd7c7f" },
+      "tags": ["wnative"]
     }
   },
   "mainTokens": [
     "0x0000000000000000000000000000000000000000",
     "0x43891084581fd07ee1189f3a2f04e51c26a95b77",
     "0x5eb65c6fec23d4eb36bc9966aa110fe13fbd7c7f"
-  ],
-  "bridgeTokens": ["0x0000000000000000000000000000000000000000", "0x43891084581fd07ee1189f3a2f04e51c26a95b77"]
+  ]
 }

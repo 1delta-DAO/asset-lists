@@ -10,21 +10,18 @@
       "symbol": "USDzC",
       "logoURI": "https://assets.coingecko.com/coins/images/35218/large/USDC_Icon.png?1707908537",
       "assetGroup": "USD Coin (Bridged from Ethereum)::USDzC",
-      "currencyId": "USD Coin (Bridged from Ethereum)::USDzC",
-      "tags": ["bridged"]
+      "currencyId": "USD Coin (Bridged from Ethereum)::USDzC"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "7777777",
       "address": "0x0000000000000000000000000000000000000000",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "currencyId": "Ether::ETH",
-      "tags": ["native"],
       "props": { "isNative": true },
       "name": "Ether",
       "symbol": "ETH",
       "decimals": 18
     }
   },
-  "mainTokens": ["0x0000000000000000000000000000000000000000"],
-  "bridgeTokens": ["0x0000000000000000000000000000000000000000"]
+  "mainTokens": ["0x0000000000000000000000000000000000000000"]
 }

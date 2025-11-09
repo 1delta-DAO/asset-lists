@@ -10,8 +10,7 @@
       "symbol": "HEBE",
       "logoURI": "https://assets.coingecko.com/coins/images/10367/thumb/hebeswap.jpeg?1696510369",
       "assetGroup": "HebeBlock::HEBE",
-      "currencyId": "HebeBlock::HEBE",
-      "tags": ["coingecko"]
+      "currencyId": "HebeBlock::HEBE"
     },
     "0xde093684c796204224bc081f937aa059d903c52a": {
       "chainId": "61",
@@ -21,8 +20,7 @@
       "symbol": "USC",
       "logoURI": "https://assets.coingecko.com/coins/images/37725/thumb/logo.png?1715334043",
       "assetGroup": "USC",
-      "currencyId": "Classic USD::USC",
-      "tags": ["coingecko"]
+      "currencyId": "Classic USD::USC"
     },
     "0x6c3b413c461c42a88160ed1b1b31d6f7b02a1c83": {
       "chainId": "61",
@@ -32,8 +30,7 @@
       "symbol": "ETCPOW",
       "logoURI": "https://assets.coingecko.com/coins/images/31770/thumb/ETCPOW_LOGO_1.png?1696530589",
       "assetGroup": "ETCPOW::ETCPOW",
-      "currencyId": "ETCPOW::ETCPOW",
-      "tags": ["coingecko"]
+      "currencyId": "ETCPOW::ETCPOW"
     },
     "0x1fdc495289b590e78d455cf7faa6cd804de5cbc1": {
       "chainId": "61",
@@ -43,8 +40,7 @@
       "symbol": "SHIBC",
       "logoURI": "https://assets.coingecko.com/coins/images/27241/thumb/1BED03B1-D87F-4E91-B24F-CDED9309D003.jpeg?1696526291",
       "assetGroup": "SHIBC",
-      "currencyId": "Shiba Classic::SHIBC",
-      "tags": ["coingecko"]
+      "currencyId": "Shiba Classic::SHIBC"
     },
     "0xd508f85f1511aaec63434e26aeb6d10be0188dc7": {
       "chainId": "61",
@@ -54,8 +50,7 @@
       "symbol": "MAWBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/29872/thumb/maWBTC.jpg?1696528797",
       "assetGroup": "Morpho Aave Wrapped BTC::MAWBTC",
-      "currencyId": "Morpho Aave Wrapped BTC::MAWBTC",
-      "tags": ["coingecko"]
+      "currencyId": "Morpho Aave Wrapped BTC::MAWBTC"
     },
     "0x82a618305706b14e7bcf2592d4b9324a366b6dad": {
       "chainId": "61",
@@ -66,8 +61,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/27126/thumb/1321.png?1696526178",
       "assetGroup": "Wrapped ETC::WETC",
       "currencyId": "Wrapped ETC::WETC",
-      "tags": ["coingecko", "wnative"],
-      "props": { "wnative": true }
+      "props": { "wnative": true },
+      "tags": ["wnative"]
     },
     "0x1953cab0e5bfa6d4a9bad6e05fd46c1cc6527a5a": {
       "chainId": "61",
@@ -77,8 +72,7 @@
       "symbol": "WETC",
       "logoURI": "https://assets.coingecko.com/coins/images/26639/thumb/wrapped-ether.png?1726646462",
       "assetGroup": "Wrapped ETC::WETC::61::0",
-      "currencyId": "Wrapped ETC::WETC",
-      "tags": ["coingecko"]
+      "currencyId": "Wrapped ETC::WETC"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "61",
@@ -89,8 +83,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/etc.webp",
       "assetGroup": "Wrapped ETC::WETC",
       "currencyId": "Ether::ETC",
-      "tags": ["native", "coingecko", "wrapped:0x82a618305706b14e7bcf2592d4b9324a366b6dad"],
-      "props": { "isNative": true, "wrapped": "0x82a618305706b14e7bcf2592d4b9324a366b6dad" }
+      "props": { "isNative": true, "wrapped": "0x82a618305706b14e7bcf2592d4b9324a366b6dad" },
+      "tags": ["wnative"]
     }
   },
   "mainTokens": [
@@ -102,6 +96,5 @@
     "0xd508f85f1511aaec63434e26aeb6d10be0188dc7",
     "0x82a618305706b14e7bcf2592d4b9324a366b6dad",
     "0x1953cab0e5bfa6d4a9bad6e05fd46c1cc6527a5a"
-  ],
-  "bridgeTokens": ["0x0000000000000000000000000000000000000000"]
+  ]
 }

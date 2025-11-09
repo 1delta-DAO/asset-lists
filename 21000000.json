@@ -11,8 +11,8 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/btcn.svg",
       "assetGroup": "Wrapped Bitcorn::WBTCN",
       "currencyId": "Wrapped Bitcorn::WBTCN",
-      "tags": ["coingecko", "wnative", "AVALON", "AVALON_LBTC", "ZEROLEND", "AVALON_SOLVBTC", "AVALON_PUMPBTC"],
-      "props": { "wnative": true }
+      "props": { "wnative": true },
+      "tags": ["wnative"]
     },
     "0xdf0b24095e15044538866576754f3c964e902ee6": {
       "chainId": "21000000",
@@ -22,8 +22,7 @@
       "symbol": "USDC.e",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usdc.svg",
       "assetGroup": "USDC",
-      "currencyId": "Bridged USDC::USDC.e",
-      "tags": ["bridged", "coingecko", "AVALON", "AVALON_USDA", "AVALON_LBTC"]
+      "currencyId": "Bridged USDC::USDC.e"
     },
     "0x485bbc4f98c071c9bd74ac255262e61f866f071a": {
       "chainId": "21000000",
@@ -73,8 +72,7 @@
       "symbol": "LBTC",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/lbtc.png",
       "assetGroup": "LBTC",
-      "currencyId": "Lombard Staked BTC::LBTC",
-      "tags": ["coingecko", "AVALON_LBTC", "ZEROLEND"]
+      "currencyId": "Lombard Staked BTC::LBTC"
     },
     "0xf469fbd2abcd6b9de8e169d128226c0fc90a012e": {
       "chainId": "21000000",
@@ -84,8 +82,7 @@
       "symbol": "pumpBTC",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/pumpbtc.png",
       "assetGroup": "PUMPBTC",
-      "currencyId": "pumpBTC::pumpBTC",
-      "tags": ["ZEROLEND", "AVALON_PUMPBTC"]
+      "currencyId": "pumpBTC::pumpBTC"
     },
     "0xa540133ce4be89dfcddbb6a6d5fb132676a21aa7": {
       "chainId": "21000000",
@@ -105,8 +102,7 @@
       "symbol": "SolvBTC",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/SolvBTC.webp",
       "assetGroup": "SOLVBTC",
-      "currencyId": "Solv BTC::SolvBTC",
-      "tags": ["coingecko", "AVALON_SOLVBTC"]
+      "currencyId": "Solv BTC::SolvBTC"
     },
     "0xcc0966d8418d412c599a6421b760a847eb169a8c": {
       "chainId": "21000000",
@@ -116,8 +112,7 @@
       "symbol": "xSolvBTC",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/xSolvBTC.webp",
       "assetGroup": "XSOLVBTC",
-      "currencyId": "xSolvBTC::xSolvBTC",
-      "tags": ["coingecko", "AVALON_SOLVBTC"]
+      "currencyId": "xSolvBTC::xSolvBTC"
     },
     "0x2840f9d9f96321435ab0f977e7fdbf32ea8b304f": {
       "chainId": "21000000",
@@ -127,8 +122,7 @@
       "symbol": "sUSDa",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/susda.svg",
       "assetGroup": "SUSDA",
-      "currencyId": "sUSDa::sUSDa",
-      "tags": ["AVALON_USDA"]
+      "currencyId": "sUSDa::sUSDa"
     },
     "0xff12470a969dd362eb6595ffb44c82c959fe9acc": {
       "chainId": "21000000",
@@ -138,8 +132,7 @@
       "symbol": "USDa",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/usda.svg",
       "assetGroup": "USDa::USDa",
-      "currencyId": "USDa::USDa",
-      "tags": ["AVALON_USDA"]
+      "currencyId": "USDa::USDa"
     },
     "0x93919784c523f39cacaa98ee0a9d96c3f32b593e": {
       "chainId": "21000000",
@@ -149,8 +142,7 @@
       "symbol": "uniBTC",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/unibtc.svg",
       "assetGroup": "UNIBTC",
-      "currencyId": "uniBTC::uniBTC",
-      "tags": ["coingecko"]
+      "currencyId": "uniBTC::uniBTC"
     },
     "0x44f49ff0da2498bcb1d3dc7c0f999578f67fd8c6": {
       "chainId": "21000000",
@@ -160,8 +152,7 @@
       "symbol": "CORN",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/corn.png",
       "assetGroup": "Corn::CORN",
-      "currencyId": "Corn::CORN",
-      "tags": ["coingecko"]
+      "currencyId": "Corn::CORN"
     },
     "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb": {
       "chainId": "21000000",
@@ -171,8 +162,7 @@
       "symbol": "USDT0",
       "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183",
       "assetGroup": "USDT0::USDT0",
-      "currencyId": "USDT0::USDT0",
-      "tags": ["coingecko"]
+      "currencyId": "USDT0::USDT0"
     },
     "0x9cf9f00f3498c2ac856097087e041523dfdd71ff": {
       "chainId": "21000000",
@@ -191,8 +181,7 @@
       "address": "0x657e8c867d8b37dcc18fa4caead9c45eb088c642",
       "symbol": "eBTC",
       "assetGroup": "ether.fi BTC::eBTC",
-      "currencyId": "ether.fi BTC::eBTC",
-      "tags": ["ZEROLEND"]
+      "currencyId": "ether.fi BTC::eBTC"
     },
     "0x7311ded199cc28d80e58e81e8589aa160199fcd2": {
       "chainId": "21000000",
@@ -202,8 +191,7 @@
       "symbol": "LINK",
       "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
       "assetGroup": "LINK",
-      "currencyId": "ChainLink Token::LINK",
-      "tags": ["coingecko"]
+      "currencyId": "ChainLink Token::LINK"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "21000000",
@@ -214,17 +202,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/btcn.webp",
       "assetGroup": "Wrapped Bitcorn::WBTCN",
       "currencyId": "Bitcorn::BTCN",
-      "tags": [
-        "native",
-        "coingecko",
-        "AVALON",
-        "AVALON_LBTC",
-        "ZEROLEND",
-        "AVALON_SOLVBTC",
-        "AVALON_PUMPBTC",
-        "wrapped:0xda5ddd7270381a7c2717ad10d1c0ecb19e3cdfb2"
-      ],
-      "props": { "isNative": true, "wrapped": "0xda5ddd7270381a7c2717ad10d1c0ecb19e3cdfb2" }
+      "props": { "isNative": true, "wrapped": "0xda5ddd7270381a7c2717ad10d1c0ecb19e3cdfb2" },
+      "tags": ["wnative"]
     }
   },
   "mainTokens": [
@@ -239,11 +218,5 @@
     "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
     "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
     "0x7311ded199cc28d80e58e81e8589aa160199fcd2"
-  ],
-  "bridgeTokens": [
-    "0x0000000000000000000000000000000000000000",
-    "0xdf0b24095e15044538866576754f3c964e902ee6",
-    "0x485bbc4f98c071c9bd74ac255262e61f866f071a",
-    "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb"
   ]
 }

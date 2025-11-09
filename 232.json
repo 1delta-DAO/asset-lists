@@ -46,7 +46,6 @@
       "address": "0x0000000000000000000000000000000000000000",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/gho.webp",
       "currencyId": "GHO::GHO",
-      "tags": ["native"],
       "props": { "isNative": true },
       "name": "GHO",
       "symbol": "GHO",
@@ -54,11 +53,6 @@
     }
   },
   "mainTokens": [
-    "0x0000000000000000000000000000000000000000",
-    "0x88f08e304ec4f90d644cec3fb69b8ad414acf884",
-    "0xe5ecd226b3032910ceaa43ba92ee8232f8237553"
-  ],
-  "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",
     "0x88f08e304ec4f90d644cec3fb69b8ad414acf884",
     "0xe5ecd226b3032910ceaa43ba92ee8232f8237553"

@@ -11,8 +11,8 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/ghst.svg",
       "assetGroup": "WGHST",
       "currencyId": "Wrapped GHST::WGHST",
-      "tags": ["wnative"],
-      "props": { "wnative": true }
+      "props": { "wnative": true },
+      "tags": ["wnative"]
     },
     "0xcfa0bc1ed6135166e9163211b4ca566a0ee81e35": {
       "chainId": "63157",
@@ -33,14 +33,13 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/ghst.webp",
       "assetGroup": "WGHST",
       "currencyId": "Aavegotchi GHST Token::GHST",
-      "tags": ["native", "wrapped:0x74e2051a9cd994f83f2d789448dca4a3e879964c"],
-      "props": { "isNative": true, "wrapped": "0x74e2051a9cd994f83f2d789448dca4a3e879964c" }
+      "props": { "isNative": true, "wrapped": "0x74e2051a9cd994f83f2d789448dca4a3e879964c" },
+      "tags": ["wnative"]
     }
   },
   "mainTokens": [
     "0x0000000000000000000000000000000000000000",
     "0xcfa0bc1ed6135166e9163211b4ca566a0ee81e35",
     "0x74e2051a9cd994f83f2d789448dca4a3e879964c"
-  ],
-  "bridgeTokens": ["0x0000000000000000000000000000000000000000", "0xcfa0bc1ed6135166e9163211b4ca566a0ee81e35"]
+  ]
 }

@@ -11,8 +11,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000025/0x2b1a859de6a55c553520d7780bc5805712b128f9/small/token-logo.png",
       "assetGroup": "Wrapped Sophon::WSOPH",
       "currencyId": "Wrapped Sophon::WSOPH",
-      "tags": ["debridge", "wnative"],
-      "props": { "wnative": true }
+      "props": { "wnative": true },
+      "tags": ["wnative"]
     },
     "0x9aa0f72392b5784ad86c6f3e899bcc053d00db4f": {
       "chainId": "50104",
@@ -22,8 +22,7 @@
       "symbol": "USDC",
       "logoURI": "https://tokens.debridge.finance/Logo/100000025/0x9aa0f72392b5784ad86c6f3e899bcc053d00db4f/small/token-logo.png",
       "assetGroup": "USDC",
-      "currencyId": "USDC::USDC",
-      "tags": ["debridge"]
+      "currencyId": "USDC::USDC"
     },
     "0x6386da73545ae4e2b2e0393688fa8b65bb9a7169": {
       "chainId": "50104",
@@ -33,8 +32,7 @@
       "symbol": "USDT",
       "logoURI": "https://tokens.debridge.finance/Logo/100000025/0x6386da73545ae4e2b2e0393688fa8b65bb9a7169/small/token-logo.png",
       "assetGroup": "USDT",
-      "currencyId": "Sophon Bridged USDT (Sophon)::USDT",
-      "tags": ["bridged", "debridge"]
+      "currencyId": "Sophon Bridged USDT (Sophon)::USDT"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "50104",
@@ -45,19 +43,14 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/soph.webp",
       "assetGroup": "Wrapped Sophon::WSOPH",
       "currencyId": "Sophon::SOPH",
-      "tags": ["native", "debridge", "wrapped:0x2b1a859de6a55c553520d7780bc5805712b128f9"],
-      "props": { "isNative": true, "wrapped": "0x2b1a859de6a55c553520d7780bc5805712b128f9" }
+      "props": { "isNative": true, "wrapped": "0x2b1a859de6a55c553520d7780bc5805712b128f9" },
+      "tags": ["wnative"]
     }
   },
   "mainTokens": [
     "0x0000000000000000000000000000000000000000",
     "0x9aa0f72392b5784ad86c6f3e899bcc053d00db4f",
     "0x2b1a859de6a55c553520d7780bc5805712b128f9",
-    "0x6386da73545ae4e2b2e0393688fa8b65bb9a7169"
-  ],
-  "bridgeTokens": [
-    "0x0000000000000000000000000000000000000000",
-    "0x9aa0f72392b5784ad86c6f3e899bcc053d00db4f",
     "0x6386da73545ae4e2b2e0393688fa8b65bb9a7169"
   ]
 }

@@ -10,8 +10,7 @@
       "symbol": "TZPEPE",
       "logoURI": "https://assets.coingecko.com/coins/images/53279/thumb/tzPEPE_%281%29.jpeg?1735957333",
       "assetGroup": "Tezos Pepe::TZPEPE",
-      "currencyId": "Tezos Pepe::TZPEPE",
-      "tags": ["coingecko"]
+      "currencyId": "Tezos Pepe::TZPEPE"
     },
     "0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab": {
       "chainId": "42793",
@@ -22,8 +21,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/51172/thumb/WXTZ_Logo_black.png?1741099768",
       "assetGroup": "XTZ",
       "currencyId": "Wrapped XTZ::WXTZ",
-      "tags": ["coingecko", "wnative"],
-      "props": { "wnative": true }
+      "props": { "wnative": true },
+      "tags": ["wnative"]
     },
     "0x2c03058c8afc06713be23e58d2febc8337dbfe6a": {
       "chainId": "42793",
@@ -33,8 +32,7 @@
       "symbol": "USDT",
       "logoURI": "https://assets.coingecko.com/coins/images/39662/thumb/tether.png?1723525619",
       "assetGroup": "USDT",
-      "currencyId": "Bridged USDT (Etherlink)::USDT",
-      "tags": ["bridged", "coingecko"]
+      "currencyId": "Bridged USDT (Etherlink)::USDT"
     },
     "0x796ea11fa2dd751ed01b53c372ffdb4aaa8f00f9": {
       "chainId": "42793",
@@ -44,8 +42,7 @@
       "symbol": "USDC",
       "logoURI": "https://assets.coingecko.com/coins/images/39584/thumb/USDC-icon.webp?1723013425",
       "assetGroup": "USDC",
-      "currencyId": "Bridged USDC (Etherlink)::USDC",
-      "tags": ["bridged", "coingecko"]
+      "currencyId": "Bridged USDC (Etherlink)::USDC"
     },
     "0xfc24f770f94edbca6d6f885e12d4317320bcb401": {
       "chainId": "42793",
@@ -55,8 +52,7 @@
       "symbol": "WETH",
       "logoURI": "https://assets.coingecko.com/coins/images/39723/thumb/WETH.PNG?1723733967",
       "assetGroup": "ETH",
-      "currencyId": "Bridged WETH::WETH",
-      "tags": ["bridged", "coingecko"]
+      "currencyId": "Bridged WETH::WETH"
     },
     "0xbfc94cd2b1e55999cfc7347a9313e88702b83d0f": {
       "chainId": "42793",
@@ -66,8 +62,7 @@
       "symbol": "WBTC",
       "logoURI": "https://tokens.pancakeswap.finance/images/symbol/wbtc.png",
       "assetGroup": "WBTC",
-      "currencyId": "Wrapped BTC::WBTC",
-      "tags": ["coingecko"]
+      "currencyId": "Wrapped BTC::WBTC"
     },
     "0xaa40a1cc1561c584b675cbd12f1423a32e2a0d8c": {
       "chainId": "42793",
@@ -107,8 +102,7 @@
       "symbol": "IDRX",
       "logoURI": "https://assets.coingecko.com/coins/images/34883/thumb/IDRX_BLUE_COIN_200x200.png?1734983273",
       "assetGroup": "IDRX::IDRX",
-      "currencyId": "IDRX::IDRX",
-      "tags": ["coingecko"]
+      "currencyId": "IDRX::IDRX"
     },
     "0x01f07f4d78d47a64f4c3b2b65f513f15be6e1854": {
       "chainId": "42793",
@@ -118,8 +112,7 @@
       "symbol": "STXTZ",
       "logoURI": "https://assets.coingecko.com/coins/images/66203/thumb/stXTZ_token_200.png?1748669715",
       "assetGroup": "Stacy Staked XTZ::STXTZ",
-      "currencyId": "Stacy Staked XTZ::STXTZ",
-      "tags": ["coingecko"]
+      "currencyId": "Stacy Staked XTZ::STXTZ"
     },
     "0xecac9c5f704e954931349da37f60e39f515c11c1": {
       "chainId": "42793",
@@ -129,8 +122,7 @@
       "symbol": "LBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/39969/standard/LBTC_Logo.png?1724959872",
       "assetGroup": "LBTC",
-      "currencyId": "Lombard Staked BTC::LBTC",
-      "tags": ["coingecko"]
+      "currencyId": "Lombard Staked BTC::LBTC"
     },
     "0x6b43732a9ae9f8654d496c0a075aa4aa43057a0b": {
       "chainId": "42793",
@@ -140,8 +132,7 @@
       "symbol": "CNDY",
       "logoURI": "https://static.debank.com/image/ethlink_token/logo_url/0x6b43732a9ae9f8654d496c0a075aa4aa43057a0b/f05befb1cb616d84b999d7096f266e50.png",
       "assetGroup": "Sugarverse::CNDY",
-      "currencyId": "Sugarverse::CNDY",
-      "tags": ["coingecko"]
+      "currencyId": "Sugarverse::CNDY"
     },
     "0x2247b5a46bb79421a314ab0f0b67ffd11dd37ee4": {
       "chainId": "42793",
@@ -151,8 +142,7 @@
       "symbol": "MBASIS",
       "logoURI": "https://assets.coingecko.com/coins/images/50593/thumb/mBASIS_logo.png?1728444389",
       "assetGroup": "Midas mBASIS::MBASIS",
-      "currencyId": "Midas mBASIS::MBASIS",
-      "tags": ["coingecko"]
+      "currencyId": "Midas mBASIS::MBASIS"
     },
     "0xdd629e5241cbc5919847783e6c96b2de4754e438": {
       "chainId": "42793",
@@ -162,8 +152,7 @@
       "symbol": "MTBILL",
       "logoURI": "https://assets.coingecko.com/coins/images/37839/thumb/mTBILL_token.png?1728417279",
       "assetGroup": "Midas mTBILL::MTBILL",
-      "currencyId": "Midas mTBILL::MTBILL",
-      "tags": ["coingecko"]
+      "currencyId": "Midas mTBILL::MTBILL"
     },
     "0x79052ab3c166d4899a1e0dd033ac3b379af0b1fd": {
       "chainId": "42793",
@@ -173,8 +162,7 @@
       "symbol": "XU3O8",
       "logoURI": "https://assets.coingecko.com/coins/images/67758/thumb/xu.png?1753733711",
       "assetGroup": "Uranium::XU3O8",
-      "currencyId": "Uranium::XU3O8",
-      "tags": ["coingecko"]
+      "currencyId": "Uranium::XU3O8"
     },
     "0xe4880249745eac5f1ed9d8f7df844792d560e750": {
       "chainId": "42793",
@@ -184,8 +172,7 @@
       "symbol": "USTBL",
       "logoURI": "https://assets.coingecko.com/coins/images/39666/thumb/USTB.png?1723541269",
       "assetGroup": "Spiko US T Bills Money Market Fund::USTBL",
-      "currencyId": "Spiko US T Bills Money Market Fund::USTBL",
-      "tags": ["coingecko"]
+      "currencyId": "Spiko US T Bills Money Market Fund::USTBL"
     },
     "0xa0769f7a8fc65e47de93797b4e21c073c117fc80": {
       "chainId": "42793",
@@ -195,8 +182,7 @@
       "symbol": "EUTBL",
       "logoURI": "https://assets.coingecko.com/coins/images/39657/thumb/EUTBL.png?1723517425",
       "assetGroup": "Spiko EU T Bills Money Market Fund::EUTBL",
-      "currencyId": "Spiko EU T Bills Money Market Fund::EUTBL",
-      "tags": ["coingecko"]
+      "currencyId": "Spiko EU T Bills Money Market Fund::EUTBL"
     },
     "0x8ce7618e8f8e514d13889283f58ff03b794e6cc3": {
       "chainId": "42793",
@@ -206,8 +192,7 @@
       "symbol": "LINK",
       "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
       "assetGroup": "LINK",
-      "currencyId": "ChainLink Token::LINK",
-      "tags": ["coingecko"]
+      "currencyId": "ChainLink Token::LINK"
     },
     "0x733d504435a49fc8c4e9759e756c2846c92f0160": {
       "chainId": "42793",
@@ -217,8 +202,7 @@
       "symbol": "MRE7YIELD",
       "logoURI": "https://assets.coingecko.com/coins/images/54660/thumb/mre7yield_logo.png?1740896178",
       "assetGroup": "Midas mRe7YIELD::MRE7YIELD",
-      "currencyId": "Midas mRe7YIELD::MRE7YIELD",
-      "tags": ["coingecko"]
+      "currencyId": "Midas mRe7YIELD::MRE7YIELD"
     },
     "0x5542f82389b76c23f5848268893234d8a63fd5c8": {
       "chainId": "42793",
@@ -228,8 +212,7 @@
       "symbol": "MMEV",
       "logoURI": "https://assets.coingecko.com/coins/images/54592/thumb/mmev_logo.png?1740565795",
       "assetGroup": "Midas mMEV::MMEV",
-      "currencyId": "Midas mMEV::MMEV",
-      "tags": ["coingecko"]
+      "currencyId": "Midas mMEV::MMEV"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "42793",
@@ -240,8 +223,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/xtz.webp",
       "assetGroup": "XTZ",
       "currencyId": "tez::XTZ",
-      "tags": ["native", "coingecko", "wrapped:0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab"],
-      "props": { "isNative": true, "wrapped": "0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab" }
+      "props": { "isNative": true, "wrapped": "0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab" },
+      "tags": ["wnative"]
     }
   },
   "mainTokens": [
@@ -266,14 +249,5 @@
     "0x8ce7618e8f8e514d13889283f58ff03b794e6cc3",
     "0x733d504435a49fc8c4e9759e756c2846c92f0160",
     "0x5542f82389b76c23f5848268893234d8a63fd5c8"
-  ],
-  "bridgeTokens": [
-    "0x0000000000000000000000000000000000000000",
-    "0x2c03058c8afc06713be23e58d2febc8337dbfe6a",
-    "0x796ea11fa2dd751ed01b53c372ffdb4aaa8f00f9",
-    "0xfc24f770f94edbca6d6f885e12d4317320bcb401",
-    "0xbfc94cd2b1e55999cfc7347a9313e88702b83d0f",
-    "0xaa40a1cc1561c584b675cbd12f1423a32e2a0d8c",
-    "0xe820995cd39b6e09eaa7e4e16337184b4a61b644"
   ]
 }

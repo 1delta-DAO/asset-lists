@@ -190,8 +190,7 @@
       "symbol": "BTT.e",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x65676055E58b02E61272Cedec6E5C6D56BADfb86.jpg",
       "assetGroup": "BTT",
-      "currencyId": "Bridged Wrapped BitTorrent Ethereum::BTT.e",
-      "tags": ["bridged"]
+      "currencyId": "Bridged Wrapped BitTorrent Ethereum::BTT.e"
     },
     "0xcbb9edf6775e39748ea6483a7fa6a385cd7e9a4e": {
       "chainId": "199",
@@ -201,8 +200,7 @@
       "symbol": "BTT.b",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0xcBb9EDF6775e39748Ea6483A7fa6a385Cd7E9a4E.jpg",
       "assetGroup": "BTT",
-      "currencyId": "Bridged Wrapped BitTorrent BSC::BTT.b",
-      "tags": ["bridged"]
+      "currencyId": "Bridged Wrapped BitTorrent BSC::BTT.b"
     },
     "0x23181f21dea5936e24163ffaba4ea3b316b57f3c": {
       "chainId": "199",
@@ -213,8 +211,8 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x0000000000000000000000000000000000001010.jpg",
       "assetGroup": "Wrapped BitTorrent::WBTT",
       "currencyId": "Wrapped BitTorrent::WBTT",
-      "tags": ["wnative"],
-      "props": { "wnative": true }
+      "props": { "wnative": true },
+      "tags": ["wnative"]
     },
     "0x53c56ece35f8cab135e13d6d00499dfc7c07a92e": {
       "chainId": "199",
@@ -224,8 +222,7 @@
       "symbol": "SUSHI.e",
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x53C56ece35f8CaB135e13D6d00499Dfc7c07A92e.jpg",
       "assetGroup": "Bridged SUSHI::SUSHI.e",
-      "currencyId": "Bridged SUSHI::SUSHI.e",
-      "tags": ["bridged"]
+      "currencyId": "Bridged SUSHI::SUSHI.e"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "199",
@@ -236,8 +233,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/btt.webp",
       "assetGroup": "Wrapped BitTorrent::WBTT",
       "currencyId": "BitTorrent::BTT",
-      "tags": ["native", "wrapped:0x23181f21dea5936e24163ffaba4ea3b316b57f3c"],
-      "props": { "isNative": true, "wrapped": "0x23181f21dea5936e24163ffaba4ea3b316b57f3c" }
+      "props": { "isNative": true, "wrapped": "0x23181f21dea5936e24163ffaba4ea3b316b57f3c" },
+      "tags": ["wnative"]
     }
   },
   "mainTokens": [
@@ -264,16 +261,5 @@
     "0x65676055e58b02e61272cedec6e5c6d56badfb86",
     "0xcbb9edf6775e39748ea6483a7fa6a385cd7e9a4e",
     "0x53c56ece35f8cab135e13d6d00499dfc7c07a92e"
-  ],
-  "bridgeTokens": [
-    "0x0000000000000000000000000000000000000000",
-    "0x1249c65afb11d179ffb3ce7d4eedd1d9b98ad006",
-    "0x9b5f27f6ea9bbd753ce3793a07cba3c74644330d",
-    "0xe887512ab8bc60bcc9224e1c3b5be68e26048b8b",
-    "0xdb28719f7f938507dbfe4f0eae55668903d34a15",
-    "0xca424b845497f7204d9301bd13ff87c0e2e86fcf",
-    "0xae17940943ba9440540940db0f1877f101d39e8b",
-    "0x935faa2fcec6ab81265b301a30467bbc804b43d3",
-    "0x185a4091027e2db459a2433f85f894dc3013aeb5"
   ]
 }

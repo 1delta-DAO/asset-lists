@@ -8321,8 +8321,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "assetGroup": "ETH",
       "currencyId": "Ethereum::ETH",
-      "tags": ["wnative"],
-      "props": { "wnative": true }
+      "props": { "wnative": true },
+      "tags": ["wnative"]
     },
     "0x1d5d97005e41cae2187a895fd8eab0506111e0e2f3331cd3912c15c24e3c1d82": {
       "chainId": "fuel",
@@ -8342,8 +8342,7 @@
       "symbol": "WETH",
       "logoURI": "https://verified-assets.fuel.network/images/weth.svg",
       "assetGroup": "ETH",
-      "currencyId": "Bridged WETH::WETH",
-      "tags": ["bridged"]
+      "currencyId": "Bridged WETH::WETH"
     },
     "0x239ed6e12b7ce4089ee245244e3bf906999a6429c2a9a445a1e1faf56914a4ab": {
       "chainId": "fuel",
@@ -8663,12 +8662,5 @@
     "0xbae80f7fb8aa6b90d9b01ef726ec847cc4f59419c4d5f2ea88fec785d1b0e849",
     "0xf3f9a0ed0ce8eac5f89d6b83e41b3848212d5b5f56108c54a205bb228ca30c16",
     "0x7843c74bef935e837f2bcf67b5d64ecb46dd53ff86375530b0caf3699e8ffafe"
-  ],
-  "bridgeTokens": [
-    "0x0000000000000000000000000000000000000000",
-    "0xf8f8b6283d7fa5b672b530cbb84fcccb4ff8dc40f8176ef4544ddb1f1952ad07",
-    "0xa38a5a8beeb08d95744bc7f58528073f4052b254def59eba20c99c202b5acaa3",
-    "0x286c479da40dc953bddc3bb4c453b608bba2e0ac483b077bd475174115395e6b",
-    "0xa0265fb5c32f6e8db3197af3c7eb05c48ae373605b8165b6f4a51c5b0ba4812e"
   ]
 }

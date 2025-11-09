@@ -11,8 +11,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0x4200000000000000000000000000000000000006/small/token-logo.png",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "tags": ["wnative", "debridge"],
-      "props": { "wnative": true }
+      "props": { "wnative": true },
+      "tags": ["wnative"]
     },
     "0x05d032ac25d322df992303dca074ee7392c117b9": {
       "chainId": "60808",
@@ -22,8 +22,7 @@
       "symbol": "USDT",
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0x05d032ac25d322df992303dca074ee7392c117b9/small/token-logo.png",
       "assetGroup": "USDT",
-      "currencyId": "Tether USD::USDT",
-      "tags": ["debridge", "SEGMENT"]
+      "currencyId": "Tether USD::USDT"
     },
     "0xb5686c4f60904ec2bda6277d6fe1f7caa8d1b41a": {
       "chainId": "60808",
@@ -33,8 +32,7 @@
       "symbol": "rETH",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/60808/0xB5686c4f60904Ec2BDA6277d6FE1F7cAa8D1b41a.png",
       "assetGroup": "RETH",
-      "currencyId": "Rocket Pool ETH::rETH",
-      "tags": ["SEGMENT"]
+      "currencyId": "Rocket Pool ETH::rETH"
     },
     "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3": {
       "chainId": "60808",
@@ -44,8 +42,7 @@
       "symbol": "WBTC",
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3/small/token-logo.png",
       "assetGroup": "WBTC",
-      "currencyId": "Wrapped BTC::WBTC",
-      "tags": ["debridge", "AVALON_UNIBTC", "AVALON_BOB", "SEGMENT"]
+      "currencyId": "Wrapped BTC::WBTC"
     },
     "0xbba2ef945d523c4e2608c9e1214c2cc64d4fc2e2": {
       "chainId": "60808",
@@ -55,8 +52,7 @@
       "symbol": "tBTC",
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0xbba2ef945d523c4e2608c9e1214c2cc64d4fc2e2/small/token-logo.png",
       "assetGroup": "TBTC",
-      "currencyId": "tBTC v2::tBTC",
-      "tags": ["debridge", "AVALON_BOB", "SEGMENT"]
+      "currencyId": "tBTC v2::tBTC"
     },
     "0x85008ae6198bc91ac0735cb5497cf125ddaac528": {
       "chainId": "60808",
@@ -66,8 +62,7 @@
       "symbol": "wstETH",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/60808/0x85008aE6198BC91aC0735CB5497CF125ddAAc528.png",
       "assetGroup": "WSTETH",
-      "currencyId": "Wrapped liquid staked Ether 2.0::wstETH",
-      "tags": ["SEGMENT"]
+      "currencyId": "Wrapped liquid staked Ether 2.0::wstETH"
     },
     "0xe75d0fb2c24a55ca1e3f96781a2bcc7bdba058f0": {
       "chainId": "60808",
@@ -77,8 +72,7 @@
       "symbol": "USDC.e",
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0xe75d0fb2c24a55ca1e3f96781a2bcc7bdba058f0/small/token-logo.png",
       "assetGroup": "USDC",
-      "currencyId": "Bridged USDC::USDC.e",
-      "tags": ["bridged", "debridge", "SEGMENT"]
+      "currencyId": "Bridged USDC::USDC.e"
     },
     "0x6c851f501a3f24e29a8e39a29591cddf09369080": {
       "chainId": "60808",
@@ -88,8 +82,7 @@
       "symbol": "DAI",
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0x6c851f501a3f24e29a8e39a29591cddf09369080/small/token-logo.png",
       "assetGroup": "DAI",
-      "currencyId": "Dai Stablecoin::DAI",
-      "tags": ["debridge", "SEGMENT"]
+      "currencyId": "Dai Stablecoin::DAI"
     },
     "0xba20a5e63eeefffa6fd365e7e540628f8fc61474": {
       "chainId": "60808",
@@ -99,8 +92,7 @@
       "symbol": "SOV",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/60808/0xba20a5e63eeEFfFA6fD365E7e540628F8fC61474.png",
       "assetGroup": "SOV::SOV",
-      "currencyId": "SOV::SOV",
-      "tags": ["SEGMENT"]
+      "currencyId": "SOV::SOV"
     },
     "0x96147a9ae9a42d7da551fd2322ca15b71032f342": {
       "chainId": "60808",
@@ -110,8 +102,7 @@
       "symbol": "STONE",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/60808/0x96147A9Ae9a42d7Da551fD2322ca15B71032F342.png",
       "assetGroup": "STONE",
-      "currencyId": "StakeStone Ether::STONE",
-      "tags": ["SEGMENT"]
+      "currencyId": "StakeStone Ether::STONE"
     },
     "0x6db2721586abcc682b44c5425b97f3c27ffb5b27": {
       "chainId": "60808",
@@ -141,8 +132,7 @@
       "symbol": "Satoshi Stablecoin V2",
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0xecf21b335b41f9d5a89f6186a99c19a3c467871f/small/token-logo.png",
       "assetGroup": "satUSD::Satoshi Stablecoin V2",
-      "currencyId": "satUSD::Satoshi Stablecoin V2",
-      "tags": ["debridge", "SEGMENT"]
+      "currencyId": "satUSD::Satoshi Stablecoin V2"
     },
     "0xc96de26018a54d51c097160568752c4e3bd6c364": {
       "chainId": "60808",
@@ -152,8 +142,7 @@
       "symbol": "FBTC",
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0xc96de26018a54d51c097160568752c4e3bd6c364/small/token-logo.png",
       "assetGroup": "FBTC",
-      "currencyId": "Fire Bitcoin::FBTC",
-      "tags": ["debridge", "SEGMENT"]
+      "currencyId": "Fire Bitcoin::FBTC"
     },
     "0x541fd749419ca806a8bc7da8ac23d346f2df8b77": {
       "chainId": "60808",
@@ -163,8 +152,7 @@
       "symbol": "SolvBTC",
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0x541fd749419ca806a8bc7da8ac23d346f2df8b77/small/token-logo.png",
       "assetGroup": "SOLVBTC",
-      "currencyId": "Solv BTC::SolvBTC",
-      "tags": ["debridge", "AVALON_BOB", "SEGMENT"]
+      "currencyId": "Solv BTC::SolvBTC"
     },
     "0xa45d4121b3d47719ff57a947a9d961539ba33204": {
       "chainId": "60808",
@@ -174,8 +162,7 @@
       "symbol": "LBTC",
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0xa45d4121b3d47719ff57a947a9d961539ba33204/small/token-logo.svg",
       "assetGroup": "LBTC",
-      "currencyId": "Lombard Staked BTC::LBTC",
-      "tags": ["debridge", "SEGMENT"]
+      "currencyId": "Lombard Staked BTC::LBTC"
     },
     "0x9998e05030aee3af9ad3df35a34f5c51e1628779": {
       "chainId": "60808",
@@ -185,8 +172,7 @@
       "symbol": "HybridBTC.pendle",
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0x9998e05030aee3af9ad3df35a34f5c51e1628779/small/token-logo.svg",
       "assetGroup": "Hybrid Bitcoin::HybridBTC.pendle",
-      "currencyId": "Hybrid Bitcoin::HybridBTC.pendle",
-      "tags": ["debridge"]
+      "currencyId": "Hybrid Bitcoin::HybridBTC.pendle"
     },
     "0x2d1da9a6a23724cbd65188b3f9a6758f2a57c059": {
       "chainId": "60808",
@@ -196,8 +182,7 @@
       "symbol": "PEBOB",
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0x2d1da9a6a23724cbd65188b3f9a6758f2a57c059/small/token-logo.png",
       "assetGroup": "PepeBOB::PEBOB",
-      "currencyId": "PepeBOB::PEBOB",
-      "tags": ["debridge"]
+      "currencyId": "PepeBOB::PEBOB"
     },
     "0x236f8c0a61da474db21b693fb2ea7aab0c803894": {
       "chainId": "60808",
@@ -207,8 +192,7 @@
       "symbol": "uniBTC",
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0x236f8c0a61da474db21b693fb2ea7aab0c803894/small/token-logo.png",
       "assetGroup": "UNIBTC",
-      "currencyId": "uniBTC::uniBTC",
-      "tags": ["debridge", "AVALON_UNIBTC", "SEGMENT"]
+      "currencyId": "uniBTC::uniBTC"
     },
     "0xdb3f2cae7e6f711282ecd7cba3739e1f5b4fbb99": {
       "chainId": "60808",
@@ -218,8 +202,7 @@
       "symbol": "xBTC",
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0xdb3f2cae7e6f711282ecd7cba3739e1f5b4fbb99/small/token-logo.svg",
       "assetGroup": "xBTC::xBTC",
-      "currencyId": "xBTC::xBTC",
-      "tags": ["debridge"]
+      "currencyId": "xBTC::xBTC"
     },
     "0x78fea795cbfcc5ffd6fb5b845a4f53d25c283bdb": {
       "chainId": "60808",
@@ -229,8 +212,7 @@
       "symbol": "satUSD",
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0x78fea795cbfcc5ffd6fb5b845a4f53d25c283bdb/small/token-logo.png",
       "assetGroup": "Satoshi Stablecoin::satUSD",
-      "currencyId": "Satoshi Stablecoin::satUSD",
-      "tags": ["debridge", "SEGMENT"]
+      "currencyId": "Satoshi Stablecoin::satUSD"
     },
     "0x85473255b6a895865a8b5f088dde75d43909d13e": {
       "chainId": "60808",
@@ -239,8 +221,7 @@
       "address": "0x85473255b6a895865a8b5f088dde75d43909d13e",
       "symbol": "DOG",
       "assetGroup": "DOG::DOG",
-      "currencyId": "DOG::DOG",
-      "tags": ["debridge"]
+      "currencyId": "DOG::DOG"
     },
     "0x7414f14497be308e30ee345a0dcfc43623c179c2": {
       "chainId": "60808",
@@ -249,8 +230,7 @@
       "address": "0x7414f14497be308e30ee345a0dcfc43623c179c2",
       "symbol": "seUSDT",
       "assetGroup": "Segment USDT::seUSDT",
-      "currencyId": "Segment USDT::seUSDT",
-      "tags": ["debridge"]
+      "currencyId": "Segment USDT::seUSDT"
     },
     "0xc344000a28f00e879c566f1ec259da24d6279592": {
       "chainId": "60808",
@@ -259,8 +239,7 @@
       "address": "0xc344000a28f00e879c566f1ec259da24d6279592",
       "symbol": "Segment USDC",
       "assetGroup": "seUSDC::Segment USDC",
-      "currencyId": "seUSDC::Segment USDC",
-      "tags": ["debridge"]
+      "currencyId": "seUSDC::Segment USDC"
     },
     "0xcc0966d8418d412c599a6421b760a847eb169a8c": {
       "chainId": "60808",
@@ -269,8 +248,7 @@
       "address": "0xcc0966d8418d412c599a6421b760a847eb169a8c",
       "symbol": "SolvBTC Babylon",
       "assetGroup": "SolvBTC.BBN::SolvBTC Babylon",
-      "currencyId": "SolvBTC.BBN::SolvBTC Babylon",
-      "tags": ["debridge", "AVALON_BOB", "SEGMENT"]
+      "currencyId": "SolvBTC.BBN::SolvBTC Babylon"
     },
     "0x59889b7021243db5b1e065385f918316cd90d46c": {
       "chainId": "60808",
@@ -279,8 +257,7 @@
       "address": "0x59889b7021243db5b1e065385f918316cd90d46c",
       "symbol": "SolvBTC.b",
       "assetGroup": "Free Bridged SolvBTC.b::SolvBTC.b",
-      "currencyId": "Free Bridged SolvBTC.b::SolvBTC.b",
-      "tags": ["bridged", "SEGMENT"]
+      "currencyId": "Free Bridged SolvBTC.b::SolvBTC.b"
     },
     "0xf7ef136751d7496021858c048ffa4f978c27831a": {
       "chainId": "60808",
@@ -289,8 +266,7 @@
       "address": "0xf7ef136751d7496021858c048ffa4f978c27831a",
       "symbol": "thUSD",
       "assetGroup": "Threshold USD::thUSD",
-      "currencyId": "Threshold USD::thUSD",
-      "tags": ["SEGMENT"]
+      "currencyId": "Threshold USD::thUSD"
     },
     "0x1fcca65fb6ae3b2758b9b2b394cb227eae404e1e": {
       "chainId": "60808",
@@ -299,8 +275,7 @@
       "address": "0x1fcca65fb6ae3b2758b9b2b394cb227eae404e1e",
       "symbol": "pumpBTC",
       "assetGroup": "PUMPBTC",
-      "currencyId": "pumpBTC::pumpBTC",
-      "tags": ["SEGMENT"]
+      "currencyId": "pumpBTC::pumpBTC"
     },
     "0x2fece49b79292c2cf6218b2bc657fddfd2941e18": {
       "chainId": "60808",
@@ -309,8 +284,7 @@
       "address": "0x2fece49b79292c2cf6218b2bc657fddfd2941e18",
       "symbol": "S1",
       "assetGroup": "Segment USD::S1",
-      "currencyId": "Segment USD::S1",
-      "tags": ["SEGMENT"]
+      "currencyId": "Segment USD::S1"
     },
     "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189": {
       "chainId": "60808",
@@ -320,8 +294,7 @@
       "symbol": "oUSDT",
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189/small/token-logo.png",
       "assetGroup": "openUSDT::oUSDT",
-      "currencyId": "openUSDT::oUSDT",
-      "tags": ["debridge"]
+      "currencyId": "openUSDT::oUSDT"
     },
     "0x0555e30da8f98308edb960aa94c0db47230d2b9c": {
       "chainId": "60808",
@@ -331,8 +304,7 @@
       "symbol": "WBTC",
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0x0555e30da8f98308edb960aa94c0db47230d2b9c/small/token-logo.png",
       "assetGroup": "Wrapped BTC::WBTC",
-      "currencyId": "Wrapped BTC::WBTC",
-      "tags": ["AVALON_BOB", "debridge"]
+      "currencyId": "Wrapped BTC::WBTC"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "60808",
@@ -343,8 +315,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "assetGroup": "ETH",
       "currencyId": "Ether::ETH",
-      "tags": ["native", "debridge", "wrapped:0x4200000000000000000000000000000000000006"],
-      "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" }
+      "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" },
+      "tags": ["wnative"]
     }
   },
   "mainTokens": [
@@ -354,12 +326,5 @@
     "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
     "0xe75d0fb2c24a55ca1e3f96781a2bcc7bdba058f0",
     "0x0555e30da8f98308edb960aa94c0db47230d2b9c"
-  ],
-  "bridgeTokens": [
-    "0x0000000000000000000000000000000000000000",
-    "0x4200000000000000000000000000000000000006",
-    "0x05d032ac25d322df992303dca074ee7392c117b9",
-    "0x03c7054bcb39f7b2e5b2c7acb37583e32d70cfa3",
-    "0xe75d0fb2c24a55ca1e3f96781a2bcc7bdba058f0"
   ]
 }

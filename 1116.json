@@ -140,8 +140,7 @@
       "symbol": "BNB",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x12AA82525DEfF84777fa78578A68ceB854A85f43.png",
       "assetGroup": "BNB",
-      "currencyId": "Bridged BNB (ICE)::BNB",
-      "tags": ["bridged", "ice"]
+      "currencyId": "Bridged BNB (ICE)::BNB"
     },
     "0x8687cd1d02a28098571067ddb18f33fef667c929": {
       "chainId": "1116",
@@ -151,8 +150,7 @@
       "symbol": "BUSD",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x8687cD1d02A28098571067ddB18F33fEF667C929.png",
       "assetGroup": "BUSD",
-      "currencyId": "BUSD (ICE)::BUSD",
-      "tags": ["ice", "bridged"]
+      "currencyId": "BUSD (ICE)::BUSD"
     },
     "0x1f82d787a1186c67360e62869c46eadbc192846a": {
       "chainId": "1116",
@@ -162,8 +160,7 @@
       "symbol": "DAI",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x1f82d787a1186c67360E62869C46eADbc192846a.png",
       "assetGroup": "DAI",
-      "currencyId": "Dai (ICE)::DAI",
-      "tags": ["ice", "bridged"]
+      "currencyId": "Dai (ICE)::DAI"
     },
     "0x7de0bc2cf736f0a307299a0acff1e89843c109a2": {
       "chainId": "1116",
@@ -173,8 +170,7 @@
       "symbol": "DOGE",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x7de0Bc2cf736f0a307299A0acFf1e89843C109a2.png",
       "assetGroup": "DOGE",
-      "currencyId": "Dogecoin (ICE)::DOGE",
-      "tags": ["ice", "bridged"]
+      "currencyId": "Dogecoin (ICE)::DOGE"
     },
     "0xef6b7bc74c9354bcf2e3f2a068e4b0b5cdf08f29": {
       "chainId": "1116",
@@ -184,8 +180,7 @@
       "symbol": "ETH",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0xeF6b7BC74C9354BCf2e3F2A068e4b0B5CDf08F29.png",
       "assetGroup": "ETH",
-      "currencyId": "Ether (ICE)::ETH",
-      "tags": ["ice", "bridged"]
+      "currencyId": "Ether (ICE)::ETH"
     },
     "0xd45ec0d923e7cd61666a46bfc0a8be9c234ae6d7": {
       "chainId": "1116",
@@ -195,8 +190,7 @@
       "symbol": "SHIB",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0xD45eC0D923E7CD61666A46bfc0A8BE9C234Ae6d7.png",
       "assetGroup": "SHIB",
-      "currencyId": "Shiba Inu (ICE)::SHIB",
-      "tags": ["ice", "bridged"]
+      "currencyId": "Shiba Inu (ICE)::SHIB"
     },
     "0x6e35ff7ac8eeb825ddb155515ef612adcd66bcbc": {
       "chainId": "1116",
@@ -216,8 +210,7 @@
       "symbol": "SolvBTC.CORE",
       "logoURI": "https://assets.coingecko.com/coins/images/50781/thumb/20241016-213746.jpeg?1729143995",
       "assetGroup": "SolvBTC Core::SolvBTC.CORE",
-      "currencyId": "SolvBTC Core::SolvBTC.CORE",
-      "tags": ["coingecko", "COLEND_LSTBTC"]
+      "currencyId": "SolvBTC Core::SolvBTC.CORE"
     },
     "0xe8b0df74192cca9c4de66f23653476f6e6cd1d98": {
       "chainId": "1116",
@@ -238,8 +231,8 @@
       "logoURI": "https://assets.coingecko.com/coins/images/29276/thumb/wcore.png?1696528228",
       "assetGroup": "CORE",
       "currencyId": "Wrapped CORE::WCORE",
-      "tags": ["coingecko", "COLEND", "COLEND_LSTBTC", "AVALON", "wnative"],
-      "props": { "wnative": true }
+      "props": { "wnative": true },
+      "tags": ["wnative"]
     },
     "0xe85411c030fb32a9d8b14bbbc6cb19417391f711": {
       "chainId": "1116",
@@ -249,8 +242,7 @@
       "symbol": "suBTC",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/SUBTC.webp",
       "assetGroup": "SUBTC",
-      "currencyId": "Sumerian BTC::suBTC",
-      "tags": ["debridge"]
+      "currencyId": "Sumerian BTC::suBTC"
     },
     "0xe56016187c0fb36f76c33d0d0b36b47648a42d0a": {
       "chainId": "1116",
@@ -290,8 +282,7 @@
       "symbol": "LFG",
       "logoURI": "https://assets.coingecko.com/coins/images/29280/thumb/lfg.png?1696528233",
       "assetGroup": "LFG",
-      "currencyId": "LFG::LFG",
-      "tags": ["coingecko"]
+      "currencyId": "LFG::LFG"
     },
     "0xa4151b2b3e269645181dccf2d426ce75fcbdeca9": {
       "chainId": "1116",
@@ -301,8 +292,7 @@
       "symbol": "USDC",
       "logoURI": "https://assets.coingecko.com/coins/images/34423/thumb/usdc.png?1704857726",
       "assetGroup": "USDC",
-      "currencyId": "USD Coin (Layer0 Bridge)::USDC",
-      "tags": ["coingecko", "COLEND", "AVALON"]
+      "currencyId": "USD Coin (Layer0 Bridge)::USDC"
     },
     "0xcfd38184c30832917a2871695f91e5e61bbd41ff": {
       "chainId": "1116",
@@ -312,8 +302,7 @@
       "symbol": "Miidas",
       "logoURI": "https://assets.coingecko.com/coins/images/26286/thumb/logo_miidas_round_500.png?1696525369",
       "assetGroup": "MIIDAS",
-      "currencyId": "Miidas NFT::Miidas",
-      "tags": ["coingecko"]
+      "currencyId": "Miidas NFT::Miidas"
     },
     "0x1a639e150d2210a4be4a5f0857a9151b241e7ae4": {
       "chainId": "1116",
@@ -323,8 +312,7 @@
       "symbol": "BOW",
       "logoURI": "https://assets.coingecko.com/coins/images/29458/thumb/bow200x200.png?1696528405",
       "assetGroup": "ArcherSwap Token::BOW",
-      "currencyId": "ArcherSwap Token::BOW",
-      "tags": ["coingecko"]
+      "currencyId": "ArcherSwap Token::BOW"
     },
     "0x000000000e1d682cc39abe9b32285fdea1255374": {
       "chainId": "1116",
@@ -334,8 +322,7 @@
       "symbol": "CID",
       "logoURI": "https://assets.coingecko.com/coins/images/29425/thumb/cid.png?1696528374",
       "assetGroup": "CORE ID Token::CID",
-      "currencyId": "CORE ID Token::CID",
-      "tags": ["coingecko"]
+      "currencyId": "CORE ID Token::CID"
     },
     "0x900101d06a7426441ae63e9ab3b9b0f63be145f1": {
       "chainId": "1116",
@@ -345,8 +332,7 @@
       "symbol": "USDT",
       "logoURI": "https://assets.coingecko.com/coins/images/34424/thumb/usdt_logo.png?1704857706",
       "assetGroup": "USDT",
-      "currencyId": "Tether USD::USDT",
-      "tags": ["coingecko", "COLEND", "AVALON"]
+      "currencyId": "Tether USD::USDT"
     },
     "0x81bcea03678d1cef4830942227720d542aa15817": {
       "chainId": "1116",
@@ -356,8 +342,7 @@
       "symbol": "USDTi",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x81bCEa03678D1CEF4830942227720D542Aa15817.png",
       "assetGroup": "Bridged USDT (ICE)::USDTi",
-      "currencyId": "Bridged USDT (ICE)::USDTi",
-      "tags": ["bridged", "ice"]
+      "currencyId": "Bridged USDT (ICE)::USDTi"
     },
     "0xd2683b22287e63d22928cbe4514003a92507f474": {
       "chainId": "1116",
@@ -367,8 +352,7 @@
       "symbol": "USDCi",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0xD2683b22287E63D22928CBe4514003a92507f474.png",
       "assetGroup": "Bridged USDC (ICE)::USDCi",
-      "currencyId": "Bridged USDC (ICE)::USDCi",
-      "tags": ["bridged", "ice"]
+      "currencyId": "Bridged USDC (ICE)::USDCi"
     },
     "0x140910dc81f3b8029b32678e0e32c6292fcacbcb": {
       "chainId": "1116",
@@ -388,8 +372,7 @@
       "symbol": "ARS",
       "logoURI": "https://assets.coingecko.com/coins/images/31445/thumb/logo-200x200.png?1696530259",
       "assetGroup": "Aquarius::ARS",
-      "currencyId": "Aquarius::ARS",
-      "tags": ["coingecko"]
+      "currencyId": "Aquarius::ARS"
     },
     "0x4225a3c57b2622f270d32c12e8135a095ed2daf6": {
       "chainId": "1116",
@@ -409,8 +392,7 @@
       "symbol": "WCORE_OLD",
       "logoURI": "https://assets.coingecko.com/coins/images/29276/standard/wcore.png?1696528228",
       "assetGroup": "Wrapped CORE Old::WCORE_OLD",
-      "currencyId": "Wrapped CORE Old::WCORE_OLD",
-      "tags": ["coingecko", "wnative"]
+      "currencyId": "Wrapped CORE Old::WCORE_OLD"
     },
     "0xf15fba1e7112d680055962fb85a0c04550f24097": {
       "chainId": "1116",
@@ -440,8 +422,7 @@
       "symbol": "ASX",
       "logoURI": "https://assets.coingecko.com/coins/images/34993/thumb/AXVII_007_500px_Black_Background.png?1706950900",
       "assetGroup": "ASX::ASX",
-      "currencyId": "ASX::ASX",
-      "tags": ["coingecko"]
+      "currencyId": "ASX::ASX"
     },
     "0x2297aebd383787a160dd0d9f71508148769342e3": {
       "chainId": "1116",
@@ -461,8 +442,7 @@
       "symbol": "cDAO",
       "logoURI": "https://assets.coingecko.com/coins/images/33125/thumb/LmgRwWp9_400x400.jpg?1700795014",
       "assetGroup": "cDAO::cDAO",
-      "currencyId": "cDAO::cDAO",
-      "tags": ["coingecko"]
+      "currencyId": "cDAO::cDAO"
     },
     "0x54e89d1c0d7b246ecaed450ef6d1d8c7b45ec3b6": {
       "chainId": "1116",
@@ -502,8 +482,7 @@
       "symbol": "stCORE",
       "logoURI": "https://assets.coingecko.com/coins/images/39945/thumb/stcore.png?1724886271",
       "assetGroup": "Liquid staked CORE::stCORE",
-      "currencyId": "Liquid staked CORE::stCORE",
-      "tags": ["coingecko", "COLEND"]
+      "currencyId": "Liquid staked CORE::stCORE"
     },
     "0x7bb0996354ab99fadd6a9fd0bf6ac40fa7e54b6f": {
       "chainId": "1116",
@@ -573,8 +552,7 @@
       "symbol": "COREBTC",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x8034aB88C3512246Bf7894f57C834DdDBd1De01F.png",
       "assetGroup": "Core Wrapped BTC Token::COREBTC",
-      "currencyId": "Core Wrapped BTC Token::COREBTC",
-      "tags": ["COLEND", "COLEND_LSTBTC", "AVALON"]
+      "currencyId": "Core Wrapped BTC Token::COREBTC"
     },
     "0x7a6888c85edba8e38f6c7e0485212da602761c08": {
       "chainId": "1116",
@@ -584,8 +562,7 @@
       "symbol": "BTCB",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/1116/0x7A6888c85eDBA8E38F6C7E0485212da602761C08.png",
       "assetGroup": "BTCB::BTCB",
-      "currencyId": "BTCB::BTCB",
-      "tags": ["COLEND", "COLEND_LSTBTC"]
+      "currencyId": "BTCB::BTCB"
     },
     "0x5b1fb849f1f76217246b8aaac053b5c7b15b7dc3": {
       "chainId": "1116",
@@ -595,8 +572,7 @@
       "symbol": "SolvBTC.b",
       "logoURI": "https://assets.coingecko.com/coins/images/36800/standard/solvBTC.png?1719810684",
       "assetGroup": "Bridged SolvBTC.b (Free)::SolvBTC.b",
-      "currencyId": "Bridged SolvBTC.b (Free)::SolvBTC.b",
-      "tags": ["bridged", "coingecko", "COLEND", "COLEND_LSTBTC", "AVALON"]
+      "currencyId": "Bridged SolvBTC.b (Free)::SolvBTC.b"
     },
     "0x9a9bc340103c462365db54e423f95784c664d3df": {
       "chainId": "1116",
@@ -616,8 +592,7 @@
       "symbol": "SolvBTC.m",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/SolvBTC.webp",
       "assetGroup": "Bridged SolvBTC (Free)::SolvBTC.m",
-      "currencyId": "Bridged SolvBTC (Free)::SolvBTC.m",
-      "tags": ["bridged", "COLEND", "AVALON"]
+      "currencyId": "Bridged SolvBTC (Free)::SolvBTC.m"
     },
     "0x068a8819bd526c0480c190d1f902f1e0a5bbb139": {
       "chainId": "1116",
@@ -637,8 +612,7 @@
       "symbol": "HUNT",
       "logoURI": "https://assets.coingecko.com/coins/images/29649/thumb/hunt.png?1696528585",
       "assetGroup": "ArcherSwap Hunter::HUNT",
-      "currencyId": "ArcherSwap Hunter::HUNT",
-      "tags": ["coingecko"]
+      "currencyId": "ArcherSwap Hunter::HUNT"
     },
     "0x74c7b589209ce095a219f8bdf941de117656cbd6": {
       "chainId": "1116",
@@ -658,8 +632,7 @@
       "symbol": "OEX",
       "logoURI": "https://assets.coingecko.com/coins/images/36770/thumb/oex-r-200.png?1712285533",
       "assetGroup": "OpenEX Network Token::OEX",
-      "currencyId": "OpenEX Network Token::OEX",
-      "tags": ["coingecko"]
+      "currencyId": "OpenEX Network Token::OEX"
     },
     "0x30a540b05468a250fcc17da2d9d4aaa84b358ea7": {
       "chainId": "1116",
@@ -669,8 +642,7 @@
       "symbol": "CLND",
       "logoURI": "https://assets.coingecko.com/coins/images/51445/thumb/CLND_200.png?1731238732",
       "assetGroup": "Colend::CLND",
-      "currencyId": "Colend::CLND",
-      "tags": ["coingecko", "COLEND"]
+      "currencyId": "Colend::CLND"
     },
     "0xc5cd3f4029269fe9f2d2d154594d02f13c9a5214": {
       "chainId": "1116",
@@ -680,8 +652,7 @@
       "symbol": "COKE",
       "logoURI": "https://assets.coingecko.com/coins/images/37848/thumb/corekeeper-2.png?1715758831",
       "assetGroup": "Core Keeper::COKE",
-      "currencyId": "Core Keeper::COKE",
-      "tags": ["coingecko"]
+      "currencyId": "Core Keeper::COKE"
     },
     "0xe0d829e913618a7d2e2ba27a5fc8c274a8c525cf": {
       "chainId": "1116",
@@ -691,8 +662,7 @@
       "symbol": "GEMS",
       "logoURI": "https://assets.coingecko.com/coins/images/29542/thumb/photo_2023-03-16_19-06-39.jpg?1696528483",
       "assetGroup": "Gemholic::GEMS",
-      "currencyId": "Gemholic::GEMS",
-      "tags": ["coingecko"]
+      "currencyId": "Gemholic::GEMS"
     },
     "0xe9aece1ba8bbd429a1ed33349c61280441ac8f99": {
       "chainId": "1116",
@@ -702,8 +672,7 @@
       "symbol": "LIQUIFY",
       "logoURI": "https://assets.coingecko.com/coins/images/29401/thumb/full_logo.png?1696528351",
       "assetGroup": "Liquify Network::LIQUIFY",
-      "currencyId": "Liquify Network::LIQUIFY",
-      "tags": ["coingecko"]
+      "currencyId": "Liquify Network::LIQUIFY"
     },
     "0x42020c7962ce072f5048120cedeb36c020062af4": {
       "chainId": "1116",
@@ -713,8 +682,7 @@
       "symbol": "CRUST",
       "logoURI": "https://assets.coingecko.com/coins/images/29537/thumb/photo_2023-03-21_00-12-46.jpg?1696528479",
       "assetGroup": "Crust Exchange::CRUST",
-      "currencyId": "Crust Exchange::CRUST",
-      "tags": ["coingecko"]
+      "currencyId": "Crust Exchange::CRUST"
     },
     "0xf3cabeb4a292996a451f8094e14f4806d22604d4": {
       "chainId": "1116",
@@ -724,8 +692,7 @@
       "symbol": "OST",
       "logoURI": "https://assets.coingecko.com/coins/images/37087/thumb/0xF3CABeb4A292996a451f8094E14F4806d22604d4.png?1715046928",
       "assetGroup": "OreSwap::OST",
-      "currencyId": "OreSwap::OST",
-      "tags": ["coingecko"]
+      "currencyId": "OreSwap::OST"
     },
     "0xb555a396446570ac2f4a62fffb64b4b0d43f5b74": {
       "chainId": "1116",
@@ -735,8 +702,7 @@
       "symbol": "CDAO",
       "logoURI": "https://assets.coingecko.com/coins/images/29582/thumb/200200wIR5I0em_400x400.jpg?1696528522",
       "assetGroup": "CoreDaoSwap::CDAO",
-      "currencyId": "CoreDaoSwap::CDAO",
-      "tags": ["coingecko"]
+      "currencyId": "CoreDaoSwap::CDAO"
     },
     "0x98564e70c7fcc6d947ffe6d9efed5ba68b306f2e": {
       "chainId": "1116",
@@ -746,8 +712,7 @@
       "symbol": "4TOKEN",
       "logoURI": "https://assets.coingecko.com/coins/images/29626/thumb/200x200.png?1696528562",
       "assetGroup": "Ignore Fud::4TOKEN",
-      "currencyId": "Ignore Fud::4TOKEN",
-      "tags": ["coingecko"]
+      "currencyId": "Ignore Fud::4TOKEN"
     },
     "0x70727228db8c7491bf0ad42c180dbf8d95b257e2": {
       "chainId": "1116",
@@ -757,8 +722,7 @@
       "symbol": "ABTC",
       "logoURI": "https://assets.coingecko.com/coins/images/33363/thumb/abtc_%281%29.png?1701606956",
       "assetGroup": "ABTC",
-      "currencyId": "XLink Bridged BTC::ABTC",
-      "tags": ["bridged", "coingecko", "COLEND"]
+      "currencyId": "XLink Bridged BTC::ABTC"
     },
     "0xf6f46bd1f85ebf00c6d7490678ad020bc73969a7": {
       "chainId": "1116",
@@ -768,8 +732,7 @@
       "symbol": "PZP",
       "logoURI": "https://assets.coingecko.com/coins/images/24727/thumb/200X200-111.png?1696523890",
       "assetGroup": "PZP",
-      "currencyId": "PlayZap::PZP",
-      "tags": ["coingecko"]
+      "currencyId": "PlayZap::PZP"
     },
     "0x8bb97a618211695f5a6a889fac3546d1a573ea77": {
       "chainId": "1116",
@@ -779,8 +742,7 @@
       "symbol": "NBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/52630/thumb/NBTC-logo.png?1733837414",
       "assetGroup": "NexusBTC::NBTC",
-      "currencyId": "NexusBTC::NBTC",
-      "tags": ["coingecko"]
+      "currencyId": "NexusBTC::NBTC"
     },
     "0x01065d48363713fa32c6ca51387e0803023c872c": {
       "chainId": "1116",
@@ -790,8 +752,7 @@
       "symbol": "AGUS",
       "logoURI": "https://assets.coingecko.com/coins/images/37094/thumb/0x04513ADaAc27ed0324549E15f52c051e64F81DAB.png?1713271473",
       "assetGroup": "AGUS::AGUS",
-      "currencyId": "AGUS::AGUS",
-      "tags": ["coingecko"]
+      "currencyId": "AGUS::AGUS"
     },
     "0x5c44d3d2312aba4d5f2406a98bf374bc76455092": {
       "chainId": "1116",
@@ -811,8 +772,7 @@
       "symbol": "PELL",
       "logoURI": "https://assets.coingecko.com/coins/images/53967/thumb/logo-200*200.png?1737793038",
       "assetGroup": "Pell Network Token::PELL",
-      "currencyId": "Pell Network Token::PELL",
-      "tags": ["coingecko"]
+      "currencyId": "Pell Network Token::PELL"
     },
     "0x892ccdd2624ef09ca5814661c566316253353820": {
       "chainId": "1116",
@@ -832,8 +792,7 @@
       "symbol": "uBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/55079/thumb/uBTC.png?1743613297",
       "assetGroup": "UBTC",
-      "currencyId": "uBTC::uBTC",
-      "tags": ["coingecko", "AVALON_UBTC"]
+      "currencyId": "uBTC::uBTC"
     },
     "0xd60d60b168360dbd3496ec0ed0afe4a7498de3ce": {
       "chainId": "1116",
@@ -843,8 +802,7 @@
       "symbol": "PT-DUALBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/55385/thumb/b14g_logo_%281%29.png?1745708331",
       "assetGroup": "b14g dualBTC Principal::PT-DUALBTC",
-      "currencyId": "b14g dualBTC Principal::PT-DUALBTC",
-      "tags": ["coingecko"]
+      "currencyId": "b14g dualBTC Principal::PT-DUALBTC"
     },
     "0xc5555ea27e63cd89f8b227dece2a3916800c0f4f": {
       "chainId": "1116",
@@ -854,8 +812,7 @@
       "symbol": "DUALCORE",
       "logoURI": "https://assets.coingecko.com/coins/images/55488/thumb/dualCORE.png?1746263021",
       "assetGroup": "b14g dualCORE::DUALCORE",
-      "currencyId": "b14g dualCORE::DUALCORE",
-      "tags": ["coingecko"]
+      "currencyId": "b14g dualCORE::DUALCORE"
     },
     "0x0fd98374ee05d059885ba70988ea2d072f6fd981": {
       "chainId": "1116",
@@ -865,8 +822,7 @@
       "symbol": "COCO",
       "logoURI": "https://assets.coingecko.com/coins/images/55580/thumb/_COCO_Community_Token_Project_Lo_II.png?1746781518",
       "assetGroup": "COCO Community::COCO",
-      "currencyId": "COCO Community::COCO",
-      "tags": ["coingecko"]
+      "currencyId": "COCO Community::COCO"
     },
     "0xda31d0d1bc934fc34f7189e38a413ca0a5e8b44f": {
       "chainId": "1116",
@@ -906,8 +862,7 @@
       "symbol": "WETH",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "assetGroup": "ETH",
-      "currencyId": "Wrapped Ether::WETH",
-      "tags": ["COLEND", "coingecko"]
+      "currencyId": "Wrapped Ether::WETH"
     },
     "0x00000000efe302beaa2b3e6e1b18d08d69a9012a": {
       "chainId": "1116",
@@ -917,8 +872,7 @@
       "symbol": "AUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/39284/thumb/Circle_Agora_White_on_Olive_1080px.png?1722961274",
       "assetGroup": "AUSD",
-      "currencyId": "AUSD::AUSD",
-      "tags": ["coingecko", "COLEND"]
+      "currencyId": "AUSD::AUSD"
     },
     "0x5832f53d147b3d6cd4578b9cbd62425c7ea9d0bd": {
       "chainId": "1116",
@@ -928,8 +882,7 @@
       "symbol": "WBTC",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png",
       "assetGroup": "WBTC",
-      "currencyId": "Wrapped BTC::WBTC",
-      "tags": ["COLEND", "AVALON_OBTC", "AVALON_UBTC"]
+      "currencyId": "Wrapped BTC::WBTC"
     },
     "0x000734cf9e469bad78c8ec1b0deed83d0a03c1f8": {
       "chainId": "1116",
@@ -939,8 +892,7 @@
       "symbol": "oBTC",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/oBTC.webp",
       "assetGroup": "OBTC",
-      "currencyId": "Obelisk BTC::oBTC",
-      "tags": ["AVALON_OBTC"]
+      "currencyId": "Obelisk BTC::oBTC"
     },
     "0x5a2aa871954ebdf89b1547e75d032598356caad5": {
       "chainId": "1116",
@@ -950,8 +902,7 @@
       "symbol": "pumpBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/39232/thumb/200pxPumpBTCLogo.png?1721227861",
       "assetGroup": "PUMPBTC",
-      "currencyId": "pumpBTC::pumpBTC",
-      "tags": ["COLEND_LSTBTC"]
+      "currencyId": "pumpBTC::pumpBTC"
     },
     "0x60c230c38af6d86b0277a98a1caeaa345a7b061f": {
       "chainId": "1116",
@@ -961,8 +912,7 @@
       "symbol": "FIABTC",
       "logoURI": "https://assets.coingecko.com/coins/images/68062/thumb/fiabtc_200-200.png?1754642511",
       "assetGroup": "Fiamma BTC::FIABTC",
-      "currencyId": "Fiamma BTC::FIABTC",
-      "tags": ["coingecko"]
+      "currencyId": "Fiamma BTC::FIABTC"
     },
     "0x3902228d6a3d2dc44731fd9d45fee6a61c722d0b": {
       "chainId": "1116",
@@ -972,8 +922,7 @@
       "symbol": "LINK",
       "logoURI": "https://assets.coingecko.com/coins/images/877/thumb/chainlink-new-logo.png?1696502009",
       "assetGroup": "LINK",
-      "currencyId": "ChainLink Token::LINK",
-      "tags": ["coingecko"]
+      "currencyId": "ChainLink Token::LINK"
     },
     "0x56663f56333717a32cd91ec41182d6d76d98864e": {
       "chainId": "1116",
@@ -983,8 +932,7 @@
       "symbol": "CORP",
       "logoURI": "https://assets.coingecko.com/coins/images/68957/thumb/1024.png?1757088207",
       "assetGroup": "Corepound::CORP",
-      "currencyId": "Corepound::CORP",
-      "tags": ["coingecko"]
+      "currencyId": "Corepound::CORP"
     },
     "0x7b01b91cd3e68ce3d5bf7fa7040480ebd35d6fc6": {
       "chainId": "1116",
@@ -1004,8 +952,7 @@
       "symbol": "BFBTC",
       "logoURI": "https://assets.coingecko.com/coins/images/69326/thumb/bfBTC-logo-symbol-color.png?1758193458",
       "assetGroup": "BitFi Bitcoin::BFBTC",
-      "currencyId": "BitFi Bitcoin::BFBTC",
-      "tags": ["coingecko"]
+      "currencyId": "BitFi Bitcoin::BFBTC"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "1116",
@@ -1016,15 +963,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/core.webp",
       "assetGroup": "CORE",
       "currencyId": "Core Blockchain Native Token::CORE",
-      "tags": [
-        "native",
-        "coingecko",
-        "COLEND",
-        "COLEND_LSTBTC",
-        "AVALON",
-        "wrapped:0x40375c92d9faf44d2f9db9bd9ba41a3317a2404f"
-      ],
-      "props": { "isNative": true, "wrapped": "0x40375c92d9faf44d2f9db9bd9ba41a3317a2404f" }
+      "props": { "isNative": true, "wrapped": "0x40375c92d9faf44d2f9db9bd9ba41a3317a2404f" },
+      "tags": ["wnative"]
     }
   },
   "mainTokens": [
@@ -1065,13 +1005,5 @@
     "0x5a2aa871954ebdf89b1547e75d032598356caad5",
     "0x12aa82525deff84777fa78578a68ceb854a85f43",
     "0xef6b7bc74c9354bcf2e3f2a068e4b0b5cdf08f29"
-  ],
-  "bridgeTokens": [
-    "0x0000000000000000000000000000000000000000",
-    "0xdd5d49910c5d475c984ee891a928de6658d2042d",
-    "0xa4151b2b3e269645181dccf2d426ce75fcbdeca9",
-    "0x900101d06a7426441ae63e9ab3b9b0f63be145f1",
-    "0xeab3ac417c4d6df6b143346a46fee1b847b50296",
-    "0x12aa82525deff84777fa78578a68ceb854a85f43"
   ]
 }

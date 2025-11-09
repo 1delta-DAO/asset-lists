@@ -20,8 +20,7 @@
       "symbol": "USDT",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/813/0x7D5a56742C082FcDfc240cd7D1775f00e059771F.png",
       "assetGroup": "USDT",
-      "currencyId": "Bridged USDT (ICE)::USDT",
-      "tags": ["bridged", "ice"]
+      "currencyId": "Bridged USDT (ICE)::USDT"
     },
     "0x470cbfb236860eb5257bbf78715fb5bd77119c2f": {
       "chainId": "813",
@@ -32,8 +31,8 @@
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/813/0x470cBFB236860eb5257bBF78715FB5bd77119C2F.png",
       "assetGroup": "Wrapped MEER::WMEER",
       "currencyId": "Wrapped MEER::WMEER",
-      "tags": ["wnative"],
-      "props": { "wnative": true }
+      "props": { "wnative": true },
+      "tags": ["wnative"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "813",
@@ -44,14 +43,13 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/meer.webp",
       "assetGroup": "Wrapped MEER::WMEER",
       "currencyId": "Qitmeer::MEER",
-      "tags": ["native", "wrapped:0x470cbfb236860eb5257bbf78715fb5bd77119c2f"],
-      "props": { "isNative": true, "wrapped": "0x470cbfb236860eb5257bbf78715fb5bd77119c2f" }
+      "props": { "isNative": true, "wrapped": "0x470cbfb236860eb5257bbf78715fb5bd77119c2f" },
+      "tags": ["wnative"]
     }
   },
   "mainTokens": [
     "0x0000000000000000000000000000000000000000",
     "0x7d5a56742c082fcdfc240cd7d1775f00e059771f",
     "0x470cbfb236860eb5257bbf78715fb5bd77119c2f"
-  ],
-  "bridgeTokens": ["0x0000000000000000000000000000000000000000", "0x7d5a56742c082fcdfc240cd7d1775f00e059771f"]
+  ]
 }

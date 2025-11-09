@@ -21,8 +21,8 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000001/0x202c35e517fa803b537565c40f0a6965d7204609/small/token-logo.png",
       "assetGroup": "Wrapped Neon::WNEON",
       "currencyId": "Wrapped Neon::WNEON",
-      "tags": ["debridge", "wnative", "LENDOS"],
-      "props": { "wnative": true }
+      "props": { "wnative": true },
+      "tags": ["wnative"]
     },
     "0x5f38248f339bf4e84a2caf4e4c0552862dc9f82a": {
       "chainId": "245022934",
@@ -32,8 +32,7 @@
       "symbol": "SOL",
       "logoURI": "https://tokens.debridge.finance/Logo/100000001/0x5f38248f339bf4e84a2caf4e4c0552862dc9f82a/small/token-logo.png",
       "assetGroup": "SOL",
-      "currencyId": "Wrapped SOL::SOL",
-      "tags": ["debridge", "LENDOS"]
+      "currencyId": "Wrapped SOL::SOL"
     },
     "0x2043191e10a2a4b4601f5123d6c94e000b5d915f": {
       "chainId": "245022934",
@@ -43,8 +42,7 @@
       "symbol": "MORA",
       "logoURI": "https://tokens.debridge.finance/Logo/100000001/0x2043191e10a2a4b4601f5123d6c94e000b5d915f/small/token-logo.png",
       "assetGroup": "Mora::MORA",
-      "currencyId": "Mora::MORA",
-      "tags": ["debridge"]
+      "currencyId": "Mora::MORA"
     },
     "0x5f0155d08ef4aae2b500aefb64a3419da8bb611a": {
       "chainId": "245022934",
@@ -54,8 +52,7 @@
       "symbol": "USDT",
       "logoURI": "https://tokens.debridge.finance/Logo/100000001/0x5f0155d08ef4aae2b500aefb64a3419da8bb611a/small/token-logo.png",
       "assetGroup": "USDT",
-      "currencyId": "Tether USD::USDT",
-      "tags": ["debridge", "LENDOS"]
+      "currencyId": "Tether USD::USDT"
     },
     "0xea6b04272f9f62f997f666f07d3a974134f7ffb9": {
       "chainId": "245022934",
@@ -65,8 +62,7 @@
       "symbol": "USDC",
       "logoURI": "https://tokens.debridge.finance/Logo/100000001/0xea6b04272f9f62f997f666f07d3a974134f7ffb9/small/token-logo.png",
       "assetGroup": "USDC",
-      "currencyId": "USD Coin::USDC",
-      "tags": ["debridge", "LENDOS"]
+      "currencyId": "USD Coin::USDC"
     },
     "0xae9c742807da5ec06a634319cc018ae5c3c18187": {
       "chainId": "245022934",
@@ -86,8 +82,7 @@
       "symbol": "USDT",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/245022934/0xc0E49f8C615d3d4c245970F6Dc528E4A47d69a44.png",
       "assetGroup": "USDT",
-      "currencyId": "Bridged USDT (ICE)::USDT",
-      "tags": ["bridged", "ice"]
+      "currencyId": "Bridged USDT (ICE)::USDT"
     },
     "0x3f16bf1931674af4d28d7ab37ef639a18c4ae99e": {
       "chainId": "245022934",
@@ -107,8 +102,7 @@
       "symbol": "Bonk",
       "logoURI": "https://tokens.debridge.finance/Logo/100000001/0xd4b6520f7fb78e1ee75639f3376c581a71bcdb0e/small/token-logo.png",
       "assetGroup": "BONK",
-      "currencyId": "Bonk::Bonk",
-      "tags": ["debridge"]
+      "currencyId": "Bonk::Bonk"
     },
     "0x432b39e097d9faa2cbaa86f8d36bcf3b8019fe9f": {
       "chainId": "245022934",
@@ -118,8 +112,7 @@
       "symbol": "NEOP",
       "logoURI": "https://tokens.debridge.finance/Logo/100000001/0x432b39e097d9faa2cbaa86f8d36bcf3b8019fe9f/small/token-logo.png",
       "assetGroup": "NeoPepe::NEOP",
-      "currencyId": "NeoPepe::NEOP",
-      "tags": ["debridge"]
+      "currencyId": "NeoPepe::NEOP"
     },
     "0x0575dd4afd93b7522fee4e0179f243eca3856137": {
       "chainId": "245022934",
@@ -129,8 +122,7 @@
       "symbol": "PYTH",
       "logoURI": "https://tokens.debridge.finance/Logo/100000001/0x0575dd4afd93b7522fee4e0179f243eca3856137/small/token-logo.png",
       "assetGroup": "Pyth Network::PYTH",
-      "currencyId": "Pyth Network::PYTH",
-      "tags": ["debridge"]
+      "currencyId": "Pyth Network::PYTH"
     },
     "0xfa8fb7e3bd299b2a9693b1bfdcf5dd13ab57007e": {
       "chainId": "245022934",
@@ -140,8 +132,7 @@
       "symbol": "JitoSOL",
       "logoURI": "https://tokens.debridge.finance/Logo/100000001/0xfa8fb7e3bd299b2a9693b1bfdcf5dd13ab57007e/small/token-logo.png",
       "assetGroup": "Jito Staked SOL::JitoSOL",
-      "currencyId": "Jito Staked SOL::JitoSOL",
-      "tags": ["debridge", "LENDOS"]
+      "currencyId": "Jito Staked SOL::JitoSOL"
     },
     "0x6effb385713f22df4846d8156451a5efec22a4c8": {
       "chainId": "245022934",
@@ -171,8 +162,7 @@
       "symbol": "WETH",
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/245022934/0xcFFd84d468220c11be64dc9dF64eaFE02AF60e8A.png",
       "assetGroup": "ETH",
-      "currencyId": "Wrapped Ether (Wormhole)::WETH",
-      "tags": ["wormhole", "bridged", "LENDOS"]
+      "currencyId": "Wrapped Ether (Wormhole)::WETH"
     },
     "0xf335ae40f387bdc60477f0b306326a233d35227f": {
       "chainId": "245022934",
@@ -192,8 +182,7 @@
       "symbol": "MNGO",
       "logoURI": "https://tokens.debridge.finance/Logo/100000001/0x6d12eaa69f8e4902d3f83d546b31f7318717014c/small/token-logo.png",
       "assetGroup": "Mango::MNGO",
-      "currencyId": "Mango::MNGO",
-      "tags": ["debridge"]
+      "currencyId": "Mango::MNGO"
     },
     "0xc1ed606683a3f89317d64bda602628d68a0b4b24": {
       "chainId": "245022934",
@@ -203,8 +192,7 @@
       "symbol": "CGT2.0",
       "logoURI": "https://tokens.debridge.finance/Logo/100000001/0xc1ed606683a3f89317d64bda602628d68a0b4b24/small/token-logo.png",
       "assetGroup": "Curio Gas Token::CGT2.0",
-      "currencyId": "Curio Gas Token::CGT2.0",
-      "tags": ["debridge"]
+      "currencyId": "Curio Gas Token::CGT2.0"
     },
     "0x96e636d3ef60ee9745945120010c73619144632c": {
       "chainId": "245022934",
@@ -214,8 +202,7 @@
       "symbol": "2080",
       "logoURI": "https://tokens.debridge.finance/Logo/100000001/0x96e636d3ef60ee9745945120010c73619144632c/small/token-logo.png",
       "assetGroup": "2080::2080",
-      "currencyId": "2080::2080",
-      "tags": ["debridge"]
+      "currencyId": "2080::2080"
     },
     "0x14ccffc97ac156a7f1e3183adaa8e7cc888ad162": {
       "chainId": "245022934",
@@ -225,8 +212,7 @@
       "symbol": "LST",
       "logoURI": "https://tokens.debridge.finance/Logo/100000001/0x14ccffc97ac156a7f1e3183adaa8e7cc888ad162/small/token-logo.png",
       "assetGroup": "Liquid Staking Token::LST",
-      "currencyId": "Liquid Staking Token::LST",
-      "tags": ["debridge"]
+      "currencyId": "Liquid Staking Token::LST"
     },
     "0x16a3fe59080d6944a42b441e44450432c1445372": {
       "chainId": "245022934",
@@ -236,8 +222,7 @@
       "symbol": "WBTC",
       "logoURI": "https://tokens.debridge.finance/Logo/100000001/0x16a3fe59080d6944a42b441e44450432c1445372/small/token-logo.png",
       "assetGroup": "WBTC",
-      "currencyId": "Wrapped BTC (Wormhole)::WBTC",
-      "tags": ["wormhole", "bridged", "debridge"]
+      "currencyId": "Wrapped BTC (Wormhole)::WBTC"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "245022934",
@@ -248,8 +233,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/neon.webp",
       "assetGroup": "Wrapped Neon::WNEON",
       "currencyId": "Neon::NEON",
-      "tags": ["native", "debridge", "LENDOS", "wrapped:0x202c35e517fa803b537565c40f0a6965d7204609"],
-      "props": { "isNative": true, "wrapped": "0x202c35e517fa803b537565c40f0a6965d7204609" }
+      "props": { "isNative": true, "wrapped": "0x202c35e517fa803b537565c40f0a6965d7204609" },
+      "tags": ["wnative"]
     }
   },
   "mainTokens": [
@@ -260,13 +245,5 @@
     "0xcffd84d468220c11be64dc9df64eafe02af60e8a",
     "0x16a3fe59080d6944a42b441e44450432c1445372",
     "0x202c35e517fa803b537565c40f0a6965d7204609"
-  ],
-  "bridgeTokens": [
-    "0x0000000000000000000000000000000000000000",
-    "0x5f0155d08ef4aae2b500aefb64a3419da8bb611a",
-    "0xea6b04272f9f62f997f666f07d3a974134f7ffb9",
-    "0xc0e49f8c615d3d4c245970f6dc528e4a47d69a44",
-    "0xcffd84d468220c11be64dc9df64eafe02af60e8a",
-    "0x16a3fe59080d6944a42b441e44450432c1445372"
   ]
 }
