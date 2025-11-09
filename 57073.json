@@ -340,6 +340,28 @@
       "currencyId": "GHO::GHO",
       "tags": ["coingecko"]
     },
+    "0xd3c8da379d71a33bfee8875f87ac2748beb1d58d": {
+      "chainId": "57073",
+      "decimals": 8,
+      "name": "uniBTC",
+      "address": "0xd3c8da379d71a33bfee8875f87ac2748beb1d58d",
+      "symbol": "uniBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455",
+      "assetGroup": "UNIBTC",
+      "currencyId": "uniBTC::uniBTC",
+      "tags": ["coingecko"]
+    },
+    "0xa161132371c94299d215915d4cbc3b629e2059be": {
+      "chainId": "57073",
+      "decimals": 8,
+      "name": "brBTC",
+      "address": "0xa161132371c94299d215915d4cbc3b629e2059be",
+      "symbol": "brBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/53039/thumb/brBTC_200.png?1735074374",
+      "assetGroup": "BRBTC",
+      "currencyId": "brBTC::brBTC",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "57073",
       "decimals": 18,

@@ -51,11 +51,11 @@
       "props": {
         "pendle": {
           "tokenType": "SY",
-          "marketAddress": "0x004f76045b42ef3e89814b12b37e69da19c8a212",
-          "expiry": 1766016000,
+          "marketAddress": "0x6e4e95fab7db1f0524b4b0a05f0b9c96380b7dfa",
+          "expiry": 1748476800,
           "underlyingAsset": "0x9fb76f7ce5fceaa2c42887ff441d46095e494206",
-          "ptAddress": "0x0fb682c9692addcc1769f4d4d938c54420d54fa3",
-          "ytAddress": "0x2405243576fdff777d54963bca4782180287b6a1"
+          "ptAddress": "0xbe27993204ec64238f71a527b4c4d5f4949034c3",
+          "ytAddress": "0xdcad0f3992a72ea0ce5eb703293a353249c0a76f"
         }
       }
     },
@@ -116,11 +116,11 @@
       "props": {
         "pendle": {
           "tokenType": "SY",
-          "marketAddress": "0x7e2bcdb749d90aa1e9e7262872ac8b1e062b2c4d",
-          "expiry": 1766016000,
+          "marketAddress": "0xd14117baf6ec5d12be68cd06e763a4b82c9b6d1d",
+          "expiry": 1748476800,
           "underlyingAsset": "0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47",
-          "ptAddress": "0x7e52f587f5b870d4c2cac8559ac4c49742d31a28",
-          "ytAddress": "0xdb7b0ca74c76d3b2449057b54b699d6ba04a4e70"
+          "ptAddress": "0xa2161e75edf50d70544e6588788a5732a3105c00",
+          "ytAddress": "0x30989fd89e9fa16191f38807d56cdfe98ad206f2"
         }
       }
     },
@@ -181,33 +181,11 @@
       "props": {
         "pendle": {
           "tokenType": "SY",
-          "marketAddress": "0x7fa648887b2a10cbbf7c54d00d86d0b2a0a37b53",
-          "expiry": 1766016000,
-          "underlyingAsset": "0xe5da20f15420ad15de0fa650600afc998bbe3955",
-          "ptAddress": "0xe2bc30a4896ff4c52adcb180213666d2d6b21c6d",
-          "ytAddress": "0x6132c18f4112ef3fcdf2df658ddd0da55d28e5eb"
-        }
-      }
-    },
-    "0x420df605d062f8611efb3f203bf258159b8fffde": {
-      "chainId": "146",
-      "decimals": 18,
-      "name": "PT stS (Sonic) Sonic",
-      "address": "0x420df605d062f8611efb3f203bf258159b8fffde",
-      "symbol": "PT-stS-29MAY2025",
-      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/1bb28886-399a-484f-ac3d-19263a36ab73.svg",
-      "assetGroup": "PT stS (Sonic) Sonic::PT-stS-29MAY2025",
-      "currencyId": "PT stS (Sonic) Sonic::PT-stS-29MAY2025",
-      "tags": ["PT"],
-      "props": {
-        "pendle": {
-          "tokenType": "PT",
           "marketAddress": "0x3aef1d372d0a7a7e482f465bc14a42d78f920392",
           "expiry": 1748476800,
           "underlyingAsset": "0xe5da20f15420ad15de0fa650600afc998bbe3955",
-          "ytAddress": "0xd8f57b34e69270f7ba179e854020ee80f16eebf4",
-          "syAddress": "0x7076dee976098b444f68c6382e8f062237879a9f",
-          "expired": true
+          "ptAddress": "0x420df605d062f8611efb3f203bf258159b8fffde",
+          "ytAddress": "0xd8f57b34e69270f7ba179e854020ee80f16eebf4"
         }
       }
     },
@@ -228,6 +206,28 @@
           "expiry": 1748476800,
           "underlyingAsset": "0xe5da20f15420ad15de0fa650600afc998bbe3955",
           "ptAddress": "0x420df605d062f8611efb3f203bf258159b8fffde",
+          "syAddress": "0x7076dee976098b444f68c6382e8f062237879a9f",
+          "expired": true
+        }
+      }
+    },
+    "0x420df605d062f8611efb3f203bf258159b8fffde": {
+      "chainId": "146",
+      "decimals": 18,
+      "name": "PT stS (Sonic) Sonic",
+      "address": "0x420df605d062f8611efb3f203bf258159b8fffde",
+      "symbol": "PT-stS-29MAY2025",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/1bb28886-399a-484f-ac3d-19263a36ab73.svg",
+      "assetGroup": "PT stS (Sonic) Sonic::PT-stS-29MAY2025",
+      "currencyId": "PT stS (Sonic) Sonic::PT-stS-29MAY2025",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x3aef1d372d0a7a7e482f465bc14a42d78f920392",
+          "expiry": 1748476800,
+          "underlyingAsset": "0xe5da20f15420ad15de0fa650600afc998bbe3955",
+          "ytAddress": "0xd8f57b34e69270f7ba179e854020ee80f16eebf4",
           "syAddress": "0x7076dee976098b444f68c6382e8f062237879a9f",
           "expired": true
         }
@@ -765,16 +765,7 @@
       "assetGroup": "PT wstkscETH (stkscETH) Sonic::PT-wstkscETH-18DEC2025",
       "currencyId": "PT wstkscETH (stkscETH) Sonic::PT-wstkscETH-18DEC2025",
       "tags": ["PT"],
-      "props": {
-        "pendle": {
-          "tokenType": "PT",
-          "marketAddress": "0x7e2bcdb749d90aa1e9e7262872ac8b1e062b2c4d",
-          "expiry": 1766016000,
-          "underlyingAsset": "0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47",
-          "ytAddress": "0xdb7b0ca74c76d3b2449057b54b699d6ba04a4e70",
-          "syAddress": "0x8bb86a99f97f5d19718bd5ca0b0ca00354532ef3"
-        }
-      }
+      "props": { "pendle": { "tokenType": "PT" } }
     },
     "0xdb7b0ca74c76d3b2449057b54b699d6ba04a4e70": {
       "chainId": "146",
@@ -786,16 +777,7 @@
       "assetGroup": "YT wstkscETH (stkscETH) Sonic::YT-wstkscETH-18DEC2025",
       "currencyId": "YT wstkscETH (stkscETH) Sonic::YT-wstkscETH-18DEC2025",
       "tags": ["YT"],
-      "props": {
-        "pendle": {
-          "tokenType": "YT",
-          "marketAddress": "0x7e2bcdb749d90aa1e9e7262872ac8b1e062b2c4d",
-          "expiry": 1766016000,
-          "underlyingAsset": "0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47",
-          "ptAddress": "0x7e52f587f5b870d4c2cac8559ac4c49742d31a28",
-          "syAddress": "0x8bb86a99f97f5d19718bd5ca0b0ca00354532ef3"
-        }
-      }
+      "props": { "pendle": { "tokenType": "YT" } }
     },
     "0x0fb682c9692addcc1769f4d4d938c54420d54fa3": {
       "chainId": "146",
@@ -807,16 +789,7 @@
       "assetGroup": "PT wstkscUSD (stkscUSD) Sonic::PT-wstkscUSD-18DEC2025",
       "currencyId": "PT wstkscUSD (stkscUSD) Sonic::PT-wstkscUSD-18DEC2025",
       "tags": ["PT"],
-      "props": {
-        "pendle": {
-          "tokenType": "PT",
-          "marketAddress": "0x004f76045b42ef3e89814b12b37e69da19c8a212",
-          "expiry": 1766016000,
-          "underlyingAsset": "0x9fb76f7ce5fceaa2c42887ff441d46095e494206",
-          "ytAddress": "0x2405243576fdff777d54963bca4782180287b6a1",
-          "syAddress": "0x896f4d49916ac5cfc36d7a260a7039ba4ea317b6"
-        }
-      }
+      "props": { "pendle": { "tokenType": "PT" } }
     },
     "0x2405243576fdff777d54963bca4782180287b6a1": {
       "chainId": "146",
@@ -828,16 +801,7 @@
       "assetGroup": "YT wstkscUSD (stkscUSD) Sonic::YT-wstkscUSD-18DEC2025",
       "currencyId": "YT wstkscUSD (stkscUSD) Sonic::YT-wstkscUSD-18DEC2025",
       "tags": ["YT"],
-      "props": {
-        "pendle": {
-          "tokenType": "YT",
-          "marketAddress": "0x004f76045b42ef3e89814b12b37e69da19c8a212",
-          "expiry": 1766016000,
-          "underlyingAsset": "0x9fb76f7ce5fceaa2c42887ff441d46095e494206",
-          "ptAddress": "0x0fb682c9692addcc1769f4d4d938c54420d54fa3",
-          "syAddress": "0x896f4d49916ac5cfc36d7a260a7039ba4ea317b6"
-        }
-      }
+      "props": { "pendle": { "tokenType": "YT" } }
     },
     "0x200338559c1975d1f216adcda8352aff2869afab": {
       "chainId": "146",
@@ -891,16 +855,7 @@
       "assetGroup": "PT stS (Sonic) Sonic::PT-stS-18DEC2025",
       "currencyId": "PT stS (Sonic) Sonic::PT-stS-18DEC2025",
       "tags": ["PT"],
-      "props": {
-        "pendle": {
-          "tokenType": "PT",
-          "marketAddress": "0x7fa648887b2a10cbbf7c54d00d86d0b2a0a37b53",
-          "expiry": 1766016000,
-          "underlyingAsset": "0xe5da20f15420ad15de0fa650600afc998bbe3955",
-          "ytAddress": "0x6132c18f4112ef3fcdf2df658ddd0da55d28e5eb",
-          "syAddress": "0x7076dee976098b444f68c6382e8f062237879a9f"
-        }
-      }
+      "props": { "pendle": { "tokenType": "PT" } }
     },
     "0x6132c18f4112ef3fcdf2df658ddd0da55d28e5eb": {
       "chainId": "146",
@@ -912,16 +867,7 @@
       "assetGroup": "YT stS (Sonic) Sonic::YT-stS-18DEC2025",
       "currencyId": "YT stS (Sonic) Sonic::YT-stS-18DEC2025",
       "tags": ["YT"],
-      "props": {
-        "pendle": {
-          "tokenType": "YT",
-          "marketAddress": "0x7fa648887b2a10cbbf7c54d00d86d0b2a0a37b53",
-          "expiry": 1766016000,
-          "underlyingAsset": "0xe5da20f15420ad15de0fa650600afc998bbe3955",
-          "ptAddress": "0xe2bc30a4896ff4c52adcb180213666d2d6b21c6d",
-          "syAddress": "0x7076dee976098b444f68c6382e8f062237879a9f"
-        }
-      }
+      "props": { "pendle": { "tokenType": "YT" } }
     },
     "0xee79b2473e5180f9bd7366f508961655c770f021": {
       "chainId": "146",
@@ -1008,16 +954,7 @@
       "assetGroup": "USDC-Silo Varlamore Sonic::SY-vgUSDC",
       "currencyId": "USDC-Silo Varlamore Sonic::SY-vgUSDC",
       "tags": ["SY"],
-      "props": {
-        "pendle": {
-          "tokenType": "SY",
-          "marketAddress": "0xd0e59a083cc31356d29d9b6d2574024e945468a3",
-          "expiry": 1766016000,
-          "underlyingAsset": "0xf6f87073cf8929c206a77b0694619dc776f89885",
-          "ptAddress": "0x3ed026bd27f7b8435e8daefa4f4f4d8637890c12",
-          "ytAddress": "0xaeb470c21d7e0afd071dfc885535d55d8f096e4a"
-        }
-      }
+      "props": { "pendle": { "tokenType": "SY" } }
     },
     "0x3ed026bd27f7b8435e8daefa4f4f4d8637890c12": {
       "chainId": "146",
@@ -1029,16 +966,7 @@
       "assetGroup": "PT USDC-Silo Varlamore (USDC) Sonic::PT-vgUSDC-18DEC2025",
       "currencyId": "PT USDC-Silo Varlamore (USDC) Sonic::PT-vgUSDC-18DEC2025",
       "tags": ["PT"],
-      "props": {
-        "pendle": {
-          "tokenType": "PT",
-          "marketAddress": "0xd0e59a083cc31356d29d9b6d2574024e945468a3",
-          "expiry": 1766016000,
-          "underlyingAsset": "0xf6f87073cf8929c206a77b0694619dc776f89885",
-          "ytAddress": "0xaeb470c21d7e0afd071dfc885535d55d8f096e4a",
-          "syAddress": "0x3ba56bd2ddf751c6d1929e9f499a1718d424811f"
-        }
-      }
+      "props": { "pendle": { "tokenType": "PT" } }
     },
     "0xaeb470c21d7e0afd071dfc885535d55d8f096e4a": {
       "chainId": "146",
@@ -1050,16 +978,7 @@
       "assetGroup": "YT USDC-Silo Varlamore (USDC) Sonic::YT-vgUSDC-18DEC2025",
       "currencyId": "YT USDC-Silo Varlamore (USDC) Sonic::YT-vgUSDC-18DEC2025",
       "tags": ["YT"],
-      "props": {
-        "pendle": {
-          "tokenType": "YT",
-          "marketAddress": "0xd0e59a083cc31356d29d9b6d2574024e945468a3",
-          "expiry": 1766016000,
-          "underlyingAsset": "0xf6f87073cf8929c206a77b0694619dc776f89885",
-          "ptAddress": "0x3ed026bd27f7b8435e8daefa4f4f4d8637890c12",
-          "syAddress": "0x3ba56bd2ddf751c6d1929e9f499a1718d424811f"
-        }
-      }
+      "props": { "pendle": { "tokenType": "YT" } }
     },
     "0x89a3cfaac1905bb42ee834ac79178705f098a76c": {
       "chainId": "146",
@@ -1071,16 +990,7 @@
       "assetGroup": "USDC-Silo Apostro Sonic::SY-aprUSDC",
       "currencyId": "USDC-Silo Apostro Sonic::SY-aprUSDC",
       "tags": ["SY"],
-      "props": {
-        "pendle": {
-          "tokenType": "SY",
-          "marketAddress": "0xb92dd6487a9644ce384b4a2198aa2dd230e00b72",
-          "expiry": 1766016000,
-          "underlyingAsset": "0xcca902f2d3d265151f123d8ce8fdac38ba9745ed",
-          "ptAddress": "0x4ec936df4a703929361bd7dea86038feba6ebfac",
-          "ytAddress": "0x9c306e72771e77dca71d608e4073926fefdf3480"
-        }
-      }
+      "props": { "pendle": { "tokenType": "SY" } }
     },
     "0x4ec936df4a703929361bd7dea86038feba6ebfac": {
       "chainId": "146",
@@ -1092,16 +1002,7 @@
       "assetGroup": "PT USDC-Silo Apostro (USDC) Sonic::PT-aprUSDC-18DEC2025",
       "currencyId": "PT USDC-Silo Apostro (USDC) Sonic::PT-aprUSDC-18DEC2025",
       "tags": ["PT"],
-      "props": {
-        "pendle": {
-          "tokenType": "PT",
-          "marketAddress": "0xb92dd6487a9644ce384b4a2198aa2dd230e00b72",
-          "expiry": 1766016000,
-          "underlyingAsset": "0xcca902f2d3d265151f123d8ce8fdac38ba9745ed",
-          "ytAddress": "0x9c306e72771e77dca71d608e4073926fefdf3480",
-          "syAddress": "0x89a3cfaac1905bb42ee834ac79178705f098a76c"
-        }
-      }
+      "props": { "pendle": { "tokenType": "PT" } }
     },
     "0x9c306e72771e77dca71d608e4073926fefdf3480": {
       "chainId": "146",
@@ -1113,16 +1014,7 @@
       "assetGroup": "YT USDC-Silo Apostro (USDC) Sonic::YT-aprUSDC-18DEC2025",
       "currencyId": "YT USDC-Silo Apostro (USDC) Sonic::YT-aprUSDC-18DEC2025",
       "tags": ["YT"],
-      "props": {
-        "pendle": {
-          "tokenType": "YT",
-          "marketAddress": "0xb92dd6487a9644ce384b4a2198aa2dd230e00b72",
-          "expiry": 1766016000,
-          "underlyingAsset": "0xcca902f2d3d265151f123d8ce8fdac38ba9745ed",
-          "ptAddress": "0x4ec936df4a703929361bd7dea86038feba6ebfac",
-          "syAddress": "0x89a3cfaac1905bb42ee834ac79178705f098a76c"
-        }
-      }
+      "props": { "pendle": { "tokenType": "YT" } }
     },
     "0x30ccf4bbee313fcd19f3e295b3ba2920a24e2f62": {
       "chainId": "146",
@@ -1197,16 +1089,7 @@
       "assetGroup": "USDC-Silo Greenhouse Sonic::SY-ghUSDC",
       "currencyId": "USDC-Silo Greenhouse Sonic::SY-ghUSDC",
       "tags": ["SY"],
-      "props": {
-        "pendle": {
-          "tokenType": "SY",
-          "marketAddress": "0x784abe614738e4b30add5ae8cc96e59b5728d936",
-          "expiry": 1766016000,
-          "underlyingAsset": "0xf6bc16b79c469b94cdd25f3e2334dd4fee47a581",
-          "ptAddress": "0x01d6dafa8b3bd04bdf7ba6ff76104d15e2b7485c",
-          "ytAddress": "0xad6825518b0d38200a2311489bb3b025df38ec72"
-        }
-      }
+      "props": { "pendle": { "tokenType": "SY" } }
     },
     "0x01d6dafa8b3bd04bdf7ba6ff76104d15e2b7485c": {
       "chainId": "146",
@@ -1218,16 +1101,7 @@
       "assetGroup": "PT USDC-Silo Greenhouse (USDC.e) Sonic::PT-ghUSDC-18DEC2025",
       "currencyId": "PT USDC-Silo Greenhouse (USDC.e) Sonic::PT-ghUSDC-18DEC2025",
       "tags": ["PT"],
-      "props": {
-        "pendle": {
-          "tokenType": "PT",
-          "marketAddress": "0x784abe614738e4b30add5ae8cc96e59b5728d936",
-          "expiry": 1766016000,
-          "underlyingAsset": "0xf6bc16b79c469b94cdd25f3e2334dd4fee47a581",
-          "ytAddress": "0xad6825518b0d38200a2311489bb3b025df38ec72",
-          "syAddress": "0x3a9dc0b33ab3b6e6ce1ead61909f59acd7682036"
-        }
-      }
+      "props": { "pendle": { "tokenType": "PT" } }
     },
     "0xad6825518b0d38200a2311489bb3b025df38ec72": {
       "chainId": "146",
@@ -1239,16 +1113,7 @@
       "assetGroup": "YT USDC-Silo Greenhouse (USDC.e) Sonic::YT-ghUSDC-18DEC2025",
       "currencyId": "YT USDC-Silo Greenhouse (USDC.e) Sonic::YT-ghUSDC-18DEC2025",
       "tags": ["YT"],
-      "props": {
-        "pendle": {
-          "tokenType": "YT",
-          "marketAddress": "0x784abe614738e4b30add5ae8cc96e59b5728d936",
-          "expiry": 1766016000,
-          "underlyingAsset": "0xf6bc16b79c469b94cdd25f3e2334dd4fee47a581",
-          "ptAddress": "0x01d6dafa8b3bd04bdf7ba6ff76104d15e2b7485c",
-          "syAddress": "0x3a9dc0b33ab3b6e6ce1ead61909f59acd7682036"
-        }
-      }
+      "props": { "pendle": { "tokenType": "YT" } }
     },
     "0xdd3059d662497a212e4ef71260387ec6adc6e8b9": {
       "chainId": "146",
@@ -1323,16 +1188,7 @@
       "assetGroup": "smsUSD Sonic::SY-smsUSD",
       "currencyId": "smsUSD Sonic::SY-smsUSD",
       "tags": ["SY"],
-      "props": {
-        "pendle": {
-          "tokenType": "SY",
-          "marketAddress": "0x4aee8d5e242c2485bd124299203c7fa5108c25fc",
-          "expiry": 1761782400,
-          "underlyingAsset": "0xc7990369da608c2f4903715e3bd22f2970536c29",
-          "ptAddress": "0x5ee17fd12ede62b508f9615db384ce7b834ba657",
-          "ytAddress": "0x8ea40880fd6e9647b73fe3faa5042e6694576f0c"
-        }
-      }
+      "props": { "pendle": { "tokenType": "SY" } }
     },
     "0x5ee17fd12ede62b508f9615db384ce7b834ba657": {
       "chainId": "146",
@@ -1344,16 +1200,7 @@
       "assetGroup": "PT smsUSD (msUSD) Sonic::PT-smsUSD-30OCT2025",
       "currencyId": "PT smsUSD (msUSD) Sonic::PT-smsUSD-30OCT2025",
       "tags": ["PT"],
-      "props": {
-        "pendle": {
-          "tokenType": "PT",
-          "marketAddress": "0x4aee8d5e242c2485bd124299203c7fa5108c25fc",
-          "expiry": 1761782400,
-          "underlyingAsset": "0xc7990369da608c2f4903715e3bd22f2970536c29",
-          "ytAddress": "0x8ea40880fd6e9647b73fe3faa5042e6694576f0c",
-          "syAddress": "0x23a052dfcabd4fa7bd52e7e67e0fb0ee596e7383"
-        }
-      }
+      "props": { "pendle": { "tokenType": "PT", "expired": true } }
     },
     "0x8ea40880fd6e9647b73fe3faa5042e6694576f0c": {
       "chainId": "146",
@@ -1365,16 +1212,7 @@
       "assetGroup": "YT smsUSD (msUSD) Sonic::YT-smsUSD-30OCT2025",
       "currencyId": "YT smsUSD (msUSD) Sonic::YT-smsUSD-30OCT2025",
       "tags": ["YT"],
-      "props": {
-        "pendle": {
-          "tokenType": "YT",
-          "marketAddress": "0x4aee8d5e242c2485bd124299203c7fa5108c25fc",
-          "expiry": 1761782400,
-          "underlyingAsset": "0xc7990369da608c2f4903715e3bd22f2970536c29",
-          "ptAddress": "0x5ee17fd12ede62b508f9615db384ce7b834ba657",
-          "syAddress": "0x23a052dfcabd4fa7bd52e7e67e0fb0ee596e7383"
-        }
-      }
+      "props": { "pendle": { "tokenType": "YT", "expired": true } }
     },
     "0xa809c9814d04282490c0078200a7597452a9452d": {
       "chainId": "146",
@@ -1414,7 +1252,8 @@
           "expiry": 1761782400,
           "underlyingAsset": "0xe5fb2ed6832def99dde57c0b9d9a56537c89121d",
           "ytAddress": "0x61c0859debe81b04c3bb2935da2aeb52772ce455",
-          "syAddress": "0xa809c9814d04282490c0078200a7597452a9452d"
+          "syAddress": "0xa809c9814d04282490c0078200a7597452a9452d",
+          "expired": true
         }
       }
     },
@@ -1435,7 +1274,8 @@
           "expiry": 1761782400,
           "underlyingAsset": "0xe5fb2ed6832def99dde57c0b9d9a56537c89121d",
           "ptAddress": "0x319e3bbe49c5f2562e8a35a1480c20f311055d5f",
-          "syAddress": "0xa809c9814d04282490c0078200a7597452a9452d"
+          "syAddress": "0xa809c9814d04282490c0078200a7597452a9452d",
+          "expired": true
         }
       }
     },
@@ -3196,8 +3036,8 @@
       "decimals": 18,
       "name": "sUSDa",
       "address": "0x2840f9d9f96321435ab0f977e7fdbf32ea8b304f",
-      "logoURI": "https://assets.coingecko.com/coins/images/51821/thumb/USDA.png?1732035172",
       "symbol": "sUSDa",
+      "logoURI": "https://assets.coingecko.com/coins/images/51821/thumb/USDA.png?1732035172",
       "assetGroup": "SUSDA",
       "currencyId": "sUSDa::sUSDa",
       "tags": ["AVALON_USDA"]

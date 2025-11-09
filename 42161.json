@@ -4312,27 +4312,6 @@
         }
       }
     },
-    "0x71fbf40651e9d4278a74586afc99f307f369ce9a": {
-      "chainId": "42161",
-      "decimals": 18,
-      "name": "PT wstETH (stETH) Arbitrum",
-      "address": "0x71fbf40651e9d4278a74586afc99f307f369ce9a",
-      "symbol": "PT-wstETH-25JUN2026",
-      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/ae07850a-421b-4fe1-87ec-5ba8fa65da68.svg",
-      "assetGroup": "PT wstETH (stETH) Arbitrum::PT-wstETH-25JUN2026",
-      "currencyId": "PT wstETH (stETH) Arbitrum::PT-wstETH-25JUN2026",
-      "tags": ["PT"],
-      "props": {
-        "pendle": {
-          "tokenType": "PT",
-          "marketAddress": "0xf78452e0f5c0b95fc5dc8353b8cd1e06e53fa25b",
-          "expiry": 1782345600,
-          "underlyingAsset": "0x5979d7b546e38e414f7e9822514be443a4800529",
-          "ytAddress": "0x25bda1edd6af17c61399aa0eb84b93daa3069764",
-          "syAddress": "0x80c12d5b6cc494632bf11b03f09436c8b61cc5df"
-        }
-      }
-    },
     "0x25bda1edd6af17c61399aa0eb84b93daa3069764": {
       "chainId": "42161",
       "decimals": 18,
@@ -4350,6 +4329,27 @@
           "expiry": 1782345600,
           "underlyingAsset": "0x5979d7b546e38e414f7e9822514be443a4800529",
           "ptAddress": "0x71fbf40651e9d4278a74586afc99f307f369ce9a",
+          "syAddress": "0x80c12d5b6cc494632bf11b03f09436c8b61cc5df"
+        }
+      }
+    },
+    "0x71fbf40651e9d4278a74586afc99f307f369ce9a": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "PT wstETH (stETH) Arbitrum",
+      "address": "0x71fbf40651e9d4278a74586afc99f307f369ce9a",
+      "symbol": "PT-wstETH-25JUN2026",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/ae07850a-421b-4fe1-87ec-5ba8fa65da68.svg",
+      "assetGroup": "PT wstETH (stETH) Arbitrum::PT-wstETH-25JUN2026",
+      "currencyId": "PT wstETH (stETH) Arbitrum::PT-wstETH-25JUN2026",
+      "tags": ["PT"],
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0xf78452e0f5c0b95fc5dc8353b8cd1e06e53fa25b",
+          "expiry": 1782345600,
+          "underlyingAsset": "0x5979d7b546e38e414f7e9822514be443a4800529",
+          "ytAddress": "0x25bda1edd6af17c61399aa0eb84b93daa3069764",
           "syAddress": "0x80c12d5b6cc494632bf11b03f09436c8b61cc5df"
         }
       }
@@ -4930,18 +4930,6 @@
         }
       }
     },
-    "0x498d6c547498baff518c4d2f1ce50f8b11aa2a76": {
-      "chainId": "42161",
-      "decimals": 6,
-      "name": "PT syrupUSDC (USDC) Arbitrum",
-      "address": "0x498d6c547498baff518c4d2f1ce50f8b11aa2a76",
-      "symbol": "PT-syrupUSDC-29JAN2026",
-      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/3bebc608-b228-4b1a-81de-363ee24b999b.svg",
-      "assetGroup": "PT syrupUSDC (USDC) Arbitrum::PT-syrupUSDC-29JAN2026",
-      "currencyId": "PT syrupUSDC (USDC) Arbitrum::PT-syrupUSDC-29JAN2026",
-      "tags": ["PT"],
-      "props": { "pendle": { "tokenType": "PT" } }
-    },
     "0x699b1a12c7b4985f746efec7fdcdb545f10a7d12": {
       "chainId": "42161",
       "decimals": 6,
@@ -4953,6 +4941,18 @@
       "currencyId": "YT syrupUSDC (USDC) Arbitrum::YT-syrupUSDC-29JAN2026",
       "tags": ["YT"],
       "props": { "pendle": { "tokenType": "YT" } }
+    },
+    "0x498d6c547498baff518c4d2f1ce50f8b11aa2a76": {
+      "chainId": "42161",
+      "decimals": 6,
+      "name": "PT syrupUSDC (USDC) Arbitrum",
+      "address": "0x498d6c547498baff518c4d2f1ce50f8b11aa2a76",
+      "symbol": "PT-syrupUSDC-29JAN2026",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/3bebc608-b228-4b1a-81de-363ee24b999b.svg",
+      "assetGroup": "PT syrupUSDC (USDC) Arbitrum::PT-syrupUSDC-29JAN2026",
+      "currencyId": "PT syrupUSDC (USDC) Arbitrum::PT-syrupUSDC-29JAN2026",
+      "tags": ["PT"],
+      "props": { "pendle": { "tokenType": "PT" } }
     },
     "0xf6cf4016d463df21a222b71f62fcf56e2c787792": {
       "chainId": "42161",
@@ -4972,7 +4972,7 @@
       "name": "syrupUSDC Arbitrum",
       "address": "0x2288b0558610e8fdfcaccb92d4266676d1ea3827",
       "symbol": "SY-syrupUSDC",
-      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/31825e8f-cffd-41c8-ae85-c5c39103132d.svg",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/792ec510-3b71-4776-823b-5f49619c57f6.svg",
       "assetGroup": "syrupUSDC Arbitrum::SY-syrupUSDC::42161::0",
       "currencyId": "syrupUSDC Arbitrum::SY-syrupUSDC",
       "tags": ["SY"],
@@ -4993,7 +4993,7 @@
       "name": "PT syrupUSDC (USDC) Arbitrum",
       "address": "0x1ef58a7af39883cc95c59a2c106b726c64c2ecc6",
       "symbol": "PT-syrupUSDC-29JAN2026",
-      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/3bebc608-b228-4b1a-81de-363ee24b999b.svg",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/f3679f35-2862-45d1-a14a-fb40297c920a.svg",
       "assetGroup": "PT syrupUSDC (USDC) Arbitrum::PT-syrupUSDC-29JAN2026::42161::0",
       "currencyId": "PT syrupUSDC (USDC) Arbitrum::PT-syrupUSDC-29JAN2026",
       "tags": ["PT"],
@@ -5014,7 +5014,7 @@
       "name": "YT syrupUSDC (USDC) Arbitrum",
       "address": "0x3746743b546e7d2caf2c59cb44159414d2faa42d",
       "symbol": "YT-syrupUSDC-29JAN2026",
-      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/3d06e41f-eee5-4a61-8586-3c1917180302.svg",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/7c103387-47ff-451e-bef4-05b98573e200.svg",
       "assetGroup": "YT syrupUSDC (USDC) Arbitrum::YT-syrupUSDC-29JAN2026::42161::0",
       "currencyId": "YT syrupUSDC (USDC) Arbitrum::YT-syrupUSDC-29JAN2026",
       "tags": ["YT"],
@@ -28555,7 +28555,8 @@
       "symbol": "PGOLD",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/pgold.svg",
       "assetGroup": "Pleasing Gold::PGOLD",
-      "currencyId": "Pleasing Gold::PGOLD"
+      "currencyId": "Pleasing Gold::PGOLD",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0xc8fb643d18f1e53698cfda5c8fdf0cdc03c1dbec": {
       "chainId": "42161",
@@ -28565,7 +28566,8 @@
       "symbol": "PUSD",
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/pleasingusd.svg",
       "assetGroup": "Pleasing USD::PUSD",
-      "currencyId": "Pleasing USD::PUSD"
+      "currencyId": "Pleasing USD::PUSD",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
     },
     "0xfdf5c15cd7d6bd5498c44e1e2837603f2212d96d": {
       "chainId": "42161",
@@ -28576,6 +28578,61 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/seed.svg",
       "assetGroup": "Seed::Seed",
       "currencyId": "Seed::Seed"
+    },
+    "0xc7603786470f04d33e35f9e9b56bd0ca8803fb95": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Lit Protocol",
+      "address": "0xc7603786470f04d33e35f9e9b56bd0ca8803fb95",
+      "symbol": "LITKEY",
+      "logoURI": "https://assets.coingecko.com/coins/images/70287/thumb/litkey.png?1761400668",
+      "assetGroup": "Lit Protocol::LITKEY",
+      "currencyId": "Lit Protocol::LITKEY",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x87ca1ac7697c1240518b464b02e92a856d81aee1": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "a-Hathor",
+      "address": "0x87ca1ac7697c1240518b464b02e92a856d81aee1",
+      "symbol": "AHTR",
+      "logoURI": "https://assets.coingecko.com/coins/images/70422/thumb/Hathor_Icon.png?1761931778",
+      "assetGroup": "a-Hathor::AHTR",
+      "currencyId": "a-Hathor::AHTR",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0xff7f8f301f7a706e3cfd3d2275f5dc0b9ee8009b": {
+      "chainId": "42161",
+      "decimals": 6,
+      "name": "FOLKS",
+      "address": "0xff7f8f301f7a706e3cfd3d2275f5dc0b9ee8009b",
+      "symbol": "FOLKS",
+      "logoURI": "https://assets.coingecko.com/coins/images/70268/thumb/1000331462.png?1761335326",
+      "assetGroup": "FOLKS::FOLKS",
+      "currencyId": "FOLKS::FOLKS",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x475e1cc57af3e40c80570220b1ce079b219605c4": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Ostrich",
+      "address": "0x475e1cc57af3e40c80570220b1ce079b219605c4",
+      "symbol": "RICH",
+      "logoURI": "https://assets.coingecko.com/coins/images/70457/thumb/photo_2025-10-31_20-26-03.jpg?1762082551",
+      "assetGroup": "Ostrich::RICH",
+      "currencyId": "Ostrich::RICH",
+      "tags": ["biconomy-gas-token", "coingecko", "debridge"]
+    },
+    "0x97e66d3c4d5bcd7c64e3e55af28544c9addf9281": {
+      "chainId": "42161",
+      "decimals": 18,
+      "name": "Capx AI",
+      "address": "0x97e66d3c4d5bcd7c64e3e55af28544c9addf9281",
+      "symbol": "CAPX",
+      "logoURI": "https://assets.coingecko.com/coins/images/70528/thumb/capx_logo_icon_-_circle.png?1762334471",
+      "assetGroup": "Capx AI::CAPX",
+      "currencyId": "Capx AI::CAPX",
+      "tags": ["coingecko", "debridge"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "42161",

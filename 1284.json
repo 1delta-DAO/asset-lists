@@ -924,15 +924,8 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/glmr.webp",
       "assetGroup": "GLMR",
       "currencyId": "Glimmer::GLMR",
-      "tags": [
-        "native",
-        "coingecko",
-        "wrapped:0xacc15dc74880c9944775448304b263d191c6077f"
-      ],
-      "props": {
-        "isNative": true,
-        "wrapped": "0xacc15dc74880c9944775448304b263d191c6077f"
-      }
+      "tags": ["native", "coingecko", "wrapped:0xacc15dc74880c9944775448304b263d191c6077f"],
+      "props": { "isNative": true, "wrapped": "0xacc15dc74880c9944775448304b263d191c6077f" }
     }
   },
   "mainTokens": [
@@ -967,7 +960,12 @@
     "0x2cc0a9d8047a5011defe85328a6f26968c8aaa1c",
     "0xdfa46478f9e5ea86d57387849598dbfb2e964b02",
     "0x085416975fe14c2a731a97ec38b9bf8135231f62",
-    "0xe57ebd2d67b462e9926e04a8e33f01cd0d64346d"
+    "0xe57ebd2d67b462e9926e04a8e33f01cd0d64346d",
+    "0x30d2a9f5fdf90ace8c17952cbb4ee48a55d916a7",
+    "0x1dc78acda13a8bc4408b207c9e48cdbc096d95e0",
+    "0x8f552a71efe5eefc207bf75485b356a0b3f01ec9",
+    "0x8e70cd5b4ff3f62659049e74b6649c6603a0e594",
+    "0xc234a67a4f840e61ade794be47de455361b52413"
   ],
   "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",

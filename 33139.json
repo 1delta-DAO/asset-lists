@@ -403,6 +403,28 @@
       "assetGroup": "Zenko Protocol::ZENKO",
       "currencyId": "Zenko Protocol::ZENKO"
     },
+    "0x64ae250e044688ddd04262f17daca23c28d241c2": {
+      "chainId": "33139",
+      "decimals": 18,
+      "name": "Pleasing Gold",
+      "address": "0x64ae250e044688ddd04262f17daca23c28d241c2",
+      "symbol": "PGOLD",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/pgold.svg",
+      "assetGroup": "Pleasing Gold::PGOLD",
+      "currencyId": "Pleasing Gold::PGOLD",
+      "tags": ["coingecko"]
+    },
+    "0x764387ae46fc504b0682bc1ad31963250007e58e": {
+      "chainId": "33139",
+      "decimals": 18,
+      "name": "Pleasing USD",
+      "address": "0x764387ae46fc504b0682bc1ad31963250007e58e",
+      "symbol": "PUSD",
+      "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/pleasingusd.svg",
+      "assetGroup": "Pleasing USD::PUSD",
+      "currencyId": "Pleasing USD::PUSD",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "33139",
       "decimals": 18,
@@ -437,7 +459,9 @@
     "0xe31c676d8235437597581b44c1c4f8a30e90b38a",
     "0xabf185ecc71c9d19d0490b69ae7262ea71a66666",
     "0xf575731b78981b86d34321d875a3d25a48479be6",
-    "0x54a70516e9c0223f4a92be3a4832a06f546e783b"
+    "0x54a70516e9c0223f4a92be3a4832a06f546e783b",
+    "0x64ae250e044688ddd04262f17daca23c28d241c2",
+    "0x764387ae46fc504b0682bc1ad31963250007e58e"
   ],
   "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",

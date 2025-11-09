@@ -11,7 +11,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "tags": ["wnative", "LAYERBANK_V3", "ZEROLEND", "LENDOS"],
+      "tags": ["wnative", "LAYERBANK_V3", "ZEROLEND", "LENDOS", "biconomy-gas-token"],
       "props": { "wnative": true }
     },
     "0xad11a8beb98bbf61dbb1aa0f6d6f2ecd87b35afa": {
@@ -23,7 +23,7 @@
       "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdce.svg",
       "assetGroup": "USDC",
       "currencyId": "Bridged USDC (Stargate)::USDC.e",
-      "tags": ["stargate", "bridged", "LAYERBANK_V3", "ZEROLEND", "LENDOS"],
+      "tags": ["stargate", "bridged", "LAYERBANK_V3", "ZEROLEND", "LENDOS", "biconomy-gas-token"],
       "props": { "permit": { "type": 1, "version": "2" } }
     },
     "0x7a06c4aef988e7925575c50261297a946ad204a8": {
@@ -46,7 +46,7 @@
       "logoURI": "https://raw.githubusercontent.com/kodo-exchange/tokenlist/main/assets/usdt.png",
       "assetGroup": "USDT",
       "currencyId": "Tether USD::USDT",
-      "tags": ["LAYERBANK_V3", "ZEROLEND", "LENDOS"],
+      "tags": ["LAYERBANK_V3", "ZEROLEND", "LENDOS", "biconomy-gas-token"],
       "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xaa40c0c7644e0b2b224509571e10ad20d9c4ef28": {
@@ -58,7 +58,7 @@
       "logoURI": "https://raw.githubusercontent.com/hemilabs/token-list/master/src/logos/hemibtc.svg",
       "assetGroup": "HEMIBTC",
       "currencyId": "Hemi Bitcoin::hemiBTC",
-      "tags": ["LAYERBANK_V3", "ZEROLEND", "LENDOS"]
+      "tags": ["LAYERBANK_V3", "ZEROLEND", "LENDOS", "biconomy-gas-token"]
     },
     "0x623f2774d9f27b59bc6b954544487532ce79d9df": {
       "chainId": "43111",
@@ -352,7 +352,8 @@
       "logoURI": "https://app.satoshiprotocol.org/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FsatIcon.c7c91de1.png&w=32&q=75",
       "assetGroup": "Satoshi Stablecoin V2::satUSD",
       "currencyId": "Satoshi Stablecoin V2::satUSD",
-      "props": { "permit": { "type": 1, "version": "1" } }
+      "props": { "permit": { "type": 1, "version": "1" } },
+      "tags": ["biconomy-gas-token"]
     },
     "0x8bf591eae535f93a242d5a954d3cde648b48a5a8": {
       "chainId": "43111",
@@ -555,7 +556,8 @@
       "symbol": "HEMI",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/HEMI.webp",
       "assetGroup": "Hemi::HEMI",
-      "currencyId": "Hemi::HEMI"
+      "currencyId": "Hemi::HEMI",
+      "tags": ["biconomy-gas-token"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "43111",
@@ -566,7 +568,14 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "assetGroup": "ETH",
       "currencyId": "Ether::ETH",
-      "tags": ["native", "LAYERBANK_V3", "ZEROLEND", "LENDOS", "wrapped:0x4200000000000000000000000000000000000006"],
+      "tags": [
+        "native",
+        "LAYERBANK_V3",
+        "ZEROLEND",
+        "LENDOS",
+        "biconomy-gas-token",
+        "wrapped:0x4200000000000000000000000000000000000006"
+      ],
       "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" }
     }
   },

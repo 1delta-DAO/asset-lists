@@ -495,6 +495,39 @@
       "currencyId": "XBOOS::XBOOS",
       "tags": ["coingecko"]
     },
+    "0x4ae46a509f6b1d9056937ba4500cb143933d2dc8": {
+      "chainId": "196",
+      "decimals": 6,
+      "name": "Global Dollar",
+      "address": "0x4ae46a509f6b1d9056937ba4500cb143933d2dc8",
+      "symbol": "USDG",
+      "logoURI": "https://assets.coingecko.com/coins/images/51281/thumb/GDN_USDG_Token_200x200.png?1730484111",
+      "assetGroup": "Global Dollar::USDG",
+      "currencyId": "Global Dollar::USDG",
+      "tags": ["coingecko"]
+    },
+    "0xd3c8da379d71a33bfee8875f87ac2748beb1d58d": {
+      "chainId": "196",
+      "decimals": 8,
+      "name": "uniBTC",
+      "address": "0xd3c8da379d71a33bfee8875f87ac2748beb1d58d",
+      "symbol": "uniBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455",
+      "assetGroup": "UNIBTC",
+      "currencyId": "uniBTC::uniBTC",
+      "tags": ["coingecko"]
+    },
+    "0xa161132371c94299d215915d4cbc3b629e2059be": {
+      "chainId": "196",
+      "decimals": 8,
+      "name": "brBTC",
+      "address": "0xa161132371c94299d215915d4cbc3b629e2059be",
+      "symbol": "brBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/53039/thumb/brBTC_200.png?1735074374",
+      "assetGroup": "BRBTC",
+      "currencyId": "brBTC::brBTC",
+      "tags": ["coingecko"]
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "196",
       "decimals": 18,
@@ -546,7 +579,8 @@
     "0xf7c868cc4fa5a7300c399c62d891e3dfce440556",
     "0xda90ac6898b841a86960e41ea9eec44471dfe02b",
     "0x0af1b7d7a063b339afe7a64c8e7fd71693e4fe45",
-    "0xb3e7c5d277bccff26bfe5ba90e22fc6d5ac8c8b3"
+    "0xb3e7c5d277bccff26bfe5ba90e22fc6d5ac8c8b3",
+    "0x2dca79ad9909989e2081793961866ad6e7777777"
   ],
   "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",

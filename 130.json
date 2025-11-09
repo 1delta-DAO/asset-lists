@@ -3661,7 +3661,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/68481/thumb/hype.png?1755878697",
       "assetGroup": "Wormhole Bridged HYPE::HYPE",
       "currencyId": "Wormhole Bridged HYPE::HYPE",
-      "tags": ["wormhole", "bridged", "coingecko"]
+      "tags": ["wormhole", "bridged", "coingecko", "biconomy-gas-token"]
     },
     "0xabe69c550ea6ec22bed4b92614511c4f31bb0f64": {
       "chainId": "130",
@@ -3792,6 +3792,61 @@
       "logoURI": "https://assets.coingecko.com/coins/images/55432/thumb/wfrax_64.png?1745993624",
       "assetGroup": "Wrapped FRAX::WFRAX",
       "currencyId": "Wrapped FRAX::WFRAX",
+      "tags": ["coingecko"]
+    },
+    "0x12e96c2bfea6e835cf8dd38a5834fa61cf723736": {
+      "chainId": "130",
+      "decimals": 18,
+      "name": "Dogecoin",
+      "address": "0x12e96c2bfea6e835cf8dd38a5834fa61cf723736",
+      "symbol": "DOGE",
+      "logoURI": "https://assets.coingecko.com/coins/images/5/standard/dogecoin.png?1696501409",
+      "assetGroup": "DOGE",
+      "currencyId": "Dogecoin::DOGE",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x139451953ef1865c096f89c5e522c081dc3b5f11": {
+      "chainId": "130",
+      "decimals": 18,
+      "name": "Plasma",
+      "address": "0x139451953ef1865c096f89c5e522c081dc3b5f11",
+      "symbol": "XPL",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/plasma/info/logo.png",
+      "assetGroup": "XPL",
+      "currencyId": "Plasma::XPL",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x2615a94df961278dcbc41fb0a54fec5f10a693ae": {
+      "chainId": "130",
+      "decimals": 18,
+      "name": "XRP",
+      "address": "0x2615a94df961278dcbc41fb0a54fec5f10a693ae",
+      "symbol": "XRP",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ripple/info/logo.png",
+      "assetGroup": "XRP::XRP",
+      "currencyId": "XRP::XRP",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0x83f31af747189c2fa9e5deb253200c505eff6ed2": {
+      "chainId": "130",
+      "decimals": 18,
+      "name": "Zcash",
+      "address": "0x83f31af747189c2fa9e5deb253200c505eff6ed2",
+      "symbol": "ZEC",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/zcash/info/logo.png",
+      "assetGroup": "Zcash::ZEC",
+      "currencyId": "Zcash::ZEC",
+      "tags": ["biconomy-gas-token"]
+    },
+    "0xd3c8da379d71a33bfee8875f87ac2748beb1d58d": {
+      "chainId": "130",
+      "decimals": 8,
+      "name": "uniBTC",
+      "address": "0xd3c8da379d71a33bfee8875f87ac2748beb1d58d",
+      "symbol": "uniBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/39599/thumb/uniBTC_200px.png?1723064455",
+      "assetGroup": "UNIBTC",
+      "currencyId": "uniBTC::uniBTC",
       "tags": ["coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {

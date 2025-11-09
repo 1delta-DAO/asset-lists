@@ -394,7 +394,18 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/sfrxusd.svg",
       "assetGroup": "Staked Frax USD::sfrxUSD",
       "currencyId": "Staked Frax USD::sfrxUSD",
-      "tags": ["yield"]
+      "tags": ["yield", "coingecko"]
+    },
+    "0xc6135d59f8d10c9c035963ce9037b3635170d716": {
+      "chainId": "747474",
+      "decimals": 18,
+      "name": "Midas mRe7SOL",
+      "address": "0xc6135d59f8d10c9c035963ce9037b3635170d716",
+      "symbol": "MRE7SOL",
+      "logoURI": "https://assets.coingecko.com/coins/images/70338/thumb/mre7sol-C2QhWme8.png?1761638664",
+      "assetGroup": "Midas mRe7SOL::MRE7SOL",
+      "currencyId": "Midas mRe7SOL::MRE7SOL",
+      "tags": ["coingecko"]
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "747474",
@@ -440,7 +451,9 @@
     "0xca52d08737e6af8763a2bf6034b3b03868f24dda",
     "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
     "0x80eede496655fb9047dd39d9f418d5483ed600df",
-    "0x7fb4d0f51544f24f385a421db6e7d4fc71ad8e5c"
+    "0x7fb4d0f51544f24f385a421db6e7d4fc71ad8e5c",
+    "0xc6135d59f8d10c9c035963ce9037b3635170d716",
+    "0x5bff88ca1442c2496f7e475e9e7786383bc070c0"
   ],
   "bridgeTokens": [
     "0x0000000000000000000000000000000000000000",
