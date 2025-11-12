@@ -11,8 +11,7 @@
       "logoURI": "https://tokenlist.glowswap.io/images/glow/0x4200000000000000000000000000000000000006.png",
       "assetGroup": "WBTC",
       "currencyId": "Wrapped BTC::WBTC",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0xe544e8a38add9b1abf21922090445ba93f74b9e5": {
       "chainId": "223",
@@ -192,8 +191,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/btc.webp",
       "assetGroup": "WBTC",
       "currencyId": "Bitcoin::BTC",
-      "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" }
     }
   },
   "mainTokens": [

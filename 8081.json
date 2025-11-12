@@ -27,10 +27,10 @@
       "address": "0x0000000000000000000000000000000000000000",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/shm.webp",
       "currencyId": "Shardeum SHM::SHM",
-      "props": { "isNative": true },
       "name": "Shardeum SHM",
       "symbol": "SHM",
-      "decimals": 18
+      "decimals": 18,
+      "props": { "isNative": true }
     }
   },
   "mainTokens": ["0x0000000000000000000000000000000000000000", "0xb5c7882e37359572fd1ccfaa276e7fdf70145d42"]

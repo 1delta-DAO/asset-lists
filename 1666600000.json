@@ -141,8 +141,7 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/one.jpg",
       "assetGroup": "ONE",
       "currencyId": "Wrapped ONE::WONE",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f": {
       "chainId": "1666600000",
@@ -583,8 +582,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/one.webp",
       "assetGroup": "ONE",
       "currencyId": "ONE::ONE",
-      "props": { "isNative": true, "wrapped": "0xcf664087a5bb0237a0bad6742852ec6c8d69a27a" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0xcf664087a5bb0237a0bad6742852ec6c8d69a27a" }
     }
   },
   "mainTokens": [

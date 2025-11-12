@@ -60,8 +60,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0x2fe3ad97a60eb7c79a976fc18bb5ffd07dd94ba5": {
       "chainId": "169",
@@ -392,8 +391,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "assetGroup": "ETH",
       "currencyId": "Ether::ETH",
-      "props": { "isNative": true, "wrapped": "0x0dc808adce2099a9f62aa87d9670745aba741746" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0x0dc808adce2099a9f62aa87d9670745aba741746" }
     }
   },
   "mainTokens": [

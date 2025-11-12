@@ -281,8 +281,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/39723/thumb/WETH.PNG?1723733967",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0xe3520349f477a5f6eb06107066048508498a291b": {
       "chainId": "1313161554",
@@ -818,8 +817,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "assetGroup": "ETH",
       "currencyId": "Ether::ETH",
-      "props": { "isNative": true, "wrapped": "0xc9bdeed33cd01541e1eed10f90519d2c06fe3feb" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0xc9bdeed33cd01541e1eed10f90519d2c06fe3feb" }
     }
   },
   "mainTokens": [

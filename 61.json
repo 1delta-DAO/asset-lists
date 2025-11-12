@@ -61,8 +61,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/27126/thumb/1321.png?1696526178",
       "assetGroup": "Wrapped ETC::WETC",
       "currencyId": "Wrapped ETC::WETC",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0x1953cab0e5bfa6d4a9bad6e05fd46c1cc6527a5a": {
       "chainId": "61",
@@ -83,8 +82,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/etc.webp",
       "assetGroup": "Wrapped ETC::WETC",
       "currencyId": "Ether::ETC",
-      "props": { "isNative": true, "wrapped": "0x82a618305706b14e7bcf2592d4b9324a366b6dad" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0x82a618305706b14e7bcf2592d4b9324a366b6dad" }
     }
   },
   "mainTokens": [

@@ -51,8 +51,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/17984/thumb/Moonriver_MOVR_ICON.png?1716647589",
       "assetGroup": "MOVR",
       "currencyId": "Wrapped MOVR::WMOVR",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0xf390830df829cf22c53c8840554b98eafc5dcbc2": {
       "chainId": "1285",
@@ -752,8 +751,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/movr.webp",
       "assetGroup": "MOVR",
       "currencyId": "Moonriver::MOVR",
-      "props": { "isNative": true, "wrapped": "0x98878b06940ae243284ca214f92bb71a2b032b8a" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0x98878b06940ae243284ca214f92bb71a2b032b8a" }
     }
   },
   "mainTokens": [

@@ -227,10 +227,10 @@
       "address": "0x0000000000000000000000000000000000000000",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/brise.webp",
       "currencyId": "Bitrise Token::Brise",
-      "props": { "isNative": true },
       "name": "Bitrise Token",
       "symbol": "Brise",
-      "decimals": 18
+      "decimals": 18,
+      "props": { "isNative": true }
     }
   },
   "mainTokens": [

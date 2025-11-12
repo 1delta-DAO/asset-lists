@@ -71,8 +71,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/23952/thumb/tlos_png.png?1722391320",
       "assetGroup": "TLOS",
       "currencyId": "Wrapped TLOS::WTLOS",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0x674843c06ff83502ddb4d37c2e09c01cda38cbc8": {
       "chainId": "40",
@@ -673,8 +672,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/tlos.webp",
       "assetGroup": "TLOS",
       "currencyId": "Telos::TLOS",
-      "props": { "isNative": true, "wrapped": "0xd102ce6a4db07d247fcc28f366a623df0938ca9e" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0xd102ce6a4db07d247fcc28f366a623df0938ca9e" }
     }
   },
   "mainTokens": [

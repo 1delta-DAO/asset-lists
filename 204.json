@@ -11,8 +11,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/53120/thumb/wrapped_bnb.png?1735265071",
       "assetGroup": "BNB",
       "currencyId": "Wrapped BNB::WBNB",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0xb01d49c26416a352fac4fbb3d555d5f2543e3247": {
       "chainId": "204",
@@ -201,8 +200,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/bnb.webp",
       "assetGroup": "BNB",
       "currencyId": "BNB Chain Native Token::BNB",
-      "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" }
     }
   },
   "mainTokens": [

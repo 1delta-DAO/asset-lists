@@ -31,8 +31,7 @@
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/185/0x4200000000000000000000000000000000000006.png",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0xb62f35b9546a908d11c5803ecbba735abc3e3eae": {
       "chainId": "185",
@@ -53,8 +52,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "assetGroup": "ETH",
       "currencyId": "Ether::ETH",
-      "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" }
     }
   },
   "mainTokens": [

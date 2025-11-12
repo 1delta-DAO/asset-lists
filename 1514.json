@@ -31,8 +31,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54378/thumb/image.png?1739437755",
       "assetGroup": "IP",
       "currencyId": "Wrapped IP::WIP",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0xa4f5c615f72ddeb2220471694fff1c0c3de051e1": {
       "chainId": "1514",
@@ -143,6 +142,16 @@
       "assetGroup": "ETH",
       "currencyId": "Stargate Bridged WETH::WETH"
     },
+    "0xc9cbbd8f211300dd0e7a3933b7aeedac6f61dd52": {
+      "chainId": "1514",
+      "decimals": 18,
+      "name": "Aria",
+      "address": "0xc9cbbd8f211300dd0e7a3933b7aeedac6f61dd52",
+      "symbol": "ARIAIP",
+      "logoURI": "https://assets.coingecko.com/coins/images/70388/thumb/logo-abberation-token-white.png?1762454816",
+      "assetGroup": "Aria::ARIAIP",
+      "currencyId": "Aria::ARIAIP"
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "1514",
       "decimals": 18,
@@ -152,8 +161,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/ip.webp",
       "assetGroup": "IP",
       "currencyId": "IP Token::IP",
-      "props": { "isNative": true, "wrapped": "0x1514000000000000000000000000000000000000" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0x1514000000000000000000000000000000000000" }
     }
   },
   "mainTokens": [

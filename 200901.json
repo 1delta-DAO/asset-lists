@@ -110,8 +110,7 @@
       "symbol": "WBTC",
       "assetGroup": "WBTC",
       "currencyId": "Wrapped BTC::WBTC",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0xe8cfc9f5c3ad6eeeced88534aa641355451db326": {
       "chainId": "200901",
@@ -253,8 +252,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/btc.webp",
       "assetGroup": "WBTC",
       "currencyId": "BTC::BTC",
-      "props": { "isNative": true, "wrapped": "0xff204e2681a6fa0e2c3fade68a1b28fb90e4fc5f" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0xff204e2681a6fa0e2c3fade68a1b28fb90e4fc5f" }
     }
   },
   "mainTokens": [

@@ -11,8 +11,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000021/0x4200000000000000000000000000000000000006/small/token-logo.png",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0x05d032ac25d322df992303dca074ee7392c117b9": {
       "chainId": "60808",
@@ -315,8 +314,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "assetGroup": "ETH",
       "currencyId": "Ether::ETH",
-      "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" }
     }
   },
   "mainTokens": [

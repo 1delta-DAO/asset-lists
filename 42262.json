@@ -21,8 +21,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/24486/thumb/oasis.PNG?1696523667",
       "assetGroup": "ROSE",
       "currencyId": "Wrapped ROSE::WROSE",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0x3223f17957ba502cbe71401d55a0db26e5f7c68f": {
       "chainId": "42262",
@@ -113,8 +112,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/rose.webp",
       "assetGroup": "ROSE",
       "currencyId": "Emerald Rose::ROSE",
-      "props": { "isNative": true, "wrapped": "0x21c718c22d52d0f3a789b752d4c2fd5908a8a733" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0x21c718c22d52d0f3a789b752d4c2fd5908a8a733" }
     }
   },
   "mainTokens": [

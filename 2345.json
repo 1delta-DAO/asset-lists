@@ -61,10 +61,10 @@
       "address": "0x0000000000000000000000000000000000000000",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/btc.webp",
       "currencyId": "Bitcoin::BTC",
-      "props": { "isNative": true },
       "name": "Bitcoin",
       "symbol": "BTC",
-      "decimals": 18
+      "decimals": 18,
+      "props": { "isNative": true }
     }
   },
   "mainTokens": [

@@ -11,8 +11,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000025/0x2b1a859de6a55c553520d7780bc5805712b128f9/small/token-logo.png",
       "assetGroup": "Wrapped Sophon::WSOPH",
       "currencyId": "Wrapped Sophon::WSOPH",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0x9aa0f72392b5784ad86c6f3e899bcc053d00db4f": {
       "chainId": "50104",
@@ -43,8 +42,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/soph.webp",
       "assetGroup": "Wrapped Sophon::WSOPH",
       "currencyId": "Sophon::SOPH",
-      "props": { "isNative": true, "wrapped": "0x2b1a859de6a55c553520d7780bc5805712b128f9" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0x2b1a859de6a55c553520d7780bc5805712b128f9" }
     }
   },
   "mainTokens": [

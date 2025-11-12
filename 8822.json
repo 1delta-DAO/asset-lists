@@ -81,8 +81,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/38899/thumb/iota.jpg?1719453346",
       "assetGroup": "Wrapped IOTA::WIOTA",
       "currencyId": "Wrapped IOTA::WIOTA",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0xfbda5f676cb37624f28265a144a48b0d6e87d3b6": {
       "chainId": "8822",
@@ -173,8 +172,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/iota.webp",
       "assetGroup": "Wrapped IOTA::WIOTA",
       "currencyId": "IOTA::IOTA",
-      "props": { "isNative": true, "wrapped": "0x6e47f8d48a01b44df3fff35d258a10a3aedc114c" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0x6e47f8d48a01b44df3fff35d258a10a3aedc114c" }
     }
   },
   "mainTokens": [

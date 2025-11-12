@@ -11,8 +11,7 @@
       "logoURI": "https://assets.bulbaswap.io/icons/2818/address/0x5300000000000000000000000000000000000011.svg",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0x4116bd299e4118b6b1acbfbd9acbaf034a9d5389": {
       "chainId": "2818",
@@ -1264,6 +1263,16 @@
       "assetGroup": "We all Morph::WAM",
       "currencyId": "We all Morph::WAM"
     },
+    "0x2750db4d488841ef49f21d47093ce7f7b93ef236": {
+      "chainId": "2818",
+      "decimals": 18,
+      "name": "M402",
+      "address": "0x2750db4d488841ef49f21d47093ce7f7b93ef236",
+      "symbol": "M402",
+      "logoURI": "https://assets.bulbaswap.io/icons/default.svg",
+      "assetGroup": "M402::M402",
+      "currencyId": "M402::M402"
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "2818",
       "decimals": 18,
@@ -1273,8 +1282,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "assetGroup": "ETH",
       "currencyId": "Ether::ETH",
-      "props": { "isNative": true, "wrapped": "0x5300000000000000000000000000000000000011" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0x5300000000000000000000000000000000000011" }
     }
   },
   "mainTokens": [

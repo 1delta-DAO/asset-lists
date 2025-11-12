@@ -5464,8 +5464,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912",
       "assetGroup": "POL",
       "currencyId": "Wrapped POL::WPOL",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0x0539f01d9ed66c3133a0b0fab83f4fa69b3608e8": {
       "chainId": "137",
@@ -25782,6 +25781,35 @@
       "assetGroup": "FOLKS::FOLKS",
       "currencyId": "FOLKS::FOLKS"
     },
+    "0xd571edb2ef29df10fcd6200fd6d0ed2389983db3": {
+      "chainId": "137",
+      "decimals": 6,
+      "name": "Quantoz EURQ",
+      "address": "0xd571edb2ef29df10fcd6200fd6d0ed2389983db3",
+      "symbol": "EURQ",
+      "logoURI": "https://tokens.debridge.finance/Logo/137/0xd571edb2ef29df10fcd6200fd6d0ed2389983db3/small/token-logo.png",
+      "assetGroup": "Quantoz EURQ::EURQ",
+      "currencyId": "Quantoz EURQ::EURQ"
+    },
+    "0xb291996477504506bf5f583102b5b5ea5d1e40e0": {
+      "chainId": "137",
+      "decimals": 6,
+      "name": "Quantoz USDQ",
+      "address": "0xb291996477504506bf5f583102b5b5ea5d1e40e0",
+      "symbol": "USDQ",
+      "logoURI": "https://tokens.debridge.finance/Logo/137/0xb291996477504506bf5f583102b5b5ea5d1e40e0/small/token-logo.png",
+      "assetGroup": "Quantoz USDQ::USDQ",
+      "currencyId": "Quantoz USDQ::USDQ"
+    },
+    "0x4837b18a6d7af6159c8665505b90a2ed393255e0": {
+      "chainId": "137",
+      "decimals": 18,
+      "name": "Lympid Token",
+      "address": "0x4837b18a6d7af6159c8665505b90a2ed393255e0",
+      "symbol": "LYP",
+      "assetGroup": "Lympid Token::LYP",
+      "currencyId": "Lympid Token::LYP"
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "137",
       "decimals": 18,
@@ -25795,8 +25823,7 @@
         "isNative": true,
         "erc20": "0x0000000000000000000000000000000000001010",
         "wrapped": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
-      },
-      "tags": ["wnative"]
+      }
     }
   },
   "mainTokens": [

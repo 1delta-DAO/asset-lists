@@ -681,8 +681,7 @@
       "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/avalanchec/assets/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
       "assetGroup": "AVAX",
       "currencyId": "Wrapped AVAX::WAVAX",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0x6985884c4392d348587b19cb9eaaf157f13271cd": {
       "chainId": "43114",
@@ -8867,6 +8866,16 @@
       "assetGroup": "Janus Henderson Anemoy AAA CLO Fund::JAAA",
       "currencyId": "Janus Henderson Anemoy AAA CLO Fund::JAAA"
     },
+    "0x27f6c8289550fce67f6b50bedf1519966afe5287": {
+      "chainId": "43114",
+      "decimals": 18,
+      "name": "Tokenised GBP",
+      "address": "0x27f6c8289550fce67f6b50bedf1519966afe5287",
+      "symbol": "TGBP",
+      "logoURI": "https://assets.coingecko.com/coins/images/70647/thumb/tgbp-square.png?1762953800",
+      "assetGroup": "Tokenised GBP::TGBP",
+      "currencyId": "Tokenised GBP::TGBP"
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "43114",
       "decimals": 18,
@@ -8876,8 +8885,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/avax.webp",
       "assetGroup": "AVAX",
       "currencyId": "Avalanche::AVAX",
-      "props": { "isNative": true, "wrapped": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7" }
     }
   },
   "mainTokens": [

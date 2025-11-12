@@ -231,8 +231,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/29276/thumb/wcore.png?1696528228",
       "assetGroup": "CORE",
       "currencyId": "Wrapped CORE::WCORE",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0xe85411c030fb32a9d8b14bbbc6cb19417391f711": {
       "chainId": "1116",
@@ -963,8 +962,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/core.webp",
       "assetGroup": "CORE",
       "currencyId": "Core Blockchain Native Token::CORE",
-      "props": { "isNative": true, "wrapped": "0x40375c92d9faf44d2f9db9bd9ba41a3317a2404f" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0x40375c92d9faf44d2f9db9bd9ba41a3317a2404f" }
     }
   },
   "mainTokens": [

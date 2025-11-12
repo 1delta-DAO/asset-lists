@@ -21,8 +21,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/16036/thumb/Fantom.png?1696515646",
       "assetGroup": "FTM",
       "currencyId": "Wrapped FTM::WFTM",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0x04068da6c83afcfa0e13ba15a6696662335d5b75": {
       "chainId": "250",
@@ -4811,8 +4810,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/ftm.webp",
       "assetGroup": "FTM",
       "currencyId": "Fantom::FTM",
-      "props": { "isNative": true, "wrapped": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83" }
     }
   },
   "mainTokens": [

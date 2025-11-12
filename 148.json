@@ -47,10 +47,10 @@
       "address": "0x0000000000000000000000000000000000000000",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/smr.webp",
       "currencyId": "SMR::SMR",
-      "props": { "isNative": true },
       "name": "SMR",
       "symbol": "SMR",
-      "decimals": 18
+      "decimals": 18,
+      "props": { "isNative": true }
     }
   },
   "mainTokens": ["0x0000000000000000000000000000000000000000", "0xc0e49f8c615d3d4c245970f6dc528e4a47d69a44"]

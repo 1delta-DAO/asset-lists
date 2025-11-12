@@ -41,8 +41,7 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/palm.jpg",
       "assetGroup": "PALM",
       "currencyId": "Wrapped Palm::WPALM",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "11297108109",
@@ -53,8 +52,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/palm.webp",
       "assetGroup": "PALM",
       "currencyId": "PALM::PALM",
-      "props": { "isNative": true, "wrapped": "0xf98cabf0a963452c5536330408b2590567611a71" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0xf98cabf0a963452c5536330408b2590567611a71" }
     }
   },
   "mainTokens": [

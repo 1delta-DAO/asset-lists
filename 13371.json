@@ -11,8 +11,7 @@
       "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xf57e7e7c23978c3caec3c3548e3d615c346e79ff/7a875818146ec0508d3e5f5b14f1b4eb.png",
       "assetGroup": "Wrapped IMX::WIMX",
       "currencyId": "Wrapped IMX::WIMX",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0x6de8acc0d406837030ce4dd28e7c08c5a96a30d2": {
       "chainId": "13371",
@@ -143,8 +142,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/imx.webp",
       "assetGroup": "Wrapped IMX::WIMX",
       "currencyId": "IMX::IMX",
-      "props": { "isNative": true, "wrapped": "0x3a0c2ba54d6cbd3121f01b96dfd20e99d1696c9d" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0x3a0c2ba54d6cbd3121f01b96dfd20e99d1696c9d" }
     }
   },
   "mainTokens": [

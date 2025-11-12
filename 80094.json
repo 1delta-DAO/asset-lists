@@ -952,8 +952,7 @@
       "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/berachain/0x6969696969696969696969696969696969696969/logo.png",
       "assetGroup": "BERA",
       "currencyId": "Wrapped Bera::WBERA",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0x688e72142674041f8f6af4c808a4045ca1d6ac82": {
       "chainId": "80094",
@@ -2238,8 +2237,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/bera.webp",
       "assetGroup": "BERA",
       "currencyId": "BERA Token::BERA",
-      "props": { "isNative": true, "wrapped": "0x6969696969696969696969696969696969696969" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0x6969696969696969696969696969696969696969" }
     }
   },
   "mainTokens": [

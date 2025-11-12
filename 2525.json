@@ -21,8 +21,7 @@
       "logoURI": "https://www.ape.bond/tokenImages/WINJ.png",
       "assetGroup": "Wrapped Injective::WINJ",
       "currencyId": "Wrapped Injective::WINJ",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "2525",
@@ -33,8 +32,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/inj.webp",
       "assetGroup": "Wrapped Injective::WINJ",
       "currencyId": "Injective::INJ",
-      "props": { "isNative": true, "wrapped": "0x69011706b3f6c6eaed7d2bc13801558b4fd94cbf" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0x69011706b3f6c6eaed7d2bc13801558b4fd94cbf" }
     }
   },
   "mainTokens": [

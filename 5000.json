@@ -460,8 +460,7 @@
       "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0x78c1b0C915c4FAA5FffA6CAbf0219DA63d7f4cb8/logo.png",
       "assetGroup": "MNT",
       "currencyId": "Wrapped Mantle::WMNT",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0x201eba5cc46d216ce6dc03f6a759e8e766e956ae": {
       "chainId": "5000",
@@ -1738,8 +1737,7 @@
         "isNative": true,
         "erc20": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000",
         "wrapped": "0x78c1b0c915c4faa5fffa6cabf0219da63d7f4cb8"
-      },
-      "tags": ["wnative"]
+      }
     }
   },
   "mainTokens": [

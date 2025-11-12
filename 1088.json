@@ -131,8 +131,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/34526/thumb/metis.jpeg?1705305707",
       "assetGroup": "METIS",
       "currencyId": "Wrapped Metis::WMETIS",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0xc029adf62cf8f91985c49e1fde6900affcba0424": {
       "chainId": "1088",
@@ -564,8 +563,7 @@
         "isNative": true,
         "erc20": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000",
         "wrapped": "0x75cb093e4d61d2a2e65d8e0bbb01de8d89b53481"
-      },
-      "tags": ["wnative"]
+      }
     }
   },
   "mainTokens": [

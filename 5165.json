@@ -11,8 +11,7 @@
       "logoURI": "https://coin-images.coingecko.com/coins/images/28478/large/lightenicon_200x200.png?1696527472",
       "assetGroup": "FTN",
       "currencyId": "Wrapped FTN::WFTN",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0xdef886c55a79830c47108eeb9c37e78a49684e41": {
       "chainId": "5165",
@@ -61,8 +60,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/ftn.webp",
       "assetGroup": "FTN",
       "currencyId": "FTN::FTN",
-      "props": { "isNative": true, "wrapped": "0x4084ab20f8ffca76c19aaf854fb5fe9de6217fbb" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0x4084ab20f8ffca76c19aaf854fb5fe9de6217fbb" }
     }
   },
   "mainTokens": [

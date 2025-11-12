@@ -2750,8 +2750,7 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0xd7b99ffb8b2afc6fe013a17207cbe50f223adc94": {
       "chainId": "8453",
@@ -31068,6 +31067,86 @@
       "assetGroup": "x402MKT::LOOP",
       "currencyId": "x402MKT::LOOP"
     },
+    "0x299ffb0929fe889e29e7197fdbb6d8f5d7affef6": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "aerialaether",
+      "address": "0x299ffb0929fe889e29e7197fdbb6d8f5d7affef6",
+      "symbol": "AERA",
+      "logoURI": "https://assets.coingecko.com/coins/images/70598/thumb/e1h42i0uohbwsi88p5c0q2vlndic.?1762700490",
+      "assetGroup": "aerialaether::AERA",
+      "currencyId": "aerialaether::AERA"
+    },
+    "0x67c5f00491c09cbcf6359f95690574e6106bb3cf": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "CC0 COMPANY",
+      "address": "0x67c5f00491c09cbcf6359f95690574e6106bb3cf",
+      "symbol": "CC0COMPANY",
+      "logoURI": "https://assets.coingecko.com/coins/images/70643/thumb/cc0logo.png?1762947457",
+      "assetGroup": "CC0 COMPANY::CC0COMPANY",
+      "currencyId": "CC0 COMPANY::CC0COMPANY"
+    },
+    "0xa4bbac7ed5bda8ec71a1af5ee84d4c5a737bd875": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "SMOL",
+      "address": "0xa4bbac7ed5bda8ec71a1af5ee84d4c5a737bd875",
+      "symbol": "SMOL",
+      "logoURI": "https://assets.coingecko.com/coins/images/54182/thumb/smolcoin_%281%29.png?1738667346",
+      "assetGroup": "SMOL::SMOL",
+      "currencyId": "SMOL::SMOL"
+    },
+    "0xc2ff2e5aa9023b1bb688178a4a547212f4614bc0": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "PRXVT by Virtuals",
+      "address": "0xc2ff2e5aa9023b1bb688178a4a547212f4614bc0",
+      "symbol": "PRXVT",
+      "logoURI": "https://assets.coingecko.com/coins/images/70627/thumb/mxdJ79hy_400x400.jpg?1762849223",
+      "assetGroup": "PRXVT by Virtuals::PRXVT",
+      "currencyId": "PRXVT by Virtuals::PRXVT"
+    },
+    "0xdb4f5678aa11bbe0f980bf36c511d923bd3d5471": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "AMAI",
+      "address": "0xdb4f5678aa11bbe0f980bf36c511d923bd3d5471",
+      "symbol": "AMAI",
+      "logoURI": "https://assets.coingecko.com/coins/images/70611/thumb/LOGO_AMAI_CG1.png?1762755030",
+      "assetGroup": "AMAI::AMAI",
+      "currencyId": "AMAI::AMAI"
+    },
+    "0x27f6c8289550fce67f6b50bedf1519966afe5287": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Tokenised GBP",
+      "address": "0x27f6c8289550fce67f6b50bedf1519966afe5287",
+      "symbol": "TGBP",
+      "logoURI": "https://assets.coingecko.com/coins/images/70647/thumb/tgbp-square.png?1762953800",
+      "assetGroup": "Tokenised GBP::TGBP",
+      "currencyId": "Tokenised GBP::TGBP"
+    },
+    "0x032d86656db142138ac97d2c5c4e3766e8c0482d": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Allora",
+      "address": "0x032d86656db142138ac97d2c5c4e3766e8c0482d",
+      "symbol": "ALLO",
+      "logoURI": "https://assets.coingecko.com/coins/images/70609/thumb/allora.png?1762738776",
+      "assetGroup": "Allora::ALLO",
+      "currencyId": "Allora::ALLO"
+    },
+    "0x863b7364a29daa23c9fcbd02e27d129a8b185891": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Singularity Finance",
+      "address": "0x863b7364a29daa23c9fcbd02e27d129a8b185891",
+      "symbol": "SFI",
+      "logoURI": "https://assets.coingecko.com/coins/images/54242/thumb/uvrV4k4z_400x400.jpg?1738886449",
+      "assetGroup": "Singularity Finance::SFI",
+      "currencyId": "Singularity Finance::SFI"
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "8453",
       "decimals": 18,
@@ -31077,8 +31156,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "assetGroup": "ETH",
       "currencyId": "Ether::ETH",
-      "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0x4200000000000000000000000000000000000006" }
     }
   },
   "mainTokens": [

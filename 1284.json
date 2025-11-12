@@ -33,8 +33,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/23688/thumb/Moonbeam_WGLMR_ICON.png?1716655228",
       "assetGroup": "GLMR",
       "currencyId": "Wrapped Glimmer::WGLMR",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0xcd3b51d98478d53f4515a306be565c6eebef1d58": {
       "chainId": "1284",
@@ -862,8 +861,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/glmr.webp",
       "assetGroup": "GLMR",
       "currencyId": "Glimmer::GLMR",
-      "props": { "isNative": true, "wrapped": "0xacc15dc74880c9944775448304b263d191c6077f" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0xacc15dc74880c9944775448304b263d191c6077f" }
     }
   },
   "mainTokens": [

@@ -11,8 +11,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/26884/thumb/hb8hQIWP_400x400.jpeg?1696525943",
       "assetGroup": "DOGE",
       "currencyId": "Wrapped DOGE::WDOGE",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0x7b4328c127b85369d9f82ca0503b000d09cf9180": {
       "chainId": "2000",
@@ -223,8 +222,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/doge.webp",
       "assetGroup": "DOGE",
       "currencyId": "Dogecoin::DOGE",
-      "props": { "isNative": true, "wrapped": "0xb7ddc6414bf4f5515b52d8bdd69973ae205ff101" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0xb7ddc6414bf4f5515b52d8bdd69973ae205ff101" }
     }
   },
   "mainTokens": [

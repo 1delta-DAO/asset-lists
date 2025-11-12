@@ -110,8 +110,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/11062/thumb/Identity-Primary-DarkBG.png?1696511004",
       "assetGroup": "XDAI",
       "currencyId": "Wrapped xDAI::WXDAI",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1": {
       "chainId": "100",
@@ -5746,6 +5745,7 @@
       "name": "The 4th Pillar Token on Gnosis",
       "address": "0xe6ff35dc3227a0c46e92b640bcb5c5895ad8c687",
       "symbol": "FOUR",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xe6ff35dc3227a0c46e92b640bcb5c5895ad8c687.png",
       "assetGroup": "The 4th Pillar Token on Gnosis::FOUR",
       "currencyId": "The 4th Pillar Token on Gnosis::FOUR"
     },
@@ -7501,8 +7501,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/xdai.webp",
       "assetGroup": "XDAI",
       "currencyId": "xDAI::XDAI",
-      "props": { "isNative": true, "wrapped": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d" }
     }
   },
   "mainTokens": [

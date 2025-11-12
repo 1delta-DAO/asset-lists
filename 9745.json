@@ -928,8 +928,7 @@
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x6100e367285b01f48d07953803a2d8dca5d19873.png",
       "assetGroup": "XPL",
       "currencyId": "Wrapped XPL::WXPL",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb": {
       "chainId": "9745",
@@ -1359,6 +1358,7 @@
       "name": "ebUSD Stablecoin",
       "address": "0xef7b1a03e0897c33b63159e38d779e3970c0e2fc",
       "symbol": "ebUSD",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xef7b1a03e0897c33b63159e38d779e3970c0e2fc.png",
       "assetGroup": "ebUSD Stablecoin::ebUSD",
       "currencyId": "ebUSD Stablecoin::ebUSD"
     },
@@ -1371,8 +1371,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/xpl.webp",
       "assetGroup": "XPL",
       "currencyId": "Plasma::XPL",
-      "props": { "isNative": true, "wrapped": "0x6100e367285b01f48d07953803a2d8dca5d19873" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0x6100e367285b01f48d07953803a2d8dca5d19873" }
     }
   },
   "mainTokens": [

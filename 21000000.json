@@ -11,8 +11,7 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/btcn.svg",
       "assetGroup": "Wrapped Bitcorn::WBTCN",
       "currencyId": "Wrapped Bitcorn::WBTCN",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0xdf0b24095e15044538866576754f3c964e902ee6": {
       "chainId": "21000000",
@@ -202,8 +201,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/btcn.webp",
       "assetGroup": "Wrapped Bitcorn::WBTCN",
       "currencyId": "Bitcorn::BTCN",
-      "props": { "isNative": true, "wrapped": "0xda5ddd7270381a7c2717ad10d1c0ecb19e3cdfb2" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0xda5ddd7270381a7c2717ad10d1c0ecb19e3cdfb2" }
     }
   },
   "mainTokens": [

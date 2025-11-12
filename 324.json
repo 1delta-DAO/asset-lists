@@ -1689,10 +1689,10 @@
       "address": "0x0000000000000000000000000000000000000000",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "currencyId": "Ether::ETH",
-      "props": { "isNative": true },
       "name": "Ether",
       "symbol": "ETH",
-      "decimals": 18
+      "decimals": 18,
+      "props": { "isNative": true }
     }
   },
   "mainTokens": [

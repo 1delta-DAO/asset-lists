@@ -461,8 +461,7 @@
       "logoURI": "https://hecoinfo.com/token/images/HT_32.png",
       "assetGroup": "Wrapped HT::WHT",
       "currencyId": "Wrapped HT::WHT",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73": {
       "chainId": "128",
@@ -493,8 +492,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/ht.webp",
       "assetGroup": "Wrapped HT::WHT",
       "currencyId": "Huobi ECO Chain Native Token::HT",
-      "props": { "isNative": true, "wrapped": "0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f" }
     }
   },
   "mainTokens": [

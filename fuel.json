@@ -159,7 +159,7 @@
       "address": "0x21e7241044805feb3d9276ac9dc89272ac49ca4cd73561c9a9bc25be2e14179d",
       "symbol": "LCK",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2Fliquid_chicken_v2.png?alt=media&token=3c8dd53e-6557-4ca8-85ed-9452b4b4afe0",
-      "assetGroup": "Liquid Chicken::LCK",
+      "assetGroup": "Liquid Chicken::LCK::fuel",
       "currencyId": "Liquid Chicken::LCK"
     },
     "0xb257ae1cd8c8715172e67b2e593834dddf58fde9a3a9618e25dfa538bff95abd": {
@@ -649,7 +649,7 @@
       "address": "0xfed8cbb29a2f77c8a58da7ec6db6b9695ec416dc531bbee61df6044e26a29659",
       "symbol": "DAWN",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2F5233665036453536546.jpg?alt=media&token=d6359329-ccf4-4932-932b-cb2b43a92fd6",
-      "assetGroup": "DAWN::DAWN",
+      "assetGroup": "DAWN::DAWN::fuel",
       "currencyId": "DAWN::DAWN"
     },
     "0xda2c3272bc71a13da2719a842d4dc4241a707cb238f132ac2932d21c0c847ab4": {
@@ -969,7 +969,7 @@
       "address": "0x8099f549005951cd427061dd76a7394ffc420ebc8f8244701bbf9f60f5835506",
       "symbol": "Ape",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2Fbored.jpeg?alt=media&token=ea7d8ac3-b5ab-4cb1-aafd-d2105adc7ad0",
-      "assetGroup": "Fuel Ape::Ape",
+      "assetGroup": "Fuel Ape::Ape::fuel",
       "currencyId": "Fuel Ape::Ape"
     },
     "0x6974d91c33d76a8041620cfdc62e00caa0a737ae8183f74d2db0a443e8c5d7a8": {
@@ -999,7 +999,7 @@
       "address": "0x993b96d20fc0dfc6750c6fa1b4cd31a9ac375f9df0fd42713759b6eb4083e1e7",
       "symbol": "$AZEE",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2FWhatsApp%20Image%202024-07-16%20at%2015.42.14_0adb81e6.jpg?alt=media&token=466a3f73-a3a6-448e-833d-c9755babd373",
-      "assetGroup": "AZEE ANDREAS::$AZEE",
+      "assetGroup": "AZEE ANDREAS::$AZEE::fuel",
       "currencyId": "AZEE ANDREAS::$AZEE"
     },
     "0xa880277e9038028b0027eb48acfb4b9c969efa1c5829c2cc76b764f8009b5387": {
@@ -1009,7 +1009,7 @@
       "address": "0xa880277e9038028b0027eb48acfb4b9c969efa1c5829c2cc76b764f8009b5387",
       "symbol": "$AZEE",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2FWhatsApp%20Image%202024-07-16%20at%2015.42.14_0adb81e6.jpg?alt=media&token=466a3f73-a3a6-448e-833d-c9755babd373",
-      "assetGroup": "AZEE ANDREAS::$AZEE::fuel::0",
+      "assetGroup": "AZEE ANDREAS::$AZEE::fuel",
       "currencyId": "AZEE ANDREAS::$AZEE"
     },
     "0xe2ab398447232d296dae4bb9b766ba10b6914ac606b18bd18138d6d5a27617b1": {
@@ -1029,7 +1029,7 @@
       "address": "0xeb4120280fa54ec6021be32038e5760e28c543c1bd85f04db29ad4e904237025",
       "symbol": "LARRY",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2FUntitled.jpg?alt=media&token=6b0d05cf-fa17-42d2-b9fb-6eeecf91cc76",
-      "assetGroup": "DIMWIT LARRY::LARRY",
+      "assetGroup": "DIMWIT LARRY::LARRY::fuel",
       "currencyId": "DIMWIT LARRY::LARRY"
     },
     "0x95c9ff2df4b274bc4a1d48c81e7e3ca9b70b1f3b41276f8f8e4096a24a619f40": {
@@ -1039,7 +1039,7 @@
       "address": "0x95c9ff2df4b274bc4a1d48c81e7e3ca9b70b1f3b41276f8f8e4096a24a619f40",
       "symbol": "LARRY",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2FUntitled.jpg?alt=media&token=6b0d05cf-fa17-42d2-b9fb-6eeecf91cc76",
-      "assetGroup": "DIMWIT LARRY::LARRY::fuel::0",
+      "assetGroup": "DIMWIT LARRY::LARRY::fuel",
       "currencyId": "DIMWIT LARRY::LARRY"
     },
     "0x1e84f60a5a97b693ed63bbd2ce884c393bcab698f0f124585cd51a5912852b19": {
@@ -1079,7 +1079,7 @@
       "address": "0x4692540150f99cf8e761605861a1908109d5e260ecd9e5549fce2fcd4d2d6e0c",
       "symbol": "DBS",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2Fpuppy-4575648_1280.jpg?alt=media&token=5c21afaa-62d2-49ca-96d6-d93248901da8",
-      "assetGroup": "DogeBucks::DBS",
+      "assetGroup": "DogeBucks::DBS::fuel",
       "currencyId": "DogeBucks::DBS"
     },
     "0xc5a8057f2b5f45309a3c7750cb9dc2d5a82d003bebe494c5c3d6b4f081a2222b": {
@@ -1349,7 +1349,7 @@
       "address": "0xcf95f9175679cc253c7db250816e94ae17a6708b0e084b94e4e49b46b5a47b92",
       "symbol": "DUCKY",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2FDucky%20logo.png?alt=media&token=0b77a7f4-7e24-44fe-aadb-f0ec487b8742",
-      "assetGroup": "Ducky::DUCKY",
+      "assetGroup": "Ducky::DUCKY::fuel",
       "currencyId": "Ducky::DUCKY"
     },
     "0x834f697d3eb83c1a335f42597014ba3488fb6b70502d33057bb5a31b5c284ab1": {
@@ -1359,7 +1359,7 @@
       "address": "0x834f697d3eb83c1a335f42597014ba3488fb6b70502d33057bb5a31b5c284ab1",
       "symbol": "DUCKY",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2FDucky%20logo.png?alt=media&token=0b77a7f4-7e24-44fe-aadb-f0ec487b8742",
-      "assetGroup": "Ducky::DUCKY::fuel::0",
+      "assetGroup": "Ducky::DUCKY::fuel",
       "currencyId": "Ducky::DUCKY"
     },
     "0xc444ee6628adc67383a703a2c83369bd204c5aacae9fabab5dff7ce3b82f3dc6": {
@@ -1379,7 +1379,7 @@
       "address": "0x04a875294d72a41e40e2b39078287899749a191adece617c6573b105d904e66b",
       "symbol": "DUCKY",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2FDucky%20logo.png?alt=media&token=0b77a7f4-7e24-44fe-aadb-f0ec487b8742",
-      "assetGroup": "Ducky::DUCKY::fuel::1",
+      "assetGroup": "Ducky::DUCKY::fuel",
       "currencyId": "Ducky::DUCKY"
     },
     "0x426354295beb28be9d4ffccbb19b058e0d68d6f7febf56fd862d170258d64cb2": {
@@ -1399,7 +1399,7 @@
       "address": "0xa44121ea8f9339665b721582d77193ca163ae5f56e36b3799e4ecaf78ec9ee1f",
       "symbol": "$AZEE",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2FWhatsApp%20Image%202024-07-16%20at%2015.42.14_0adb81e6.jpg?alt=media&token=c98181ce-551a-4b07-adb9-cc0fd6b52624",
-      "assetGroup": "AZEE ANDREAS::$AZEE::fuel::1",
+      "assetGroup": "AZEE ANDREAS::$AZEE::fuel",
       "currencyId": "AZEE ANDREAS::$AZEE"
     },
     "0xd327ff133134d96ddc9e5c028b86dc87f59af071a7b23b229b36113d40b53fd7": {
@@ -1719,7 +1719,7 @@
       "address": "0x8db322ba826c65799cd7e9778952de62c3fc6cf110b51bac68f38bb95c658d9f",
       "symbol": "FINU",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2F15.jpg?alt=media&token=d259a648-95b1-4175-aed5-c87062a5c9e6",
-      "assetGroup": "Fuel Inu::FINU",
+      "assetGroup": "Fuel Inu::FINU::fuel",
       "currencyId": "Fuel Inu::FINU"
     },
     "0x6ee26ab202c828bcb8e8bb12810bce5ab7fe03afe646cad266fa7b3104ec303b": {
@@ -1899,7 +1899,7 @@
       "address": "0x20130637204d5caeafd600c219af9039b8c9d1185d742e8eea604261721d0fff",
       "symbol": "ZOE",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2FA_simple_yet_striking_dog_logo_for_a_memecoin_proj.jpg?alt=media&token=b6efaa6b-9517-4d7f-8b0e-fd70a69ce891",
-      "assetGroup": "ZOE DOG AI::ZOE",
+      "assetGroup": "ZOE DOG AI::ZOE::fuel",
       "currencyId": "ZOE DOG AI::ZOE"
     },
     "0x85a02aab85d9d1ac211b9eb3e11626b4e045b2d98887a2e3303045848166306c": {
@@ -1909,7 +1909,7 @@
       "address": "0x85a02aab85d9d1ac211b9eb3e11626b4e045b2d98887a2e3303045848166306c",
       "symbol": "ZOE",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2FA_simple_yet_striking_dog_logo_for_a_memecoin_proj.jpg?alt=media&token=b6efaa6b-9517-4d7f-8b0e-fd70a69ce891",
-      "assetGroup": "ZOE DOG AI::ZOE::fuel::0",
+      "assetGroup": "ZOE DOG AI::ZOE::fuel",
       "currencyId": "ZOE DOG AI::ZOE"
     },
     "0x71ae030ec727587e29ea94fb5aaf04739d73859bf538f4f58160fd01335e92f3": {
@@ -1919,7 +1919,7 @@
       "address": "0x71ae030ec727587e29ea94fb5aaf04739d73859bf538f4f58160fd01335e92f3",
       "symbol": "ZOE",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2FA_simple_yet_striking_dog_logo_for_a_memecoin_proj.jpg?alt=media&token=b6efaa6b-9517-4d7f-8b0e-fd70a69ce891",
-      "assetGroup": "ZOE DOG AI::ZOE::fuel::1",
+      "assetGroup": "ZOE DOG AI::ZOE::fuel",
       "currencyId": "ZOE DOG AI::ZOE"
     },
     "0x4ab9b02231c5662d878ad06e60229e9d2db3271d66cd9e42f0c2b9b9eeba7ab8": {
@@ -1929,7 +1929,7 @@
       "address": "0x4ab9b02231c5662d878ad06e60229e9d2db3271d66cd9e42f0c2b9b9eeba7ab8",
       "symbol": "ZOE",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2FA_simple_yet_striking_dog_logo_for_a_memecoin_proj.jpg?alt=media&token=b2fa33fc-af0d-4253-8937-0f4b3ffaafab",
-      "assetGroup": "ZOE DOG AI::ZOE::fuel::2",
+      "assetGroup": "ZOE DOG AI::ZOE::fuel",
       "currencyId": "ZOE DOG AI::ZOE"
     },
     "0xe6d47946a37e5b11707845a38b4f53eae2edccbca4f3518ed88e2d72e923bd9a": {
@@ -1939,7 +1939,7 @@
       "address": "0xe6d47946a37e5b11707845a38b4f53eae2edccbca4f3518ed88e2d72e923bd9a",
       "symbol": "ZOE",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2FA_simple_yet_striking_dog_logo_for_a_memecoin_proj.jpg?alt=media&token=b2fa33fc-af0d-4253-8937-0f4b3ffaafab",
-      "assetGroup": "ZOE DOG AI::ZOE::fuel::3",
+      "assetGroup": "ZOE DOG AI::ZOE::fuel",
       "currencyId": "ZOE DOG AI::ZOE"
     },
     "0x235d94ed1ae4ed85918bbf6887436e77aa85a8d7339206c89c1bb33fa622280c": {
@@ -2039,7 +2039,7 @@
       "address": "0x1bc59c4678ad03e1b3bc27f51eae7b40377bf240ee0beece302e562d62e1e2b7",
       "symbol": "Daram",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2F1729835853868.jpg?alt=media&token=7ee8b942-16a0-45e0-8e80-102b5597c343",
-      "assetGroup": "Daram::Daram",
+      "assetGroup": "Daram::Daram::fuel",
       "currencyId": "Daram::Daram"
     },
     "0x538d44e705d406ef16ca3bf0a00e686da215d35edd7ee4ebc84d576cf994d548": {
@@ -2189,7 +2189,7 @@
       "address": "0xaf097a41408274384e21d31dbb587ffe7cdf60e8e979a9b4517075431fed9ca6",
       "symbol": "GOAT",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2Fgoat.jpg?alt=media&token=d39d971b-b048-48b0-a412-6f2eff747010",
-      "assetGroup": "Goatseus Maximus::GOAT",
+      "assetGroup": "Goatseus Maximus::GOAT::fuel",
       "currencyId": "Goatseus Maximus::GOAT"
     },
     "0x071dbbae75afa049ba93956ba20afc4e2558288fb7cd2da377e624b422ac3e38": {
@@ -2309,7 +2309,7 @@
       "address": "0x815a1337237da05e9ca28f77b3709f05254d5b686bc69d50937410802033f207",
       "symbol": "GOAT",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2Fgoat.jpeg?alt=media&token=2b1cd3be-a39f-49ef-89ba-0677ba3e88e8",
-      "assetGroup": "Goatseus Maximus::GOAT::fuel::0",
+      "assetGroup": "Goatseus Maximus::GOAT::fuel",
       "currencyId": "Goatseus Maximus::GOAT"
     },
     "0x3fa661d8e6d8702464de3b35e915c4353d104334dd1a447c1a3f5250ff74d9fe": {
@@ -2369,7 +2369,7 @@
       "address": "0x8fecef2d7d370e3777c1795cc68e45c14b1a524377b039c87d6d86bddb5016fa",
       "symbol": "FEFE",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2F%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202024-01-31%20224808.png?alt=media&token=96fd63d8-858f-40ac-b0ea-c423e7fbfa2e",
-      "assetGroup": "FEFE::FEFE",
+      "assetGroup": "FEFE::FEFE::fuel",
       "currencyId": "FEFE::FEFE"
     },
     "0xbe2abc71f7fb0cb418357a2a635f763c050fb8d5757b7d3b83bb3408f2976315": {
@@ -2379,7 +2379,7 @@
       "address": "0xbe2abc71f7fb0cb418357a2a635f763c050fb8d5757b7d3b83bb3408f2976315",
       "symbol": "FEFE",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2F%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202024-01-31%20224808.png?alt=media&token=96fd63d8-858f-40ac-b0ea-c423e7fbfa2e",
-      "assetGroup": "FEFE::FEFE::fuel::0",
+      "assetGroup": "FEFE::FEFE::fuel",
       "currencyId": "FEFE::FEFE"
     },
     "0xbe68f90799b2a232a50570345195389dcf7b329265cd9a705316b50bc7d697fd": {
@@ -2389,7 +2389,7 @@
       "address": "0xbe68f90799b2a232a50570345195389dcf7b329265cd9a705316b50bc7d697fd",
       "symbol": "FEFE",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2F%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202024-01-31%20224808.png?alt=media&token=96fd63d8-858f-40ac-b0ea-c423e7fbfa2e",
-      "assetGroup": "FEFE::FEFE::fuel::1",
+      "assetGroup": "FEFE::FEFE::fuel",
       "currencyId": "FEFE::FEFE"
     },
     "0x1c80408e8a290d2b96759d236259e3cc9e89dbb1a1b76423f63e1442db9c26d4": {
@@ -2449,7 +2449,7 @@
       "address": "0x8251ef5779861cf7663ccfd26a1ab82068e97e51ccaf5c5798aadd4787839281",
       "symbol": "$$$$$$$",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2F%23FreeDurov_avatar.png?alt=media&token=5c036b8a-fd04-4021-a46f-fae2a0d7864a",
-      "assetGroup": "Rug Pull::$$$$$$$",
+      "assetGroup": "Rug Pull::$$$$$$$::fuel",
       "currencyId": "Rug Pull::$$$$$$$"
     },
     "0xde36119362b600597fa766db9f24a92ded44f096d76fd12e72fb9276145a23ff": {
@@ -2459,7 +2459,7 @@
       "address": "0xde36119362b600597fa766db9f24a92ded44f096d76fd12e72fb9276145a23ff",
       "symbol": "$$$$$$$",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2F%23FreeDurov_avatar.png?alt=media&token=5c036b8a-fd04-4021-a46f-fae2a0d7864a",
-      "assetGroup": "Rug Pull::$$$$$$$::fuel::0",
+      "assetGroup": "Rug Pull::$$$$$$$::fuel",
       "currencyId": "Rug Pull::$$$$$$$"
     },
     "0xc0f0c4b56be3b99050600e4a7e53c36188192cc637cac338120845d160e235cf": {
@@ -2489,7 +2489,7 @@
       "address": "0x0e4bedbae9506d43ff35dc21ab41b039796c95186a25f3af1d7e89a2b1e341bb",
       "symbol": "Nearlong",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2F%E4%B9%83%E9%BE%99.jpg?alt=media&token=d90cea97-0055-4bdc-9007-b9e4cbb905c2",
-      "assetGroup": "Nearlong::Nearlong",
+      "assetGroup": "Nearlong::Nearlong::fuel",
       "currencyId": "Nearlong::Nearlong"
     },
     "0xb75024befa9c191434c4997cc5ed80de7735b0142430f616dfa298445033cb67": {
@@ -2499,7 +2499,7 @@
       "address": "0xb75024befa9c191434c4997cc5ed80de7735b0142430f616dfa298445033cb67",
       "symbol": "Nearlong",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2F%E4%B9%83%E9%BE%99.jpg?alt=media&token=d90cea97-0055-4bdc-9007-b9e4cbb905c2",
-      "assetGroup": "Nearlong::Nearlong::fuel::0",
+      "assetGroup": "Nearlong::Nearlong::fuel",
       "currencyId": "Nearlong::Nearlong"
     },
     "0x2542212f0fe88de65e2e32deb5791df3ded28c104ede6171529a10e72ff3404b": {
@@ -2669,7 +2669,7 @@
       "address": "0xc6d53f42a25537695eff2bac4117f1f0810369d7a7e20e8cdc9cd40c310cd891",
       "symbol": "PA",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2FWechatIMG43.jpg?alt=media&token=ded7b9a7-9f74-4f77-aa63-7369c9716e9b",
-      "assetGroup": "panda::PA",
+      "assetGroup": "panda::PA::fuel",
       "currencyId": "panda::PA"
     },
     "0x129f0584e98795a19afc87db0637cdadf0f4338b17ac6f8d0514283a43b66748": {
@@ -2679,7 +2679,7 @@
       "address": "0x129f0584e98795a19afc87db0637cdadf0f4338b17ac6f8d0514283a43b66748",
       "symbol": "PA",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2FWechatIMG43.jpg?alt=media&token=ded7b9a7-9f74-4f77-aa63-7369c9716e9b",
-      "assetGroup": "panda::PA::fuel::0",
+      "assetGroup": "panda::PA::fuel",
       "currencyId": "panda::PA"
     },
     "0x8a697ae31532b22eab9970d83bab7d9f1c7f636ae17dc03c6ab4b6d28a9ccc5e": {
@@ -2719,7 +2719,7 @@
       "address": "0x61b56907b7cfd6a0ed403476539d51d1202c87874d93761207eb7986fc7b498b",
       "symbol": "DA",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2F1381761').png?alt=media&token=6f83fc49-01ba-401a-9244-04deb2ce9143",
-      "assetGroup": "DORADCYNL::DA",
+      "assetGroup": "DORADCYNL::DA::fuel",
       "currencyId": "DORADCYNL::DA"
     },
     "0xb27fd3f84be1629849c6b733c02f91c60cf44926c16abee83507c310d591835d": {
@@ -3659,7 +3659,7 @@
       "address": "0xd5c37648af1b84f7d7e131bf3e0189641085b896e0fc3e5ca16b11591550ac36",
       "symbol": "PGE",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2Fimages%20(7).jpeg?alt=media&token=dfccad66-e48c-438b-b6ae-6e086daf9f00",
-      "assetGroup": "PARKGOEUN::PGE",
+      "assetGroup": "PARKGOEUN::PGE::fuel",
       "currencyId": "PARKGOEUN::PGE"
     },
     "0x507659a4eb7d407ea9eda353cf08e20fbdfe8f9acf8fc3625bc71d2db03cee6f": {
@@ -3899,7 +3899,7 @@
       "address": "0x07df785bf02f7f4a8aab5236b7b590ef5a0fa3a956cb1787a1898bebed838fc3",
       "symbol": "PUNKY",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2Fcryptopunk.JPG?alt=media&token=1f1d19ab-194d-40c7-86da-80f6d41c1d89",
-      "assetGroup": "Happy crypto punk::PUNKY",
+      "assetGroup": "Happy crypto punk::PUNKY::fuel",
       "currencyId": "Happy crypto punk::PUNKY"
     },
     "0x599f1b9c021739af682344616a5474d0ce7f74f692b213c6dc9f2685ad421739": {
@@ -3909,7 +3909,7 @@
       "address": "0x599f1b9c021739af682344616a5474d0ce7f74f692b213c6dc9f2685ad421739",
       "symbol": "PUNKY",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2Fcryptopunk.JPG?alt=media&token=1f1d19ab-194d-40c7-86da-80f6d41c1d89",
-      "assetGroup": "Happy crypto punk::PUNKY::fuel::0",
+      "assetGroup": "Happy crypto punk::PUNKY::fuel",
       "currencyId": "Happy crypto punk::PUNKY"
     },
     "0x19a6dc84b515e8db75cd581b11121078e40e9879094f4202b77c8cf6ab37bf1c": {
@@ -4919,7 +4919,7 @@
       "address": "0xdcd63715f6c4c90e24eb7b0e33c141555b29945bd39925a4d85f88a0594399f1",
       "symbol": "pepe",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/meme-fun-fuel.appspot.com/o/images%2F1500x500%20(1).jpg?alt=media&token=e0f1c285-10c5-4da6-88fa-ad67765197ee",
-      "assetGroup": "pepecoin::pepe",
+      "assetGroup": "pepecoin::pepe::fuel",
       "currencyId": "pepecoin::pepe"
     },
     "0x01046a9422782d0f3b768fef7d8c2d16f0f641b3d322b9988b88504e8fd6cf88": {
@@ -4929,7 +4929,7 @@
       "address": "0x01046a9422782d0f3b768fef7d8c2d16f0f641b3d322b9988b88504e8fd6cf88",
       "symbol": "pepe",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/meme-fun-fuel.appspot.com/o/images%2F1500x500%20(1).jpg?alt=media&token=e0f1c285-10c5-4da6-88fa-ad67765197ee",
-      "assetGroup": "pepecoin::pepe::fuel::0",
+      "assetGroup": "pepecoin::pepe::fuel",
       "currencyId": "pepecoin::pepe"
     },
     "0xe5bef99c0185d527d1f5f93e5c3efa7fad5b956b3f58675720a29d2cdf588955": {
@@ -4939,7 +4939,7 @@
       "address": "0xe5bef99c0185d527d1f5f93e5c3efa7fad5b956b3f58675720a29d2cdf588955",
       "symbol": "pepe",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/meme-fun-fuel.appspot.com/o/images%2F1500x500%20(1).jpg?alt=media&token=e0f1c285-10c5-4da6-88fa-ad67765197ee",
-      "assetGroup": "pepecoin::pepe::fuel::1",
+      "assetGroup": "pepecoin::pepe::fuel",
       "currencyId": "pepecoin::pepe"
     },
     "0xc62b736c8fb85c4acf471d74ab39720947830070715bdec1a439a30258445949": {
@@ -4959,7 +4959,7 @@
       "address": "0x720d692aed05d660d72df6487a44c4378ca8dcf4ba430220350bb8ff3c769b3a",
       "symbol": "pepe",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/meme-fun-fuel.appspot.com/o/images%2F1500x500%20(1).jpg?alt=media&token=211e4493-5243-4d72-94d3-3268caa9d48c",
-      "assetGroup": "PEPECOIN::pepe",
+      "assetGroup": "PEPECOIN::pepe::fuel",
       "currencyId": "PEPECOIN::pepe"
     },
     "0x196ab8b4851f5181800096d6f6f63ba4037d85d1f4b8d223fa9dea8182a97de3": {
@@ -6259,7 +6259,7 @@
       "address": "0xcc6c5a859ef6bf091d8c9cb680454441274a30adeddf27cdc7d135bcf50ea23d",
       "symbol": "hfnb cv",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/meme-fun-fuel.appspot.com/o/images%2Fgoose-pfp-4127.svg?alt=media&token=190bf675-8f19-406d-a206-ac45b3adfda1",
-      "assetGroup": "gndfbvc::hfnb cv",
+      "assetGroup": "gndfbvc::hfnb cv::fuel",
       "currencyId": "gndfbvc::hfnb cv"
     },
     "0xa5985b2743443014a2e83dc9e4fa6a0bd133a43fd7b13b89f8d57dc3317864ed": {
@@ -6299,7 +6299,7 @@
       "address": "0x0ca4429570a021c35f9f3846fb5e06683abf3fce41fd53fe350a5395d4270968",
       "symbol": "wefd",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/meme-fun-fuel.appspot.com/o/images%2Fgoose-pfp-881704.svg?alt=media&token=83d257e9-2b07-4484-9fbd-a94c84803d86",
-      "assetGroup": "khs::wefd",
+      "assetGroup": "khs::wefd::fuel",
       "currencyId": "khs::wefd"
     },
     "0x6513814e8d612a069fb4200e41f74cc1fce2287aca34caf1b71e32d93a4ca420": {
@@ -6309,7 +6309,7 @@
       "address": "0x6513814e8d612a069fb4200e41f74cc1fce2287aca34caf1b71e32d93a4ca420",
       "symbol": "fvdc",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/meme-fun-fuel.appspot.com/o/images%2F1663c3a2-3437-40cf-b54a-c25aa876f2d0.webp?alt=media&token=df591f27-9fc1-499f-8cb3-8150cbe573d3",
-      "assetGroup": "gvfd::fvdc",
+      "assetGroup": "gvfd::fvdc::fuel",
       "currencyId": "gvfd::fvdc"
     },
     "0xeeb1c475067c60c7598289e8fc83e863fe178c4afa42fb27c93d98d5801c217a": {
@@ -6449,7 +6449,7 @@
       "address": "0xfe980238cc3dbd99442488b16201dcdfe5bd3cc4cb72ff4de2649dd3dcc78560",
       "symbol": "DRAB2.0",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/meme-fun-fuel.appspot.com/o/images%2FBVRR54dhZEUo8nEPtfgkGiOA-3skrz8Kb2jD7T4992A.jpg?alt=media&token=0d1fd412-6603-4e39-a1d7-05a617e55d56",
-      "assetGroup": "DRAGON BALL2.0::DRAB2.0",
+      "assetGroup": "DRAGON BALL2.0::DRAB2.0::fuel",
       "currencyId": "DRAGON BALL2.0::DRAB2.0"
     },
     "0x8aa6755e4c296252f32fdd0a99a2d84a59ec60bedef539a08f8060b3e86aa3b1": {
@@ -6569,7 +6569,7 @@
       "address": "0xaf61445c2640c0029058f5f7c9152d15fa1030616992ee2abf7247e1d15faaf0",
       "symbol": "lao",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/meme-fun-fuel.appspot.com/o/images%2FGPpBatIb0AAOO_L.jpeg?alt=media&token=8c911992-ad7b-4af3-8b66-018d0dc7abdd",
-      "assetGroup": "laoaoaoa::lao",
+      "assetGroup": "laoaoaoa::lao::fuel",
       "currencyId": "laoaoaoa::lao"
     },
     "0x1996b0e54ae26d1c94bd500a46d7bdfa54c805598fd28650b9d2c5cff0d4f6be": {
@@ -6649,7 +6649,7 @@
       "address": "0xa20c6bb5483318b5b105dfaf70e442a5e2113a309dd9cb7879206a671d126bea",
       "symbol": "FCAT",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/meme-fun-fuel.appspot.com/o/images%2Fimg-FPHgLQQLtyxGPpkMQ3PvF.jpeg?alt=media&token=40077675-df13-45b0-babd-648110ed3bc0",
-      "assetGroup": "FUEL CAT::FCAT",
+      "assetGroup": "FUEL CAT::FCAT::fuel",
       "currencyId": "FUEL CAT::FCAT"
     },
     "0x42107f733a13be2507a17f45835460eef2e58034b0760d9b1217850dd32ec3d9": {
@@ -7609,7 +7609,7 @@
       "address": "0x43fcd6681de9ca7d0dfb80de374c9f9b6f7c5c02cb64b62cec26f804a07babf0",
       "symbol": "GALA",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/meme-fun-fuel.appspot.com/o/images%2FFs6xGxAWAAE3GyY.jpg?alt=media&token=bea8b0df-fb5e-46b5-b6a7-1290b165b142",
-      "assetGroup": "GALA::GALA",
+      "assetGroup": "GALA::GALA::fuel",
       "currencyId": "GALA::GALA"
     },
     "0x3096274c9cb106e219c51b978be3c3607afc659833f6a391a46faf4167a26110": {
@@ -7929,7 +7929,7 @@
       "address": "0xc12a09cebbce9d53928db8c69b023d9a957d5bed30f259ca5765ed33e23452c6",
       "symbol": "2025",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/meme-fun-fuel.appspot.com/o/images%2F2025.jpg?alt=media&token=9e02db0a-ff49-414a-ab6b-8b2691e6e2ac",
-      "assetGroup": "2025::2025",
+      "assetGroup": "2025::2025::fuel",
       "currencyId": "2025::2025"
     },
     "0xa218c4bab6a89fb1a26c192621f183f710af112b812127efc42f17ce8a384e14": {
@@ -7969,7 +7969,7 @@
       "address": "0x86fa05e9fef64f76fa61c03f5906c87a03cb9148120b6171910566173d36fc9e",
       "symbol": "PSYCHO",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2FPsyco%20Ducky%20Final%20logo.png?alt=media&token=4b321e05-c8b7-482f-a3ef-a9518bf71a4e",
-      "assetGroup": "PSYCHO DUCKY::PSYCHO",
+      "assetGroup": "PSYCHO DUCKY::PSYCHO::fuel",
       "currencyId": "PSYCHO DUCKY::PSYCHO"
     },
     "0x0c1b1f29bd70d86a23a03b25e1decd146e6a3f2ecdf78581ab697f3204d558f0": {
@@ -8049,7 +8049,7 @@
       "address": "0x29246ad6f65ecd673b966deccc85bc888edc4dd7781a2be0940c7def011499d1",
       "symbol": "FDOG",
       "logoURI": "https://firebasestorage.googleapis.com/v0/b/pump-555ee.appspot.com/o/images%2F3jmLRuRh_400x400.jpg?alt=media&token=d50443cb-70f3-4441-858d-cb02c92d4248",
-      "assetGroup": "Fuel Up Dog::FDOG",
+      "assetGroup": "Fuel Up Dog::FDOG::fuel",
       "currencyId": "Fuel Up Dog::FDOG"
     },
     "0x4e45261d6049d60a2756f6a47c1b8ec106549926a735269ab42166b4c1e710b7": {
@@ -8321,8 +8321,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "assetGroup": "ETH",
       "currencyId": "Ethereum::ETH",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0x1d5d97005e41cae2187a895fd8eab0506111e0e2f3331cd3912c15c24e3c1d82": {
       "chainId": "fuel",

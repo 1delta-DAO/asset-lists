@@ -31,8 +31,7 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/weth.svg",
       "assetGroup": "ETH",
       "currencyId": "Wrapped Ether::WETH",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "360",
@@ -43,8 +42,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "assetGroup": "ETH",
       "currencyId": "Ether::ETH",
-      "props": { "isNative": true, "wrapped": "0x09bf29b44130e88f113c1fb0487bcb97b6920c31" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0x09bf29b44130e88f113c1fb0487bcb97b6920c31" }
     }
   },
   "mainTokens": [

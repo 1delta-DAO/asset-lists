@@ -51,8 +51,7 @@
       "logoURI": "https://icecreamswap-assets.s3.amazonaws.com/token/2415/0x2F3AD0cdC8AD20337eb02bD6411b808EE30c7896.png",
       "assetGroup": "XODEX",
       "currencyId": "Wrapped XODEX::WXODEX",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "2415",
@@ -63,8 +62,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/xodex.webp",
       "assetGroup": "XODEX",
       "currencyId": "XODEX Native Token::XODEX",
-      "props": { "isNative": true, "wrapped": "0x2f3ad0cdc8ad20337eb02bd6411b808ee30c7896" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0x2f3ad0cdc8ad20337eb02bd6411b808ee30c7896" }
     }
   },
   "mainTokens": [

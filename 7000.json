@@ -81,8 +81,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/35398/thumb/wzeta.png?1708490516",
       "assetGroup": "ZETA",
       "currencyId": "Wrapped ZETA::WZETA",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0xcba2aeec821b0b119857a9ab39e09b034249681a": {
       "chainId": "7000",
@@ -132,8 +131,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/zeta.webp",
       "assetGroup": "ZETA",
       "currencyId": "Zeta::ZETA",
-      "props": { "isNative": true, "wrapped": "0x5f0b1a82749cb4e2278ec87f8bf6b618dc71a8bf" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0x5f0b1a82749cb4e2278ec87f8bf6b618dc71a8bf" }
     }
   },
   "mainTokens": [

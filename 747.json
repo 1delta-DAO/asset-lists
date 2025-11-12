@@ -51,8 +51,7 @@
       "logoURI": "https://tokens.debridge.finance/Logo/100000009/0xd3bf53dac106a0290b0483ecbc89d40fcc961f3e/small/token-logo.png",
       "assetGroup": "Wrapped Flow::WFLOW",
       "currencyId": "Wrapped Flow::WFLOW",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0x1b97100ea1d7126c4d60027e231ea4cb25314bdb": {
       "chainId": "747",
@@ -83,8 +82,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/flow.webp",
       "assetGroup": "Wrapped Flow::WFLOW",
       "currencyId": "FLOW::FLOW",
-      "props": { "isNative": true, "wrapped": "0xd3bf53dac106a0290b0483ecbc89d40fcc961f3e" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0xd3bf53dac106a0290b0483ecbc89d40fcc961f3e" }
     }
   },
   "mainTokens": [

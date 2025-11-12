@@ -2011,8 +2011,7 @@
       "logoURI": "https://vvs-ui.vvs.finance/a088a8a9b4e0ff0e44d99e41d509d19cac879a9c99077ca73d41b8f5a929186a.svg",
       "assetGroup": "Wrapped CRO::WCRO",
       "currencyId": "Wrapped CRO::WCRO",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0x2d03bece6747adc00e1a131bba1469c15fd11e03": {
       "chainId": "25",
@@ -3163,8 +3162,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/cro.webp",
       "assetGroup": "Wrapped CRO::WCRO",
       "currencyId": "Cronos::CRO",
-      "props": { "isNative": true, "wrapped": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23" }
     }
   },
   "mainTokens": [

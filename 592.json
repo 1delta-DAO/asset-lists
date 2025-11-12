@@ -11,8 +11,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/26638/thumb/astar.jpeg?1696525710",
       "assetGroup": "ASTR",
       "currencyId": "Wrapped ASTR::WASTR",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0x6a2d262d56735dba19dd70682b39f6be9a931d98": {
       "chainId": "592",
@@ -222,8 +221,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/astr.webp",
       "assetGroup": "ASTR",
       "currencyId": "Astar::ASTR",
-      "props": { "isNative": true, "wrapped": "0xaeaaf0e2c81af264101b9129c00f4440ccf0f720" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0xaeaaf0e2c81af264101b9129c00f4440ccf0f720" }
     }
   },
   "mainTokens": [

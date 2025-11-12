@@ -11,8 +11,7 @@
       "logoURI": "https://raw.githubusercontent.com/CamelotLabs/default-token-list/main/src/assets/ape.svg",
       "assetGroup": "APE",
       "currencyId": "Wrapped ApeCoin::WAPE",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0xa2235d059f80e176d931ef76b6c51953eb3fbef4": {
       "chainId": "33139",
@@ -413,8 +412,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/ape.webp",
       "assetGroup": "APE",
       "currencyId": "ApeCoin::APE",
-      "props": { "isNative": true, "wrapped": "0x48b62137edfa95a428d35c09e44256a739f6b557" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0x48b62137edfa95a428d35c09e44256a739f6b557" }
     }
   },
   "mainTokens": [

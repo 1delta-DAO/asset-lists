@@ -1823,8 +1823,7 @@
       "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png",
       "assetGroup": "BNB",
       "currencyId": "Wrapped BNB::WBNB",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0xe9e7cea3dedca5984780bafc599bd69add087d56": {
       "chainId": "56",
@@ -54069,6 +54068,165 @@
       "assetGroup": "ElizaOS::ELIZAOS",
       "currencyId": "ElizaOS::ELIZAOS"
     },
+    "0x1775504c5873e179ea2f8abfce3861ec74d159bc": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "CashPlus",
+      "address": "0x1775504c5873e179ea2f8abfce3861ec74d159bc",
+      "symbol": "CASH+",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x1775504c5873e179Ea2f8ABFcE3861EC74D159bc.png",
+      "assetGroup": "CashPlus::CASH+",
+      "currencyId": "CashPlus::CASH+"
+    },
+    "0x7a0bc0f5de87be3b2fe00546df583668b2994444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Community of BNB",
+      "address": "0x7a0bc0f5de87be3b2fe00546df583668b2994444",
+      "symbol": "CBNB",
+      "logoURI": "https://assets.coingecko.com/coins/images/70593/thumb/9i68nlkosrgyu8zepdhloo6x4yul.?1762698512",
+      "assetGroup": "Community of BNB::CBNB",
+      "currencyId": "Community of BNB::CBNB"
+    },
+    "0xd2687b3801c5cb1f0eca5a8acc74de2a0fb049a9": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "Pepe CZ",
+      "address": "0xd2687b3801c5cb1f0eca5a8acc74de2a0fb049a9",
+      "symbol": "PEPECZ",
+      "logoURI": "https://assets.coingecko.com/coins/images/70649/thumb/logo.png?1762962288",
+      "assetGroup": "Pepe CZ::PEPECZ",
+      "currencyId": "Pepe CZ::PEPECZ"
+    },
+    "0xe054017a2f0ecfa294b08a74af319bce0b985a39": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Lucidum",
+      "address": "0xe054017a2f0ecfa294b08a74af319bce0b985a39",
+      "symbol": "LUCIC",
+      "logoURI": "https://assets.coingecko.com/coins/images/70630/thumb/lucidium_400x400.jpg?1762856342",
+      "assetGroup": "Lucidum::LUCIC",
+      "currencyId": "Lucidum::LUCIC"
+    },
+    "0xea3faf047279d861e95c2105fe2c2160b29989e2": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "Baby Giggle",
+      "address": "0xea3faf047279d861e95c2105fe2c2160b29989e2",
+      "symbol": "BGIGGLE",
+      "logoURI": "https://assets.coingecko.com/coins/images/70642/thumb/logo.jpg?1762947045",
+      "assetGroup": "Baby Giggle::BGIGGLE",
+      "currencyId": "Baby Giggle::BGIGGLE"
+    },
+    "0x08352620afa34ad8c82492661481d7ab62634444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "crypto guy",
+      "address": "0x08352620afa34ad8c82492661481d7ab62634444",
+      "symbol": "CRYPTOGUY",
+      "assetGroup": "crypto guy::CRYPTOGUY",
+      "currencyId": "crypto guy::CRYPTOGUY"
+    },
+    "0x44cf455dec530bb165bf218b4af1b559664117cb": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Khorus",
+      "address": "0x44cf455dec530bb165bf218b4af1b559664117cb",
+      "symbol": "KHO",
+      "logoURI": "https://assets.coingecko.com/coins/images/70645/thumb/Khorus_Logo_Icon_Dark_Linear_%281%29.png?1762949334",
+      "assetGroup": "Khorus::KHO",
+      "currencyId": "Khorus::KHO"
+    },
+    "0x0ee3e6f8a6acd7211e2f7ddd3c23213cca5d67e5": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "GodStack",
+      "address": "0x0ee3e6f8a6acd7211e2f7ddd3c23213cca5d67e5",
+      "symbol": "GSTACK",
+      "logoURI": "https://assets.coingecko.com/coins/images/70648/thumb/gJXlB65z_400x400.jpg?1762956047",
+      "assetGroup": "GodStack::GSTACK",
+      "currencyId": "GodStack::GSTACK"
+    },
+    "0xe50c9dae2b8cfe5224c1a4096a0959f8ca975df2": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "CUSTODIY",
+      "address": "0xe50c9dae2b8cfe5224c1a4096a0959f8ca975df2",
+      "symbol": "CTY",
+      "logoURI": "https://assets.coingecko.com/coins/images/70607/thumb/IMG_20220804_011032_777.jpg?1762706976",
+      "assetGroup": "CUSTODIY::CTY::56::0",
+      "currencyId": "CUSTODIY::CTY"
+    },
+    "0x35673b5be65c277e9a41a2262a8995eb69707c17": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "Bitcoin Hyper",
+      "address": "0x35673b5be65c277e9a41a2262a8995eb69707c17",
+      "symbol": "HYPER",
+      "logoURI": "https://assets.coingecko.com/coins/images/70613/thumb/logo200.png?1762756382",
+      "assetGroup": "Bitcoin Hyper::HYPER::56::0",
+      "currencyId": "Bitcoin Hyper::HYPER"
+    },
+    "0x44442271e6ca7336a29032838d70675680adc7df": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Archivas",
+      "address": "0x44442271e6ca7336a29032838d70675680adc7df",
+      "symbol": "RCHV",
+      "logoURI": "https://assets.coingecko.com/coins/images/70614/thumb/output-onlinepngtools_%2811%29.png?1762756566",
+      "assetGroup": "Archivas::RCHV",
+      "currencyId": "Archivas::RCHV"
+    },
+    "0x39aea3d999eddbfbe73015b9b274cb912a144444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Astherus",
+      "address": "0x39aea3d999eddbfbe73015b9b274cb912a144444",
+      "symbol": "ASTHERUS",
+      "logoURI": "https://assets.coingecko.com/coins/images/70615/thumb/astherus_logo_200x200.png?1762757240",
+      "assetGroup": "Astherus::ASTHERUS",
+      "currencyId": "Astherus::ASTHERUS"
+    },
+    "0xb71481985b0d6531b2b208d1cf87a40507214444": {
+      "chainId": "56",
+      "decimals": 9,
+      "name": "11.11",
+      "address": "0xb71481985b0d6531b2b208d1cf87a40507214444",
+      "symbol": "11.11",
+      "logoURI": "https://assets.coingecko.com/coins/images/70635/thumb/ChatGPT_Image_Nov_11__2025__10_49_40_AM.png?1762902787",
+      "assetGroup": "11.11::11.11",
+      "currencyId": "11.11::11.11"
+    },
+    "0x27f6c8289550fce67f6b50bedf1519966afe5287": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Tokenised GBP",
+      "address": "0x27f6c8289550fce67f6b50bedf1519966afe5287",
+      "symbol": "TGBP",
+      "logoURI": "https://assets.coingecko.com/coins/images/70647/thumb/tgbp-square.png?1762953800",
+      "assetGroup": "Tokenised GBP::TGBP",
+      "currencyId": "Tokenised GBP::TGBP"
+    },
+    "0xea37a8de1de2d9d10772eeb569e28bfa5cb17707": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Janction",
+      "address": "0xea37a8de1de2d9d10772eeb569e28bfa5cb17707",
+      "symbol": "JCT",
+      "logoURI": "https://assets.coingecko.com/coins/images/70608/thumb/janction.png?1762738430",
+      "assetGroup": "Janction::JCT",
+      "currencyId": "Janction::JCT"
+    },
+    "0xcce5f304fd043d6a4e8ccb5376a4a4fb583b98d5": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Allora",
+      "address": "0xcce5f304fd043d6a4e8ccb5376a4a4fb583b98d5",
+      "symbol": "ALLO",
+      "logoURI": "https://assets.coingecko.com/coins/images/70609/thumb/allora.png?1762738776",
+      "assetGroup": "Allora::ALLO",
+      "currencyId": "Allora::ALLO"
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "56",
       "decimals": 18,
@@ -54078,8 +54236,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/bnb.webp",
       "assetGroup": "BNB",
       "currencyId": "BNB Chain Native Token::BNB",
-      "props": { "isNative": true, "wrapped": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c" }
     }
   },
   "mainTokens": [

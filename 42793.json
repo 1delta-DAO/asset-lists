@@ -21,8 +21,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/51172/thumb/WXTZ_Logo_black.png?1741099768",
       "assetGroup": "XTZ",
       "currencyId": "Wrapped XTZ::WXTZ",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0x2c03058c8afc06713be23e58d2febc8337dbfe6a": {
       "chainId": "42793",
@@ -214,6 +213,16 @@
       "assetGroup": "Midas mMEV::MMEV",
       "currencyId": "Midas mMEV::MMEV"
     },
+    "0x004a476b5b76738e34c86c7144554b9d34402f13": {
+      "chainId": "42793",
+      "decimals": 18,
+      "name": "Curve DAO",
+      "address": "0x004a476b5b76738e34c86c7144554b9d34402f13",
+      "symbol": "CRV",
+      "logoURI": "https://assets.coingecko.com/coins/images/12124/thumb/Curve.png?1696511967",
+      "assetGroup": "Curve DAO::CRV",
+      "currencyId": "Curve DAO::CRV"
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "42793",
       "decimals": 18,
@@ -223,8 +232,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/xtz.webp",
       "assetGroup": "XTZ",
       "currencyId": "tez::XTZ",
-      "props": { "isNative": true, "wrapped": "0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab" }
     }
   },
   "mainTokens": [

@@ -702,15 +702,25 @@
       "assetGroup": "LOL Land::LOL",
       "currencyId": "LOL Land::LOL"
     },
+    "0xcea652accfd9dab53fa1242294f4910708cc0cc2": {
+      "chainId": "2741",
+      "decimals": 18,
+      "name": "BlockchainSpace",
+      "address": "0xcea652accfd9dab53fa1242294f4910708cc0cc2",
+      "symbol": "GUILD",
+      "logoURI": "https://assets.coingecko.com/coins/images/21271/thumb/BednjMw.png?1696520642",
+      "assetGroup": "GUILD",
+      "currencyId": "BlockchainSpace::GUILD"
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "2741",
       "address": "0x0000000000000000000000000000000000000000",
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "currencyId": "Ether::ETH",
-      "props": { "isNative": true },
       "name": "Ether",
       "symbol": "ETH",
-      "decimals": 18
+      "decimals": 18,
+      "props": { "isNative": true }
     }
   },
   "mainTokens": [

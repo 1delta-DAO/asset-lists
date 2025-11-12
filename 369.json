@@ -10,7 +10,6 @@
       "symbol": "WPLS",
       "assetGroup": "Wrapped Pulse::WPLS",
       "currencyId": "Wrapped Pulse::WPLS",
-      "tags": ["wnative"],
       "props": { "wnative": true }
     },
     "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39": {
@@ -121,7 +120,6 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/pls.webp",
       "assetGroup": "Wrapped Pulse::WPLS",
       "currencyId": "Pulse::PLS",
-      "tags": ["wnative"],
       "props": { "isNative": true, "wrapped": "0xa1077a294dde1b09bb078844df40758a5d0f9a27" }
     }
   },

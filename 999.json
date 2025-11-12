@@ -107,11 +107,11 @@
       "props": {
         "pendle": {
           "tokenType": "SY",
-          "marketAddress": "0x8867d2b7adb8609c51810237ecc9a25a2f601b97",
-          "expiry": 1762992000,
+          "marketAddress": "0x31104779b2a07a273d6c662419377773083d0b2e",
+          "expiry": 1773878400,
           "underlyingAsset": "0xfd739d4e423301ce9385c1fb8850539d657c296d",
-          "ptAddress": "0x311db0fde558689550c68355783c95efdfe25329",
-          "ytAddress": "0x3f6583ad479ab6020297ce12c9059d7480ab6e5a"
+          "ptAddress": "0xea84ca9849d9e76a78b91f221f84e9ca065fc9f5",
+          "ytAddress": "0x8e8df024cf6d3e916be0821ff3177db6981fcad2"
         }
       }
     },
@@ -477,11 +477,11 @@
       "props": {
         "pendle": {
           "tokenType": "SY",
-          "marketAddress": "0x61e4a41853550dc09dc296088ac83d770cd45c5a",
-          "expiry": 1762992000,
+          "marketAddress": "0x034f3f6e52e96983b5290c65d80f51601d5986e2",
+          "expiry": 1773878400,
           "underlyingAsset": "0x9ba2edc44e0a4632eb4723e81d4142353e1bb160",
-          "ptAddress": "0x31cc92a2f8c02b8f9f427c48f12e21a848e69847",
-          "ytAddress": "0x928294e0a7dbe6bd0779b5769e2c3e4d1b3fecab"
+          "ptAddress": "0x701c084db0fea269aba3122d87787f6c001f372c",
+          "ytAddress": "0x4d1f7fcd18378b4837eff9d7e1b8cce4582ad9f3"
         }
       }
     },
@@ -657,11 +657,11 @@
       "props": {
         "pendle": {
           "tokenType": "SY",
-          "marketAddress": "0x25e8a59e7b42fd3e805edfaddd2e558bb6394682",
-          "expiry": 1762992000,
+          "marketAddress": "0x112eb0243f990743e3045665c508010d90dbf0ee",
+          "expiry": 1779926400,
           "underlyingAsset": "0x5748ae796ae46a4f1348a1693de4b50560485562",
-          "ptAddress": "0x3603363b7b46dffaff79017aec7c3d87a291082e",
-          "ytAddress": "0x75ce4957ba535fbef6569ec4621e9bf2e17477fc"
+          "ptAddress": "0xce1dad035013f566aa3b71b062a57ef1683f4b3d",
+          "ytAddress": "0x939114a4abf362b0e8483650873d30e5c32bfa6c"
         }
       }
     },
@@ -897,11 +897,11 @@
       "props": {
         "pendle": {
           "tokenType": "SY",
-          "marketAddress": "0x438a5973eed017e9b4e6a0dcfcfae67290b07ee0",
-          "expiry": 1763596800,
+          "marketAddress": "0x41799d8f30af07fedacb03ddeebf030e3e052e6d",
+          "expiry": 1771459200,
           "underlyingAsset": "0xe4847cb23dad9311b9907497ef8b39d00ac1de14",
-          "ptAddress": "0xad028877011c93ad46ca900ab186f9883b06e820",
-          "ytAddress": "0x8f195b53437182074f23cf50320daec4b3b18986"
+          "ptAddress": "0x5131b9ab51cc7f6986a13b9136ac0bf0e9e77721",
+          "ytAddress": "0x240ead53bb52f94a0415daf411afc604037a6d31"
         }
       }
     },
@@ -1593,6 +1593,199 @@
         }
       }
     },
+    "0x8e8df024cf6d3e916be0821ff3177db6981fcad2": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "YT kHYPE (HYPE) HyperEVM",
+      "address": "0x8e8df024cf6d3e916be0821ff3177db6981fcad2",
+      "symbol": "YT-kHYPE-19MAR2026",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/93cdd6bf-9c2f-4f7e-87f9-8b2cf5d006e7.svg",
+      "assetGroup": "YT kHYPE (HYPE) HyperEVM::YT-kHYPE-19MAR2026",
+      "currencyId": "YT kHYPE (HYPE) HyperEVM::YT-kHYPE-19MAR2026",
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x31104779b2a07a273d6c662419377773083d0b2e",
+          "expiry": 1773878400,
+          "underlyingAsset": "0xfd739d4e423301ce9385c1fb8850539d657c296d",
+          "ptAddress": "0xea84ca9849d9e76a78b91f221f84e9ca065fc9f5",
+          "syAddress": "0x57fc55dff8ceca86ee94a6bf255af2f0ed90eb9e"
+        }
+      }
+    },
+    "0xea84ca9849d9e76a78b91f221f84e9ca065fc9f5": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "PT kHYPE (HYPE) HyperEVM",
+      "address": "0xea84ca9849d9e76a78b91f221f84e9ca065fc9f5",
+      "symbol": "PT-kHYPE-19MAR2026",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/fcc09b6e-e47d-4e95-a1be-0dddfe76725e.svg",
+      "assetGroup": "PT kHYPE (HYPE) HyperEVM::PT-kHYPE-19MAR2026",
+      "currencyId": "PT kHYPE (HYPE) HyperEVM::PT-kHYPE-19MAR2026",
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x31104779b2a07a273d6c662419377773083d0b2e",
+          "expiry": 1773878400,
+          "underlyingAsset": "0xfd739d4e423301ce9385c1fb8850539d657c296d",
+          "ytAddress": "0x8e8df024cf6d3e916be0821ff3177db6981fcad2",
+          "syAddress": "0x57fc55dff8ceca86ee94a6bf255af2f0ed90eb9e"
+        }
+      }
+    },
+    "0x701c084db0fea269aba3122d87787f6c001f372c": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "PT vkHYPE (WHYPE) HyperEVM",
+      "address": "0x701c084db0fea269aba3122d87787f6c001f372c",
+      "symbol": "PT-vkHYPE-19MAR2026",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/d3b9f5d9-0b82-4ce9-adfe-ae0acb870df8.svg",
+      "assetGroup": "PT vkHYPE (WHYPE) HyperEVM::PT-vkHYPE-19MAR2026",
+      "currencyId": "PT vkHYPE (WHYPE) HyperEVM::PT-vkHYPE-19MAR2026",
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x034f3f6e52e96983b5290c65d80f51601d5986e2",
+          "expiry": 1773878400,
+          "underlyingAsset": "0x9ba2edc44e0a4632eb4723e81d4142353e1bb160",
+          "ytAddress": "0x4d1f7fcd18378b4837eff9d7e1b8cce4582ad9f3",
+          "syAddress": "0x457904b54f47dd7a91253f225237a5b02ca059d6"
+        }
+      }
+    },
+    "0x4d1f7fcd18378b4837eff9d7e1b8cce4582ad9f3": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "YT vkHYPE (WHYPE) HyperEVM",
+      "address": "0x4d1f7fcd18378b4837eff9d7e1b8cce4582ad9f3",
+      "symbol": "YT-vkHYPE-19MAR2026",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/4c862a26-40a4-46ec-bb45-c4fbeef51f28.svg",
+      "assetGroup": "YT vkHYPE (WHYPE) HyperEVM::YT-vkHYPE-19MAR2026",
+      "currencyId": "YT vkHYPE (WHYPE) HyperEVM::YT-vkHYPE-19MAR2026",
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x034f3f6e52e96983b5290c65d80f51601d5986e2",
+          "expiry": 1773878400,
+          "underlyingAsset": "0x9ba2edc44e0a4632eb4723e81d4142353e1bb160",
+          "ptAddress": "0x701c084db0fea269aba3122d87787f6c001f372c",
+          "syAddress": "0x457904b54f47dd7a91253f225237a5b02ca059d6"
+        }
+      }
+    },
+    "0x5131b9ab51cc7f6986a13b9136ac0bf0e9e77721": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "PT hyWHYPE (mHYPE Isolated) (WHYPE) HyperEVM",
+      "address": "0x5131b9ab51cc7f6986a13b9136ac0bf0e9e77721",
+      "symbol": "PT-hyWHYPE(mHYPE)-4-19FEB2026",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/0c787dfe-91d4-47d6-8600-13876efd7f08.svg",
+      "assetGroup": "PT hyWHYPE (mHYPE Isolated) (WHYPE) HyperEVM::PT-hyWHYPE(mHYPE)-4-19FEB2026",
+      "currencyId": "PT hyWHYPE (mHYPE Isolated) (WHYPE) HyperEVM::PT-hyWHYPE(mHYPE)-4-19FEB2026",
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x41799d8f30af07fedacb03ddeebf030e3e052e6d",
+          "expiry": 1771459200,
+          "underlyingAsset": "0xe4847cb23dad9311b9907497ef8b39d00ac1de14",
+          "ytAddress": "0x240ead53bb52f94a0415daf411afc604037a6d31",
+          "syAddress": "0x06579f206257a7079eee4b0106846745f6be955a"
+        }
+      }
+    },
+    "0x240ead53bb52f94a0415daf411afc604037a6d31": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "YT hyWHYPE (mHYPE Isolated) (WHYPE) HyperEVM",
+      "address": "0x240ead53bb52f94a0415daf411afc604037a6d31",
+      "symbol": "YT-hyWHYPE(mHYPE)-4-19FEB2026",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/37a2a761-2787-41d1-8313-29ec3ab873f6.svg",
+      "assetGroup": "YT hyWHYPE (mHYPE Isolated) (WHYPE) HyperEVM::YT-hyWHYPE(mHYPE)-4-19FEB2026",
+      "currencyId": "YT hyWHYPE (mHYPE Isolated) (WHYPE) HyperEVM::YT-hyWHYPE(mHYPE)-4-19FEB2026",
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x41799d8f30af07fedacb03ddeebf030e3e052e6d",
+          "expiry": 1771459200,
+          "underlyingAsset": "0xe4847cb23dad9311b9907497ef8b39d00ac1de14",
+          "ptAddress": "0x5131b9ab51cc7f6986a13b9136ac0bf0e9e77721",
+          "syAddress": "0x06579f206257a7079eee4b0106846745f6be955a"
+        }
+      }
+    },
+    "0xce1dad035013f566aa3b71b062a57ef1683f4b3d": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "PT LHYPE (WHYPE) HyperEVM",
+      "address": "0xce1dad035013f566aa3b71b062a57ef1683f4b3d",
+      "symbol": "PT-LHYPE-28MAY2026",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/32821769-8a3d-4465-966e-635b613b8261.svg",
+      "assetGroup": "PT LHYPE (WHYPE) HyperEVM::PT-LHYPE-28MAY2026",
+      "currencyId": "PT LHYPE (WHYPE) HyperEVM::PT-LHYPE-28MAY2026",
+      "props": {
+        "pendle": {
+          "tokenType": "PT",
+          "marketAddress": "0x112eb0243f990743e3045665c508010d90dbf0ee",
+          "expiry": 1779926400,
+          "underlyingAsset": "0x5748ae796ae46a4f1348a1693de4b50560485562",
+          "ytAddress": "0x939114a4abf362b0e8483650873d30e5c32bfa6c",
+          "syAddress": "0x8608cc009e64d0ebe6ae071a3c6107e0124eff41"
+        }
+      }
+    },
+    "0x939114a4abf362b0e8483650873d30e5c32bfa6c": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "YT LHYPE (WHYPE) HyperEVM",
+      "address": "0x939114a4abf362b0e8483650873d30e5c32bfa6c",
+      "symbol": "YT-LHYPE-28MAY2026",
+      "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/727a897d-897c-4f64-b2fd-021282ca756e.svg",
+      "assetGroup": "YT LHYPE (WHYPE) HyperEVM::YT-LHYPE-28MAY2026",
+      "currencyId": "YT LHYPE (WHYPE) HyperEVM::YT-LHYPE-28MAY2026",
+      "props": {
+        "pendle": {
+          "tokenType": "YT",
+          "marketAddress": "0x112eb0243f990743e3045665c508010d90dbf0ee",
+          "expiry": 1779926400,
+          "underlyingAsset": "0x5748ae796ae46a4f1348a1693de4b50560485562",
+          "ptAddress": "0xce1dad035013f566aa3b71b062a57ef1683f4b3d",
+          "syAddress": "0x8608cc009e64d0ebe6ae071a3c6107e0124eff41"
+        }
+      }
+    },
+    "0xdfd8fa4743eabf5ec6647525f63506aa72dca489": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "PT wNLP (USD₮0) HyperEVM",
+      "address": "0xdfd8fa4743eabf5ec6647525f63506aa72dca489",
+      "symbol": "PT-wNLP-15JAN2026",
+      "logoURI": "https://storage.googleapis.com/pendle-assets-staging/images/assets/unknown.svg",
+      "assetGroup": "PT wNLP (USD₮0) HyperEVM::PT-wNLP-15JAN2026",
+      "currencyId": "PT wNLP (USD₮0) HyperEVM::PT-wNLP-15JAN2026",
+      "props": { "pendle": { "tokenType": "PT" } }
+    },
+    "0x4a40bfcebf16d677d919dea07a24cd444ea4f229": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "YT wNLP (USD₮0) HyperEVM",
+      "address": "0x4a40bfcebf16d677d919dea07a24cd444ea4f229",
+      "symbol": "YT-wNLP-15JAN2026",
+      "logoURI": "https://storage.googleapis.com/pendle-assets-staging/images/assets/unknown.svg",
+      "assetGroup": "YT wNLP (USD₮0) HyperEVM::YT-wNLP-15JAN2026",
+      "currencyId": "YT wNLP (USD₮0) HyperEVM::YT-wNLP-15JAN2026",
+      "props": { "pendle": { "tokenType": "YT" } }
+    },
+    "0x93bbd024a7d1ac59091dfcbf31c6318c1645db5d": {
+      "chainId": "999",
+      "decimals": 6,
+      "name": "wNLP HyperEVM",
+      "address": "0x93bbd024a7d1ac59091dfcbf31c6318c1645db5d",
+      "symbol": "SY-wNLP",
+      "logoURI": "https://storage.googleapis.com/pendle-assets-staging/images/assets/unknown.svg",
+      "assetGroup": "wNLP HyperEVM::SY-wNLP",
+      "currencyId": "wNLP HyperEVM::SY-wNLP",
+      "props": { "pendle": { "tokenType": "SY" } }
+    },
     "0xca79db4b49f608ef54a5cb813fbed3a6387bc645": {
       "chainId": "999",
       "decimals": 18,
@@ -1696,8 +1889,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/54469/thumb/_UP3jBsi_400x400.jpg?1739905920",
       "assetGroup": "HYPE",
       "currencyId": "Wrapped HYPE::WHYPE",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0x9fdbda0a5e284c32744d2f17ee5c74b284993463": {
       "chainId": "999",
@@ -5253,6 +5445,36 @@
       "assetGroup": "SEDA::SEDA",
       "currencyId": "SEDA::SEDA"
     },
+    "0xae6d5fce541216bda471d311425b5412d9f1deb9": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Ramses xRAM",
+      "address": "0xae6d5fce541216bda471d311425b5412d9f1deb9",
+      "symbol": "xRAM",
+      "logoURI": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/tokens/999/xRAM.svg",
+      "assetGroup": "Ramses xRAM::xRAM",
+      "currencyId": "Ramses xRAM::xRAM"
+    },
+    "0x555570a286f15ebdfe42b66ede2f724aa1ab5555": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "Ramses RAM",
+      "address": "0x555570a286f15ebdfe42b66ede2f724aa1ab5555",
+      "symbol": "RAM",
+      "logoURI": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/tokens/999/RAM.svg",
+      "assetGroup": "Ramses RAM::RAM",
+      "currencyId": "Ramses RAM::RAM"
+    },
+    "0xae60eafb73eb0516951ab20089cff32ac9dc63b7": {
+      "chainId": "999",
+      "decimals": 18,
+      "name": "UltraSolid",
+      "address": "0xae60eafb73eb0516951ab20089cff32ac9dc63b7",
+      "symbol": "US",
+      "logoURI": "https://assets.coingecko.com/coins/images/70502/thumb/ultrasolid_400x400.jpg?1762251067",
+      "assetGroup": "UltraSolid::US",
+      "currencyId": "UltraSolid::US"
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "999",
       "decimals": 18,
@@ -5262,8 +5484,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/hype.webp",
       "assetGroup": "HYPE",
       "currencyId": "Hyperliquid::HYPE",
-      "props": { "isNative": true, "wrapped": "0x5555555555555555555555555555555555555555" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0x5555555555555555555555555555555555555555" }
     }
   },
   "mainTokens": [

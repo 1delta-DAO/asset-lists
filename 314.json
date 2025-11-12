@@ -51,8 +51,7 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/filecoin/0x60E1773636CF5E4A227d9AC24F20fEca034ee25A.jpg",
       "assetGroup": "FIL",
       "currencyId": "Wrapped Filecoin::WFIL",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "314",
@@ -63,8 +62,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/fil.webp",
       "assetGroup": "FIL",
       "currencyId": "filecoin::FIL",
-      "props": { "isNative": true, "wrapped": "0x60e1773636cf5e4a227d9ac24f20feca034ee25a" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0x60e1773636cf5e4a227d9ac24f20feca034ee25a" }
     }
   },
   "mainTokens": [

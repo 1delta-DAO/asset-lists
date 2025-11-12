@@ -211,8 +211,7 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/bttc/0x0000000000000000000000000000000000001010.jpg",
       "assetGroup": "Wrapped BitTorrent::WBTT",
       "currencyId": "Wrapped BitTorrent::WBTT",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0x53c56ece35f8cab135e13d6d00499dfc7c07a92e": {
       "chainId": "199",
@@ -233,8 +232,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/btt.webp",
       "assetGroup": "Wrapped BitTorrent::WBTT",
       "currencyId": "BitTorrent::BTT",
-      "props": { "isNative": true, "wrapped": "0x23181f21dea5936e24163ffaba4ea3b316b57f3c" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0x23181f21dea5936e24163ffaba4ea3b316b57f3c" }
     }
   },
   "mainTokens": [

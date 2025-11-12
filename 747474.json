@@ -51,8 +51,7 @@
       "logoURI": "https://cdn.morpho.org/assets/logos/vbeth.svg",
       "assetGroup": "ETH",
       "currencyId": "Vault Bridge ETH::vbETH",
-      "props": { "permit": { "type": 1, "version": "1" }, "wnative": true },
-      "tags": ["wnative"]
+      "props": { "permit": { "type": 1, "version": "1" }, "wnative": true }
     },
     "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36": {
       "chainId": "747474",
@@ -387,8 +386,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "assetGroup": "ETH",
       "currencyId": "Ether::ETH",
-      "props": { "isNative": true, "wrapped": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62" }
     }
   },
   "mainTokens": [

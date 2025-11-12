@@ -51,8 +51,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/38470/thumb/sei.png?1717644025",
       "assetGroup": "SEI",
       "currencyId": "Wrapped SEI::WSEI",
-      "props": { "wnative": true },
-      "tags": ["wnative"]
+      "props": { "wnative": true }
     },
     "0x805679729df385815c57c24b20f4161bd34b655f": {
       "chainId": "1329",
@@ -582,8 +581,7 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/sei.webp",
       "assetGroup": "SEI",
       "currencyId": "Sei::SEI",
-      "props": { "isNative": true, "wrapped": "0xe30fedd158a2e3b13e9badaeabafc5516e95e8c7" },
-      "tags": ["wnative"]
+      "props": { "isNative": true, "wrapped": "0xe30fedd158a2e3b13e9badaeabafc5516e95e8c7" }
     }
   },
   "mainTokens": [
