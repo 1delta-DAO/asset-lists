@@ -1070,6 +1070,16 @@
       "assetGroup": "FBOMB",
       "currencyId": "Fantom Bomb::fBOMB"
     },
+    "0xc75d7767f2edfbc6a5b18fc1fa5d51ffb57c2b37": {
+      "chainId": "5000",
+      "decimals": 8,
+      "name": "pumpBTC",
+      "address": "0xc75d7767f2edfbc6a5b18fc1fa5d51ffb57c2b37",
+      "symbol": "pumpBTC",
+      "logoURI": "https://assets.coingecko.com/coins/images/39232/thumb/200pxPumpBTCLogo.png?1721227861",
+      "assetGroup": "PUMPBTC",
+      "currencyId": "pumpBTC::pumpBTC"
+    },
     "0x94a42083948d86432246ead625b30d49014a4bff": {
       "chainId": "5000",
       "decimals": 18,
@@ -1788,6 +1798,7 @@
     "0xc01a7ad7fb8a085a3cc16be8eaa10302c78a1783",
     "0x6e20e155819f0ee08d1291b0b9889b0e011b8224",
     "0x1d40bafc49c37cda49f2a5427e2fb95e1e3fcf20",
+    "0xc75d7767f2edfbc6a5b18fc1fa5d51ffb57c2b37",
     "0xa68d25fc2af7278db4bcdcaabce31814252642a9"
   ]
 }
