@@ -1,5 +1,5 @@
 import { scrapePermitsForTokens } from './scrape_permit'
-import { ONE_DELTA_LISTS, accessListUnfiltered } from '../assets/externalLists'
+import { ONE_DELTA_LISTS, accessListUnfiltered } from '../externalLists'
 // @ts-ignore
 import * as fs from 'fs'
 // @ts-ignore
@@ -9,7 +9,7 @@ import { fileURLToPath } from 'url'
 import { Token } from './consts'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
-const PERMIT_OUTPUT_DIR = path.resolve(__dirname, '../../asset-lists/permit')
+const PERMIT_OUTPUT_DIR = path.resolve(__dirname, '../permit-info')
 const MAX_CONCURRENT_CHAINS = 5
 
 if (!fs.existsSync(PERMIT_OUTPUT_DIR)) {
@@ -77,7 +77,7 @@ async function getAvailableChains(): Promise<ChainInfo[]> {
       } else {
         console.log(`No token list for ${tokenList.url.split('/').pop()}`)
       }
-    } catch (error) {
+    } catch (error:any) {
       console.log(`Error checking ${tokenList.url.split('/').pop()}:`, error.message)
     }
   }
@@ -198,7 +198,7 @@ export function verifyPermitFiles(chainIds: string[]): void {
           console.log(`Chain ${chainId}: Invalid permit file format`)
           invalidFiles++
         }
-      } catch (error) {
+      } catch (error:any) {
         console.log(`Chain ${chainId}: Failed to parse permit file - ${error.message}`)
         invalidFiles++
       }

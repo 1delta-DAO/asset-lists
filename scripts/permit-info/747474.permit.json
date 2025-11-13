@@ -1,0 +1,371 @@
+{
+  "chainId": "747474",
+  "version": "0",
+  "list": {
+    "0x7f1f4b4b29f5058fa32cc7a97141b8d7e5abdc2d": {
+      "token": {
+        "chainId": "747474",
+        "decimals": 18,
+        "name": "Katana Network Token",
+        "address": "0x7f1f4b4b29f5058fa32cc7a97141b8d7e5abdc2d",
+        "symbol": "KAT",
+        "logoURI": "https://cdn.morpho.org/assets/logos/kat.svg",
+        "assetGroup": "Katana Network Token::KAT",
+        "currencyId": "Katana Network Token::KAT"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Katana Network Token",
+      "domainSeparator": "0xb18b12dea1cdb9b97e4259ca816f311175f1bf2c435742677e583f10253eacc3",
+      "status": "supported"
+    },
+    "0x17bff452dae47e07cea877ff0e1aba17eb62b0ab": {
+      "token": {
+        "chainId": "747474",
+        "decimals": 18,
+        "name": "SushiToken",
+        "address": "0x17bff452dae47e07cea877ff0e1aba17eb62b0ab",
+        "symbol": "SUSHI",
+        "logoURI": "https://cdn.morpho.org/assets/logos/sushi.svg",
+        "assetGroup": "SushiToken::SUSHI",
+        "currencyId": "SushiToken::SUSHI"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SushiToken",
+      "domainSeparator": "0xb883af09cbe76c0c4a0cdee99e449b30e956ba75ead1f4d157f258ba3e3aa256",
+      "status": "supported"
+    },
+    "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62": {
+      "token": {
+        "chainId": "747474",
+        "decimals": 18,
+        "name": "Vault Bridge ETH",
+        "address": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
+        "symbol": "vbETH",
+        "logoURI": "https://cdn.morpho.org/assets/logos/vbeth.svg",
+        "assetGroup": "ETH",
+        "currencyId": "Vault Bridge ETH::vbETH",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          },
+          "wnative": true
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Vault Bridge ETH",
+      "domainSeparator": "0xab735704bb796bca5d1bc4c068b46eca9dc696ba4abc0f33c4c37aba2a9474fc",
+      "status": "supported"
+    },
+    "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36": {
+      "token": {
+        "chainId": "747474",
+        "decimals": 6,
+        "name": "Vault Bridge USDC",
+        "address": "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
+        "symbol": "vbUSDC",
+        "logoURI": "https://cdn.morpho.org/assets/logos/vbusdc.svg",
+        "assetGroup": "USDC",
+        "currencyId": "Vault Bridge USDC::vbUSDC",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Vault Bridge USDC",
+      "domainSeparator": "0xcd5421f68c8e00e33ecc349d53d970e48bfdee26fc5e4cae29c3bede7680afb7",
+      "status": "supported"
+    },
+    "0x2dca96907fde857dd3d816880a0df407eeb2d2f2": {
+      "token": {
+        "chainId": "747474",
+        "decimals": 6,
+        "name": "Vault Bridge USDT",
+        "address": "0x2dca96907fde857dd3d816880a0df407eeb2d2f2",
+        "symbol": "vbUSDT",
+        "logoURI": "https://cdn.morpho.org/assets/logos/vbusdt.svg",
+        "assetGroup": "USDT",
+        "currencyId": "Vault Bridge USDT::vbUSDT",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Vault Bridge USDT",
+      "domainSeparator": "0xe97d1b45119bbabff73ebdc2c93b96f803e25675bc8b65baae3fd5305b7e848a",
+      "status": "supported"
+    },
+    "0x0913da6da4b42f538b445599b46bb4622342cf52": {
+      "token": {
+        "chainId": "747474",
+        "decimals": 8,
+        "name": "Vault Bridge WBTC",
+        "address": "0x0913da6da4b42f538b445599b46bb4622342cf52",
+        "symbol": "vbWBTC",
+        "logoURI": "https://cdn.morpho.org/assets/logos/vbwbtc.svg",
+        "assetGroup": "WBTC",
+        "currencyId": "Vault Bridge WBTC::vbWBTC",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Vault Bridge WBTC",
+      "domainSeparator": "0x77321e2cb2e83f86da26635fdc8aed0c707766fc8a0dca577a7485909705c7a3",
+      "status": "supported"
+    },
+    "0x1e5efca3d0db2c6d5c67a4491845c43253eb9e4e": {
+      "token": {
+        "chainId": "747474",
+        "decimals": 18,
+        "name": "Morpho Token",
+        "address": "0x1e5efca3d0db2c6d5c67a4491845c43253eb9e4e",
+        "symbol": "MORPHO",
+        "logoURI": "https://cdn.morpho.org/assets/logos/morpho.svg",
+        "assetGroup": "MORPHO",
+        "currencyId": "Morpho Token::MORPHO"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Morpho Token",
+      "domainSeparator": "0xcca4b46665dd1996487b07b2cf93e7c19ec778ec0b5015b84ad931931b147334",
+      "status": "supported"
+    },
+    "0x9b8df6e244526ab5f6e6400d331db28c8fdddb55": {
+      "token": {
+        "chainId": "747474",
+        "decimals": 18,
+        "name": "Solana (Universal)",
+        "address": "0x9b8df6e244526ab5f6e6400d331db28c8fdddb55",
+        "symbol": "uSOL",
+        "logoURI": "https://cdn.morpho.org/assets/logos/usol.svg",
+        "assetGroup": "Solana (Universal)::uSOL",
+        "currencyId": "Solana (Universal)::uSOL"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Solana (Universal)",
+      "domainSeparator": "0xdbb35c18724557f29a4d074c9278d96307b9b2c612321feacd015cd02b5221fa",
+      "status": "supported"
+    },
+    "0x7fb4d0f51544f24f385a421db6e7d4fc71ad8e5c": {
+      "token": {
+        "chainId": "747474",
+        "decimals": 18,
+        "name": "Wrapped liquid staked Ether 2.0",
+        "address": "0x7fb4d0f51544f24f385a421db6e7d4fc71ad8e5c",
+        "symbol": "wstETH",
+        "logoURI": "https://cdn.morpho.org/assets/logos/wsteth.svg",
+        "assetGroup": "WSTETH",
+        "currencyId": "Wrapped liquid staked Ether 2.0::wstETH"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "domainSeparator": "0xd0a4be638ba7cdee49678bb6f9dd80f7070776018d6b9255f7a0ff84524f4a7c",
+      "status": "supported"
+    },
+    "0xb24e3035d1fcbc0e43cf3143c3fd92e53df2009b": {
+      "token": {
+        "chainId": "747474",
+        "decimals": 18,
+        "name": "Polygon",
+        "address": "0xb24e3035d1fcbc0e43cf3143c3fd92e53df2009b",
+        "symbol": "POL",
+        "logoURI": "https://cdn.morpho.org/assets/logos/pol.svg",
+        "assetGroup": "POL",
+        "currencyId": "Polygon::POL"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Polygon Ecosystem Token",
+      "domainSeparator": "0xe4d6b247f2911383c5674a6f8806b0ec5ba7a13046e2a6e50688bc0ff40a211c",
+      "status": "supported"
+    },
+    "0xecac9c5f704e954931349da37f60e39f515c11c1": {
+      "token": {
+        "chainId": "747474",
+        "decimals": 8,
+        "name": "Lombard Staked BTC",
+        "address": "0xecac9c5f704e954931349da37f60e39f515c11c1",
+        "symbol": "LBTC",
+        "logoURI": "https://cdn.morpho.org/assets/logos/lbtc.svg",
+        "assetGroup": "LBTC",
+        "currencyId": "Lombard Staked BTC::LBTC"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Lombard Staked Bitcoin",
+      "domainSeparator": "0x860c99a1c410fe557e05ab839acb4216fc9309c92cbd585c573e2f546a8396c0",
+      "status": "supported"
+    },
+    "0xb0f70c0bd6fd87dbeb7c10dc692a2a6106817072": {
+      "token": {
+        "chainId": "747474",
+        "decimals": 8,
+        "name": "Bitcoin on Katana",
+        "address": "0xb0f70c0bd6fd87dbeb7c10dc692a2a6106817072",
+        "symbol": "BTCK",
+        "logoURI": "https://cdn.morpho.org/assets/logos/btck.svg",
+        "assetGroup": "Bitcoin on Katana::BTCK",
+        "currencyId": "Bitcoin on Katana::BTCK"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Bitcoin on Katana",
+      "domainSeparator": "0xfc6d6fa06a94dd1a8dfe047475a5f2d4cda1845c3e7d4b3e5275d712e4ac2860",
+      "status": "supported"
+    },
+    "0x9893989433e7a383cb313953e4c2365107dc19a7": {
+      "token": {
+        "chainId": "747474",
+        "decimals": 18,
+        "name": "Wrapped eETH",
+        "address": "0x9893989433e7a383cb313953e4c2365107dc19a7",
+        "symbol": "weETH",
+        "logoURI": "https://cdn.morpho.org/assets/logos/weeth.svg",
+        "assetGroup": "WEETH",
+        "currencyId": "Wrapped eETH::weETH"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Wrapped eETH",
+      "domainSeparator": "0xdf2913252194eefb1cf002f93c7b4b3005770cf477649853827856ee9002466f",
+      "status": "supported"
+    },
+    "0x62d6a123e8d19d06d68cf0d2294f9a3a0362c6b3": {
+      "token": {
+        "chainId": "747474",
+        "decimals": 18,
+        "name": "Vault Bridge USDS",
+        "address": "0x62d6a123e8d19d06d68cf0d2294f9a3a0362c6b3",
+        "symbol": "vbUSDS",
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xdc035d45d973e3ec169d2276ddab16f1e407384f/78fbc2e73e33fa80fcecfaafa2074887.png",
+        "assetGroup": "USDS",
+        "currencyId": "Vault Bridge USDS::vbUSDS",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Vault Bridge USDS",
+      "domainSeparator": "0x26d568370f47aa083f90906811588815c42985d66dd3c9bbacf2e99a584bb4d5",
+      "status": "supported"
+    },
+    "0xb0505e5a99abd03d94a1169e638b78edfed26ea4": {
+      "token": {
+        "chainId": "747474",
+        "decimals": 18,
+        "name": "Sui (Universal)",
+        "address": "0xb0505e5a99abd03d94a1169e638b78edfed26ea4",
+        "symbol": "uSUI",
+        "logoURI": "https://static.debank.com/image/world_token/logo_url/0xb0505e5a99abd03d94a1169e638b78edfed26ea4/3ded500b84a0ee8ed79f088e96f841d9.png",
+        "assetGroup": "Sui (Universal)::uSUI",
+        "currencyId": "Sui (Universal)::uSUI"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Sui (Universal)",
+      "domainSeparator": "0x59bcf487dcec0461517e56d0afdfd9a8607c931104cb5a40bd0e87d1b97ed910",
+      "status": "supported"
+    },
+    "0x2615a94df961278dcbc41fb0a54fec5f10a693ae": {
+      "token": {
+        "chainId": "747474",
+        "decimals": 18,
+        "name": "XRP (Universal)",
+        "address": "0x2615a94df961278dcbc41fb0a54fec5f10a693ae",
+        "symbol": "uXRP",
+        "logoURI": "https://static.debank.com/image/world_token/logo_url/0x2615a94df961278dcbc41fb0a54fec5f10a693ae/33060c349aaec14e8ca665fba57b9c4c.png",
+        "assetGroup": "XRP (Universal)::uXRP",
+        "currencyId": "XRP (Universal)::uXRP"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "XRP (Universal)",
+      "domainSeparator": "0x2cd6ede86adac692ddfd2cd49dc5de6d3ad4b466c7d237d40081d0c28f570e34",
+      "status": "supported"
+    },
+    "0x476eacd417cd65421bd34fca054377658bb5e02b": {
+      "token": {
+        "chainId": "747474",
+        "decimals": 18,
+        "name": "yearn.finance",
+        "address": "0x476eacd417cd65421bd34fca054377658bb5e02b",
+        "symbol": "YFI",
+        "logoURI": "https://static.debank.com/image/coin/logo_url/yearn/f14ac7f4efe5c51e1c6b32add3dea10c.png",
+        "assetGroup": "yearn.finance::YFI",
+        "currencyId": "yearn.finance::YFI"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "yearn.finance",
+      "domainSeparator": "0x0d4f0ed8d8836c075b105e4ea6373cbf2308f2e56e8ac171e08a755b29a47a24",
+      "status": "supported"
+    },
+    "0xca52d08737e6af8763a2bf6034b3b03868f24dda": {
+      "token": {
+        "chainId": "747474",
+        "decimals": 18,
+        "name": "dTRINITY USD",
+        "address": "0xca52d08737e6af8763a2bf6034b3b03868f24dda",
+        "symbol": "DUSD",
+        "logoURI": "https://assets.coingecko.com/coins/images/53290/thumb/dUSD_Logo.png?1735997462",
+        "assetGroup": "dTRINITY USD::DUSD",
+        "currencyId": "dTRINITY USD::DUSD"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "dTRINITY USD",
+      "domainSeparator": "0x8dd76fc0aa80ebc157903dc83bd1d6c1c82be99fb7c5ef75d047a19149870e4e",
+      "status": "supported"
+    }
+  },
+  "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
+    "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62",
+    "0x7f1f4b4b29f5058fa32cc7a97141b8d7e5abdc2d",
+    "0x2dca96907fde857dd3d816880a0df407eeb2d2f2",
+    "0x0913da6da4b42f538b445599b46bb4622342cf52",
+    "0x203a662b0bd271a6ed5a60edfbd04bfce608fd36",
+    "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+    "0xb24e3035d1fcbc0e43cf3143c3fd92e53df2009b",
+    "0x4200000000000000000000000000000000000006",
+    "0x9b8df6e244526ab5f6e6400d331db28c8fdddb55",
+    "0xecac9c5f704e954931349da37f60e39f515c11c1",
+    "0xfba805659e5050544e185cccdf592fd77f8c7210",
+    "0x4772d2e014f9fc3a820c444e3313968e9a5c8121",
+    "0x09d4214c03d01f49544c0448dbe3a27f768f2b34",
+    "0x4809010926aec940b550d34a46a52739f996d75d",
+    "0xb0f70c0bd6fd87dbeb7c10dc692a2a6106817072",
+    "0x6c16e26013f2431e8b2e1ba7067ecccad0db6c52",
+    "0x1e5efca3d0db2c6d5c67a4491845c43253eb9e4e",
+    "0xc2c447b04e0ed3476ddbdae8e9e39be7159d27b6",
+    "0x9893989433e7a383cb313953e4c2365107dc19a7",
+    "0xca52d08737e6af8763a2bf6034b3b03868f24dda",
+    "0x64445f0aecc51e94ad52d8ac56b7190e764e561a",
+    "0x80eede496655fb9047dd39d9f418d5483ed600df",
+    "0x7fb4d0f51544f24f385a421db6e7d4fc71ad8e5c",
+    "0xc6135d59f8d10c9c035963ce9037b3635170d716",
+    "0x5bff88ca1442c2496f7e475e9e7786383bc070c0"
+  ]
+}

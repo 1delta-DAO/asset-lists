@@ -1,0 +1,3776 @@
+{
+  "chainId": "999",
+  "version": "0",
+  "list": {
+    "0x3c041baca94a16a4c1cc5a0a66ce2d80ba1f146c": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "TEST-SY-2 HyperEVM",
+        "address": "0x3c041baca94a16a4c1cc5a0a66ce2d80ba1f146c",
+        "symbol": "TEST-SY-2",
+        "logoURI": "https://storage.googleapis.com/pendle-assets-staging/images/assets/unknown.svg",
+        "assetGroup": "TEST-SY-2 HyperEVM::TEST-SY-2",
+        "currencyId": "TEST-SY-2 HyperEVM::TEST-SY-2",
+        "props": {
+          "pendle": {
+            "tokenType": "SY"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Test SY 2",
+      "domainSeparator": "0x64f6fe8241609e79409f6676731ddec76ae83d8e195f1586a7869d46efd33487",
+      "status": "supported"
+    },
+    "0x0fcde5a369c0d71ac932840c8654db03681912dd": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "hbHYPE HyperEVM",
+        "address": "0x0fcde5a369c0d71ac932840c8654db03681912dd",
+        "symbol": "SY-hbHYPE",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/e0b143e3-0854-4674-a1a0-7a3b161733d1.svg",
+        "assetGroup": "hbHYPE HyperEVM::SY-hbHYPE",
+        "currencyId": "hbHYPE HyperEVM::SY-hbHYPE",
+        "props": {
+          "pendle": {
+            "tokenType": "SY",
+            "marketAddress": "0x97d985a71131afc02c320b636a268df34c6f42a4",
+            "expiry": 1766016000,
+            "underlyingAsset": "0x96c6cbb6251ee1c257b2162ca0f39aa5fa44b1fb",
+            "ptAddress": "0x810f9d4a751cafd5193617022b35fa0b0c166b4c",
+            "ytAddress": "0x2b55b35d9be63d016ee902d87af29d2c4f397dc1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Hyperbeat Ultra HYPE",
+      "domainSeparator": "0x33635b7fadc5867e981651acbe7e2c94a2f1e832acec5efbf7cc2f568d9202bc",
+      "status": "supported"
+    },
+    "0x642135ff98c15cba7fcf1766502bd493be4d3492": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "hbUSDT HyperEVM",
+        "address": "0x642135ff98c15cba7fcf1766502bd493be4d3492",
+        "symbol": "SY-hbUSDT",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/f316d141-bfbe-431b-af18-9e24a70bf99b.svg",
+        "assetGroup": "hbUSDT HyperEVM::SY-hbUSDT",
+        "currencyId": "hbUSDT HyperEVM::SY-hbUSDT",
+        "props": {
+          "pendle": {
+            "tokenType": "SY",
+            "marketAddress": "0xab9b8a04d21c9fb1fee7b7d219cab9e725a86b0a",
+            "expiry": 1766016000,
+            "underlyingAsset": "0x5e105266db42f78fa814322bce7f388b4c2e61eb",
+            "ptAddress": "0x31a75680de78bb2787ffe9840da569dbdf4504f5",
+            "ytAddress": "0x47dd54dfa68172e3354e3cba2f59521d3dc9d9c7"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Hyperbeat USDT",
+      "domainSeparator": "0x0b7de446899a4313db94d0797be19d1ffa35aa5d22fa6168ccb35e27c07accf0",
+      "status": "supported"
+    },
+    "0x41d81daf401a0aa7422a769243fa933f351a0d64": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "liquidHYPE HyperEVM",
+        "address": "0x41d81daf401a0aa7422a769243fa933f351a0d64",
+        "symbol": "SY-liquidHYPE",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/66df732a-7d10-4ad0-9853-f37a774a6e99.svg",
+        "assetGroup": "liquidHYPE HyperEVM::SY-liquidHYPE",
+        "currencyId": "liquidHYPE HyperEVM::SY-liquidHYPE",
+        "props": {
+          "pendle": {
+            "tokenType": "SY",
+            "marketAddress": "0xcbbe57475a6199c74f7cee5f4440665a6a8a4747",
+            "expiry": 1769644800,
+            "underlyingAsset": "0x441794d6a8f9a3739f5d4e98a728937b33489d29",
+            "ptAddress": "0xd8093043d5a7fe963773912fb2511190c06150bf",
+            "ytAddress": "0x38230d78c1969049734a32421fbcdd61efed216c"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Liquid HYPE Yield",
+      "domainSeparator": "0x54a870e0c0ec8bb3c42d913a1167308e7813d2bd6209207f336dffa2e84ff305",
+      "status": "supported"
+    },
+    "0xcad502bb55d1a3f79952f969bff3f011cf30a94a": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "sUSDe HyperEVM",
+        "address": "0xcad502bb55d1a3f79952f969bff3f011cf30a94a",
+        "symbol": "SY-sUSDE",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/bc547d10-87dc-4a83-845b-f8d649c7b507.svg",
+        "assetGroup": "sUSDe HyperEVM::SY-sUSDE",
+        "currencyId": "sUSDe HyperEVM::SY-sUSDE",
+        "props": {
+          "pendle": {
+            "tokenType": "SY"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Ethena sUSDE",
+      "domainSeparator": "0xc78988e6847c97a52c68df39021789ecb383f46e60f5d103d6457a74e4cc9c61",
+      "status": "supported"
+    },
+    "0xcfaa9540332afa3974bceed79bdd24d86c5fd4ee": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "sUSDe HyperEVM",
+        "address": "0xcfaa9540332afa3974bceed79bdd24d86c5fd4ee",
+        "symbol": "SY-sUSDE",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/bc547d10-87dc-4a83-845b-f8d649c7b507.svg",
+        "assetGroup": "sUSDe HyperEVM::SY-sUSDE::999::0",
+        "currencyId": "sUSDe HyperEVM::SY-sUSDE",
+        "props": {
+          "pendle": {
+            "tokenType": "SY",
+            "marketAddress": "0xe3765ec51aead35ea0a7f3745c1975a73dca21dc",
+            "expiry": 1758758400,
+            "underlyingAsset": "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+            "ptAddress": "0xb7379d395f3c83952ad794896205f7e33e358735",
+            "ytAddress": "0x92b8defe476f0d5ee957533f5b2f509190d12921"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Ethena sUSDE",
+      "domainSeparator": "0xba4f46464c11e36554f87973c5f52021beb746aa5f57638f0da7f730e5e70523",
+      "status": "supported"
+    },
+    "0x859b7a5eaad0abd59a766879362829e60bcd5ffe": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "hHYPE HyperEVM",
+        "address": "0x859b7a5eaad0abd59a766879362829e60bcd5ffe",
+        "symbol": "SY-hHyperEvmWHYPE",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/fdf5afab-7844-4ee7-97c7-16877e0c6b96.svg",
+        "assetGroup": "hHYPE HyperEVM::SY-hHyperEvmWHYPE",
+        "currencyId": "hHYPE HyperEVM::SY-hHyperEvmWHYPE",
+        "props": {
+          "pendle": {
+            "tokenType": "SY",
+            "marketAddress": "0x09b4e98da09ccbf594a5501dc6b5c36dae273d6c",
+            "expiry": 1766016000,
+            "underlyingAsset": "0x0d745eaa9e70bb8b6e2a0317f85f1d536616bd34",
+            "ptAddress": "0x415eba65d0f3f3403f50d2e61a7bdf3faf9aa9ca",
+            "ytAddress": "0x822a6c7d25474964369b329e9df50b94d0a82141"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY HyperLend HyperEVM WHYPE",
+      "domainSeparator": "0xde82afa00d3f3de64cc5c94b1a37555dbb14937526e04441802fbf55e8af0704",
+      "status": "supported"
+    },
+    "0x0e7fb0315ee061c407fa3fc3ad2eaf610aeaace5": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "wVLP HyperEVM",
+        "address": "0x0e7fb0315ee061c407fa3fc3ad2eaf610aeaace5",
+        "symbol": "SY-wVLP",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/9a4375af-7e02-4c5b-a9d6-7e5f5f97b2e2.svg",
+        "assetGroup": "wVLP HyperEVM::SY-wVLP",
+        "currencyId": "wVLP HyperEVM::SY-wVLP",
+        "props": {
+          "pendle": {
+            "tokenType": "SY",
+            "marketAddress": "0x74bd27939416bbe5d184d9a974d2c7358f637433",
+            "expiry": 1762992000,
+            "underlyingAsset": "0xd66d69c288d9a6fd735d7be8b2e389970fc4fd42",
+            "ptAddress": "0xaae605abaa30566615ec835c33c861c98feede24",
+            "ytAddress": "0x309b61bc4a1eea0a62573a57cc7c8ecbb207690d"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Hyperbeat VLP",
+      "domainSeparator": "0xc9860e92fbebbfc35cd2ccc18b3f70d3f623d9ed7714005d2fe10929ea7462a3",
+      "status": "supported"
+    },
+    "0x06579f206257a7079eee4b0106846745f6be955a": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "hyWHYPE (mHYPE Isolated) HyperEVM",
+        "address": "0x06579f206257a7079eee4b0106846745f6be955a",
+        "symbol": "SY-hyWHYPE(mHYPE)-4",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/c00654c7-7cce-47c4-b3de-7c03eb5d08f4.svg",
+        "assetGroup": "hyWHYPE (mHYPE Isolated) HyperEVM::SY-hyWHYPE(mHYPE)-4",
+        "currencyId": "hyWHYPE (mHYPE Isolated) HyperEVM::SY-hyWHYPE(mHYPE)-4",
+        "props": {
+          "pendle": {
+            "tokenType": "SY",
+            "marketAddress": "0x41799d8f30af07fedacb03ddeebf030e3e052e6d",
+            "expiry": 1771459200,
+            "underlyingAsset": "0xe4847cb23dad9311b9907497ef8b39d00ac1de14",
+            "ptAddress": "0x5131b9ab51cc7f6986a13b9136ac0bf0e9e77721",
+            "ytAddress": "0x240ead53bb52f94a0415daf411afc604037a6d31"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY hyWHYPE (Hyperpie Staked mHYPE) - 4",
+      "domainSeparator": "0xefd840ab6c3dbc24babcf4902cc8470fd08808123b652dcd2bbe46e5ce9521f9",
+      "status": "supported"
+    },
+    "0xb335b5a8f260c4e2d4e102d4bf4bbf0fe80b6537": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "haHYPE HyperEVM",
+        "address": "0xb335b5a8f260c4e2d4e102d4bf4bbf0fe80b6537",
+        "symbol": "SY-haHYPE",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/fb81755d-8478-4af4-a4af-92f65141ba1f.svg",
+        "assetGroup": "haHYPE HyperEVM::SY-haHYPE",
+        "currencyId": "haHYPE HyperEVM::SY-haHYPE",
+        "props": {
+          "pendle": {
+            "tokenType": "SY",
+            "marketAddress": "0xdca1064fac3cb8326a405018c2fae5158fc0e97c",
+            "expiry": 1763596800,
+            "underlyingAsset": "0xfde5b0626fc80e36885e2fa9cd5ad9d7768d725c",
+            "ptAddress": "0xd2f7d32f0309821fc8504bcdb0153f671423cf1f",
+            "ytAddress": "0x9411928a32155b18095a80dcce634606a5117c04"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY haHYPE",
+      "domainSeparator": "0x8c8f005fc91eadf84e810051f162b9c183dc3c990e03efd0f8f3f95445b5c336",
+      "status": "supported"
+    },
+    "0x025cbcd0d425faf6570dceb5cf008f0c8ed8fd5d": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "lstHYPE HyperEVM",
+        "address": "0x025cbcd0d425faf6570dceb5cf008f0c8ed8fd5d",
+        "symbol": "SY-lstHYPE",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/3e3e9bfe-50e7-4668-ab26-7e60fe0549a6.svg",
+        "assetGroup": "lstHYPE HyperEVM::SY-lstHYPE",
+        "currencyId": "lstHYPE HyperEVM::SY-lstHYPE",
+        "props": {
+          "pendle": {
+            "tokenType": "SY"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Hyperbeat LST Vault",
+      "domainSeparator": "0x8c69720055d0f5668691377ebee9d2c09b1cdb0953b0ad4f69d246e4e269998a",
+      "status": "supported"
+    },
+    "0x8373ff674bb793825d7fc25e43b14798f4d00959": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "dnHYPE HyperEVM",
+        "address": "0x8373ff674bb793825d7fc25e43b14798f4d00959",
+        "symbol": "SY-dnHYPE",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/6bd97019-efd5-47fd-9697-c951c2469688.svg",
+        "assetGroup": "dnHYPE HyperEVM::SY-dnHYPE",
+        "currencyId": "dnHYPE HyperEVM::SY-dnHYPE",
+        "props": {
+          "pendle": {
+            "tokenType": "SY",
+            "marketAddress": "0x66edf9343d7db8a1a970058cc2ac1c0d5484f504",
+            "expiry": 1763596800,
+            "underlyingAsset": "0x949a7250bb55eb79bc6bcc97fcd1c473db3e6f29",
+            "ptAddress": "0xe2c23327e158ded7276d0e6cdd835330f415e439",
+            "ytAddress": "0x8000a0d4fbcb944bd726faae8d4f5a9185b849a3"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Hyperbeat Delta Neutral HYPE",
+      "domainSeparator": "0xed2738f5a6cf6f871fb310efbf736e9bc8532910fa2cb5356beaa64437213c1b",
+      "status": "supported"
+    },
+    "0x5d309a9b1c964e3ea36bf7571c708787a3261e56": {
+      "token": {
+        "chainId": "999",
+        "decimals": 6,
+        "name": "HYPE++ HyperEVM",
+        "address": "0x5d309a9b1c964e3ea36bf7571c708787a3261e56",
+        "symbol": "SY-HYPE++",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/d1a39af6-9b9a-4f95-924b-dbc985ebcbb1.svg",
+        "assetGroup": "HYPE++ HyperEVM::SY-HYPE++",
+        "currencyId": "HYPE++ HyperEVM::SY-HYPE++",
+        "props": {
+          "pendle": {
+            "tokenType": "SY"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY HYPE++ Hyperliquid",
+      "domainSeparator": "0x5483f3ae1d786e98ee158782e24feb5e9fd61784993f690ff8e14424dfd4a4f2",
+      "status": "supported"
+    },
+    "0x9482337ba2c5407aba8264e0bcf5406dadeb2f1c": {
+      "token": {
+        "chainId": "999",
+        "decimals": 6,
+        "name": "HYPE++ HyperEVM",
+        "address": "0x9482337ba2c5407aba8264e0bcf5406dadeb2f1c",
+        "symbol": "SY-HYPE++",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/995e42b4-ccfb-45d2-bf25-db0d9ff42f89.svg",
+        "assetGroup": "HYPE++ HyperEVM::SY-HYPE++::999::0",
+        "currencyId": "HYPE++ HyperEVM::SY-HYPE++",
+        "props": {
+          "pendle": {
+            "tokenType": "SY",
+            "marketAddress": "0x1525bc953c05b9b4557c443323b3c0f09064e249",
+            "expiry": 1766016000,
+            "underlyingAsset": "0x195eb4d088f222c982282b5dd495e76dba4bc7d1",
+            "ptAddress": "0x55ebed862d84355a1b94d38fa3307229fcb805fa",
+            "ytAddress": "0x84064d42459097a5f7c481ba800236ba691f93b6"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY HYPE++ Hyperliquid",
+      "domainSeparator": "0xd237f75c8ce700a9e77bfa7e0aa09743c6016b453e39b74cd0d3b33bfa5b7724",
+      "status": "supported"
+    },
+    "0x1d78c45512c569ad7487103d687f9a44df06bcde": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "USDe (Nov 2025) HyperEVM",
+        "address": "0x1d78c45512c569ad7487103d687f9a44df06bcde",
+        "symbol": "SY-USDe",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/bdb09436-8d17-4046-a4f6-5020ddcba809.svg",
+        "assetGroup": "USDe (Nov 2025) HyperEVM::SY-USDe",
+        "currencyId": "USDe (Nov 2025) HyperEVM::SY-USDe",
+        "props": {
+          "pendle": {
+            "tokenType": "SY",
+            "marketAddress": "0x3b26334d4f11cf879e468144804cf82a8bbc5a90",
+            "expiry": 1764201600,
+            "underlyingAsset": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+            "ptAddress": "0xb884ddc29f7a0a66934be8c03f25976a365a4ea2",
+            "ytAddress": "0x4386391e9481050cfc2d694d65914a1ae05a0727"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Ethena USDe",
+      "domainSeparator": "0xd0b6b88fbfd37d391013b36fe94934b6546349d0bca02f8e44deaf4f7b19e4e5",
+      "status": "supported"
+    },
+    "0x618b2c320af0df4aed484e59c876b7841f631c0d": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "dnPUMP HyperEVM",
+        "address": "0x618b2c320af0df4aed484e59c876b7841f631c0d",
+        "symbol": "SY-dnPUMP",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/2ba040df-947e-40f1-a468-ef7e79c38854.svg",
+        "assetGroup": "dnPUMP HyperEVM::SY-dnPUMP",
+        "currencyId": "dnPUMP HyperEVM::SY-dnPUMP",
+        "props": {
+          "pendle": {
+            "tokenType": "SY",
+            "marketAddress": "0x2929d03fd3dc5e3c83d455c92f00ecae7182adcc",
+            "expiry": 1763596800,
+            "underlyingAsset": "0x8858a307a85982c2b3cb2ace1720237f2f09c39b",
+            "ptAddress": "0x97afa1a25bed5788bba54abad9a672931d82636a",
+            "ytAddress": "0xb934f619975317387f3292adcba5e387d15a25af"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Hyperbeat Delta Neutral PUMP",
+      "domainSeparator": "0x1b697d33da84cc8b5d5fe0a4c84b9affacde08a16a308ddb73b7f60a377ded71",
+      "status": "supported"
+    },
+    "0xd8769c34f0291611a31393f5fe1f33605652bd9f": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "hakHYPE HyperEVM",
+        "address": "0xd8769c34f0291611a31393f5fe1f33605652bd9f",
+        "symbol": "SY-hakHYPE",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/6008cf4c-c699-40c3-a2c7-567943c6abe9.svg",
+        "assetGroup": "hakHYPE HyperEVM::SY-hakHYPE",
+        "currencyId": "hakHYPE HyperEVM::SY-hakHYPE",
+        "props": {
+          "pendle": {
+            "tokenType": "SY",
+            "marketAddress": "0x62ea53cdc0f923e1fa14dd3dab926dd1646f8cfd",
+            "expiry": 1763596800,
+            "underlyingAsset": "0x1368ee9d1212ae5b26ff166049220051a9eebc42",
+            "ptAddress": "0x39cda9a07956aee8336fb2c743cfb4e76c5cc013",
+            "ytAddress": "0xaddb671640d10b546252384ed51cf1efa5deb86e"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Harmonix kHYPE",
+      "domainSeparator": "0x53fc6168b2ec4767538da94b241e592f7c7ddb45e8c84c4acaecee09c021fa57",
+      "status": "supported"
+    },
+    "0x9f05549998d55595fc2d457367ea3ecec29ea3f3": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "hbUSDC HyperEVM",
+        "address": "0x9f05549998d55595fc2d457367ea3ecec29ea3f3",
+        "symbol": "SY-hbUSDC",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/29934638-be70-4866-a54c-95efaa32d24e.svg",
+        "assetGroup": "hbUSDC HyperEVM::SY-hbUSDC",
+        "currencyId": "hbUSDC HyperEVM::SY-hbUSDC",
+        "props": {
+          "pendle": {
+            "tokenType": "SY",
+            "marketAddress": "0x932c062d34b468454fc5b5566da0f6746699ceb9",
+            "expiry": 1769040000,
+            "underlyingAsset": "0x057ced81348d57aad579a672d521d7b4396e8a61",
+            "ptAddress": "0x30f2e884adc48b313fb9505eaa8e5f8e20bfcde1",
+            "ytAddress": "0xfa54a505cc9fa26882fd64f48461f9cdd2c1e68a"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Hyperbeat USDC",
+      "domainSeparator": "0x294109048c9362a3ef6f032f41258b9b2730dcae17048bb619a589cc634537cd",
+      "status": "supported"
+    },
+    "0xca79db4b49f608ef54a5cb813fbed3a6387bc645": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Last USD",
+        "address": "0xca79db4b49f608ef54a5cb813fbed3a6387bc645",
+        "symbol": "USDXL",
+        "logoURI": "https://assets.coingecko.com/coins/images/55083/standard/usdxl.jpg?1743648438",
+        "assetGroup": "Last USD::USDXL",
+        "currencyId": "Last USD::USDXL",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Last USD",
+      "domainSeparator": "0x71becc1e7f71c887aa2fbf35d6ed5af92fa49435cf89f90dd60b51b9c9657b4e",
+      "status": "supported"
+    },
+    "0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Felix feUSD",
+        "address": "0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70",
+        "symbol": "FEUSD",
+        "logoURI": "https://assets.coingecko.com/coins/images/55068/thumb/feusd.jpg?1743581333",
+        "assetGroup": "Felix feUSD::FEUSD",
+        "currencyId": "Felix feUSD::FEUSD",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "feUSD",
+      "domainSeparator": "0x6b0d44f7e88bb464daf3acfe803ae3a6a185045cb0ba910cc3621595092e8384",
+      "status": "supported"
+    },
+    "0x5748ae796ae46a4f1348a1693de4b50560485562": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Looped Hype",
+        "address": "0x5748ae796ae46a4f1348a1693de4b50560485562",
+        "symbol": "LHYPE",
+        "logoURI": "https://assets.coingecko.com/coins/images/54816/thumb/loopedhype_logo_transparent.png?1741850425",
+        "assetGroup": "Looped Hype::LHYPE",
+        "currencyId": "Looped Hype::LHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Looped HYPE",
+      "domainSeparator": "0x59677163667a6cfc751ff7a9972b3b9e6c7a1100f69247539e46f866aeb2b441",
+      "status": "supported"
+    },
+    "0xb5fe77d323d69eb352a02006ea8ecc38d882620c": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "KEI Stablecoin",
+        "address": "0xb5fe77d323d69eb352a02006ea8ecc38d882620c",
+        "symbol": "KEI",
+        "logoURI": "https://assets.coingecko.com/coins/images/55084/thumb/kei.jpg?1743648809",
+        "assetGroup": "KEI Stablecoin::KEI",
+        "currencyId": "KEI Stablecoin::KEI",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "KEI Stablecoin",
+      "domainSeparator": "0x1f9684bc69bbf7087dad6ea5c28327790e2ebed00559d5517d7156b206b8aac0",
+      "status": "supported"
+    },
+    "0x52e444545fbe9e5972a7a371299522f7871aec1f": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Jeff",
+        "address": "0x52e444545fbe9e5972a7a371299522f7871aec1f",
+        "symbol": "JEFF",
+        "logoURI": "https://assets.coingecko.com/coins/images/38693/thumb/jef_jeffing_no_background.png?1718764325",
+        "assetGroup": "JEFF",
+        "currencyId": "Jeff::JEFF",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "JEFF",
+      "domainSeparator": "0x53b7e748766fb6825d8d448fa5ed1e505728166070d2350c4fa996c108b05894",
+      "status": "supported"
+    },
+    "0x11735dbd0b97cfa7accf47d005673ba185f7fd49": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Catbal",
+        "address": "0x11735dbd0b97cfa7accf47d005673ba185f7fd49",
+        "symbol": "CATBAL",
+        "logoURI": "https://assets.coingecko.com/coins/images/51085/thumb/Catbal_Minilogo.png?1732046278",
+        "assetGroup": "Catbal::CATBAL",
+        "currencyId": "Catbal::CATBAL",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "CATBAL",
+      "domainSeparator": "0xa9c3910431e6bf29f37a0d725da82f51fd52e4c4fc163415291786dd223291d6",
+      "status": "supported"
+    },
+    "0x9b498c3c8a0b8cd8ba1d9851d40d186f1872b44e": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Purr",
+        "address": "0x9b498c3c8a0b8cd8ba1d9851d40d186f1872b44e",
+        "symbol": "PURR",
+        "logoURI": "https://assets.coingecko.com/coins/images/37125/thumb/PURR_CG.png?1713368828",
+        "assetGroup": "Purr::PURR",
+        "currencyId": "Purr::PURR",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Purr",
+      "domainSeparator": "0x2954d4188b744d232fa54a844947d5bc558ac4423a374474e21aa58f84da1f80",
+      "status": "supported"
+    },
+    "0x3f244819a8359145a8e7cf0272955e4918a50627": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "HyperFly",
+        "address": "0x3f244819a8359145a8e7cf0272955e4918a50627",
+        "symbol": "FLY",
+        "logoURI": "https://app.hyperliquid.xyz/coins/FLY_USDC.svg",
+        "assetGroup": "FLY",
+        "currencyId": "HyperFly::FLY",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "HyperFly",
+      "domainSeparator": "0x36dddad4329b2fb9b3f02fa26e8dac1e9e3922a3e71a409d70f4a0599332d4ee",
+      "status": "supported"
+    },
+    "0x04d02cb2e963b4490ee02b1925223d04f9d83fc6": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "CAT",
+        "address": "0x04d02cb2e963b4490ee02b1925223d04f9d83fc6",
+        "symbol": "CAT",
+        "logoURI": "https://app.hyperliquid.xyz/coins/CAT_USDC.svg",
+        "assetGroup": "CAT::CAT",
+        "currencyId": "CAT::CAT",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "CAT",
+      "domainSeparator": "0x7d8fb5d3799025c092a82cf72843d2208c6a21bc598d2ebc2607aeac69090bb1",
+      "status": "supported"
+    },
+    "0x5804bf271d9e691611eea1267b24c1f3d0723639": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "First AI investment DAO on Hyperliquid",
+        "address": "0x5804bf271d9e691611eea1267b24c1f3d0723639",
+        "symbol": "HWTR",
+        "logoURI": "https://raw.githubusercontent.com/HyperSwapX/hyperswap-token-list/refs/heads/main/assets/HWTR.png",
+        "assetGroup": "First AI investment DAO on Hyperliquid::HWTR",
+        "currencyId": "First AI investment DAO on Hyperliquid::HWTR",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "First AI investment DAO on Hyperliquid",
+      "domainSeparator": "0x87ef418272ad4c9575aabc91a2ef17a4813ae44d5d1522caece6d7eb4c9250cf",
+      "status": "supported"
+    },
+    "0x1ecd15865d7f8019d546f76d095d9c93cc34edfa": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "LIQD",
+        "address": "0x1ecd15865d7f8019d546f76d095d9c93cc34edfa",
+        "symbol": "LIQD",
+        "logoURI": "https://raw.githubusercontent.com/HyperSwapX/hyperswap-token-list/refs/heads/main/assets/LIQD.png",
+        "assetGroup": "LIQD::LIQD",
+        "currencyId": "LIQD::LIQD",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "LiquidLaunch",
+      "domainSeparator": "0xb070f24be0d82c49812591a997e082b244a1ca1b6706694767ac579bca80d199",
+      "status": "supported"
+    },
+    "0x6f7e96c0267cd22fe04346af21f8c6ff54372939": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "GENESY",
+        "address": "0x6f7e96c0267cd22fe04346af21f8c6ff54372939",
+        "symbol": "GENESY",
+        "logoURI": "https://app.hyperliquid.xyz/coins/GENESY_USDC.svg",
+        "assetGroup": "GENESY::GENESY",
+        "currencyId": "GENESY::GENESY",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "GENESY",
+      "domainSeparator": "0x6ff8aec49cd51bdddbc0a825058f359e91f21489f32b124a3893d5bae495d2c8",
+      "status": "supported"
+    },
+    "0x45ec8f63fe934c0213476cfb5870835e61dd11fa": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Omni X",
+        "address": "0x45ec8f63fe934c0213476cfb5870835e61dd11fa",
+        "symbol": "OMNIX",
+        "logoURI": "https://app.hyperliquid.xyz/coins/OMNIX_USDC.svg",
+        "assetGroup": "Omni X::OMNIX",
+        "currencyId": "Omni X::OMNIX",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Omni X",
+      "domainSeparator": "0x777afcfcc49bedb7da1a6ddb114d29e1d24a91d3eded1192597b10080d092ce9",
+      "status": "supported"
+    },
+    "0xa320d9f65ec992eff38622c63627856382db726c": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "HFUN",
+        "address": "0xa320d9f65ec992eff38622c63627856382db726c",
+        "symbol": "HFUN",
+        "logoURI": "https://app.hyperliquid.xyz/coins/HFUN_USDC.svg",
+        "assetGroup": "HFUN::HFUN",
+        "currencyId": "HFUN::HFUN",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "HFUN",
+      "domainSeparator": "0x4b132d62e75d76c8c1c12828493f96c7d6797f1ce772eb32da5bdf6f0aaa570a",
+      "status": "supported"
+    },
+    "0x502ee789b448aa692901fe27ab03174c90f07dd1": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Staked LOOP",
+        "address": "0x502ee789b448aa692901fe27ab03174c90f07dd1",
+        "symbol": "stLOOP",
+        "logoURI": "https://framerusercontent.com/images/NcdHu0qIxvy69XWTqIRF74ZOU.png?scale-down-to=512",
+        "assetGroup": "Staked LOOP::stLOOP",
+        "currencyId": "Staked LOOP::stLOOP",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Staked LOOP",
+      "domainSeparator": "0xd8ae2ce842093affe76904de7a2c5f582971133abfdbf0c71bd90cc17ed37a3c",
+      "status": "supported"
+    },
+    "0xfdc42f844f3aa19f8fc0b2d67d3276cf1efdc4ca": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Rat Race Combat: Skill, Gems, Crypto. 🐀💎",
+        "address": "0xfdc42f844f3aa19f8fc0b2d67d3276cf1efdc4ca",
+        "symbol": "RAT",
+        "logoURI": "https://app.hyperliquid.xyz/coins/RAT_USDC.svg",
+        "assetGroup": "Rat Race Combat: Skill, Gems, Crypto. 🐀💎::RAT",
+        "currencyId": "Rat Race Combat: Skill, Gems, Crypto. 🐀💎::RAT",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Rat Race Combat: Skill, Gems, Crypto. 🐀💎",
+      "domainSeparator": "0xc76a6558c38075bcfbbb6b020bf12910c74475f40e4b75c72a2da2043225cc66",
+      "status": "supported"
+    },
+    "0x266a2491f782eb03b369760889fff8785efb3e46": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "TIME",
+        "address": "0x266a2491f782eb03b369760889fff8785efb3e46",
+        "symbol": "TIME",
+        "logoURI": "https://img.notionusercontent.com/s3/prod-files-secure%2F684ee1b2-0712-4909-8625-4eaaf5bc4270%2F0670736e-69ef-4a1d-821a-8e46934638b7%2FToken.png/size/w=2000?exp=1748369572&sig=gwysBQ-5FGnZgWX7Vi5gMasrSa4tR73y_hhp9qyswTQ&id=e5412ea7-723e-4aef-83bb-69c435b32b0b&table=block",
+        "assetGroup": "TIME::TIME",
+        "currencyId": "TIME::TIME",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "TIME",
+      "domainSeparator": "0x96990bb0368af72ec43b27e865b7f61c8d4a6793792fbd3f7ed10872bc70dfa6",
+      "status": "supported"
+    },
+    "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb": {
+      "token": {
+        "chainId": "999",
+        "decimals": 6,
+        "name": "USDT0",
+        "address": "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+        "symbol": "USDT0",
+        "logoURI": "https://assets.coingecko.com/coins/images/53705/thumb/usdt0.jpg?1737086183",
+        "assetGroup": "USDT",
+        "currencyId": "USDT0::USDT0",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "USD₮0",
+      "domainSeparator": "0xaf032beb1b142fc29396cfc5d77b654f4649f76592a5d1b9f456a34e547cb1d9",
+      "status": "supported"
+    },
+    "0xf4d9235269a96aadafc9adae454a0618ebe37949": {
+      "token": {
+        "chainId": "999",
+        "decimals": 6,
+        "name": "Tether Gold",
+        "address": "0xf4d9235269a96aadafc9adae454a0618ebe37949",
+        "symbol": "XAUT0",
+        "logoURI": "https://assets.coingecko.com/coins/images/66560/standard/XAUt0_Token_Icon_Gold.png?1749747942",
+        "assetGroup": "Tether Gold::XAUT0",
+        "currencyId": "Tether Gold::XAUT0",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "XAUt0",
+      "domainSeparator": "0x7ea7dfcd8e2d1f78a52f52d992c990f6df9fa2e89ea6fabbb0eff7a0f97fb048",
+      "status": "supported"
+    },
+    "0xd8fc8f0b03eba61f64d08b0bef69d80916e5dda9": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "hyperbeat x ether.fi HYPE",
+        "address": "0xd8fc8f0b03eba61f64d08b0bef69d80916e5dda9",
+        "symbol": "beHYPE",
+        "logoURI": "https://app.hyperbeat.org/assets/icons/tokens/behype.svg",
+        "assetGroup": "hyperbeat x ether.fi HYPE::beHYPE",
+        "currencyId": "hyperbeat x ether.fi HYPE::beHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "hyperbeat x ether.fi HYPE",
+      "domainSeparator": "0x80fe993356fc4b838ca5aa9c9acaaad916f054d1972a0f2ac4ca77cc4fcf4bbb",
+      "status": "supported"
+    },
+    "0xb50a96253abdf803d85efcdce07ad8becbc52bd5": {
+      "token": {
+        "chainId": "999",
+        "decimals": 6,
+        "name": "Hyper USD",
+        "address": "0xb50a96253abdf803d85efcdce07ad8becbc52bd5",
+        "symbol": "USDHL",
+        "logoURI": "https://pbs.twimg.com/profile_images/1928111403551911936/rkFUzZ4Z_400x400.jpg",
+        "assetGroup": "Hyper USD::USDHL",
+        "currencyId": "Hyper USD::USDHL",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Hyper USD",
+      "domainSeparator": "0xfc7479f0083c4af6899ef37b00c8a683a34cfa95d1a28e0eeec3888590e46cfb",
+      "status": "supported"
+    },
+    "0x1359b05241ca5076c9f59605214f4f84114c0de8": {
+      "token": {
+        "chainId": "999",
+        "decimals": 6,
+        "name": "Wrapped HLP",
+        "address": "0x1359b05241ca5076c9f59605214f4f84114c0de8",
+        "symbol": "WHLP",
+        "logoURI": "https://assets.coingecko.com/coins/images/66783/thumb/image_%282%29.png?1750493063",
+        "assetGroup": "Wrapped HLP::WHLP",
+        "currencyId": "Wrapped HLP::WHLP",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Wrapped HLP",
+      "domainSeparator": "0x0c4667dadf92ec20e503aecc599955dab7280e326af3953e563b15e8511d81f6",
+      "status": "supported"
+    },
+    "0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1": {
+      "token": {
+        "chainId": "999",
+        "decimals": 6,
+        "name": "Hyperwave HLP",
+        "address": "0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1",
+        "symbol": "hwHLP",
+        "logoURI": "https://assets.coingecko.com/coins/images/66821/large/hwhlp.png?1750652862",
+        "assetGroup": "Hyperwave HLP::hwHLP",
+        "currencyId": "Hyperwave HLP::hwHLP",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "hwHLP",
+      "domainSeparator": "0x7d24b65c50e7144b920419dadfbfcd4d1242c9856c27f20a6a33cb852c01a030",
+      "status": "supported"
+    },
+    "0xe45b3fc1f0032532e3d8a3c141cd258bd3eed368": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Odd Otties: Cute otters will overtake hyperliquid",
+        "address": "0xe45b3fc1f0032532e3d8a3c141cd258bd3eed368",
+        "symbol": "OTTI",
+        "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0xe45b3fc1f0032532e3d8a3c141cd258bd3eed368/1c1e810602a5813d25aaccf2b2a63143.png",
+        "assetGroup": "Odd Otties: Cute otters will overtake hyperliquid::OTTI",
+        "currencyId": "Odd Otties: Cute otters will overtake hyperliquid::OTTI",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Odd Otties: Cute otters will overtake hyperliquid",
+      "domainSeparator": "0x17023ed8856b768da897c6f3c1f80b2e6cb160cbd0c02ca0e26fdf90ae080272",
+      "status": "supported"
+    },
+    "0x27542a8d608ee16322fae739c46e6e6ae6d2828a": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "The blue sheep on HyperLiquiq  Don't Miss It",
+        "address": "0x27542a8d608ee16322fae739c46e6e6ae6d2828a",
+        "symbol": "SHEEP",
+        "assetGroup": "The blue sheep on HyperLiquiq  Don't Miss It::SHEEP",
+        "currencyId": "The blue sheep on HyperLiquiq  Don't Miss It::SHEEP",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "The blue sheep on HyperLiquiq  Don't Miss It",
+      "domainSeparator": "0x237eb4f0502e5a6283a0a08525a1505dc6dddf20462ae9d42fcd1bfb2946ebbb",
+      "status": "supported"
+    },
+    "0xc1631903081b19f0b7117f34192c7db48960989c": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Finding Niggo in the vast hyperliquid ocean",
+        "address": "0xc1631903081b19f0b7117f34192c7db48960989c",
+        "symbol": "NIGGO",
+        "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0xc1631903081b19f0b7117f34192c7db48960989c/6ad76956cdd0357e4c01791ed517d31e.png",
+        "assetGroup": "Finding Niggo in the vast hyperliquid ocean::NIGGO",
+        "currencyId": "Finding Niggo in the vast hyperliquid ocean::NIGGO",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Finding Niggo in the vast hyperliquid ocean",
+      "domainSeparator": "0xe3080adf6a61fa5b6f3e7132207b51e17b869b0746c78d310cbc534de89b07fa",
+      "status": "supported"
+    },
+    "0x710a6c044d23949ba3b98ce13d762503c9708ba3": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "BEATS AI - the agentic music creation lab",
+        "address": "0x710a6c044d23949ba3b98ce13d762503c9708ba3",
+        "symbol": "BEATS",
+        "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x710a6c044d23949ba3b98ce13d762503c9708ba3/d40aba24c8fbc25aee9359c3a00b6543.png",
+        "assetGroup": "BEATS AI - the agentic music creation lab::BEATS",
+        "currencyId": "BEATS AI - the agentic music creation lab::BEATS",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "BEATS AI - the agentic music creation lab",
+      "domainSeparator": "0x1b2088493cd43704a59483e4e6dc475dbc41afb1ba6f2270f080870194579827",
+      "status": "supported"
+    },
+    "0x7f5ab8f7974fccd857163e5da649eb2588201df1": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "HyperGun",
+        "address": "0x7f5ab8f7974fccd857163e5da649eb2588201df1",
+        "symbol": "HGUN",
+        "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x7f5ab8f7974fccd857163e5da649eb2588201df1/349dee7dce92fb84f3d77486780503eb.png",
+        "assetGroup": "HyperGun::HGUN",
+        "currencyId": "HyperGun::HGUN",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "HyperGun",
+      "domainSeparator": "0x376a2e0e5cc46a427c9362caa132f56103df7290d90ed3229def8f7676d03db4",
+      "status": "supported"
+    },
+    "0xa7e48f961f04e8091fffe6331935ea71a5a5273b": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "HyperPepe",
+        "address": "0xa7e48f961f04e8091fffe6331935ea71a5a5273b",
+        "symbol": "HyperPepe",
+        "assetGroup": "HyperPepe::HyperPepe",
+        "currencyId": "HyperPepe::HyperPepe",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "HyperPepe",
+      "domainSeparator": "0x212fea987f77cfa3edad48e62fa470f1bbd86225524e1b4408f0c10d14f1f7b5",
+      "status": "supported"
+    },
+    "0x101ce20864f0483843a9c41a2f3a8bad7569b04a": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "SuperMegaUltraHyperLiquid",
+        "address": "0x101ce20864f0483843a9c41a2f3a8bad7569b04a",
+        "symbol": "ULTRA",
+        "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x101ce20864f0483843a9c41a2f3a8bad7569b04a/36bb37dadf0176d6ede31ad5e91dbb2a.png",
+        "assetGroup": "SuperMegaUltraHyperLiquid::ULTRA",
+        "currencyId": "SuperMegaUltraHyperLiquid::ULTRA",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SuperMegaUltraHyperLiquid",
+      "domainSeparator": "0x94a9440b4c3991cbf1e668932206937d0f3b1b3bd39e4782c45fa8dcc8bbbf53",
+      "status": "supported"
+    },
+    "0x219289f5af40e35d23beca6ae193e3ed3a00ad43": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "James Wynn",
+        "address": "0x219289f5af40e35d23beca6ae193e3ed3a00ad43",
+        "symbol": "WHALE",
+        "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x219289f5af40e35d23beca6ae193e3ed3a00ad43/395fa1ee796b12892706ecb2aced290b.png",
+        "assetGroup": "James Wynn::WHALE",
+        "currencyId": "James Wynn::WHALE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "James Wynn",
+      "domainSeparator": "0x45c3025fc2b73b5bd6b7d0a915e2f5cdad0b88fd83b587a3a8b5338e60a28131",
+      "status": "supported"
+    },
+    "0xe3c80b7a1a8631e8cfd59c61e2a74eb497db28f6": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Paws",
+        "address": "0xe3c80b7a1a8631e8cfd59c61e2a74eb497db28f6",
+        "symbol": "PAWS",
+        "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0xe3c80b7a1a8631e8cfd59c61e2a74eb497db28f6/7c313722f3e6fee0249f5de5a8b5a95f.png",
+        "assetGroup": "Paws::PAWS",
+        "currencyId": "Paws::PAWS",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Paws",
+      "domainSeparator": "0x629447951e9eb97903b026595548630d876dbb86345da22500041d3a8fa72b62",
+      "status": "supported"
+    },
+    "0x7c97cd7b57b736c6ad74fae97c0e21e856251dcf": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "WHYPE Hypurr",
+        "address": "0x7c97cd7b57b736c6ad74fae97c0e21e856251dcf",
+        "symbol": "hyWHYPE",
+        "assetGroup": "WHYPE Hypurr::hyWHYPE",
+        "currencyId": "WHYPE Hypurr::hyWHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "WHYPE Hypurr",
+      "domainSeparator": "0xbe04b00d87cf7687ba7778d667cf3ef3dc2a5b7da63e3cda37661bcfc6d72c5b",
+      "status": "supported"
+    },
+    "0x02379e4a55111d999ac18c367f5920119398b94b": {
+      "token": {
+        "chainId": "999",
+        "decimals": 8,
+        "name": "UBTC Hypurr",
+        "address": "0x02379e4a55111d999ac18c367f5920119398b94b",
+        "symbol": "hyUBTC",
+        "assetGroup": "UBTC Hypurr::hyUBTC",
+        "currencyId": "UBTC Hypurr::hyUBTC",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "UBTC Hypurr",
+      "domainSeparator": "0x046ebf043144ae6455243b2e8ec4dc26fe8d37efb6c82e7a2b6348a9857add3d",
+      "status": "supported"
+    },
+    "0x0fe958d31c0aa613a0b08901fb26a7761c5b14f4": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Cow Hyperswap Hyperevm USDT0-WHYPE",
+        "address": "0x0fe958d31c0aa613a0b08901fb26a7761c5b14f4",
+        "symbol": "cowHyperswapHyperevmUSDT0-WHYPE",
+        "assetGroup": "Cow Hyperswap Hyperevm USDT0-WHYPE::cowHyperswapHyperevmUSDT0-WHYPE",
+        "currencyId": "Cow Hyperswap Hyperevm USDT0-WHYPE::cowHyperswapHyperevmUSDT0-WHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Cow Hyperswap Hyperevm USDT0-WHYPE",
+      "domainSeparator": "0xbe3b149fc16784805f3c7877afbc09269fa46a7deb159315efee61a842ad5eca",
+      "status": "supported"
+    },
+    "0x68717797aaae1b009c258b6ff5403aeccb7010c0": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "UETH Hypurr",
+        "address": "0x68717797aaae1b009c258b6ff5403aeccb7010c0",
+        "symbol": "hyUETH",
+        "assetGroup": "UETH Hypurr::hyUETH",
+        "currencyId": "UETH Hypurr::hyUETH",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "UETH Hypurr",
+      "domainSeparator": "0x055f6b595f3e6c7890a65fca3e0ae3f5fdb29c3ba024df7628c8c5a61ab88a71",
+      "status": "supported"
+    },
+    "0x89b0fe193887d731a2b48a5d87a1185214482ad5": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "HL Fund",
+        "address": "0x89b0fe193887d731a2b48a5d87a1185214482ad5",
+        "symbol": "FUND",
+        "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x89b0fe193887d731a2b48a5d87a1185214482ad5/4e49f9d37640a31cb323f21f5b1b85fc.png",
+        "assetGroup": "HL Fund::FUND",
+        "currencyId": "HL Fund::FUND",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "HL Fund",
+      "domainSeparator": "0x97a1c1d77668d3404c141ba43552cfc90e5cf43a0d74b0b65462a36f51b36b51",
+      "status": "supported"
+    },
+    "0x9992ed1214ea2bc91b0587b37c3e03d5e2a242c1": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Staked USDXL",
+        "address": "0x9992ed1214ea2bc91b0587b37c3e03d5e2a242c1",
+        "symbol": "stkUSDXL",
+        "logoURI": "https://app.hypurr.fi/tokens/stkusdxl.svg?url",
+        "assetGroup": "Staked USDXL::stkUSDXL",
+        "currencyId": "Staked USDXL::stkUSDXL",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Staked USDXL",
+      "domainSeparator": "0xa6799560381af65284c905568123ea2522dc50461efc70508e03bc5d255fc4f9",
+      "status": "supported"
+    },
+    "0xaea02692f502b47e116bdfa9a4ceb3138bd8b516": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "feUSD Hypurr",
+        "address": "0xaea02692f502b47e116bdfa9a4ceb3138bd8b516",
+        "symbol": "hyfeUSD",
+        "assetGroup": "feUSD Hypurr::hyfeUSD",
+        "currencyId": "feUSD Hypurr::hyfeUSD",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "feUSD Hypurr",
+      "domainSeparator": "0xaa99107ed4f093981c62e315c77ae88366ad29dfb989d512e782160f02f095e8",
+      "status": "supported"
+    },
+    "0xc8b6e0acf159e058e22c564c0c513ec21f8a1bf5": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "wstHYPE Hypurr",
+        "address": "0xc8b6e0acf159e058e22c564c0c513ec21f8a1bf5",
+        "symbol": "hywstHYPE",
+        "assetGroup": "wstHYPE Hypurr::hywstHYPE",
+        "currencyId": "wstHYPE Hypurr::hywstHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "wstHYPE Hypurr",
+      "domainSeparator": "0xdf5a2d1488e44075618ae67c7cdfdad5beda53c37af70f39da70194d639b7442",
+      "status": "supported"
+    },
+    "0xe8f7d82a73f13a64d689e7ddad06139bfb51f9c6": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "USDe Hypurr",
+        "address": "0xe8f7d82a73f13a64d689e7ddad06139bfb51f9c6",
+        "symbol": "hyUSDe",
+        "assetGroup": "USDe Hypurr::hyUSDe",
+        "currencyId": "USDe Hypurr::hyUSDe",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "USDe Hypurr",
+      "domainSeparator": "0xead2359f9a9042603ed553cf080120df2b7b8c6951e85ab1a63a94337d2f8b1c",
+      "status": "supported"
+    },
+    "0x1d3f7a57abf144049bacc79b1e85e185dcd8414c": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Manadotwin V2",
+        "address": "0x1d3f7a57abf144049bacc79b1e85e185dcd8414c",
+        "symbol": "MANA-V2",
+        "assetGroup": "Manadotwin V2::MANA-V2",
+        "currencyId": "Manadotwin V2::MANA-V2",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Manadotwin V2",
+      "domainSeparator": "0x768228b03ed40281317454559af4784655429c77f5b41d23144ac62e44d751f4",
+      "status": "supported"
+    },
+    "0x716d2dd531d826eb3fa1f1ffcfdd7102217a3199": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Cow Kittenswap Hyperevm USDT0-WHYPE",
+        "address": "0x716d2dd531d826eb3fa1f1ffcfdd7102217a3199",
+        "symbol": "cowKittenswapHyperevmUSDT0-WHYPE",
+        "assetGroup": "Cow Kittenswap Hyperevm USDT0-WHYPE::cowKittenswapHyperevmUSDT0-WHYPE",
+        "currencyId": "Cow Kittenswap Hyperevm USDT0-WHYPE::cowKittenswapHyperevmUSDT0-WHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Cow Kittenswap Hyperevm USDT0-WHYPE",
+      "domainSeparator": "0xc0f5621cf5dee5da90aa9874dcff442c10ed9a387a650b3ec955a594ad30a8bd",
+      "status": "supported"
+    },
+    "0xb537c62307d25f1eb70b720f5850b8c638240f1b": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Weighted USDT-UETH",
+        "address": "0xb537c62307d25f1eb70b720f5850b8c638240f1b",
+        "symbol": "W-USDT-UETH",
+        "assetGroup": "Weighted USDT-UETH::W-USDT-UETH",
+        "currencyId": "Weighted USDT-UETH::W-USDT-UETH",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Weighted USDT-UETH",
+      "domainSeparator": "0x2e9fd793c64a73a42f4dedf5c6836100bbfa7a65b06ca3fa47274ce7e23355ea",
+      "status": "supported"
+    },
+    "0xfd32712a1cb152c03a62d54557fcb1de372abfe9": {
+      "token": {
+        "chainId": "999",
+        "decimals": 6,
+        "name": "USDHL Hypurr",
+        "address": "0xfd32712a1cb152c03a62d54557fcb1de372abfe9",
+        "symbol": "hyUSDHL",
+        "assetGroup": "USDHL Hypurr::hyUSDHL",
+        "currencyId": "USDHL Hypurr::hyUSDHL",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "USDHL Hypurr",
+      "domainSeparator": "0xe7bc825e202fe364128f752aec68ca7ce4d9928e5c8988cf59bb4546e5f5d8de",
+      "status": "supported"
+    },
+    "0x073dda19364bb91ddb5e838ca57ebd36353e4061": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Cow Hyperswap Hyperevm PiP-WHYPE",
+        "address": "0x073dda19364bb91ddb5e838ca57ebd36353e4061",
+        "symbol": "cowHyperswapHyperevmPiP-WHYPE",
+        "assetGroup": "Cow Hyperswap Hyperevm PiP-WHYPE::cowHyperswapHyperevmPiP-WHYPE",
+        "currencyId": "Cow Hyperswap Hyperevm PiP-WHYPE::cowHyperswapHyperevmPiP-WHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Cow Hyperswap Hyperevm PiP-WHYPE",
+      "domainSeparator": "0x6561c3609db08765b081c282b245b110827eb3318a50bb0cff130c2995f5f7f2",
+      "status": "supported"
+    },
+    "0x43f62aaeb31258fcde8475734724607da3fc72ac": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Manadotwin V2",
+        "address": "0x43f62aaeb31258fcde8475734724607da3fc72ac",
+        "symbol": "MANA-V2",
+        "assetGroup": "Manadotwin V2::MANA-V2::999::0",
+        "currencyId": "Manadotwin V2::MANA-V2",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Manadotwin V2",
+      "domainSeparator": "0xe6db12ebe5c39fd1620ac1910fe7cdfebb03c688478632d0852f7fff5ad7f97c",
+      "status": "supported"
+    },
+    "0xad036fac77c7973440b9a7344bc1a2b282899ade": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Ticket",
+        "address": "0xad036fac77c7973440b9a7344bc1a2b282899ade",
+        "symbol": "TICKET",
+        "assetGroup": "Ticket::TICKET",
+        "currencyId": "Ticket::TICKET",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Ticket",
+      "domainSeparator": "0xbfb25667489070d6d4d7da2b0f04668612c2aec3c5dbd4b6e951c03321e849bd",
+      "status": "supported"
+    },
+    "0xd4f8a40f5fc83234ae917e4389236ed52f3d3b0d": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Manadotwin V2",
+        "address": "0xd4f8a40f5fc83234ae917e4389236ed52f3d3b0d",
+        "symbol": "MANA-V2",
+        "assetGroup": "Manadotwin V2::MANA-V2::999::1",
+        "currencyId": "Manadotwin V2::MANA-V2",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Manadotwin V2",
+      "domainSeparator": "0xaad95cf5ac7ba53297ce2392d1fa13816ba70722447c4ba03d43e04874ac78cf",
+      "status": "supported"
+    },
+    "0xd7321be27ae84f0d302815fb400e03e32a055fdb": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Manadotwin V2",
+        "address": "0xd7321be27ae84f0d302815fb400e03e32a055fdb",
+        "symbol": "MANA-V2",
+        "assetGroup": "Manadotwin V2::MANA-V2::999::2",
+        "currencyId": "Manadotwin V2::MANA-V2",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Manadotwin V2",
+      "domainSeparator": "0x2f9ed50a9678fddcf58281b1593c7543182970b9d365096b4c3b7f4d1d53f946",
+      "status": "supported"
+    },
+    "0xc3de4bab30aeb98bcc062cd4b1768cd5a5caccc3": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Cow Hyperswap Hyperevm feUSD-WHYPE",
+        "address": "0xc3de4bab30aeb98bcc062cd4b1768cd5a5caccc3",
+        "symbol": "cowHyperswapHyperevmfeUSD-WHYPE",
+        "assetGroup": "Cow Hyperswap Hyperevm feUSD-WHYPE::cowHyperswapHyperevmfeUSD-WHYPE",
+        "currencyId": "Cow Hyperswap Hyperevm feUSD-WHYPE::cowHyperswapHyperevmfeUSD-WHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Cow Hyperswap Hyperevm feUSD-WHYPE",
+      "domainSeparator": "0x53fc8a854cfeac11ac8150f7569a760aa2ac36143e34e2f7b33c6b6ad4875d32",
+      "status": "supported"
+    },
+    "0x82e9db204d8243538e04958fdaedfaf21b58d014": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Cow Kittenswap Hyperevm USDe-WHYPE",
+        "address": "0x82e9db204d8243538e04958fdaedfaf21b58d014",
+        "symbol": "cowKittenswapHyperevmUSDe-WHYPE",
+        "assetGroup": "Cow Kittenswap Hyperevm USDe-WHYPE::cowKittenswapHyperevmUSDe-WHYPE",
+        "currencyId": "Cow Kittenswap Hyperevm USDe-WHYPE::cowKittenswapHyperevmUSDe-WHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Cow Kittenswap Hyperevm USDe-WHYPE",
+      "domainSeparator": "0xb0ea5a69f310068c9de7f3dc241264247e0d764064a439a765fc8b41cb834017",
+      "status": "supported"
+    },
+    "0x2e9cd3e4489ccfc041697f34306eb462b278ddf9": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Rumpel Pt: Hyprbeat S1",
+        "address": "0x2e9cd3e4489ccfc041697f34306eb462b278ddf9",
+        "symbol": "pHBEAT-1",
+        "assetGroup": "Rumpel Pt: Hyprbeat S1::pHBEAT-1",
+        "currencyId": "Rumpel Pt: Hyprbeat S1::pHBEAT-1",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Rumpel Pt: Hyprbeat S1",
+      "domainSeparator": "0x0f44bfa853cbdbb7d378357005376fe3fa95795801e732a208a444fb3f2801ed",
+      "status": "supported"
+    },
+    "0xac854e5b5ec3be1cd0532fdd7653f25f4873383d": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Rumpel Pt: Sentiment S1",
+        "address": "0xac854e5b5ec3be1cd0532fdd7653f25f4873383d",
+        "symbol": "pSENT-1",
+        "assetGroup": "Rumpel Pt: Sentiment S1::pSENT-1",
+        "currencyId": "Rumpel Pt: Sentiment S1::pSENT-1",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Rumpel Pt: Sentiment S1",
+      "domainSeparator": "0x510f6421e8ac222a5ffa3c01bb542ebd7b9013e7bdd4fe81cecdd61985ed9b3a",
+      "status": "supported"
+    },
+    "0x0b2833878b2e0270e29c29a3e4b14f4c749e7d14": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "dgnUpside_sub",
+        "address": "0x0b2833878b2e0270e29c29a3e4b14f4c749e7d14",
+        "symbol": "dgnUpside_sub",
+        "assetGroup": "dgnUpside_sub::dgnUpside_sub",
+        "currencyId": "dgnUpside_sub::dgnUpside_sub",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "dgnUpside_sub",
+      "domainSeparator": "0xef10e9557fcdc046d8e205543f5092c9e681dd8849137a0203ca9277ac49c327",
+      "status": "supported"
+    },
+    "0x866a2bf4e572cbcf37d5071a7a58503bfb36be1b": {
+      "token": {
+        "chainId": "999",
+        "decimals": 6,
+        "name": "M by M0",
+        "address": "0x866a2bf4e572cbcf37d5071a7a58503bfb36be1b",
+        "symbol": "M",
+        "logoURI": "https://assets.coingecko.com/coins/images/40048/thumb/M_Symbol_256.png?1739323798",
+        "assetGroup": "M by M0::M",
+        "currencyId": "M by M0::M",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "M by M^0",
+      "domainSeparator": "0x3b3eec5bdded27bfcd9ed09d67067f9d1469b0988af2423c6a746799d52681f2",
+      "implementation": "0xd7298f620B0F752Cf41BD818a16C756d9dCAA34f",
+      "status": "supported"
+    },
+    "0xbe65f0f410a72bec163dc65d46c83699e957d588": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "USDp",
+        "address": "0xbe65f0f410a72bec163dc65d46c83699e957d588",
+        "symbol": "USDp",
+        "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg",
+        "assetGroup": "USDp::USDp",
+        "currencyId": "USDp::USDp",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "USDp",
+      "domainSeparator": "0xbdc428cc9c42a5f9695f153a2cd1e86a2271575b55dcbe9607390cedb1c52a5a",
+      "status": "supported"
+    },
+    "0xfd739d4e423301ce9385c1fb8850539d657c296d": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Kinetiq Staked HYPE",
+        "address": "0xfd739d4e423301ce9385c1fb8850539d657c296d",
+        "symbol": "kHYPE",
+        "logoURI": "https://app.valantis.xyz/khype.svg",
+        "assetGroup": "Kinetiq Staked HYPE::kHYPE",
+        "currencyId": "Kinetiq Staked HYPE::kHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Kinetiq Staked HYPE",
+      "domainSeparator": "0x21d57f427ebb15de691ec4c4a76480062adc52056785f13e4cf171e1eaa36150",
+      "status": "supported"
+    },
+    "0xcae9e2a86c146b084169e170e63d340bf34d6b83": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Hypurr kHYPE",
+        "address": "0xcae9e2a86c146b084169e170e63d340bf34d6b83",
+        "symbol": "hykHYPE",
+        "logoURI": "",
+        "assetGroup": "Hypurr kHYPE::hykHYPE",
+        "currencyId": "Hypurr kHYPE::hykHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "kHYPE Hypurr",
+      "domainSeparator": "0xbfcaa1e6f0e7d1235c37200cf7f0aaa890595d4b562b5367ae5bc1c1d45eb9e8",
+      "status": "supported"
+    },
+    "0xa94676f34f6a2764c7fde5611b53834b71f228ec": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Liquina",
+        "address": "0xa94676f34f6a2764c7fde5611b53834b71f228ec",
+        "symbol": "LQNA",
+        "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0xa94676f34f6a2764c7fde5611b53834b71f228ec/e1039a554b32e9b10520be8c38a143b8.png",
+        "assetGroup": "Liquina::LQNA",
+        "currencyId": "Liquina::LQNA",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Liquina",
+      "domainSeparator": "0x064a5ba5a1279a65169e14a7175ebfcf45a15460bbdb7234edbbd1ad2eafcd7d",
+      "status": "supported"
+    },
+    "0xe7eaa46c2ac8470d622ada1538fede6242cebe53": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Latina",
+        "address": "0xe7eaa46c2ac8470d622ada1538fede6242cebe53",
+        "symbol": "LATINA",
+        "logoURI": "https://tokens.debridge.finance/Logo/100000022/0xe7eaa46c2ac8470d622ada1538fede6242cebe53/small/token-logo.svg",
+        "assetGroup": "Latina::LATINA",
+        "currencyId": "Latina::LATINA",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Latina",
+      "domainSeparator": "0x689b5d5d0ce7efcb67805c266a44f6bdc1ad09ae5bedc9ff790221ece4fd85ec",
+      "status": "supported"
+    },
+    "0x9ba2edc44e0a4632eb4723e81d4142353e1bb160": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Kinetiq Earn Vault",
+        "address": "0x9ba2edc44e0a4632eb4723e81d4142353e1bb160",
+        "symbol": "vkHYPE",
+        "logoURI": "https://assets.coingecko.com/coins/images/69439/thumb/vkhype.png?1758596795",
+        "assetGroup": "Kinetiq Earn Vault::vkHYPE",
+        "currencyId": "Kinetiq Earn Vault::vkHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Kinetiq Earn Vault",
+      "domainSeparator": "0x6dad78d828a83aaa909284d549d3a5a1dcdd9d68d1773467640e1358595f03f9",
+      "status": "supported"
+    },
+    "0x9492a7d42b571a100eec3ea080d20310d87f513c": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "USD₮0 feUSD USDe USDXL USDHL",
+        "address": "0x9492a7d42b571a100eec3ea080d20310d87f513c",
+        "symbol": "LP-5Pool-USD",
+        "assetGroup": "USD₮0 feUSD USDe USDXL USDHL::LP-5Pool-USD",
+        "currencyId": "USD₮0 feUSD USDe USDXL USDHL::LP-5Pool-USD",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "USD₮0 feUSD USDe USDXL USDHL",
+      "domainSeparator": "0xc2f5685057ed738effc9b3339600fc8c4c01ae0851c3986278c69d358af1c301",
+      "status": "supported"
+    },
+    "0xc773da3b2cef297d6aae3cf36926d1c51eed0488": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Concentrated Hyperbloom HYPE-USDT",
+        "address": "0xc773da3b2cef297d6aae3cf36926d1c51eed0488",
+        "symbol": "conhHYPEUSDT",
+        "assetGroup": "Concentrated Hyperbloom HYPE-USDT::conhHYPEUSDT",
+        "currencyId": "Concentrated Hyperbloom HYPE-USDT::conhHYPEUSDT",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Concentrated Hyperbloom HYPE-USDT",
+      "domainSeparator": "0xc8d88c4df1385bd5ec997627666646714f2a93a1037f0a0cbb021610c2713214",
+      "status": "supported"
+    },
+    "0x2e3c6813b8be628b4023e076a4964e6273819c88": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Concentrated Hyperbloom HYPE-UBTC",
+        "address": "0x2e3c6813b8be628b4023e076a4964e6273819c88",
+        "symbol": "conhHYPEUBTC",
+        "assetGroup": "Concentrated Hyperbloom HYPE-UBTC::conhHYPEUBTC",
+        "currencyId": "Concentrated Hyperbloom HYPE-UBTC::conhHYPEUBTC",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Concentrated Hyperbloom HYPE-UBTC",
+      "domainSeparator": "0x9fb74518fd4478e1d199440b2327b26e0f39314651a7083b156519503751c92a",
+      "status": "supported"
+    },
+    "0xcbdba88e24e2455b562683f8170387b264fc08fa": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Cow Hybra Hyperevm USDe-WHYPE",
+        "address": "0xcbdba88e24e2455b562683f8170387b264fc08fa",
+        "symbol": "cowHybraHyperevmUSDe-WHYPE",
+        "assetGroup": "Cow Hybra Hyperevm USDe-WHYPE::cowHybraHyperevmUSDe-WHYPE",
+        "currencyId": "Cow Hybra Hyperevm USDe-WHYPE::cowHybraHyperevmUSDe-WHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Cow Hybra Hyperevm USDe-WHYPE",
+      "domainSeparator": "0x4870012d80ba0a15d8fa76119cfdf0572d32c50d092f41fba14582c37508c16d",
+      "status": "supported"
+    },
+    "0xfe4e34f6edba9b2fba06014046690cd558aca0fe": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Cow Hybra Hyperevm WHLP-WHYPE",
+        "address": "0xfe4e34f6edba9b2fba06014046690cd558aca0fe",
+        "symbol": "cowHybraHyperevmWHLP-WHYPE",
+        "assetGroup": "Cow Hybra Hyperevm WHLP-WHYPE::cowHybraHyperevmWHLP-WHYPE",
+        "currencyId": "Cow Hybra Hyperevm WHLP-WHYPE::cowHybraHyperevmWHLP-WHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Cow Hybra Hyperevm WHLP-WHYPE",
+      "domainSeparator": "0xef6f9c826ed46770ff31d46137ed4373b564c191f65bb7c7b83abe84d770c1cd",
+      "status": "supported"
+    },
+    "0x64a0f4ed4151d6381c509c0e64f0257e179120ec": {
+      "token": {
+        "chainId": "999",
+        "decimals": 9,
+        "name": "USOL Hypurr",
+        "address": "0x64a0f4ed4151d6381c509c0e64f0257e179120ec",
+        "symbol": "hyUSOL",
+        "assetGroup": "USOL Hypurr::hyUSOL",
+        "currencyId": "USOL Hypurr::hyUSOL",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "USOL Hypurr",
+      "domainSeparator": "0x837eacd81ca2eaab03d65d32fdf078d9e0186757c7e5f5b43031e2a2782c8460",
+      "status": "supported"
+    },
+    "0x652778e95096ecfa4cacef53c945ece9cc39056a": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Concentrated Hyperbloom Hyperswap HYPE-UETH",
+        "address": "0x652778e95096ecfa4cacef53c945ece9cc39056a",
+        "symbol": "conhHYPEUETH",
+        "assetGroup": "Concentrated Hyperbloom Hyperswap HYPE-UETH::conhHYPEUETH",
+        "currencyId": "Concentrated Hyperbloom Hyperswap HYPE-UETH::conhHYPEUETH",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Concentrated Hyperbloom Hyperswap HYPE-UETH",
+      "domainSeparator": "0x501aede56057e4b0821b411cf34852d57ef754cbdae855d841fb083adf286578",
+      "status": "supported"
+    },
+    "0x0dbf6a09950ce4f60dda3dd92395dc39ccf67e0d": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Concentrated Hybra HYPE-USDHL",
+        "address": "0x0dbf6a09950ce4f60dda3dd92395dc39ccf67e0d",
+        "symbol": "conhHYPEUSDHL",
+        "assetGroup": "Concentrated Hybra HYPE-USDHL::conhHYPEUSDHL",
+        "currencyId": "Concentrated Hybra HYPE-USDHL::conhHYPEUSDHL",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Concentrated Hybra HYPE-USDHL",
+      "domainSeparator": "0xa736064139bb1b9263c63daf5a7447dfffba8000530cc00a012865fe7ce55788",
+      "status": "supported"
+    },
+    "0xa62dd1f3d504bdf49e47721d50bfc89c7a67a403": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Concentrated Hyperbloom Hyperswap HYPE-PURR",
+        "address": "0xa62dd1f3d504bdf49e47721d50bfc89c7a67a403",
+        "symbol": "conhHYPEPURR",
+        "assetGroup": "Concentrated Hyperbloom Hyperswap HYPE-PURR::conhHYPEPURR",
+        "currencyId": "Concentrated Hyperbloom Hyperswap HYPE-PURR::conhHYPEPURR",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Concentrated Hyperbloom Hyperswap HYPE-PURR",
+      "domainSeparator": "0x6352798d821dbdf8220ec404d17b6eb0741834625c24fc18f5bcfd4fffceed84",
+      "status": "supported"
+    },
+    "0xc6db60de1d4074a27aae405c0fba791fb9ad468c": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Concentrated Hyperbloom Prjx HYPE-KHYPE",
+        "address": "0xc6db60de1d4074a27aae405c0fba791fb9ad468c",
+        "symbol": "conhHYPEKHYPE",
+        "assetGroup": "Concentrated Hyperbloom Prjx HYPE-KHYPE::conhHYPEKHYPE",
+        "currencyId": "Concentrated Hyperbloom Prjx HYPE-KHYPE::conhHYPEKHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Concentrated Hyperbloom Prjx HYPE-KHYPE",
+      "domainSeparator": "0xe287237e9d4e164c749a94f02ecceb3f15ad5b652153c77965b478245dc1e05a",
+      "status": "supported"
+    },
+    "0xe8336a19a4fe2582073d8a89054673e44fed6ef9": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Concentrated Hyperbloom Hyperswap HYPE-USDT",
+        "address": "0xe8336a19a4fe2582073d8a89054673e44fed6ef9",
+        "symbol": "conhHYPEUSDT",
+        "assetGroup": "Concentrated Hyperbloom Hyperswap HYPE-USDT::conhHYPEUSDT",
+        "currencyId": "Concentrated Hyperbloom Hyperswap HYPE-USDT::conhHYPEUSDT",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Concentrated Hyperbloom Hyperswap HYPE-USDT",
+      "domainSeparator": "0x909c6abf2403bebbac925996500aee16df00a718e6ae8b54a211d56b133ba6d2",
+      "status": "supported"
+    },
+    "0xeed7c0a94f094b9f1a2ec607315b9064b47c41ba": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Concentrated Hybra HYPE-LHYPE",
+        "address": "0xeed7c0a94f094b9f1a2ec607315b9064b47c41ba",
+        "symbol": "conhHYPELHYPE",
+        "assetGroup": "Concentrated Hybra HYPE-LHYPE::conhHYPELHYPE",
+        "currencyId": "Concentrated Hybra HYPE-LHYPE::conhHYPELHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Concentrated Hybra HYPE-LHYPE",
+      "domainSeparator": "0x33e4ce9a8a55f72c943b48ab4a56f6d0a0d1b9a629cc6fd30139954f098bd947",
+      "status": "supported"
+    },
+    "0xf3e4824f891abf4cddc62fbf6be4552e1a5622e0": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Concentrated Hyperbloom Prjx HYPE-USDT",
+        "address": "0xf3e4824f891abf4cddc62fbf6be4552e1a5622e0",
+        "symbol": "conhHYPEUSDT",
+        "assetGroup": "Concentrated Hyperbloom Prjx HYPE-USDT::conhHYPEUSDT",
+        "currencyId": "Concentrated Hyperbloom Prjx HYPE-USDT::conhHYPEUSDT",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Concentrated Hyperbloom Prjx HYPE-USDT",
+      "domainSeparator": "0x3a09a983ff9e3a8cca60eef7fc004c2b8c41d38e5f47a5c4aed336d95653be51",
+      "status": "supported"
+    },
+    "0x21d2de7206d5ce3e201da14010ebaa32858b89da": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Concentrated Hybra HYPE-USDT",
+        "address": "0x21d2de7206d5ce3e201da14010ebaa32858b89da",
+        "symbol": "conhHYPEUSDT",
+        "assetGroup": "Concentrated Hybra HYPE-USDT::conhHYPEUSDT",
+        "currencyId": "Concentrated Hybra HYPE-USDT::conhHYPEUSDT",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Concentrated Hybra HYPE-USDT",
+      "domainSeparator": "0x8be626f48d3f39daf9e06ea168dac66cfcbb8caf3136915707981152a72ad411",
+      "status": "supported"
+    },
+    "0x98312d3c6d900678bf0667a45b2aadad92045d78": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Cow Hybra Hyperevm feUSD-USDT0",
+        "address": "0x98312d3c6d900678bf0667a45b2aadad92045d78",
+        "symbol": "cowHybraHyperevmfeUSD-USDT0",
+        "assetGroup": "Cow Hybra Hyperevm feUSD-USDT0::cowHybraHyperevmfeUSD-USDT0",
+        "currencyId": "Cow Hybra Hyperevm feUSD-USDT0::cowHybraHyperevmfeUSD-USDT0",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Cow Hybra Hyperevm feUSD-USDT0",
+      "domainSeparator": "0x6de70d0aa477bb6b21ee1755582bea1f6e34ca4941c60f7b920582fad439fa66",
+      "status": "supported"
+    },
+    "0x0055bf4c5585b749e7f6eb10c85808880304dc74": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Concentrated Hyperbloom USDHL-USDT",
+        "address": "0x0055bf4c5585b749e7f6eb10c85808880304dc74",
+        "symbol": "conhUSDHLUSDT",
+        "assetGroup": "Concentrated Hyperbloom USDHL-USDT::conhUSDHLUSDT",
+        "currencyId": "Concentrated Hyperbloom USDHL-USDT::conhUSDHLUSDT",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Concentrated Hyperbloom USDHL-USDT",
+      "domainSeparator": "0xa46198f24285f9b2f4b3771d0477564ab0f00ef88e5043a6c8786b072e0eac45",
+      "status": "supported"
+    },
+    "0xc007b460999b33d237d89eed29266191ce4b393e": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Cow Hyperswap Hyperevm PURR-WHYPE",
+        "address": "0xc007b460999b33d237d89eed29266191ce4b393e",
+        "symbol": "cowHyperswapHyperevmPURR-WHYPE",
+        "assetGroup": "Cow Hyperswap Hyperevm PURR-WHYPE::cowHyperswapHyperevmPURR-WHYPE",
+        "currencyId": "Cow Hyperswap Hyperevm PURR-WHYPE::cowHyperswapHyperevmPURR-WHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Cow Hyperswap Hyperevm PURR-WHYPE",
+      "domainSeparator": "0xc9a99902591c4afadac0f5a6b89f8948abd95cba8888b08b122e6d7ab968c160",
+      "status": "supported"
+    },
+    "0xdc9d2c590145f3a006fe899d175f93e97dc3a516": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Cow Hybra Hyperevm USDT0-WHYPE",
+        "address": "0xdc9d2c590145f3a006fe899d175f93e97dc3a516",
+        "symbol": "cowHybraHyperevmUSDT0-WHYPE",
+        "assetGroup": "Cow Hybra Hyperevm USDT0-WHYPE::cowHybraHyperevmUSDT0-WHYPE",
+        "currencyId": "Cow Hybra Hyperevm USDT0-WHYPE::cowHybraHyperevmUSDT0-WHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Cow Hybra Hyperevm USDT0-WHYPE",
+      "domainSeparator": "0x3484591d050c8e3d5a57da1d7f441f946ace32a8cbc61a27b13091acd6e0d1f0",
+      "status": "supported"
+    },
+    "0x064fe2bb8e5fcdb1b3213489a3972a21393000fc": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "test small & big toggle Liquidity Bootstrapping Pool",
+        "address": "0x064fe2bb8e5fcdb1b3213489a3972a21393000fc",
+        "symbol": "UETH-undefined-LBP",
+        "assetGroup": "test small & big toggle Liquidity Bootstrapping Pool::UETH-undefined-LBP",
+        "currencyId": "test small & big toggle Liquidity Bootstrapping Pool::UETH-undefined-LBP",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "test small & big toggle Liquidity Bootstrapping Pool",
+      "domainSeparator": "0x9cca843a54c34b719fe4697a6ff71983c979f74377e822b8f82096c529095c5c",
+      "status": "supported"
+    },
+    "0x33998d6117aea2aacf1b026841ce0cc749adb572": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Concentrated Hyperbloom Prjx HYPE-PURR",
+        "address": "0x33998d6117aea2aacf1b026841ce0cc749adb572",
+        "symbol": "conhHYPEPURR",
+        "assetGroup": "Concentrated Hyperbloom Prjx HYPE-PURR::conhHYPEPURR",
+        "currencyId": "Concentrated Hyperbloom Prjx HYPE-PURR::conhHYPEPURR",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Concentrated Hyperbloom Prjx HYPE-PURR",
+      "domainSeparator": "0x12be931c1c8129d6337526002be2096bbb8b559abde3107252aac600e268a04c",
+      "status": "supported"
+    },
+    "0x4a7797647193346a7a9cc08a5839ec68c6206748": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Concentrated Hyperbloom Prjx USDHL-USDT",
+        "address": "0x4a7797647193346a7a9cc08a5839ec68c6206748",
+        "symbol": "conhUSDHLUSDT",
+        "assetGroup": "Concentrated Hyperbloom Prjx USDHL-USDT::conhUSDHLUSDT",
+        "currencyId": "Concentrated Hyperbloom Prjx USDHL-USDT::conhUSDHLUSDT",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Concentrated Hyperbloom Prjx USDHL-USDT",
+      "domainSeparator": "0x5aae1c48abafe889155f87627ab754a1062f4e0b5135521e405c1585a7d78047",
+      "status": "supported"
+    },
+    "0x6f2a771f1190d0d5c757022932c278fe4d9a3453": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "test hype metadata save Liquidity Bootstrapping Pool",
+        "address": "0x6f2a771f1190d0d5c757022932c278fe4d9a3453",
+        "symbol": "UETH-WHYPE-LBP",
+        "assetGroup": "test hype metadata save Liquidity Bootstrapping Pool::UETH-WHYPE-LBP",
+        "currencyId": "test hype metadata save Liquidity Bootstrapping Pool::UETH-WHYPE-LBP",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "test hype metadata save Liquidity Bootstrapping Pool",
+      "domainSeparator": "0xc07d9729f2d71caa8df3591a0dc40035a11ea2aecee7e911b9ec9a25c3fbf787",
+      "status": "supported"
+    },
+    "0x2084839396c56bef5a25360b0000ab40103c9db9": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Cow Hybra Hyperevm LHYPE-WHYPE",
+        "address": "0x2084839396c56bef5a25360b0000ab40103c9db9",
+        "symbol": "cowHybraHyperevmLHYPE-WHYPE",
+        "assetGroup": "Cow Hybra Hyperevm LHYPE-WHYPE::cowHybraHyperevmLHYPE-WHYPE",
+        "currencyId": "Cow Hybra Hyperevm LHYPE-WHYPE::cowHybraHyperevmLHYPE-WHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Cow Hybra Hyperevm LHYPE-WHYPE",
+      "domainSeparator": "0xc4a6b567fd2263afa8fb035e4da5c845fa7ebecd9d7f375225c713cbb4ac4cf9",
+      "status": "supported"
+    },
+    "0xa036417eeceadca725d8106400560961d0c216d5": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Concentrated Hyperbloom HYPE-PURR",
+        "address": "0xa036417eeceadca725d8106400560961d0c216d5",
+        "symbol": "conhHYPEPURR",
+        "assetGroup": "Concentrated Hyperbloom HYPE-PURR::conhHYPEPURR",
+        "currencyId": "Concentrated Hyperbloom HYPE-PURR::conhHYPEPURR",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Concentrated Hyperbloom HYPE-PURR",
+      "domainSeparator": "0x2fe51b5195e754d8fb702e0bd00cc4fc1b7185c574210b2962c039957c1dd10e",
+      "status": "supported"
+    },
+    "0x76c8dae55cd103b9865c6f056c8da915c8a98c4c": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Cow Hybra Hyperevm feUSD-WHYPE",
+        "address": "0x76c8dae55cd103b9865c6f056c8da915c8a98c4c",
+        "symbol": "cowHybraHyperevmfeUSD-WHYPE",
+        "assetGroup": "Cow Hybra Hyperevm feUSD-WHYPE::cowHybraHyperevmfeUSD-WHYPE",
+        "currencyId": "Cow Hybra Hyperevm feUSD-WHYPE::cowHybraHyperevmfeUSD-WHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Cow Hybra Hyperevm feUSD-WHYPE",
+      "domainSeparator": "0xee3be99f3b89b16402ee64241f37191519350b3e385f4132fe099eccb3442f86",
+      "status": "supported"
+    },
+    "0xa64a727d215f265f2b44ef018fae926ddc6b5ba0": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Concentrated Hyperbloom Prjx HYPE-LHYPE",
+        "address": "0xa64a727d215f265f2b44ef018fae926ddc6b5ba0",
+        "symbol": "conhHYPELHYPE",
+        "assetGroup": "Concentrated Hyperbloom Prjx HYPE-LHYPE::conhHYPELHYPE",
+        "currencyId": "Concentrated Hyperbloom Prjx HYPE-LHYPE::conhHYPELHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Concentrated Hyperbloom Prjx HYPE-LHYPE",
+      "domainSeparator": "0x6802bc7b3578e7d8ac51a3ba358e3715ce117e1410a8d3a86b9d208641cce21d",
+      "status": "supported"
+    },
+    "0x34c7c50e44ed7ab6360c2fe18f15e66083e5ec29": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Concentrated Hyperbloom USDHL-HYPE",
+        "address": "0x34c7c50e44ed7ab6360c2fe18f15e66083e5ec29",
+        "symbol": "conhUSDHLHYPE",
+        "assetGroup": "Concentrated Hyperbloom USDHL-HYPE::conhUSDHLHYPE",
+        "currencyId": "Concentrated Hyperbloom USDHL-HYPE::conhUSDHLHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Concentrated Hyperbloom USDHL-HYPE",
+      "domainSeparator": "0x3c8910f7cb3f9145c1d84dc65767a0263826f63b4ecc3fe7ae9bbcc8a920d2b8",
+      "status": "supported"
+    },
+    "0xe42163b71b69aa4509aa15b06722b1f0484332e3": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Concentrated Hyperbloom LHYPE-USDXL",
+        "address": "0xe42163b71b69aa4509aa15b06722b1f0484332e3",
+        "symbol": "conhLHYPEUSDXL",
+        "assetGroup": "Concentrated Hyperbloom LHYPE-USDXL::conhLHYPEUSDXL",
+        "currencyId": "Concentrated Hyperbloom LHYPE-USDXL::conhLHYPEUSDXL",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Concentrated Hyperbloom LHYPE-USDXL",
+      "domainSeparator": "0x61cc6499b322ce3ef7ba6729ed3d597395d2cb8e8a25ad2a8d2db35ae4a2b503",
+      "status": "supported"
+    },
+    "0x56adaf90c4d932a53259e7b7c819d55c7b0a71a4": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Boosted hbUSDT-gtUSDT0-gtUSDe",
+        "address": "0x56adaf90c4d932a53259e7b7c819d55c7b0a71a4",
+        "symbol": "hbUSDT-gtUSDT0-gtUSDe",
+        "assetGroup": "Boosted hbUSDT-gtUSDT0-gtUSDe::hbUSDT-gtUSDT0-gtUSDe",
+        "currencyId": "Boosted hbUSDT-gtUSDT0-gtUSDe::hbUSDT-gtUSDT0-gtUSDe",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Boosted hbUSDT-gtUSDT0-gtUSDe",
+      "domainSeparator": "0x56985be1561786bb506eccf50e31209b5c1dcabde1e38dac04ced9cd59e88f43",
+      "status": "supported"
+    },
+    "0x5a6ab9a47115bb4e3492b20a4d9eed3397d88ade": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Concentrated Hyperbloom UBTC-UETH",
+        "address": "0x5a6ab9a47115bb4e3492b20a4d9eed3397d88ade",
+        "symbol": "conhUBTCUETH",
+        "assetGroup": "Concentrated Hyperbloom UBTC-UETH::conhUBTCUETH",
+        "currencyId": "Concentrated Hyperbloom UBTC-UETH::conhUBTCUETH",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Concentrated Hyperbloom UBTC-UETH",
+      "domainSeparator": "0xb8bedca99d4b092bfb59ca8a28bf03339ed3107506e009d8a0c48a4969699643",
+      "status": "supported"
+    },
+    "0x6bd8de0fed17dc0c0a82b9fe5522b129ecaebdbd": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Balancer Weighted mcHYPE-gtuETH",
+        "address": "0x6bd8de0fed17dc0c0a82b9fe5522b129ecaebdbd",
+        "symbol": "50mcHYPE-50gtuETH",
+        "assetGroup": "Balancer Weighted mcHYPE-gtuETH::50mcHYPE-50gtuETH",
+        "currencyId": "Balancer Weighted mcHYPE-gtuETH::50mcHYPE-50gtuETH",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Balancer Weighted mcHYPE-gtuETH",
+      "domainSeparator": "0x9ea5dafefb1aac56280f2dde222e05d2bbdc573ff528144f8818a0354f80643f",
+      "status": "supported"
+    },
+    "0xa5b39551f301343b5f6dd1047d4c55082a60f14f": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Balancer Weighted gtUSDT0-mcHYPE",
+        "address": "0xa5b39551f301343b5f6dd1047d4c55082a60f14f",
+        "symbol": "50gtUSDT0-50mcHYPE",
+        "assetGroup": "Balancer Weighted gtUSDT0-mcHYPE::50gtUSDT0-50mcHYPE",
+        "currencyId": "Balancer Weighted gtUSDT0-mcHYPE::50gtUSDT0-50mcHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Balancer Weighted gtUSDT0-mcHYPE",
+      "domainSeparator": "0xee4b6d6828daac9021a9f3ada9949ee06a2847f81e89d968590edfc75f78aabf",
+      "status": "supported"
+    },
+    "0x3fa145cad2c8108a68cfc803a8e1ae246c36df3e": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "HyperStrategy",
+        "address": "0x3fa145cad2c8108a68cfc803a8e1ae246c36df3e",
+        "symbol": "HSTR",
+        "logoURI": "https://static.debank.com/image/hyper_token/logo_url/0x3fa145cad2c8108a68cfc803a8e1ae246c36df3e/05d8a20c229784ed139f81195a6bbd3b.png",
+        "assetGroup": "HyperStrategy::HSTR",
+        "currencyId": "HyperStrategy::HSTR",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "HyperStrategy",
+      "domainSeparator": "0x77024409db7876a6689a325331382a6e7b094831488a2642bf095468e26434fc",
+      "status": "supported"
+    },
+    "0x4abfd796ae875dce0ff718395385fef474373b3a": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "d2HYPE_sub",
+        "address": "0x4abfd796ae875dce0ff718395385fef474373b3a",
+        "symbol": "d2HYPE_sub",
+        "assetGroup": "d2HYPE_sub::d2HYPE_sub",
+        "currencyId": "d2HYPE_sub::d2HYPE_sub",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "d2HYPE_sub",
+      "domainSeparator": "0x46ed9735b5989644d900052aaff5cd94e70db02e51c2a0ffad6a6260b9f4e36f",
+      "status": "supported"
+    },
+    "0xdcbf1a40d40cc705ab6a00fe69c52b84ab346dcd": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Concentrated Hyperbloom Hyperswap HYPE-UBTC",
+        "address": "0xdcbf1a40d40cc705ab6a00fe69c52b84ab346dcd",
+        "symbol": "conhHYPEUBTC",
+        "assetGroup": "Concentrated Hyperbloom Hyperswap HYPE-UBTC::conhHYPEUBTC",
+        "currencyId": "Concentrated Hyperbloom Hyperswap HYPE-UBTC::conhHYPEUBTC",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Concentrated Hyperbloom Hyperswap HYPE-UBTC",
+      "domainSeparator": "0xa8962b32f86ff0bcb8f112f4a495599e7ed07d3dafaf48898f572d6c21d6e548",
+      "status": "supported"
+    },
+    "0x26f9f2f619e44f00af9f04c98da5ef2394939715": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Concentrated Hyperbloom Hyperswap HYPE-LHYPE",
+        "address": "0x26f9f2f619e44f00af9f04c98da5ef2394939715",
+        "symbol": "conhHYPELHYPE",
+        "assetGroup": "Concentrated Hyperbloom Hyperswap HYPE-LHYPE::conhHYPELHYPE",
+        "currencyId": "Concentrated Hyperbloom Hyperswap HYPE-LHYPE::conhHYPELHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Concentrated Hyperbloom Hyperswap HYPE-LHYPE",
+      "domainSeparator": "0x78cd454e57473e2487f419b78abf20b456030b5c9bdb6b9084e27192c4e60fee",
+      "status": "supported"
+    },
+    "0x9b59486571545fbe73ab797a29e6bd3871d6b5d5": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Concentrated Hyperbloom Hyperswap FEUSD-HYPE",
+        "address": "0x9b59486571545fbe73ab797a29e6bd3871d6b5d5",
+        "symbol": "conhFEUSDHYPE",
+        "assetGroup": "Concentrated Hyperbloom Hyperswap FEUSD-HYPE::conhFEUSDHYPE",
+        "currencyId": "Concentrated Hyperbloom Hyperswap FEUSD-HYPE::conhFEUSDHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Concentrated Hyperbloom Hyperswap FEUSD-HYPE",
+      "domainSeparator": "0x8851b5e04c7a8a9a6f9477d05aba3b60bb1f5bc9ac5198296a33d40beff05d0a",
+      "status": "supported"
+    },
+    "0xd704254eb350e0d3baecd194d095862267897ae0": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Static HyperLend HyperEVM WHYPE v2",
+        "address": "0xd704254eb350e0d3baecd194d095862267897ae0",
+        "symbol": "stathHyperEvmWHYPEv2",
+        "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd704254eb350e0d3baecd194d095862267897ae0.png",
+        "assetGroup": "Static HyperLend HyperEVM WHYPE v2::stathHyperEvmWHYPEv2",
+        "currencyId": "Static HyperLend HyperEVM WHYPE v2::stathHyperEvmWHYPEv2",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Static HyperLend HyperEVM WHYPE v2",
+      "domainSeparator": "0xd9e501653943564fdeec80e83593705b76d9377e6ee6ccc419a65996a9f52957",
+      "status": "supported"
+    },
+    "0x0ab8aae3335ed4b373a33d9023b6a6585b149d33": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "HyperLend HyperEVM wstHYPE",
+        "address": "0x0ab8aae3335ed4b373a33d9023b6a6585b149d33",
+        "symbol": "hHyperEvmwstHYPE",
+        "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0ab8aae3335ed4b373a33d9023b6a6585b149d33.png",
+        "assetGroup": "HyperLend HyperEVM wstHYPE::hHyperEvmwstHYPE",
+        "currencyId": "HyperLend HyperEVM wstHYPE::hHyperEvmwstHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "HyperLend HyperEVM wstHYPE",
+      "domainSeparator": "0xcd915b1ae5ba472e288e36467b459e9371184bac52b011ccdd55a517ca184a8f",
+      "status": "supported"
+    },
+    "0x89d3e1d6531595d59344d1a4e633b2826f2abe3b": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Balancer mcUSR-gtUSDT0",
+        "address": "0x89d3e1d6531595d59344d1a4e633b2826f2abe3b",
+        "symbol": "mcUSR-gtUSDT0",
+        "assetGroup": "Balancer mcUSR-gtUSDT0::mcUSR-gtUSDT0",
+        "currencyId": "Balancer mcUSR-gtUSDT0::mcUSR-gtUSDT0",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Balancer mcUSR-gtUSDT0",
+      "domainSeparator": "0x0e51d65952c4526801ff004cf0a70314f4356cf470e0bb7deb61d9a4be98e686",
+      "status": "supported"
+    },
+    "0xa5bec44e681e8138dfd4925f3023a54eddc99ea2": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Balancer feUSDhl-feUSDT0",
+        "address": "0xa5bec44e681e8138dfd4925f3023a54eddc99ea2",
+        "symbol": "feUSDhl-feUSDT0",
+        "assetGroup": "Balancer feUSDhl-feUSDT0::feUSDhl-feUSDT0",
+        "currencyId": "Balancer feUSDhl-feUSDT0::feUSDhl-feUSDT0",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Balancer feUSDhl-feUSDT0",
+      "domainSeparator": "0x324074c42fef2996ce66b2af004ce325eddb3f323fe8f82ea5a57d0b1096bd04",
+      "status": "supported"
+    },
+    "0xf3d39bee685e98392f25d3ecb1391f8e3e8a6c8d": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Balancer hbUSDT-gtUSDT0-gtUSDe",
+        "address": "0xf3d39bee685e98392f25d3ecb1391f8e3e8a6c8d",
+        "symbol": "hbUSDT-gtUSDT0-gtUSDe",
+        "assetGroup": "Balancer hbUSDT-gtUSDT0-gtUSDe::hbUSDT-gtUSDT0-gtUSDe",
+        "currencyId": "Balancer hbUSDT-gtUSDT0-gtUSDe::hbUSDT-gtUSDT0-gtUSDe",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Balancer hbUSDT-gtUSDT0-gtUSDe",
+      "domainSeparator": "0x172883c4d49bb1f30034d2a84a0e9ab207cbbe3f241250bc9bb06bfdb3239195",
+      "status": "supported"
+    },
+    "0x11a8729501b9318aa6bea5316353dc5eb2378d80": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Balancer Weighted gtUSDT0-mcHYPE",
+        "address": "0x11a8729501b9318aa6bea5316353dc5eb2378d80",
+        "symbol": "50gtUSDT0-50mcHYPE",
+        "assetGroup": "Balancer Weighted gtUSDT0-mcHYPE::50gtUSDT0-50mcHYPE::999::0",
+        "currencyId": "Balancer Weighted gtUSDT0-mcHYPE::50gtUSDT0-50mcHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Balancer Weighted gtUSDT0-mcHYPE",
+      "domainSeparator": "0x13356019560e03178c649dc446d62214c41ee5678147a486ddcd506379f85dbb",
+      "status": "supported"
+    },
+    "0x24b7b6fb9acd69f8bd6c64efc0664056eb612af9": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Cow Hyperswap Hyperevm LIQD-WHYPE",
+        "address": "0x24b7b6fb9acd69f8bd6c64efc0664056eb612af9",
+        "symbol": "cowHyperswapHyperevmLIQD-WHYPE",
+        "assetGroup": "Cow Hyperswap Hyperevm LIQD-WHYPE::cowHyperswapHyperevmLIQD-WHYPE",
+        "currencyId": "Cow Hyperswap Hyperevm LIQD-WHYPE::cowHyperswapHyperevmLIQD-WHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Cow Hyperswap Hyperevm LIQD-WHYPE",
+      "domainSeparator": "0x18f6a7352782ada977b9c00829f05c0ba6303d16dce2ce29944f121d172312ec",
+      "status": "supported"
+    },
+    "0x2dc02134ee3b2ee3da099d2854871404f968cf82": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Balancer LHYPE-stathHyperWHYPEv2",
+        "address": "0x2dc02134ee3b2ee3da099d2854871404f968cf82",
+        "symbol": "LHYPE-stathHyperWHYPEv2",
+        "assetGroup": "Balancer LHYPE-stathHyperWHYPEv2::LHYPE-stathHyperWHYPEv2",
+        "currencyId": "Balancer LHYPE-stathHyperWHYPEv2::LHYPE-stathHyperWHYPEv2",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Balancer LHYPE-stathHyperWHYPEv2",
+      "domainSeparator": "0xc05ec10136bf582b46541b3a7d12bcefa24e6bb6cf127bea8c755a408ed3b285",
+      "status": "supported"
+    },
+    "0x4de03ca1f02591b717495cfa19913ad56a2f5858": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Hyperwave HYPE",
+        "address": "0x4de03ca1f02591b717495cfa19913ad56a2f5858",
+        "symbol": "hwHYPE",
+        "logoURI": "https://raw.githubusercontent.com/gluexprotocol/public_assets/refs/heads/main/tokens/hyperevm/0x4DE03cA1F02591B717495cfA19913aD56a2f5858/logo.png",
+        "assetGroup": "Hyperwave HYPE::hwHYPE",
+        "currencyId": "Hyperwave HYPE::hwHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Hyperwave HYPE",
+      "domainSeparator": "0x5889134d77bdab9822ea556e5be0f8fb47f631c4e9ea9b62d1a88ed37a762ec5",
+      "status": "supported"
+    },
+    "0xccbe36b1f57265920ab96692421c80063957a238": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Laminar V2",
+        "address": "0xccbe36b1f57265920ab96692421c80063957a238",
+        "symbol": "LAMINAR-V2",
+        "assetGroup": "Laminar V2::LAMINAR-V2",
+        "currencyId": "Laminar V2::LAMINAR-V2",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Laminar V2",
+      "domainSeparator": "0x001add202b83ef78185ef313e9242b0a226929ac9710c7cb5aa9687a552a6f5a",
+      "status": "supported"
+    },
+    "0x56b15cf098daf18a387ef8160cae39d29525db3c": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "33UETH 33UBTC 33WHYPE",
+        "address": "0x56b15cf098daf18a387ef8160cae39d29525db3c",
+        "symbol": "33UETH-33UBTC-33WHYPE",
+        "assetGroup": "33UETH 33UBTC 33WHYPE::33UETH-33UBTC-33WHYPE",
+        "currencyId": "33UETH 33UBTC 33WHYPE::33UETH-33UBTC-33WHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "33UETH 33UBTC 33WHYPE",
+      "domainSeparator": "0x1a9c33329e01c7752efb8727af54cc05f2e03594be4f0a35c540591060326fa3",
+      "status": "supported"
+    },
+    "0x6d2abfd5ad9eecdcc7bd6b2a9256e86266288931": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "test  Liquidity Bootstrapping Pool",
+        "address": "0x6d2abfd5ad9eecdcc7bd6b2a9256e86266288931",
+        "symbol": "UETH-WHYPE-LBP",
+        "assetGroup": "test  Liquidity Bootstrapping Pool::UETH-WHYPE-LBP",
+        "currencyId": "test  Liquidity Bootstrapping Pool::UETH-WHYPE-LBP",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "test  Liquidity Bootstrapping Pool",
+      "domainSeparator": "0x4df37bce6b5204cdc805f33da95c6a1e075379c2aada955465698fc99a41e899",
+      "status": "supported"
+    },
+    "0xa92e88b74d8bfe8a34ca66ff0fa4ba6996807715": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Concentrated Hyperbloom HYPE-LHYPE",
+        "address": "0xa92e88b74d8bfe8a34ca66ff0fa4ba6996807715",
+        "symbol": "conhHYPELHYPE",
+        "assetGroup": "Concentrated Hyperbloom HYPE-LHYPE::conhHYPELHYPE",
+        "currencyId": "Concentrated Hyperbloom HYPE-LHYPE::conhHYPELHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Concentrated Hyperbloom HYPE-LHYPE",
+      "domainSeparator": "0xcd17bf31242ea98877f4ac2f06c5575699af46b338537c4ab239c6a5cab5812f",
+      "status": "supported"
+    },
+    "0x1eafe4f5a09bd5a5c63bc01dc039afcf73e53478": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Balancer hbUSDT-MC_USDT0-gtUSDe",
+        "address": "0x1eafe4f5a09bd5a5c63bc01dc039afcf73e53478",
+        "symbol": "hbUSDT-MC_USDT0-gtUSDe",
+        "assetGroup": "Balancer hbUSDT-MC_USDT0-gtUSDe::hbUSDT-MC_USDT0-gtUSDe",
+        "currencyId": "Balancer hbUSDT-MC_USDT0-gtUSDe::hbUSDT-MC_USDT0-gtUSDe",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Balancer hbUSDT-MC_USDT0-gtUSDe",
+      "domainSeparator": "0xed6627385e5ed5cbb3e6779f7c138cda1ab2ed371251a99fb08aea46b626b76d",
+      "status": "supported"
+    },
+    "0x8207c7541ce31b38dbd46890f2a832cf1ef7c512": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Balancer mcUSR-MC_USDT0",
+        "address": "0x8207c7541ce31b38dbd46890f2a832cf1ef7c512",
+        "symbol": "mcUSR-MC_USDT0",
+        "assetGroup": "Balancer mcUSR-MC_USDT0::mcUSR-MC_USDT0",
+        "currencyId": "Balancer mcUSR-MC_USDT0::mcUSR-MC_USDT0",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Balancer mcUSR-MC_USDT0",
+      "domainSeparator": "0xfa1d6451687377fcc5e120b26a41ce8850435a4738c1f70278bce7141c9aec86",
+      "status": "supported"
+    },
+    "0xb2432ac4bb415716c106dca066a13c1a0ab3cc23": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Laminar V2",
+        "address": "0xb2432ac4bb415716c106dca066a13c1a0ab3cc23",
+        "symbol": "LAMINAR-V2",
+        "assetGroup": "Laminar V2::LAMINAR-V2::999::0",
+        "currencyId": "Laminar V2::LAMINAR-V2",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Laminar V2",
+      "domainSeparator": "0xd3135a4d17753f6edb6b574902553f9458ac3516733ed75ac1c7d05cb720f429",
+      "status": "supported"
+    },
+    "0x6763b125cd2aff99b3701b2061e5fd6584cb9b2b": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "feUSD feUSDhl",
+        "address": "0x6763b125cd2aff99b3701b2061e5fd6584cb9b2b",
+        "symbol": "feUSD-feUSDhl",
+        "assetGroup": "feUSD feUSDhl::feUSD-feUSDhl",
+        "currencyId": "feUSD feUSDhl::feUSD-feUSDhl",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "feUSD feUSDhl",
+      "domainSeparator": "0xdfe7c8b9cee4c89ce2f0fa9bc316b79a822e80b3944c96f412fd3a0d6862cb15",
+      "status": "supported"
+    },
+    "0x793117aa151d87077dbcb23862fa9a38bce84946": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Balancer MC_USDT0-mcHYPE",
+        "address": "0x793117aa151d87077dbcb23862fa9a38bce84946",
+        "symbol": "50MC_USDT0-50mcHYPE",
+        "assetGroup": "Balancer MC_USDT0-mcHYPE::50MC_USDT0-50mcHYPE",
+        "currencyId": "Balancer MC_USDT0-mcHYPE::50MC_USDT0-50mcHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Balancer MC_USDT0-mcHYPE",
+      "domainSeparator": "0x330db551fb63cf6556ff00f73cd1da91d37032e44cb57d0db53121ac2a96d108",
+      "status": "supported"
+    },
+    "0x626f0e7597f912c4f9a9e1d893b4bc0bfd51b33a": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "HyperLend Test HyperEVM test-wstHYPE",
+        "address": "0x626f0e7597f912c4f9a9e1d893b4bc0bfd51b33a",
+        "symbol": "hTestHyperEvmtest-wstHYPE",
+        "assetGroup": "HyperLend Test HyperEVM test-wstHYPE::hTestHyperEvmtest-wstHYPE",
+        "currencyId": "HyperLend Test HyperEVM test-wstHYPE::hTestHyperEvmtest-wstHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "HyperLend Test HyperEVM test-wstHYPE",
+      "domainSeparator": "0x54a3676f80f33a1a908ce59460a867f890d560a0cc444345fa26491d410285bb",
+      "status": "supported"
+    },
+    "0x95d401f8f4e2544e8a6f6988110a9e45b80f9393": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "feUSD feUSDhl",
+        "address": "0x95d401f8f4e2544e8a6f6988110a9e45b80f9393",
+        "symbol": "feUSD-feUSDhl",
+        "assetGroup": "feUSD feUSDhl::feUSD-feUSDhl::999::0",
+        "currencyId": "feUSD feUSDhl::feUSD-feUSDhl",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "feUSD feUSDhl",
+      "domainSeparator": "0xbae9c5298865d232118b02e573068b83a9c0947a1f200d05e4c62026149b43a7",
+      "status": "supported"
+    },
+    "0x131707fbcc247b12e235af154fd7f7558803c24e": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Balancer lstHYPE-mcHYPE",
+        "address": "0x131707fbcc247b12e235af154fd7f7558803c24e",
+        "symbol": "lstHYPE-mcHYPE",
+        "assetGroup": "Balancer lstHYPE-mcHYPE::lstHYPE-mcHYPE",
+        "currencyId": "Balancer lstHYPE-mcHYPE::lstHYPE-mcHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Balancer lstHYPE-mcHYPE",
+      "domainSeparator": "0x93ebd338f6e3624c85feaeef9d9eb9cdf7218f70bfabb899ce297449cde99275",
+      "status": "supported"
+    },
+    "0x1c9854020388ea51b3f0a4e86695596362073bbd": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "kHYPE hlHype",
+        "address": "0x1c9854020388ea51b3f0a4e86695596362073bbd",
+        "symbol": "kHYPE-hlHype",
+        "assetGroup": "kHYPE hlHype::kHYPE-hlHype",
+        "currencyId": "kHYPE hlHype::kHYPE-hlHype",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "kHYPE hlHype",
+      "domainSeparator": "0xde1a4101ac2061e9b7a85cb4e2d2b83592c2ece81cc564a96c7756dd69e1e13a",
+      "status": "supported"
+    },
+    "0x5a1b027bf50fb435b88eb93157a99ad11f565bb2": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Concentrated Hyperbloom HYPE-UETH",
+        "address": "0x5a1b027bf50fb435b88eb93157a99ad11f565bb2",
+        "symbol": "conhHYPEUETH",
+        "assetGroup": "Concentrated Hyperbloom HYPE-UETH::conhHYPEUETH",
+        "currencyId": "Concentrated Hyperbloom HYPE-UETH::conhHYPEUETH",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Concentrated Hyperbloom HYPE-UETH",
+      "domainSeparator": "0x9145049ca410504492febd5358fecefb6d7cc02b14c3ab9ad717ff2fec8c6610",
+      "status": "supported"
+    },
+    "0x70723396b6deb5bc3c56d58520e7df3f9104fc2c": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "hbHYPE mcHYPE",
+        "address": "0x70723396b6deb5bc3c56d58520e7df3f9104fc2c",
+        "symbol": "hbHYPE-mcHYPE",
+        "assetGroup": "hbHYPE mcHYPE::hbHYPE-mcHYPE",
+        "currencyId": "hbHYPE mcHYPE::hbHYPE-mcHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "hbHYPE mcHYPE",
+      "domainSeparator": "0x43723cbcb2e5b91f5c3dcf46524578940bd10899943d59e5afd72c0795b37a85",
+      "status": "supported"
+    },
+    "0xa0e680c4075dfedb08f16704828c227038b1d7ab": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Concentrated Hyperbloom USDC-USDT",
+        "address": "0xa0e680c4075dfedb08f16704828c227038b1d7ab",
+        "symbol": "conhUSDCUSDT",
+        "assetGroup": "Concentrated Hyperbloom USDC-USDT::conhUSDCUSDT",
+        "currencyId": "Concentrated Hyperbloom USDC-USDT::conhUSDCUSDT",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Concentrated Hyperbloom USDC-USDT",
+      "domainSeparator": "0xc88e9cb163f6a1c9cbc66acdc14d4e25c3e1d967ecf063bdcfaea35b39251151",
+      "status": "supported"
+    },
+    "0xd7f1c9a65d86f1351c805275f6891da436f9af58": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Uniswap V2",
+        "address": "0xd7f1c9a65d86f1351c805275f6891da436f9af58",
+        "symbol": "UNI-V2",
+        "assetGroup": "Uniswap V2::UNI-V2",
+        "currencyId": "Uniswap V2::UNI-V2",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Uniswap V2",
+      "domainSeparator": "0x9ba276b81f465228299e46cc9a8b65e91c174e4aca242428896713b86d07696e",
+      "status": "supported"
+    },
+    "0x9a501d6b739f9b0a79214c9d2b3cdbf602b3b63d": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "50feUSD 50UETH",
+        "address": "0x9a501d6b739f9b0a79214c9d2b3cdbf602b3b63d",
+        "symbol": "50feUSD-50UETH",
+        "assetGroup": "50feUSD 50UETH::50feUSD-50UETH",
+        "currencyId": "50feUSD 50UETH::50feUSD-50UETH",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "50feUSD 50UETH",
+      "domainSeparator": "0x6f2e9a9d02ab9d902ccb27858fee6223f772380c46d6cb66b66d26e236f0e771",
+      "status": "supported"
+    },
+    "0xf7f58e166057c571854485a789ba14724c56aebc": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Neko HYPE LP",
+        "address": "0xf7f58e166057c571854485a789ba14724c56aebc",
+        "symbol": "NEKO-HYPE-LP",
+        "assetGroup": "Neko HYPE LP::NEKO-HYPE-LP",
+        "currencyId": "Neko HYPE LP::NEKO-HYPE-LP",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Neko HYPE LP",
+      "domainSeparator": "0x8d10d5134c44092a448848ac2896551efb7d321a69df9c94b815b9762f9b5027",
+      "status": "supported"
+    },
+    "0x06d64e32bdded0102465ab76e0851677e892b949": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Laminar V2",
+        "address": "0x06d64e32bdded0102465ab76e0851677e892b949",
+        "symbol": "LAMINAR-V2",
+        "assetGroup": "Laminar V2::LAMINAR-V2::999::1",
+        "currencyId": "Laminar V2::LAMINAR-V2",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Laminar V2",
+      "domainSeparator": "0x2471fccd362c319c95c043bec9fa271f76dd42595f20f2a2f2c6dd59929e4975",
+      "status": "supported"
+    },
+    "0x23f3226b8f8c8397d4a9a746dd8062d9338b2aed": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Laminar V2",
+        "address": "0x23f3226b8f8c8397d4a9a746dd8062d9338b2aed",
+        "symbol": "LAMINAR-V2",
+        "assetGroup": "Laminar V2::LAMINAR-V2::999::2",
+        "currencyId": "Laminar V2::LAMINAR-V2",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Laminar V2",
+      "domainSeparator": "0x3b879b8b47e951f42b2903b4321c4d0cfcb629777160d981b8a55acbf37a5e8e",
+      "status": "supported"
+    },
+    "0xb2ba1dc0af7ebc7eb9b398d1cf43bc360afedf6f": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "50LIQD 50WHYPE",
+        "address": "0xb2ba1dc0af7ebc7eb9b398d1cf43bc360afedf6f",
+        "symbol": "50LIQD-50WHYPE",
+        "assetGroup": "50LIQD 50WHYPE::50LIQD-50WHYPE",
+        "currencyId": "50LIQD 50WHYPE::50LIQD-50WHYPE",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "50LIQD 50WHYPE",
+      "domainSeparator": "0x984f1008493a3db470838be177d3bea3c3567498b9d976aaf37c9ac922bcb493",
+      "status": "supported"
+    },
+    "0xf9156d70f2c2b6e0669b5e749ffb3572b9f017b7": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Laminar V2",
+        "address": "0xf9156d70f2c2b6e0669b5e749ffb3572b9f017b7",
+        "symbol": "LAMINAR-V2",
+        "assetGroup": "Laminar V2::LAMINAR-V2::999::3",
+        "currencyId": "Laminar V2::LAMINAR-V2",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Laminar V2",
+      "domainSeparator": "0x69172a78d49ec5794520cd9a08ab609ba9e959df125dee05d0e9bc4601e87eb7",
+      "status": "supported"
+    },
+    "0xdf4686094eba30ed8d64cbe99edd3b8c1bec4259": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Laminar V2",
+        "address": "0xdf4686094eba30ed8d64cbe99edd3b8c1bec4259",
+        "symbol": "LAMINAR-V2",
+        "assetGroup": "Laminar V2::LAMINAR-V2::999::4",
+        "currencyId": "Laminar V2::LAMINAR-V2",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Laminar V2",
+      "domainSeparator": "0xa93f4e1a0558b2d0b29b818ac19803a571aa61eee19ff731b2f410d235ccf3eb",
+      "status": "supported"
+    },
+    "0x17e36783e845cf721b489a26b946d927e9fedf7a": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "aUSDHL-USDT",
+        "address": "0x17e36783e845cf721b489a26b946d927e9fedf7a",
+        "symbol": "aUSDHL-USDT",
+        "assetGroup": "aUSDHL-USDT::aUSDHL-USDT",
+        "currencyId": "aUSDHL-USDT::aUSDHL-USDT",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "aUSDHL-USDT",
+      "domainSeparator": "0x9be2fe7d0bd893cddd6e64882382eb0ba04fd8a75231ca407fb6d9643852ac72",
+      "status": "supported"
+    },
+    "0xeaa2e722d60aad1297c9d0049921a88847f55638": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Laminar V2",
+        "address": "0xeaa2e722d60aad1297c9d0049921a88847f55638",
+        "symbol": "LAMINAR-V2",
+        "assetGroup": "Laminar V2::LAMINAR-V2::999::5",
+        "currencyId": "Laminar V2::LAMINAR-V2",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Laminar V2",
+      "domainSeparator": "0x298a9e19d67fbc3206f80f67f337d2a6eced452c6c1371834639a571a7fbd225",
+      "status": "supported"
+    },
+    "0x37650b29279b517023a4879917400523423e30e9": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Correlated Madness I",
+        "address": "0x37650b29279b517023a4879917400523423e30e9",
+        "symbol": "CMI",
+        "assetGroup": "Correlated Madness I::CMI",
+        "currencyId": "Correlated Madness I::CMI",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Correlated Madness I",
+      "domainSeparator": "0xc1bdccb841d8ab66498d3a678d45d8219ab350fa8c78252c75ee095d03019dfc",
+      "status": "supported"
+    },
+    "0x46777c76dbbe40fabb2aab99e33ce20058e76c59": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Layer3",
+        "address": "0x46777c76dbbe40fabb2aab99e33ce20058e76c59",
+        "symbol": "L3",
+        "assetGroup": "Layer3::L3",
+        "currencyId": "Layer3::L3",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Layer3",
+      "domainSeparator": "0x0989d448daad54a83f19d2d5a700b8ee8d9587d0c9422895e3216dde45c1c7df",
+      "status": "supported"
+    },
+    "0x9eed7d6914cc0d00139e99aec0cd60b02ba8c07e": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Correlated Madness II",
+        "address": "0x9eed7d6914cc0d00139e99aec0cd60b02ba8c07e",
+        "symbol": "Correlated Madness II",
+        "assetGroup": "Correlated Madness II::Correlated Madness II",
+        "currencyId": "Correlated Madness II::Correlated Madness II",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Correlated Madness II",
+      "domainSeparator": "0x8faa24e7872947645fd0db140dfdf8ae3721d64abb01a40893f1281a0031e994",
+      "status": "supported"
+    },
+    "0xcc6ee2bcc7537173f1f2c42ecb2d4d8ec219a1f4": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "50WHYPE 50UPUMP",
+        "address": "0xcc6ee2bcc7537173f1f2c42ecb2d4d8ec219a1f4",
+        "symbol": "50WHYPE-50UPUMP",
+        "assetGroup": "50WHYPE 50UPUMP::50WHYPE-50UPUMP",
+        "currencyId": "50WHYPE 50UPUMP::50WHYPE-50UPUMP",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "50WHYPE 50UPUMP",
+      "domainSeparator": "0xb4cbec89e8854e167ea7bd7b5dc84e0008f9e660206019abae5e02c8708e2338",
+      "status": "supported"
+    },
+    "0xf86021eecff551fe0da109a5a467174be8152f58": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "ChipSwap Liquidity Provider",
+        "address": "0xf86021eecff551fe0da109a5a467174be8152f58",
+        "symbol": "CHIP-LP",
+        "assetGroup": "ChipSwap Liquidity Provider::CHIP-LP",
+        "currencyId": "ChipSwap Liquidity Provider::CHIP-LP",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "ChipSwap Liquidity Provider",
+      "domainSeparator": "0x5b80fb6ac4742a8d8be4a8e56a781cefd6b6f1cd4ba5e9faa4b21ec3f9cc8dcd",
+      "status": "supported"
+    },
+    "0x226702c0ca528c29eb9252b773c4f06492510f4c": {
+      "token": {
+        "chainId": "999",
+        "decimals": 9,
+        "name": "Neiro",
+        "address": "0x226702c0ca528c29eb9252b773c4f06492510f4c",
+        "symbol": "NEIRO",
+        "logoURI": "https://assets.coingecko.com/coins/images/39488/thumb/neiro.jpg?1731449567",
+        "assetGroup": "Neiro::NEIRO",
+        "currencyId": "Neiro::NEIRO",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Neiro",
+      "domainSeparator": "0xe9688b26e9f1d8edac35c566325926abd2d77cd81f28bd445810311c0885da6f",
+      "status": "supported"
+    },
+    "0x99ed8c89d6ed3a05e73bfa0ce0213bb942061a65": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Amped Finance",
+        "address": "0x99ed8c89d6ed3a05e73bfa0ce0213bb942061a65",
+        "symbol": "AMPED",
+        "logoURI": "https://assets.coingecko.com/coins/images/37421/thumb/AmpedLogoTrans-200.png?1714377313",
+        "assetGroup": "Amped Finance::AMPED",
+        "currencyId": "Amped Finance::AMPED",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Amped Finance",
+      "domainSeparator": "0xacc9c8ba60293ddf80fd67ea6c5c3cc94a3387987b2a607363d0891968b4d164",
+      "status": "supported"
+    },
+    "0x111111a1a0667d36bd57c0a9f569b98057111111": {
+      "token": {
+        "chainId": "999",
+        "decimals": 6,
+        "name": "USDH",
+        "address": "0x111111a1a0667d36bd57c0a9f569b98057111111",
+        "symbol": "USDH",
+        "logoURI": "https://assets.coingecko.com/coins/images/69484/thumb/usdh.png?1758728903",
+        "assetGroup": "USDH::USDH",
+        "currencyId": "USDH::USDH",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "USDH",
+      "domainSeparator": "0xffba615ea78f2b020534d4d6fadfe9cdddfa9e23dc131449873394b6e832fd3e",
+      "status": "supported"
+    },
+    "0xdc6f4239c1d8d3b955c06cb8f1a6cf18effc5bfe": {
+      "token": {
+        "chainId": "999",
+        "decimals": 6,
+        "name": "Static USD₮0 Hypurr",
+        "address": "0xdc6f4239c1d8d3b955c06cb8f1a6cf18effc5bfe",
+        "symbol": "stathyUSD₮0",
+        "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xdc6f4239c1d8d3b955c06cb8f1a6cf18effc5bfe.png",
+        "assetGroup": "Static USD₮0 Hypurr::stathyUSD₮0",
+        "currencyId": "Static USD₮0 Hypurr::stathyUSD₮0"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Static USD₮0 Hypurr",
+      "domainSeparator": "0x88da810a83f7ed0d158e2bdc747a3f1be5e59846eb6984141891cf90d82d99ec",
+      "status": "supported"
+    },
+    "0x0e01e3afd147c7f079ea19d0eca166ad3a22e79d": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Hyperwave",
+        "address": "0x0e01e3afd147c7f079ea19d0eca166ad3a22e79d",
+        "symbol": "HWAVE",
+        "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0e01e3afd147c7f079ea19d0eca166ad3a22e79d.png",
+        "assetGroup": "Hyperwave::HWAVE",
+        "currencyId": "Hyperwave::HWAVE"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Hyperwave",
+      "domainSeparator": "0xf443e08fab10bc1247b6d8da78469a5bd597d6890640d9e00fa600ff30caed70",
+      "status": "supported"
+    },
+    "0xa2f8da4a55898b6c947fa392ef8d6bfd87a4ff77": {
+      "token": {
+        "chainId": "999",
+        "decimals": 6,
+        "name": "hwUSD",
+        "address": "0xa2f8da4a55898b6c947fa392ef8d6bfd87a4ff77",
+        "symbol": "hwUSD",
+        "logoURI": "https://coin-images.coingecko.com/coins/images/70507/large/hwstable.png?1762267461",
+        "assetGroup": "hwUSD::hwUSD",
+        "currencyId": "hwUSD::hwUSD"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "hwUSD",
+      "domainSeparator": "0xb1f94aa2d24f6111ac8e41c435ada1cb40439d45c39dca7b5eaea0c941530ab9",
+      "status": "supported"
+    },
+    "0x20ecf3936df08556b62fd15a4e167ae99d73b957": {
+      "token": {
+        "chainId": "999",
+        "decimals": 6,
+        "name": "Static USDH Hypurr",
+        "address": "0x20ecf3936df08556b62fd15a4e167ae99d73b957",
+        "symbol": "stathyUSDH",
+        "assetGroup": "Static USDH Hypurr::stathyUSDH",
+        "currencyId": "Static USDH Hypurr::stathyUSDH"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Static USDH Hypurr",
+      "domainSeparator": "0xc25a675afe24f2796713a2b9e4e1f1ea1917a0efed16d093b58f7431fa3cc616",
+      "status": "supported"
+    },
+    "0x555570a286f15ebdfe42b66ede2f724aa1ab5555": {
+      "token": {
+        "chainId": "999",
+        "decimals": 18,
+        "name": "Ramses RAM",
+        "address": "0x555570a286f15ebdfe42b66ede2f724aa1ab5555",
+        "symbol": "RAM",
+        "logoURI": "https://raw.githubusercontent.com/gluexprotocol/tokens_registry/main/assets/tokens/999/RAM.svg",
+        "assetGroup": "Ramses RAM::RAM",
+        "currencyId": "Ramses RAM::RAM"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Ramses",
+      "domainSeparator": "0xa812ea5bb17276cf0ff26f428abdff440906ef61ed840395a64b39d2771a54e7",
+      "status": "supported"
+    }
+  },
+  "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
+    "0xca79db4b49f608ef54a5cb813fbed3a6387bc645",
+    "0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70",
+    "0x5748ae796ae46a4f1348a1693de4b50560485562",
+    "0xb88339cb7199b77e23db6e890353e22632ba630f",
+    "0xcb0ac0aa94c67dde8688ac34c8e4d6c18e78b638",
+    "0xffaa4a3d97fe9107cef8a3f48c069f577ff76cc1",
+    "0x94e8396e0869c9f2200760af0621afd240e1cf38",
+    "0xb5fe77d323d69eb352a02006ea8ecc38d882620c",
+    "0x47bb061c0204af921f43dc73c7d7768d2672ddee",
+    "0x28245ab01298eaef7933bc90d35bd9dbca5c89db",
+    "0x5555555555555555555555555555555555555555",
+    "0x9fdbda0a5e284c32744d2f17ee5c74b284993463",
+    "0x111111a1a0667d36bd57c0a9f569b98057111111",
+    "0x1bee6762f0b522c606dc2ffb106c0bb391b2e309",
+    "0x52e444545fbe9e5972a7a371299522f7871aec1f",
+    "0x11735dbd0b97cfa7accf47d005673ba185f7fd49",
+    "0xb09158c8297acee00b900dc1f8715df46b7246a6",
+    "0x9b498c3c8a0b8cd8ba1d9851d40d186f1872b44e",
+    "0xbe6727b535545c67d5caa73dea54865b92cf7907",
+    "0xf9775085d726e782e83585033b58606f7731ab18",
+    "0x7bbcf1b600565ae023a1806ef637af4739de3255",
+    "0xae4efbc7736f963982aacb17efa37fcbab924cb3",
+    "0xc99f5c922dae05b6e2ff83463ce705ef7c91f077",
+    "0x7410e69958a8ece2a51c231c8528513d4d668c7a",
+    "0x8ff0dd9f9c40a0d76ef1bcfaf5f98c1610c74bd8",
+    "0x00fdbc53719604d924226215bc871d55e40a1009",
+    "0x45ec8f63fe934c0213476cfb5870835e61dd11fa",
+    "0x502ee789b448aa692901fe27ab03174c90f07dd1",
+    "0x9c84d78839ade4d3211a9b5fa73ef079eca4f739",
+    "0xb8ce59fc3717ada4c02eadf9682a9e934f625ebb",
+    "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "0x4ae080eccd89cf1dc2965dbd5198b7a4efdfa7b8",
+    "0x0ad339d66bf4aed5ce31c64bc37b3244b6394a77",
+    "0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+    "0x9b530b0ac8817f4b6c29cff236df85ed33ece660",
+    "0xb2589c360fbb7b3a6ee061359c5a9a2714d26006",
+    "0x738dd55c272b0b686382f62dd4a590056839f4f6",
+    "0x1fbccdc677c10671ee50b46c61f0f7d135112450",
+    "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+    "0xf4d9235269a96aadafc9adae454a0618ebe37949",
+    "0x7dcffcb06b40344eeced2d1cbf096b299fe4b405",
+    "0x1359b05241ca5076c9f59605214f4f84114c0de8",
+    "0xdabb040c428436d41cecd0fb06bcfdbaad3a9aa8",
+    "0x9fd7466f987fd4c45a5bbde22ed8aba5bc8d72d1",
+    "0x0725a349f733cc13c84232a706d9ca99d2a1ef23",
+    "0x36721e62edea413dc5195c4ca9c5a7eb175feb6b"
+  ]
+}

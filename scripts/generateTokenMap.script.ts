@@ -886,18 +886,18 @@ async function main() {
     listOfLists,
     CHAIN_INFO
   );
-  const WNativeMapPath = "./src/data/wnative.ts";
-  fs.writeFileSync(WNativeMapPath, WNativeMap);
+  // const WNativeMapPath = "./src/data/wnative.ts";
+  // fs.writeFileSync(WNativeMapPath, WNativeMap);
 
-  const PresetMap = createPresetMap(chainPreset, wNative, CHAIN_INFO);
-  const PresetMapPath = "./src/data/assetPresets.ts";
-  fs.writeFileSync(PresetMapPath, PresetMap);
+  // const PresetMap = createPresetMap(chainPreset, wNative, CHAIN_INFO);
+  // const PresetMapPath = "./src/data/assetPresets.ts";
+  // fs.writeFileSync(PresetMapPath, PresetMap);
 
   /** Token lists as jsons */
   const chainIds = Object.keys(listOfLists);
 
   chainIds.map((chainId) => {
-    const addressToAssetPath = `./asset-lists/${chainId}.json`;
+    const addressToAssetPath = `../${chainId}.json`;
     const data: List = {
       chainId,
       version: "0",
@@ -908,7 +908,7 @@ async function main() {
     fs.writeFileSync(addressToAssetPath, JSON.stringify(data));
   });
 
-  const addressToOmniPath = `./asset-lists/omni-list.json`;
+  const addressToOmniPath = `../omni-list.json`;
   fs.writeFileSync(addressToOmniPath, JSON.stringify(omnis));
 }
 

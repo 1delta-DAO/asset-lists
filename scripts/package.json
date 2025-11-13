@@ -3,18 +3,26 @@
   "private": true,
   "type": "commonjs",
   "scripts": {
-    "permits": "ts-node ./permit/scrape_permit.ts",
-    "generate": "ts-node generateTokenMap.script.ts"
+    "permits": "tsx permit/scrape_permit.ts",
+    "format": "npx prettier .. -w --ignore-path .prettierignore",
+    "generate": "tsx generateTokenMap.script.ts"
   },
   "devDependencies": {
+    "prettier": "^3.6.2",
     "@types/node": "^20.11.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
   },
   "dependencies": {
     "@1delta/chain-registry": "^0.0.2",
+    "@1delta/data-sdk": "^0.0.10",
     "@1delta/providers": "^0.0.38",
     "@1delta/wnative": "^0.0.4",
     "viem": "^2.39.0"
+  },
+  "prettier": {
+    "printWidth": 120,
+    "semi": false,
+    "singleQuote": true
   }
 }
