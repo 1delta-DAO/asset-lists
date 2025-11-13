@@ -861,7 +861,10 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/glmr.webp",
       "assetGroup": "GLMR",
       "currencyId": "Glimmer::GLMR",
-      "props": { "isNative": true, "wrapped": "0xacc15dc74880c9944775448304b263d191c6077f" }
+      "props": {
+        "isNative": true,
+        "wrapped": "0xacc15dc74880c9944775448304b263d191c6077f"
+      }
     }
   },
   "mainTokens": [

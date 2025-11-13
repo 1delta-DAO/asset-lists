@@ -77,7 +77,7 @@ async function getAvailableChains(): Promise<ChainInfo[]> {
       } else {
         console.log(`No token list for ${tokenList.url.split('/').pop()}`)
       }
-    } catch (error:any) {
+    } catch (error: any) {
       console.log(`Error checking ${tokenList.url.split('/').pop()}:`, error.message)
     }
   }
@@ -198,7 +198,7 @@ export function verifyPermitFiles(chainIds: string[]): void {
           console.log(`Chain ${chainId}: Invalid permit file format`)
           invalidFiles++
         }
-      } catch (error:any) {
+      } catch (error: any) {
         console.log(`Chain ${chainId}: Failed to parse permit file - ${error.message}`)
         invalidFiles++
       }

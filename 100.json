@@ -7501,7 +7501,10 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/xdai.webp",
       "assetGroup": "XDAI",
       "currencyId": "xDAI::XDAI",
-      "props": { "isNative": true, "wrapped": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d" }
+      "props": {
+        "isNative": true,
+        "wrapped": "0xe91d153e0b41518a2ce8dd3d7944fa863463a97d"
+      }
     }
   },
   "mainTokens": [

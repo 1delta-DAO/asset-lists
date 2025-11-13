@@ -82,7 +82,10 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/etc.webp",
       "assetGroup": "Wrapped ETC::WETC",
       "currencyId": "Ether::ETC",
-      "props": { "isNative": true, "wrapped": "0x82a618305706b14e7bcf2592d4b9324a366b6dad" }
+      "props": {
+        "isNative": true,
+        "wrapped": "0x82a618305706b14e7bcf2592d4b9324a366b6dad"
+      }
     }
   },
   "mainTokens": [

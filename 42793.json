@@ -232,7 +232,10 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/xtz.webp",
       "assetGroup": "XTZ",
       "currencyId": "tez::XTZ",
-      "props": { "isNative": true, "wrapped": "0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab" }
+      "props": {
+        "isNative": true,
+        "wrapped": "0xc9b53ab2679f573e480d01e0f49e2b5cfb7a3eab"
+      }
     }
   },
   "mainTokens": [

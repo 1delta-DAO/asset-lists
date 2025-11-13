@@ -582,7 +582,10 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/one.webp",
       "assetGroup": "ONE",
       "currencyId": "ONE::ONE",
-      "props": { "isNative": true, "wrapped": "0xcf664087a5bb0237a0bad6742852ec6c8d69a27a" }
+      "props": {
+        "isNative": true,
+        "wrapped": "0xcf664087a5bb0237a0bad6742852ec6c8d69a27a"
+      }
     }
   },
   "mainTokens": [

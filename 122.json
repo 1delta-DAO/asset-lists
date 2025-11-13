@@ -575,7 +575,10 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/fuse.webp",
       "assetGroup": "FUSE",
       "currencyId": "Fuse::FUSE",
-      "props": { "isNative": true, "wrapped": "0x0be9e53fd7edac9f859882afdda116645287c629" }
+      "props": {
+        "isNative": true,
+        "wrapped": "0x0be9e53fd7edac9f859882afdda116645287c629"
+      }
     }
   },
   "mainTokens": [

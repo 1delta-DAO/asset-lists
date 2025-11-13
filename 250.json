@@ -4810,7 +4810,10 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/ftm.webp",
       "assetGroup": "FTM",
       "currencyId": "Fantom::FTM",
-      "props": { "isNative": true, "wrapped": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83" }
+      "props": {
+        "isNative": true,
+        "wrapped": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83"
+      }
     }
   },
   "mainTokens": [

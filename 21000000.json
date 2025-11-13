@@ -201,7 +201,10 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/btcn.webp",
       "assetGroup": "Wrapped Bitcorn::WBTCN",
       "currencyId": "Bitcorn::BTCN",
-      "props": { "isNative": true, "wrapped": "0xda5ddd7270381a7c2717ad10d1c0ecb19e3cdfb2" }
+      "props": {
+        "isNative": true,
+        "wrapped": "0xda5ddd7270381a7c2717ad10d1c0ecb19e3cdfb2"
+      }
     }
   },
   "mainTokens": [

@@ -8885,7 +8885,10 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/avax.webp",
       "assetGroup": "AVAX",
       "currencyId": "Avalanche::AVAX",
-      "props": { "isNative": true, "wrapped": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7" }
+      "props": {
+        "isNative": true,
+        "wrapped": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7"
+      }
     }
   },
   "mainTokens": [

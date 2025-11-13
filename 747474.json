@@ -10,7 +10,8 @@
       "symbol": "KAT",
       "logoURI": "https://cdn.morpho.org/assets/logos/kat.svg",
       "assetGroup": "Katana Network Token::KAT",
-      "currencyId": "Katana Network Token::KAT"
+      "currencyId": "Katana Network Token::KAT",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x3ba1fbc4c3aea775d335b31fb53778f46fd3a330": {
       "chainId": "747474",
@@ -40,7 +41,8 @@
       "symbol": "SUSHI",
       "logoURI": "https://cdn.morpho.org/assets/logos/sushi.svg",
       "assetGroup": "SushiToken::SUSHI",
-      "currencyId": "SushiToken::SUSHI"
+      "currencyId": "SushiToken::SUSHI",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62": {
       "chainId": "747474",
@@ -104,7 +106,8 @@
       "symbol": "MORPHO",
       "logoURI": "https://cdn.morpho.org/assets/logos/morpho.svg",
       "assetGroup": "MORPHO",
-      "currencyId": "Morpho Token::MORPHO"
+      "currencyId": "Morpho Token::MORPHO",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x9b8df6e244526ab5f6e6400d331db28c8fdddb55": {
       "chainId": "747474",
@@ -114,7 +117,8 @@
       "symbol": "uSOL",
       "logoURI": "https://cdn.morpho.org/assets/logos/usol.svg",
       "assetGroup": "Solana (Universal)::uSOL",
-      "currencyId": "Solana (Universal)::uSOL"
+      "currencyId": "Solana (Universal)::uSOL",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x7fb4d0f51544f24f385a421db6e7d4fc71ad8e5c": {
       "chainId": "747474",
@@ -124,7 +128,8 @@
       "symbol": "wstETH",
       "logoURI": "https://cdn.morpho.org/assets/logos/wsteth.svg",
       "assetGroup": "WSTETH",
-      "currencyId": "Wrapped liquid staked Ether 2.0::wstETH"
+      "currencyId": "Wrapped liquid staked Ether 2.0::wstETH",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xb24e3035d1fcbc0e43cf3143c3fd92e53df2009b": {
       "chainId": "747474",
@@ -134,7 +139,8 @@
       "symbol": "POL",
       "logoURI": "https://cdn.morpho.org/assets/logos/pol.svg",
       "assetGroup": "POL",
-      "currencyId": "Polygon::POL"
+      "currencyId": "Polygon::POL",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xecac9c5f704e954931349da37f60e39f515c11c1": {
       "chainId": "747474",
@@ -144,7 +150,8 @@
       "symbol": "LBTC",
       "logoURI": "https://cdn.morpho.org/assets/logos/lbtc.svg",
       "assetGroup": "LBTC",
-      "currencyId": "Lombard Staked BTC::LBTC"
+      "currencyId": "Lombard Staked BTC::LBTC",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0xb0f70c0bd6fd87dbeb7c10dc692a2a6106817072": {
       "chainId": "747474",
@@ -154,7 +161,8 @@
       "symbol": "BTCK",
       "logoURI": "https://cdn.morpho.org/assets/logos/btck.svg",
       "assetGroup": "Bitcoin on Katana::BTCK",
-      "currencyId": "Bitcoin on Katana::BTCK"
+      "currencyId": "Bitcoin on Katana::BTCK",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x9893989433e7a383cb313953e4c2365107dc19a7": {
       "chainId": "747474",
@@ -164,7 +172,8 @@
       "symbol": "weETH",
       "logoURI": "https://cdn.morpho.org/assets/logos/weeth.svg",
       "assetGroup": "WEETH",
-      "currencyId": "Wrapped eETH::weETH"
+      "currencyId": "Wrapped eETH::weETH",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x62d6a123e8d19d06d68cf0d2294f9a3a0362c6b3": {
       "chainId": "747474",
@@ -185,7 +194,8 @@
       "symbol": "uSUI",
       "logoURI": "https://static.debank.com/image/world_token/logo_url/0xb0505e5a99abd03d94a1169e638b78edfed26ea4/3ded500b84a0ee8ed79f088e96f841d9.png",
       "assetGroup": "Sui (Universal)::uSUI",
-      "currencyId": "Sui (Universal)::uSUI"
+      "currencyId": "Sui (Universal)::uSUI",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x2615a94df961278dcbc41fb0a54fec5f10a693ae": {
       "chainId": "747474",
@@ -195,7 +205,8 @@
       "symbol": "uXRP",
       "logoURI": "https://static.debank.com/image/world_token/logo_url/0x2615a94df961278dcbc41fb0a54fec5f10a693ae/33060c349aaec14e8ca665fba57b9c4c.png",
       "assetGroup": "XRP (Universal)::uXRP",
-      "currencyId": "XRP (Universal)::uXRP"
+      "currencyId": "XRP (Universal)::uXRP",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x476eacd417cd65421bd34fca054377658bb5e02b": {
       "chainId": "747474",
@@ -205,7 +216,8 @@
       "symbol": "YFI",
       "logoURI": "https://static.debank.com/image/coin/logo_url/yearn/f14ac7f4efe5c51e1c6b32add3dea10c.png",
       "assetGroup": "yearn.finance::YFI",
-      "currencyId": "yearn.finance::YFI"
+      "currencyId": "yearn.finance::YFI",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x4200000000000000000000000000000000000006": {
       "chainId": "747474",
@@ -335,7 +347,8 @@
       "symbol": "DUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/53290/thumb/dUSD_Logo.png?1735997462",
       "assetGroup": "dTRINITY USD::DUSD",
-      "currencyId": "dTRINITY USD::DUSD"
+      "currencyId": "dTRINITY USD::DUSD",
+      "props": { "permit": { "type": 1, "version": "1" } }
     },
     "0x64445f0aecc51e94ad52d8ac56b7190e764e561a": {
       "chainId": "747474",
@@ -386,7 +399,10 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "assetGroup": "ETH",
       "currencyId": "Ether::ETH",
-      "props": { "isNative": true, "wrapped": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62" }
+      "props": {
+        "isNative": true,
+        "wrapped": "0xee7d8bcfb72bc1880d0cf19822eb0a2e6577ab62"
+      }
     }
   },
   "mainTokens": [

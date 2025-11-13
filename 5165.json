@@ -60,7 +60,10 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/ftn.webp",
       "assetGroup": "FTN",
       "currencyId": "FTN::FTN",
-      "props": { "isNative": true, "wrapped": "0x4084ab20f8ffca76c19aaf854fb5fe9de6217fbb" }
+      "props": {
+        "isNative": true,
+        "wrapped": "0x4084ab20f8ffca76c19aaf854fb5fe9de6217fbb"
+      }
     }
   },
   "mainTokens": [

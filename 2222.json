@@ -382,7 +382,10 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/kava.webp",
       "assetGroup": "Wrapped Kava::WKAVA",
       "currencyId": "Kava::KAVA",
-      "props": { "isNative": true, "wrapped": "0xc86c7c0efbd6a49b35e8714c5f59d99de09a225b" }
+      "props": {
+        "isNative": true,
+        "wrapped": "0xc86c7c0efbd6a49b35e8714c5f59d99de09a225b"
+      }
     }
   },
   "mainTokens": [

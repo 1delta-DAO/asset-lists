@@ -1846,7 +1846,10 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/eth.webp",
       "assetGroup": "ETH",
       "currencyId": "Ether::ETH",
-      "props": { "isNative": true, "wrapped": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f" }
+      "props": {
+        "isNative": true,
+        "wrapped": "0xe5d7c2a44ffddf6b295a15c148167daaaf5cf34f"
+      }
     }
   },
   "mainTokens": [

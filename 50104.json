@@ -42,7 +42,10 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/soph.webp",
       "assetGroup": "Wrapped Sophon::WSOPH",
       "currencyId": "Sophon::SOPH",
-      "props": { "isNative": true, "wrapped": "0x2b1a859de6a55c553520d7780bc5805712b128f9" }
+      "props": {
+        "isNative": true,
+        "wrapped": "0x2b1a859de6a55c553520d7780bc5805712b128f9"
+      }
     }
   },
   "mainTokens": [

@@ -5,7 +5,8 @@
   "scripts": {
     "permits": "tsx permit/scrape_permit.ts",
     "format": "npx prettier .. -w --ignore-path .prettierignore",
-    "generate": "tsx generateTokenMap.script.ts"
+    "generate": "tsx generateTokenMap.script.ts",
+    "generate:formatted": "npm run generate && npm run format"
   },
   "devDependencies": {
     "prettier": "^3.6.2",

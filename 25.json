@@ -3162,7 +3162,10 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/cro.webp",
       "assetGroup": "Wrapped CRO::WCRO",
       "currencyId": "Cronos::CRO",
-      "props": { "isNative": true, "wrapped": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23" }
+      "props": {
+        "isNative": true,
+        "wrapped": "0x5c7f8a570d578ed84e63fdfa7b1ee72deae1ae23"
+      }
     }
   },
   "mainTokens": [

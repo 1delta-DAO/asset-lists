@@ -751,7 +751,10 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/movr.webp",
       "assetGroup": "MOVR",
       "currencyId": "Moonriver::MOVR",
-      "props": { "isNative": true, "wrapped": "0x98878b06940ae243284ca214f92bb71a2b032b8a" }
+      "props": {
+        "isNative": true,
+        "wrapped": "0x98878b06940ae243284ca214f92bb71a2b032b8a"
+      }
     }
   },
   "mainTokens": [

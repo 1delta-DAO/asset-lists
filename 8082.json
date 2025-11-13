@@ -62,7 +62,10 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/shm.webp",
       "assetGroup": "Wrapped SHM::WSHM",
       "currencyId": "Shardeum SHM::SHM",
-      "props": { "isNative": true, "wrapped": "0x5eb65c6fec23d4eb36bc9966aa110fe13fbd7c7f" }
+      "props": {
+        "isNative": true,
+        "wrapped": "0x5eb65c6fec23d4eb36bc9966aa110fe13fbd7c7f"
+      }
     }
   },
   "mainTokens": [

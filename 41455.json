@@ -52,7 +52,10 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/azero.webp",
       "assetGroup": "Wrapped Aleph Zero::WAZERO",
       "currencyId": "Aleph Zero::AZERO",
-      "props": { "isNative": true, "wrapped": "0xb7da55d7040ef9c887e20374d76a88f93a59119e" }
+      "props": {
+        "isNative": true,
+        "wrapped": "0xb7da55d7040ef9c887e20374d76a88f93a59119e"
+      }
     }
   },
   "mainTokens": [

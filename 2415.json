@@ -62,7 +62,10 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/xodex.webp",
       "assetGroup": "XODEX",
       "currencyId": "XODEX Native Token::XODEX",
-      "props": { "isNative": true, "wrapped": "0x2f3ad0cdc8ad20337eb02bd6411b808ee30c7896" }
+      "props": {
+        "isNative": true,
+        "wrapped": "0x2f3ad0cdc8ad20337eb02bd6411b808ee30c7896"
+      }
     }
   },
   "mainTokens": [

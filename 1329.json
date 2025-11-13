@@ -581,7 +581,10 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/sei.webp",
       "assetGroup": "SEI",
       "currencyId": "Sei::SEI",
-      "props": { "isNative": true, "wrapped": "0xe30fedd158a2e3b13e9badaeabafc5516e95e8c7" }
+      "props": {
+        "isNative": true,
+        "wrapped": "0xe30fedd158a2e3b13e9badaeabafc5516e95e8c7"
+      }
     }
   },
   "mainTokens": [

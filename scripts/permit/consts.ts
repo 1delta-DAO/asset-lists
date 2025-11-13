@@ -1,6 +1,5 @@
 import { Address, keccak256, parseAbi } from 'viem'
 
-
 // keccak256("EIP712Domain(string name,string version,uint256 chainId,address verifyingContract)")
 export const EIP712_DOMAIN_TYPEHASH: `0x${string}` =
   '0x8b73c3c69bb8fe3d512ecc4cf759cc79239f7b179b0ffacaa9a75d522b39400f'

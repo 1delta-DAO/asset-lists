@@ -318,7 +318,10 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/iotx.webp",
       "assetGroup": "IOTX",
       "currencyId": "IoTeX::IOTX",
-      "props": { "isNative": true, "wrapped": "0xa00744882684c3e4747faefd68d283ea44099d03" }
+      "props": {
+        "isNative": true,
+        "wrapped": "0xa00744882684c3e4747faefd68d283ea44099d03"
+      }
     }
   },
   "mainTokens": [

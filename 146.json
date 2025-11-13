@@ -3905,7 +3905,10 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/s.webp",
       "assetGroup": "S",
       "currencyId": "Sonic::S",
-      "props": { "isNative": true, "wrapped": "0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38" }
+      "props": {
+        "isNative": true,
+        "wrapped": "0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38"
+      }
     }
   },
   "mainTokens": [

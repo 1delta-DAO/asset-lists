@@ -1362,6 +1362,16 @@
       "assetGroup": "ebUSD Stablecoin::ebUSD",
       "currencyId": "ebUSD Stablecoin::ebUSD"
     },
+    "0x888888bab58a7bd3068110749bc7b63b62ce874d": {
+      "chainId": "9745",
+      "decimals": 18,
+      "name": "Staked chUSD",
+      "address": "0x888888bab58a7bd3068110749bc7b63b62ce874d",
+      "symbol": "schUSD",
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x888888bab58a7bd3068110749bc7b63b62ce874d.png",
+      "assetGroup": "Staked chUSD::schUSD",
+      "currencyId": "Staked chUSD::schUSD"
+    },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "9745",
       "decimals": 18,
@@ -1371,7 +1381,10 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/xpl.webp",
       "assetGroup": "XPL",
       "currencyId": "Plasma::XPL",
-      "props": { "isNative": true, "wrapped": "0x6100e367285b01f48d07953803a2d8dca5d19873" }
+      "props": {
+        "isNative": true,
+        "wrapped": "0x6100e367285b01f48d07953803a2d8dca5d19873"
+      }
     }
   },
   "mainTokens": [

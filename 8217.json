@@ -10890,7 +10890,10 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/kaia.webp",
       "assetGroup": "KAIA",
       "currencyId": "KAIA::KAIA",
-      "props": { "isNative": true, "wrapped": "0x19aac5f612f524b754ca7e7c41cbfa2e981a4432" }
+      "props": {
+        "isNative": true,
+        "wrapped": "0x19aac5f612f524b754ca7e7c41cbfa2e981a4432"
+      }
     }
   },
   "mainTokens": [

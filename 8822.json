@@ -172,7 +172,10 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/iota.webp",
       "assetGroup": "Wrapped IOTA::WIOTA",
       "currencyId": "IOTA::IOTA",
-      "props": { "isNative": true, "wrapped": "0x6e47f8d48a01b44df3fff35d258a10a3aedc114c" }
+      "props": {
+        "isNative": true,
+        "wrapped": "0x6e47f8d48a01b44df3fff35d258a10a3aedc114c"
+      }
     }
   },
   "mainTokens": [

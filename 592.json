@@ -221,7 +221,10 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/astr.webp",
       "assetGroup": "ASTR",
       "currencyId": "Astar::ASTR",
-      "props": { "isNative": true, "wrapped": "0xaeaaf0e2c81af264101b9129c00f4440ccf0f720" }
+      "props": {
+        "isNative": true,
+        "wrapped": "0xaeaaf0e2c81af264101b9129c00f4440ccf0f720"
+      }
     }
   },
   "mainTokens": [

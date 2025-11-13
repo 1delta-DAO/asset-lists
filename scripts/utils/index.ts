@@ -104,7 +104,6 @@ export namespace AutoGenHelpers {
     return /^[a-zA-Z0-9$_]*$/.test(str)
   }
 
-
   // List of known bridge/keyword identifiers
   const keyTags = [
     'Wormhole',

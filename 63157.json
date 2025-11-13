@@ -32,7 +32,10 @@
       "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/native/ghst.webp",
       "assetGroup": "WGHST",
       "currencyId": "Aavegotchi GHST Token::GHST",
-      "props": { "isNative": true, "wrapped": "0x74e2051a9cd994f83f2d789448dca4a3e879964c" }
+      "props": {
+        "isNative": true,
+        "wrapped": "0x74e2051a9cd994f83f2d789448dca4a3e879964c"
+      }
     }
   },
   "mainTokens": [
