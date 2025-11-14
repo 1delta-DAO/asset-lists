@@ -31147,6 +31147,25 @@
       "assetGroup": "Singularity Finance::SFI",
       "currencyId": "Singularity Finance::SFI"
     },
+    "0xa66f68ef2d8091e13585a502464bd11a159cf710": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Jeff CEO",
+      "address": "0xa66f68ef2d8091e13585a502464bd11a159cf710",
+      "symbol": "CEO",
+      "logoURI": "https://assets.coingecko.com/coins/images/70668/thumb/ceo-token-logo-01.png?1763016168",
+      "assetGroup": "Jeff CEO::CEO",
+      "currencyId": "Jeff CEO::CEO"
+    },
+    "0x69e77dd1f50e2ea1c324a9ae96dd2ba7be08849d": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "snackmoney",
+      "address": "0x69e77dd1f50e2ea1c324a9ae96dd2ba7be08849d",
+      "symbol": "SNACKMONEY",
+      "assetGroup": "snackmoney::SNACKMONEY",
+      "currencyId": "snackmoney::SNACKMONEY"
+    },
     "0xb6830e61aeba58e07884983451d26880b4078b07": {
       "chainId": "8453",
       "decimals": 18,
@@ -31156,14 +31175,15 @@
       "assetGroup": "Spotlight::SPOTLIGHT",
       "currencyId": "Spotlight::SPOTLIGHT"
     },
-    "0x7e0aedc93d9f898be835a44bfca3842e52416b82": {
+    "0x0eda054e27a274323e07023972f47c36693ce5df": {
       "chainId": "8453",
-      "decimals": 2,
-      "name": "J.P. Morgan Deposit Token",
-      "address": "0x7e0aedc93d9f898be835a44bfca3842e52416b82",
-      "symbol": "JPMD",
-      "assetGroup": "J.P. Morgan Deposit Token::JPMD",
-      "currencyId": "J.P. Morgan Deposit Token::JPMD"
+      "decimals": 18,
+      "name": "Cucumber Trade",
+      "address": "0x0eda054e27a274323e07023972f47c36693ce5df",
+      "symbol": "CUC",
+      "logoURI": "https://assets.coingecko.com/coins/images/70678/thumb/2w1myeoaq9uen7sjraxifbmsv9vy.?1763060466",
+      "assetGroup": "Cucumber Trade::CUC",
+      "currencyId": "Cucumber Trade::CUC"
     },
     "0x0d186f8c94293dd8ea65d3ae3eba3a8cad91b769": {
       "chainId": "8453",
@@ -31175,25 +31195,6 @@
       "assetGroup": "oracle::ORACLE",
       "currencyId": "oracle::ORACLE"
     },
-    "0x69e77dd1f50e2ea1c324a9ae96dd2ba7be08849d": {
-      "chainId": "8453",
-      "decimals": 18,
-      "name": "snackmoney",
-      "address": "0x69e77dd1f50e2ea1c324a9ae96dd2ba7be08849d",
-      "symbol": "SNACKMONEY",
-      "assetGroup": "snackmoney::SNACKMONEY",
-      "currencyId": "snackmoney::SNACKMONEY"
-    },
-    "0xa66f68ef2d8091e13585a502464bd11a159cf710": {
-      "chainId": "8453",
-      "decimals": 18,
-      "name": "Jeff CEO",
-      "address": "0xa66f68ef2d8091e13585a502464bd11a159cf710",
-      "symbol": "CEO",
-      "logoURI": "https://assets.coingecko.com/coins/images/70668/thumb/ceo-token-logo-01.png?1763016168",
-      "assetGroup": "Jeff CEO::CEO",
-      "currencyId": "Jeff CEO::CEO"
-    },
     "0xfb31f85a8367210b2e4ed2360d2da9dc2d2ccc95": {
       "chainId": "8453",
       "decimals": 18,
@@ -31204,15 +31205,14 @@
       "assetGroup": "Edel::EDEL",
       "currencyId": "Edel::EDEL"
     },
-    "0x0eda054e27a274323e07023972f47c36693ce5df": {
+    "0x7e0aedc93d9f898be835a44bfca3842e52416b82": {
       "chainId": "8453",
-      "decimals": 18,
-      "name": "Cucumber Trade",
-      "address": "0x0eda054e27a274323e07023972f47c36693ce5df",
-      "symbol": "CUC",
-      "logoURI": "https://assets.coingecko.com/coins/images/70678/thumb/2w1myeoaq9uen7sjraxifbmsv9vy.?1763060466",
-      "assetGroup": "Cucumber Trade::CUC",
-      "currencyId": "Cucumber Trade::CUC"
+      "decimals": 2,
+      "name": "J.P. Morgan Deposit Token",
+      "address": "0x7e0aedc93d9f898be835a44bfca3842e52416b82",
+      "symbol": "JPMD",
+      "assetGroup": "J.P. Morgan Deposit Token::JPMD",
+      "currencyId": "J.P. Morgan Deposit Token::JPMD"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "8453",
