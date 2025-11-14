@@ -47,6 +47,7 @@ jobs:
             Commands run:
             - npm run generate:formatted (includes formatting)
           branch: "ci/auto-generate-token-maps"
+          branch-suffix: "timestamp"
           base: "main"
           labels: |
             bot
