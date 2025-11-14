@@ -32,7 +32,7 @@ jobs:
 
       - name: Run generate (generate + format)
         working-directory: scripts
-        run: npm run generate
+        run: npm run generate:formatted
         # your "generate" script already:
         # tsx generateTokenMap.script.ts && npx prettier .. -w --ignore-path .prettierignore
 
@@ -45,7 +45,7 @@ jobs:
             This PR was automatically generated.
 
             Commands run:
-            - npm run generate (includes formatting)
+            - npm run generate:formatted (includes formatting)
           branch: "ci/auto-generate-token-maps"
           base: "main"
           labels: |
