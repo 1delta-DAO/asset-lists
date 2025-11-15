@@ -1,0 +1,1271 @@
+{
+  "chainId": "8217",
+  "version": "0",
+  "list": {
+    "0x1afa932f90bf84cce04116d3370165acd7257cc5": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "KkakDog",
+        "address": "0x1afa932f90bf84cce04116d3370165acd7257cc5",
+        "symbol": "KKAKDOG",
+        "logoURI": "https://ss.new.klayswap.com/data/img/token/0x1afa932f90bf84cce04116d3370165acd7257cc5/icon.svg?v=1717729056442",
+        "assetGroup": "KkakDog::KKAKDOG",
+        "currencyId": "KkakDog::KKAKDOG"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "KkakDog",
+      "domainSeparator": "0xe32a5a739e85e763a4134224e5a180c8358c96213a8416cd8df710b5ca452890",
+      "status": "supported"
+    },
+    "0x19a16aa7c987fbda7dae021b05c1eb06524c7893": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 6,
+        "name": "FNSA (Neopin Bridge)",
+        "address": "0x19a16aa7c987fbda7dae021b05c1eb06524c7893",
+        "symbol": "nFNSA",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x19a16aa7c987fbda7dae021b05c1eb06524c7893/icon",
+        "assetGroup": "FNSA (Neopin Bridge)::nFNSA",
+        "currencyId": "FNSA (Neopin Bridge)::nFNSA"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "NEOPIN Klaytn FNSA",
+      "domainSeparator": "0xaca22ae35c69812cd8381397b9389807f33ef86b15db241767cc3f2cbb563ff0",
+      "status": "supported"
+    },
+    "0xa9999999c3d05fb75ce7230e0d22f5625527d583": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "Wrapped Governance Council Kaia",
+        "address": "0xa9999999c3d05fb75ce7230e0d22f5625527d583",
+        "symbol": "wGCKAIA",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0xa9999999c3d05fb75ce7230e0d22f5625527d583/icon",
+        "assetGroup": "Wrapped Governance Council Kaia::wGCKAIA",
+        "currencyId": "Wrapped Governance Council Kaia::wGCKAIA"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Wrapped Governance Council KLAY",
+      "domainSeparator": "0xb519e1acf6059502da5ceb3816b735751694ece13139870484c7742597ab257a",
+      "status": "supported"
+    },
+    "0x4e4a231e864219704ccc1acd81043129157c1901": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 6,
+        "name": "Tether USD (Neopin Bridge)",
+        "address": "0x4e4a231e864219704ccc1acd81043129157c1901",
+        "symbol": "nUSDT",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x4e4a231e864219704ccc1acd81043129157c1901/icon",
+        "assetGroup": "Tether USD (Neopin Bridge)::nUSDT",
+        "currencyId": "Tether USD (Neopin Bridge)::nUSDT"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "NEOPIN Klaytn USDT",
+      "domainSeparator": "0x594232c699cab0f985ce61049a3271ce1fdfe2148f694f915a71b8b71149c0df",
+      "status": "supported"
+    },
+    "0x366698f6020577f57bfa05b0c055dfca67839658": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "Sociaman",
+        "address": "0x366698f6020577f57bfa05b0c055dfca67839658",
+        "symbol": "SMAN",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x366698f6020577f57bfa05b0c055dfca67839658/icon",
+        "assetGroup": "Sociaman::SMAN",
+        "currencyId": "Sociaman::SMAN"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Sociaman",
+      "domainSeparator": "0x638088704eb4dd2296872f3e0986171c8674629c18c585a1396dd6e7fe512dbe",
+      "status": "supported"
+    },
+    "0xa03ed8dff60b1a2f14ba9dda7c4cca5354628b90": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "Retro.fun: GBC",
+        "address": "0xa03ed8dff60b1a2f14ba9dda7c4cca5354628b90",
+        "symbol": "GBC",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0xa03ed8dff60b1a2f14ba9dda7c4cca5354628b90/icon",
+        "assetGroup": "Retro.fun: GBC::GBC",
+        "currencyId": "Retro.fun: GBC::GBC"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Retro.fun: GBC",
+      "domainSeparator": "0xa2c18c3b4c6560fd90d992cb29c0653260161d6e4bbfd336cbc5a1bcc42c2a0d",
+      "status": "supported"
+    },
+    "0xd6fdafbfbaf948026b8f007a92c6109e74ed4868": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "Catizen",
+        "address": "0xd6fdafbfbaf948026b8f007a92c6109e74ed4868",
+        "symbol": "CATI",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0xd6fdafbfbaf948026b8f007a92c6109e74ed4868/icon",
+        "assetGroup": "Catizen::CATI",
+        "currencyId": "Catizen::CATI"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Catizen",
+      "domainSeparator": "0x976419f561882f99a2e973bd73f022e2f242518d5086daaf28a1f57314ea6637",
+      "status": "supported"
+    },
+    "0xd676e57ca65b827feb112ad81ff738e7b6c1048d": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 9,
+        "name": "Kronos DAO",
+        "address": "0xd676e57ca65b827feb112ad81ff738e7b6c1048d",
+        "symbol": "KRNO",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0xd676e57ca65b827feb112ad81ff738e7b6c1048d/icon",
+        "assetGroup": "Kronos DAO::KRNO",
+        "currencyId": "Kronos DAO::KRNO"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Kronos",
+      "domainSeparator": "0xffc2e983edc34e33d1237acfdbdd2dadba33b39aff6cde36bd41bf84f2efbf5e",
+      "status": "supported"
+    },
+    "0x03abbd3d662ff73e7a53d6d71b16436756acad9d": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 9,
+        "name": "test_h",
+        "address": "0x03abbd3d662ff73e7a53d6d71b16436756acad9d",
+        "symbol": "test_h",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x03abbd3d662ff73e7a53d6d71b16436756acad9d/icon",
+        "assetGroup": "test_h::test_h",
+        "currencyId": "test_h::test_h"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "test_h",
+      "domainSeparator": "0x54bac1e9c9a7a91d9ce2c7e1db32af34c65945c06476e7ac518573e15bc72991",
+      "status": "supported"
+    },
+    "0x8ef50fa375fc64b9815e51f28f4b83c05d57ac43": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 9,
+        "name": "HOOK",
+        "address": "0x8ef50fa375fc64b9815e51f28f4b83c05d57ac43",
+        "symbol": "HOOK",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x8ef50fa375fc64b9815e51f28f4b83c05d57ac43/icon",
+        "assetGroup": "HOOK::HOOK",
+        "currencyId": "HOOK::HOOK"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "HOOK",
+      "domainSeparator": "0x5523a4c82aa85befa6630239a74e9e795378e281902dca6adc2487fa165f0cdc",
+      "status": "supported"
+    },
+    "0x7cd4a64946e91989a21548362c18052704fe5ed6": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 9,
+        "name": "Ignite TINDER Token",
+        "address": "0x7cd4a64946e91989a21548362c18052704fe5ed6",
+        "symbol": "TINDER",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x7cd4a64946e91989a21548362c18052704fe5ed6/icon",
+        "assetGroup": "Ignite TINDER Token::TINDER",
+        "currencyId": "Ignite TINDER Token::TINDER"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Ignite TINDER Token",
+      "domainSeparator": "0x7ff99941f893f96ff1f3fc409931c976835081ce6351dfba1dd5e80955357c3a",
+      "status": "supported"
+    },
+    "0x39076d7a914017e04f6c0f67d88f4162625e8d1d": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "Nectar",
+        "address": "0x39076d7a914017e04f6c0f67d88f4162625e8d1d",
+        "symbol": "NECTAR",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x39076d7a914017e04f6c0f67d88f4162625e8d1d/icon",
+        "assetGroup": "Nectar::NECTAR",
+        "currencyId": "Nectar::NECTAR"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Nectar",
+      "domainSeparator": "0xd3665722b452c1ac35923b0520ffd9c46fb4e5e3f1199b3163ac8d6a9ff2ac08",
+      "status": "supported"
+    },
+    "0x87fa550a58325127952e38863880fb15fe86500e": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "Mayo Point",
+        "address": "0x87fa550a58325127952e38863880fb15fe86500e",
+        "symbol": "MAYO",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x87fa550a58325127952e38863880fb15fe86500e/icon",
+        "assetGroup": "Mayo Point::MAYO",
+        "currencyId": "Mayo Point::MAYO"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Mayo Point",
+      "domainSeparator": "0x5ba817d196e91dd951b74f3dfd6f9eec417b4b99e2c3fff55586a60b720f48df",
+      "status": "supported"
+    },
+    "0x4065ba5469c3dced25bc3f69497ef60eb759f636": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "KlayDoge",
+        "address": "0x4065ba5469c3dced25bc3f69497ef60eb759f636",
+        "symbol": "KlayDoge",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x4065ba5469c3dced25bc3f69497ef60eb759f636/icon",
+        "assetGroup": "KlayDoge::KlayDoge",
+        "currencyId": "KlayDoge::KlayDoge"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "KlayDoge",
+      "domainSeparator": "0x6a906b1881ce5df0a6ca3f81022acfa5a44987033b08e7d366c33c844a8ffdeb",
+      "status": "supported"
+    },
+    "0x8888888888885b073f3c81258c27e83db228d5f3": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 25,
+        "name": "Swapscanner",
+        "address": "0x8888888888885b073f3c81258c27e83db228d5f3",
+        "symbol": "SCNR",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x8888888888885b073f3c81258c27e83db228d5f3/icon",
+        "assetGroup": "Swapscanner::SCNR",
+        "currencyId": "Swapscanner::SCNR"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Swapscanner",
+      "domainSeparator": "0xea3eacbbf9bf5dc7a1524561156b806b0a15509cf1ec5b55657a17f658867c04",
+      "status": "supported"
+    },
+    "0xd85eff20288ca72ea9eecffb428f89ee5066ca5c": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "ISKRA TOKEN",
+        "address": "0xd85eff20288ca72ea9eecffb428f89ee5066ca5c",
+        "symbol": "ISK",
+        "logoURI": "https://coin-images.coingecko.com/coins/images/27428/large/ISKRA_logo.png?1696526469",
+        "assetGroup": "ISKRA TOKEN::ISK::8217::0",
+        "currencyId": "ISKRA TOKEN::ISK"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "ISKRA TOKEN",
+      "domainSeparator": "0xe42fe2fdc283e27c28b6a43e66e611899e441ba14303a5009dbe20a75306ee04",
+      "status": "supported"
+    },
+    "0xf98ef072c5f527bbcd81b3d8c94b04cc824b74b1": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "ALZZA COIN",
+        "address": "0xf98ef072c5f527bbcd81b3d8c94b04cc824b74b1",
+        "symbol": "AZC",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0xf98ef072c5f527bbcd81b3d8c94b04cc824b74b1/icon",
+        "assetGroup": "ALZZA COIN::AZC",
+        "currencyId": "ALZZA COIN::AZC"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "ALZZA COIN",
+      "domainSeparator": "0x8eca0ecf593d860e8cb1be262ad7b135ea64510bd5509730f22b7af953a71bc4",
+      "status": "supported"
+    },
+    "0x67768410823d3681983258122a107e058a678a1d": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "ALZZA COIN",
+        "address": "0x67768410823d3681983258122a107e058a678a1d",
+        "symbol": "ALZZA",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x67768410823d3681983258122a107e058a678a1d/icon",
+        "assetGroup": "ALZZA COIN::ALZZA",
+        "currencyId": "ALZZA COIN::ALZZA"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "ALZZA COIN",
+      "domainSeparator": "0xcdfc4c1661d7fbc9f45c2eb45e75370c12da1184778ee46d3ae4ff7612e9424c",
+      "status": "supported"
+    },
+    "0xeb26ba3874e6e1d80cd9c4fce772067dd4494947": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 9,
+        "name": "HOOK",
+        "address": "0xeb26ba3874e6e1d80cd9c4fce772067dd4494947",
+        "symbol": "HOOK",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0xeb26ba3874e6e1d80cd9c4fce772067dd4494947/icon",
+        "assetGroup": "HOOK::HOOK::8217::0",
+        "currencyId": "HOOK::HOOK"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "HOOK",
+      "domainSeparator": "0xb523b8bb5dc8f27bd69bb53239d87b8f2ff5148238301ef0aaa7c282a9fa19b2",
+      "status": "supported"
+    },
+    "0xbdcffba8de36c8ccb902b581b474f10b719a4563": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 9,
+        "name": "HOOK",
+        "address": "0xbdcffba8de36c8ccb902b581b474f10b719a4563",
+        "symbol": "HOOK",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0xbdcffba8de36c8ccb902b581b474f10b719a4563/icon",
+        "assetGroup": "HOOK::HOOK::8217::1",
+        "currencyId": "HOOK::HOOK"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "HOOK",
+      "domainSeparator": "0xf738d055b5caeca9fba1b9926d2458d8e947901cace8e318828fd01f77fe4daa",
+      "status": "supported"
+    },
+    "0x1ccbe7195869e197866e8d058dd136d4c26444df": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 9,
+        "name": "HOOK",
+        "address": "0x1ccbe7195869e197866e8d058dd136d4c26444df",
+        "symbol": "HOOK",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x1ccbe7195869e197866e8d058dd136d4c26444df/icon",
+        "assetGroup": "HOOK::HOOK::8217::2",
+        "currencyId": "HOOK::HOOK"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "HOOK",
+      "domainSeparator": "0x33411f8d01769d6b23c6efa99a8abc149739d77ac6cd1abc27a997bdc7025d24",
+      "status": "supported"
+    },
+    "0x264d6b91d93f6040377037e5e49fe040ae449e33": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 9,
+        "name": "HOOK",
+        "address": "0x264d6b91d93f6040377037e5e49fe040ae449e33",
+        "symbol": "HOOK",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x264d6b91d93f6040377037e5e49fe040ae449e33/icon",
+        "assetGroup": "HOOK::HOOK::8217::3",
+        "currencyId": "HOOK::HOOK"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "HOOK",
+      "domainSeparator": "0xbc9a1441786758c482ee442697ed8d94ca8cfb190f75bd4dae99ccfc2138a9e7",
+      "status": "supported"
+    },
+    "0xc875ebeace27e05f5beec43066959d2174628800": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 9,
+        "name": "test_h",
+        "address": "0xc875ebeace27e05f5beec43066959d2174628800",
+        "symbol": "test_h",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0xc875ebeace27e05f5beec43066959d2174628800/icon",
+        "assetGroup": "test_h::test_h::8217::0",
+        "currencyId": "test_h::test_h"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "test_h",
+      "domainSeparator": "0x41047c42cb6e18c3fab28e105b8357759a2ec18b35fd8329c24a7f8908530cd7",
+      "status": "supported"
+    },
+    "0x078db7827a5531359f6cb63f62cfa20183c4f10c": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "Bridged DAI (Synapse)",
+        "address": "0x078db7827a5531359f6cb63f62cfa20183c4f10c",
+        "symbol": "DAI",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x078db7827a5531359f6cb63f62cfa20183c4f10c/icon",
+        "assetGroup": "DAI",
+        "currencyId": "Bridged DAI (Synapse)::DAI"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Dai Stablecoin",
+      "domainSeparator": "0x8ebb3dccf6d39e4763588a49421ede40e4cd0bd8db516fba493d82fa760fa064",
+      "status": "supported"
+    },
+    "0x6270b58be569a7c0b8f47594f191631ae5b2c86c": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 6,
+        "name": "USD Coin (Synapse)",
+        "address": "0x6270b58be569a7c0b8f47594f191631ae5b2c86c",
+        "symbol": "USDC",
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+        "assetGroup": "USD Coin (Synapse)::USDC",
+        "currencyId": "USD Coin (Synapse)::USDC"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "USD Coin",
+      "domainSeparator": "0x4f536b3162b1ea465fd2b9ae9c4d7bd152c91497f5a622d51e8151fb92455689",
+      "status": "supported"
+    },
+    "0xf5bc039a93d849721804cec062f885874c92e699": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "ABC",
+        "address": "0xf5bc039a93d849721804cec062f885874c92e699",
+        "symbol": "ABC",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0xf5bc039a93d849721804cec062f885874c92e699/icon",
+        "assetGroup": "ABC::ABC::8217::0",
+        "currencyId": "ABC::ABC"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "ABC",
+      "domainSeparator": "0x488f72b894bc93ac2e9f5a63f5f2d0ead9f84ef20b679113c53c1693a29753ba",
+      "status": "supported"
+    },
+    "0x946bc715501413b9454bb6a31412a21998763f2d": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "Klaybank Token",
+        "address": "0x946bc715501413b9454bb6a31412a21998763f2d",
+        "symbol": "KBT",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x946bc715501413b9454bb6a31412a21998763f2d/icon",
+        "assetGroup": "Klaybank Token::KBT::8217::1",
+        "currencyId": "Klaybank Token::KBT"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Klaybank Token",
+      "domainSeparator": "0x697f107759f67b8dfe0798eaad87e2cfad6a2441469ac923677db9e72359de95",
+      "status": "supported"
+    },
+    "0x338d7933c367e49905c06f3a819cd60d541c9067": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "SuperSoulToken",
+        "address": "0x338d7933c367e49905c06f3a819cd60d541c9067",
+        "symbol": "SST",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x338d7933c367e49905c06f3a819cd60d541c9067/icon",
+        "assetGroup": "SuperSoulToken::SST",
+        "currencyId": "SuperSoulToken::SST"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SuperSoulToken",
+      "domainSeparator": "0x66bb494bf38faa92fb7d1b815b70cedfdd2bf1167fb7be5ef7149fe6417a2f48",
+      "status": "supported"
+    },
+    "0x6b3e09010803860625e780de45814513dcc125b1": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "GrannyDAOToken",
+        "address": "0x6b3e09010803860625e780de45814513dcc125b1",
+        "symbol": "GDO",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x6b3e09010803860625e780de45814513dcc125b1/icon",
+        "assetGroup": "GrannyDAOToken::GDO",
+        "currencyId": "GrannyDAOToken::GDO"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "GrannyDAOToken",
+      "domainSeparator": "0xd31990698619830c21173a2e1da83d90d8ad02a8264ec41cd5766c415315b9cf",
+      "status": "supported"
+    },
+    "0xcd6f29dc9ca217d0973d3d21bf58edd3ca871a86": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "Wrapped ETH (Synapse)",
+        "address": "0xcd6f29dc9ca217d0973d3d21bf58edd3ca871a86",
+        "symbol": "WETH",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0xcd6f29dc9ca217d0973d3d21bf58edd3ca871a86/icon",
+        "assetGroup": "Wrapped ETH (Synapse)::WETH",
+        "currencyId": "Wrapped ETH (Synapse)::WETH"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Wrapped ETH",
+      "domainSeparator": "0x2a20fff20cc7f3ac2d606b84214e6ec9bf647e51ddfb6d5fb40512c401e00bcf",
+      "status": "supported"
+    },
+    "0xd6dab4cff47df175349e6e7ee2bf7c40bb8c05a3": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 6,
+        "name": "Tether USD (Synapse)",
+        "address": "0xd6dab4cff47df175349e6e7ee2bf7c40bb8c05a3",
+        "symbol": "USDT",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0xd6dab4cff47df175349e6e7ee2bf7c40bb8c05a3/icon",
+        "assetGroup": "Tether USD (Synapse)::USDT",
+        "currencyId": "Tether USD (Synapse)::USDT"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Tether USDT",
+      "domainSeparator": "0x2e9f73908318e795934da14fcd1d88a467bdda3178bcee74c1868a9c60342bce",
+      "status": "supported"
+    },
+    "0x801c1ffff83f9d7107d2de7424b336ce5ef22578": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "20portalAVAX-20portalBTC-20portalETH-20portalBNB-20WKLAY",
+        "address": "0x801c1ffff83f9d7107d2de7424b336ce5ef22578",
+        "symbol": "20portalAVAX-20portalBTC-20portalETH-20portalBNB-20WKLAY",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x801c1ffff83f9d7107d2de7424b336ce5ef22578/icon",
+        "assetGroup": "20portalAVAX-20portalBTC-20portalETH-20portalBNB-20WKLAY::20portalAVAX-20portalBTC-20portalETH-20portalBNB-20WKLAY",
+        "currencyId": "20portalAVAX-20portalBTC-20portalETH-20portalBNB-20WKLAY::20portalAVAX-20portalBTC-20portalETH-20portalBNB-20WKLAY"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "20portalAVAX-20portalBTC-20portalETH-20portalBNB-20WKLAY",
+      "domainSeparator": "0x27e3942bf1760a29f4c850cfa3542453f4c43a19f8021aa2a1ed30f803247ff4",
+      "status": "supported"
+    },
+    "0xb49e754228bc716129e63b1a7b0b6cf27299979e": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "PANGEA GOVERNANCE TOKEN",
+        "address": "0xb49e754228bc716129e63b1a7b0b6cf27299979e",
+        "symbol": "STONE",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0xb49e754228bc716129e63b1a7b0b6cf27299979e/icon",
+        "assetGroup": "PANGEA GOVERNANCE TOKEN::STONE",
+        "currencyId": "PANGEA GOVERNANCE TOKEN::STONE"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "PANGEA GOVERNANCE TOKEN",
+      "domainSeparator": "0x79d16fbbf2ffc5b50c0b5095552cb1f237b2b0fdcc916e1a8a03ec3c6a7296b7",
+      "status": "supported"
+    },
+    "0x00e7bb7e983b3448cefa535a80f100c42f3fe0a2": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "MyToken2",
+        "address": "0x00e7bb7e983b3448cefa535a80f100c42f3fe0a2",
+        "symbol": "MTK2",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x00e7bb7e983b3448cefa535a80f100c42f3fe0a2/icon",
+        "assetGroup": "MyToken2::MTK2",
+        "currencyId": "MyToken2::MTK2"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "MyToken2",
+      "domainSeparator": "0x75df9f4130f364eb335ecf6c9410d7bd50b49b5718400e60e106b26878d1ef97",
+      "status": "supported"
+    },
+    "0x8317491e8e65b5301a8e0e7d9ed05260b2db01c8": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "MyToken",
+        "address": "0x8317491e8e65b5301a8e0e7d9ed05260b2db01c8",
+        "symbol": "MTK",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x8317491e8e65b5301a8e0e7d9ed05260b2db01c8/icon",
+        "assetGroup": "MyToken::MTK",
+        "currencyId": "MyToken::MTK"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "MyToken",
+      "domainSeparator": "0xb40ff2f2e26541c20ae94cd3c632a3407822a87f8f2633bc4fa7c2ffce9f0de3",
+      "status": "supported"
+    },
+    "0xca181fa5cb2aa12a931a2732b16e27f1e7e5eb0a": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "PolySun",
+        "address": "0xca181fa5cb2aa12a931a2732b16e27f1e7e5eb0a",
+        "symbol": "PLSU",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0xca181fa5cb2aa12a931a2732b16e27f1e7e5eb0a/icon",
+        "assetGroup": "PolySun::PLSU",
+        "currencyId": "PolySun::PLSU"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "PolySun",
+      "domainSeparator": "0x569c33616c396b22700a7de4a409f92fc27af0c6f909709924c488020af8105c",
+      "status": "supported"
+    },
+    "0x999999999939ba65abb254339eec0b2a0dac80e9": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "Governance Council Kaia",
+        "address": "0x999999999939ba65abb254339eec0b2a0dac80e9",
+        "symbol": "GCKAIA",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x999999999939ba65abb254339eec0b2a0dac80e9/icon",
+        "assetGroup": "Governance Council Kaia::GCKAIA",
+        "currencyId": "Governance Council Kaia::GCKAIA"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Governance Council KLAY",
+      "domainSeparator": "0xab6f115200f1ff3900de40c51e65a4b2ad436d403f6a62a20af31c786fa7c98b",
+      "status": "supported"
+    },
+    "0xff3e7cf0c007f919807b32b30a4a9e7bd7bc4121": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "Wrapped KLAY v10",
+        "address": "0xff3e7cf0c007f919807b32b30a4a9e7bd7bc4121",
+        "symbol": "WKLAY",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0xff3e7cf0c007f919807b32b30a4a9e7bd7bc4121/icon",
+        "assetGroup": "Wrapped KLAY v10::WKLAY",
+        "currencyId": "Wrapped KLAY v10::WKLAY"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Wrapped KLAY v10",
+      "domainSeparator": "0x7b44a551cdb6ba96eaf5c5969d3e63bdf0deef632cc92c348472dc36bcad471b",
+      "status": "supported"
+    },
+    "0x30c103f8f5a3a732dfe2dce1cc9446f545527b43": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "Jewel (DeFi Kingdoms)",
+        "address": "0x30c103f8f5a3a732dfe2dce1cc9446f545527b43",
+        "symbol": "JEWEL",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x30c103f8f5a3a732dfe2dce1cc9446f545527b43/icon",
+        "assetGroup": "Jewel (DeFi Kingdoms)::JEWEL",
+        "currencyId": "Jewel (DeFi Kingdoms)::JEWEL"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "JEWEL",
+      "domainSeparator": "0x70fbb74527ed14ea2fa6d43fb7b9c01acc923f4ac3e0a29e00e8436ccd23d0ee",
+      "status": "supported"
+    },
+    "0xdcbacf3f7a069922e677912998c8d57423c37dfa": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 8,
+        "name": "Wrapped BTC (Synapse)",
+        "address": "0xdcbacf3f7a069922e677912998c8d57423c37dfa",
+        "symbol": "WBTC",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0xdcbacf3f7a069922e677912998c8d57423c37dfa/icon",
+        "assetGroup": "WBTC",
+        "currencyId": "Wrapped BTC (Synapse)::WBTC"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Wrapped BTC",
+      "domainSeparator": "0xe54ff6d1266c1bcc4aadd561954e97646dceb1f6508d48d95366a97a2a84402e",
+      "status": "supported"
+    },
+    "0xcd8fe44a29db9159db36f96570d7a4d91986f528": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "Avalanche",
+        "address": "0xcd8fe44a29db9159db36f96570d7a4d91986f528",
+        "symbol": "AVAX",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0xcd8fe44a29db9159db36f96570d7a4d91986f528/icon",
+        "assetGroup": "Avalanche::AVAX",
+        "currencyId": "Avalanche::AVAX"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Avalanche",
+      "domainSeparator": "0x92a9650a130a5ec9999f12bf2d00365418d08685bf34fafc363abe722af388fd",
+      "status": "supported"
+    },
+    "0xd08a937a67eb5613ccc8729c01605e0320f1b216": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "Jewel LP Token",
+        "address": "0xd08a937a67eb5613ccc8729c01605e0320f1b216",
+        "symbol": "JEWEL-LP",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0xd08a937a67eb5613ccc8729c01605e0320f1b216/icon",
+        "assetGroup": "Jewel LP Token::JEWEL-LP",
+        "currencyId": "Jewel LP Token::JEWEL-LP"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Jewel LP Token",
+      "domainSeparator": "0x4bd36f22d3083c46ad0e7731f144c75ef1ac9af9704325f57015f6122b06cf54",
+      "status": "supported"
+    },
+    "0x0d9d200720021f9de5c8413244f81087ecb4adcc": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "Jewel LP Token",
+        "address": "0x0d9d200720021f9de5c8413244f81087ecb4adcc",
+        "symbol": "JEWEL-LP",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x0d9d200720021f9de5c8413244f81087ecb4adcc/icon",
+        "assetGroup": "Jewel LP Token::JEWEL-LP::8217::0",
+        "currencyId": "Jewel LP Token::JEWEL-LP"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Jewel LP Token",
+      "domainSeparator": "0x5b4be0b8da931eb542354596d0bf4546f91f637773ee6e2eaf198be7d36eb44b",
+      "status": "supported"
+    },
+    "0xff47a1affc365b192337326c2edc83a48a959e38": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "KakaoCoin",
+        "address": "0xff47a1affc365b192337326c2edc83a48a959e38",
+        "symbol": "kakao",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0xff47a1affc365b192337326c2edc83a48a959e38/icon",
+        "assetGroup": "KakaoCoin::kakao",
+        "currencyId": "KakaoCoin::kakao"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "KakaoCoin",
+      "domainSeparator": "0x5efb284dda9d2fb470623499d7d283dbcca05805fd64c939b8bd41ea7353e946",
+      "status": "supported"
+    },
+    "0xc8fc52668c769f2d8605f1bc03b6d0fb707d45db": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "CZeroPay",
+        "address": "0xc8fc52668c769f2d8605f1bc03b6d0fb707d45db",
+        "symbol": "CZP",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0xc8fc52668c769f2d8605f1bc03b6d0fb707d45db/icon",
+        "assetGroup": "CZeroPay::CZP",
+        "currencyId": "CZeroPay::CZP"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "CZeroPay",
+      "domainSeparator": "0x54270af2b9af0aef194e06a850a94148da240bd60de179fa91bab1ff91965c07",
+      "status": "supported"
+    },
+    "0x3f99650d1cde590d0d4f968d125594e9b876c22c": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "Wrapped ETH (Neopin Bridge)",
+        "address": "0x3f99650d1cde590d0d4f968d125594e9b876c22c",
+        "symbol": "nETH",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x3f99650d1cde590d0d4f968d125594e9b876c22c/icon",
+        "assetGroup": "Wrapped ETH (Neopin Bridge)::nETH",
+        "currencyId": "Wrapped ETH (Neopin Bridge)::nETH"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "NEOPIN Klaytn ETH",
+      "domainSeparator": "0xbafc18d41067b829bf403ac023f4883469a629efd18b2c0e80109369ebc6092b",
+      "status": "supported"
+    },
+    "0xd3edf4c026e74fa73183e3404ba79ca4a7e9f6cd": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "Finschia",
+        "address": "0xd3edf4c026e74fa73183e3404ba79ca4a7e9f6cd",
+        "symbol": "FNSA",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0xd3edf4c026e74fa73183e3404ba79ca4a7e9f6cd/icon",
+        "assetGroup": "Finschia::FNSA",
+        "currencyId": "Finschia::FNSA"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Finschia",
+      "domainSeparator": "0x614ada84596a6a74f04c037e580621280dff74867e367cca696962bdc5e24dc5",
+      "status": "supported"
+    },
+    "0x5b7aa18cfce9b74d0fd457c4e9f80b693d8fd615": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "KTRUMP",
+        "address": "0x5b7aa18cfce9b74d0fd457c4e9f80b693d8fd615",
+        "symbol": "TRMP",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x5b7aa18cfce9b74d0fd457c4e9f80b693d8fd615/icon",
+        "assetGroup": "KTRUMP::TRMP",
+        "currencyId": "KTRUMP::TRMP"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "KTRUMP",
+      "domainSeparator": "0x43cead499e0dc202aab829059054729f07dd0b6867f90aaca05249bf6e366d74",
+      "status": "supported"
+    },
+    "0xd6910821aa57c30d2cb5f477b0fffd164b4d441d": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "DiamondKLAY",
+        "address": "0xd6910821aa57c30d2cb5f477b0fffd164b4d441d",
+        "symbol": "DiaKLAY",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0xd6910821aa57c30d2cb5f477b0fffd164b4d441d/icon",
+        "assetGroup": "DiamondKLAY::DiaKLAY",
+        "currencyId": "DiamondKLAY::DiaKLAY"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "DiamondKLAY",
+      "domainSeparator": "0x49a733db3234ff86d043c82ac222e846aaee9b4f3b9cb9b8a77cb9cd080fd4fa",
+      "status": "supported"
+    },
+    "0xf0c5a7911a14e9cf9cd0d4a17d73664c30b3712b": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "kaia pepe",
+        "address": "0xf0c5a7911a14e9cf9cd0d4a17d73664c30b3712b",
+        "symbol": "kPEPE",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0xf0c5a7911a14e9cf9cd0d4a17d73664c30b3712b/icon",
+        "assetGroup": "kaia pepe::kPEPE",
+        "currencyId": "kaia pepe::kPEPE"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "kaia pepe",
+      "domainSeparator": "0xed00bcf99e4aa8f69cac1056e3e9fa35e6b10c217807d1d326b397f5cdd6bbb9",
+      "status": "supported"
+    },
+    "0x7071f688f89b36f60bfd840edec7132a1022692b": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "fuck",
+        "address": "0x7071f688f89b36f60bfd840edec7132a1022692b",
+        "symbol": "fuck",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x7071f688f89b36f60bfd840edec7132a1022692b/icon",
+        "assetGroup": "fuck::fuck",
+        "currencyId": "fuck::fuck"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "fuck",
+      "domainSeparator": "0x134453e7838ec5bfa094d5cb477c0a45b71ff52f50c3412f471a55079d52773e",
+      "status": "supported"
+    },
+    "0x48789c46f7ff8945186cc83330d8b812e8a17d52": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "MyToken",
+        "address": "0x48789c46f7ff8945186cc83330d8b812e8a17d52",
+        "symbol": "MTK",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x48789c46f7ff8945186cc83330d8b812e8a17d52/icon",
+        "assetGroup": "MyToken::MTK::8217::0",
+        "currencyId": "MyToken::MTK"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "MyToken",
+      "domainSeparator": "0x1dffe5543f2d89f149e6dd126d0f7fe16bd45a23488d6973dbf72e45c1d90aa2",
+      "status": "supported"
+    },
+    "0xaa850144088e9a75986ed873cb8f796f456d89d9": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "MyToken",
+        "address": "0xaa850144088e9a75986ed873cb8f796f456d89d9",
+        "symbol": "MTK",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0xaa850144088e9a75986ed873cb8f796f456d89d9/icon",
+        "assetGroup": "MyToken::MTK::8217::1",
+        "currencyId": "MyToken::MTK"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "MyToken",
+      "domainSeparator": "0x24978b9e7b9e14aac25d68cd51d5a92a18d8b6142b0ead1f39915b6c9fe10810",
+      "status": "supported"
+    },
+    "0x2f174f9eef3710cd44f3c1936d0bcf54ebf04b9b": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "MyToken",
+        "address": "0x2f174f9eef3710cd44f3c1936d0bcf54ebf04b9b",
+        "symbol": "MTK",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x2f174f9eef3710cd44f3c1936d0bcf54ebf04b9b/icon",
+        "assetGroup": "MyToken::MTK::8217::2",
+        "currencyId": "MyToken::MTK"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "MyToken",
+      "domainSeparator": "0x85c5d39d34f0f2c106f09b31b90954be8845e25a7d00fbbdea3c05b37108d527",
+      "status": "supported"
+    },
+    "0x2fe7448bf15fe9add235c5c142df5e32b0f0fbf6": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "N",
+        "address": "0x2fe7448bf15fe9add235c5c142df5e32b0f0fbf6",
+        "symbol": "N",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x2fe7448bf15fe9add235c5c142df5e32b0f0fbf6/icon",
+        "assetGroup": "N::N",
+        "currencyId": "N::N"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "N",
+      "domainSeparator": "0xe46db380b8609fee271bb56afd3116968f9b80a0cf34850d238c9db82720f953",
+      "status": "supported"
+    },
+    "0x93bde7b2a76b5d789ed9bfe030a9fa7b512c3c74": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "S",
+        "address": "0x93bde7b2a76b5d789ed9bfe030a9fa7b512c3c74",
+        "symbol": "S",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x93bde7b2a76b5d789ed9bfe030a9fa7b512c3c74/icon",
+        "assetGroup": "S::S",
+        "currencyId": "S::S"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "S",
+      "domainSeparator": "0x5c8c452447de31d97e93911abeddb76d48b65e4cce7dfaa82a2a8a170ca760af",
+      "status": "supported"
+    },
+    "0x08b50e72119a4793dd106793e11f39ab9beab9a3": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "Catizen",
+        "address": "0x08b50e72119a4793dd106793e11f39ab9beab9a3",
+        "symbol": "CATITT",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x08b50e72119a4793dd106793e11f39ab9beab9a3/icon",
+        "assetGroup": "Catizen::CATITT",
+        "currencyId": "Catizen::CATITT"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Catizen",
+      "domainSeparator": "0xd16e9439d465742c0ba1941ce44de29280b259c893c49a0e2c049544ab823671",
+      "status": "supported"
+    },
+    "0x22c818f1b86d38c1df619436ed066c447b8f4a27": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "Eternal Legacy EXP",
+        "address": "0x22c818f1b86d38c1df619436ed066c447b8f4a27",
+        "symbol": "EXP",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x22c818f1b86d38c1df619436ed066c447b8f4a27/icon",
+        "assetGroup": "Eternal Legacy EXP::EXP",
+        "currencyId": "Eternal Legacy EXP::EXP"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Eternal Legacy EXP",
+      "domainSeparator": "0xd1ef64a50b2505a2b857567efc328fb78b4759bf7f89795563b94a7fa53b3e67",
+      "status": "supported"
+    },
+    "0x4a63064159b1e764dcbface4e67e01378c0a69bb": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "KLAYBOT Token",
+        "address": "0x4a63064159b1e764dcbface4e67e01378c0a69bb",
+        "symbol": "KLAYBOT",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x4a63064159b1e764dcbface4e67e01378c0a69bb/icon",
+        "assetGroup": "KLAYBOT Token::KLAYBOT",
+        "currencyId": "KLAYBOT Token::KLAYBOT"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "KLAYBOT Token",
+      "domainSeparator": "0x9a4fa4f8eb52f360b220cb790c9d5f4bfb0c035b7546a8cca99babe54ea3fd72",
+      "status": "supported"
+    },
+    "0xa4b890696d6eea110eb925161300b9507ae9417f": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "TORI",
+        "address": "0xa4b890696d6eea110eb925161300b9507ae9417f",
+        "symbol": "TORI",
+        "logoURI": "https://ss.new.klayswap.com/data/img/token/0xa4b890696d6eea110eb925161300b9507ae9417f/icon.png?v=1737096732471",
+        "assetGroup": "TORI::TORI",
+        "currencyId": "TORI::TORI"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "TORI",
+      "domainSeparator": "0x6db0d1808dda0c55cdcd05dc62964bbaaeb9afa1ffb3f0169c684111e5577cca",
+      "status": "supported"
+    },
+    "0x0f3f6eb0d73f7d37d993907a3daed1e56807452b": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "Euiyeoldan",
+        "address": "0x0f3f6eb0d73f7d37d993907a3daed1e56807452b",
+        "symbol": "EYD",
+        "logoURI": "https://ss.new.klayswap.com/data/img/token/0x0f3f6eb0d73f7d37d993907a3daed1e56807452b/icon.png?v=1737618544188",
+        "assetGroup": "Euiyeoldan::EYD",
+        "currencyId": "Euiyeoldan::EYD"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Euiyeoldan",
+      "domainSeparator": "0xa4b7fc826ce929e58ec50d189b5cf55349d8a0bd412357ab350ca05b70a6a77e",
+      "status": "supported"
+    },
+    "0x7b79e295930d5cc0b5d1de94be265397fe97b5c0": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "BBOBBI",
+        "address": "0x7b79e295930d5cc0b5d1de94be265397fe97b5c0",
+        "symbol": "BBO",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x7b79e295930d5cc0b5d1de94be265397fe97b5c0/icon",
+        "assetGroup": "BBOBBI::BBO",
+        "currencyId": "BBOBBI::BBO"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "BBOBBI",
+      "domainSeparator": "0xb47af2a0cdc9b4e659b9e98f6c0349382aa5770cd4a369cdf2b7ba170a70fe24",
+      "status": "supported"
+    },
+    "0x2e3219baf2360c359953622c2b37af2e818a52a7": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "ABC COIN",
+        "address": "0x2e3219baf2360c359953622c2b37af2e818a52a7",
+        "symbol": "ABC",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x2e3219baf2360c359953622c2b37af2e818a52a7/icon",
+        "assetGroup": "ABC COIN::ABC",
+        "currencyId": "ABC COIN::ABC"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "ABC COIN",
+      "domainSeparator": "0x386e4b92643fa219d0244468d3a32c7496f275cf886bc47386d08378b6293612",
+      "status": "supported"
+    },
+    "0xfaf96d1a55dcab8f22fb3a55d0e65502ed2a78d4": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "YouTube",
+        "address": "0xfaf96d1a55dcab8f22fb3a55d0e65502ed2a78d4",
+        "symbol": "YTB",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0xfaf96d1a55dcab8f22fb3a55d0e65502ed2a78d4/icon",
+        "assetGroup": "YouTube::YTB",
+        "currencyId": "YouTube::YTB"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "YouTube",
+      "domainSeparator": "0x8f87b93675a4bad74f9fc464b8158ec959d388eeae6ab54754a650a6bcc36f9a",
+      "status": "supported"
+    },
+    "0x99a809b2c81ec2bba76aaac32fc422681a689b7b": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "klife coin",
+        "address": "0x99a809b2c81ec2bba76aaac32fc422681a689b7b",
+        "symbol": "KLF",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x99a809b2c81ec2bba76aaac32fc422681a689b7b/icon",
+        "assetGroup": "klife coin::KLF",
+        "currencyId": "klife coin::KLF"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "klife coin",
+      "domainSeparator": "0xc8b66067f8209161d22d628fe72d40af5b1895848fe70e0d9116bfb95af89048",
+      "status": "supported"
+    },
+    "0xd5cac6a745dc972061051f845cad6d23406683a9": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "DIAMONDKLAY",
+        "address": "0xd5cac6a745dc972061051f845cad6d23406683a9",
+        "symbol": "DIANKLAY",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0xd5cac6a745dc972061051f845cad6d23406683a9/icon",
+        "assetGroup": "DIAMONDKLAY::DIANKLAY",
+        "currencyId": "DIAMONDKLAY::DIANKLAY"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "DIAMONDKLAY",
+      "domainSeparator": "0xc56a1b0d7b299c61ec0194b03dfdccd157311ffeea3cceb91ded0ab36e9d1379",
+      "status": "supported"
+    },
+    "0x2b45145f132a799b5241f4ab88d39830b846f01c": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "ABCA COIN",
+        "address": "0x2b45145f132a799b5241f4ab88d39830b846f01c",
+        "symbol": "ABCA",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x2b45145f132a799b5241f4ab88d39830b846f01c/icon",
+        "assetGroup": "ABCA COIN::ABCA",
+        "currencyId": "ABCA COIN::ABCA"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "ABCA COIN",
+      "domainSeparator": "0x302c289a59a0bdabfe361ab562a85f76d45016487cb74c50dda909e6092de96d",
+      "status": "supported"
+    },
+    "0xdbf2fcaea9214d2e9aa188db9a6fe2fb15ce3018": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "0x8755d2e532b1559454689bf0e8964bd78b187ff6",
+        "address": "0xdbf2fcaea9214d2e9aa188db9a6fe2fb15ce3018",
+        "symbol": "ELDE",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0xdbf2fcaea9214d2e9aa188db9a6fe2fb15ce3018/icon",
+        "assetGroup": "0x8755d2e532b1559454689bf0e8964bd78b187ff6::ELDE",
+        "currencyId": "0x8755d2e532b1559454689bf0e8964bd78b187ff6::ELDE"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "0x8755d2e532b1559454689bf0e8964bd78b187ff6",
+      "domainSeparator": "0x3b13e142f642255a334d655b9caf9be3a948448998df4a9daf575408e3ce2133",
+      "status": "supported"
+    },
+    "0x0195e4a8ff9e6f0e8c3941cbb6058a943de6df39": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "Token(https://swap-tokens.com)",
+        "address": "0x0195e4a8ff9e6f0e8c3941cbb6058a943de6df39",
+        "symbol": "Token",
+        "logoURI": "",
+        "assetGroup": "Token(https://swap-tokens.com)::Token",
+        "currencyId": "Token(https://swap-tokens.com)::Token"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Token(https://swap-tokens.com)",
+      "domainSeparator": "0x48bfeee16074d4c1733d8042e2bd9d069573454438fe10eb5ccf2dd68b0c25c6",
+      "status": "supported"
+    },
+    "0x0ba2ba407e80bcb8a314649d9bc12efeecc81519": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "Bombie",
+        "address": "0x0ba2ba407e80bcb8a314649d9bc12efeecc81519",
+        "symbol": "BOMB",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x0ba2ba407e80bcb8a314649d9bc12efeecc81519/icon",
+        "assetGroup": "Bombie::BOMB",
+        "currencyId": "Bombie::BOMB"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Bombie",
+      "domainSeparator": "0x1d3819ff3c8797ff83ea9259ef00cec7c1242930ea24dbf6220a4625f73ab4b5",
+      "status": "supported"
+    },
+    "0x23ccab1de32e06a6235a7997c266f86440c2cbe6": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 18,
+        "name": "Delabs Games",
+        "address": "0x23ccab1de32e06a6235a7997c266f86440c2cbe6",
+        "symbol": "DELABS",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0x23ccab1de32e06a6235a7997c266f86440c2cbe6/icon",
+        "assetGroup": "Delabs Games::DELABS",
+        "currencyId": "Delabs Games::DELABS"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Delabs Games",
+      "domainSeparator": "0xaf92c8705ce4fb7650e5c9804cbdab5064ac9c8dbfcf364ed45c374d1d2e4c55",
+      "status": "supported"
+    },
+    "0xd077a400968890eacc75cdc901f0356c943e4fdb": {
+      "token": {
+        "chainId": "8217",
+        "decimals": 6,
+        "name": "Tether USD",
+        "address": "0xd077a400968890eacc75cdc901f0356c943e4fdb",
+        "symbol": "USD₮",
+        "logoURI": "https://api.swapscanner.io/v0/tokens/0xd077a400968890eacc75cdc901f0356c943e4fdb/icon",
+        "assetGroup": "Tether USD::USD₮",
+        "currencyId": "Tether USD::USD₮"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Tether USD",
+      "domainSeparator": "0xd5bd66f1283ef38c265f77dca1ab71313fda2c9294e6dbf6a9eed060eb872d91",
+      "status": "supported"
+    }
+  },
+  "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
+    "0x19aac5f612f524b754ca7e7c41cbfa2e981a4432",
+    "0x5c13e303a62fc5dedf5b52d66873f2e59fedadc2",
+    "0x608792deb376cce1c9fa4d0e6b7b44f507cffa6a",
+    "0x98a8345bb9d3dda9d808ca1c9142a28f6b0430e1",
+    "0x42952b873ed6f7f0a7e4992e2a9818e3a9001995",
+    "0xa9999999c3d05fb75ce7230e0d22f5625527d583",
+    "0x84f8c3c8d6ee30a559d73ec570d574f671e82647",
+    "0x9bcb2efc545f89986cf70d3adc39079a1b730d63",
+    "0x7fc692699f2216647a0e06225d8bdf8cdee40e7f",
+    "0x02cbe46fb8a1f579254a9b485788f2d86cad51aa",
+    "0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167",
+    "0x754288077d0ff82af7a5317c7cb8c444d421d103",
+    "0x34d21b1e550d73cee41151c77f3c73359527a396",
+    "0x16d0e1fbd024c600ca0380a4c5d57ee7a2ecbf9c",
+    "0x5c74070fdea071359b86082bd9f9b3deaafbe32b",
+    "0xe4f05a66ec68b54a58b17c22107b02e0232cc817",
+    "0x4fa62f1f404188ce860c8f0041d6ac3765a72e67",
+    "0x5096db80b21ef45230c9e423c373f1fc9c0198dd",
+    "0x078db7827a5531359f6cb63f62cfa20183c4f10c",
+    "0x6270b58be569a7c0b8f47594f191631ae5b2c86c",
+    "0xd6dab4cff47df175349e6e7ee2bf7c40bb8c05a3",
+    "0xdcbacf3f7a069922e677912998c8d57423c37dfa",
+    "0xcd6f29dc9ca217d0973d3d21bf58edd3ca871a86",
+    "0x981846be8d2d697f4dfef6689a161a25ffbab8f9",
+    "0xcb2c7998696ef7a582dfd0aafadcd008d03e791a",
+    "0xac9c1e4787139af4c751b1c0fadfb513c44ed833",
+    "0xe2765f3721dab5f080cf14ace661529e1ab9ade7",
+    "0x45830b92443a8f750247da2a76c85c70d0f1ebf3",
+    "0xfaa03a2ac2d1b8481ec3ff44a0152ea818340e6d",
+    "0x585e26627c3b630b3c45b4f0e007db5d90fae9b2",
+    "0xdc3cf1961b08da169b078f7df6f26676bf6a4ff6",
+    "0x9025095263d1e548dc890a7589a4c78038ac40ab",
+    "0x673547482afa5b629e53f90d6bb94d097e6da0ca",
+    "0x56a8bda5210008dbab60f8bd9e34e42499c05800",
+    "0xcd8fe44a29db9159db36f96570d7a4d91986f528",
+    "0x55acee547df909cf844e32dd66ee55a6f81dc71b",
+    "0x2234fb338784f1961af1649f7009ebd44c613856",
+    "0xd17795a7783dd1be6c21a5b54b89f5c5806d1ed5"
+  ]
+}

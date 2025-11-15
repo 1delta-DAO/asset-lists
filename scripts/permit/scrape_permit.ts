@@ -117,7 +117,7 @@ async function filterForPermits(
           filtered.push({ token, type: 'DAI' })
         }
       }
-      console.log(`[${i + 1}/${chunks.length}] Processed chunk`)
+      console.log(`[${i + 1}/${chunks.length}] Processed chunk for ${chainId}`)
       await new Promise((resolve) => setTimeout(resolve, 1500))
     } catch (error: any) {
       console.error(
@@ -386,13 +386,18 @@ export async function scrapePermitsForTokens(
   return permitMap
 }
 const chains = [
-  Chain.HEMI_NETWORK,
-  Chain.ETHEREUM_MAINNET,
-  Chain.BASE,
-  Chain.ARBITRUM_ONE,
-  Chain.UNICHAIN,
-  Chain.HYPEREVM,
-  Chain.KATANA,
+  // Chain.HEMI_NETWORK,
+  // Chain.ETHEREUM_MAINNET,
+  // Chain.BASE,
+  // Chain.ARBITRUM_ONE,
+  // Chain.UNICHAIN,
+  // Chain.HYPEREVM,
+  // Chain.KATANA,
+  Chain.KAIA_MAINNET,
+  Chain.TAIKO_ALETHIA,
+  Chain.SONIC_MAINNET,
+  Chain.SCROLL,
+  Chain.LINEA,
 ]
 
 Promise.all(
