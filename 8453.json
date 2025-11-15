@@ -31147,6 +31147,35 @@
       "assetGroup": "Singularity Finance::SFI",
       "currencyId": "Singularity Finance::SFI"
     },
+    "0x0d186f8c94293dd8ea65d3ae3eba3a8cad91b769": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "oracle",
+      "address": "0x0d186f8c94293dd8ea65d3ae3eba3a8cad91b769",
+      "symbol": "ORACLE",
+      "logoURI": "https://assets.coingecko.com/coins/images/70658/thumb/oracle.jpg?1762982576",
+      "assetGroup": "oracle::ORACLE",
+      "currencyId": "oracle::ORACLE"
+    },
+    "0x7e0aedc93d9f898be835a44bfca3842e52416b82": {
+      "chainId": "8453",
+      "decimals": 2,
+      "name": "J.P. Morgan Deposit Token",
+      "address": "0x7e0aedc93d9f898be835a44bfca3842e52416b82",
+      "symbol": "JPMD",
+      "assetGroup": "J.P. Morgan Deposit Token::JPMD",
+      "currencyId": "J.P. Morgan Deposit Token::JPMD"
+    },
+    "0x15dd9165b3a80f83a5471f2e6eba57158ca3cf86": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "ButlerLiquid",
+      "address": "0x15dd9165b3a80f83a5471f2e6eba57158ca3cf86",
+      "symbol": "BL",
+      "logoURI": "https://assets.coingecko.com/coins/images/70698/thumb/ywum0l62ivkqxpq2vuvo4k0zgh4q.?1763156110",
+      "assetGroup": "ButlerLiquid::BL",
+      "currencyId": "ButlerLiquid::BL"
+    },
     "0xa66f68ef2d8091e13585a502464bd11a159cf710": {
       "chainId": "8453",
       "decimals": 18,
@@ -31157,6 +31186,16 @@
       "assetGroup": "Jeff CEO::CEO",
       "currencyId": "Jeff CEO::CEO"
     },
+    "0xfb31f85a8367210b2e4ed2360d2da9dc2d2ccc95": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Edel",
+      "address": "0xfb31f85a8367210b2e4ed2360d2da9dc2d2ccc95",
+      "symbol": "EDEL",
+      "logoURI": "https://assets.coingecko.com/coins/images/70661/thumb/Edel_Logo_Dark_-_200px.png?1762997249",
+      "assetGroup": "Edel::EDEL",
+      "currencyId": "Edel::EDEL"
+    },
     "0x69e77dd1f50e2ea1c324a9ae96dd2ba7be08849d": {
       "chainId": "8453",
       "decimals": 18,
@@ -31165,6 +31204,26 @@
       "symbol": "SNACKMONEY",
       "assetGroup": "snackmoney::SNACKMONEY",
       "currencyId": "snackmoney::SNACKMONEY"
+    },
+    "0x534b7aad1cdb6f02ec48cabe428f0d9131e40b07": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "minidev",
+      "address": "0x534b7aad1cdb6f02ec48cabe428f0d9131e40b07",
+      "symbol": "MINI",
+      "logoURI": "https://assets.coingecko.com/coins/images/70699/thumb/nsfeo2c1g87vtwel7h8gsio6qvcm.?1763156245",
+      "assetGroup": "minidev::MINI",
+      "currencyId": "minidev::MINI"
+    },
+    "0xf25620f89d0e23a8ba7b11ab3235b66268794196": {
+      "chainId": "8453",
+      "decimals": 18,
+      "name": "Infinity Rising",
+      "address": "0xf25620f89d0e23a8ba7b11ab3235b66268794196",
+      "symbol": "RISE",
+      "logoURI": "https://assets.coingecko.com/coins/images/70697/thumb/rise.jpg?1763152146",
+      "assetGroup": "Infinity Rising::RISE",
+      "currencyId": "Infinity Rising::RISE"
     },
     "0xb6830e61aeba58e07884983451d26880b4078b07": {
       "chainId": "8453",
@@ -31184,35 +31243,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/70678/thumb/2w1myeoaq9uen7sjraxifbmsv9vy.?1763060466",
       "assetGroup": "Cucumber Trade::CUC",
       "currencyId": "Cucumber Trade::CUC"
-    },
-    "0x0d186f8c94293dd8ea65d3ae3eba3a8cad91b769": {
-      "chainId": "8453",
-      "decimals": 18,
-      "name": "oracle",
-      "address": "0x0d186f8c94293dd8ea65d3ae3eba3a8cad91b769",
-      "symbol": "ORACLE",
-      "logoURI": "https://assets.coingecko.com/coins/images/70658/thumb/oracle.jpg?1762982576",
-      "assetGroup": "oracle::ORACLE",
-      "currencyId": "oracle::ORACLE"
-    },
-    "0xfb31f85a8367210b2e4ed2360d2da9dc2d2ccc95": {
-      "chainId": "8453",
-      "decimals": 18,
-      "name": "Edel",
-      "address": "0xfb31f85a8367210b2e4ed2360d2da9dc2d2ccc95",
-      "symbol": "EDEL",
-      "logoURI": "https://assets.coingecko.com/coins/images/70661/thumb/Edel_Logo_Dark_-_200px.png?1762997249",
-      "assetGroup": "Edel::EDEL",
-      "currencyId": "Edel::EDEL"
-    },
-    "0x7e0aedc93d9f898be835a44bfca3842e52416b82": {
-      "chainId": "8453",
-      "decimals": 2,
-      "name": "J.P. Morgan Deposit Token",
-      "address": "0x7e0aedc93d9f898be835a44bfca3842e52416b82",
-      "symbol": "JPMD",
-      "assetGroup": "J.P. Morgan Deposit Token::JPMD",
-      "currencyId": "J.P. Morgan Deposit Token::JPMD"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "8453",
