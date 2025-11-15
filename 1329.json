@@ -17,10 +17,20 @@
       "decimals": 18,
       "name": "Sei fastUSD",
       "address": "0x37a4dd9ced2b19cfe8fac251cd727b5787e45269",
-      "symbol": "FASTUSD",
+      "symbol": "fastUSD",
       "logoURI": "https://assets.coingecko.com/coins/images/50766/thumb/2024-10-16_14.54.03.jpg?1729120051",
-      "assetGroup": "Sei fastUSD::FASTUSD",
-      "currencyId": "Sei fastUSD::FASTUSD"
+      "assetGroup": "Sei fastUSD::fastUSD",
+      "currencyId": "Sei fastUSD::fastUSD"
+    },
+    "0xdf77686d99667ae56bc18f539b777dbc2bbe3e9f": {
+      "chainId": "1329",
+      "decimals": 18,
+      "name": "Staked fastUSD",
+      "address": "0xdf77686d99667ae56bc18f539b777dbc2bbe3e9f",
+      "symbol": "sfastUSD",
+      "logoURI": "https://assets.coingecko.com/coins/images/54334/standard/2025-02-10_12.59.16.jpg?1739330236",
+      "assetGroup": "Staked sfastUSD::sfastUSD",
+      "currencyId": "Staked sfastUSD::sfastUSD"
     },
     "0x049eaa1b2c9934aaacc12a141484eefd62867653": {
       "chainId": "1329",
@@ -223,6 +233,17 @@
       "assetGroup": "SOLVBTC",
       "currencyId": "Solv BTC::SolvBTC"
     },
+    "0xbe574b6219c6d985d08712e90c21a88fd55f1ae8": {
+      "chainId": "1329",
+      "decimals": 18,
+      "name": "Wrapped liquid staked Ether 2.0",
+      "address": "0xbe574b6219c6d985d08712e90c21a88fd55f1ae8",
+      "symbol": "wstETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/18834/large/wstETH.png?1633565443",
+      "assetGroup": "WSTETH",
+      "currencyId": "Wrapped liquid staked Ether 2.0::wstETH",
+      "props": { "permit": { "type": 1, "version": "2.0" } }
+    },
     "0x78e26e8b953c7c78a58d69d8b9a91745c2bbb258": {
       "chainId": "1329",
       "decimals": 18,
@@ -346,12 +367,12 @@
     "0x43edd7f3831b08fe70b7555ddd373c8bf65a9050": {
       "chainId": "1329",
       "decimals": 18,
-      "name": "frxETH",
+      "name": "Frax Ether",
       "address": "0x43edd7f3831b08fe70b7555ddd373c8bf65a9050",
       "symbol": "frxETH",
       "logoURI": "https://assets.coingecko.com/coins/images/28284/standard/frxETH_icon.png",
-      "assetGroup": "frxETH::frxETH",
-      "currencyId": "frxETH::frxETH"
+      "assetGroup": "FRXETH",
+      "currencyId": "Frax Ether::frxETH"
     },
     "0x64445f0aecc51e94ad52d8ac56b7190e764e561a": {
       "chainId": "1329",
