@@ -54227,6 +54227,16 @@
       "assetGroup": "Allora::ALLO",
       "currencyId": "Allora::ALLO"
     },
+    "0xe07af2a3bc75d888ead2e67176ffe54dc9b1c7b5": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "Showdown",
+      "address": "0xe07af2a3bc75d888ead2e67176ffe54dc9b1c7b5",
+      "symbol": "SHOW",
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xe07aF2A3bC75d888EAD2E67176fFe54DC9b1C7b5.png",
+      "assetGroup": "Showdown::SHOW",
+      "currencyId": "Showdown::SHOW"
+    },
     "0xd384e637a1d6e7d2a19818ea4abc924cc7827b34": {
       "chainId": "56",
       "decimals": 9,
@@ -54236,16 +54246,6 @@
       "logoURI": "https://assets.coingecko.com/coins/images/70660/thumb/logo.png?1762990536",
       "assetGroup": "Giggle AI Companion::MAXAI",
       "currencyId": "Giggle AI Companion::MAXAI"
-    },
-    "0x49cf3353e2e514cca0f185b916a7d672de9f4444": {
-      "chainId": "56",
-      "decimals": 18,
-      "name": "4444",
-      "address": "0x49cf3353e2e514cca0f185b916a7d672de9f4444",
-      "symbol": "4444",
-      "logoURI": "https://assets.coingecko.com/coins/images/70685/thumb/logo.jpg?1763102771",
-      "assetGroup": "4444::4444::56::0",
-      "currencyId": "4444::4444"
     },
     "0x0e63b9c287e32a05e6b9ab8ee8df88a2760225a9": {
       "chainId": "56",
@@ -54267,15 +54267,25 @@
       "assetGroup": "DRAGON::DRAGON",
       "currencyId": "DRAGON::DRAGON"
     },
+    "0x49cf3353e2e514cca0f185b916a7d672de9f4444": {
+      "chainId": "56",
+      "decimals": 18,
+      "name": "4444",
+      "address": "0x49cf3353e2e514cca0f185b916a7d672de9f4444",
+      "symbol": "4444",
+      "logoURI": "https://assets.coingecko.com/coins/images/70685/thumb/logo.jpg?1763102771",
+      "assetGroup": "4444::4444::56::0",
+      "currencyId": "4444::4444"
+    },
     "0xb2d97c4ed2d0ef452654f5cab3da3735b5e6f3ab": {
       "chainId": "56",
       "decimals": 18,
       "name": "FIGHT",
       "address": "0xb2d97c4ed2d0ef452654f5cab3da3735b5e6f3ab",
-      "symbol": "FIGHT",
+      "symbol": "$FIGHT",
       "logoURI": "https://assets.coingecko.com/coins/images/70650/thumb/FIGHT_Token_Icon_200x200.png?1762972217",
-      "assetGroup": "FIGHT::FIGHT",
-      "currencyId": "FIGHT::FIGHT"
+      "assetGroup": "FIGHT::$FIGHT",
+      "currencyId": "FIGHT::$FIGHT"
     },
     "0x0000000000000000000000000000000000000000": {
       "chainId": "56",

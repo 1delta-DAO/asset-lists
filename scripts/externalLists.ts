@@ -633,7 +633,7 @@ const listDirs = [
 ]
 
 export const ONE_DELTA_LISTS: ArbitraryTokenList[] = listDirs.map((filename) => ({
-  url: `https://raw.githubusercontent.com/1delta-DAO/asset-lists/main/${filename}.json`,
+  url: `https://raw.githubusercontent.com/1delta-DAO/token-lists/main/${filename}.json`,
   access: 'list',
   tag: '1delta',
   isMap: true,
