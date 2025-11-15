@@ -1,0 +1,1839 @@
+{
+  "chainId": "146",
+  "version": "0",
+  "list": {
+    "0x986a98967ed30dced4cc458066f3aae9c7fc47a4": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Sonic Gems Distribution Sonic",
+        "address": "0x986a98967ed30dced4cc458066f3aae9c7fc47a4",
+        "symbol": "SY-Token",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/91449ebe-a8e0-49b4-9eba-c70c9ae5af90.svg",
+        "assetGroup": "Sonic Gems Distribution Sonic::SY-Token",
+        "currencyId": "Sonic Gems Distribution Sonic::SY-Token",
+        "props": {
+          "pendle": {
+            "tokenType": "SY"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Token",
+      "domainSeparator": "0x4485eef5a2d55c886f31dafbb82a0fa3107b073f1f14905d02bc2b6d1c696c91",
+      "status": "supported"
+    },
+    "0x896f4d49916ac5cfc36d7a260a7039ba4ea317b6": {
+      "token": {
+        "chainId": "146",
+        "decimals": 6,
+        "name": "wstkscUSD Sonic",
+        "address": "0x896f4d49916ac5cfc36d7a260a7039ba4ea317b6",
+        "symbol": "SY-wstkscUSD",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/817c321f-f5ea-455b-a5a5-cd5baf69326b.svg",
+        "assetGroup": "wstkscUSD Sonic::SY-wstkscUSD",
+        "currencyId": "wstkscUSD Sonic::SY-wstkscUSD",
+        "props": {
+          "pendle": {
+            "tokenType": "SY",
+            "marketAddress": "0x6e4e95fab7db1f0524b4b0a05f0b9c96380b7dfa",
+            "expiry": 1748476800,
+            "underlyingAsset": "0x9fb76f7ce5fceaa2c42887ff441d46095e494206",
+            "ptAddress": "0xbe27993204ec64238f71a527b4c4d5f4949034c3",
+            "ytAddress": "0xdcad0f3992a72ea0ce5eb703293a353249c0a76f"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Wrapped stkscUSD",
+      "domainSeparator": "0x4565f79d5fb61476e2ff28fcfd92870114d8eaa67b3ffcda291ca31df4946395",
+      "status": "supported"
+    },
+    "0x8bb86a99f97f5d19718bd5ca0b0ca00354532ef3": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "wstkscETH Sonic",
+        "address": "0x8bb86a99f97f5d19718bd5ca0b0ca00354532ef3",
+        "symbol": "SY-wstkscETH",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/7a8f9cf2-c71b-4e85-8c71-9fee3aa59a19.svg",
+        "assetGroup": "wstkscETH Sonic::SY-wstkscETH",
+        "currencyId": "wstkscETH Sonic::SY-wstkscETH",
+        "props": {
+          "pendle": {
+            "tokenType": "SY",
+            "marketAddress": "0xd14117baf6ec5d12be68cd06e763a4b82c9b6d1d",
+            "expiry": 1748476800,
+            "underlyingAsset": "0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47",
+            "ptAddress": "0xa2161e75edf50d70544e6588788a5732a3105c00",
+            "ytAddress": "0x30989fd89e9fa16191f38807d56cdfe98ad206f2"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Wrapped stkscETH",
+      "domainSeparator": "0x6310e9693a972619b7db77a85f12baacc1139d8aa01e60d7c1b194179afde13b",
+      "status": "supported"
+    },
+    "0x7076dee976098b444f68c6382e8f062237879a9f": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "stS Sonic",
+        "address": "0x7076dee976098b444f68c6382e8f062237879a9f",
+        "symbol": "SY-stS",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/3ba58f44-39c1-4050-a4e2-532dda96e6b0.svg",
+        "assetGroup": "stS Sonic::SY-stS",
+        "currencyId": "stS Sonic::SY-stS",
+        "props": {
+          "pendle": {
+            "tokenType": "SY",
+            "marketAddress": "0x3aef1d372d0a7a7e482f465bc14a42d78f920392",
+            "expiry": 1748476800,
+            "underlyingAsset": "0xe5da20f15420ad15de0fa650600afc998bbe3955",
+            "ptAddress": "0x420df605d062f8611efb3f203bf258159b8fffde",
+            "ytAddress": "0xd8f57b34e69270f7ba179e854020ee80f16eebf4"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Beets Staked Sonic",
+      "domainSeparator": "0x48684128a69f0b355989fc57ee4cd7ca2acc0f7460c94b3a8901462ac6d83f45",
+      "status": "supported"
+    },
+    "0xb261266cb30c255cb9c73ebf4a3ead9398d23ab4": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "wOS Sonic",
+        "address": "0xb261266cb30c255cb9c73ebf4a3ead9398d23ab4",
+        "symbol": "SY-wOS",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/533da53e-cee0-45ea-bc36-2450a92244af.svg",
+        "assetGroup": "wOS Sonic::SY-wOS",
+        "currencyId": "wOS Sonic::SY-wOS",
+        "props": {
+          "pendle": {
+            "tokenType": "SY",
+            "marketAddress": "0xc1fd739f2bf1aad96f04d6ae35ed04da4d68366b",
+            "expiry": 1766016000,
+            "underlyingAsset": "0x9f0df7799f6fdad409300080cff680f5a23df4b1",
+            "ptAddress": "0x200338559c1975d1f216adcda8352aff2869afab",
+            "ytAddress": "0x236093091952fb85cd755c6c808ee9802c3874d6"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Wrapped OS",
+      "domainSeparator": "0x456a34fe0d40c82626e675718bfea06e86731da493d3a59d999a71b4526b9fa6",
+      "status": "supported"
+    },
+    "0xc4a9d8b486f388cc0e4168d2904277e8c8372fa3": {
+      "token": {
+        "chainId": "146",
+        "decimals": 6,
+        "name": "aUSDC Sonic",
+        "address": "0xc4a9d8b486f388cc0e4168d2904277e8c8372fa3",
+        "symbol": "SY-aSonUSDC",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/c8147707-3aed-44c7-9e32-47b7414944e3.svg",
+        "assetGroup": "aUSDC Sonic::SY-aSonUSDC",
+        "currencyId": "aUSDC Sonic::SY-aSonUSDC",
+        "props": {
+          "pendle": {
+            "tokenType": "SY",
+            "marketAddress": "0x3f5ea53d1160177445b1898afbb16da111182418",
+            "expiry": 1755129600,
+            "underlyingAsset": "0x578ee1ca3a8e1b54554da1bf7c583506c4cd11c6",
+            "ptAddress": "0x930441aa7ab17654df5663781ca0c02cc17e6643",
+            "ytAddress": "0x18d2d54f42ba720851bae861b98a0f4b079e6027"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Aave Sonic USDC",
+      "domainSeparator": "0x48e01c242112f0297c281a8f86f7c72287aede5d74a9a46a4df2000f84674a3d",
+      "status": "supported"
+    },
+    "0x40ae6da2d92aa3dcb7f8d7a7209fd12bdfcb7c85": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "xSolvBTC Sonic",
+        "address": "0x40ae6da2d92aa3dcb7f8d7a7209fd12bdfcb7c85",
+        "symbol": "SY-SolvBTC.BBN",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/2ffacb18-e488-431e-a9f8-bc65aa683a7c.png",
+        "assetGroup": "xSolvBTC Sonic::SY-SolvBTC.BBN",
+        "currencyId": "xSolvBTC Sonic::SY-SolvBTC.BBN",
+        "props": {
+          "pendle": {
+            "tokenType": "SY"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY SolvBTC Babylon",
+      "domainSeparator": "0xa13ca3195e7cf18e4b8c5450857ac2e30aa5f7bff231b7213a6455cbdee7b0e6",
+      "status": "supported"
+    },
+    "0x27b1dacd74688af24a64bd3c9c1b143118740784": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "wanS Sonic",
+        "address": "0x27b1dacd74688af24a64bd3c9c1b143118740784",
+        "symbol": "SY-wanS",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/dd6db2c1-792f-4884-b5ec-2d19d637a716.png",
+        "assetGroup": "wanS Sonic::SY-wanS",
+        "currencyId": "wanS Sonic::SY-wanS",
+        "props": {
+          "pendle": {
+            "tokenType": "SY",
+            "marketAddress": "0x9700c4c218237550ead3a78022d43215a717e5e7",
+            "expiry": 1756339200,
+            "underlyingAsset": "0xfa85fe5a8f5560e9039c04f2b0a90de1415abd70",
+            "ptAddress": "0x789ca09b0b4bcc83062d817c43206f96bd464015",
+            "ytAddress": "0x081424ec3f4bfe0ad829297d6cb73997656f56ac"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Wrapped anS",
+      "domainSeparator": "0x13ca8713dc6ccd7999a6383a5007b2c5d242e9ce2a74c2179100d6ac89f873ae",
+      "status": "supported"
+    },
+    "0x3bbacda010e7f4347e54f2bf0f42ff30b5a897da": {
+      "token": {
+        "chainId": "146",
+        "decimals": 6,
+        "name": "SY-Silo-46-USDC.e Sonic",
+        "address": "0x3bbacda010e7f4347e54f2bf0f42ff30b5a897da",
+        "symbol": "SY-Silo-46-USDC.e",
+        "logoURI": "https://storage.googleapis.com/pendle-assets-staging/images/assets/unknown.svg",
+        "assetGroup": "SY-Silo-46-USDC.e Sonic::SY-Silo-46-USDC.e",
+        "currencyId": "SY-Silo-46-USDC.e Sonic::SY-Silo-46-USDC.e",
+        "props": {
+          "pendle": {
+            "tokenType": "SY"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Silo scUSD",
+      "domainSeparator": "0x31a7c780dee97f746760812864d8155620013d1887f7876e730e5ea1d3add16c",
+      "status": "supported"
+    },
+    "0x642135ff98c15cba7fcf1766502bd493be4d3492": {
+      "token": {
+        "chainId": "146",
+        "decimals": 6,
+        "name": "USDC (Silo-20) Sonic",
+        "address": "0x642135ff98c15cba7fcf1766502bd493be4d3492",
+        "symbol": "SY-Silo-20-USDC.e",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/2b0f9efa-a16f-4e7a-bedf-3f8a31430b5d.svg",
+        "assetGroup": "USDC (Silo-20) Sonic::SY-Silo-20-USDC.e",
+        "currencyId": "USDC (Silo-20) Sonic::SY-Silo-20-USDC.e",
+        "props": {
+          "pendle": {
+            "tokenType": "SY"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Silo USDC.e",
+      "domainSeparator": "0x2f451e84351acee52d0fc5956147a28c91a635304863cc2ad38bd7ae89acaf7d",
+      "status": "supported"
+    },
+    "0x068def65b9dbaff02b4ee54572a9fa7dfb188ea3": {
+      "token": {
+        "chainId": "146",
+        "decimals": 6,
+        "name": "scUSD-Silo46 Sonic",
+        "address": "0x068def65b9dbaff02b4ee54572a9fa7dfb188ea3",
+        "symbol": "SY-Silo-46-scUSD",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/1d21223a-be99-4db3-a95a-14ea0d80cb6c.svg",
+        "assetGroup": "scUSD-Silo46 Sonic::SY-Silo-46-scUSD",
+        "currencyId": "scUSD-Silo46 Sonic::SY-Silo-46-scUSD",
+        "props": {
+          "pendle": {
+            "tokenType": "SY",
+            "marketAddress": "0x84ecc6be573f15991736131f924f7bf571ed3b60",
+            "expiry": 1755129600,
+            "underlyingAsset": "0xe6605932e4a686534d19005bb9db0fba1f101272",
+            "ptAddress": "0x9731842ed581816913933c01de142c7ee412a8c8",
+            "ytAddress": "0x3ab07241db5e87e45edca012ddf4bde84c078920"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Silo scUSD",
+      "domainSeparator": "0x4d2f591b97c818cef7b084aa67ad53a2bf86119c43bd637b8371a39dec5760e0",
+      "status": "supported"
+    },
+    "0xa9da5457ffc301d7c98fb38105f551a665511af3": {
+      "token": {
+        "chainId": "146",
+        "decimals": 6,
+        "name": "USDC-Silo20 Sonic",
+        "address": "0xa9da5457ffc301d7c98fb38105f551a665511af3",
+        "symbol": "SY-Silo-20-USDC.e",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/909aaf4b-6552-4b97-bf61-f4dc6b561d76.svg",
+        "assetGroup": "USDC-Silo20 Sonic::SY-Silo-20-USDC.e",
+        "currencyId": "USDC-Silo20 Sonic::SY-Silo-20-USDC.e",
+        "props": {
+          "pendle": {
+            "tokenType": "SY",
+            "marketAddress": "0xacfad541698437f6ef0e728c56a50ce35c73cc3e",
+            "expiry": 1752710400,
+            "underlyingAsset": "0x322e1d5384aa4ed66aeca770b95686271de61dc3",
+            "ptAddress": "0x77d8f09053c28faf1e00df6511b23125d438616f",
+            "ytAddress": "0x64547ba3f2d032c2d9f43e6ca1a98516a43dad3f"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Silo USDC.e",
+      "domainSeparator": "0x6b51db03d1f2f027a583facc870d5d7813dcadf4fb90abab789b15a8a98173eb",
+      "status": "supported"
+    },
+    "0x69a23f16974024a1b6a5362ac2a11bfeeefd5827": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "x33 Sonic",
+        "address": "0x69a23f16974024a1b6a5362ac2a11bfeeefd5827",
+        "symbol": "SY-x33",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/a04d7026-30ca-40cd-ae3f-74cb8e596be7.svg",
+        "assetGroup": "x33 Sonic::SY-x33",
+        "currencyId": "x33 Sonic::SY-x33",
+        "props": {
+          "pendle": {
+            "tokenType": "SY",
+            "marketAddress": "0xc9646f2a8a1d2f12a7fbf0274ec2d3ecc65f1468",
+            "expiry": 1772064000,
+            "underlyingAsset": "0x3333111a391cc08fa51353e9195526a70b333333",
+            "ptAddress": "0x22fe64c10f482004c48872c98d1f03cbdcaddce9",
+            "ytAddress": "0xc92113f9590999f3dab6fb32a17e050da1efdd76"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Shadow Liquid Staking Token",
+      "domainSeparator": "0x9d96d79da3e60aba8ef060f8e661a59df8e93bf32a5ce71b263c8301a0a1a122",
+      "status": "supported"
+    },
+    "0xee79b2473e5180f9bd7366f508961655c770f021": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "USDC (Silo Apostro) Sonic",
+        "address": "0xee79b2473e5180f9bd7366f508961655c770f021",
+        "symbol": "SY-aprUSDC",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/64265150-846f-4fb4-a88e-a4d405ebe663.svg",
+        "assetGroup": "USDC (Silo Apostro) Sonic::SY-aprUSDC",
+        "currencyId": "USDC (Silo Apostro) Sonic::SY-aprUSDC",
+        "props": {
+          "pendle": {
+            "tokenType": "SY"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Apostro USDC",
+      "domainSeparator": "0xdd1ca1e147d35e8691b5a91a19c81f49f33fd7bd54dad6b0e5c070132dcff049",
+      "status": "supported"
+    },
+    "0xaa3350c98a4a3a4cbbf35d0858420bc937579598": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "S-Silo Varlamore Sonic",
+        "address": "0xaa3350c98a4a3a4cbbf35d0858420bc937579598",
+        "symbol": "SY-vS",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/21e1d805-1917-4491-8437-c34c0a405a24.svg",
+        "assetGroup": "S-Silo Varlamore Sonic::SY-vS",
+        "currencyId": "S-Silo Varlamore Sonic::SY-vS",
+        "props": {
+          "pendle": {
+            "tokenType": "SY",
+            "marketAddress": "0x92a991e5cf27de3ffd021d2fcf79f0b2f140aad4",
+            "expiry": 1766016000,
+            "underlyingAsset": "0xded4ac8645619334186f28b8798e07ca354cfa0e",
+            "ptAddress": "0xd8c09ae367988a3b56e118977e0d98b9d223d071",
+            "ytAddress": "0x5902b89a2c79021df9a6011fe58911804c8ce68a"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Varlamore S",
+      "domainSeparator": "0x8e6ae22c85101e8ec9ccb3b0d75b56903422aef470b1e768131f89890a19a7f7",
+      "status": "supported"
+    },
+    "0x3ba56bd2ddf751c6d1929e9f499a1718d424811f": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "USDC-Silo Varlamore Sonic",
+        "address": "0x3ba56bd2ddf751c6d1929e9f499a1718d424811f",
+        "symbol": "SY-vgUSDC",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/98f5d67e-4c4e-45bf-b1ce-513f6e7b6fc7.svg",
+        "assetGroup": "USDC-Silo Varlamore Sonic::SY-vgUSDC",
+        "currencyId": "USDC-Silo Varlamore Sonic::SY-vgUSDC",
+        "props": {
+          "pendle": {
+            "tokenType": "SY"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Varlamore USDC Growth",
+      "domainSeparator": "0x10121576f1536908f1864ad8d960797cb2c1fb22050a367f0fd987ce3c7dfcbd",
+      "status": "supported"
+    },
+    "0x89a3cfaac1905bb42ee834ac79178705f098a76c": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "USDC-Silo Apostro Sonic",
+        "address": "0x89a3cfaac1905bb42ee834ac79178705f098a76c",
+        "symbol": "SY-aprUSDC",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/0c37a63d-1e95-453d-88b4-3fe5886736bc.svg",
+        "assetGroup": "USDC-Silo Apostro Sonic::SY-aprUSDC",
+        "currencyId": "USDC-Silo Apostro Sonic::SY-aprUSDC",
+        "props": {
+          "pendle": {
+            "tokenType": "SY"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Apostro USDC",
+      "domainSeparator": "0x33a09ec8aa72eb9003102bb1187812e5f5bed2e632ba3d2802c3c1efa1b36616",
+      "status": "supported"
+    },
+    "0x30ccf4bbee313fcd19f3e295b3ba2920a24e2f62": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "lstRZR Sonic",
+        "address": "0x30ccf4bbee313fcd19f3e295b3ba2920a24e2f62",
+        "symbol": "SY-lstRZR",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/5a0f3203-6d45-4991-a2d9-555b9e2dfecf.svg",
+        "assetGroup": "lstRZR Sonic::SY-lstRZR",
+        "currencyId": "lstRZR Sonic::SY-lstRZR",
+        "props": {
+          "pendle": {
+            "tokenType": "SY",
+            "marketAddress": "0xabfc41b413891c647d0d1cd66bf64bc6ed8fee71",
+            "expiry": 1766016000,
+            "underlyingAsset": "0x67a298e5b65db2b4616e05c3b455e017275f53cb",
+            "ptAddress": "0xbab91a3046003a5be46693d14e28d3b48252cf93",
+            "ytAddress": "0x9691b32ad2ac224695b8e071673a2441b0d3dbe0"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Liquid Staked Rezerve.money",
+      "domainSeparator": "0x13757e64fe1df7480d27022828af4e1e00f8bca32643d96c99e43feae6c50955",
+      "status": "supported"
+    },
+    "0x3a9dc0b33ab3b6e6ce1ead61909f59acd7682036": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "USDC-Silo Greenhouse Sonic",
+        "address": "0x3a9dc0b33ab3b6e6ce1ead61909f59acd7682036",
+        "symbol": "SY-ghUSDC",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/c9c988cd-46b0-45a6-bfeb-5bec2e42ec37.svg",
+        "assetGroup": "USDC-Silo Greenhouse Sonic::SY-ghUSDC",
+        "currencyId": "USDC-Silo Greenhouse Sonic::SY-ghUSDC",
+        "props": {
+          "pendle": {
+            "tokenType": "SY"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Greenhouse USDC",
+      "domainSeparator": "0xfc59156dde53f8aafae4ab2b0801f391b61703cebbc88cbe4b29b88fbc993a9f",
+      "status": "supported"
+    },
+    "0xdd3059d662497a212e4ef71260387ec6adc6e8b9": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "xSILO Sonic",
+        "address": "0xdd3059d662497a212e4ef71260387ec6adc6e8b9",
+        "symbol": "SY-xSILO",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/12b6645a-9610-40dd-a3c1-245ddd0cf9f3.svg",
+        "assetGroup": "xSILO Sonic::SY-xSILO",
+        "currencyId": "xSILO Sonic::SY-xSILO",
+        "props": {
+          "pendle": {
+            "tokenType": "SY",
+            "marketAddress": "0x19524fc9b2348d4d6a489a4cd3179405e84eeb9b",
+            "expiry": 1766016000,
+            "underlyingAsset": "0x4451765739b2d7bce5f8bc95beaf966c45e1dcc9",
+            "ptAddress": "0x0816792e394707f9b51b1e710a8186e2a4f98fa6",
+            "ytAddress": "0xde891fae97a70acc25c10a3275874919b0cca44c"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY xSILO",
+      "domainSeparator": "0xba15c8a8667a8e197b8278eec0743914f1f43d8f4c214dc19f2812e1d7ce8b0b",
+      "status": "supported"
+    },
+    "0x23a052dfcabd4fa7bd52e7e67e0fb0ee596e7383": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "smsUSD Sonic",
+        "address": "0x23a052dfcabd4fa7bd52e7e67e0fb0ee596e7383",
+        "symbol": "SY-smsUSD",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/91de4406-3ff5-405f-99dd-1aad5b511928.svg",
+        "assetGroup": "smsUSD Sonic::SY-smsUSD",
+        "currencyId": "smsUSD Sonic::SY-smsUSD",
+        "props": {
+          "pendle": {
+            "tokenType": "SY"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Staked msUSD",
+      "domainSeparator": "0xeb9bc48f366b0c8c0ac0a9f5671cab5c438c25514dbb19690da75f9e7f062f31",
+      "status": "supported"
+    },
+    "0xa809c9814d04282490c0078200a7597452a9452d": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "msUSD Sonic",
+        "address": "0xa809c9814d04282490c0078200a7597452a9452d",
+        "symbol": "SY-msUSD",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/b25a7750-8770-487d-955a-cf9eef8958a6.svg",
+        "assetGroup": "msUSD Sonic::SY-msUSD",
+        "currencyId": "msUSD Sonic::SY-msUSD",
+        "props": {
+          "pendle": {
+            "tokenType": "SY",
+            "marketAddress": "0x0d769b6ad1a553cb789490ca264352318aaaa8c6",
+            "expiry": 1761782400,
+            "underlyingAsset": "0xe5fb2ed6832def99dde57c0b9d9a56537c89121d",
+            "ptAddress": "0x319e3bbe49c5f2562e8a35a1480c20f311055d5f",
+            "ytAddress": "0x61c0859debe81b04c3bb2935da2aeb52772ce455"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY Main Street USD",
+      "domainSeparator": "0x3b66712ee6e7ed73fa2de85cda2df2e211b00eed0ca45916e47e5e849a36fa0c",
+      "status": "supported"
+    },
+    "0x7a657c50c6b640ecaab7bb8dad86344169bf8c16": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "re-aUSDC Sonic",
+        "address": "0x7a657c50c6b640ecaab7bb8dad86344169bf8c16",
+        "symbol": "SY-re-aUSDC",
+        "logoURI": "https://storage.googleapis.com/prod-pendle-bucket-a/images/uploads/9e8c648b-e7ec-4dc4-8c3a-f272abe94638.svg",
+        "assetGroup": "re-aUSDC Sonic::SY-re-aUSDC",
+        "currencyId": "re-aUSDC Sonic::SY-re-aUSDC",
+        "props": {
+          "pendle": {
+            "tokenType": "SY",
+            "marketAddress": "0x1ab8253c77eb7edd5e4d95ed435e1e77042e95a0",
+            "expiry": 1766016000,
+            "underlyingAsset": "0x561d1907dd7c0b92e5278356bc230b7e94704d57",
+            "ptAddress": "0x3bd6ab986b069b65e7ffad03a9047ac70123265c",
+            "ytAddress": "0x6784b1c55983a4755735035cee9c090d9ab4eca9"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SY 246 Club re-aUSDC",
+      "domainSeparator": "0x37a4077c56323f066d7a4cc89c37e92de92b89df73683116e4fe09f66072c483",
+      "status": "supported"
+    },
+    "0x71e99522ead5e21cf57f1f542dc4ad2e841f7321": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Metropolis Token",
+        "address": "0x71e99522ead5e21cf57f1f542dc4ad2e841f7321",
+        "symbol": "METRO",
+        "logoURI": "https://assets.coingecko.com/coins/images/54040/thumb/metropolis_logo_square.png?1738076053",
+        "assetGroup": "Metropolis Token::METRO",
+        "currencyId": "Metropolis Token::METRO"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Metropolis Token",
+      "domainSeparator": "0xb405bc02d5f02a4a138338ddf41ab0d968b4c140744dac07cbd612422f020dfb",
+      "status": "supported"
+    },
+    "0x2d0e0814e62d80056181f5cd932274405966e4f0": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Beets",
+        "address": "0x2d0e0814e62d80056181f5cd932274405966e4f0",
+        "symbol": "BEETS",
+        "logoURI": "https://assets.coingecko.com/coins/images/53249/thumb/beets.png?1735873104",
+        "assetGroup": "Beets::BEETS",
+        "currencyId": "Beets::BEETS"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Beets",
+      "domainSeparator": "0xe592a2d3702c888c266002a8efbc50b93192769e0e56c05dd28c7d104bdd1179",
+      "status": "supported"
+    },
+    "0xb0695ce12c56aae40894235e2d1888d0b62dd110": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "DeFive",
+        "address": "0xb0695ce12c56aae40894235e2d1888d0b62dd110",
+        "symbol": "FIVE",
+        "logoURI": "https://assets.coingecko.com/coins/images/53201/thumb/DeFive_White.png?1740824001",
+        "assetGroup": "DeFive::FIVE",
+        "currencyId": "DeFive::FIVE"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "DeFive",
+      "domainSeparator": "0xf34a7e90b050865e5d59308c54433403d00cff9e9b9f637dd3a972b23c0c17c5",
+      "status": "supported"
+    },
+    "0x6fb9897896fe5d05025eb43306675727887d0b7c": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "HEDGY the hedgehog",
+        "address": "0x6fb9897896fe5d05025eb43306675727887d0b7c",
+        "symbol": "HEDGY",
+        "logoURI": "https://assets.coingecko.com/coins/images/51742/thumb/cVKJGU_W_400x400.jpg?1731923818",
+        "assetGroup": "HEDGY the hedgehog::HEDGY",
+        "currencyId": "HEDGY the hedgehog::HEDGY"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "HEDGY the hedgehog",
+      "domainSeparator": "0xd62de0902ea295d770e3474a803647876852e44bccbf9e049e889eaa95519f13",
+      "status": "supported"
+    },
+    "0x7b0a41f0c17474e41a0c36c0bf33b9aed06ee9f5": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Sonic Name Service",
+        "address": "0x7b0a41f0c17474e41a0c36c0bf33b9aed06ee9f5",
+        "symbol": "SNS",
+        "logoURI": "https://assets.coingecko.com/coins/images/51377/thumb/ua-dexifCHbOtcGHHcvE.jpg?1730964998",
+        "assetGroup": "SNS",
+        "currencyId": "Sonic Name Service::SNS"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Sonic Name Service",
+      "domainSeparator": "0x8eac5d995485fb6c05a7dfdc6a9deb8b14f6542d2382c2810b12ac4e96469376",
+      "status": "supported"
+    },
+    "0xc0da8629599b364eb0a8921a477fb80440a68bd4": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Lumos",
+        "address": "0xc0da8629599b364eb0a8921a477fb80440a68bd4",
+        "symbol": "LUMOS",
+        "logoURI": "https://assets.coingecko.com/coins/images/39362/thumb/Lumos.png?1740321762",
+        "assetGroup": "Lumos::LUMOS",
+        "currencyId": "Lumos::LUMOS"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Lumos",
+      "domainSeparator": "0x6e84f964063189568e40e7df154b25c4748315eacb28bd1f0e5e2c4247868926",
+      "status": "supported"
+    },
+    "0x78a76316f66224cbaca6e70acb24d5ee5b2bd2c7": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Stability",
+        "address": "0x78a76316f66224cbaca6e70acb24d5ee5b2bd2c7",
+        "symbol": "STBL",
+        "logoURI": "https://assets.coingecko.com/coins/images/54772/thumb/STBL_Logo_%281%29.png?1741445415",
+        "assetGroup": "Stability::STBL",
+        "currencyId": "Stability::STBL"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Stability",
+      "domainSeparator": "0x64d7c4946c96ff5b45c67889c61261d5ca5b6349fe49e70bb91186f5728d9e1b",
+      "status": "supported"
+    },
+    "0x3333b97138d4b086720b5ae8a7844b1345a33333": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Shadow",
+        "address": "0x3333b97138d4b086720b5ae8a7844b1345a33333",
+        "symbol": "SHADOW",
+        "logoURI": "https://assets.coingecko.com/coins/images/53747/thumb/tokenbg.png?1737180639",
+        "assetGroup": "Shadow::SHADOW",
+        "currencyId": "Shadow::SHADOW"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Shadow",
+      "domainSeparator": "0xd9a5fa770747dcdaca8be731f0252ef85ec9139b2ac9546d174fed5a7388d913",
+      "status": "supported"
+    },
+    "0x3bce5cb273f0f148010bbea2470e7b5df84c7812": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Rings scETH",
+        "address": "0x3bce5cb273f0f148010bbea2470e7b5df84c7812",
+        "symbol": "SCETH",
+        "logoURI": "https://assets.coingecko.com/coins/images/54461/thumb/sceth.png?1739847097",
+        "assetGroup": "Rings scETH::SCETH",
+        "currencyId": "Rings scETH::SCETH"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Sonic ETH",
+      "domainSeparator": "0x0dde1b6c4d553cbcce1aec23a2e9eaaf7d61d86a18c9d2ac4f2adf109c7e3043",
+      "status": "supported"
+    },
+    "0xe5da20f15420ad15de0fa650600afc998bbe3955": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Beets Staked Sonic",
+        "address": "0xe5da20f15420ad15de0fa650600afc998bbe3955",
+        "symbol": "STS",
+        "logoURI": "https://assets.coingecko.com/coins/images/52937/thumb/token-beets-staked-sonic.png?1734712659",
+        "assetGroup": "Beets Staked Sonic::STS",
+        "currencyId": "Beets Staked Sonic::STS"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Beets Staked Sonic",
+      "domainSeparator": "0x59b3082fc9a3cea3fcc950c250cf0450fe538b9350b7f9fbc8802aded06732aa",
+      "status": "supported"
+    },
+    "0x486b6fa0419b33a0c7a6e4698c231d7e2f2d5299": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Moon Bay",
+        "address": "0x486b6fa0419b33a0c7a6e4698c231d7e2f2d5299",
+        "symbol": "MOON",
+        "logoURI": "https://assets.coingecko.com/coins/images/53021/thumb/moonbay.png?1735003620",
+        "assetGroup": "Moon Bay::MOON",
+        "currencyId": "Moon Bay::MOON"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Moon Bay",
+      "domainSeparator": "0x09e852bf7a53dc196dad9e817f3e7972deec184b0609fb7c2c7464e30f9f46cd",
+      "status": "supported"
+    },
+    "0x17af1df44444ab9091622e4aa66db5bb34e51ad5": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "TinHatCat",
+        "address": "0x17af1df44444ab9091622e4aa66db5bb34e51ad5",
+        "symbol": "THC",
+        "logoURI": "https://assets.coingecko.com/coins/images/35911/thumb/photo_2024-01-16_17-31-36-removebg-preview.png?1710180825",
+        "assetGroup": "THC",
+        "currencyId": "TinHatCat::THC"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Tin Hat Cat",
+      "domainSeparator": "0x031bf640192c258d526f65d2a34c06b38204c948166b96b9321787f5c0662286",
+      "status": "supported"
+    },
+    "0x841aef70237a88027ccb2d15c1bbaf88a669674a": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Space Token",
+        "address": "0x841aef70237a88027ccb2d15c1bbaf88a669674a",
+        "symbol": "SPACE",
+        "logoURI": "https://assets.coingecko.com/coins/images/20676/thumb/jYw3kgsY_400x400.png?1696520076",
+        "assetGroup": "Space Token::SPACE",
+        "currencyId": "Space Token::SPACE"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "xSpace Token",
+      "domainSeparator": "0x05171cb2e2fa6c546f16c7cc6f28387314022e82a274efc7ddf0cc0bb5da6ceb",
+      "status": "supported"
+    },
+    "0x70e7f1d907e30efb18fe1dd8a1d75c09a98177d3": {
+      "token": {
+        "chainId": "146",
+        "decimals": 9,
+        "name": "Jefe",
+        "address": "0x70e7f1d907e30efb18fe1dd8a1d75c09a98177d3",
+        "symbol": "JEFE",
+        "logoURI": "https://assets.coingecko.com/coins/images/25336/thumb/JEFE_200.png?1696524470",
+        "assetGroup": "Jefe::JEFE",
+        "currencyId": "Jefe::JEFE"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "JEFE TOKEN",
+      "domainSeparator": "0xa974071c67a6964d31db3e60079dc554fd8adbeb93d3ff655bff56a608030d92",
+      "status": "supported"
+    },
+    "0xd3dce716f3ef535c5ff8d041c1a41c3bd89b97ae": {
+      "token": {
+        "chainId": "146",
+        "decimals": 6,
+        "name": "Rings scUSD",
+        "address": "0xd3dce716f3ef535c5ff8d041c1a41c3bd89b97ae",
+        "symbol": "SCUSD",
+        "logoURI": "https://assets.coingecko.com/coins/images/53456/thumb/scusd_%281%29.png?1736404738",
+        "assetGroup": "Rings scUSD::SCUSD",
+        "currencyId": "Rings scUSD::SCUSD"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Sonic USD",
+      "domainSeparator": "0x9483f09381344aa2a2a86c1f501c7724c4dc51e015826046e84647b208139b30",
+      "status": "supported"
+    },
+    "0xecac9c5f704e954931349da37f60e39f515c11c1": {
+      "token": {
+        "chainId": "146",
+        "decimals": 8,
+        "name": "Lombard Staked BTC",
+        "address": "0xecac9c5f704e954931349da37f60e39f515c11c1",
+        "symbol": "LBTC",
+        "logoURI": "https://assets.coingecko.com/coins/images/39969/thumb/LBTC_Logo.png?1724959872",
+        "assetGroup": "LBTC",
+        "currencyId": "Lombard Staked BTC::LBTC"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Lombard Staked Bitcoin",
+      "domainSeparator": "0x7ced3fb2390c7c4df0769374c78702351f419c769cdda436d3c4f97772531241",
+      "status": "supported"
+    },
+    "0xd4a5c68a1ed1fc2bb06cba2d90d6adeee7503671": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "HOOPS the Squirrel",
+        "address": "0xd4a5c68a1ed1fc2bb06cba2d90d6adeee7503671",
+        "symbol": "HOOPS",
+        "logoURI": "https://assets.coingecko.com/coins/images/54907/thumb/hoops.jpg?1742450884",
+        "assetGroup": "HOOPS the Squirrel::HOOPS",
+        "currencyId": "HOOPS the Squirrel::HOOPS"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "HOOPS the Squirrel",
+      "domainSeparator": "0x04ed533c2f37e4a735433c744876bd808382dfda8fac86b3520617afd770de22",
+      "status": "supported"
+    },
+    "0xbb30e76d9bb2cc9631f7fc5eb8e87b5aff32bfbd": {
+      "token": {
+        "chainId": "146",
+        "decimals": 8,
+        "name": "Rings scBTC",
+        "address": "0xbb30e76d9bb2cc9631f7fc5eb8e87b5aff32bfbd",
+        "symbol": "SCBTC",
+        "logoURI": "https://assets.coingecko.com/coins/images/54997/thumb/scBTC_32.png?1743095543",
+        "assetGroup": "Rings scBTC::SCBTC",
+        "currencyId": "Rings scBTC::SCBTC"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Sonic BTC",
+      "domainSeparator": "0xa38cd362205935b29f64ad5704ef465d94bf3722fecc9a300f6a557a50356676",
+      "status": "supported"
+    },
+    "0x888852d1c63c7b333efeb1c4c5c79e36ce918888": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Infinity",
+        "address": "0x888852d1c63c7b333efeb1c4c5c79e36ce918888",
+        "symbol": "8",
+        "logoURI": "https://assets.coingecko.com/coins/images/55338/thumb/Logo_%281%29.png?1745490504",
+        "assetGroup": "Infinity::8",
+        "currencyId": "Infinity::8"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Infinity",
+      "domainSeparator": "0x264976caa8cb85dc246422e805a2eb54e1335945a6998f645584b138df1205c7",
+      "status": "supported"
+    },
+    "0x871a101dcf22fe4fe37be7b654098c801cba1c88": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Beefy escrowed Sonic",
+        "address": "0x871a101dcf22fe4fe37be7b654098c801cba1c88",
+        "symbol": "BES",
+        "logoURI": "https://assets.coingecko.com/coins/images/55186/thumb/beS.png?1744440042",
+        "assetGroup": "Beefy escrowed Sonic::BES",
+        "currencyId": "Beefy escrowed Sonic::BES"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Beefy Sonic",
+      "domainSeparator": "0xf891d3371bf59d478f1bead7f17edca9bc92289b7d402de5449275ef2d7b5f8c",
+      "status": "supported"
+    },
+    "0x777ecd9a05d4640133f6112f3aa777f1ed5acace": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Spin It",
+        "address": "0x777ecd9a05d4640133f6112f3aa777f1ed5acace",
+        "symbol": "SPIN",
+        "logoURI": "https://assets.coingecko.com/coins/images/55154/thumb/logospin.png?1744230889",
+        "assetGroup": "Spin It::SPIN",
+        "currencyId": "Spin It::SPIN"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SPIN IT",
+      "domainSeparator": "0x8f731d81c31aa53af378ea8158db4622e05aeb5bfc9ad99dc8b0f150f5679fe5",
+      "status": "supported"
+    },
+    "0x578ee1ca3a8e1b54554da1bf7c583506c4cd11c6": {
+      "token": {
+        "chainId": "146",
+        "decimals": 6,
+        "name": "Aave USDC",
+        "address": "0x578ee1ca3a8e1b54554da1bf7c583506c4cd11c6",
+        "symbol": "ASONUSDC",
+        "logoURI": "https://assets.coingecko.com/coins/images/55659/thumb/aSonUSDC_200x200.png?1746866473",
+        "assetGroup": "Aave USDC::ASONUSDC",
+        "currencyId": "Aave USDC::ASONUSDC"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Aave Sonic USDC",
+      "domainSeparator": "0xea35325d042a56ae2be102c20857dd5a4ac9fa8871dca03825615a5e39edff33",
+      "status": "supported"
+    },
+    "0x614914b028a7d1fd4fab1e5a53a3e2df000bcb0e": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "dTRINITY S",
+        "address": "0x614914b028a7d1fd4fab1e5a53a3e2df000bcb0e",
+        "symbol": "DS",
+        "logoURI": "https://assets.coingecko.com/coins/images/55573/thumb/dS.png?1746774377",
+        "assetGroup": "dTRINITY S::DS",
+        "currencyId": "dTRINITY S::DS"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "dTRINITY S",
+      "domainSeparator": "0x5629d42e95fe7d9d49455ea0917f0e0597904a73feee1dc628dbd5bf36738116",
+      "status": "supported"
+    },
+    "0xe8c962493104b71f1bf22bc415e02ed3ef685c26": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Wrapped SAFU",
+        "address": "0xe8c962493104b71f1bf22bc415e02ed3ef685c26",
+        "symbol": "WSAFU",
+        "logoURI": "https://assets.coingecko.com/coins/images/55496/thumb/Frame_1116602414.png?1746352304",
+        "assetGroup": "Wrapped SAFU::WSAFU",
+        "currencyId": "Wrapped SAFU::WSAFU"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Wrapped SAFU",
+      "domainSeparator": "0x028a43591bd9ab5db3d10be069f5f0ef250e89df697efef8c34655c8c55d960c",
+      "status": "supported"
+    },
+    "0x53a6abb52b2f968fa80df6a894e4f1b1020da975": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "dTRINITY USD",
+        "address": "0x53a6abb52b2f968fa80df6a894e4f1b1020da975",
+        "symbol": "DUSD",
+        "logoURI": "https://assets.coingecko.com/coins/images/53290/thumb/dUSD_Logo.png?1735997462",
+        "assetGroup": "dTRINITY USD::DUSD",
+        "currencyId": "dTRINITY USD::DUSD"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "dTRINITY USD",
+      "domainSeparator": "0x4d86da216341127ac643353d90b8676c91a24400c4b082fdedda0230ba7515f4",
+      "status": "supported"
+    },
+    "0x02f92800f57bcd74066f5709f1daa1a4302df875": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Peapods Finance",
+        "address": "0x02f92800f57bcd74066f5709f1daa1a4302df875",
+        "symbol": "PEAS",
+        "logoURI": "https://assets.coingecko.com/coins/images/33711/thumb/NAzHgbTW_400x400.png?1702856653",
+        "assetGroup": "Peapods Finance::PEAS",
+        "currencyId": "Peapods Finance::PEAS"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Peapods",
+      "domainSeparator": "0x17738f6f72ef6697c0cfd7feaf20b500b0d56dee81ae15303921eef0969e64d5",
+      "status": "supported"
+    },
+    "0xbe422dd2f451348d5d0979d8ab25b4c6eaad1eb2": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Familio",
+        "address": "0xbe422dd2f451348d5d0979d8ab25b4c6eaad1eb2",
+        "symbol": "F",
+        "logoURI": "https://i.ibb.co/x3DdsbK/Familio.png",
+        "assetGroup": "Familio::F",
+        "currencyId": "Familio::F"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Familio",
+      "domainSeparator": "0x4ef93004e2c5d7e2d05f484cc58dfb8bdf97e217273a0bf8f94524fa920fc04c",
+      "status": "supported"
+    },
+    "0xb2a909b8bcce9b30bbc9d4c748fd897d6ad9c285": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Ruggie's Pizza",
+        "address": "0xb2a909b8bcce9b30bbc9d4c748fd897d6ad9c285",
+        "symbol": "RUGGIE",
+        "logoURI": "https://i.ibb.co/DMPP0tZ/pizzaratlogo-text-600dpi.png",
+        "assetGroup": "Ruggie's Pizza::RUGGIE",
+        "currencyId": "Ruggie's Pizza::RUGGIE"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Ruggie's Pizza",
+      "domainSeparator": "0x8de54d56179d4ef73c925cc6a33954fe5fceac61950c2f790cb071be9b383910",
+      "status": "supported"
+    },
+    "0x10ac2f9dae6539e77e372adb14b1bf8fbd16b3e8": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Fresh Beets",
+        "address": "0x10ac2f9dae6539e77e372adb14b1bf8fbd16b3e8",
+        "symbol": "bpt-fbeets-sts",
+        "logoURI": "https://sonicscan.org/token/images/mabeets_32.png",
+        "assetGroup": "Fresh Beets::bpt-fbeets-sts",
+        "currencyId": "Fresh Beets::bpt-fbeets-sts"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Fresh Beets",
+      "domainSeparator": "0xb5686b1620efcdcf9e769ce189d990ca177be44cf0d8f4a69b946a90af8138e3",
+      "status": "supported"
+    },
+    "0x7f144f8691cba3d2efd8e5bcf042f9303ee31a46": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Aurum",
+        "address": "0x7f144f8691cba3d2efd8e5bcf042f9303ee31a46",
+        "symbol": "AUR",
+        "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x7F144F8691CbA3d2EfD8e5bcf042f9303EE31a46.png",
+        "assetGroup": "Aurum::AUR",
+        "currencyId": "Aurum::AUR"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Aurum",
+      "domainSeparator": "0xaa317e1bf18667d8b0830ff75c4504927c80673d202f8b92333391cf5bd1a236",
+      "status": "supported"
+    },
+    "0xde55b113a27cc0c5893caa6ee1c020b6b46650c0": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "DEUS",
+        "address": "0xde55b113a27cc0c5893caa6ee1c020b6b46650c0",
+        "symbol": "DEUS",
+        "logoURI": "https://assets.coingecko.com/coins/images/18778/standard/Black_Background_200x200.png?1696518242",
+        "assetGroup": "DEUS::DEUS",
+        "currencyId": "DEUS::DEUS"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "DEUS",
+      "domainSeparator": "0x40d78751ccafaab6da85c32f6bb84a6ab842fbfe96fe77853c63d7766dddc3b1",
+      "status": "supported"
+    },
+    "0xd31e89ffb929b38ba60d1c7dbeb68c7712eaab0a": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Static Avalon solvBTC",
+        "address": "0xd31e89ffb929b38ba60d1c7dbeb68c7712eaab0a",
+        "symbol": "AvalonSolvBTC",
+        "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd31e89ffb929b38ba60d1c7dbeb68c7712eaab0a.png",
+        "assetGroup": "Static Avalon solvBTC::AvalonSolvBTC",
+        "currencyId": "Static Avalon solvBTC::AvalonSolvBTC"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Wrapped Avalon Avalon SOLVBTC",
+      "domainSeparator": "0xe1c6a81ed7b7afa93970ece9fca73b3645d1de20478df61c1a3677ef740dbfb8",
+      "status": "supported"
+    },
+    "0xa28d4dbcc90c849e3249d642f356d85296a12954": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Static Avalon solvBTC.bbn",
+        "address": "0xa28d4dbcc90c849e3249d642f356d85296a12954",
+        "symbol": "AvalonSolvBTC.bbn",
+        "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xa28d4dbcc90c849e3249d642f356d85296a12954.png",
+        "assetGroup": "Static Avalon solvBTC.bbn::AvalonSolvBTC.bbn",
+        "currencyId": "Static Avalon solvBTC.bbn::AvalonSolvBTC.bbn"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Wrapped Avalon Avalon SOLVBTCBBN",
+      "domainSeparator": "0x0c3dc5393ccdfc2275edd6df56dda8fa94bb8e8993471cccdfddc14c673b16dc",
+      "status": "supported"
+    },
+    "0xcf3fe6edfee9c7fdf7d53dc58f4efe66fe110981": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Sonic Bunny",
+        "address": "0xcf3fe6edfee9c7fdf7d53dc58f4efe66fe110981",
+        "symbol": "BUNNY",
+        "logoURI": "https://static.wixstatic.com/media/c7bf16_e769d4fbfdd64beb95c94854ee34b2d8~mv2.png",
+        "assetGroup": "Sonic Bunny::BUNNY",
+        "currencyId": "Sonic Bunny::BUNNY"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Sonic Bunny",
+      "domainSeparator": "0x36fbc59863b5443b37c146821dbbc10b943fc4c2c68bf55fb3be3b1dc44dde2e",
+      "status": "supported"
+    },
+    "0x6047828dc181963ba44974801ff68e538da5eaf9": {
+      "token": {
+        "chainId": "146",
+        "decimals": 6,
+        "name": "Tether USD",
+        "address": "0x6047828dc181963ba44974801ff68e538da5eaf9",
+        "symbol": "USDT",
+        "logoURI": "https://coin-images.coingecko.com/coins/images/31185/large/anyusdt_32.png?1696530013",
+        "assetGroup": "USDT",
+        "currencyId": "Tether USD::USDT"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Tether USD",
+      "domainSeparator": "0x80bc7774e1a722f1b6510bc3daf68c87798e4b747dc12eccb9c8a0c5e4ebe7d3",
+      "status": "supported"
+    },
+    "0x9990de39ca46151150e392ca96eb349d0f549166": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "SuperSonicSpeedDemon",
+        "address": "0x9990de39ca46151150e392ca96eb349d0f549166",
+        "symbol": "SPEED",
+        "logoURI": "https://i.ibb.co/GfRrxSj3/Speed-Logo.jpg",
+        "assetGroup": "SuperSonicSpeedDemon::SPEED",
+        "currencyId": "SuperSonicSpeedDemon::SPEED"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SuperSonicSpeedDemon",
+      "domainSeparator": "0x6b73aaf428cf9afe26b0d99af36f17233ff32007fcc09305369521da61fa4554",
+      "status": "supported"
+    },
+    "0xb97af8cbd08d182cc118439ff5d4b547ec16258c": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Wrapped Avalon Avalon USDA",
+        "address": "0xb97af8cbd08d182cc118439ff5d4b547ec16258c",
+        "symbol": "waSonicUSDA",
+        "assetGroup": "Wrapped Avalon Avalon USDA::waSonicUSDA",
+        "currencyId": "Wrapped Avalon Avalon USDA::waSonicUSDA"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Wrapped Avalon Avalon USDA",
+      "domainSeparator": "0xc217414ed39b64ca1bdf54592d3f6fae6b82610263edd5711188ac2b4f97e504",
+      "status": "supported"
+    },
+    "0x1bf08b4f49e6aeaa0a59c241d74fe1ddb8327693": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Wrapped Avalon Avalon SUSDA",
+        "address": "0x1bf08b4f49e6aeaa0a59c241d74fe1ddb8327693",
+        "symbol": "waSonicSUSDA",
+        "assetGroup": "Wrapped Avalon Avalon SUSDA::waSonicSUSDA",
+        "currencyId": "Wrapped Avalon Avalon SUSDA::waSonicSUSDA"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Wrapped Avalon Avalon SUSDA",
+      "domainSeparator": "0xf8f6317cac92da636efa42aedf6c20483f40bfff904b60c607371dfc044d3807",
+      "status": "supported"
+    },
+    "0x6646248971427b80ce531bdd793e2eb859347e55": {
+      "token": {
+        "chainId": "146",
+        "decimals": 6,
+        "name": "Wrapped Aave Sonic USDC",
+        "address": "0x6646248971427b80ce531bdd793e2eb859347e55",
+        "symbol": "waUSDC",
+        "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xd4fa2d31b7968e448877f69a96de69f5de8cd23e.png",
+        "assetGroup": "Wrapped Aave Sonic USDC::waUSDC",
+        "currencyId": "Wrapped Aave Sonic USDC::waUSDC"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Wrapped Aave Sonic USDC",
+      "domainSeparator": "0x495e2e270ff3ddbd11a99fae127b1dd19e390dd3320bd54b3f06bd9b7c7ed1a0",
+      "status": "supported"
+    },
+    "0x18b7b8695165290f2767bc63c36d3dfea4c0f9bb": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Wrapped Aave Sonic wS",
+        "address": "0x18b7b8695165290f2767bc63c36d3dfea4c0f9bb",
+        "symbol": "waSonwS",
+        "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/a-wS.png",
+        "assetGroup": "Wrapped Aave Sonic wS::waSonwS",
+        "currencyId": "Wrapped Aave Sonic wS::waSonwS"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Wrapped Aave Sonic wS",
+      "domainSeparator": "0x83fad80c99f5172ee07ece2a72c27e05355b8c5346730ad231bca8a8fc1db271",
+      "status": "supported"
+    },
+    "0xeb5e9b0ae5bb60274786c747a1a2a798c11271e0": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Wrapped Aave Sonic WETH",
+        "address": "0xeb5e9b0ae5bb60274786c747a1a2a798c11271e0",
+        "symbol": "waSonWETH",
+        "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x0bfc9d54fc184518a81162f8fb99c2eaca081202.png",
+        "assetGroup": "Wrapped Aave Sonic WETH::waSonWETH",
+        "currencyId": "Wrapped Aave Sonic WETH::waSonWETH"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Wrapped Aave Sonic WETH",
+      "domainSeparator": "0xcdc51fafb378a41c2404b5fbe6b8750be3e53850d8ef82741faf902c27998392",
+      "status": "supported"
+    },
+    "0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Wrapped stkscETH",
+        "address": "0xe8a41c62bb4d5863c6eadc96792cfe90a1f37c47",
+        "symbol": "wstkscETH",
+        "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wstkscETH.png",
+        "assetGroup": "Wrapped stkscETH::wstkscETH",
+        "currencyId": "Wrapped stkscETH::wstkscETH"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Wrapped stkscETH",
+      "domainSeparator": "0x7fb19d82c8205bbd7c33a9e810fe5ecabade988fca01e093fe29236424234359",
+      "status": "supported"
+    },
+    "0x9fb76f7ce5fceaa2c42887ff441d46095e494206": {
+      "token": {
+        "chainId": "146",
+        "decimals": 6,
+        "name": "Wrapped stkscUSD",
+        "address": "0x9fb76f7ce5fceaa2c42887ff441d46095e494206",
+        "symbol": "wstkscUSD",
+        "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wstkscusd.png",
+        "assetGroup": "Wrapped stkscUSD::wstkscUSD",
+        "currencyId": "Wrapped stkscUSD::wstkscUSD"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Wrapped stkscUSD",
+      "domainSeparator": "0xb98d155e416fccf3e8291649389f63718a4f15226bb875bc6b08a4d271d6c86c",
+      "status": "supported"
+    },
+    "0xfd28f108e95f4d41daae9dbfff707d677985998e": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Parallel Governance Token",
+        "address": "0xfd28f108e95f4d41daae9dbfff707d677985998e",
+        "symbol": "PRL",
+        "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xfd28f108e95f4d41daae9dbfff707d677985998e.png",
+        "assetGroup": "Parallel Governance Token::PRL",
+        "currencyId": "Parallel Governance Token::PRL"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Parallel Governance Token",
+      "domainSeparator": "0x74ea3a77ecd40fc5b44a00bcca1483f76e088f7e3148d9972c5d15c21f60504d",
+      "status": "supported"
+    },
+    "0xf6f87073cf8929c206a77b0694619dc776f89885": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Varlamore USDC Growth",
+        "address": "0xf6f87073cf8929c206a77b0694619dc776f89885",
+        "symbol": "vgUSDC",
+        "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/USDC-varlamore-boosted.png",
+        "assetGroup": "Varlamore USDC Growth::vgUSDC",
+        "currencyId": "Varlamore USDC Growth::vgUSDC"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Varlamore USDC Growth",
+      "domainSeparator": "0xfcda98966b76c549d95eee1eee69c58eeae3245b428436a4a905af79df94c1b6",
+      "status": "supported"
+    },
+    "0xded4ac8645619334186f28b8798e07ca354cfa0e": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Varlamore S",
+        "address": "0xded4ac8645619334186f28b8798e07ca354cfa0e",
+        "symbol": "vS",
+        "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/wS-varlamore-boosted.png",
+        "assetGroup": "Varlamore S::vS",
+        "currencyId": "Varlamore S::vS"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Varlamore S",
+      "domainSeparator": "0xd5438176e439e3b87f64b5a7ff686fcfae7795425fb4eae190d9cd04ed00c866",
+      "status": "supported"
+    },
+    "0xb6a23cb29e512df41876b28d7a848bd831f9c5ba": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Varlamore scUSD",
+        "address": "0xb6a23cb29e512df41876b28d7a848bd831f9c5ba",
+        "symbol": "vscUSD",
+        "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-varlamore-boosted.png",
+        "assetGroup": "Varlamore scUSD::vscUSD",
+        "currencyId": "Varlamore scUSD::vscUSD"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Varlamore scUSD",
+      "domainSeparator": "0x261855c3e3538bedd1dfc697063ed2bf88a89dc3b2384fc378dd01651e045409",
+      "status": "supported"
+    },
+    "0x0e346e34165c831018f98414caf2689d0d3aa3e6": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Rush",
+        "address": "0x0e346e34165c831018f98414caf2689d0d3aa3e6",
+        "symbol": "RUSH",
+        "logoURI": "https://assets.coingecko.com/coins/images/66176/thumb/1000004712.png?1748586905",
+        "assetGroup": "Rush::RUSH",
+        "currencyId": "Rush::RUSH"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Rush",
+      "domainSeparator": "0x50727f33ab1c1cc3be273757147f11e1eab81f79db22b9fa8373afce60710f0e",
+      "status": "supported"
+    },
+    "0x6c9b3a74ae4779da5ca999371ee8950e8db3407f": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Fly",
+        "address": "0x6c9b3a74ae4779da5ca999371ee8950e8db3407f",
+        "symbol": "FLY",
+        "logoURI": "https://assets.coingecko.com/coins/images/66394/thumb/fly.jpg?1749286672",
+        "assetGroup": "FLY",
+        "currencyId": "Fly::FLY"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "fly.trade",
+      "domainSeparator": "0x25b2732404807e78d5f6e97f84252040b16829a112a865eac8541738e3e124d9",
+      "status": "supported"
+    },
+    "0x7a0c53f7eb34c5bc8b01691723669ada9d6cb384": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "SpookyToken V",
+        "address": "0x7a0c53f7eb34c5bc8b01691723669ada9d6cb384",
+        "symbol": "BOO",
+        "logoURI": "https://tokens.debridge.finance/Logo/100000014/0x7a0c53f7eb34c5bc8b01691723669ada9d6cb384/small/token-logo.png",
+        "assetGroup": "SpookyToken V::BOO",
+        "currencyId": "SpookyToken V::BOO"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SpookyToken V2",
+      "domainSeparator": "0x5273ff22b6c851b1dd49c612eac0b4a515624d7999f35417984e4fb51a2066c4",
+      "status": "supported"
+    },
+    "0x6ba47940f738175d3f8c22aa8ee8606eaae45eb2": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "SupraFi Staked Sonic",
+        "address": "0x6ba47940f738175d3f8c22aa8ee8606eaae45eb2",
+        "symbol": "sS",
+        "logoURI": "https://static.debank.com/image/sonic_token/logo_url/0x6ba47940f738175d3f8c22aa8ee8606eaae45eb2/ff87efacbb9a3d3cfae7094856de52eb.png",
+        "assetGroup": "SupraFi Staked Sonic::sS",
+        "currencyId": "SupraFi Staked Sonic::sS"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "SupraFi Staked Sonic",
+      "domainSeparator": "0x37eededc16ccb9e5c2160423237c8f19bd37c007608db699c2338816339674cf",
+      "status": "supported"
+    },
+    "0x6c5e14a212c1c3e4baf6f871ac9b1a969918c131": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Aave Sonic wS",
+        "address": "0x6c5e14a212c1c3e4baf6f871ac9b1a969918c131",
+        "symbol": "aSonwS",
+        "assetGroup": "Aave Sonic wS::aSonwS",
+        "currencyId": "Aave Sonic wS::aSonwS"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Aave Sonic wS",
+      "domainSeparator": "0x92a9829b15885e4aca25229f0f273bdf5a30c17473bc4f5122802b8d8258e4b8",
+      "status": "supported"
+    },
+    "0xe18ab82c81e7eecff32b8a82b1b7d2d23f1ece96": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Aave Sonic WETH",
+        "address": "0xe18ab82c81e7eecff32b8a82b1b7d2d23f1ece96",
+        "symbol": "aSonWETH",
+        "assetGroup": "Aave Sonic WETH::aSonWETH",
+        "currencyId": "Aave Sonic WETH::aSonWETH"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Aave Sonic WETH",
+      "domainSeparator": "0xf3ecd00044e450d8c24544a4ca7b52e1865801212ad26d1c51af82325a5d73b3",
+      "status": "supported"
+    },
+    "0xeaa74d7f42267eb907092af4bc700f667eed0b8b": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Aave Sonic stS",
+        "address": "0xeaa74d7f42267eb907092af4bc700f667eed0b8b",
+        "symbol": "aSonstS",
+        "assetGroup": "Aave Sonic stS::aSonstS",
+        "currencyId": "Aave Sonic stS::aSonstS"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Aave Sonic stS",
+      "domainSeparator": "0x3ca20e75562b99b9d7da117802508e83423ab60085d05f3b54de8d08aab95289",
+      "status": "supported"
+    },
+    "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189": {
+      "token": {
+        "chainId": "146",
+        "decimals": 6,
+        "name": "OpenUSDT",
+        "address": "0x1217bfe6c773eec6cc4a38b5dc45b92292b6e189",
+        "symbol": "oUSDT",
+        "assetGroup": "OpenUSDT::oUSDT",
+        "currencyId": "OpenUSDT::oUSDT"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "OpenUSDT",
+      "domainSeparator": "0x76dc02537e7f4c8d34655a5dcc4f7495c1e4d485695f830f1fc9bc6fe77ab11d",
+      "status": "supported"
+    },
+    "0x9a1bf5365edbb99c2c61ca6d9ffad0b705acfc6f": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Varlamore dUSD Vault",
+        "address": "0x9a1bf5365edbb99c2c61ca6d9ffad0b705acfc6f",
+        "symbol": "vdUSD",
+        "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/dUSD-varlamore-boosted.png",
+        "assetGroup": "Varlamore dUSD Vault::vdUSD",
+        "currencyId": "Varlamore dUSD Vault::vdUSD"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Varlamore dUSD Vault",
+      "domainSeparator": "0x0c38445ee4ff72330922057fda714a0deba75362ee9e921a97808972cc9f6e96",
+      "status": "supported"
+    },
+    "0x592d1e187729c76efacc6dffb9355bd7bf47b2a7": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Re7 scUSD",
+        "address": "0x592d1e187729c76efacc6dffb9355bd7bf47b2a7",
+        "symbol": "Re7scUSD",
+        "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-re7-boosted.png",
+        "assetGroup": "Re7 scUSD::Re7scUSD",
+        "currencyId": "Re7 scUSD::Re7scUSD"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Re7 scUSD",
+      "domainSeparator": "0x5b8f20a44f297314f3ff5b353721a8f9c916943fee1fa95dbb0bfbeedb76fe4d",
+      "status": "supported"
+    },
+    "0x08417cdb7f52a5021bb4eb6e0deaf3f295c3f182": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "USDp",
+        "address": "0x08417cdb7f52a5021bb4eb6e0deaf3f295c3f182",
+        "symbol": "USDp",
+        "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/USDp/USDp.svg",
+        "assetGroup": "USDp::USDp",
+        "currencyId": "USDp::USDp"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "USDp",
+      "domainSeparator": "0x01176786ca4e16f48de32b38939d684c62d87f7b6484fb5e8f2eb9890deac5d6",
+      "status": "supported"
+    },
+    "0x4cae73a23078e7a94d1e828fa3baba5080c04fca": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Amped Finance",
+        "address": "0x4cae73a23078e7a94d1e828fa3baba5080c04fca",
+        "symbol": "AMP",
+        "logoURI": "https://assets.coingecko.com/coins/images/37421/thumb/AmpedLogoTrans-200.png?1714377313",
+        "assetGroup": "Amped Finance::AMP",
+        "currencyId": "Amped Finance::AMP"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Amped Finance",
+      "domainSeparator": "0x8387a78ff38812d8f55b2d1fca2f5b64d4c852f4770c7710db912d21accdaea5",
+      "status": "supported"
+    },
+    "0xb4818bb69478730ef4e33cc068dd94278e2766cb": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Satoshi Stablecoin",
+        "address": "0xb4818bb69478730ef4e33cc068dd94278e2766cb",
+        "symbol": "SATUSD",
+        "logoURI": "https://assets.coingecko.com/coins/images/37760/thumb/Instagram_post_-_25.png?1715475306",
+        "assetGroup": "Satoshi Stablecoin::SATUSD",
+        "currencyId": "Satoshi Stablecoin::SATUSD"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Satoshi Stablecoin V2",
+      "domainSeparator": "0xad250a4b641480696d7838a8ee319d4a094bb03f636e5cf3d40920a267f1a38e",
+      "status": "supported"
+    },
+    "0x3a7ba84bbe869ed318e654dd9b6ff3cf6d531e91": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Principal Token: sw-wstkscETH-1751241605",
+        "address": "0x3a7ba84bbe869ed318e654dd9b6ff3cf6d531e91",
+        "symbol": "PT-sw-wstkscETH-1751241605",
+        "assetGroup": "Principal Token: sw-wstkscETH-1751241605::PT-sw-wstkscETH-1751241605",
+        "currencyId": "Principal Token: sw-wstkscETH-1751241605::PT-sw-wstkscETH-1751241605"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Principal Token: sw-wstkscETH-1751241605",
+      "domainSeparator": "0xbadbf5e380346e9fc893ce92fe052a393eb6b2683a0d7fd2564e4f2f142b1255",
+      "status": "supported"
+    },
+    "0x7002383d2305b8f3b2b7786f50c13d132a22076d": {
+      "token": {
+        "chainId": "146",
+        "decimals": 6,
+        "name": "Principal Token: sw-wstkscUSD-1751241607",
+        "address": "0x7002383d2305b8f3b2b7786f50c13d132a22076d",
+        "symbol": "PT-sw-wstkscUSD-1751241607",
+        "assetGroup": "Principal Token: sw-wstkscUSD-1751241607::PT-sw-wstkscUSD-1751241607",
+        "currencyId": "Principal Token: sw-wstkscUSD-1751241607::PT-sw-wstkscUSD-1751241607"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Principal Token: sw-wstkscUSD-1751241607",
+      "domainSeparator": "0x137ce7e8320bd78165d8de7e84cbf050df3acd3cedc3489b9a82d7dd520b2eb8",
+      "status": "supported"
+    },
+    "0x92ebf5a1fb4061b45222a6d76accf4698bde4b95": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Gami Capital scUSD",
+        "address": "0x92ebf5a1fb4061b45222a6d76accf4698bde4b95",
+        "symbol": "Gami_scUSD",
+        "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-silo.svg",
+        "assetGroup": "Gami Capital scUSD::Gami_scUSD",
+        "currencyId": "Gami Capital scUSD::Gami_scUSD"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Gami Capital scUSD",
+      "domainSeparator": "0xdab50511ff90865663070221c309f632f0c83510534e584298ace50677036691",
+      "status": "supported"
+    },
+    "0x4d85ba8c3918359c78ed09581e5bc7578ba932ba": {
+      "token": {
+        "chainId": "146",
+        "decimals": 6,
+        "name": "Staked Sonic USD",
+        "address": "0x4d85ba8c3918359c78ed09581e5bc7578ba932ba",
+        "symbol": "stkscUSD",
+        "assetGroup": "Staked Sonic USD::stkscUSD",
+        "currencyId": "Staked Sonic USD::stkscUSD"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Staked Sonic USD",
+      "domainSeparator": "0x722014c3fefb1ebc72f2d874d55138ef01589a41775eb5438f5497055af030e7",
+      "status": "supported"
+    },
+    "0x455d5f11fea33a8fa9d3e285930b478b6bf85265": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Staked Sonic ETH",
+        "address": "0x455d5f11fea33a8fa9d3e285930b478b6bf85265",
+        "symbol": "stkscETH",
+        "assetGroup": "Staked Sonic ETH::stkscETH",
+        "currencyId": "Staked Sonic ETH::stkscETH"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Staked Sonic ETH",
+      "domainSeparator": "0x01a8b4bd6c08614ee67dacaa5a18078fd19d529ec726e05e279a865b521eaac7",
+      "status": "supported"
+    },
+    "0xd0851030c94433c261b405fecbf1dec5e15948d0": {
+      "token": {
+        "chainId": "146",
+        "decimals": 8,
+        "name": "Staked Sonic BTC",
+        "address": "0xd0851030c94433c261b405fecbf1dec5e15948d0",
+        "symbol": "stkscBTC",
+        "assetGroup": "Staked Sonic BTC::stkscBTC",
+        "currencyId": "Staked Sonic BTC::stkscBTC"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Staked Sonic BTC",
+      "domainSeparator": "0xd7f8757774d51c613cfae1717d6936173f19bf614c7f9c8f322c650da53ecb92",
+      "status": "supported"
+    },
+    "0xf6bc16b79c469b94cdd25f3e2334dd4fee47a581": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Greenhouse USDC",
+        "address": "0xf6bc16b79c469b94cdd25f3e2334dd4fee47a581",
+        "symbol": "ghUSDC",
+        "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De.png",
+        "assetGroup": "Greenhouse USDC::ghUSDC",
+        "currencyId": "Greenhouse USDC::ghUSDC"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Greenhouse USDC",
+      "domainSeparator": "0xafa9fa0043f363582b1f2894cd9ba1dfc8a290652f475abf7e34073ed040155f",
+      "status": "supported"
+    },
+    "0x7c050be1dded733bd44116b60a8a35125ba47459": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "rsETHWrapper",
+        "address": "0x7c050be1dded733bd44116b60a8a35125ba47459",
+        "symbol": "wrsETH",
+        "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x87eee96d50fb761ad85b1c982d28a042169d61b1.png",
+        "assetGroup": "rsETHWrapper::wrsETH",
+        "currencyId": "rsETHWrapper::wrsETH"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "rsETHWrapper",
+      "domainSeparator": "0xc8e8dd79e0ac98570ea7522652f08d115c3fa9a1a6a503ba20577f7ec5095c4b",
+      "status": "supported"
+    },
+    "0x4871c910877c4e89f72ec355ff709b2543c00375": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "ONE Stablecoin",
+        "address": "0x4871c910877c4e89f72ec355ff709b2543c00375",
+        "symbol": "ONE",
+        "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/ONE.png",
+        "assetGroup": "ONE Stablecoin::ONE",
+        "currencyId": "ONE Stablecoin::ONE"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "ONE Stablecoin",
+      "domainSeparator": "0x8ff3c8264883f4302a0eaf3a8620726302c8a1b89285483a0471bff2d7a450e2",
+      "status": "supported"
+    },
+    "0x391b3f70e254d582588b27e97e48d1cfcdf0be7e": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Trevee Silo scUSD",
+        "address": "0x391b3f70e254d582588b27e97e48d1cfcdf0be7e",
+        "symbol": "Trevee scUSD",
+        "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/scUSD-trevee-boosted.png",
+        "assetGroup": "Trevee Silo scUSD::Trevee scUSD",
+        "currencyId": "Trevee Silo scUSD::Trevee scUSD"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Mithras",
+      "domainSeparator": "0x422ac5d58950df0323ef09242c09d5870eaaf843ad7e58d32ef2e7bad378c8c2",
+      "status": "supported"
+    },
+    "0x8ed344e89527c6ce382fd1e23b4d6d4c2865b6a9": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "ONE Stablecoin",
+        "address": "0x8ed344e89527c6ce382fd1e23b4d6d4c2865b6a9",
+        "symbol": "ONE",
+        "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/ONE.png",
+        "assetGroup": "ONE Stablecoin::ONE::146::0",
+        "currencyId": "ONE Stablecoin::ONE"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "ONE Stablecoin",
+      "domainSeparator": "0xd4fac012b4ac9b6704d95fd4efceae93da1378b527c8388863b1137bc50b27d1",
+      "status": "supported"
+    },
+    "0xe90fe2de4a415ad48b6dcec08ba6ae98231948ac": {
+      "token": {
+        "chainId": "146",
+        "decimals": 18,
+        "name": "Trevee Token",
+        "address": "0xe90fe2de4a415ad48b6dcec08ba6ae98231948ac",
+        "symbol": "TREVEE",
+        "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/trevee.png",
+        "assetGroup": "Trevee Token::TREVEE",
+        "currencyId": "Trevee Token::TREVEE"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Trevee Token",
+      "domainSeparator": "0xe79aa4ffc735e6c63d0e008f474de4d703c25e7fce91bb3e5facf203b482b45a",
+      "status": "supported"
+    }
+  },
+  "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
+    "0x29219dd400f2bf60e5a23d13be72b486d4038894",
+    "0x50c42deacd8fc9773493ed674b675be577f2634b",
+    "0xbf5899166ac476370b3117c9256b7fc45624f4ea",
+    "0x3333111a391cc08fa51353e9195526a70b333333",
+    "0xbc0d0650412ef353d672c0bbd12efff90591b251",
+    "0x59524d5667b299c0813ba3c99a11c038a3908fbc",
+    "0x8ad39144b37741573f85aa03d6c3e817a0054161",
+    "0x71e99522ead5e21cf57f1f542dc4ad2e841f7321",
+    "0xf26ff70573ddc8a90bd7865af8d7d70b8ff019bc",
+    "0x78a76316f66224cbaca6e70acb24d5ee5b2bd2c7",
+    "0x446649f0727621bdbb76644b1910be2163b62a11",
+    "0x79bbf4508b1391af3a0f4b30bb5fc4aa9ab0e07c",
+    "0x63a522f6e7d5b96f7aebb74d2648545e9e14078d",
+    "0x7f883da3b0d77978075f7c9c03e1b9f461ca1b8d",
+    "0x9fdbc3f8abc05fa8f3ad3c17d2f806c1230c4564",
+    "0x3333b97138d4b086720b5ae8a7844b1345a33333",
+    "0x2d0e0814e62d80056181f5cd932274405966e4f0",
+    "0x6881b80ea7c858e4aeef63893e18a8a36f3682f3",
+    "0xb1e25689d55734fd3fffc939c4c3eb52dff8a794",
+    "0x131f5ae1cbfefe8efbdf93da23fa4d39f14a817c",
+    "0x41211648c51acb9a5f39a93c657e894a0bdb88e4",
+    "0xa04bc7140c26fc9bb1f36b1a604c7a5a88fb0e70",
+    "0x005851f943ee2957b1748957f26319e4f9edebc1",
+    "0x674a430f531847a6f8976a900f8ace765f896a1b",
+    "0xc0da8629599b364eb0a8921a477fb80440a68bd4",
+    "0x89f0462e56930cfea4a481c1b9a0d26fa8bd94e6",
+    "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
+    "0xcc0966d8418d412c599a6421b760a847eb169a8c",
+    "0x578ee1ca3a8e1b54554da1bf7c583506c4cd11c6",
+    "0xd31e89ffb929b38ba60d1c7dbeb68c7712eaab0a",
+    "0xd43b5d6899635e514a00b475eea04c364979e076",
+    "0xa28d4dbcc90c849e3249d642f356d85296a12954",
+    "0x87178fe8698c7eda8aa207083c3d66aea569ab98",
+    "0x52fc9e0a68b6a4c9b57b9d1d99fb71449a99dcd8",
+    "0x7870ddfd5aca4e977b2287e9a212bcbe8fc4135a",
+    "0x6047828dc181963ba44974801ff68e538da5eaf9",
+    "0x5954ce6671d97d24b782920ddcdbb4b1e63ab2de",
+    "0x0555e30da8f98308edb960aa94c0db47230d2b9c",
+    "0x6646248971427b80ce531bdd793e2eb859347e55",
+    "0x42ce2234fd5a26bf161477a996961c4d01f466a3",
+    "0x039e2fb66102314ce7b64ce5ce3e5183bc94ad38"
+  ]
+}

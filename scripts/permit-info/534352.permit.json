@@ -1,0 +1,655 @@
+{
+  "chainId": "534352",
+  "version": "0",
+  "list": {
+    "0x5300000000000000000000000000000000000004": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 18,
+        "name": "Wrapped Ether",
+        "address": "0x5300000000000000000000000000000000000004",
+        "symbol": "WETH",
+        "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+        "assetGroup": "ETH",
+        "currencyId": "Wrapped Ether::WETH",
+        "props": {
+          "wnative": true
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Wrapped Ether",
+      "domainSeparator": "0xe5b117a3cd7ae7ed3508e6e6c5a0794536b2a8dee12533c4d7524eae9c85438f",
+      "status": "supported"
+    },
+    "0xf55bec9cafdbe8730f096aa55dad6d22d44099df": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 6,
+        "name": "Tether USD",
+        "address": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
+        "symbol": "USDT",
+        "logoURI": "https://assets.coingecko.com/coins/images/32610/thumb/usdt_%281%29.png?1698733524",
+        "assetGroup": "USDT",
+        "currencyId": "Tether USD::USDT"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Tether USD",
+      "domainSeparator": "0xb5de504566fa1a09c0ac9ead22467551637907ddacea014cac59263810cc028c",
+      "status": "supported"
+    },
+    "0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 8,
+        "name": "Wrapped BTC",
+        "address": "0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1",
+        "symbol": "WBTC",
+        "logoURI": "https://raw.githubusercontent.com/merchant-moe/moe-tokenlists/main/logos/0xCAbAE6f6Ea1ecaB08Ad02fE02ce9A44F09aebfA2/logo.png",
+        "assetGroup": "WBTC",
+        "currencyId": "Wrapped BTC::WBTC"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Wrapped BTC",
+      "domainSeparator": "0x56eb7914f157e3bf724c1708ea2026e0f1617cf0f2966c39e042325412b82fe1",
+      "status": "supported"
+    },
+    "0xca77eb3fefe3725dc33bccb54edefc3d9f764f97": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 18,
+        "name": "Dai Stablecoin",
+        "address": "0xca77eb3fefe3725dc33bccb54edefc3d9f764f97",
+        "symbol": "DAI",
+        "logoURI": "https://scrollscan.com/token/images/daistablecoin_32.png",
+        "assetGroup": "DAI",
+        "currencyId": "Dai Stablecoin::DAI"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Dai Stablecoin",
+      "domainSeparator": "0xc1b516817ec775079ce6152f2606223dcb5a3fe6a66693b8f9ca275aa1355a86",
+      "status": "supported"
+    },
+    "0xf610a9dfb7c89644979b4a0f27063e9e7d7cda32": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 18,
+        "name": "Wrapped liquid staked Ether 2.0",
+        "address": "0xf610a9dfb7c89644979b4a0f27063e9e7d7cda32",
+        "symbol": "wstETH",
+        "logoURI": "https://assets.coingecko.com/coins/images/32615/thumb/wsteth.png?1698735772",
+        "assetGroup": "WSTETH",
+        "currencyId": "Wrapped liquid staked Ether 2.0::wstETH"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "domainSeparator": "0x7ea5e6f23fd742b512a890cc64bcc4f1a466bacce8c83108554b76ceec5f6ca8",
+      "status": "supported"
+    },
+    "0x690f1d2da47d9a759a93dd2b0ace3c1627f216ba": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 18,
+        "name": "Venium",
+        "address": "0x690f1d2da47d9a759a93dd2b0ace3c1627f216ba",
+        "symbol": "VENIUM",
+        "logoURI": "https://assets.coingecko.com/coins/images/36346/thumb/scrolliumlogo.png?1711187400",
+        "assetGroup": "Venium::VENIUM",
+        "currencyId": "Venium::VENIUM"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Venium",
+      "domainSeparator": "0xe67a9cc93904cf8855bee203d13f247567358f0ecb09b5c110e202f1272c95a3",
+      "status": "supported"
+    },
+    "0xd29687c813d741e2f938f4ac377128810e217b1b": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 18,
+        "name": "Scroll",
+        "address": "0xd29687c813d741e2f938f4ac377128810e217b1b",
+        "symbol": "SCR",
+        "logoURI": "https://assets.coingecko.com/coins/images/50571/thumb/scroll.jpg?1728376125",
+        "assetGroup": "Scroll::SCR",
+        "currencyId": "Scroll::SCR"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Scroll",
+      "domainSeparator": "0xaaa99f2fe8f6b9e713f17b0b265efd679f70ab88af9d223f665920c29518dad6",
+      "status": "supported"
+    },
+    "0x2fc5cf65fd0a660801f119832b2158756968266d": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 18,
+        "name": "Chi USD",
+        "address": "0x2fc5cf65fd0a660801f119832b2158756968266d",
+        "symbol": "CHI",
+        "logoURI": "https://assets.coingecko.com/coins/images/37906/thumb/CHI_PNG200x200.png?1715932591",
+        "assetGroup": "Chi USD::CHI",
+        "currencyId": "Chi USD::CHI"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Chi USD",
+      "domainSeparator": "0x01e6207e1bd7d92ced73270d9724dac74eba12b6e8cfafe028d3dc6d922e07d4",
+      "status": "supported"
+    },
+    "0xecc68d0451e20292406967fe7c04280e5238ac7d": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 18,
+        "name": "Frax Ether",
+        "address": "0xecc68d0451e20292406967fe7c04280e5238ac7d",
+        "symbol": "frxETH",
+        "logoURI": "https://assets.coingecko.com/coins/images/38976/thumb/Screen_Shot_2024-06-18_at_12.55.54_PM_2.png?1719714886",
+        "assetGroup": "FRXETH",
+        "currencyId": "Frax Ether::frxETH"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Frax Ether",
+      "domainSeparator": "0x321d4a30d8cbe972e016237daa9accf0eca3a9944663e0cd26c03fe799e97ede",
+      "status": "supported"
+    },
+    "0xaaae8378809bb8815c08d3c59eb0c7d1529ad769": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 18,
+        "name": "Nuri Exchange",
+        "address": "0xaaae8378809bb8815c08d3c59eb0c7d1529ad769",
+        "symbol": "NURI",
+        "logoURI": "https://assets.coingecko.com/coins/images/38831/thumb/nuri_discord.png?1723623524",
+        "assetGroup": "Nuri Exchange::NURI",
+        "currencyId": "Nuri Exchange::NURI"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "NURI Token",
+      "domainSeparator": "0x4af7d58acfc2cc22cea9091f90d963674419556261d38a2e6e04778e3f5af13a",
+      "status": "supported"
+    },
+    "0xeb466342c4d449bc9f53a865d5cb90586f405215": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 6,
+        "name": "Bridged USDC (Axelar)",
+        "address": "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+        "symbol": "axlUSDC",
+        "logoURI": "https://assets.coingecko.com/coins/images/32612/thumb/USDC.png?1698734090",
+        "assetGroup": "USDC",
+        "currencyId": "Bridged USDC (Axelar)::axlUSDC"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Axelar Wrapped USDC",
+      "domainSeparator": "0x3072b9af6e6a5581bbf33ea17c779f30884e8f49f077fe977328d8fb336751e2",
+      "status": "supported"
+    },
+    "0x78ab77f7d590fb101aa18affc238cbfea31ead5b": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 18,
+        "name": "Impermax",
+        "address": "0x78ab77f7d590fb101aa18affc238cbfea31ead5b",
+        "symbol": "IBEX",
+        "logoURI": "https://assets.coingecko.com/coins/images/27606/thumb/IqwOmX-c_400x400.jpeg?1696526637",
+        "assetGroup": "Impermax::IBEX",
+        "currencyId": "Impermax::IBEX"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Impermax",
+      "domainSeparator": "0x5a1d7bc8f2f7336e78c43f02c9b574a3f1481baf5499e2748d39f72fd887b3ca",
+      "status": "supported"
+    },
+    "0xa25b25548b4c98b0c7d3d27dca5d5ca743d68b7f": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 18,
+        "name": "Wrapped rsETH",
+        "address": "0xa25b25548b4c98b0c7d3d27dca5d5ca743d68b7f",
+        "symbol": "wrsETH",
+        "logoURI": "https://assets.coingecko.com/coins/images/37919/thumb/rseth.png?1715936438",
+        "assetGroup": "RSETH",
+        "currencyId": "Wrapped rsETH::wrsETH"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "rsETHWrapper",
+      "domainSeparator": "0x069a4ca09d9551d5669c86d504cf7b3a188a2d34cf4446a0ccb21b3eba600ee8",
+      "status": "supported"
+    },
+    "0x0018d96c579121a94307249d47f053e2d687b5e7": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 18,
+        "name": "Metavault Trade",
+        "address": "0x0018d96c579121a94307249d47f053e2d687b5e7",
+        "symbol": "MVX",
+        "logoURI": "https://assets.coingecko.com/coins/images/25402/thumb/mvx.png?1696524534",
+        "assetGroup": "Metavault Trade::MVX",
+        "currencyId": "Metavault Trade::MVX"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Metavault Trade",
+      "domainSeparator": "0xeaada6bd498045b0e63aa2cb137c21b058f085f9a6ebc2f7cddd1eb8f7dc6964",
+      "status": "supported"
+    },
+    "0x1467b62a6ae5cdcb10a6a8173cfe187dd2c5a136": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 18,
+        "name": "Symbiosis Finance",
+        "address": "0x1467b62a6ae5cdcb10a6a8173cfe187dd2c5a136",
+        "symbol": "SIS",
+        "logoURI": "https://assets.coingecko.com/coins/images/20805/thumb/SymbiosisFinance_logo-150x150.jpeg?1696520198",
+        "assetGroup": "SIS",
+        "currencyId": "Symbiosis Finance::SIS"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Symbiosis",
+      "domainSeparator": "0x09527cb11917f4752fb398344b3b02a9f09c455c29b45f55728ecd2afaa87c34",
+      "status": "supported"
+    },
+    "0xb0643f7b3e2e2f10fe4e38728a763ec05f4adec3": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 18,
+        "name": "Pencils Protocol",
+        "address": "0xb0643f7b3e2e2f10fe4e38728a763ec05f4adec3",
+        "symbol": "DAPP",
+        "logoURI": "https://assets.coingecko.com/coins/images/36569/thumb/Pencils_Protocol_Profile_Pic.png?1722658792",
+        "assetGroup": "Pencils Protocol::DAPP",
+        "currencyId": "Pencils Protocol::DAPP"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Pencils Protocol Token",
+      "domainSeparator": "0xbff6cccb341950d03dc968cf686125c181f4ee0f84bdc432f0c70c026d26ac6d",
+      "status": "supported"
+    },
+    "0x406cde76a3fd20e48bc1e0f60651e60ae204b040": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 18,
+        "name": "Bridged FRAX",
+        "address": "0x406cde76a3fd20e48bc1e0f60651e60ae204b040",
+        "symbol": "FRAX",
+        "logoURI": "https://assets.coingecko.com/coins/images/53060/thumb/frax.jpg?1735171829",
+        "assetGroup": "FRAX",
+        "currencyId": "Bridged FRAX::FRAX"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Axelar Wrapped FRAX",
+      "domainSeparator": "0x7567e2a604973c9d37b76bef5b8e17da3a751a8149a0bf88c4b9d7008e2d67fa",
+      "status": "supported"
+    },
+    "0x99f775945e46da5d443246fad7bc317993ee1b1a": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 18,
+        "name": "Aryze s Digital Gold",
+        "address": "0x99f775945e46da5d443246fad7bc317993ee1b1a",
+        "symbol": "EGOLD",
+        "logoURI": "https://assets.coingecko.com/coins/images/50815/thumb/eGOLD.png?1729238938",
+        "assetGroup": "Aryze s Digital Gold::EGOLD",
+        "currencyId": "Aryze s Digital Gold::EGOLD"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "ARYZE eGold",
+      "domainSeparator": "0x56fae66a4ebb96284b2aa021a7b23e09ce01e68bc0cb3b6ad76de0c27e1f0760",
+      "status": "supported"
+    },
+    "0xd7bb130a48595fcdf9480e36c1ae97ff2938ac21": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 18,
+        "name": "Monerium EUR emoney",
+        "address": "0xd7bb130a48595fcdf9480e36c1ae97ff2938ac21",
+        "symbol": "EURE",
+        "logoURI": "https://assets.coingecko.com/coins/images/54303/thumb/eure.jpg?1739167959",
+        "assetGroup": "Monerium EUR emoney::EURE",
+        "currencyId": "Monerium EUR emoney::EURE"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Monerium EURe",
+      "domainSeparator": "0x6deb4bb1579365733acb022943ebdca0168ce0420909acd8de57a215f10be249",
+      "status": "supported"
+    },
+    "0xf9af83fc41e0cc2af2fba93644d542df6ea0f2b7": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 18,
+        "name": "PoolTogether",
+        "address": "0xf9af83fc41e0cc2af2fba93644d542df6ea0f2b7",
+        "symbol": "POOL",
+        "logoURI": "https://assets.coingecko.com/coins/images/14003/thumb/PoolTogether.png?1696513732",
+        "assetGroup": "POOL",
+        "currencyId": "PoolTogether::POOL"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "PoolTogether",
+      "domainSeparator": "0x9dddc5f9cb0353c31ab3726a88ca8b066dc729f76cfb08ea9dec3df83615cc81",
+      "status": "supported"
+    },
+    "0xdb9e8f82d6d45fff803161f2a5f75543972b229a": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 18,
+        "name": "Quill USDQ",
+        "address": "0xdb9e8f82d6d45fff803161f2a5f75543972b229a",
+        "symbol": "USDQ",
+        "logoURI": "https://assets.coingecko.com/coins/images/66132/thumb/image_%289%29.png?1748439949",
+        "assetGroup": "Quill USDQ::USDQ",
+        "currencyId": "Quill USDQ::USDQ"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Quill USD Stablecoin",
+      "domainSeparator": "0xc1773221da386b4215a93ba693fde8c6595fc5b9d1aae1b70eff29b64a818250",
+      "status": "supported"
+    },
+    "0x608ef9a3bffe206b86c3108218003b3cfbf99c84": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 18,
+        "name": "Kyber Network Crystal v2",
+        "address": "0x608ef9a3bffe206b86c3108218003b3cfbf99c84",
+        "symbol": "KNC",
+        "logoURI": "https://static.debank.com/image/mnt_token/logo_url/0xb448ec505c924944ca8b2c55ef05c299ee0781df/babb08402e4eb7819d92673b3e694d68.png",
+        "assetGroup": "KNC",
+        "currencyId": "Kyber Network Crystal v2::KNC"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Kyber Network Crystal v2",
+      "domainSeparator": "0x748834d5891a5b5b8631305c169ad48f91728c0a0a575a39bf3812edee180143",
+      "status": "supported"
+    },
+    "0x1d738a3436a8c49ceffbab7fbf04b660fb528cbd": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 6,
+        "name": "Aave Scroll USDC",
+        "address": "0x1d738a3436a8c49ceffbab7fbf04b660fb528cbd",
+        "symbol": "aScrUSDC",
+        "assetGroup": "Aave Scroll USDC::aScrUSDC",
+        "currencyId": "Aave Scroll USDC::aScrUSDC"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Aave Scroll USDC",
+      "domainSeparator": "0x7a100afa1f65fe1c906f7e37937116c0da9cff4c7f25302c861392ad200874e9",
+      "status": "supported"
+    },
+    "0xf301805be1df81102c957f6d4ce29d2b8c056b2a": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 18,
+        "name": "Aave Scroll WETH",
+        "address": "0xf301805be1df81102c957f6d4ce29d2b8c056b2a",
+        "symbol": "aScrWETH",
+        "assetGroup": "Aave Scroll WETH::aScrWETH",
+        "currencyId": "Aave Scroll WETH::aScrWETH"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Aave Scroll WETH",
+      "domainSeparator": "0x5a503b96eba64dfadad3844443cae856a397bd8e2128fe9b029715774f6ea113",
+      "status": "supported"
+    },
+    "0x5b1322eeb46240b02e20062b8f0f9908d525b09c": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 18,
+        "name": "Aave Scroll wstETH",
+        "address": "0x5b1322eeb46240b02e20062b8f0f9908d525b09c",
+        "symbol": "aScrwstETH",
+        "assetGroup": "Aave Scroll wstETH::aScrwstETH",
+        "currencyId": "Aave Scroll wstETH::aScrwstETH"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Aave Scroll wstETH",
+      "domainSeparator": "0xcdda080895ffe37342c9e61e1b473bfba62964e093d39bb36611bdb442c1b716",
+      "status": "supported"
+    },
+    "0x434cda25e8a2ca5d9c1c449a8cb6bcbf719233e8": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 18,
+        "name": "Uniswap",
+        "address": "0x434cda25e8a2ca5d9c1c449a8cb6bcbf719233e8",
+        "symbol": "UNI",
+        "logoURI": "https://static.debank.com/image/hmy_token/logo_url/0x90d81749da8867962c760414c1c25ec926e889b6/7ae820078682b6eb89b6279ef81dd2e9.png",
+        "assetGroup": "UNI",
+        "currencyId": "Uniswap::UNI"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Uniswap",
+      "domainSeparator": "0x976079b1bb11adcf8932b9f3b4192082fc82b17e257ab8d9b6fd2eaa0583b9ed",
+      "status": "supported"
+    },
+    "0x53878b874283351d26d206fa512aece1bef6c0dd": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 18,
+        "name": "Rocket Pool ETH",
+        "address": "0x53878b874283351d26d206fa512aece1bef6c0dd",
+        "symbol": "rETH",
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xae78736cd615f374d3085123a210448e74fc6393/0a56aa87c04449332f88702b2bd5f45c.png",
+        "assetGroup": "RETH",
+        "currencyId": "Rocket Pool ETH::rETH"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Rocket Pool ETH",
+      "domainSeparator": "0xd9112694a20ddbbee68b1ed3deb8f6895e31911a2a6ec4dda567d489d2596a8b",
+      "status": "supported"
+    },
+    "0x41b94c5867f7f6217c9a30520cb3e793b1ee1b97": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 6,
+        "name": "Axelar Wrapped TIA",
+        "address": "0x41b94c5867f7f6217c9a30520cb3e793b1ee1b97",
+        "symbol": "axlTIA",
+        "logoURI": "https://static.debank.com/image/bsc_token/logo_url/0x420eeed09cbc6e8416decd28857ff3c7d991fc46/82e5d9441cacdfa6c773db0b3929c45c.png",
+        "assetGroup": "Axelar Wrapped TIA::axlTIA",
+        "currencyId": "Axelar Wrapped TIA::axlTIA"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Axelar Wrapped TIA",
+      "domainSeparator": "0x08640ac924f436741759357e077485f50ccf684e41d743414182b92b122d2ace",
+      "status": "supported"
+    },
+    "0x6a28e90582c583fcd3347931c544819c31e9d0e0": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 18,
+        "name": "Balancer",
+        "address": "0x6a28e90582c583fcd3347931c544819c31e9d0e0",
+        "symbol": "BAL",
+        "logoURI": "https://static.debank.com/image/project/logo_url/balancer2/4318f98916b139a44996fc06531e9074.png",
+        "assetGroup": "BAL",
+        "currencyId": "Balancer::BAL"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Balancer",
+      "domainSeparator": "0x4c0898ac13da364aabf91899f4cbe0c565f8668d83cce6eeb8e3bff55cc0de9a",
+      "status": "supported"
+    },
+    "0xd80a5e16dbdc52bd1c947cedfa22c562be9129c8": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 18,
+        "name": "Aave Scroll weETH",
+        "address": "0xd80a5e16dbdc52bd1c947cedfa22c562be9129c8",
+        "symbol": "aScrweETH",
+        "assetGroup": "Aave Scroll weETH::aScrweETH",
+        "currencyId": "Aave Scroll weETH::aScrweETH"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Aave Scroll weETH",
+      "domainSeparator": "0x5dc8efaa504ef04da317b7c10af6902544b6a074da521eae682f9bdad6a2d42a",
+      "status": "supported"
+    },
+    "0xb9ca61a6d5fa0c443f3c48ab1fbf0118964308d6": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 18,
+        "name": "Mitosis weETH",
+        "address": "0xb9ca61a6d5fa0c443f3c48ab1fbf0118964308d6",
+        "symbol": "miweETH",
+        "assetGroup": "Mitosis weETH::miweETH",
+        "currencyId": "Mitosis weETH::miweETH"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Mitosis weETH",
+      "domainSeparator": "0x7c0c6f0e80bfc5aa6bea8c39a2a56919da7996bac5c0cbca9be8bf073b8aa972",
+      "status": "supported"
+    },
+    "0xedeabc3a1e7d21fe835ffa6f83a710c70bb1a051": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 18,
+        "name": "LUSD Stablecoin",
+        "address": "0xedeabc3a1e7d21fe835ffa6f83a710c70bb1a051",
+        "symbol": "LUSD",
+        "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x93b346b6bc2548da6a1e7d98e9a421b42541425b/2fee99025e9128162b4869bf7ffc6036.png",
+        "assetGroup": "LUSD Stablecoin::LUSD",
+        "currencyId": "LUSD Stablecoin::LUSD"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "LUSD Stablecoin",
+      "domainSeparator": "0x1bcb698db0c61c9f5ebe16bf65455a4e399ed1700a0b77d569f70e103bbd5ac5",
+      "status": "supported"
+    },
+    "0x25718130c2a8eb94e2e1fafb5f1cdd4b459acf64": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 18,
+        "name": "Aave Scroll SCR",
+        "address": "0x25718130c2a8eb94e2e1fafb5f1cdd4b459acf64",
+        "symbol": "aScrSCR",
+        "assetGroup": "Aave Scroll SCR::aScrSCR",
+        "currencyId": "Aave Scroll SCR::aScrSCR"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Aave Scroll SCR",
+      "domainSeparator": "0x1ccb8f73e2f7c9d639642a2e8aeaeefecb029ed2e0d59145cf8cc45c87f10623",
+      "status": "supported"
+    },
+    "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 6,
+        "name": "Axelar",
+        "address": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f",
+        "symbol": "AXL",
+        "logoURI": "https://assets.coingecko.com/coins/images/27277/large/V-65_xQ1_400x400.jpeg",
+        "assetGroup": "AXL",
+        "currencyId": "Axelar::AXL"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Axelar",
+      "domainSeparator": "0xffc19b61e89b808ae79fce70dbcb92a486d5ba26f25223d304c27ef37759dc2f",
+      "status": "supported"
+    },
+    "0xc4d46e8402f476f269c379677c99f18e22ea030e": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 18,
+        "name": "PufferVault",
+        "address": "0xc4d46e8402f476f269c379677c99f18e22ea030e",
+        "symbol": "PufETH",
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xd9a442856c234a39a81a089c06451ebaa4306a72/d57c0830dcc41d8830c6be5b079b2e6d.png",
+        "assetGroup": "PufferVault::PufETH",
+        "currencyId": "PufferVault::PufETH"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "PufferVault",
+      "domainSeparator": "0x60d79f8741ff7efc02c7cf24cdfb0dd7c5ebd6ccbc0005c0cfdde072a5061e0b",
+      "status": "supported"
+    },
+    "0x657e8c867d8b37dcc18fa4caead9c45eb088c642": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 8,
+        "name": "ether.fi BTC",
+        "address": "0x657e8c867d8b37dcc18fa4caead9c45eb088c642",
+        "symbol": "eBTC",
+        "logoURI": "https://static.debank.com/image/scrl_token/logo_url/0x657e8c867d8b37dcc18fa4caead9c45eb088c642/71bde2eda82ede34c1cc72b32213948c.png",
+        "assetGroup": "ether.fi BTC::eBTC",
+        "currencyId": "ether.fi BTC::eBTC"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "ether.fi BTC",
+      "domainSeparator": "0x5cab8e0aaa712b02594c2960f9658fd48756ff88305bc8b5908369de9dc5cbc0",
+      "status": "supported"
+    },
+    "0xb448ec505c924944ca8b2c55ef05c299ee0781df": {
+      "token": {
+        "chainId": "534352",
+        "decimals": 18,
+        "name": "Axelar Wrapped KNC",
+        "address": "0xb448ec505c924944ca8b2c55ef05c299ee0781df",
+        "symbol": "KNC",
+        "logoURI": "https://static.debank.com/image/eth_token/logo_url/0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202/1d25e188deb06e642ea6f4f4f8eb0a0c.png",
+        "assetGroup": "Axelar Wrapped KNC::KNC",
+        "currencyId": "Axelar Wrapped KNC::KNC"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Axelar Wrapped KNC",
+      "domainSeparator": "0xdf1e7221e76dca47badd23a705e8958398d96f7e35cc79473f11cae3e98d179a",
+      "status": "supported"
+    }
+  },
+  "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
+    "0xc0e49f8c615d3d4c245970f6dc528e4a47d69a44",
+    "0x5300000000000000000000000000000000000004",
+    "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4",
+    "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
+    "0x3c1bca5a656e69edcd0d4e36bebb3fcdaca60cf1",
+    "0xecc68d0451e20292406967fe7c04280e5238ac7d",
+    "0xeb466342c4d449bc9f53a865d5cb90586f405215",
+    "0x0fc479e2f9b7310bfb1db606cf565dea6910eedc",
+    "0xf610a9dfb7c89644979b4a0f27063e9e7d7cda32",
+    "0x2147a89fb4608752807216d5070471c09a0dce32",
+    "0xdd6a49995ad38fe7409b5d5cb5539261bd1bc901",
+    "0x65421ba909200b81640d98b979d07487c9781b66",
+    "0x330c43d22bd65a60ffea93a197f04e87faa27b70",
+    "0xd29687c813d741e2f938f4ac377128810e217b1b",
+    "0x750351a9f75f98f2c2e91d4edb3beb14e719557e",
+    "0x406cde76a3fd20e48bc1e0f60651e60ae204b040",
+    "0xca77eb3fefe3725dc33bccb54edefc3d9f764f97",
+    "0xfec65bfb6e5bbcc9ab8ae98f62a8aab2ea51c495",
+    "0xdb9e8f82d6d45fff803161f2a5f75543972b229a",
+    "0x61a9cc561b6c1f9c31bcdeb447afecf25f33bbf9"
+  ]
+}

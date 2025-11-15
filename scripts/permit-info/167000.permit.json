@@ -1,0 +1,145 @@
+{
+  "chainId": "167000",
+  "version": "0",
+  "list": {
+    "0xa9d23408b9ba935c230493c40c73824df71a0975": {
+      "token": {
+        "chainId": "167000",
+        "decimals": 18,
+        "name": "Taiko Token",
+        "address": "0xa9d23408b9ba935c230493c40c73824df71a0975",
+        "symbol": "TAIKO",
+        "logoURI": "https://assets.coingecko.com/coins/images/38058/standard/taiko.jpeg",
+        "assetGroup": "TAIKO",
+        "currencyId": "Taiko Token::TAIKO",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Taiko Token",
+      "domainSeparator": "0xc7bcbcbe3d5c803a41dbd95e3f1b865bd2f4353687ea838ab026d56fb71e174d",
+      "status": "supported"
+    },
+    "0x756b6574b3162077a630895995b443aa68cd2015": {
+      "token": {
+        "chainId": "167000",
+        "decimals": 18,
+        "name": "Wrapped eETH",
+        "address": "0x756b6574b3162077a630895995b443aa68cd2015",
+        "symbol": "weETH",
+        "logoURI": "https://assets.coingecko.com/coins/images/33033/thumb/weETH.png?1701438396",
+        "assetGroup": "WEETH",
+        "currencyId": "Wrapped eETH::weETH"
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Wrapped eETH",
+      "domainSeparator": "0xa5f711c002b9dbc2a3eac80c9823a3b7e6047efd9029e568f9154a26dae3b512",
+      "status": "supported"
+    },
+    "0x5217c8f3b7fb8b6501c8ff2a4c09b14b4b08c9f9": {
+      "token": {
+        "chainId": "167000",
+        "decimals": 18,
+        "name": "Affine ultraETHs 2.0",
+        "address": "0x5217c8f3b7fb8b6501c8ff2a4c09b14b4b08c9f9",
+        "symbol": "ultraETHs",
+        "logoURI": "https://izumi-finance.oss-ap-southeast-1.aliyuncs.com/tokens/ultraeths.png",
+        "assetGroup": "Affine ultraETHs 2.0::ultraETHs",
+        "currencyId": "Affine ultraETHs 2.0::ultraETHs",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Affine ultraETHs 2.0",
+      "domainSeparator": "0x0a1a19c9515f7d8aa46c177b1bea0f9d61a7d2d5f8ad48481f82671f90a42b6d",
+      "status": "supported"
+    },
+    "0xc8f4518ed4bab9a972808a493107926ce8237068": {
+      "token": {
+        "chainId": "167000",
+        "decimals": 18,
+        "name": "Curve.Fi USD Stablecoin",
+        "address": "0xc8f4518ed4bab9a972808a493107926ce8237068",
+        "symbol": "crvUSD",
+        "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/crvUSD.webp",
+        "assetGroup": "CRVUSD",
+        "currencyId": "Curve.Fi USD Stablecoin::crvUSD",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Curve.Fi USD Stablecoin",
+      "domainSeparator": "0x9c963dab7d0c65f94a570c0840a3c8cd77fe425d208e2b8883f9c0042c1b9377",
+      "status": "supported"
+    },
+    "0x09413312b263fd252c16e592a45f4689f26cb79d": {
+      "token": {
+        "chainId": "167000",
+        "decimals": 18,
+        "name": "Curve DAO Token",
+        "address": "0x09413312b263fd252c16e592a45f4689f26cb79d",
+        "symbol": "CRV",
+        "logoURI": "https://raw.githubusercontent.com/1delta-DAO/asset-icons/main/CRV.webp",
+        "assetGroup": "CRV",
+        "currencyId": "Curve DAO Token::CRV",
+        "props": {
+          "permit": {
+            "type": 1,
+            "version": "1"
+          }
+        }
+      },
+      "type": "EIP2612",
+      "version": "1",
+      "name": "Curve DAO Token",
+      "domainSeparator": "0x0c99dd6064dfe5333ffdfca670c14f391af1700e5a098e6c5aab4e4657d03097",
+      "status": "supported"
+    }
+  },
+  "mainTokens": [
+    "0x0000000000000000000000000000000000000000",
+    "0xa51894664a773981c6c112c43ce576f315d5b1b6",
+    "0xa9d23408b9ba935c230493c40c73824df71a0975",
+    "0x93919784c523f39cacaa98ee0a9d96c3f32b593e",
+    "0x6a9a65b84843f5fd4ac9a0471c4fc11afffbce4a",
+    "0xc8f4518ed4bab9a972808a493107926ce8237068",
+    "0x09413312b263fd252c16e592a45f4689f26cb79d",
+    "0x07d83526730c7438048d55a4fc0b850e2aab6f0b",
+    "0x756b6574b3162077a630895995b443aa68cd2015",
+    "0xe3c0ff176ef92fc225096c6d1788ccb818808b35",
+    "0xf6718b2701d4a6498ef77d7c152b2137ab28b8a3",
+    "0xc4c410459fbaf8f7f86b6cee52b4fa1282ff9704",
+    "0x19e26b0638bf63aa9fa4d14c6baf8d52ebe86c5c",
+    "0x2def195713cf4a606b49d07e520e22c17899a736",
+    "0xe9ca67e5051e1806546d0a06ee465221c5877fee",
+    "0x7e91f29f8a213c8311712a8fc8c61219fb9477cb",
+    "0x473c58b748156d3249ca31baa3cad9781eb6d97e",
+    "0xff12470a969dd362eb6595ffb44c82c959fe9acc",
+    "0x5d5c8aec46661f029a5136a4411c73647a5714a7",
+    "0xf7fb2df9280eb0a76427dc3b34761db8b1441a49",
+    "0x36bfe1f1b36cfdb4fe75cc592ff5dc6200ad3e0f",
+    "0x2d9e1da77f086c50f93db46e554974b71536a9ee",
+    "0x5217c8f3b7fb8b6501c8ff2a4c09b14b4b08c9f9",
+    "0xa2fba3fde6c9e7386716b577e1258577cb9b5bf7",
+    "0x541fd749419ca806a8bc7da8ac23d346f2df8b77",
+    "0xda9a0fbce1b8b11fcbd8114354ec266594c0ff5a",
+    "0xcc0966d8418d412c599a6421b760a847eb169a8c",
+    "0x9c2dc7377717603eb92b2655c5f2e7997a4945bd"
+  ]
+}
