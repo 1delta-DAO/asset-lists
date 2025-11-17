@@ -1,57 +1,78 @@
 name: Auto generate token maps
 
 on:
-  workflow_dispatch:   # manual run
-  schedule:
-    - cron: "0 2 * * *" # optional nightly job
+    workflow_dispatch: # manual run
+    schedule:
+        - cron: "0 2 * * *" # optional nightly job
 
 permissions:
-  contents: write       # allow pushing a branch
-  pull-requests: write  # allow creating a PR
+    contents: write # allow pushing a branch
+    pull-requests: write # allow creating a PR
 
 jobs:
-  generate:
-    runs-on: ubuntu-latest
+    generate:
+        runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0  # required to push & create PR branches
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+              with:
+                  fetch-depth: 0
+                  token: ${{ secrets.GH_PAT }}
+                  ref: main
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: "20"
-          cache: "npm"
-          cache-dependency-path: "scripts/package-lock.json"
+            - name: Setup Node
+              uses: actions/setup-node@v4
+              with:
+                  node-version: "20"
+                  cache: "npm"
+                  cache-dependency-path: "scripts/package-lock.json"
 
-      - name: Install dependencies
-        working-directory: scripts
-        run: npm ci
+            - name: Install dependencies
+              working-directory: scripts
+              run: npm ci
 
-      - name: Run generate (generate + format)
-        working-directory: scripts
-        run: npm run generate:formatted
-        # your "generate" script already:
-        # tsx generateTokenMap.script.ts && npx prettier .. -w --ignore-path .prettierignore
+            - name: Run generate (generate + format)
+              working-directory: scripts
+              run: npm run generate:formatted
 
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v7
-        with:
-          commit-message: "chore: auto-generate token maps"
-          title: "chore: auto-generate token maps"
-          body: |
-            This PR was automatically generated.
+            - name: Compute branch name
+              id: vars
+              run: echo "BRANCH_NAME=ci/auto-generate-token-maps-$(date +'%Y%m%d%H%M')" >> $GITHUB_ENV
 
-            Commands run:
-            - npm run generate:formatted (includes formatting)
-          branch: "ci/auto-generate-token-maps"
-          branch-suffix: "timestamp"
-          base: "main"
-          labels: |
-            bot
-            auto-update
-          add-paths: |
-            *.json
-            scripts/**
+            - name: Commit & push if changed
+              id: commit
+              env:
+                  BRANCH_NAME: ${{ env.BRANCH_NAME }}
+              run: |
+                  if [[ -n "$(git status --porcelain)" ]]; then
+                    git config user.name "github-actions[bot]"
+                    git config user.email "github-actions[bot]@users.noreply.github.com"
+
+                    git checkout main
+                    git pull origin main
+                    git checkout -b "$BRANCH_NAME"
+                    git add *.json scripts/**
+                    git commit -m "chore: auto-generate token maps [skip ci]"
+                    git push origin "$BRANCH_NAME"
+                    echo "Pushed branch: $BRANCH_NAME"
+                    echo "has_changes=true" >> $GITHUB_OUTPUT
+                  else
+                    echo "No changes."
+                    echo "has_changes=false" >> $GITHUB_OUTPUT
+                  fi
+
+            - name: Create Pull Request
+              if: steps.commit.outputs.has_changes == 'true'
+              env:
+                  GH_TOKEN: ${{ secrets.GH_PAT }}
+                  BRANCH_NAME: ${{ env.BRANCH_NAME }}
+              run: |
+                  gh pr create \
+                    --title "chore: auto-generate token maps" \
+                    --body "This PR was automatically generated.
+
+                  Commands run:
+                  - npm run generate:formatted (includes formatting)" \
+                    --base main \
+                    --head "$BRANCH_NAME"
